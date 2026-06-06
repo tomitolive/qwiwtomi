@@ -51159,5 +51159,75 @@
     ],
     "timestamp": 1780786306,
     "fixed": true
+  },
+  {
+    "title": "Mi socio / My Partner",
+    "title_ar": "Mi socio",
+    "title_en": "My Partner",
+    "slug": "455502-my-partner",
+    "folder": "movie",
+    "poster": "/t/p/w500/cthChsUtOliCjo26soJzFHwLVTZ.jpg",
+    "rating": 8.9,
+    "year": "1982",
+    "type": "movie",
+    "tmdb_id": 455502,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780786635,
+    "fixed": true
+  },
+  {
+    "title": "Star City / Star City",
+    "title_ar": "Star City",
+    "title_en": "Star City",
+    "slug": "252107-star-city",
+    "folder": "tv",
+    "poster": "/t/p/w500/jjJZyBCDgyYylGdtctuqEYcO7Lc.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 252107,
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حرب وسياسة"
+    ],
+    "timestamp": 1780786715,
+    "fixed": true
+  },
+  {
+    "title": "Century of Love / Century of Love",
+    "title_ar": "Century of Love",
+    "title_en": "Century of Love",
+    "slug": "253296-century-of-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/A6jHAGINcgdeyC8Nmwpa18Ws8U8.jpg",
+    "rating": 9.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 253296,
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1780786731,
+    "fixed": true
   }
 ]
