@@ -2017,6 +2017,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/753230-the-three-deaths-of-marisela-escobedo</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gYO7mmLti4XtIszP6C7Uc7OQnOc.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/754-faceoff</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
