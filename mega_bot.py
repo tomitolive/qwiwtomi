@@ -7,6 +7,10 @@ import logging
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Logging setup
+logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
+log = logging.getLogger(__name__)
+
 # Load local slugs for priority linking
 LOCAL_INDEX = []
 LOCAL_SLUGS = set()
@@ -69,8 +73,6 @@ BUTTON_DOMAIN = "https://tv.tomito.xyz"
 
 # --- Global Content Index Cache ---
 _AVAILABLE_IDS = None
-logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
-log = logging.getLogger(__name__)
 
 def get_available_ids():
     global _AVAILABLE_IDS
