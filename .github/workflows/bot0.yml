@@ -38,13 +38,16 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 run_bot_with_mixed_content.py
 
+      - name: Download missing poster images
+        run: python3 download_all_images.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "bot0@tomito.xyz"
           git config --local user.name "Tomito Bot0"
           
-          # Add all JSON items inside data/ AND any sitemap files in the root
-          git add data/content/ data/content_index.json sitemap*.xml || true
+          # Add all JSON items inside data/, sitemap files, and poster images
+          git add data/content/ data/content_index.json sitemap*.xml public/t/p/ || true
           
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
