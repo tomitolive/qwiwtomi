@@ -32,6 +32,24 @@ log = logging.getLogger(__name__)
 # Global state
 _current_model_idx = 0
 
+def clean_arabic_text(text):
+    """Remove non-Arabic characters from Arabic text fields."""
+    if not text:
+        return text
+    # Keep Arabic letters, numbers, and basic punctuation
+    # Remove English letters and other non-Arabic characters
+    cleaned = re.sub(r'[a-zA-Z]', '', text)
+    return cleaned.strip()
+
+def clean_english_text(text):
+    """Remove non-English characters from English text fields."""
+    if not text:
+        return text
+    # Keep English letters, numbers, and basic punctuation
+    # Remove Arabic letters and other non-English characters
+    cleaned = re.sub(r'[\u0600-\u06FF]', '', text)
+    return cleaned.strip()
+
 # Bot missions for content generation
 BOT_MISSIONS = [
     {
@@ -383,27 +401,51 @@ CRITICAL: Complete the entire JSON. Do not cut off mid-sentence. Ensure all fiel
             trending_kw_str = ", ".join(trending_keywords[:5])
             data['keywords'] = f"{base_keywords}, {trending_kw_str}"
         
-        # Ensure all required fields exist
+        # Ensure all required fields exist and clean them
         if not data.get('desc_ar'):
             data['desc_ar'] = overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية."
+        data['desc_ar'] = clean_arabic_text(data['desc_ar'])
+
         if not data.get('desc_en'):
             data['desc_en'] = overview_en or f"Enjoy watching {title_en} in high quality."
+        data['desc_en'] = clean_english_text(data['desc_en'])
+
         if not data.get('meta_desc'):
             data['meta_desc'] = f"مشاهدة {title_ar} مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة."[:155]
+        data['meta_desc'] = clean_arabic_text(data['meta_desc'])
+
         if not data.get('seo_title_ar'):
             data['seo_title_ar'] = f"مشاهدة {media_label_ar} {title_en} مترجم - توميتو"
+        data['seo_title_ar'] = clean_arabic_text(data['seo_title_ar'])
+
         if not data.get('opinion_ar'):
             data['opinion_ar'] = f"عمل {media_label_ar} مذهل يستحق المتابعة والاستكشاف."
+        data['opinion_ar'] = clean_arabic_text(data['opinion_ar'])
+
         if not data.get('opinion_en'):
             data['opinion_en'] = f"A stunning {media_label_ar} worth watching and exploring."
+        data['opinion_en'] = clean_english_text(data['opinion_en'])
+
         if not data.get('faq'):
             data['faq'] = [
                 {"q": f"كيف يمكنني مشاهدة {media_label_ar} {title_ar}?", "a": f"يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.", "q_en": f"How can I watch {title_en}?", "a_en": f"You can watch it fully translated in high quality directly on the Tomito website."},
                 {"q": f"ما هو تصنيف {media_label_ar} {title_ar}?", "a": f"يندرج العمل تحت تصنيف {genres_str}.", "q_en": f"What is the genre of {title_en}?", "a_en": f"It falls under the genre of {genres_str}."},
                 {"q": f"ما هي قصة {media_label_ar} {title_ar}?", "a": overview_ar[:200] + "..." if len(overview_ar) > 200 else overview_ar, "q_en": f"What is the story of {title_en}?", "a_en": overview_en[:200] + "..." if len(overview_en) > 200 else overview_en}
             ]
+        # Clean FAQ fields
+        for faq_item in data['faq']:
+            if 'q' in faq_item:
+                faq_item['q'] = clean_arabic_text(faq_item['q'])
+            if 'a' in faq_item:
+                faq_item['a'] = clean_arabic_text(faq_item['a'])
+            if 'q_en' in faq_item:
+                faq_item['q_en'] = clean_english_text(faq_item['q_en'])
+            if 'a_en' in faq_item:
+                faq_item['a_en'] = clean_english_text(faq_item['a_en'])
+
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
+        data['keywords'] = clean_arabic_text(data['keywords'])
         
         log.info(f"✅ Successfully generated content for {title_ar} using {model_used}")
         return data
