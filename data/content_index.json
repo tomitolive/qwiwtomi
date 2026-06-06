@@ -51001,28 +51001,6 @@
     "fixed": true
   },
   {
-    "title": "Mi socio / My Partner",
-    "title_ar": "Mi socio",
-    "title_en": "My Partner",
-    "slug": "455502-my-partner",
-    "folder": "movie",
-    "poster": "/t/p/w500/cthChsUtOliCjo26soJzFHwLVTZ.jpg",
-    "rating": 8.9,
-    "year": "1982",
-    "type": "movie",
-    "tmdb_id": 455502,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1780774817,
-    "fixed": true
-  },
-  {
     "title": "Among Us / Among Us",
     "title_ar": "Among Us",
     "title_en": "Among Us",
