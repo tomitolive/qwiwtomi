@@ -1,0 +1,59 @@
+{
+  "id": 10283,
+  "title": "Archer",
+  "title_ar": "Archer",
+  "title_en": "Archer",
+  "slug": "10283-archer",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+  "backdrop_path": "/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
+  "release_date": "2009-09-17",
+  "vote_average": 8,
+  "vote_count": 1418,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم الرسوم المتحركة، يلتقينا بآرشر، الagent الذي يملك كل ما يلزم ليكون من أشهر agents في العالم. مع وظيفته في شركة إس إم إيه، يتعامل مع المissions والmissions المتنوعة، ولكن ما يحدث عندما يتعامل مع المissions الشخصية؟",
+    "desc_en": "In the world of animated series, we meet Archer, the agent who has everything needed to be one of the most famous agents in the world. With his job at the International Secret Intelligence Service (ISIS), he deals with various missions, but what happens when he deals with personal missions?",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Archer - توميتو",
+    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم حركة ومغامرة, أحداث Archer بالتفصيل, Archer مترجم كامل, مشاهدة Archer 2009, توميتو Archer, قصة مسلسل Archer",
+    "seo_title_ar": "مشاهدة فيلم Archer مترجم اون لاين - توميتو",
+    "opinion": "هو فيلم كوميديا رائعة، مليء بالفكاهة والفكاهة، ولكنها أيضاً مليئة بالدrama والشعور بالذات",
+    "faq": [
+      {
+        "q": "ما هو Archer؟",
+        "a": "هو سلسلة رسوم متحركة كوميديا حركة ومغامرة"
+      },
+      {
+        "q": "ما هو قصة Archer؟",
+        "a": "يتابع agent Archer missions الشخصية والmissions المتنوعة"
+      },
+      {
+        "q": "ما هو أفضل ما في Archer؟",
+        "a": "هو комيديا رائعة والفكاهة والفكاهة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "2009-09-17",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "100 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Jensen Daggett Sharlene Martin Scott Reeves Tiffany Paulsen Alex Diakun"
+}

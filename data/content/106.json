@@ -1,0 +1,55 @@
+{
+  "id": 106,
+  "title": "The Andy Griffith Show",
+  "title_ar": "The Andy Griffith Show",
+  "title_en": "The Andy Griffith Show",
+  "slug": "106-the-andy-griffith-show",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/3KvTKLH40z5zDMilg2lXqmOUrRy.jpg",
+  "backdrop_path": "/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",
+  "release_date": "1960-10-03",
+  "vote_average": 7.6,
+  "vote_count": 166,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم القانون، يتعامل المحامي الشاب اندي غريفيث مع قضايا مختلفة، من القضايا الشخصية إلى القضايا القانونية، مع فريق من الأصدقاء والشخصيات المتنوعة الذين يلعبون دوراً رئيسياً في حياته، في هذه السلسلة الكوميدية العائليّة التي تتعامل مع الأحداث اليومية في بلدة صغيرة في أمريكا.",
+    "desc_en": "In the world of law, young lawyer Andy Griffith deals with different cases, from personal to legal, with a team of diverse friends and characters who play a major role in his life, in this family comedy series that deals with daily events in a small town in America.",
+    "meta_desc": "مشاهدة فيلم كوميدي عائلي - توميتو",
+    "keywords": "فيلم كوميدي عائلي, مشاهدة فيلم كوميدي, The Andy Griffith Show مترجم, أحداث The Andy Griffith Show بالتفصيل, توميتو The Andy Griffith Show, مشاهدة The Andy Griffith Show 1960, The Andy Griffith Show مترجم كامل, قصة مسلسل The Andy Griffith Show",
+    "seo_title_ar": "مشاهدة فيلم The Andy Griffith Show مترجم اون لاين - توميتو",
+    "opinion": "هذه السلسلة الكوميدية العائليّة هي واحدة من أفضل ما يمكن أن يشاهدها أي شخص، مع شخصياتها المتنوعة والقصص اليومية التي تتعامل معها، ستجعلك ت웃ي كثيراً!",
+    "faq": [
+      {
+        "q": "ما هو نوع هذا الفيلم؟",
+        "a": "هو فيلم كوميدي عائلي"
+      },
+      {
+        "q": "ما هو موضوع هذا الفيلم؟",
+        "a": "يحكي قصة المحامي الشاب اندي غريفيث والقضايا التي يتعامل معها"
+      },
+      {
+        "q": "ما هو نوع الميديا؟",
+        "a": "هو تلفزيون"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1960-10-03",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "107 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Arnold Schwarzenegger Carl Weathers Kevin Peter Hall Elpidia Carrillo Bill Duke"
+}

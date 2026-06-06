@@ -1,0 +1,55 @@
+# GitHub Actions Workflow `bot0`
+# Runs the mixed content bot (1 trending, 1 random per region) automatically.
+
+name: bot0 - Mixed Content Bot
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # Every 12 hours (Midnight and Noon UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Need full history to push
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || pip install requests pytrends google-auth requests-oauthlib
+
+      - name: Create Google Indexer Credential File
+        run: |
+          echo '${{ secrets.GCP_INDEXING_KEY }}' > mythical-module-493722-n6-e2da3325c496.json
+
+      - name: Run Mixed Content Bot
+        env:
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 run_bot_with_mixed_content.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "bot0@tomito.xyz"
+          git config --local user.name "Tomito Bot0"
+          
+          # Add all JSON items inside data/ AND any sitemap files in the root
+          git add data/content/ data/content_index.json sitemap*.xml || true
+          
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "bot0: generate new mixed content and update sitemap"
+            git push
+          fi

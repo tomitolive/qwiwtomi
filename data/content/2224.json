@@ -1,0 +1,55 @@
+{
+  "id": 2224,
+  "title": "The Daily Show",
+  "title_ar": "The Daily Show",
+  "title_en": "The Daily Show",
+  "slug": "2224-the-daily-show",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+  "backdrop_path": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+  "release_date": "1996-07-22",
+  "vote_average": 6.4,
+  "vote_count": 631,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "أخبار"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في برنامج «الديلي شو»، يلقي المضيف الرئيسي جون ستewart مناقشة الأحداث اليومية مع نجمين من الشهرة، حيث يتعرفون على الأحداث الجارية في العالم ويتناقشونها مع زملائهم في البرنامج، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون.",
+    "desc_en": "In the show 'The Daily Show', the main host John Stewart discusses current events with two celebrities, where they learn about the ongoing events in the world and discuss them with their colleagues, making the show one of the most prominent in television.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في برنامج «الديلي شو»!",
+    "seo_title_ar": "مشاهدة برنامج «الديلي شو» مترجم اون لاين - توميتو",
+    "keywords": "برنامج أخبار كوميديا, مشاهدة برنامج كوميديا مترجم, أحداث The Daily Show بالتفصيل, توميتو The Daily Show, The Daily Show مترجم كامل, مشاهدة The Daily Show 1996, قصة مسلسل The Daily Show",
+    "opinion": "برنامج «الديلي شو» هو برنامج كوميديا رائع يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون.",
+    "faq": [
+      {
+        "q": "ما هو برنامج «الديلي شو»؟",
+        "a": "برنامج كوميديا يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة."
+      },
+      {
+        "q": "ما هو نوع البرنامج؟",
+        "a": "برنامج تلفزيوني"
+      },
+      {
+        "q": "ما هي أهمية البرنامج؟",
+        "a": "برنامج رائع يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون."
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1996-07-22",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "99 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "-"
+}

@@ -1,0 +1,300 @@
+/* --- Shared Section Division --- */
+.page-division {
+  padding: 4rem 2%;
+  margin-bottom: 3rem;
+  border-top: 1px solid var(--glass-border);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.01) 0%, transparent 100%);
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.page-division:nth-child(even) {
+  background: linear-gradient(180deg, rgba(222, 103, 24, 0.02) 0%, transparent 100%);
+}
+
+.division-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 2.5rem;
+}
+
+.division-header .line {
+  width: 6px;
+  height: 2rem;
+  background: var(--primary);
+  border-radius: 4px;
+  box-shadow: 0 0 20px var(--primary-glow);
+}
+
+.division-header .line.youtube {
+  background: #ff0000;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+}
+
+.division-header h2 {
+  font-size: 2.2rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+/* --- YouTube-Inspired Trailer Section --- */
+.v7-trailer,
+.trailer-section {
+  padding: 4rem 5%;
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.03), transparent 400px);
+  border-top: 1px solid rgba(255, 0, 0, 0.1);
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 30px rgba(255, 0, 0, 0.15);
+  aspect-ratio: 16 / 9;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.video-container iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-info {
+  max-width: 1100px;
+  margin: 1.5rem auto 0;
+  padding: 0 0.5rem;
+}
+
+.video-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--pure-white);
+  margin-bottom: 0.5rem;
+}
+
+.video-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--text-light);
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--glass-border);
+  padding-bottom: 1rem;
+}
+
+.youtube-badge {
+  background: var(--youtube-red);
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+/* --- FAQ Section --- */
+.v7-faq,
+.faq-section {
+  padding: 3rem 5% 6rem;
+}
+
+.faq-item {
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  margin-bottom: 1rem;
+  overflow: hidden;
+  transition: var(--transition);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.faq-item:hover {
+  border-color: var(--primary-glow);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.faq-question {
+  padding: 1.2rem 1.5rem;
+  font-weight: 800;
+  color: var(--pure-white);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.faq-question::before {
+  content: '؟';
+  color: var(--primary);
+  font-weight: 900;
+}
+
+.faq-answer {
+  padding: 0 1.5rem 1.2rem;
+  color: var(--text-light);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  display: block;
+}
+
+/* Accordion: add .faq-collapsible on container + toggle .active via JS */
+.faq-collapsible .faq-item:not(.active) .faq-answer {
+  display: none;
+}
+
+.faq-collapsible .faq-item.active .faq-answer {
+  display: block;
+}
+
+/* --- Technical Table --- */
+.v7-tech,
+.tech-section {
+  padding: 3rem 5%;
+}
+
+.tech-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.tech-table th,
+.tech-table td {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--glass-border);
+  text-align: right;
+}
+
+.tech-table th {
+  background: rgba(222, 103, 24, 0.1);
+  color: var(--primary);
+  width: 30%;
+  font-weight: 900;
+}
+
+.tech-table td {
+  color: var(--text-light);
+}
+
+.tech-table tr:hover td {
+  color: var(--pure-white);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* ====== GRID & SECTION LAYOUTS ====== */
+/* Main Grid for Movie/Series Cards */
+.grid,
+.netflix-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+@media (min-width: 640px) {
+
+  .grid,
+  .netflix-row {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+
+  .grid,
+  .netflix-row {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  }
+}
+
+@media (min-width: 1200px) {
+
+  .grid,
+  .netflix-row {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}
+
+/* Section Container */
+.section,
+.page-section {
+  width: 100%;
+  padding: 3rem 2%;
+  margin: 0;
+  display: block;
+  box-sizing: border-box;
+}
+
+.section::before {
+  content: '';
+  display: block;
+  width: 100%;
+}
+
+/* Section Title */
+.section-title,
+.section h2 {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--pure-white);
+  margin-bottom: 2rem;
+  padding: 0 1rem;
+  text-align: right;
+}
+
+/* Simple Carousel Section */
+.simple-carousel-section {
+  width: 100%;
+  margin: 2rem 0;
+  padding: 1.5rem 2%;
+  display: block;
+  box-sizing: border-box;
+}
+
+.simple-carousel-section .grid,
+.simple-carousel-section .simple-viewport {
+  padding: 0 1rem;
+  width: 100%;
+}
+
+/* Simple Carousel Viewport */
+.simple-viewport {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding-bottom: 15px;
+  scrollbar-width: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.simple-viewport::-webkit-scrollbar {
+  display: none;
+}
+
+.simple-carousel-item {
+  flex: 0 0 150px;
+  min-width: 150px;
+}
+
+@media (max-width: 768px) {
+  .simple-carousel-item {
+    flex: 0 0 120px;
+    min-width: 120px;
+  }
+}

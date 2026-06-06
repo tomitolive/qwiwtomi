@@ -1,0 +1,360 @@
+import { getTMDBData } from "@/lib/tmdb";
+import { cookies } from "next/headers";
+import { getHomeContent } from "@/lib/home-content";
+
+const pageTranslations: Record<string, any> = {
+  ar: {
+    newsBadge: "آخر الأخبار",
+    newsText: "مرحباً بكم في توميتو — موقعكم الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات مترجمة بجودة عالية HD اون لاين بدون إعلانات",
+    exploreBtn: "تصفح وإكتشف",
+    allMovies: "جميع الأفلام",
+    allSeries: "جميع المسلسلات",
+    horror: "رعب وإثارة",
+    action: "أكشن وإثارة",
+    watchMore: "مشاهدة المزيد",
+    sections: {
+      "خيال علمي ومغامرة": "خيال علمي ومغامرة",
+      "دراما": "دراما",
+      "كوميديا": "كوميديا",
+      "عائلي": "عائلي",
+      "جريمة": "جريمة",
+      "مغامرة": "مغامرة",
+      "فانتازيا": "فانتازيا",
+      "رسوم متحركة": "رسوم متحركة",
+      "إثارة": "إثارة",
+      "غموض": "غموض",
+      "رومنسية": "رومنسية",
+      "تاريخ وحرب": "تاريخ وحرب"
+    }
+  },
+  en: {
+    newsBadge: "Latest News",
+    newsText: "Welcome to Tomito — Your premier site to watch and download the latest movies & series in HD without ads",
+    exploreBtn: "Explore",
+    allMovies: "All Movies",
+    allSeries: "All Series",
+    horror: "Horror & Thriller",
+    action: "Action & Thriller",
+    watchMore: "Watch More",
+    sections: {
+      "خيال علمي ومغامرة": "Sci-Fi & Adventure",
+      "دراما": "Drama",
+      "كوميديا": "Comedy",
+      "عائلي": "Family",
+      "جريمة": "Crime",
+      "مغامرة": "Adventure",
+      "فانتازيا": "Fantasy",
+      "رسوم متحركة": "Animation",
+      "إثارة": "Thriller",
+      "غموض": "Mystery",
+      "رومنسية": "Romance",
+      "تاريخ وحرب": "History & War"
+    }
+  },
+  fr: {
+    newsBadge: "Dernières Nouvelles",
+    newsText: "Bienvenue sur Tomito - Votre site principal pour regarder et télécharger les derniers films et séries en HD sans publicité",
+    exploreBtn: "Explorer",
+    allMovies: "Tous les films",
+    allSeries: "Toutes les séries",
+    horror: "Horreur et Thriller",
+    action: "Action et Thriller",
+    watchMore: "Voir plus",
+    sections: {
+      "خيال علمي ومغامرة": "Sci-Fi & Aventure",
+      "دراما": "Drame",
+      "كوميديا": "Comédie",
+      "عائلي": "Famille",
+      "جريمة": "Crime",
+      "مغامرة": "Aventure",
+      "فانتازيا": "Fantaisie",
+      "رسوم متحركة": "Animation",
+      "إثارة": "Thriller",
+      "غموض": "Mystère",
+      "رومنسية": "Romance",
+      "تاريخ وحرب": "Histoire et Guerre"
+    }
+  },
+  es: {
+    newsBadge: "Últimas Noticias",
+    newsText: "Bienvenido a Tomito: su sitio principal para ver y descargar las últimas películas y series HD sin anuncios",
+    exploreBtn: "Explorar",
+    allMovies: "Todas las películas",
+    allSeries: "Todas las series",
+    horror: "Horror y Suspenso",
+    action: "Acción y Suspenso",
+    watchMore: "Ver Más",
+    sections: {
+      "خيال علمي ومغامرة": "Ciencia Ficción y Avent.",
+      "دراما": "Drama",
+      "كوميديا": "Comedia",
+      "عائلي": "Familia",
+      "جريمة": "Crimen",
+      "مغامرة": "Aventura",
+      "فانتازيا": "Fantasía",
+      "رسوم متحركة": "Animación",
+      "إثارة": "Suspenso",
+      "غموض": "Misterio",
+      "رومنسية": "Romance",
+      "تاريخ وحرب": "Historia y Guerra"
+    }
+  }
+};
+
+function CardItem({ item, getLink, getAlt, getPoster }: any) {
+  return (
+    <div className="tc-small-box">
+      <a href={getLink(item)} title={getAlt(item)}>
+        <div className="tc-poster">
+          <img src={getPoster(item)} alt={getAlt(item)} loading="lazy" />
+        </div>
+        <ul className="tc-li-list">
+          {item.genres?.[0] && <li>{item.genres[0]}</li>}
+          {item.rating && (
+            <li className="tc-imdb-rating">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              {item.rating?.toFixed?.(1) || item.rating}
+            </li>
+          )}
+        </ul>
+        <h3 className="tc-card-title">{item.title || item.title_ar}</h3>
+      </a>
+    </div>
+  );
+}
+
+function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
+  return (
+    <div className="tc-aside-post">
+      <a href={getLink(item)}>
+        <div className="tc-aside-poster">
+          <img src={getPoster(item)} alt={getAlt(item)} loading="lazy" />
+        </div>
+        <div className="tc-aside-info">
+          <h3>{item.title || item.title_ar}</h3>
+          {item.rating && (
+            <span className="tc-aside-rating">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              {item.rating?.toFixed?.(1) || item.rating}
+            </span>
+          )}
+        </div>
+      </a>
+    </div>
+  );
+}
+
+export default async function Home() {
+  const cookieStore = await cookies();
+  const locale = cookieStore.get("NEXT_LOCALE")?.value || "ar";
+  const t = pageTranslations[locale] || pageTranslations.ar;
+
+  const localContent = getHomeContent();
+
+  const sortedAll = [...localContent].sort((a: any, b: any) => {
+    const timeA = a.timestamp || (a.release_date ? new Date(a.release_date).getTime() : 0);
+    const timeB = b.timestamp || (b.release_date ? new Date(b.release_date).getTime() : 0);
+    return timeB - timeA;
+  });
+
+  const movies = sortedAll.filter((item: any) => item.folder === 'movie');
+  const series = sortedAll.filter((item: any) => item.folder === 'tv');
+
+  const carouselItems = sortedAll.slice(0, 20);
+
+  const getDynamicNewsText = (items: any[], loc: string) => {
+    return items.slice(0, 10).map((item: any) => {
+      const isTV = item.folder === 'tv';
+      const title = item.title || item.title_ar;
+      if (loc === 'ar') return `🔥 شاهد الآن ${isTV ? 'مسلسل' : 'فيلم'} "${title}" ترند جديد`;
+      if (loc === 'en') return `🔥 Trending now: ${isTV ? 'Series' : 'Movie'} "${title}" - Watch in HD!`;
+      if (loc === 'fr') return `🔥 Tendance: ${isTV ? 'Série' : 'Film'} "${title}" - Regardez en HD!`;
+      if (loc === 'es') return `🔥 Tendencia: ${isTV ? 'Serie' : 'Película'} "${title}" - ¡Míralo en HD!`;
+      return `🔥 شاهد الآن ${isTV ? 'مسلسل' : 'فيلم'} "${title}"`;
+    }).join('  ✦  ');
+  };
+  const dynamicNewsText = getDynamicNewsText(carouselItems, locale);
+
+  const WIDE_LIMIT = 10;
+  const SIDEBAR_LIMIT = 7;
+  const GRID_LIMIT = 18;
+
+  // Custom user categories
+  const allMovies = movies;
+  const allSeries = series;
+  // TMDB Genre IDs Mapping:
+  // Action (حركة): 28 | Adventure (مغامرة): 12 | Animation (رسوم متحركة): 16 | Comedy (كوميديا): 35
+  // Crime (جريمة): 80 | Drama (دراما): 18 | Family (عائلي): 10751 | Fantasy (فانتازيا): 14
+  // History (تاريخ): 36 | Horror (رعب): 27 | Mystery (غموض): 9648 | Romance (رومنسية): 10749
+  // Science Fiction (خيال علمي): 878 | Thriller (إثارة): 53 | War (حرب): 10752
+
+  const actionMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('حركة') || m.genre_ids?.includes(28));
+  const horrorMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('رعب') || m.genre_ids?.includes(27));
+
+  const fullSections = [
+    { title: "خيال علمي ومغامرة",  items: movies.filter((m: any) => m.genres?.includes('خيال علمي') || m.genre_ids?.includes(878) || m.genre_ids?.includes(12)), link: "/movie" },
+    { title: "دراما",              items: movies.filter((m: any) => m.genres?.includes('دراما') || m.genre_ids?.includes(18)), link: "/movie" },
+    { title: "كوميديا",            items: movies.filter((m: any) => m.genres?.includes('كوميديا') || m.genre_ids?.includes(35)), link: "/movie" },
+    { title: "عائلي",              items: movies.filter((m: any) => m.genres?.includes('عائلي') || m.genre_ids?.includes(10751)), link: "/movie" },
+    { title: "جريمة",              items: movies.filter((m: any) => m.genres?.includes('جريمة') || m.genre_ids?.includes(80)), link: "/movie" },
+    { title: "مغامرة",             items: movies.filter((m: any) => m.genres?.includes('مغامرة') || m.genre_ids?.includes(12)), link: "/movie" },
+    { title: "فانتازيا",           items: movies.filter((m: any) => m.genres?.includes('فانتازيا') || m.genre_ids?.includes(14)), link: "/movie" },
+    { title: "رسوم متحركة",        items: movies.filter((m: any) => m.genres?.includes('رسوم متحركة') || m.genre_ids?.includes(16)), link: "/movie" },
+    { title: "إثارة",              items: [...movies, ...series].filter((m: any) => m.genres?.includes('إثارة') || m.genre_ids?.includes(53)), link: "/" },
+    { title: "غموض",               items: movies.filter((m: any) => m.genres?.includes('غموض') || m.genre_ids?.includes(9648)), link: "/movie" },
+    { title: "رومنسية",            items: movies.filter((m: any) => m.genres?.includes('رومنسية') || m.genre_ids?.includes(10749)), link: "/movie" },
+    { title: "تاريخ وحرب",         items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)), link: "/movie" },
+  ].filter(s => s.items.length > 0);
+
+  // Helpers
+  const getPoster = (item: any) => {
+    if (item.poster) return item.poster.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500');
+    if (item.poster_path) return `/t/p/w500${item.poster_path}`;
+    return '';
+  };
+  const getAlt = (item: any) => {
+    const prefix = item.folder === 'tv' ? 'مسلسل' : 'فيلم';
+    return `${prefix} ${item.title || item.title_ar || ''} مترجم اون لاين`;
+  };
+  const getLink = (item: any) => `/${item.folder || 'movie'}/${item.slug}`;
+
+  return (
+    <div className="bg-background text-foreground min-h-screen" style={{ paddingTop: '64px' }}>
+      {/* ═══════ NEWS BAR ═══════ */}
+      <div className="tc-news-bar">
+        <div className="tc-news-bar-inner">
+          <div className="tc-news-content">
+            <span className="tc-news-badge" style={{ zIndex: 10 }}>{t.newsBadge}</span>
+            <div className="tc-news-ticker-container">
+              <div className="tc-news-ticker-animated">
+                {dynamicNewsText}
+              </div>
+            </div>
+          </div>
+          <div className="tc-news-links">
+            <a href="/movie" className="tc-explore-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+              {t.exploreBtn}
+            </a>
+          </div>
+        </div>
+      </div>
+
+      {/* ═══════ POSTER CAROUSEL SLIDER ═══════ */}
+      <section className="tc-slider-outer">
+        <div className="tc-slider-inner">
+          <div className="tc-slider-track">
+            {carouselItems.map((item: any, i: number) => (
+              <div key={`${item.slug || 'item'}-${i}`} className="tc-slide-item">
+                <a href={getLink(item)} title={getAlt(item)} className="tc-slide-card">
+                  {item.rating && item.rating >= 7 && (
+                    <div className="tc-ribbon">HD</div>
+                  )}
+                  <div className="tc-slide-poster">
+                    <img src={getPoster(item)} alt={getAlt(item)} loading={i < 5 ? "eager" : "lazy"} />
+                  </div>
+                  <div className="tc-slide-info">
+                    {item.genres && item.genres.length > 0 && (
+                      <ul className="tc-genres">
+                        {item.genres.slice(0, 3).map((g: string, gi: number) => (
+                          <li key={gi}>{g}</li>
+                        ))}
+                      </ul>
+                    )}
+                    <h3>{item.title || item.title_ar}</h3>
+                  </div>
+                </a>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ═══════ SECTION 1: جميع الأفلام + جميع المسلسلات (Sidebar) ═══════ */}
+      <section className="tc-two-section">
+        <div className="tc-container">
+          <div className="tc-wide">
+            <div className="tc-title-box">
+              <div className="tc-title-right">
+                <h2>{t.allMovies}</h2>
+              </div>
+              <a href="/movie" className="tc-more-link">{t.watchMore}</a>
+            </div>
+            <div className="tc-grid-5">
+              {allMovies.slice(0, WIDE_LIMIT).map((item: any, i: number) => (
+                <CardItem key={`${item.slug || 'item'}-${i}`} item={item} getLink={getLink} getAlt={getAlt} getPoster={getPoster} />
+              ))}
+            </div>
+          </div>
+
+          <aside className="tc-sidebar">
+            <div className="tc-title-box">
+              <div className="tc-title-right">
+                <h2>{t.allSeries}</h2>
+              </div>
+              <a href="/tv" className="tc-more-link">{t.watchMore}</a>
+            </div>
+            <div className="tc-aside-posts">
+              {allSeries.slice(0, SIDEBAR_LIMIT).map((item: any, i: number) => (
+                <SidebarItem key={`${item.slug || 'item'}-${i}`} item={item} getLink={getLink} getAlt={getAlt} getPoster={getPoster} />
+              ))}
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      {/* ═══════ SECTION 2: أكشن وإثارة + رعب وإثارة (Reversed) ═══════ */}
+      <section className="tc-two-section tc-reversed">
+        <div className="tc-container">
+          <aside className="tc-sidebar">
+            <div className="tc-title-box">
+              <div className="tc-title-right">
+                <h2>{t.horror}</h2>
+              </div>
+              <a href="/movie" className="tc-more-link">{t.watchMore}</a>
+            </div>
+            <div className="tc-aside-posts">
+              {horrorMovies.slice(0, SIDEBAR_LIMIT).map((item: any, i: number) => (
+                <SidebarItem key={`${item.slug || 'item'}-${i}`} item={item} getLink={getLink} getAlt={getAlt} getPoster={getPoster} />
+              ))}
+            </div>
+          </aside>
+
+          <div className="tc-wide">
+            <div className="tc-title-box">
+              <div className="tc-title-right">
+                <h2>{t.action}</h2>
+              </div>
+              <a href="/movie" className="tc-more-link">{t.watchMore}</a>
+            </div>
+            <div className="tc-grid-5">
+              {actionMovies.slice(0, WIDE_LIMIT).map((item: any, i: number) => (
+                <CardItem key={`${item.slug || 'item'}-${i}`} item={item} getLink={getLink} getAlt={getAlt} getPoster={getPoster} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ═══════ FULL-WIDTH SECTIONS (Dynamic mapped from original categories) ═══════ */}
+      {fullSections.map((section, idx) => (
+        <section key={idx} className="tc-full-section">
+          <div className="tc-container">
+            <div className="tc-title-box">
+              <div className="tc-title-right">
+                <h2>{t.sections[section.title] || section.title}</h2>
+              </div>
+              <a href={section.link} className="tc-more-link">{t.watchMore}</a>
+            </div>
+            <div className="tc-grid-6">
+              {section.items.slice(0, GRID_LIMIT).map((item: any, i: number) => (
+                <CardItem key={`${item.slug || 'item'}-${i}`} item={item} getLink={getLink} getAlt={getAlt} getPoster={getPoster} />
+              ))}
+            </div>
+          </div>
+        </section>
+      ))}
+
+    </div>
+  );
+}

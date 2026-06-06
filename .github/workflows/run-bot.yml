@@ -1,0 +1,40 @@
+name: Run Content Bot
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pytrends openai
+        
+    - name: Run bot
+      env:
+        NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      run: |
+        python3 run_bot_with_mixed_content.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/content/ data/content_index.json
+        git diff --staged --quiet || git commit -m "Auto-generated content $(date '+%Y-%m-%d %H:%M:%S')"
+        git push

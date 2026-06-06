@@ -1,0 +1,2187 @@
+{
+  "name": "90s Cinema",
+  "name_ar": "سينما التسعينات",
+  "description": "أفلام ومسلسلات من تسعينيات القرن الماضي",
+  "items": [
+    {
+      "id": 564,
+      "title": "The Mummy",
+      "poster_path": "tRZITXSgsdU8oVEpFxYo5CPFa9X.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1999",
+      "first_air_date": "1999",
+      "title_ar": "The Mummy"
+    },
+    {
+      "id": 45141,
+      "title": "The Suite Life of Karan Kabir",
+      "poster_path": "rxDlieXP2cDwTiuZfzpoJW4qZly.jpg",
+      "media_type": "tv",
+      "vote_average": 7.0,
+      "release_date": "2012",
+      "first_air_date": "2012",
+      "title_ar": "The Suite Life of Karan Kabir"
+    },
+    {
+      "id": 472674,
+      "title": "The Goldfinch",
+      "poster_path": "5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2019",
+      "first_air_date": "2019",
+      "title_ar": "The Goldfinch"
+    },
+    {
+      "id": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "poster_path": "dqckStulfP42K2iY9j6UMxY6Sfp.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2018",
+      "first_air_date": "2018",
+      "title_ar": "متسابق المتاهة: علاج الموت"
+    },
+    {
+      "id": 276907,
+      "title": "Legend",
+      "poster_path": "k1P8B8Jjs7W0IFVGYMIVrsZ9QsH.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2015",
+      "first_air_date": "2015",
+      "title_ar": "الأسطورة"
+    },
+    {
+      "id": 342521,
+      "title": "Keanu",
+      "poster_path": "dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+      "media_type": "movie",
+      "vote_average": 6.0,
+      "release_date": "2016",
+      "first_air_date": "2016",
+      "title_ar": "Keanu"
+    },
+    {
+      "id": 105117,
+      "title": "Thirsty for Love: Sex and Murder",
+      "poster_path": "8TnC8XqInUJvLvVY1x3lOwO3G07.jpg",
+      "media_type": "movie",
+      "vote_average": 4.3,
+      "release_date": "1972",
+      "first_air_date": "1972",
+      "title_ar": "Aka Susayanlar: Seks ve Cinayet"
+    },
+    {
+      "id": 972545,
+      "title": "Good Night Oppy",
+      "poster_path": "7DTWN79hsN5AZEhW8w4SOquSI4D.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Good Night Oppy"
+    },
+    {
+      "id": 2352,
+      "title": "The Nanny",
+      "poster_path": "4syShXMjaPAP3mG81ekhruv94sd.jpg",
+      "media_type": "tv",
+      "vote_average": 8.1,
+      "release_date": "1993",
+      "first_air_date": "1993",
+      "title_ar": "المربية"
+    },
+    {
+      "id": 2685,
+      "title": "Family Matters",
+      "poster_path": "lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+      "media_type": "tv",
+      "vote_average": 6.8,
+      "release_date": "1989",
+      "first_air_date": "1989",
+      "title_ar": "Family Matters"
+    },
+    {
+      "id": 2384,
+      "title": "Knight Rider",
+      "poster_path": "t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+      "media_type": "tv",
+      "vote_average": 7.5,
+      "release_date": "1982",
+      "first_air_date": "1982",
+      "title_ar": "Knight Rider"
+    },
+    {
+      "id": 176,
+      "title": "Saw",
+      "poster_path": "rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "Saw"
+    },
+    {
+      "id": 10835,
+      "title": "The Killer",
+      "poster_path": "8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "1989",
+      "first_air_date": "1989",
+      "title_ar": "The Killer"
+    },
+    {
+      "id": 1268127,
+      "title": "Humint",
+      "poster_path": "mCBl8imyCeUzdNfP0IxeX2L0sDd.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "الاستخبارات البشرية"
+    },
+    {
+      "id": 1940,
+      "title": "Entourage",
+      "poster_path": "kLKP8zrArBtBboGz3qJOuMGC7rL.jpg",
+      "media_type": "tv",
+      "vote_average": 7.4,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "Entourage"
+    },
+    {
+      "id": 56336,
+      "title": "The Tunnel",
+      "poster_path": "6gNjFMFdx0AcujftDGHXSSBVkBM.jpg",
+      "media_type": "tv",
+      "vote_average": 7.5,
+      "release_date": "2013",
+      "first_air_date": "2013",
+      "title_ar": "The Tunnel"
+    },
+    {
+      "id": 69630,
+      "title": "The Bold Type",
+      "poster_path": "cKloQpl6zE7kdFf8SUeYU2qPT9H.jpg",
+      "media_type": "tv",
+      "vote_average": 7.7,
+      "release_date": "2017",
+      "first_air_date": "2017",
+      "title_ar": "النوع الجريء"
+    },
+    {
+      "id": 1396,
+      "title": "Breaking Bad",
+      "poster_path": "5K9uCjQR4lEylyK2IWaZmv2lhLg.jpg",
+      "media_type": "tv",
+      "vote_average": 8.9,
+      "release_date": "2008",
+      "first_air_date": "2008",
+      "title_ar": "اختلال ضال"
+    },
+    {
+      "id": 1405,
+      "title": "Dexter",
+      "poster_path": "cbubSbmi5ycgO9AqlA2oOjpoFTI.jpg",
+      "media_type": "tv",
+      "vote_average": 8.2,
+      "release_date": "2006",
+      "first_air_date": "2006",
+      "title_ar": "دكستر"
+    },
+    {
+      "id": 1265,
+      "title": "Bridge to Terabithia",
+      "poster_path": "3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2007",
+      "first_air_date": "2007",
+      "title_ar": "Bridge to Terabithia"
+    },
+    {
+      "id": 12613,
+      "title": "Street Fighter II: The Animated Movie",
+      "poster_path": "hFxxXsTa4cYUhF9CBOKXhJVqTEU.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "1994",
+      "first_air_date": "1994",
+      "title_ar": "II MOVIE"
+    },
+    {
+      "id": 1246049,
+      "title": "Dracula",
+      "poster_path": "q107gU71CXDVAsmhgUO1wuvIkAw.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Dracula"
+    },
+    {
+      "id": 1248226,
+      "title": "Playdate",
+      "poster_path": "bwqJKJqdMBusewmaKch7g6arsOW.jpg",
+      "media_type": "movie",
+      "vote_average": 6.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "موعد اللعب"
+    },
+    {
+      "id": 12493,
+      "title": "High and Low",
+      "poster_path": "xCj9GpdXlzGxm7KqhyH1J32Ezsg.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "1963",
+      "first_air_date": "1963",
+      "title_ar": "High and Low"
+    },
+    {
+      "id": 12444,
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "poster_path": "jswRLBRYSEP1B8EgCLEy5OkyxE3.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "هاري بوتر ومقدسات الموت الجزء الأول"
+    },
+    {
+      "id": 12445,
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "poster_path": "rOR7C5KhvwzR1r6ZGvMe3TKB5RK.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "2011",
+      "first_air_date": "2011",
+      "title_ar": "هاري بوتر ومقدسات الموت الجزء الثاني"
+    },
+    {
+      "id": 1242419,
+      "title": "Roofman",
+      "poster_path": "57AYOm4TgZIjc8ySKwwXBMUzZU4.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "لص الأسطح"
+    },
+    {
+      "id": 1236153,
+      "title": "Mercy",
+      "poster_path": "wLUmIuJXFGXpnR0ddRmmWNZHW4m.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "ميرسي"
+    },
+    {
+      "id": 1243741,
+      "title": "Ballistic",
+      "poster_path": "mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "media_type": "movie",
+      "vote_average": 5.7,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Ballistic"
+    },
+    {
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "poster_path": "6guUtmn3SCjwVDtXqOBMDtF2csH.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "المفترس: الأراضي القاحلة"
+    },
+    {
+      "id": 1235877,
+      "title": "Jana Nayagan",
+      "poster_path": "jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "",
+      "first_air_date": "",
+      "title_ar": "Jana Nayagan"
+    },
+    {
+      "id": 1234821,
+      "title": "Jurassic World Rebirth",
+      "poster_path": "xlzKbPg2PEi1xbme3BZmd1J3Rf3.jpg",
+      "media_type": "movie",
+      "vote_average": 6.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "عالم الديناصورات: إحياء"
+    },
+    {
+      "id": 122973,
+      "title": "Hibiscus Town",
+      "poster_path": "dyRGM43O36oOle58sbrCQ6lWT7a.jpg",
+      "media_type": "movie",
+      "vote_average": 8.0,
+      "release_date": "1987",
+      "first_air_date": "1987",
+      "title_ar": "Hibiscus Town"
+    },
+    {
+      "id": 1242501,
+      "title": "Icefall",
+      "poster_path": "5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+      "media_type": "movie",
+      "vote_average": 6.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Icefall"
+    },
+    {
+      "id": 1242332,
+      "title": "Normal",
+      "poster_path": "rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "media_type": "movie",
+      "vote_average": 6.5,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Normal"
+    },
+    {
+      "id": 1241982,
+      "title": "Moana 2",
+      "poster_path": "yhyYzzJOZzdd1pQPDLV6jYulAmC.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "موانا ٢"
+    },
+    {
+      "id": 1241470,
+      "title": "Osiris",
+      "poster_path": "tVs6RH5prFcG2CYhHY1pwTuD9S4.jpg",
+      "media_type": "movie",
+      "vote_average": 6.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "أوزيريس"
+    },
+    {
+      "id": 12405,
+      "title": "Slumdog Millionaire",
+      "poster_path": "5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2008",
+      "first_air_date": "2008",
+      "title_ar": "مليونير متشرد"
+    },
+    {
+      "id": 1234731,
+      "title": "Anaconda",
+      "poster_path": "hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "أناكوندا"
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "poster_path": "bLrtE1H0wuO4Dt07zw51HzbH4g4.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الخطاة"
+    },
+    {
+      "id": 123115,
+      "title": "Desert of Fire",
+      "poster_path": "phgzoConeLNRUJSr68CUztJTXHk.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "1997",
+      "first_air_date": "1997",
+      "title_ar": "Deserto di fuoco"
+    },
+    {
+      "id": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "poster_path": "i7MrDT1Y9RNtSl2cdFiCJaDtYso.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "الهوبيت : معركة الجيوش الخمسة"
+    },
+    {
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "poster_path": "5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "The Mandalorian and Grogu"
+    },
+    {
+      "id": 12201,
+      "title": "Edge of Darkness",
+      "poster_path": "pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "Edge of Darkness"
+    },
+    {
+      "id": 1228246,
+      "title": "Five Nights at Freddys 2",
+      "poster_path": "hHFBZDAZV3g7usiUPeV98Od2RCC.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "خمس ليال في فريدي 2"
+    },
+    {
+      "id": 1218925,
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "poster_path": "108dC9XdzJL70HIYiaJIDQ9Pvpb.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "رجل المنشار: فصل ريزي"
+    },
+    {
+      "id": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "poster_path": "rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "media_type": "movie",
+      "vote_average": 8.5,
+      "release_date": "2003",
+      "first_air_date": "2003",
+      "title_ar": "سيد الخواتم: عودة الملك"
+    },
+    {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "poster_path": "rkbRv8dOhWOhIidPyOaJYhtmcy.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "فيلم سوبر ماريو جالاكسي"
+    },
+    {
+      "id": 1226578,
+      "title": "Longlegs",
+      "poster_path": "1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "media_type": "movie",
+      "vote_average": 6.5,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "لونغليغز"
+    },
+    {
+      "id": 1214931,
+      "title": "Nuremberg",
+      "poster_path": "xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Nuremberg"
+    },
+    {
+      "id": 1223601,
+      "title": "Sisu: Road to Revenge",
+      "poster_path": "qAekCwa6dktUq5wIvwxjt3Q4AGd.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "سيسو: الطريق إلى الإنتقام"
+    },
+    {
+      "id": 1220564,
+      "title": "The Secret Agent",
+      "poster_path": "toiUSmvTDDzgoAxatiF42ayvzuT.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "O Agente Secreto"
+    },
+    {
+      "id": 1207162,
+      "title": "Rise of the Conqueror",
+      "poster_path": "9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "تيمور: صعود الفاتح"
+    },
+    {
+      "id": 1220522,
+      "title": "Dacoit",
+      "poster_path": "yUn0et9QaiHXME4awdwxeEsuslc.jpg",
+      "media_type": "movie",
+      "vote_average": 6.2,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Dacoit"
+    },
+    {
+      "id": 12155,
+      "title": "Alice in Wonderland",
+      "poster_path": "woPmwNpRYE3blvuO4ncmH8CaCrZ.jpg",
+      "media_type": "movie",
+      "vote_average": 6.6,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "أليس في بلاد العجائب 2010"
+    },
+    {
+      "id": 12,
+      "title": "Finding Nemo",
+      "poster_path": "lYkqmcx2yETvDDIMl5SCcoqVskS.jpg",
+      "media_type": "movie",
+      "vote_average": 7.8,
+      "release_date": "2003",
+      "first_air_date": "2003",
+      "title_ar": "البحث عن نيمو"
+    },
+    {
+      "id": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "poster_path": "5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "2002",
+      "first_air_date": "2002",
+      "title_ar": "سيد الخواتم: البرجان"
+    },
+    {
+      "id": 1198994,
+      "title": "Send Help",
+      "poster_path": "mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "أرسل المساعدة"
+    },
+    {
+      "id": 1213898,
+      "title": "Border 2",
+      "poster_path": "wUcttG71zo9deP4m9sDhYPUcvi5.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Border 2"
+    },
+    {
+      "id": 1197306,
+      "title": "A Working Man",
+      "poster_path": "jakUtw0fNx3D9N2sx50En49bIUG.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "رجل عامل"
+    },
+    {
+      "id": 1197137,
+      "title": "Black Phone 2",
+      "poster_path": "jdyaXqpVHGj8Fe8l8GseAvUdwR.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الهاتف الأسود ٢"
+    },
+    {
+      "id": 12092,
+      "title": "Alice in Wonderland",
+      "poster_path": "bjSJvzPrqviVio9O9GEqxGZjZdY.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "1951",
+      "first_air_date": "1951",
+      "title_ar": "أليس في بلاد العجائب"
+    },
+    {
+      "id": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster_path": "dmWSRqxdz3KPM4SsgVBhXIGxJEf.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "2001",
+      "first_air_date": "2001",
+      "title_ar": "سيد الخواتم: رفقة الخاتم"
+    },
+    {
+      "id": 1193501,
+      "title": "Whistle",
+      "poster_path": "vgonf5kGsiijUBjzxKTvechhT28.jpg",
+      "media_type": "movie",
+      "vote_average": 6.3,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Whistle"
+    },
+    {
+      "id": 118340,
+      "title": "Guardians of the Galaxy",
+      "poster_path": "r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "حراس المجرة"
+    },
+    {
+      "id": 118,
+      "title": "Charlie and the Chocolate Factory",
+      "poster_path": "iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2005",
+      "first_air_date": "2005",
+      "title_ar": "تشارلي ومصنع الشوكولاتة"
+    },
+    {
+      "id": 11770,
+      "title": "Shaolin Soccer",
+      "poster_path": "1aOnEAg3FSIg8DncA9JvMBuARTZ.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2001",
+      "first_air_date": "2001",
+      "title_ar": "Shaolin Soccer"
+    },
+    {
+      "id": 1196067,
+      "title": "Worldbreaker",
+      "poster_path": "ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Worldbreaker"
+    },
+    {
+      "id": 11970,
+      "title": "Hercules",
+      "poster_path": "zPQJgnGyDpPyelyUz39Kmam5nKG.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "1997",
+      "first_air_date": "1997",
+      "title_ar": "هرقل"
+    },
+    {
+      "id": 1184918,
+      "title": "The Wild Robot",
+      "poster_path": "dJWrpKLtVg7Jt42PxKNEscMrb2L.jpg",
+      "media_type": "movie",
+      "vote_average": 8.3,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "الروبوت البري"
+    },
+    {
+      "id": 1171145,
+      "title": "Crime 101",
+      "poster_path": "cZY1IOguquyYhJdRbuLcdypXnDA.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "الجريمة 101"
+    },
+    {
+      "id": 11808,
+      "title": "U.S. Marshals",
+      "poster_path": "5ST0BydDSXtW5AtfDDhTVS13pTt.jpg",
+      "media_type": "movie",
+      "vote_average": 6.5,
+      "release_date": "1998",
+      "first_air_date": "1998",
+      "title_ar": "U.S. Marshals"
+    },
+    {
+      "id": 1180831,
+      "title": "Troll 2",
+      "poster_path": "eaOdhSGC4PrgpVdeuCZ8XIgHYmT.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "غول الجبل 2"
+    },
+    {
+      "id": 11782,
+      "title": "Hard Boiled",
+      "poster_path": "b9hdfI2HyPICKRk4R7JNSStlWE0.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "1992",
+      "first_air_date": "1992",
+      "title_ar": "Hard Boiled"
+    },
+    {
+      "id": 11688,
+      "title": "The Emperors New Groove",
+      "poster_path": "5HzdPc8CwPqAZrvLx76p2hWy6k1.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "2000",
+      "first_air_date": "2000",
+      "title_ar": "حياة الإمبراطور الجديدة"
+    },
+    {
+      "id": 11674,
+      "title": "101 Dalmatians",
+      "poster_path": "iHIy0M1EQDiBqCPf3tWgI2KiWJd.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "1996",
+      "first_air_date": "1996",
+      "title_ar": "101 مئة مرقش ومرقش"
+    },
+    {
+      "id": 1175942,
+      "title": "The Bad Guys 2",
+      "poster_path": "5kPBoixwBx2WBZPd14umvXfU3ib.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الأشرار ٢"
+    },
+    {
+      "id": 1174024,
+      "title": "Maybe More",
+      "poster_path": "lOjlXQXwAj5uhrtEd0DxjPAhRm5.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "Et plus si affinits"
+    },
+    {
+      "id": 1167307,
+      "title": "David",
+      "poster_path": "bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "David"
+    },
+    {
+      "id": 11661,
+      "title": "Joyeux Noel",
+      "poster_path": "ixfvkeYY3459qiWODyCsO04qLRV.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2005",
+      "first_air_date": "2005",
+      "title_ar": "Joyeux Nol"
+    },
+    {
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "poster_path": "n1q20Rof03gEQMI550C2PXbBixO.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "طاقم التدمير"
+    },
+    {
+      "id": 11652,
+      "title": "Invincible",
+      "poster_path": "oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2006",
+      "first_air_date": "2006",
+      "title_ar": "Invincible"
+    },
+    {
+      "id": 11636,
+      "title": "New Police Story",
+      "poster_path": "k0toKZFxU7E7Jd7oUSqhwQhIXBQ.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "New Police Story"
+    },
+    {
+      "id": 1159831,
+      "title": "The Bride!",
+      "poster_path": "sq8bWKRKjpV7Oy0iwctKQrwR6bg.jpg",
+      "media_type": "movie",
+      "vote_average": 6.2,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "The Bride!"
+    },
+    {
+      "id": 11586,
+      "title": "Exorcist II: The Heretic",
+      "poster_path": "g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
+      "media_type": "movie",
+      "vote_average": 4.6,
+      "release_date": "1977",
+      "first_air_date": "1977",
+      "title_ar": "Exorcist II: The Heretic"
+    },
+    {
+      "id": 1159559,
+      "title": "Scream 7",
+      "poster_path": "ny0YBRSwiyGQ5Q1slaS8Q6JcVjm.jpg",
+      "media_type": "movie",
+      "vote_average": 6.1,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "صرخة ٧"
+    },
+    {
+      "id": 11544,
+      "title": "Lilo Stitch",
+      "poster_path": "6qBsL9AWlDEwnpXqLNKdDjmvnc.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "2002",
+      "first_air_date": "2002",
+      "title_ar": "ليلو وستيتش"
+    },
+    {
+      "id": 11450,
+      "title": "Quiz Show",
+      "poster_path": "yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "1994",
+      "first_air_date": "1994",
+      "title_ar": "Quiz Show"
+    },
+    {
+      "id": 1144107,
+      "title": "The Legend of Hei 2",
+      "poster_path": "rmdy6AVOlFEne4IM5Jj0WBOhCBP.jpg",
+      "media_type": "movie",
+      "vote_average": 8.5,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "2"
+    },
+    {
+      "id": 115,
+      "title": "The Big Lebowski",
+      "poster_path": "3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "media_type": "movie",
+      "vote_average": 7.8,
+      "release_date": "1998",
+      "first_air_date": "1998",
+      "title_ar": "The Big Lebowski"
+    },
+    {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "poster_path": "vPaA4szXVKmVpHagQZXlCLGScgX.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Street Fighter"
+    },
+    {
+      "id": 11423,
+      "title": "Memories of Murder",
+      "poster_path": "2JRoOZIhCrA2Z4M7RmLyOxXPczN.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "2003",
+      "first_air_date": "2003",
+      "title_ar": "ذكريات قاتل"
+    },
+    {
+      "id": 1146302,
+      "title": "Sly",
+      "poster_path": "1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "سلاي: سيلفستر ستالون"
+    },
+    {
+      "id": 114150,
+      "title": "Pitch Perfect",
+      "poster_path": "gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2012",
+      "first_air_date": "2012",
+      "title_ar": "Pitch Perfect"
+    },
+    {
+      "id": 1139087,
+      "title": "Once Upon a Studio",
+      "poster_path": "aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg",
+      "media_type": "movie",
+      "vote_average": 8.3,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "Once Upon a Studio"
+    },
+    {
+      "id": 1137350,
+      "title": "The Phoenician Scheme",
+      "poster_path": "nLu7REpr37LH2rJXIKxQYH8LLGM.jpg",
+      "media_type": "movie",
+      "vote_average": 6.5,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "The Phoenician Scheme"
+    },
+    {
+      "id": 11362,
+      "title": "The Count of Monte Cristo",
+      "poster_path": "ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2002",
+      "first_air_date": "2002",
+      "title_ar": "The Count of Monte Cristo"
+    },
+    {
+      "id": 1128650,
+      "title": "The Prosecutor",
+      "poster_path": "lTSOwjX2pVynL06MGhxgAnvH4Z2.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "The Prosecutor"
+    },
+    {
+      "id": 1127110,
+      "title": "Diablo",
+      "poster_path": "uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Diablo"
+    },
+    {
+      "id": 11224,
+      "title": "Cinderella",
+      "poster_path": "s5wMnx1PQ28vWlbt5oqsvHVg9DI.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1950",
+      "first_air_date": "1950",
+      "title_ar": "سندريلا"
+    },
+    {
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Dont Die",
+      "poster_path": "rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Good Luck, Have Fun, Dont Die"
+    },
+    {
+      "id": 11324,
+      "title": "Shutter Island",
+      "poster_path": "eW6kCron3zmQFS31DX6U66wdJ3y.jpg",
+      "media_type": "movie",
+      "vote_average": 8.2,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "جزيرة شاتر"
+    },
+    {
+      "id": 1125257,
+      "title": "Freakier Friday",
+      "poster_path": "9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الجمعة العجيبة"
+    },
+    {
+      "id": 1117857,
+      "title": "In Your Dreams",
+      "poster_path": "107lP2QaOQSf9X0KFHa7zYy4NG8.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "في احلامكما"
+    },
+    {
+      "id": 11130,
+      "title": "The Princess Diaries 2: Royal Engagement",
+      "poster_path": "5XToqGcE4qdfOSaCPWI7kAb1bm7.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "مذكرات الأميرة ٢: خطبة ملكية"
+    },
+    {
+      "id": 1110034,
+      "title": "Kraken",
+      "poster_path": "uvoKMovRqtmGj2WnDTWxoV8AuaV.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Kraken"
+    },
+    {
+      "id": 11220,
+      "title": "Fallen Angels",
+      "poster_path": "yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "1995",
+      "first_air_date": "1995",
+      "title_ar": "Fallen Angels"
+    },
+    {
+      "id": 111,
+      "title": "Scarface",
+      "poster_path": "ySqDok7R8vVyDQnDmGyek213HYC.jpg",
+      "media_type": "movie",
+      "vote_average": 8.2,
+      "release_date": "1983",
+      "first_air_date": "1983",
+      "title_ar": "الوجه ذو الندبة"
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "poster_path": "wL0fAAvNd2Uk7Sok620oVaaItIS.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Moana"
+    },
+    {
+      "id": 1107216,
+      "title": "Pets on a Train",
+      "poster_path": "kGreWvuW4FlzWP4UQUyJ55N1zGK.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Falcon Express"
+    },
+    {
+      "id": 1115544,
+      "title": "Mike Nick Nick Alice",
+      "poster_path": "7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Mike Nick Nick Alice"
+    },
+    {
+      "id": 1106289,
+      "title": "The Pickup",
+      "poster_path": "qo0VFvWNqnmA00keGdsjF1ZNwNm.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الاستلام"
+    },
+    {
+      "id": 1102883,
+      "title": "Mother Mary",
+      "poster_path": "qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Mother Mary"
+    },
+    {
+      "id": 1100988,
+      "title": "28 Years Later",
+      "poster_path": "zngbe7cQW6I583RPbEmhO3FMrKe.jpg",
+      "media_type": "movie",
+      "vote_average": 6.6,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "28 عاما لاحقا"
+    },
+    {
+      "id": 11074,
+      "title": "Striking Distance",
+      "poster_path": "1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg",
+      "media_type": "movie",
+      "vote_average": 5.9,
+      "release_date": "1993",
+      "first_air_date": "1993",
+      "title_ar": "Striking Distance"
+    },
+    {
+      "id": 109445,
+      "title": "Frozen",
+      "poster_path": "Mj9orZts8X8mZLvOwXjGCP9DTA.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2013",
+      "first_air_date": "2013",
+      "title_ar": "ملكة الثلج"
+    },
+    {
+      "id": 11036,
+      "title": "The Notebook",
+      "poster_path": "rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "The Notebook"
+    },
+    {
+      "id": 1107166,
+      "title": "Psycho Killer",
+      "poster_path": "5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+      "media_type": "movie",
+      "vote_average": 5.5,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Psycho Killer"
+    },
+    {
+      "id": 11,
+      "title": "Star Wars",
+      "poster_path": "558iEtKniO3PhawQqNKu96R5utf.jpg",
+      "media_type": "movie",
+      "vote_average": 8.2,
+      "release_date": "1977",
+      "first_air_date": "1977",
+      "title_ar": "حرب النجوم"
+    },
+    {
+      "id": 1091,
+      "title": "The Thing",
+      "poster_path": "91WfYGg36RLV0zYPccBtJJfF6pi.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "1982",
+      "first_air_date": "1982",
+      "title_ar": "الشيء"
+    },
+    {
+      "id": 1097549,
+      "title": "Babygirl",
+      "poster_path": "ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "media_type": "movie",
+      "vote_average": 5.7,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "Babygirl"
+    },
+    {
+      "id": 1089625,
+      "title": "The Making of the Last Duel",
+      "poster_path": "8sJhjZFNwuX18yieuNSAjUwPs9J.jpg",
+      "media_type": "movie",
+      "vote_average": 9.0,
+      "release_date": "2021",
+      "first_air_date": "2021",
+      "title_ar": "The Making of the Last Duel"
+    },
+    {
+      "id": 1087040,
+      "title": "Money Shot: The Pornhub Story",
+      "poster_path": "kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "Money Shot: The Pornhub Story"
+    },
+    {
+      "id": 109526,
+      "title": "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+      "poster_path": "fqtuRbxbF17ufRziuXSXU87QhE5.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1994",
+      "first_air_date": "1994",
+      "title_ar": "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom"
+    },
+    {
+      "id": 10867,
+      "title": "Malena",
+      "poster_path": "p1DmuHTnvhsWFvWX0xnMWrLBVZ5.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2000",
+      "first_air_date": "2000",
+      "title_ar": "Malna"
+    },
+    {
+      "id": 1089,
+      "title": "Point Break",
+      "poster_path": "tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "1991",
+      "first_air_date": "1991",
+      "title_ar": "نقطة فاصلة"
+    },
+    {
+      "id": 1084577,
+      "title": "Balls Up",
+      "poster_path": "5EDhgV2VTZ259y9kGsQhiHcNefA.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "فوضى في كأس العالم"
+    },
+    {
+      "id": 1088434,
+      "title": "Hellfire",
+      "poster_path": "tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "media_type": "movie",
+      "vote_average": 4.7,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Hellfire"
+    },
+    {
+      "id": 1087192,
+      "title": "How to Train Your Dragon",
+      "poster_path": "vJzaZtOUVYMUXPYZwqB2r1pbr4n.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "كيف تروض تنينك"
+    },
+    {
+      "id": 1087891,
+      "title": "The Amateur",
+      "poster_path": "eHYPC2OxV1YqTBKMp3xagYOAJkA.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الهاوي"
+    },
+    {
+      "id": 1084187,
+      "title": "Pretty Lethal",
+      "poster_path": "koxKOXIPFyaLYm89PrkVqIfm54k.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "بالغ الخطورة"
+    },
+    {
+      "id": 10853,
+      "title": "The Beginner",
+      "poster_path": "wzDCUch6Nchs7hPxURsl5Hnfw4L.jpg",
+      "media_type": "movie",
+      "vote_average": 5.6,
+      "release_date": "1985",
+      "first_air_date": "1985",
+      "title_ar": "Die Einsteiger"
+    },
+    {
+      "id": 10865,
+      "title": "Atlantis: The Lost Empire",
+      "poster_path": "wN78kO5RHQUqnkRwL1Z4ge23lEB.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2001",
+      "first_air_date": "2001",
+      "title_ar": "أطلانتس الإمبراطورية المفقودة"
+    },
+    {
+      "id": 10835,
+      "title": "The Killer",
+      "poster_path": "8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "1989",
+      "first_air_date": "1989",
+      "title_ar": "The Killer"
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "poster_path": "qL1MBO7f8V7jXSB46SgpetwqNaV.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "زوتروبوليس ٢"
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "poster_path": "dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Toy Story 5"
+    },
+    {
+      "id": 1084199,
+      "title": "Companion",
+      "poster_path": "hw3s8kgGK6311eSKi10oXOyOz29.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "قرين"
+    },
+    {
+      "id": 1079057,
+      "title": "The Silent Service",
+      "poster_path": "xvWYG2nphcVp091riUpLyBQz2pN.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "The Silent Service"
+    },
+    {
+      "id": 1081422,
+      "title": "Kunwari Dulhan",
+      "poster_path": "uYNadPUxOtyaMetqz0zhOtueTz1.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1991",
+      "first_air_date": "1991",
+      "title_ar": "Kunwari Dulhan"
+    },
+    {
+      "id": 10775,
+      "title": "Infernal Affairs",
+      "poster_path": "zRZhWomkYnIwf8nfWMZIKgJ7j32.jpg",
+      "media_type": "movie",
+      "vote_average": 7.8,
+      "release_date": "2002",
+      "first_air_date": "2002",
+      "title_ar": "Infernal Affairs"
+    },
+    {
+      "id": 1076364,
+      "title": "Carls Date",
+      "poster_path": "vSPmRZvHsci52NeVYQ2u181b0YW.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "موعد كارل الغرامي"
+    },
+    {
+      "id": 1072699,
+      "title": "Inside Furioza",
+      "poster_path": "yOLnV1lM3NuMsgYwIhz454fQRgt.jpg",
+      "media_type": "movie",
+      "vote_average": 6.6,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "فيريوزا مجددا"
+    },
+    {
+      "id": 10830,
+      "title": "Matilda",
+      "poster_path": "wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "1996",
+      "first_air_date": "1996",
+      "title_ar": "ماتيلدا"
+    },
+    {
+      "id": 10637,
+      "title": "Remember the Titans",
+      "poster_path": "825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "2000",
+      "first_air_date": "2000",
+      "title_ar": "Remember the Titans"
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "poster_path": "s52HzALUNxGGC1EMCYNQgiXSF6p.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "أسلحة"
+    },
+    {
+      "id": 1078023,
+      "title": "The King of Snipers",
+      "poster_path": "r5C85R0Bc6RL51PnPv2HIvpSMJ7.jpg",
+      "media_type": "movie",
+      "vote_average": 5.6,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "ملك القناصين"
+    },
+    {
+      "id": 10607,
+      "title": "Dont Be a Menace to South Central While Drinking Your Juice in the Hood",
+      "poster_path": "HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1996",
+      "first_air_date": "1996",
+      "title_ar": "عصابة الحي"
+    },
+    {
+      "id": 107,
+      "title": "Snatch",
+      "poster_path": "n5jh29Cq7OSzDDcdJoio90oTZiS.jpg",
+      "media_type": "movie",
+      "vote_average": 7.8,
+      "release_date": "2000",
+      "first_air_date": "2000",
+      "title_ar": "خطف"
+    },
+    {
+      "id": 1071585,
+      "title": "M3GAN 2.0",
+      "poster_path": "oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "ميغان ٢.٠"
+    },
+    {
+      "id": 10681,
+      "title": "WALLE",
+      "poster_path": "7NIvqdL3q8dPjJTjSl9cylRdTYL.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "2008",
+      "first_air_date": "2008",
+      "title_ar": "وول-ي"
+    },
+    {
+      "id": 10680,
+      "title": "D3: The Mighty Ducks",
+      "poster_path": "wltMr1loUKSCaEV4EDgh21eCRI3.jpg",
+      "media_type": "movie",
+      "vote_average": 6.0,
+      "release_date": "1996",
+      "first_air_date": "1996",
+      "title_ar": "D3: The Mighty Ducks"
+    },
+    {
+      "id": 106646,
+      "title": "The Wolf of Wall Street",
+      "poster_path": "dthIkG1QqqVZhXWnVHgLCf2KvXH.jpg",
+      "media_type": "movie",
+      "vote_average": 8.0,
+      "release_date": "2013",
+      "first_air_date": "2013",
+      "title_ar": "ذئب وول ستريت"
+    },
+    {
+      "id": 10528,
+      "title": "Sherlock Holmes",
+      "poster_path": "kWPBXZp0lmcGgWFrBTyYVSjXg2p.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2009",
+      "first_air_date": "2009",
+      "title_ar": "شارلوك هولمز"
+    },
+    {
+      "id": 10674,
+      "title": "Mulan",
+      "poster_path": "8zi99zSiqGIKYUHwOwxuNFmnlru.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "1998",
+      "first_air_date": "1998",
+      "title_ar": "مولان"
+    },
+    {
+      "id": 1064028,
+      "title": "Subservience",
+      "poster_path": "nL1AW7LNNLl2PEovBVzsoUFAVc7.jpg",
+      "media_type": "movie",
+      "vote_average": 6.6,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "Subservience"
+    },
+    {
+      "id": 1061474,
+      "title": "Superman",
+      "poster_path": "hd5Iv1kFo5SzcgnjMIrMBkXmVKc.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "سوبرمان"
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "poster_path": "iOGVtzRzNdpUK8H0PuzEN8zx192.jpg",
+      "media_type": "movie",
+      "vote_average": 7.6,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "فرانكشتاين"
+    },
+    {
+      "id": 10625,
+      "title": "Mean Girls",
+      "poster_path": "7L4DlIMvx6Wby4hEkna8RQeuy6o.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2004",
+      "first_air_date": "2004",
+      "title_ar": "Mean Girls"
+    },
+    {
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "poster_path": "uGWHftQOEkR9Pc3GWKU6dOq8v8w.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "معركة تلو الأخرى"
+    },
+    {
+      "id": 105864,
+      "title": "The Good Dinosaur",
+      "poster_path": "soTwRZR0dOVa05yZLkfXq6Z9BIK.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2015",
+      "first_air_date": "2015",
+      "title_ar": "الديناصور اللطيف"
+    },
+    {
+      "id": 10545,
+      "title": "The Hunchback of Notre Dame",
+      "poster_path": "p5LeTThqoCZnVTQ3rhCSFvDjDJI.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "1996",
+      "first_air_date": "1996",
+      "title_ar": "أحدب نوتردام"
+    },
+    {
+      "id": 105117,
+      "title": "Thirsty for Love: Sex and Murder",
+      "poster_path": "8TnC8XqInUJvLvVY1x3lOwO3G07.jpg",
+      "media_type": "movie",
+      "vote_average": 4.3,
+      "release_date": "1972",
+      "first_air_date": "1972",
+      "title_ar": "Aka Susayanlar: Seks ve Cinayet"
+    },
+    {
+      "id": 10530,
+      "title": "Pocahontas",
+      "poster_path": "6FJ7mEx3v8quLnZe8SYFpVb2zpZ.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "1995",
+      "first_air_date": "1995",
+      "title_ar": "بوكاهونتاس"
+    },
+    {
+      "id": 10518,
+      "title": "Marathon Man",
+      "poster_path": "uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "1976",
+      "first_air_date": "1976",
+      "title_ar": "Marathon Man"
+    },
+    {
+      "id": 10501,
+      "title": "The Road to El Dorado",
+      "poster_path": "tQuqhUBACMcGqCvliHxpJreBfXC.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2000",
+      "first_air_date": "2000",
+      "title_ar": "الطريق الى الدورادو"
+    },
+    {
+      "id": 1051,
+      "title": "The French Connection",
+      "poster_path": "pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "1971",
+      "first_air_date": "1971",
+      "title_ar": "The French Connection"
+    },
+    {
+      "id": 105001,
+      "title": "Iceman",
+      "poster_path": "juAYTbpP05NR8co9GhDTPwEKqde.jpg",
+      "media_type": "movie",
+      "vote_average": 5.5,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "Iceman"
+    },
+    {
+      "id": 105,
+      "title": "Back to the Future",
+      "poster_path": "vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "media_type": "movie",
+      "vote_average": 8.3,
+      "release_date": "1985",
+      "first_air_date": "1985",
+      "title_ar": "العودة إلى المستقبل"
+    },
+    {
+      "id": 10439,
+      "title": "Hocus Pocus",
+      "poster_path": "by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1993",
+      "first_air_date": "1993",
+      "title_ar": "Hocus Pocus"
+    },
+    {
+      "id": 1047041,
+      "title": "Detective Conan: Black Iron Submarine",
+      "poster_path": "688nvrDbpYsQOXik3KB6t5eVWjO.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "المحقق كونان: الغواصة الحديدية السوداء"
+    },
+    {
+      "id": 10437,
+      "title": "The Muppet Christmas Carol",
+      "poster_path": "ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "1992",
+      "first_air_date": "1992",
+      "title_ar": "الدمى وترنيمة عيد الميلاد"
+    },
+    {
+      "id": 1049471,
+      "title": "Outcome",
+      "poster_path": "kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+      "media_type": "movie",
+      "vote_average": 5.3,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "Outcome"
+    },
+    {
+      "id": 10474,
+      "title": "The Basketball Diaries",
+      "poster_path": "AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "1995",
+      "first_air_date": "1995",
+      "title_ar": "The Basketball Diaries"
+    },
+    {
+      "id": 1043197,
+      "title": "Dust Bunny",
+      "poster_path": "lT26cKwI3NE98YHUJ8AYPcgX5RR.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "أرنب الغبار"
+    },
+    {
+      "id": 1038392,
+      "title": "The Conjuring: Last Rites",
+      "poster_path": "rnSGUbS1mCLcRcwE9WDK1lrpEwj.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "الشعوذة: الطقوس الأخيرة"
+    },
+    {
+      "id": 1040148,
+      "title": "Ruby Gillman, Teenage Kraken",
+      "poster_path": "8ChIb3WzYAcza1vrXR56v510MWk.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "Ruby Gillman, Teenage Kraken"
+    },
+    {
+      "id": 10379,
+      "title": "Drop Dead Fred",
+      "poster_path": "v2kadCRcRdq8a0aRbQg4yVk3Xmd.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "1991",
+      "first_air_date": "1991",
+      "title_ar": "Drop Dead Fred"
+    },
+    {
+      "id": 10404,
+      "title": "Raise the Red Lantern",
+      "poster_path": "c8e6H3G3RNRsBQrSPv3yxUhblXZ.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "1991",
+      "first_air_date": "1991",
+      "title_ar": "Raise the Red Lantern"
+    },
+    {
+      "id": 10431,
+      "title": "War",
+      "poster_path": "ykVnMHEJgCUEhWF8n9d9FDVR2Sm.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2007",
+      "first_air_date": "2007",
+      "title_ar": "War"
+    },
+    {
+      "id": 1037603,
+      "title": "DIVE",
+      "poster_path": "euQEF1XOpfaEoRPAQDIdvqEFkNY.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "La cada"
+    },
+    {
+      "id": 1032823,
+      "title": "Trap",
+      "poster_path": "jwoaKYVqPgYemFpaANL941EF94R.jpg",
+      "media_type": "movie",
+      "vote_average": 6.2,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "فخ"
+    },
+    {
+      "id": 10320,
+      "title": "The Ring Two",
+      "poster_path": "bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
+      "media_type": "movie",
+      "vote_average": 5.8,
+      "release_date": "2005",
+      "first_air_date": "2005",
+      "title_ar": "الخاتم 2"
+    },
+    {
+      "id": 1035259,
+      "title": "The Naked Gun",
+      "poster_path": "j22cS4LXtPoaqdqbk6sWWEcRF7F.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "السلاح العاري"
+    },
+    {
+      "id": 102899,
+      "title": "Ant-Man",
+      "poster_path": "14bx6O9BKFuQI5l8c9MSFh0zQQv.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2015",
+      "first_air_date": "2015",
+      "title_ar": "الرجل النملة"
+    },
+    {
+      "id": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "poster_path": "hjsg70TQIreXTOpQYqgd78gMmit.jpg",
+      "media_type": "movie",
+      "vote_average": 6.5,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "الرجل العنكبوت المذهل 2"
+    },
+    {
+      "id": 103,
+      "title": "Taxi Driver",
+      "poster_path": "xPYuI9Yg3XH4eviR0o41dJSb7l6.jpg",
+      "media_type": "movie",
+      "vote_average": 8.1,
+      "release_date": "1976",
+      "first_air_date": "1976",
+      "title_ar": "سائق التاكسي"
+    },
+    {
+      "id": 1020969,
+      "title": "Teddys Christmas",
+      "poster_path": "uqV9OKGUjn7ifZlegAfjzNjGLr4.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Teddybjrnens Jul"
+    },
+    {
+      "id": 102651,
+      "title": "Maleficent",
+      "poster_path": "bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "ماليفسنت"
+    },
+    {
+      "id": 1022789,
+      "title": "Inside Out 2",
+      "poster_path": "eOb1Zmmtnl6R8ZNhOQwrt8C68aS.jpg",
+      "media_type": "movie",
+      "vote_average": 7.5,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "قلبا وقالبا 2"
+    },
+    {
+      "id": 1022787,
+      "title": "Elio",
+      "poster_path": "gvckTVdhkMjGWciSynsd4kI50TY.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "إليو"
+    },
+    {
+      "id": 10220,
+      "title": "Rounders",
+      "poster_path": "mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "1998",
+      "first_air_date": "1998",
+      "title_ar": "Rounders"
+    },
+    {
+      "id": 10193,
+      "title": "Toy Story 3",
+      "poster_path": "jV4eWv8jPH5uLa5yNUfRqWdWZTG.jpg",
+      "media_type": "movie",
+      "vote_average": 7.8,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "حكاية لعبة 3"
+    },
+    {
+      "id": 10195,
+      "title": "Thor",
+      "poster_path": "1FHQvc3OeqlalUkUdAdh1k4xaoO.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2011",
+      "first_air_date": "2011",
+      "title_ar": "ثور"
+    },
+    {
+      "id": 10192,
+      "title": "Shrek Forever After",
+      "poster_path": "7OuZwCgkZSXLH6fyIzy1ogao8I7.jpg",
+      "media_type": "movie",
+      "vote_average": 6.4,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "شريك 4"
+    },
+    {
+      "id": 10191,
+      "title": "How to Train Your Dragon",
+      "poster_path": "fFptwg3Du8mYjBP27mzqgH7h3EL.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "كيف تروض تنينك"
+    },
+    {
+      "id": 10138,
+      "title": "Iron Man 2",
+      "poster_path": "yhQxDrmpgJiiTuT76ulq5BTpq43.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2010",
+      "first_air_date": "2010",
+      "title_ar": "الرجل الحديدي ٢"
+    },
+    {
+      "id": 1015606,
+      "title": "Obi-Wan Kenobi: A Jedis Return",
+      "poster_path": "vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg",
+      "media_type": "movie",
+      "vote_average": 6.8,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Obi-Wan Kenobi: A Jedis Return"
+    },
+    {
+      "id": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "poster_path": "vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "media_type": "movie",
+      "vote_average": 7.4,
+      "release_date": "2013",
+      "first_air_date": "2013",
+      "title_ar": "The Hunger Games: Catching Fire"
+    },
+    {
+      "id": 1014590,
+      "title": "Upgraded",
+      "poster_path": "iEdpoqvnGPDhQWEJgY2cC55erIq.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "ترقية"
+    },
+    {
+      "id": 1010819,
+      "title": "The Little Guy",
+      "poster_path": "8L6MWRrXHTyz9GcHY0cannRCtnk.jpg",
+      "media_type": "movie",
+      "vote_average": 7.3,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "The Little Guy"
+    },
+    {
+      "id": 1011985,
+      "title": "Kung Fu Panda 4",
+      "poster_path": "kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "الكونغ فو باندا ٤"
+    },
+    {
+      "id": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "poster_path": "eEoO2Ns5pAf5vtwAS3UXCUQRLGB.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2014",
+      "first_air_date": "2014",
+      "title_ar": "كابتن أمريكا وجندي الشتاء"
+    },
+    {
+      "id": 10020,
+      "title": "Beauty and the Beast",
+      "poster_path": "5UxLAGzKY02j7Efbtjp51RQRUte.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "1991",
+      "first_air_date": "1991",
+      "title_ar": "الجميلة والوحش"
+    },
+    {
+      "id": 1008409,
+      "title": "The Bikeriders",
+      "poster_path": "ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "media_type": "movie",
+      "vote_average": 6.7,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "The Bikeriders"
+    },
+    {
+      "id": 1011477,
+      "title": "Karate Kid: Legends",
+      "poster_path": "icQjiVeYijah43eieW7AwuLlxH8.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "Karate Kid: Legends"
+    },
+    {
+      "id": 1010821,
+      "title": "Groot Takes a Bath",
+      "poster_path": "kMOm3MTsOwTROOeChQqA4QBvSTG.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Groot Takes a Bath"
+    },
+    {
+      "id": 1010820,
+      "title": "Groots Pursuit",
+      "poster_path": "z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
+      "media_type": "movie",
+      "vote_average": 7.1,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Groots Pursuit"
+    },
+    {
+      "id": 1010818,
+      "title": "Groots First Steps",
+      "poster_path": "1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2022",
+      "first_air_date": "2022",
+      "title_ar": "Groots First Steps"
+    },
+    {
+      "id": 1010756,
+      "title": "The Strangers: Chapter 2",
+      "poster_path": "pqADzs5SJvI2jC0DThPVMuNJcWS.jpg",
+      "media_type": "movie",
+      "vote_average": 6.1,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "The Strangers: Chapter 2"
+    },
+    {
+      "id": 1010755,
+      "title": "The Strangers: Chapter 3",
+      "poster_path": "yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "media_type": "movie",
+      "vote_average": 5.7,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "The Strangers: Chapter 3"
+    },
+    {
+      "id": 1010581,
+      "title": "My Fault",
+      "poster_path": "6jIfarQhbySZw1laWUoToNN71Lh.jpg",
+      "media_type": "movie",
+      "vote_average": 7.7,
+      "release_date": "2023",
+      "first_air_date": "2023",
+      "title_ar": "خطئي"
+    },
+    {
+      "id": 101,
+      "title": "Lon: The Professional",
+      "poster_path": "1sTI3K0j1Z1rJ9r6PiARsUVUj9L.jpg",
+      "media_type": "movie",
+      "vote_average": 8.3,
+      "release_date": "1994",
+      "first_air_date": "1994",
+      "title_ar": "ليون: المحترف"
+    },
+    {
+      "id": 1007734,
+      "title": "Nobody 2",
+      "poster_path": "A8LzSoPiWmrpduCRRY1sOQQEDsQ.jpg",
+      "media_type": "movie",
+      "vote_average": 6.9,
+      "release_date": "2025",
+      "first_air_date": "2025",
+      "title_ar": "نكرة ٢"
+    },
+    {
+      "id": 1007757,
+      "title": "Swapped",
+      "poster_path": "c2m0KshJuJMxVhPaB352U8Tuk5E.jpg",
+      "media_type": "movie",
+      "vote_average": 9.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "في كل جسد حكاية"
+    },
+    {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "poster_path": "l86te96MjOIJ4Lup2lgvs7D59IF.jpg",
+      "media_type": "movie",
+      "vote_average": 7.0,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "المنتقمون: يوم القيامة"
+    },
+    {
+      "id": 1380291,
+      "title": "Tom Clancys Jack Ryan: Ghost War",
+      "poster_path": "iBEQJqPdmzFvPjuTxy2KZtbsEQJ.jpg",
+      "media_type": "movie",
+      "vote_average": 7.2,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "جاك ريان: طيف الحرب لتوم كلانسي"
+    },
+    {
+      "id": 1439930,
+      "title": "The Punisher: One Last Kill",
+      "poster_path": "hHpKF31vOU6TMN60AHiUQGtKQWb.jpg",
+      "media_type": "movie",
+      "vote_average": 8.4,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "ذا بانشر: مهمة واحدة أخيرة"
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "poster_path": "ypyn52YUVZ6ZZ3UlMtglIKejYOa.jpg",
+      "media_type": "movie",
+      "vote_average": 7.9,
+      "release_date": "2026",
+      "first_air_date": "2026",
+      "title_ar": "هوس"
+    }
+  ]
+}

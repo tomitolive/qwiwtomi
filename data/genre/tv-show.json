@@ -1,0 +1,17 @@
+{
+  "name": "TV Shows",
+  "name_ar": "مسلسلات",
+  "description": "مسلسلات تلفزيونية متنوعة",
+  "items": [
+    {
+      "id": 158300,
+      "title": "Knuckles",
+      "poster_path": "xxQ7ny7G8b226cAyRJl2ADAMdYR.jpg",
+      "media_type": "tv",
+      "vote_average": 7.3,
+      "release_date": "2024",
+      "first_air_date": "2024",
+      "title_ar": "Knuckles"
+    }
+  ]
+}

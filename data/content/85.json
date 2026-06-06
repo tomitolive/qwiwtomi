@@ -1,0 +1,54 @@
+{
+  "id": 85,
+  "title": "Raiders of the Lost Ark",
+  "title_ar": "Raiders of the Lost Ark",
+  "title_en": "Raiders of the Lost Ark",
+  "slug": "85-raiders-of-the-lost-ark",
+  "folder": "movie",
+  "media_type": "movie",
+  "overview": "عندما استأجرت الحكومة الدكتور إنديانا جونز - الأستاذ الملائم للتويد والذي صادف أنه عالم آثار مشهور - لتحديد موقع تابوت العهد الأسطوري ، وجد نفسه في مواجهة النظام النازي بأكمله.",
+  "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+  "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+  "release_date": "1981-06-12",
+  "vote_average": 7.9,
+  "vote_count": 13621,
+  "genres": [
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم آثار مشهور، يجد الدكتور إنديانا جونز نفسه في مواجهة النظام النازي بأكمله عندما استأجرت الحكومة له لتحديد موقع تابوت العهد الأسطوري. معاً مع حبيبةه Marion Ravenwood، يخوضون مغامرة رائعة في البحث عن تابوت العهد الأسطوري، ولكنهم يكتشفون أن النازيين يبحثون عنه أيضاً.",
+    "desc_en": "In the world of renowned archaeologist, Dr. Indiana Jones finds himself facing the entire Nazi regime when the government hires him to locate the legendary Ark of the Covenant. Alongside his love interest Marion Ravenwood, they embark on a thrilling adventure to find the Ark, but they discover that the Nazis are also searching for it.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم RAIDERS OF THE LOST ARK مترجم اون لاين!",
+    "seo_title_ar": "مشاهدة فيلم RAIDERS OF THE LOST ARK مترجم اون لاين - توميتو",
+    "keywords": "فيلم RAIDERS OF THE LOST ARK مترجم, مشاهدة فيلم RAIDERS OF THE LOST ARK, مشاهدة Raiders of the Lost Ark 1981, Raiders of the Lost Ark مترجم, قصة فيلم Raiders of the Lost Ark, توميتو Raiders of the Lost Ark, أحداث Raiders of the Lost Ark بالتفصيل",
+    "opinion": "فيلم RAIDERS OF THE LOST ARK هو فيلم مغامرة رائع يملأه الإثارة والفكاهة. معاً مع النجاحات الفنية والشخصية لإنديانا جونز، يصبح الفيلم تجربة رائعة لجميع المشاهدين.",
+    "faq": [
+      {
+        "q": "ما هو فيلم RAIDERS OF THE LOST ARK؟",
+        "a": "فيلم RAIDERS OF THE LOST ARK هو فيلم مغامرة رائع يملأه الإثارة والفكاهة."
+      },
+      {
+        "q": "ما هو موقع تابوت العهد الأسطوري؟",
+        "a": "موقع تابوت العهد الأسطوري هو موقع مقدس يملأه الأهمية والرمزية."
+      },
+      {
+        "q": "ما هو دور إنديانا جونز في الفيلم؟",
+        "a": "إنديانا جونز هو عالم آثار مشهور يلعب دوراً رئيسياً في الفيلم"
+      }
+    ]
+  },
+  "fixed": true,
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "115 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Harrison Ford Karen Allen Paul Freeman John Rhys-Davies Ronald Lacey"
+}

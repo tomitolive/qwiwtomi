@@ -1,0 +1,45 @@
+{
+  "id": 94722,
+  "title": "Tagesschau",
+  "title_ar": "Tagesschau",
+  "title_en": "Tagesschau",
+  "slug": "94722-tagesschau",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+  "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+  "release_date": "1952-12-26",
+  "vote_average": 6.8,
+  "vote_count": 255,
+  "genres": [
+    {
+      "id": 10763,
+      "name": "أخبار"
+    }
+  ],
+  "ai_content": {
+    "intro": "ما هي البرامج التلفزيونية التي تستطيع أن تظل موجودة لسنوات عديدة وتظل مشهورة بين الجمهور؟",
+    "desc_ar": "في برنامج الأخبار اليومي، تسلط الضوء على أحداث اليوم، من أخبار العالم إلى أحداث المحلية، مع تحليلات ومراجعات من خبراء ومتخصصين في مجال الأخبار، لتحقيق معالم واضحة عن ماเกิดขارف حولنا.",
+    "seo_title_ar": "مشاهدة برنامج الأخبار اليومي مترجم اون لاين - توميتو",
+    "meta_desc": "أخبار اليوم: اكتشف أحداث اليوم مع برنامج الأخبار اليومي - توميتو",
+    "outro": "إذا كنت تبحث عن مصدر الأخبار الموثوق، فإن تاغيشو هو الخيار الأمثل.",
+    "opinion": "برنامج الأخبار اليومي هو المكان الأنسب للاطلاع على أحداث اليوم، مع تحليلات ومراجعات من خبراء ومتخصصين في مجال الأخبار، مما يمنحنا معالم واضحة عن ماเกิดขارف حولنا.",
+    "faq": [
+      {
+        "q": "ما هو برنامج الأخبار اليومي؟",
+        "a": "برنامج الأخبار اليومي هو برنامج يومي يسلط الضوء على أحداث اليوم، من أخبار العالم إلى أحداث المحلية، مع تحليلات ومراجعات من خبراء ومتخصصين في مجال الأخبار."
+      }
+    ],
+    "keywords": "برنامج الأخبار اليومي, أخبار اليوم, أخبار العالم, أخبار المحلية, Tagesschau مترجم كامل, قصة مسلسل Tagesschau, مشاهدة Tagesschau 1952, توميتو Tagesschau, أحداث Tagesschau بالتفصيل",
+    "desc_en": "In this daily news program, the spotlight is on the events of the day, from global news to local events, with analyses and reviews from experts and specialists in the field of news, to achieve a clear understanding of what's happening around us."
+  },
+  "fixed": true,
+  "first_air_date": "1952-12-26",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "99 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "-"
+}

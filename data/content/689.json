@@ -1,0 +1,59 @@
+{
+  "id": 689,
+  "title": "John Doe",
+  "title_ar": "John Doe",
+  "title_en": "John Doe",
+  "slug": "689-john-doe",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/ngMl9h0wJ1mEgBSOhJuZo46KBZm.jpg",
+  "backdrop_path": "/tSl2NWcLctkzd8F7fE7Fdn3M84D.jpg",
+  "release_date": "2002-09-20",
+  "vote_average": 7.3,
+  "vote_count": 90,
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم من الغموض والخيال العلمي، يأتي جون دو إلى الشارع ليكشف سر ما يحدث في مدينة مليئة بالاسرار، حيث يتعامل مع الأحداث المخيفة والقصص المدهشة، ويحاول حل mysteries والقضايا المثيرة.",
+    "desc_en": "In a world of mystery and science fiction, John Doe comes to the streets to uncover the secrets of a city filled with secrets, where he deals with terrifying events and amazing stories, and tries to solve mysteries and intriguing cases.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة مليئة بالاسرار",
+    "seo_title_ar": "مشاهدة فيلم جون دو مترجم اون لاين - توميتو",
+    "keywords": "فيلم دراما مترجم, مشاهدة فيلم غموض, فيلم خيال علمي مترجم, أحداث John Doe بالتفصيل, John Doe مترجم كامل, مشاهدة John Doe 2002, توميتو John Doe, قصة مسلسل John Doe",
+    "opinion": "هو فيلم دراما غموض خيال علمي رائع، حيث يجمع بين الأحداث المخيفة والقصص المدهشة، ويحاول حل mysteries والقضايا المثيرة.",
+    "faq": [
+      {
+        "q": "ما هو نوع فيلم جون دو؟",
+        "a": "هو فيلم دراما غموض خيال علمي"
+      },
+      {
+        "q": "ما هو نوع المدينة التي يحدث فيها فيلم جون دو؟",
+        "a": "هي مدينة مليئة بالاسرار"
+      },
+      {
+        "q": "ما هو نوع الأحداث التي يحدث فيها فيلم جون دو؟",
+        "a": "هي الأحداث المخيفة والقصص المدهشة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "2002-09-20",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "223 دقيقة",
+  "language": "el",
+  "country": "Greece",
+  "cast": "Eva Kotamanidou Vangelis Kazan Aliki Georgouli Kiriakos Katrivanos Stratos Pahis"
+}

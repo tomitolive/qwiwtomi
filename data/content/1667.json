@@ -1,0 +1,55 @@
+{
+  "id": 1667,
+  "title": "Saturday Night Live",
+  "title_ar": "Saturday Night Live",
+  "title_en": "Saturday Night Live",
+  "slug": "1667-saturday-night-live",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "برنامج منوعات تلفزيوني أمريكي مباشر يُقدم عروضاً كوميدية ومحاكاة ساخرة للسياسة والثقافة المعاصرة، يؤديها طاقم كبير من الممثلين، كل حلقة يقدمها ضيف من المشاهير ويقدم المونولوج الإفتتاحي مع طاقم البرنامج، كما تقدم عروضاً موسيقيةً مباشرة يؤديها الضيف الموسيقي لكل حلقة.",
+  "poster_path": "/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+  "backdrop_path": "/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+  "release_date": "1975-10-11",
+  "vote_average": 6.9,
+  "vote_count": 497,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10763,
+      "name": "أخبار"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في كل ليلة، يُقدم برنامج Saturday Night Live عروضاً كوميدية ومحاكاة ساخرة للسياسة والثقافة المعاصرة، حيث يؤديها طاقم كبير من الممثلين، كل حلقة يقدمها ضيف من المشاهير ويقدم المونولوج الإفتتاحي مع طاقم البرنامج، كما تقدم عروضاً موسيقيةً مباشرة يؤديها الضيف الموسيقي لكل حلقة.",
+    "desc_en": "Every night, Saturday Night Live presents comedic and satirical takes on current politics and culture, with a large team of actors, each episode hosted by a celebrity guest and featuring a monologue with the show's team, as well as live musical performances by the guest musician for each episode.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Saturday Night Live - توميتو",
+    "seo_title_ar": "مشاهدة برنامج Saturday Night Live مترجم اون لاين - توميتو",
+    "keywords": "فيلم كوميدي, مشاهدة برنامج كوميدي, برنامج كوميدي مترجم, Saturday Night Live مترجم كامل, قصة مسلسل Saturday Night Live, توميتو Saturday Night Live, أحداث Saturday Night Live بالتفصيل, مشاهدة Saturday Night Live 1975",
+    "opinion": "برنامج Saturday Night Live هو المكان المناسب للاهتمام بالسياسة والثقافة، حيث يُقدم عروضاً كوميدية ومحاكاة ساخرة تسلط الضوء على الأحداث الجارية.",
+    "faq": [
+      {
+        "q": "ما هو برنامج Saturday Night Live؟",
+        "a": "برنامج تلفزيوني أمريكي مباشر يُقدم عروضاً كوميدية ومحاكاة ساخرة للسياسة والثقافة."
+      },
+      {
+        "q": "ما هو نوع البرنامج؟",
+        "a": "برنامج تلفزيوني أمريكي مباشر"
+      },
+      {
+        "q": "ما هي الأغراض من البرنامج؟",
+        "a": "للاهتمام بالسياسة والثقافة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1975-10-11",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "80 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Charles Berling Romane Bohringer Jules Sitruk Morgan Freeman"
+}

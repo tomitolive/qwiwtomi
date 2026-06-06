@@ -1,0 +1,59 @@
+{
+  "id": 35790,
+  "title": "Cardcaptor Sakura",
+  "title_ar": "Cardcaptor Sakura",
+  "title_en": "Cardcaptor Sakura",
+  "slug": "35790-cardcaptor-sakura",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/eFV0I3w2trXNVIEXMvZpJqYJCd4.jpg",
+  "backdrop_path": "/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
+  "release_date": "1998-04-07",
+  "vote_average": 8.6,
+  "vote_count": 791,
+  "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم من الرسوم المتحركة، تتبع ساكورا كاردكابتر القصص القصيرة التي تكتشفها في قبة القمر، والتي تتحكم بها قوة خارقة. مع صديقها توموё، تذهب ساكورا على مغامرة رائعة لاكتشاف سر القبة القمرية.",
+    "desc_en": "In a world of animation, Sakura Cardcaptor follows short stories that she discovers in the Moon's Orb, which she controls with extraordinary power. With her friend Tomoyo, Sakura goes on a great adventure to uncover the secret of the Moon's Orb.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في قبة القمر مع ساكورا كاردكابتر!",
+    "seo_title_ar": "مشاهدة فيلم كاردكابتر ساكورا مترجم اون لاين - توميتو",
+    "keywords": "فيلم كاردكابتر ساكورا مترجم, مشاهدة فيلم كاردكابتر, مشاهدة Cardcaptor Sakura 1998, قصة مسلسل Cardcaptor Sakura, أحداث Cardcaptor Sakura بالتفصيل, توميتو Cardcaptor Sakura, Cardcaptor Sakura مترجم كامل",
+    "opinion": "هذه السلسلة التلفزيونية الرائعة هي مزيج من الرسوم المتحركة والخيال العلمي والفانتازيا، مما يجعلها مثالية لجميع المتابعين.",
+    "faq": [
+      {
+        "q": "ما هو قبة القمر؟",
+        "a": "قبة القمر هي مكان يكتشف فيه ساكورا القصص القصيرة."
+      },
+      {
+        "q": "ما هو دور توموё في السلسلة؟",
+        "a": "توموё صديق ساكورا ومدبرها في مغامراتها."
+      },
+      {
+        "q": "ما هو هدف ساكورا في السلسلة؟",
+        "a": "هدف ساكورا هو اكتشاف سر القبة القمرية"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1998-04-07",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "117 دقيقة",
+  "language": "bn",
+  "country": "الهند",
+  "cast": "Madhabi Mukherjee Soumitra Chatterjee Shailen Mukherjee Shyamal Ghoshal Gitali Roy"
+}

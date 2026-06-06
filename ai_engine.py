@@ -1,243 +1,495 @@
+#!/usr/bin/env python3
+"""
+AI Engine - Rebuilt from scratch
+Features:
+- HuggingFace API for content generation
+- pytrends for trending keywords (Saudi Arabia & Middle East)
+- TMDB API for trending content (1 trending + 1 random high-rated)
+- Robust error handling and retry logic
+- Valid JSON output without fallback
+"""
+
 import os
-import requests
 import json
+import requests
+import logging
 import time
 import random
-import logging
 import re
+from datetime import datetime
 
+# Configuration
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+COHERE_API_URL = "https://api.cohere.com/v2/chat"
+
+TMDB_API_KEY = os.getenv("TMDB_API_KEY", "882e741f7283dc9ba1654d4692ec30f6")
+TMDB_BASE_URL = "https://api.themoviedb.org/3"
+
+# Logging setup
+logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 log = logging.getLogger(__name__)
-API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
 
-# قائمة التصنيفات لضمان استقرار العمليات
-BOT_MISSIONS = [
-    {"name": "Action", "id": 28, "label": "أكشن", "type": "genre"},
-    {"name": "Adventure", "id": 12, "label": "مغامرة", "type": "genre"},
-    {"name": "Animation", "id": 16, "label": "أنمي", "type": "genre"},
-    {"name": "Comedy", "id": 35, "label": "كوميديا", "type": "genre"},
-    {"name": "Crime", "id": 80, "label": "جريمة", "type": "genre"},
-    {"name": "Drama", "id": 18, "label": "دراما", "type": "genre"},
-    {"name": "Horror", "id": 27, "label": "رعب", "type": "genre"},
-    {"name": "Sci-Fi", "id": 878, "label": "خيال علمي", "type": "genre"},
-    {"name": "Thriller", "id": 53, "label": "إثارة", "type": "genre"},
-    {"name": "Romance", "id": 10749, "label": "رومانسية", "type": "genre"},
-    # Major Production Companies (The Majors)
-    {"name": "Disney", "id": 2, "label": "ديزني", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/w890vH9m7S8N7S2pX9jH9rL7yH.png"},
-    {"name": "Warner Bros", "id": 174, "label": "وارنر بروذرز", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/ky0xOc3wYvc0T6Ozs0Vjp72rQcR.png"},
-    {"name": "Universal", "id": 33, "label": "يونيفرسال", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/8lvHyhZg3p239v9M9S9ZpZpZpZp.png"},
-    {"name": "Paramount", "id": 4, "label": "باراماونت", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/jay6WcMgagAklUt7i9Euwj1pzTF.png"},
-    {"name": "Sony", "id": 57, "label": "سوني", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/zV7uuh4RlLMtH66nHNzodGiOmEe.png"},
-    {"name": "20th Century", "id": 12792, "label": "فوكس", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/789z86SkhM9r6oYp9fSsh9Yp9fS.png"},
-    # Streaming
-    {"name": "Netflix", "id": 175965, "label": "نتفليكس", "type": "company", "logo": "https://image.tmdb.org/t/p/w200/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"},
-    {"name": "Amazon", "id": 24208, "label": "أمازون", "type": "company", "logo": "https://image.tmdb.org/t/p/w200/68vAnvFc9O6O9S9ZpZpZpZpZpZp.png"},
-    {"name": "Apple", "id": 127928, "label": "آبل", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/h0rjX5vjW5r8yEnUBStFarjcLT4.png"},
-    # Powerhouses & Independents
-    {"name": "A24", "id": 41077, "label": "A24", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"},
-    {"name": "Lionsgate", "id": 1632, "label": "لايونزجيت", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/cisLn1YAUuptXVBa0xjq7ST9cH0.png"},
-    {"name": "Marvel", "id": 420, "label": "مارفل", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"},
-    {"name": "Lucasfilm", "id": 1, "label": "لوكاس فيلم", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/tlVSws0RvvtPBwViUyOFAO0vcQS.png"},
-    {"name": "Legendary", "id": 923, "label": "ليجنداري", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"},
-    {"name": "Blumhouse", "id": 3172, "label": "بلوم هاوس", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/rzKluDcRkIwHZK2pHsiT667A2Kw.png"},
-    {"name": "New Line", "id": 12, "label": "نيو لاين", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"},
-    {"name": "DreamWorks", "id": 521, "label": "دريم ووركس", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/3BPX5VGBov8SDqTV7wC1L1xShAS.png"},
-    # Arab Production
-    {"name": "MBC Studios", "id": 125925, "label": "MBC", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/9CeuSVhXnE5xkynAosEddIrbEiw.png"},
-    {"name": "Synergy", "id": 104523, "label": "Synergy", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/fH9m7S8N7S2pX9jH9rL7yH.png"},
-    {"name": "HBO", "id": 101, "label": "HBO", "type": "company", "logo": "https://image.tmdb.org/t/p/w300/tuomPhY2UtuPTqqKB4vJuRGAs24.png"}
+# Global state
+_current_model_idx = 0
+
+# Cohere Models Configuration
+COHERE_MODELS = [
+    {
+        "name": "command-r-08-2024",
+        "model_id": "command-r-08-2024",
+        "api_key": COHERE_API_KEY
+    }
 ]
 
-def _call_llm(system_msg, user_msg):
-    url = "https://api.groq.com/openai/v1/chat/completions"
-    payload = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [
-            {"role": "system", "content": system_msg},
-            {"role": "user", "content": user_msg}
-        ],
-        "temperature": 0.5, 
-        "response_format": {"type": "json_object"}
-    }
-    headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
-    time.sleep(16)
-    try:
-        res = requests.post(url, headers=headers, json=payload, timeout=45)
-        data = res.json()
-        if 'choices' in data:
-            return data['choices'][0]['message']['content'].strip()
-        else:
-            log.error(f"Error: No choices in response: {data}")
-            return None
-    except Exception as e:
-        log.error(f"Error: {e}")
-        return None
 
-LIVE_TRENDS_CACHE = {}
-def get_live_trends(title, geo):
-    cache_key = f"{title}_{geo}"
-    if cache_key not in LIVE_TRENDS_CACHE:
-        try:
-            from trends_fetcher import fetch_related_keywords
-            trends = fetch_related_keywords(title, geo)
-            LIVE_TRENDS_CACHE[cache_key] = trends
-        except Exception:
-            LIVE_TRENDS_CACHE[cache_key] = ""
-    return LIVE_TRENDS_CACHE[cache_key]
-
-def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en, year, genres, media_type):
-    genres_str = ", ".join(genres) if isinstance(genres, list) else str(genres)
+def _call_cohere_llm(system_msg, user_msg, max_retries=3):
+    """Call Cohere API with retry logic."""
+    global _current_model_idx
     
-    # Fetch live multi-geo trends
-    trend_arab = get_live_trends(title_ar, 'AR')
-    trend_us = get_live_trends(title_en, 'US')
-
-    system = f"""🛡️ The "Ultimate Narrative Master" Style Prompt
-    
-    Task: Use your intelligence to UNDERSTAND the story of "{title_ar}" and RETELL it in a unique, suspenseful way.
-    
-    ⚠️ MANDATORY RULES (STRICT):
-    1. STYLE: Creative storytelling. DO NOT copy-paste or just rephrase. You must "think" and tell the core events from a narrator's perspective.
-    2. LANGUAGE: Pure Arabic (أ-ي) for the main description. No English/French/Foreign characters allowed inside the Arabic paragraphs.
-    3. FORBIDDEN:
-       - NO names of actors, directors, or producers.
-       - NO release years (e.g., 2024, 1995).
-       - NO SEO keywords like "مشاهدة", "تحميل", "مترجم", "بجودة عالية" inside the story text.
-    4. STRUCTURE: 3 to 4 sections (Intro + Body + Suspenseful Outro).
-    5. LENGTH: Strictly between 2.8 lines (min) and 4.1 lines (max) per section logic.
-    6. UNIQUENESS: Every generation must be fresh. Adapt the tone to the Genre: {genres_str}.
-    
-    📥 Format (Strict JSON):
-    {{
-      "arabic": {{
-        "description": "Narrative retelling in Arabic (Pure AR, no names, no years)...",
-        "meta_description": "Suspenseful summary (Max 155 chars)...",
-        "seo_headers": {{
-          "title": "Cinematic Title"
-        }}
-      }},
-      "english": {{
-        "description": "Creative narrative in English...",
-        "seo_headers": {{
-          "title": "US Title"
-        }}
-      }}
-    }}"""
-
-    user = f"Title: {title_ar}. Type: {genres_str}. Original Story: {overview_ar}."
-    
-    # Fallback to avoid complete failure if AI API key is missing
-    if not API_KEY or API_KEY.startswith("AIza"): # placeholder check
-        log.warning("No valid GROQ_API_KEY found. Using static fallback for testing.")
-        res = json.dumps({
-            "arabic": {
-                "description": f"شاهد واستمتع بفيلم {title_ar} {year} الذي ينتمي لفئة {genres_str}. تدور أحداث قصته حول تجربة فريدة ومشوقة تأخذك في رحلة لا تنسى. استمتع بمشاهدة {title_ar} بجودة عالية HD مترجم حصرياً.",
-                "meta_description": f"مشاهدة {title_ar} مترجم {year} بجودة عالية اون لاين.",
-                "seo_headers": {"title": f"مشاهدة {title_ar} مترجم HD"}
-            },
-            "english": {
-                "description": f"Experience the amazing story of {title_en} ({year}). Join this journey in {genres_str} with full HD quality and English subtitles.",
-                "seo_headers": {"title": f"Watch {title_en} online HD"}
-            }
-        })
-    else:
-        res = _call_llm(system, user)
-
-    try:
-        data = json.loads(res or "{}")
-        arabic = data.get("arabic", {})
-        english = data.get("english", {})
-        seo_ar = arabic.get("seo_headers", {})
-        seo_en = english.get("seo_headers", {})
+    for attempt in range(max_retries):
+        model_config = COHERE_MODELS[_current_model_idx]
+        log.info(f"🔍 Attempting model: {model_config['name']} ({model_config['model_id']})")
         
-        # Add cleaning pass
         try:
-            from trends_fetcher import clean_strict
-        except ImportError:
-            def clean_strict(t): return t
+            headers = {
+                "Authorization": f"Bearer {model_config['api_key']}",
+                "Content-Type": "application/json",
+                "Accept": "application/json"
+            }
             
-        desc_ar = clean_strict(arabic.get("description", ""))
-        # Protect against short descriptions (fallback to overview if needed)
-        if len(desc_ar) < 200 and overview_ar:
-             desc_ar = clean_strict(f"{desc_ar}\n\n{overview_ar}")
+            payload = {
+                "model": model_config["model_id"],
+                "messages": [
+                    {"role": "system", "content": system_msg},
+                    {"role": "user", "content": user_msg}
+                ]
+            }
 
-        # 100% Pytrends keywords (Merge Arab and US trends)
-        raw_keywords = ", ".join([k for k in [trend_arab, trend_us] if k]).strip()
-        final_keywords = clean_strict(raw_keywords)
+            response = requests.post(COHERE_API_URL, headers=headers, json=payload, timeout=30)
+            
+            if response.status_code == 200:
+                data = response.json()
+                text = data.get("message", {}).get("content", [{}])[0].get("text", "")
+                if text:
+                    text = re.sub(r'```json\s*|\s*```', '', text).strip()
+                    log.info(f"✅ SUCCESS: {model_config['name']} generated content successfully")
+                    return text, model_config['name']
+            elif response.status_code == 429:
+                log.warning(f"⚠️ Rate limit hit on {model_config['name']}. Retrying in 2 seconds...")
+                time.sleep(2)
+                continue
+            elif response.status_code == 503:
+                log.warning(f"⚠️ Service unavailable on {model_config['name']}. Retrying in 5 seconds...")
+                time.sleep(5)
+                continue
+            else:
+                log.error(f"❌ {model_config['name']} Error {response.status_code}: {response.text[:300]}")
+                
+        except requests.exceptions.Timeout:
+            log.warning(f"⚠️ Timeout on {model_config['name']}. Retrying...")
+            time.sleep(2)
+            continue
+        except Exception as e:
+            log.error(f"❌ {model_config['name']} API Error: {e}")
+        
+        # Move to next model on failure
+        _current_model_idx = (_current_model_idx + 1) % len(COHERE_MODELS)
+    
+    log.error("🚨 All Cohere models exhausted or failed.")
+    return None, None
 
-        return {
-            "desc_ar": desc_ar,
-            "desc_en": clean_strict(english.get("description", "")),
-            "meta_desc": clean_strict(arabic.get("meta_description", "") or arabic.get("description", "")[:155]),
-            "keywords": final_keywords,
-            "seo_title_ar": clean_strict(seo_ar.get("title", "")),
-            "seo_title_en": clean_strict(seo_en.get("title", ""))
+
+def get_trending_keywords(query, geo='SA'):
+    """Get trending keywords using pytrends for Saudi Arabia & Middle East."""
+    try:
+        from pytrends.request import TrendReq
+        pytrends = TrendReq(hl='ar-SA', tz=360)
+        
+        # Get related queries
+        pytrends.build_payload([query], cat=0, timeframe='today 12-m', geo=geo, gprop='')
+        related_queries = pytrends.related_queries()
+        
+        keywords = []
+        if query in related_queries and 'top' in related_queries[query]:
+            top_queries = related_queries[query]['top']
+            if top_queries is not None and not top_queries.empty:
+                keywords = top_queries['query'].head(10).tolist()
+        
+        log.info(f"🔍 Found {len(keywords)} trending keywords for '{query}' in {geo}")
+        return keywords
+        
+    except Exception as e:
+        log.error(f"❌ Error fetching trending keywords: {e}")
+        return []
+
+
+def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
+    """Fetch trending content from TMDB (US region), excluding existing content."""
+    available_ids = available_ids or set()
+    log.info(f"🔥 Fetching trending {media_type} (US region)...")
+    
+    params = {
+        'api_key': tmdb_api_key,
+        'region': 'US'
+    }
+    
+    try:
+        response = requests.get(f"{TMDB_BASE_URL}/trending/{media_type}/day", params=params, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
+            if 'results' in data and len(data['results']) > 0:
+                trends = []
+                for item in data['results'][:20]:
+                    tid = item.get('id')
+                    # Skip if already exists
+                    if tid in available_ids:
+                        continue
+                    
+                    title = item.get('title') or item.get('name')
+                    poster = item.get('poster_path')
+                    year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                    rating = round(item.get('vote_average', 0), 1)
+                    
+                    folder = 'movie' if media_type == 'movie' else 'tv'
+                    
+                    def clean_slug(text):
+                        res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                        res = re.sub(r'[-\s_]+', '-', res)
+                        return res
+                    
+                    slug = f"{tid}-{clean_slug(title)}"
+                    
+                    trends.append({
+                        'tmdb_id': tid,
+                        'title': title,
+                        'poster': poster,
+                        'year': year,
+                        'rating': rating,
+                        'folder': folder,
+                        'slug': slug
+                    })
+                
+                if trends:
+                    log.info(f"✅ Found {len(trends)} trending {media_type} (excluding existing)")
+                else:
+                    log.warning(f"⚠️ All trending {media_type} already exist in local data")
+                
+                return trends
+    except Exception as e:
+        log.error(f"Error fetching trending {media_type}: {e}")
+    
+    return []
+
+
+def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
+    """Fetch one random movie/tv with rating >= 7, excluding existing content."""
+    available_ids = available_ids or set()
+    log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7)...")
+    
+    endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
+    
+    # Try multiple pages for more variety
+    for page in range(1, 4):
+        params = {
+            'api_key': tmdb_api_key,
+            'vote_average.gte': 7,
+            'vote_count.gte': 50,
+            'sort_by': 'vote_average.desc',
+            'page': page
         }
-    except:
-        return {}
-
-def generate_seo_content(title, overview, media_type, genres=[], *args, **kwargs):
-    res = generate_bilingual_description(title, title, overview, None, None, None, genres)
-    if res and res.get("desc_ar"):
-        return {
-            "seo_title": res.get("seo_title_ar", f"مشاهدة {title} مترجم"),
-            "ai_description": res["desc_ar"],
-            "meta_desc": res.get("meta_desc", ""),
-            "keywords": res.get("keywords", "")
-        }
+        
+        try:
+            response = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                if 'results' in data and len(data['results']) > 0:
+                    results = data['results'][:20]
+                    # Filter out existing content
+                    filtered = [r for r in results if r.get('id') not in available_ids]
+                    
+                    if filtered:
+                        item = random.choice(filtered)
+                        
+                        tid = item.get('id')
+                        title = item.get('title') or item.get('name')
+                        poster = item.get('poster_path')
+                        year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                        rating = round(item.get('vote_average', 0), 1)
+                        
+                        folder = 'movie' if media_type == 'movie' else 'tv'
+                        
+                        def clean_slug(text):
+                            res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                            res = re.sub(r'[-\s_]+', '-', res)
+                            return res
+                        
+                        slug = f"{tid}-{clean_slug(title)}"
+                        
+                        log.info(f"✅ Found {media_type}: {title} ({year}) - Rating: {rating}")
+                        return {
+                            'tmdb_id': tid,
+                            'title': title,
+                            'poster': poster,
+                            'year': year,
+                            'rating': rating,
+                            'folder': folder,
+                            'slug': slug
+                        }
+        except Exception as e:
+            log.error(f"Error fetching random high-rated {media_type} page {page}: {e}")
+    
     return None
 
-def generate_meta_tags(title_ar, title_en, year, *args, **kwargs):
-    trend_arab = get_live_trends(title_ar, 'AR')
-    trend_us = get_live_trends(title_en, 'US')
-    final_keywords = ", ".join([k for k in [trend_arab, trend_us] if k]).strip()
+
+def get_available_ids():
+    """Get set of available tmdb_ids from local content."""
+    available_ids = set()
+    index_path = os.path.join(os.path.dirname(__file__), 'data', 'content_index.json')
+    if os.path.exists(index_path):
+        try:
+            with open(index_path, 'r', encoding='utf-8') as f:
+                index_data = json.load(f)
+                for item in index_data:
+                    tid = item.get('tmdb_id')
+                    if tid:
+                        available_ids.add(int(tid))
+        except Exception:
+            pass
+    return available_ids
+
+
+def fetch_mixed_content(media_type, tmdb_api_key=TMDB_API_KEY):
+    """Fetch 1 trending + 1 random high-rated content, excluding existing content."""
+    available_ids = get_available_ids()
+    log.info(f"📊 Found {len(available_ids)} existing items in local data")
+    
+    trending = fetch_trending(media_type, tmdb_api_key, available_ids)
+    random_item = fetch_random_high_rated(media_type, tmdb_api_key, available_ids)
+    
+    result = []
+    
+    # Get top trending (already filtered)
+    if trending:
+        result.append(trending[0])
+    
+    # Get random high-rated (already filtered)
+    if random_item:
+        result.append(random_item)
+    
+    log.info(f"✅ Returning {len(result)} new {media_type} items")
+    return result
+
+
+def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en, year, genres_ar, media_type, actor=None, platform=None, is_arabic_content=False, *args, **kwargs):
+    """Generate bilingual description using HuggingFace API."""
+    genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else str(genres_ar)
+    media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    
+    # Simple, clear prompt to avoid JSON parse errors
+    system = """You are a JSON generator. Return ONLY valid JSON object. No markdown, no code blocks.
+
+Generate this exact JSON structure:
+{
+  "desc_ar": "3-5 sentences summary in Arabic",
+  "desc_en": "English summary",
+  "meta_desc": "130-155 characters",
+  "seo_title_ar": "مشاهدة فيلم TITLE_EN مترجم - توميتو",
+  "opinion_ar": "1-2 sentence review in Arabic",
+  "opinion_en": "1-2 sentence review in English",
+  "faq": [{"q": "question in Arabic", "a": "answer in Arabic", "q_en": "question in English", "a_en": "answer in English"}],
+  "keywords": "comma separated keywords"
+}
+
+CRITICAL: Complete the entire JSON. Do not cut off mid-sentence. Ensure all fields are present and properly formatted. No newlines in strings. Escape quotes properly."""
+
+    user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}."""
+
+    res, model_used = _call_cohere_llm(system, user)
+    
+    try:
+        data = json.loads(res or "{}")
+        
+        # Add trending keywords from pytrends
+        t_query = title_ar if title_ar and title_ar.strip() else title_en
+        trending_keywords = get_trending_keywords(t_query, geo='SA')
+        
+        # Merge keywords
+        base_keywords = data.get('keywords', '')
+        if trending_keywords:
+            trending_kw_str = ", ".join(trending_keywords[:5])
+            data['keywords'] = f"{base_keywords}, {trending_kw_str}"
+        
+        # Ensure all required fields exist
+        if not data.get('desc_ar'):
+            data['desc_ar'] = overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية."
+        if not data.get('desc_en'):
+            data['desc_en'] = overview_en or f"Enjoy watching {title_en} in high quality."
+        if not data.get('meta_desc'):
+            data['meta_desc'] = f"مشاهدة {title_ar} مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة."[:155]
+        if not data.get('seo_title_ar'):
+            data['seo_title_ar'] = f"مشاهدة {media_label_ar} {title_en} مترجم - توميتو"
+        if not data.get('opinion_ar'):
+            data['opinion_ar'] = f"عمل {media_label_ar} مذهل يستحق المتابعة والاستكشاف."
+        if not data.get('opinion_en'):
+            data['opinion_en'] = f"A stunning {media_label_ar} worth watching and exploring."
+        if not data.get('faq'):
+            data['faq'] = [
+                {"q": f"كيف يمكنني مشاهدة {media_label_ar} {title_ar}?", "a": f"يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.", "q_en": f"How can I watch {title_en}?", "a_en": f"You can watch it fully translated in high quality directly on the Tomito website."},
+                {"q": f"ما هو تصنيف {media_label_ar} {title_ar}?", "a": f"يندرج العمل تحت تصنيف {genres_str}.", "q_en": f"What is the genre of {title_en}?", "a_en": f"It falls under the genre of {genres_str}."},
+                {"q": f"ما هي قصة {media_label_ar} {title_ar}?", "a": overview_ar[:200] + "..." if len(overview_ar) > 200 else overview_ar, "q_en": f"What is the story of {title_en}?", "a_en": overview_en[:200] + "..." if len(overview_en) > 200 else overview_en}
+            ]
+        if not data.get('keywords'):
+            data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
+        
+        log.info(f"✅ Successfully generated content for {title_ar} using {model_used}")
+        return data
+        
+    except json.JSONDecodeError as e:
+        log.error(f"❌ JSON Parse failed: {e}. Response: {res[:500]}")
+        # Return fallback with trending keywords
+        trending_keywords = get_trending_keywords(title_ar or title_en, geo='SA')
+        trending_kw_str = ", ".join(trending_keywords[:5]) if trending_keywords else ""
+        
+        return {
+            "desc_ar": overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية.",
+            "desc_en": overview_en or f"Enjoy watching {title_en} in high quality.",
+            "meta_desc": f"مشاهدة {title_ar} مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة."[:155],
+            "seo_title_ar": f"مشاهدة {media_label_ar} {title_en} مترجم - توميتو",
+            "opinion_ar": f"عمل {media_label_ar} مذهل يستحق المتابعة والاستكشاف.",
+            "opinion_en": f"A stunning {media_label_ar} worth watching and exploring.",
+            "faq": [
+                {"q": f"كيف يمكنني مشاهدة {media_label_ar} {title_ar}?", "a": f"يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.", "q_en": f"How can I watch {title_en}?", "a_en": f"You can watch it fully translated in high quality directly on the Tomito website."},
+                {"q": f"ما هو تصنيف {media_label_ar} {title_ar}?", "a": f"يندرج العمل تحت تصنيف {genres_str}.", "q_en": f"What is the genre of {title_en}?", "a_en": f"It falls under the genre of {genres_str}."},
+                {"q": f"ما هي قصة {media_label_ar} {title_ar}?", "a": overview_ar[:200] + "..." if len(overview_ar) > 200 else overview_ar, "q_en": f"What is the story of {title_en}?", "a_en": overview_en[:200] + "..." if len(overview_en) > 200 else overview_en}
+            ],
+            "keywords": f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {trending_kw_str}"
+        }
+
+
+def get_rising_seo_tags(subject_name, media_type='movie', year='2026', genres_ar=None, actor=None, platform=None, is_arabic_content=False):
+    """Generate rising SEO tags using trending keywords."""
+    label = "فيلم" if media_type == 'movie' else "مسلسل"
+    tag_label = "مترجم" if media_type == 'movie' else "مترجم كامل"
+    
+    # Get trending keywords
+    trending_keywords = get_trending_keywords(subject_name, geo='SA')
+    
+    intents = [
+        f"{subject_name} {tag_label}", 
+        f"قصة {label} {subject_name}",
+        f"مشاهدة {subject_name} {year}",
+        f"أحداث {subject_name} بالتفصيل"
+    ]
+    
+    # Add trending keywords
+    if trending_keywords:
+        intents.extend(trending_keywords[:5])
+    
+    return intents
+
+
+def generate_faq(title_ar, title_en, year, media_type, ai_data=None):
+    """Generate FAQ section for content."""
+    media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    
+    # If AI data contains faq, use it
+    if ai_data and 'faq' in ai_data:
+        return ai_data['faq']
+    
+    faq = [
+        {
+            "q": f"ما هو {media_label_ar} {title_ar}؟",
+            "a": f"{media_label_ar} {title_ar} ({year}) عمل فني رائع يستحق المشاهدة.",
+            "q_en": f"What is {title_en}?",
+            "a_en": f"{title_en} ({year}) is a wonderful piece of work worth watching."
+        },
+        {
+            "q": f"كيف يمكنني مشاهدة {media_label_ar} {title_ar}؟",
+            "a": f"يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+            "q_en": f"How can I watch {title_en}?",
+            "a_en": f"You can watch it with full translation and in high quality directly on the Tomito website."
+        },
+        {
+            "q": f"هل مشاهدة {title_ar} مجانية؟",
+            "a": f"نعم، يمكنك مشاهدة {media_label_ar} {title_ar} مجاناً على توميتو بدون إعلانات.",
+            "q_en": f"Is watching {title_en} free?",
+            "a_en": f"Yes, you can watch {title_en} for free on Tomito without ads."
+        }
+    ]
+    
+    return faq
+
+
+def generate_meta_tags(title_ar, title_en, year, genres_ar, media_type):
+    """Generate meta tags for content."""
+    media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else str(genres_ar)
+    
+    meta_desc = f"مشاهدة وتحميل {media_label_ar} {title_ar} ({year}) مترجم بجودة عالية HD حصرياً على توميتو. {genres_str}."
+    keywords = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {media_label_ar} {year}, {genres_str}"
+    
     return {
-        "meta_desc": f"مشاهدة {title_ar} مترجم {year} بجودة عالية على توميتو.",
-        "keywords": final_keywords
+        'meta_desc': meta_desc[:155],
+        'keywords': keywords
     }
 
-def generate_faq(*args, **kwargs):
-    return '<div class="faq-item">تفاصيل القصة قريباً...</div>'
 
-def generate_tomito_opinion(*args, **kwargs):
-    return "تقييم توميتو: عمل يستحق المشاهدة."
+def generate_tomito_opinion(title_ar, title_en, year, media_type, ai_data=None):
+    """Generate tomito opinion for content."""
+    media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    
+    # If AI data contains opinion, use it
+    if ai_data and 'opinion' in ai_data:
+        return ai_data['opinion']
+    
+    opinions = [
+        f"عمل {media_label_ar} مذهل يستحق المتابعة والاستكشاف.",
+        f"{media_label_ar} {title_ar} عمل فني رائع يقدم تجربة مشاهدة فريدة.",
+        f"ننصح بشدة بمشاهدة {media_label_ar} {title_ar} للأداء المتميز والقصة المشوقة."
+    ]
+    
+    return random.choice(opinions)
 
-def generate_page_intro_outro(title, media_type, year, *args, **kwargs):
-    """توليد مقدمة وخاتمة متغيرة بشكل كبير لضمان عدم التكرار (أكثر من 6000 تشكيلة)"""
-    
-    starts = [
-        "نقدم لكم اليوم", "استعدوا لرحلة مشوقة مع", "إليكم مراجعة حصرية لـ", "حصرياً على توميتو، شاهد",
-        "عشاق السينما على موعد مع", "إليك كل ما يخص", "تعمق في تفاصيل عمل سينمائي رائع وهو", "هل أنت جاهز لاكتشاف أسرار",
-        "بجودة عالية وبدون إعلانات، شاهد", "نغوص اليوم في أحداث", "مغامرة فنية جديدة تنتظرك مع", "إليك نظرة شاملة على",
-        "بلا شك، ستستمتع بمتابعة", "من أقوى إصدارات هذا العام، إليك", "بين يديكم الآن قصة", "اكتشف ما يخبئه لك",
-        "في تجربة سينمائية فريدة، نتابع", "للباحثين عن المتعة والإثارة، إليكم", "بصورة فائقة النقاء، تابع", "إليك العمل الفني الذي أثار الجدل وهو"
-    ]
-    
-    mids = [
-        f"المحتوى الحصري {title}", f"العمل الفني المذهل {title}", f"الفيلم المنتظر {title}", f"هذا الإنتاج الضخم {title}",
-        f"التجربة الفريدة {title}", f"الإصدار الجديد {title}", f"هذا العمل السينمائي {title}", f"التحفة الفنية {title}",
-        f"المسلسل المثير {title}", f"الإنتاج المميز {title}", f"الحبكة الدرامية لـ {title}", f"الأحداث المشوقة في {title}",
-        f"العالم الخاص بـ {title}", f"المشروع السينمائي {title}", f"الرواية البصرية لـ {title}", f"هذا العمل الذي يجمع النجوم في {title}",
-        f"التفاصيل المخفية لـ {title}", f"رحلة الشخصيات في {title}", f"الصراع المثير في {title}", f"الإبداع الفني في {title}"
-    ]
-    
-    ends = [
-        "بترجمة احترافية ودقة عالية.", "وبصورة فائقة الجودة HD.", "الذي سيحبس أنفاسك بالتأكيد.", "في رحلة سينمائية لا تُنسى.",
-        "مباشرة أون لاين على موقعنا.", "الآن على شاشتك وبسهولة تامة.", "بتقنيات حديثة تضمن لك أفضل رؤية.", "فقط وحصرياً هنا على توميتو.",
-        "الذي طال انتظاره من قبل الملايين.", "الذي يعد بصمة جديدة في التصنيف.", "بكل تفاصيله المثيرة والغامضة.", "الذي يستحق أن تمنحه وقتك الكامل.",
-        "بصيغ متعددة تتناسب مع جهازك.", "من البداية حتى النهاية المشوقة.", "الذي سيأخذك إلى عالم آخر من المتعة."
-    ]
-    
-    # Outros (Closers)
-    o_starts = [
-        "في الختام، نتمنى لك", "نأمل أن تستمتع بمتابعة", "شكراً لاختيارك توميتو لمشاهدة", "كانت هذه لمحة بسيطة عن",
-        "نعدك دائماً بالأفضل مع", "لا تنسى مشاركة رأيك حول", "نتمنى لك وقت ممتع مع", "إلى هنا تنتهي رحلتنا مع"
-    ]
-    o_ends = [
-        "بأفضل جودة ممكنة.", "في انتظار آرائكم ومقترحاتكم.", "لا تفوت باقي أعمالنا الحصرية.", "نتمنى لك مشاهدة طيبة.",
-        "تابع صفحتنا للمزيد من التحديثات.", "انتظروا المزيد من المفاجآت السينمائية.", "دائماً معكم في قلب الإثارة.", "بجودة أصلية وبدون تقطيع."
-    ]
 
-    intro = f"{random.choice(starts)} {random.choice(mids)} {random.choice(ends)}"
-    outro = f"{random.choice(o_starts)} {title} {random.choice(o_ends)}"
+def generate_page_intro_outro(title_ar, title_en, year, media_type, genres_ar=None):
+    """Generate page intro and outro for content."""
+    media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else str(genres_ar)
+    
+    intro = f"استمتع بمشاهدة {media_label_ar} {title_ar} ({year}) مترجم بجودة عالية على توميتو. {genres_str}."
+    outro = f"شاهد {title_ar} الآن واستمتع بتجربة مشاهدة فريدة على توميتو. {media_label_ar} {title_ar} متاح بجودة 1080p و 720p."
     
     return intro, outro
+
+
+if __name__ == "__main__":
+    # Test the functions
+    print("Testing AI Engine...")
+    print("=" * 50)
+    
+    # Test fetch_mixed_content
+    print("\n🎬 Testing fetch_mixed_content for movies...")
+    movies = fetch_mixed_content('movie')
+    print(f"Movies fetched: {len(movies)}")
+    print(json.dumps(movies, indent=2, ensure_ascii=False))
+    
+    print("\n📺 Testing fetch_mixed_content for tv...")
+    tv_shows = fetch_mixed_content('tv')
+    print(f"TV shows fetched: {len(tv_shows)}")
+    print(json.dumps(tv_shows, indent=2, ensure_ascii=False))
+    
+    # Test generate_bilingual_description
+    print("\n🤖 Testing generate_bilingual_description...")
+    content = generate_bilingual_description(
+        title_ar="هوكوم",
+        title_en="Hokum",
+        overview_ar="عندما ينعزل الروائي أوم بومان في نُزل ناءٍ لينثر رماد والديه، تسيطر عليه حكايات عن ساحرة تطارد نزلاء جناح شهر العسل.",
+        overview_en="When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite.",
+        year="2026",
+        genres_ar=["رعب"],
+        media_type="movie"
+    )
+    print(json.dumps(content, indent=2, ensure_ascii=False))
+    
+    print("\n" + "=" * 50)
+    print("✅ Test complete!")

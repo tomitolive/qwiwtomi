@@ -1,0 +1,59 @@
+{
+  "id": 60572,
+  "title": "بوكيمون",
+  "title_ar": "بوكيمون",
+  "title_en": "Pokmon",
+  "slug": "60572-pokmon",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "انضم إلى - اش كاتشم -  برفقه شريكه - بيكاتشو - وهو يسافر عبر العديد من المناطق، ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر.",
+  "poster_path": "/x7ISTLv6ijdNtCyPndyRV2eK6eg.jpg",
+  "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+  "release_date": "1997-04-01",
+  "vote_average": 8,
+  "vote_count": 2174,
+  "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم بوكيمون، يلعب ash كاتشم دور الرائد، الذي يبحث عن بوكيمون الماستر. خلال رحلته، يلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه لتحقيق حلمه. من المنطقة إلى أخرى، يتعامل ash مع مختلف أنواع بوكيمون والتحديات التي تواجهه.",
+    "desc_en": "In the world of Pokémon, Ash Ketchum plays the lead role, who is searching for the Pokémon Master. During his journey, he meets new friends and faces new challenges in his pursuit of his dream. From region to region, Ash deals with different types of Pokémon and the challenges that come his way.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بوكيمون!",
+    "seo_title_ar": "مشاهدة فيلم بوكيمون مترجم اون لاين - توميتو",
+    "keywords": "فيلم بوكيمون مترجم, مشاهدة فيلم بوكيمون, مشاهدة بوكيمون 1997, توميتو بوكيمون, بوكيمون مترجم كامل, أحداث بوكيمون بالتفصيل, قصة مسلسل بوكيمون",
+    "opinion": "هو فيلم رائع يملأ القلب بالحماس والمرح. بوكيمون هو فيلم يجمع بين الخيال العلمي والحركة والمغامرة في عالم بوكيمون.",
+    "faq": [
+      {
+        "q": "ما هو بوكيمون؟",
+        "a": "هو عالم يملأ بالبوكيمون والتحديات والمرح."
+      },
+      {
+        "q": "ما هو دور ash كاتشم؟",
+        "a": "هو الرائد الرئيسي في العالم بوكيمون."
+      },
+      {
+        "q": "ما هو هدف ash؟",
+        "a": "هو يسعى لتحقيق حلمه بأن يصبح بوكيمون ماستر."
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1997-04-01",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "99 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "-"
+}

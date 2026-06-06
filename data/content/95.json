@@ -1,0 +1,59 @@
+{
+  "id": 95,
+  "title": "Buffy the Vampire Slayer",
+  "title_ar": "Buffy the Vampire Slayer",
+  "title_en": "Buffy the Vampire Slayer",
+  "slug": "95-buffy-the-vampire-slayer",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+  "backdrop_path": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+  "release_date": "1997-03-10",
+  "vote_average": 8.1,
+  "vote_count": 1988,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم الخيال العلمي والفانتازيا، تتميز سلسلة BUFFY THE VAMPIRE SLAYER بكونها واحدة من أكثر المسلسلات التلفزيونية الشهيرة والأكثر إثارة. تتبع BUFFY، وهي قاتلة مصاصي الدماء الشابة، مغامراتها في مدينة سكوتسديل، حيث تتعامل مع الأحداث المخيفة والشخصيات المثيرة. مع وجود قصة رائعة وتصوير فيديو رائع، فإن BUFFY THE VAMPIRE SLAYER تتميز بكونها واحدة من أكثر المسلسلات التلفزيونية الشهيرة والأكثر إثارة.",
+    "desc_en": "In the world of science fiction and fantasy, Buffy the Vampire Slayer stands out as one of the most famous and thrilling television series. Buffy, the young slayer of vampires, follows her adventures in the city of Sunnydale, where she deals with terrifying events and fascinating characters. With a great story and great video footage, Buffy the Vampire Slayer stands out as one of the most famous and thrilling television series.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في BUFFY THE VAMPIRE SLAYER - توميتو",
+    "seo_title_ar": "مشاهدة فيلم BUFFY THE VAMPIRE SLAYER مترجم اون لاين - توميتو",
+    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم دراما مترجم, فيلم خيال علمي وفانتازيا مترجم, Buffy the Vampire Slayer مترجم كامل, مشاهدة Buffy the Vampire Slayer 1997, قصة مسلسل Buffy the Vampire Slayer, توميتو Buffy the Vampire Slayer, أحداث Buffy the Vampire Slayer بالتفصيل",
+    "opinion": "هي سلسلة تلفزيونية رائعة، مع قصة رائعة وتصوير فيديو رائع. BUFFY THE VAMPIRE SLAYER تتميز بكونها واحدة من أكثر المسلسلات التلفزيونية الشهيرة والأكثر إثارة.",
+    "faq": [
+      {
+        "q": "ما هو BUFFY THE VAMPIRE SLAYER؟",
+        "a": "هي سلسلة تلفزيونية رائعة، مع قصة رائعة وتصوير فيديو رائع."
+      },
+      {
+        "q": "ما هي أنواع BUFFY THE VAMPIRE SLAYER؟",
+        "a": "هي كوميديا، دراما، خيال علمي وفانتازيا."
+      },
+      {
+        "q": "ما هو أفضل جزء من BUFFY THE VAMPIRE SLAYER؟",
+        "a": "هو الجزء الذي يحتوي على أحداث الإثارة والشخصيات المثيرة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1997-03-10",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "151 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Bruce Willis Billy Bob Thornton Ben Affleck Liv Tyler Will Patton"
+}

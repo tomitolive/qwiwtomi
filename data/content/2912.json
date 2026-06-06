@@ -1,0 +1,47 @@
+{
+  "id": 2912,
+  "title": "Jeopardy!",
+  "title_ar": "Jeopardy!",
+  "title_en": "Jeopardy!",
+  "slug": "2912-jeopardy",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+  "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+  "release_date": "1984-09-10",
+  "vote_average": 6.8,
+  "vote_count": 155,
+  "genres": [
+    {
+      "id": 10764,
+      "name": "واقع"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم المخاطر واللعب، يلعب اللاعبون الأبطال في لعبة jeopardy! مع قيمتها المادية والشخصية، يلعبون لكي يفوزوا بالمال والشرف، ولكن ما الذي ينتظرهم؟",
+    "desc_en": "In a world of risk and play, the champions play in Jeopardy! With their material and personal values, they play to win the money and prestige, but what awaits them?",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في لعبة jeopardy!",
+    "seo_title_ar": "مشاهدة برنامج jeopardy! مترجم اون لاين - توميتو",
+    "keywords": "فيلم واقع, مشاهدة برنامج عائلي, Jeopardy! مترجم كامل, توميتو Jeopardy!, مشاهدة Jeopardy! 1984, أحداث Jeopardy! بالتفصيل, قصة مسلسل Jeopardy!",
+    "opinion": "هذه اللعبة هي واحدة من أكثر البرامج إثارة في تاريخ التلفزيون، مع قيمتها المادية والشخصية، يلعب اللاعبون الأبطال لكي يفوزوا بالمال والشرف، ولكن ما الذي ينتظرهم؟",
+    "faq": [
+      {
+        "q": "ما هو هدف اللاعبين في لعبة jeopardy?",
+        "a": "لكي يفوزوا بالمال والشرف"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1984-09-10",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "93 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Stéphane Audran Jean Yanne Roger Rudel Antonio Passalia Mario Beccara"
+}

@@ -1,11 +1,46 @@
-# Service Account Keys
-reference-fact-488823-b6-710a3997d9de.json
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Python
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# python
 __pycache__/
 *.pyc
-mythical-module-493722-n6-e2da3325c496.json
-
-# Bot runtime files (local only)
-daily_seen_ids.json
-daily_run.log
+*.pyo

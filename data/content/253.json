@@ -1,0 +1,57 @@
+{
+  "id": 253,
+  "title": "Star Trek",
+  "title_ar": "Star Trek",
+  "title_en": "Star Trek",
+  "slug": "253-star-trek",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
+  "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+  "release_date": "1966-09-08",
+  "vote_average": 8,
+  "vote_count": 1482,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "ai_content": {
+    "intro": "ماذا يحصل عندما تصبح البشر حجر الزاوية في مستقبل لا يوجد فيه أى حدود؟",
+    "desc_ar": "في عالم من الرياح والنجوم، قائد الفريق القومي USS Enterprise، جيمس تي كيرك، يوجه بعثة إلى نهاية الكون لاكتشاف أسرار المجهول. لكن، في هذه الرحلة، ستواجه البعثة تحديات لا يمكن تصورها، من الخصومات والخطرين والغامات، إلى أن يصلوا إلى نقطة لا رجوع عنها.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل خيال علمي وفانتازيا Star Trek!",
+    "seo_title_ar": "مشاهدة مسلسل Star Trek مترجم اون لاين - توميتو",
+    "outro": "لست أنت فقط. فكّر في ماذا لو أصبحت جزءًا من هذه القصة الفضائية المتألّمة. إقرأها وابتسم.",
+    "opinion": "هو فيلم رائع، مليء بالتension والدراما، والشخصيات القوية، والقصة المليقة. ستشعرك بالدعوة للاختراق إلى عالم من الرياح والنجوم.",
+    "faq": [
+      {
+        "q": "ما هو نوع مسلسل Star Trek؟",
+        "a": "هو مسلسل خيال علمي وفانتازيا"
+      },
+      {
+        "q": "ما هو موضوع مسلسل Star Trek؟",
+        "a": "هو موضوع من الرياح والنجوم والقصص العلمية"
+      },
+      {
+        "q": "ما هو أفضل جزء من مسلسل Star Trek؟",
+        "a": "هو الجزء الذي يحتوي على أحداث الإثارة والدراما"
+      }
+    ],
+    "keywords": "فيلم خيال علمي, مشاهدة مسلسل فانتازيا, Star Trek مترجم, مشاهدة Star Trek 1966, Star Trek مترجم كامل, قصة مسلسل Star Trek, أحداث Star Trek بالتفصيل, توميتو Star Trek",
+    "desc_en": "In a world of wind and stars, the leader of the USS Enterprise, James T. Kirk, leads a mission to the end of the universe to discover the secrets of the unknown. But, on this journey, the mission will face challenges that cannot be imagined, from enemies and dangers and risks, to reaching a point of no return."
+  },
+  "fixed": true,
+  "first_air_date": "1966-09-08",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "121 دقيقة",
+  "language": "الإنجليزية",
+  "country": "المملكة المتحدة",
+  "cast": "Roger Moore Yaphet Kotto Jane Seymour Clifton James Julius Harris"
+}

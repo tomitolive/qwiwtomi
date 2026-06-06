@@ -1,0 +1,63 @@
+{
+  "id": 1018,
+  "title": "Bonanza",
+  "title_ar": "Bonanza",
+  "title_en": "Bonanza",
+  "slug": "1018-bonanza",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+  "backdrop_path": "/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",
+  "release_date": "1959-09-12",
+  "vote_average": 7.5,
+  "vote_count": 477,
+  "genres": [
+    {
+      "id": 37,
+      "name": "غربي"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم الغرب الأمريكي، يمرر رجل الأعمال جون تشيسون من خلال العديد من المغامرات والخداعات، فيขณะที่ يحاول أن يخلق مدينتين جديدتين، ويحافظ على عائلته، ويحارب ضد الأوغاد الذين يريدون أن يخربوا مدينته، فيما يمرر رجل الأعمال جون تشيسون من خلال العديد من المغامرات والخداعات.",
+    "desc_en": "In the American West, John Chisum, a wealthy businessman, navigates through many adventures and deceptions as he tries to create two new towns, protect his family, and fight against the outlaws who want to destroy his town.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الغرب الأمريكي \"بنازا\"!",
+    "seo_title_ar": "مشاهدة مسلسل بنازا مترجم اون لاين - توميتو",
+    "keywords": "فيلم غربي مترجم, مشاهدة مسلسل بنازا, قصة مسلسل Bonanza, Bonanza مترجم كامل, توميتو Bonanza, أحداث Bonanza بالتفصيل, مشاهدة Bonanza 1959",
+    "opinion": "هذا المسلسل هو مثال رائع على كيفية تصوير العالم الغربي الأمريكي، مع مغامرات رائعة والشخصيات القوية.",
+    "faq": [
+      {
+        "q": "ما هو نوع مسلسل بنازا؟",
+        "a": "هو مسلسل غربي حركة ومغامرة"
+      },
+      {
+        "q": "ما هو نوع المدينة التي يخلقها جون تشيسون؟",
+        "a": "هي مدينتين جديدتين في العالم الغربي الأمريكي"
+      },
+      {
+        "q": "ما هو هدف جون تشيسون في مسلسل بنازا؟",
+        "a": "يحاول أن يخلق مدينتين جديدتين ويحافظ على عائلته ويحارب ضد الأوغاد"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1959-09-12",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "147 دقيقة",
+  "language": "الإنجليزية",
+  "country": "فرنسا",
+  "cast": "Naomi Watts Laura Harring Justin Theroux Ann Miller Mark Pellegrino"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 862,
+  "title": "حكاية لعبة",
+  "title_ar": "حكاية لعبة",
+  "title_en": "Toy Story",
+  "slug": "862-toy-story",
+  "folder": "movie",
+  "media_type": "movie",
+  "overview": "تعيش ألعاب آندي، بقيادة وودي، بسعادة في غرفته حتى عيد ميلاد آندي الذي جلب معه باز لايتيير إلى المشهد. خوفًا من فقدان مكانته في قلب آندي، يدبر وودي مكائد ضد باز. ولكن عندما تفرق الظروف باز ووودي عن صاحبهما، يتعلم الثنائي في النهاية وضع خلافاتهما جانبًا.",
+  "poster_path": "/hX5TEEzea1XX8t2V9VK5InW4M7x.jpg",
+  "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+  "release_date": "1995-11-22",
+  "vote_average": 8,
+  "vote_count": 19871,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم ألعاب آندي، يلعب وودي دور القائد، لكن عندما يأتي باز لايتيير، يبدأ وودي في الخوف من فقدان مكانته في قلب آندي. وودي يبدأ في تدبير مكائد ضد باز، ولكن عندما يفرق الظروف باز ووودي عن صاحبهما، يتعلم الثنائي في النهاية وضع خلافاتهما جانبًا.",
+    "desc_en": "In the world of Andy's toys, Woody is the leader, but when Buzz Lightyear arrives, Woody starts to fear losing his place in Andy's heart. Woody begins to plot against Buzz, but when circumstances separate Buzz and Woody from their owner, the duo learns to put their differences aside.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في حكاية لعبة!",
+    "seo_title_ar": "مشاهدة فيلم حكاية لعبة مترجم اون لاين - توميتو",
+    "keywords": "فيلم حكاية لعبة مترجم, مشاهدة فيلم كوميديا رسوم متحركة, حكاية لعبة مترجم, توميتو حكاية لعبة, مشاهدة حكاية لعبة 1995, أحداث حكاية لعبة بالتفصيل, قصة فيلم حكاية لعبة",
+    "opinion": "هو فيلم كوميديا رائع يلعب على قلوبنا، ويقدم لنا مغامرة رائعة مع ألعاب آندي!",
+    "faq": [
+      {
+        "q": "ما هو نوع فيلم حكاية لعبة؟",
+        "a": "فيلم رسوم متحركة كوميديا"
+      },
+      {
+        "q": "ما هو موضوع فيلم حكاية لعبة؟",
+        "a": "مغامرة ألعاب آندي"
+      },
+      {
+        "q": "ما هو نوع فيلم حكاية لعبة؟",
+        "a": "فيلم عائلي رائع"
+      }
+    ]
+  },
+  "fixed": true,
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "81 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Tom Hanks Tim Allen Don Rickles Jim Varney Wallace Shawn"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 4381,
+  "title": "Good Eats",
+  "title_ar": "Good Eats",
+  "title_en": "Good Eats",
+  "slug": "4381-good-eats",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/pM6pRwACDFGej3utLXnTzRiipoR.jpg",
+  "backdrop_path": "/vFvzT1sThrjMmC3DOu2HOF5DBgD.jpg",
+  "release_date": "1999-07-07",
+  "vote_average": 8.8,
+  "vote_count": 43,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 99,
+      "name": "وثائقي"
+    }
+  ],
+  "ai_content": {
+    "intro": "هل تريد أن تخوض في رحلة لاستكشاف عالم الأطعمة والمأكولات؟",
+    "desc_ar": "استضafia برنامج Good Eats يعرض عليه استكشاف أصل المكونات وفك تشفير التقاليد الغذائية وعرض اتجاهات الأطعمة والمعدات. مقطع بفترات غير عادية وتحضيرات بسيطة ومناقشات غير تقليدية، وسوف يقدم لك الطعام في أبهى حلةและมذهل",
+    "seo_title_ar": "برنامج Good Eats: رحلة لاستكشاف عالم الأطعمة",
+    "meta_desc": "استكشاف عالم الأطعمة والمأكولات مع برنامج Good Eats",
+    "outro": "إذا كنت من محبي التجربة الجديدة فلا تفوت فرصة مشاهدة برنامج Good Eats",
+    "opinion": "برنامج رائع وممتع جدا، يستحق المشاهدة. سوف تستمتع بالتحضيرات البسيطة والتقاليد الغذائية",
+    "faq": [
+      {
+        "q": "ما هي فكرة برنامج Good Eats؟",
+        "a": "استكشاف أصل المكونات وفك تشفير التقاليد الغذائية وعرض اتجاهات الأطعمة والمعدات"
+      },
+      {
+        "q": "ماذا يمكنني أن اتوقع من برنامج Good Eats؟",
+        "a": "رحلة مثيرة لاستكشاف عالم الأطعمة والمأكولات مع تحضيرات بسيطة ومناقشات غير تقليدية"
+      },
+      {
+        "q": "من هو المستضيف في برنامج Good Eats؟",
+        "a": "المستضيف هو Alton Brown"
+      }
+    ],
+    "keywords": "Good Eats مترجم كامل, توميتو Good Eats, قصة مسلسل Good Eats, مشاهدة Good Eats 1999, أحداث Good Eats بالتفصيل",
+    "desc_en": "Hosted by Good Eats, the show explores the origins of ingredients, decodes food traditions, and showcases food trends and equipment. With unusual intervals and simple preparations, along with unconventional discussions, it will present food in its most splendid and amazing form."
+  },
+  "fixed": true,
+  "first_air_date": "1999-07-07",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "99 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "-"
+}

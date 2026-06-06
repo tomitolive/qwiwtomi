@@ -1,0 +1,55 @@
+{
+  "id": 10004,
+  "title": "The Yellow Rose",
+  "title_ar": "The Yellow Rose",
+  "title_en": "The Yellow Rose",
+  "slug": "10004-the-yellow-rose",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/wXbXJ9rR1ifGRyxRECZqb0w6wcj.jpg",
+  "backdrop_path": "/mzBg1NTKY0eo26qrRpdDUeIkNPK.jpg",
+  "release_date": "1983-10-02",
+  "vote_average": 7.6,
+  "vote_count": 5,
+  "genres": [
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم الملاكمة، يجد رجل الأعمال جيمس ريد، نفسه مرتبطاً بالمرأة المالكة للاسرة، لورا، التي تملك شركة إنتاج الأفلام. يتعامل جيمس مع لورا فيما يكتشف أن هذه المرأة ليست ما تبدو عليه، بل هي امرأة قوية وذات خبرة في عالم الملاكمة. فيما يتعامل جيمس مع لورا، يكتشف أن هناك العديد من الأسرار والسرائر التي تمنعهم من العثور على الحقيقة.",
+    "desc_en": "In the world of boxing, businessman James Reed finds himself connected to the wealthy owner of the film production company, Laura, who is not what she seems. James deals with Laura, discovering that she is a strong and experienced woman in the world of boxing. As James deals with Laura, he discovers that there are many secrets and lies that prevent them from finding the truth.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الملاكمة والرومانسية! مشاهدة فيلم الأبرا صابونية مترجم اون لاين - توميتو",
+    "seo_title_ar": "مشاهدة فيلم الوردة الصفراء مترجم اون لاين - توميتو",
+    "keywords": "فيلم الأبرا صابونية مترجم, مشاهدة فيلم الأبرا صابونية, The Yellow Rose مترجم كامل, توميتو The Yellow Rose, أحداث The Yellow Rose بالتفصيل, قصة مسلسل The Yellow Rose, مشاهدة The Yellow Rose 1983",
+    "opinion": "فيلم الوردة الصفراء هو فيلم رومانسي وملحون، يلقي الضوء على عالم الملاكمة والرومانسية. الفيلم يحتوي على العديد من الأسرار والسرائر التي تمنعهم من العثور على الحقيقة.",
+    "faq": [
+      {
+        "q": "ما هو فيلم الوردة الصفراء؟",
+        "a": "فيلم رومانسي وملحون يلقي الضوء على عالم الملاكمة والرومانسية."
+      },
+      {
+        "q": "ما هو نوع فيلم الوردة الصفراء؟",
+        "a": "فيلم دراما"
+      },
+      {
+        "q": "ما هو أفضل ما في فيلم الوردة الصفراء؟",
+        "a": "الحكاية القوية والرومانسية والملحونة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1983-10-02",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "131 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Tom Skerritt Steven Weber Annabeth Gish Charles Durning Matt Frewer"
+}

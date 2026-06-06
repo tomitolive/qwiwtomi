@@ -14,9 +14,9 @@ if os.path.exists(index_path):
     with open(index_path, 'r', encoding='utf-8') as f:
         all_index = json.load(f)
 
-def generate_missing_seo(title, overview, media_type):
+def generate_missing_seo(title, overview, media_type, year):
     """Fallback-friendly SEO generation for missing pages."""
-    res = generate_seo_content(title, overview, media_type)
+    res = generate_seo_content(title, overview, media_type, year)
     if res:
         return {
             "ai_description": res.get("ai_description", ""),
@@ -58,7 +58,7 @@ def create_long_page(item_data, media_type, custom_slug=None):
     en_overview = (en.get('overview', '') if en else '')
     
     # NEW: AI Generation for Missing Pages
-    ai = generate_missing_seo(title_en, en_overview or ar_overview, media_type)
+    ai = generate_missing_seo(title_en, en_overview or ar_overview, media_type, year)
     if ai:
         desc_ar = ai.get('ai_description', '')
         desc_en = desc_ar 
@@ -151,9 +151,11 @@ def process_item(m_type, slug, all_index, lock):
             with lock:
                 all_index.append(index_entry)
             return url
-    except Exception:
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        print(f"Error processing {slug}: {e}")
         return None
-    return None
 
 import threading
 def main():
@@ -172,6 +174,7 @@ def main():
             # check if it was processed already in previous interrupted run
             if os.path.exists(os.path.join(BASE_PATH, m_type, f"{slug}.html")):
                 continue
+            time.sleep(2) # انتظار ثانيتين لتفادي الحظر
             futures.append(ex.submit(process_item, m_type, slug, all_index, lock))
             
         print(f"Submitted {len(futures)} tasks to executor...")

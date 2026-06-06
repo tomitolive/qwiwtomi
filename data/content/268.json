@@ -1,0 +1,56 @@
+{
+  "id": 268,
+  "title": "Batman",
+  "title_ar": "Batman",
+  "title_en": "Batman",
+  "slug": "268-batman",
+  "overview": "",
+  "poster_path": "/lJggdmBxq9CTs8itC5zwyo7ZMBr.jpg",
+  "backdrop_path": "/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
+  "release_date": "1989-06-21",
+  "vote_average": 7.2,
+  "vote_count": 8553,
+  "genres": [
+    {
+      "id": 14,
+      "name": "فانتازيا"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم غامق والرعب والخوف، يأتي باتمان، الرجل الذي يرتكب الجريمة، ليكون قوةً ضد القوة، ويحاول أن يوقف خيانتها، ولكن ما هو خيانتها؟ ما هو هدفها؟ باتمان يخوض معركة ضد خيانتها، فيما يكتشف المزيد عن نفسه، ويركب المزيد من الجرائم، فيما يصير المعركة بين الخيانتة والبطل، معركةً حقيقية.",
+    "desc_en": "In a dark and foreboding world of fear and dread, Batman, the man who commits crime, becomes a force against the force, trying to stop its betrayal, but what is its betrayal? What is its goal? Batman engages in a battle against its betrayal, as he discovers more about himself and commits more crimes, making the battle between the traitor and the hero a real one.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم باتمان",
+    "seo_title_ar": "مشاهدة فيلم باتمان مترجم اون لاين - توميتو",
+    "keywords": "فيلم باتمان مترجم, مشاهدة فيلم باتمان, مشاهدة Batman 1989, توميتو Batman, قصة فيلم Batman, أحداث Batman بالتفصيل, Batman مترجم",
+    "opinion": "فيلم باتمان هو فيلم رائع، مليء بالتension والدراما، والرعب والخوف، وهو يخلق عالماً غامقاً والرعب والخوف، ويحاول أن يوقف خيانتها، ولكن ما هو خيانتها؟ ما هو هدفها؟",
+    "faq": [
+      {
+        "q": "ما هو باتمان؟",
+        "a": "باتمان هو الرجل الذي يرتكب الجريمة، ويحاول أن يوقف خيانتها"
+      },
+      {
+        "q": "ما هو خيانتة باتمان؟",
+        "a": "خيانتة باتمان هي خيانتة قوية والرعب والخوف، وهي تهدف إلىوقف باتمان"
+      },
+      {
+        "q": "ما هو هدف خيانتة باتمان؟",
+        "a": "هدف خيانتة باتمان هووقف باتمان، ولكن ما هو خيانتها؟"
+      }
+    ]
+  },
+  "fixed": true,
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "126 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Michael Keaton Jack Nicholson Kim Basinger Robert Wuhl Pat Hingle"
+}

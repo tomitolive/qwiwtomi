@@ -1,0 +1,55 @@
+{
+  "id": 3716,
+  "title": "Dragnet",
+  "title_ar": "Dragnet",
+  "title_en": "Dragnet",
+  "slug": "3716-dragnet",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
+  "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
+  "release_date": "1951-12-16",
+  "vote_average": 6.5,
+  "vote_count": 34,
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم الدراما والجريمة، يقود المحقق جيفري جاريسون المخضرم فريق التحقيق في لوس أنجلوس في مهمة لاكتشاف الحقيقة وراء جريمة قتل رهيبة. مع كل خطوة، يكتشف جاريسون أن هناك الكثير من الأسرار والسرائر والخداعات التي تمنعهم من الاكتشاف الحقيقي.",
+    "desc_en": "In the world of drama and crime, veteran detective Jeffrey Jackson leads the investigation team in Los Angeles on a mission to uncover the truth behind a heinous murder. With each step, Jackson discovers that there are many secrets, lies, and deceptions that prevent them from finding the truth.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراغنيت!",
+    "seo_title_ar": "مشاهدة فيلم دراغنيت مترجم اون لاين - توميتو",
+    "keywords": "فيلم دراغنيت مترجم, مشاهدة فيلم دراغنيت, Dragnet مترجم كامل, أحداث Dragnet بالتفصيل, توميتو Dragnet, مشاهدة Dragnet 1951, قصة مسلسل Dragnet",
+    "opinion": "هو فيلم دراغنيت هو فيلم دراما جريمة رائع، حيث يلقي الضوء على الجريمة والتحقيق في لوس أنجلوس، مما يجعلنا نرى العالم من جديد.",
+    "faq": [
+      {
+        "q": "ما هو دراغنيت؟",
+        "a": "هو فيلم دراما جريمة رائع يلقي الضوء على الجريمة والتحقيق في لوس أنجلوس."
+      },
+      {
+        "q": "ما هو هدف المحقق جاريسون؟",
+        "a": "يهدف جاريسون إلى اكتشاف الحقيقة وراء جريمة قتل رهيبة."
+      },
+      {
+        "q": "ما هو العالم الذي يDescribe الفيلم؟",
+        "a": "يDescribe الفيلم عالم الدراما والجريمة في لوس أنجلوس"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1951-12-16",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "96 دقيقة",
+  "language": "الألمانية",
+  "country": "ألمانيا",
+  "cast": "Moritz Bleibtreu Christiane Paul Mehmet Kurtuluş İdil Üner Branka Katić"
+}

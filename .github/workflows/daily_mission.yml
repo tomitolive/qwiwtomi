@@ -1,8 +1,8 @@
 name: Daily Multi-Bot & SEO Mission (100 Pages/Day)
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"  # كايخدم كل نص ساعة
+#  schedule:
+#    - cron: "*/30 * * * *"  # كايخدم كل نص ساعة
   workflow_dispatch:      # كيخليك تطلقو بيدك إذا بغيتي تجرب
 
 jobs:
@@ -32,14 +32,11 @@ jobs:
       - name: Run Bot Mission (2 Pages)
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY_2 }}
           GCP_INDEXING_KEY: ${{ secrets.GCP_INDEXING_KEY }}
         run: |
           python3 daily_content.py --count 2
-
-      - name: Update Actor Pages
-        run: |
-          python3 update_actors.py
 
       - name: Update Trending Data
         env:
@@ -49,17 +46,20 @@ jobs:
       - name: Build Homepage & Sitemaps
         run: |
           python3 build_homepage.py
+          python3 generate_search_index.py
           python3 generate_full_sitemap.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "bot@tomito.xyz"
           git config --local user.name "Multi-Bot Engine"
-          git add .
+          git add data/ movie/ tv/ genre/ sitemap*.xml t/
           
-          # تعديل 2: تأكدنا من skip ci باش ما يدخلش ف Loop
+          # Commit with skip ci
           git commit -m "🤖 Bot: +2 pages $(date '+%Y-%m-%d %H:%M') [skip ci]" || echo "No changes to commit"
           
-          # تعديل 3: تحسين عملية الـ Push باش نتفاداو الـ Red Errors
-          git pull --rebase --autostash origin main
-          git push origin main || (sleep 15 && git pull --rebase origin main && git push origin main)
+          # Better Push Logic: Try rebase, if fails, abort and force a merge pull or retry
+          for i in {1..3}; do
+            git pull --rebase --autostash origin main && git push origin main && break || \
+            (echo "Conflict or concurrent push detected, retrying after sleep..." && git rebase --abort || true && sleep 20)
+          done

@@ -1,0 +1,61 @@
+{
+  "id": 47,
+  "title": "El Chavo del Ocho",
+  "title_ar": "El Chavo del Ocho",
+  "title_en": "El Chavo del Ocho",
+  "slug": "47-el-chavo-del-ocho",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/e0BVaxsssCWhCcFt51Bnp8RcGyE.jpg",
+  "backdrop_path": "/8BPGi66pHTNybfkqX0lIdM4rnxT.jpg",
+  "release_date": "1973-02-26",
+  "vote_average": 8,
+  "vote_count": 2024,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "ai_content": {
+    "intro": "هل تبحث عن مسلسل كوميدي يعرض حياة طفل صغير في قرية مع أصدقائه؟",
+    "desc_ar": "يتابع مسلسل إل تشافو ديل أوتشو مشاكس شافو، طفل يتيماً مسكين يعيش في قرية مع أصدقائه كيكو و تشيلندрина و نونو و لابوبيس، وهم يعيشون مغامرات كوميدية و محزنة في نفس الوقت.",
+    "seo_title_ar": "إل تشافو ديل أوتشو: مسلسل كوميدي و عائلي",
+    "meta_desc": "إل تشافو ديل أوتشو: مسلسل كوميدي و عائلي",
+    "outro": "إذا كنت تبحث عن مسلسل كوميدي و عائلي،那么 أ推荐 عليك مشاهدة إل تشافو ديل أوتشو.",
+    "opinion": "مسلسل إل تشافو ديل أوتشو هو مسلسل كوميدي و عائلي رائع، يُظهر حياة طفل صغير في قرية مع أصدقائه.",
+    "faq": [
+      {
+        "q": "من هو شافو؟",
+        "a": "شافو هو طفل يتيماً يعيش في قرية مع أصدقائه."
+      },
+      {
+        "q": "ما هو نوع مسلسل إل تشافو ديل أوتشو؟",
+        "a": "مسلسل إل تشافو ديل أوتشو هو مسلسل كوميدي و عائلي و دراما."
+      },
+      {
+        "q": "ما هي مغامرات مسلسل إل تشافو ديل أوتشو؟",
+        "a": "مغامرات مسلسل إل تشافو ديل أوتشو هي مغامرات كوميدية و محزنة في نفس الوقت."
+      }
+    ],
+    "keywords": "مشاهدة El Chavo del Ocho 1973, El Chavo del Ocho مترجم كامل, قصة مسلسل El Chavo del Ocho, أحداث El Chavo del Ocho بالتفصيل, توميتو El Chavo del Ocho",
+    "desc_en": "The series El Chavo del Ocho follows the mischievous Chavo, a poor orphan boy who lives in a village with his friends Kiko, Chilindrina, Nonô, and La Popis, and they experience comedic and sad adventures at the same time."
+  },
+  "fixed": true,
+  "first_air_date": "1973-02-26",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "99 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "-"
+}

@@ -1,0 +1,235 @@
+/* ====== RESPONSIVE DESIGN ====== */
+
+@media (max-width: 1200px) {
+  .header-container { 
+    padding: 0 1.5rem;
+    width: 100%;
+    margin: 0;
+  }
+  .grid { 
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); 
+    gap: 1.5rem;
+    width: 100%;
+    padding: 0 1rem;
+  }
+  .header-search-wrapper { max-width: 300px; }
+}
+
+@media (max-width: 1024px) {
+  .hero-title { font-size: 4rem; }
+  .grid { 
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    width: 100%;
+    padding: 0 1rem;
+  }
+  .top-nav {
+    gap: 1.5rem;
+  }
+  .header-search-wrapper { max-width: 280px; }
+}
+
+@media (max-width: 768px) {
+  /* Full Width Container */
+  body {
+    width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Header Mobile Fixes */
+  .tomito-header {
+    width: 100% !important;
+  }
+
+  .top-bar {
+    height: auto !important;
+    padding: 0.75rem 1rem !important;
+    display: flex !important;
+    width: 100% !important;
+  }
+  
+  .header-container {
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    gap: 0.5rem !important;
+    width: 100% !important;
+    padding: 0 1rem !important;
+    margin: 0 !important;
+  }
+
+  /* Top Navigation Mobile */
+  .top-nav {
+    gap: 0.5rem !important;
+    display: none !important;
+    flex: auto;
+  }
+
+  .top-nav.active {
+    display: flex !important;
+  }
+
+  .top-nav a {
+    font-size: 0.85rem !important;
+    padding: 0.4rem 0.5rem !important;
+  }
+
+  /* Social Links Mobile */
+  .social-links {
+    gap: 0.5rem !important;
+    margin-right: auto !important;
+  }
+
+  .social-links a {
+    width: 24px !important;
+    height: 24px !important;
+  }
+
+  /* Logo and Menu Mobile */
+  .logo-and-menu {
+    gap: 0.75rem !important;
+    flex: 0 !important;
+    width: 100% !important;
+    order: 1 !important;
+  }
+
+  .logo-text {
+    font-size: 1.25rem !important;
+  }
+
+  .mobile-menu-btn {
+    display: flex !important;
+    width: 32px !important;
+    height: 32px !important;
+    margin-right: auto !important;
+  }
+
+  /* Bottom Bar Mobile */
+  .bottom-bar {
+    height: auto !important;
+    padding: 0.75rem !important;
+    width: 100% !important;
+  }
+
+  /* Header Search Mobile */
+  .header-search-wrapper {
+    max-width: 100% !important;
+    width: 100% !important;
+    order: 2 !important;
+  }
+
+  .header-search-wrapper input {
+    padding: 0.6rem 0.75rem 0.6rem 2rem !important;
+    font-size: 0.85rem !important;
+  }
+
+  .search-btn {
+    padding: 0.6rem 1rem !important;
+    font-size: 0.85rem !important;
+  }
+
+  .navbar { height: 60px !important; padding: 0 1rem !important; }
+  
+  /* Grid Mobile - Keep as Grid, Don't Convert to Flex */
+  .grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)) !important;
+    gap: 1rem !important;
+    width: 100% !important;
+    padding: 0 1rem !important;
+    margin: 0 !important;
+  }
+
+  .lg\:col-span-8, .lg\:col-span-4, .lg\:col-span-12 {
+    width: 100% !important;
+    grid-column: span 1 / span 1 !important;
+  }
+
+  /* Hero Height Fix for Mobile - Flexible instead of fixed */
+  .hero-section-container {
+    height: auto !important;
+    min-height: 80vh !important;
+    padding-bottom: 5rem !important;
+    width: 100% !important;
+  }
+  
+  .hero-title { 
+    font-size: 2.2rem !important; 
+    line-height: 1.1 !important; 
+    margin-bottom: 1.5rem !important; 
+    text-align: center !important;
+    width: 100% !important;
+  }
+  
+  .hero-gradient-overlay { 
+    background: linear-gradient(0deg, var(--bg) 15%, rgba(0,0,0,0.5) 100%) !important; 
+  }
+  
+  /* Stack Buttons on Mobile */
+  .flex-wrap.gap-4 {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    gap: 1rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  .btn-primary, .btn-secondary {
+    width: 100% !important;
+    justify-content: center !important;
+    padding: 1.1rem !important;
+    font-size: 1.1rem !important;
+    margin: 0 !important;
+  }
+  
+  /* Container Padding Fix */
+  .content-section-wrapper {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    margin-top: -4rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  
+  /* Similar Movies Grid */
+  .netflix-row {
+    padding-bottom: 2rem !important;
+  }
+  
+  .series-poster { width: 100% !important; max-width: 240px !important; margin: 0 auto !important; }
+
+  /* Division Refinement for Mobile */
+  .page-division {
+    padding: 2rem 0.5rem !important;
+    width: 100% !important;
+    border-radius: 0 !important;
+  }
+  
+  .division-header {
+    margin-bottom: 1.5rem !important;
+    justify-content: center !important;
+  }
+
+  .division-header h2 {
+    font-size: 1.4rem !important;
+  }
+
+  /* Breadcrumb visibility */
+  .breadcrumb {
+    justify-content: center !important;
+    text-align: center !important;
+    font-size: 0.8rem !important;
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid { grid-template-columns: repeat(2, 1fr); gap: 0.5rem; }
+  .hero-title { font-size: 1.8rem; }
+  .section-header h2 { font-size: 1.1rem; }
+  .card-info { padding: 1rem 0.5rem 0.5rem; }
+
+  /* Ensure no horizontal scroll */
+  body {
+    width: 100vw;
+    overflow-x: hidden;
+  }
+}

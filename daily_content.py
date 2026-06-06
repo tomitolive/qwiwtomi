@@ -14,6 +14,7 @@ sys.path.insert(0, BASE_PATH)
 
 from mega_bot import get_tmdb_data, fetch_details, create_page, build_listing_pages
 from trends_rss import get_trending_titles
+import generate_search_index
 
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 DEFAULT_COUNT = 2  # total pages per run (50 movies and 50 tv per 24 hours => 2 pages per 30 minutes)
@@ -84,8 +85,9 @@ def fetch_fresh_items(media_type, seen_ids, target, mission=None):
             if not data or 'results' not in data:
                 break
             for item in data['results']:
-                if _add(item) and len(collected) >= target:
-                    break
+                if item.get('vote_average', 0) > 7.0 and item.get('vote_count', 0) >= 2:
+                    if _add(item) and len(collected) >= target:
+                        break
 
     # ── Fallback: random foreign/popular pages ──────────────────────────────
     attempts = 0
@@ -98,31 +100,33 @@ def fetch_fresh_items(media_type, seen_ids, target, mission=None):
         if not data or 'results' not in data:
             continue
         for item in data['results']:
-            if _add(item) and len(collected) >= target:
-                break
+            if item.get('vote_average', 0) > 7.0 and item.get('vote_count', 0) >= 2:
+                if _add(item) and len(collected) >= target:
+                    break
 
     return collected
 
-def fetch_from_tmdb_trends(seen_ids, target, min_popularity=80):
-    """Fetch high-traffic trending items directly from TMDB, restricted to EN/AR."""
+def fetch_from_tmdb_trends(seen_ids, target, min_popularity=40, restrict_type=None):
+    """Fetch newly trending items with ratings > 7.0."""
     collected = []
-    for media_type in ['movie', 'tv']:
+    types_to_fetch = [restrict_type] if restrict_type and restrict_type != 'all' else ['movie', 'tv']
+    for media_type in types_to_fetch:
         if len(collected) >= target: break
-        log.info(f"Fetching TMDB Trending {media_type}...")
+        log.info(f"Fetching newly rising TMDB Trending {media_type}...")
         data = get_tmdb_data(f'trending/{media_type}/day', {'language': 'ar-SA'})
         if data and data.get('results'):
             for item in data['results']:
                 if len(collected) >= target: break
                 tid = str(item.get('id', ''))
                 pop = item.get('popularity', 0)
-                orig_lang = item.get('original_language', '')
+                rating = item.get('vote_average', 0)
+                vote_count = item.get('vote_count', 0)
                 
-                # Rule: ONLY EN (US/UK/etc) or AR content
-                # 100% Perfection Update: Higher popularity threshold for blockbusters
-                if tid and tid not in seen_ids and pop >= 200 and orig_lang in ['en', 'ar']:
+                unique_key = f"{media_type}-{tid}"
+                if tid and unique_key not in seen_ids and pop >= min_popularity and rating > 7.0 and vote_count >= 2:
                     collected.append((tid, media_type))
-                    seen_ids.add(tid)
-                    log.info(f"Matched High-Quality Trend: {tid} ({media_type}) - Pop: {pop} - Lang: {orig_lang}")
+                    seen_ids.add(unique_key)
+                    log.info(f"Matched Newly Rising Trend: {tid} ({media_type}) - Pop: {pop} - Rating: {rating}")
     return collected
 
 def fetch_from_rss_trends(seen_ids, target):
@@ -180,8 +184,10 @@ def main():
     parser = argparse.ArgumentParser(description='Tomito content generator')
     parser.add_argument('--count', type=int, default=DEFAULT_COUNT,
                         help='Number of NEW pages to generate this run')
+    parser.add_argument('--type', type=str, choices=['all', 'movie', 'tv'], default='all',
+                        help='Specify media type to fetch: movie, tv, or all')
     args = parser.parse_args()
-    total = max(2, args.count)
+    total = max(1, args.count)
 
     # ── Load seen IDs from content_index.json (the source of truth in git) ──
     all_index, seen_ids = load_index()
@@ -190,16 +196,26 @@ def main():
     # ── Collect fresh TMDB IDs ───────────────────────────────────────────────
     tasks = []
     
-    # Strictly use company missions for high quality / selected sources
+    # Balance slots between movie and tv if 'all'
+    if args.type == 'all':
+        movie_count = total // 2
+        tv_count = total - movie_count
+        slots = (['movie'] * movie_count) + (['tv'] * tv_count)
+    else:
+        slots = [args.type] * total
+    random.shuffle(slots)
+
+    # 1. NEW LOGIC: Fetch newly rising (reach yalah tal3e) trends > 7.0 stars FIRST
+    log.info("🚀 Fetching newly rising trends with high ratings (>7.0)...")
+    trend_target = total if args.type != 'all' else max(1, total // 2)
+    trend_items = fetch_from_tmdb_trends(seen_ids, trend_target, min_popularity=40, restrict_type=args.type)
+    if trend_items:
+        tasks.extend(trend_items)
+
+    # 2. Company missions as legacy fetcher logic
     log.info("🚀 Focusing on specialized company missions...")
     company_missions = [m for m in BOT_MISSIONS if m.get('type') == 'company']
     random.shuffle(company_missions)
-    
-    # Balance slots between movie and tv
-    movie_count = total // 2
-    tv_count = total - movie_count
-    slots = (['movie'] * movie_count) + (['tv'] * tv_count)
-    random.shuffle(slots)
     
     for i, mission in enumerate(company_missions):
         if len(tasks) >= total: break
@@ -209,13 +225,15 @@ def main():
             tasks.extend(items)
             log.info(f"Found item from {mission['name']} ({media_type})")
 
-    # If still needed, fallback to general trends ONLY if they match our target companies
     if len(tasks) < total:
-        remaining = total - len(tasks)
-        tmdb_trends = fetch_from_tmdb_trends(seen_ids, remaining, min_popularity=200)
-        # Here we should ideally filter by company but fetch_from_tmdb_trends doesn't do that yet.
-        # However, prioritizing company missions first fulfills the user's primary "fa9ate" intent.
-        tasks.extend(tmdb_trends)
+        log.info(f"Seeking more from authorized pool...")
+        random.shuffle(company_missions)
+        for mission in company_missions:
+            if len(tasks) >= total: break
+            media_type = random.choice(['movie', 'tv'])
+            items = fetch_fresh_items(media_type, seen_ids, 1, mission=mission)
+            if items:
+                tasks.extend(items)
 
     # Trim to exact count
     tasks = tasks[:total]
@@ -268,14 +286,22 @@ def main():
     print(f"💾 content_index.json updated ({len(all_index)} total entries)")
 
     # ── Rebuild homepage & sitemaps ──────────────────────────────────────────
+    # ── Rebuild homepage & sitemaps ──────────────────────────────────────────
     try:
-        from build_homepage import build, build_all_pages
-        build()
-        build_all_pages()
+        import build_homepage
+        build_homepage.build()
+        if hasattr(build_homepage, 'build_all_pages'):
+            build_homepage.build_all_pages()
+        
+        from mega_bot import build_listing_pages
         build_listing_pages()
-        print("🏗️  Homepage, all-pages & listing pages rebuilt.")
+        print("🏗️  Homepage and listing pages rebuilt.")
+        
+        # ── Update Search Index ──────────────────────────────────────────────
+        generate_search_index.generate()
+        print("🔍 Search index updated.")
     except Exception as e:
-        log.warning(f"Homepage build warning: {e}")
+        log.warning(f"Rebuild warning: {e}")
 
     # ── Git push (local runs only — GitHub Actions handles its own push) ─────
     git_sync = os.path.join(BASE_PATH, 'git_sync.sh')

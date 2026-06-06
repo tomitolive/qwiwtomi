@@ -1,0 +1,59 @@
+{
+  "id": 2287,
+  "title": "Batman",
+  "title_ar": "Batman",
+  "title_en": "Batman",
+  "slug": "2287-batman",
+  "folder": "tv",
+  "media_type": "tv",
+  "overview": "",
+  "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+  "backdrop_path": "/yGKZsVJ8avlUpk6pvKzakgQ7TV9.jpg",
+  "release_date": "1966-01-12",
+  "vote_average": 7.3,
+  "vote_count": 596,
+  "genres": [
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    }
+  ],
+  "ai_content": {
+    "desc_ar": "في عالم غامر، يلقي باتمان، الرجل الماسك، بظله على مدينة غامرة، حيث يلقي القبض على الجناية والقاتلين. مع وارثه ريتشارد جونز، يلقي باتمان بفك طلاوة في المخاطر والغامرة، في هذا العالم المليء بالسفير والرعب.",
+    "desc_en": "In a world of danger, Batman, the masked man, casts his shadow over a city of danger, where he captures the villains and killers. With his heir Richard John, Batman breaks the code of risks and adventure, in this world full of fear and terror.",
+    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في باتمان!",
+    "seo_title_ar": "مشاهدة باتمان مترجم اون لاين - توميتو",
+    "keywords": "فيلم خيال علمي وفانتازيا, مشاهدة فيلم كوميديا, فيلم حركة ومغامرة, أحداث Batman بالتفصيل, مشاهدة Batman 1966, Batman مترجم كامل, قصة مسلسل Batman, توميتو Batman",
+    "opinion": "هو فيلم ممتاز، مليء بالتension والغامرة، حيث يلقي باتمان بفك طلاوة في المخاطر والغامرة.",
+    "faq": [
+      {
+        "q": "ما هو باتمان؟",
+        "a": "هو رجل ماسك يلقي القبض على الجناية والقاتلين في مدينة غامرة."
+      },
+      {
+        "q": "ما هو نوع باتمان؟",
+        "a": "هو فيلم خيال علمي وفانتازيا, كوميديا, حركة ومغامرة."
+      },
+      {
+        "q": "ما هو أفضل شيء في باتمان؟",
+        "a": "هو التension والغامرة والفك طلاوة في المخاطر والغامرة"
+      }
+    ]
+  },
+  "fixed": true,
+  "first_air_date": "1966-01-12",
+  "section": "أفلام أجنبية",
+  "quality": "1080p BluRay",
+  "duration": "86 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Christopher Toler Tommy the Clown Miss Prissy Dragon Ceasare Willis"
+}
