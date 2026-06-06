@@ -154,6 +154,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/229544-among-us</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/22980-watch-what-happens-live-with-andy-cohen</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4500-the-wonder-years</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

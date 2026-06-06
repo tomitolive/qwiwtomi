@@ -50975,5 +50975,77 @@
     ],
     "timestamp": 1780712492,
     "fixed": true
+  },
+  {
+    "title": "الغرفة الخلفية / Backrooms",
+    "title_ar": "الغرفة الخلفية",
+    "title_en": "Backrooms",
+    "slug": "1083381-backrooms",
+    "folder": "movie",
+    "poster": "/t/p/w500/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1083381,
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "genres": [
+      "رعب",
+      "غموض",
+      "خيال علمي"
+    ],
+    "timestamp": 1780774809,
+    "fixed": true
+  },
+  {
+    "title": "Mi socio / My Partner",
+    "title_ar": "Mi socio",
+    "title_en": "My Partner",
+    "slug": "455502-my-partner",
+    "folder": "movie",
+    "poster": "/t/p/w500/cthChsUtOliCjo26soJzFHwLVTZ.jpg",
+    "rating": 8.9,
+    "year": "1982",
+    "type": "movie",
+    "tmdb_id": 455502,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780774817,
+    "fixed": true
+  },
+  {
+    "title": "Among Us / Among Us",
+    "title_ar": "Among Us",
+    "title_en": "Among Us",
+    "slug": "229544-among-us",
+    "folder": "tv",
+    "poster": "/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 229544,
+    "genre_ids": [
+      16,
+      9648,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780774825,
+    "fixed": true
   }
 ]
