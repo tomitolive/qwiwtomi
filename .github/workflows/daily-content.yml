@@ -2,8 +2,8 @@ name: Daily Content Generation
 
 on:
   schedule:
-    # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    # Run every 20 minutes
+    - cron: '*/20 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
