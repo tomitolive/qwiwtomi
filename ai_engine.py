@@ -32,6 +32,70 @@ log = logging.getLogger(__name__)
 # Global state
 _current_model_idx = 0
 
+# Bot missions for content generation
+BOT_MISSIONS = [
+    {
+        "name": "Disney",
+        "type": "company",
+        "id": 2,
+        "label": "Disney"
+    },
+    {
+        "name": "Marvel Studios",
+        "type": "company",
+        "id": 420,
+        "label": "Marvel"
+    },
+    {
+        "name": "Netflix",
+        "type": "company",
+        "id": 213,
+        "label": "Netflix"
+    },
+    {
+        "name": "HBO",
+        "type": "company",
+        "id": 497,
+        "label": "HBO"
+    },
+    {
+        "name": "Action",
+        "type": "genre",
+        "id": 28,
+        "label": "Action"
+    },
+    {
+        "name": "Drama",
+        "type": "genre",
+        "id": 18,
+        "label": "Drama"
+    },
+    {
+        "name": "Comedy",
+        "type": "genre",
+        "id": 35,
+        "label": "Comedy"
+    },
+    {
+        "name": "Horror",
+        "type": "genre",
+        "id": 27,
+        "label": "Horror"
+    },
+    {
+        "name": "Sci-Fi",
+        "type": "genre",
+        "id": 878,
+        "label": "Sci-Fi"
+    },
+    {
+        "name": "Trending",
+        "type": "trending",
+        "id": None,
+        "label": "Trending"
+    }
+]
+
 # Cohere Models Configuration
 COHERE_MODELS = [
     {
