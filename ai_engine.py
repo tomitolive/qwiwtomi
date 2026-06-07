@@ -783,7 +783,7 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
             if 'q_en' in faq_item:
                 faq_item['q_en'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['q_en']))))))
             if 'a_en' in faq_item:
-                faq_item['a_en'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['a_en'])))))
+                faq_item['a_en'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['a_en']))))))
 
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
