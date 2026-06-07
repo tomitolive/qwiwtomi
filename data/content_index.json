@@ -51337,5 +51337,51 @@
     ],
     "timestamp": 1780796676,
     "fixed": true
+  },
+  {
+    "title": "Linkin Park: Live in Texas / Linkin Park: Live in Texas",
+    "title_ar": "Linkin Park: Live in Texas",
+    "title_en": "Linkin Park: Live in Texas",
+    "slug": "40444-linkin-park-live-in-texas",
+    "folder": "movie",
+    "poster": "/t/p/w500/7b6aV79bXuoNktnP7oKfUzZGBka.jpg",
+    "rating": 9.0,
+    "year": "2003",
+    "type": "movie",
+    "tmdb_id": 40444,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780798052,
+    "fixed": true
+  },
+  {
+    "title": "Jack Joker: U Steal My Heart! / Jack Joker: U Steal My Heart!",
+    "title_ar": "Jack Joker: U Steal My Heart!",
+    "title_en": "Jack Joker: U Steal My Heart!",
+    "slug": "240692-jack-joker-u-steal-my-heart",
+    "folder": "tv",
+    "poster": "/t/p/w500/iDN6krI6FivvUudyvlvQflYrG5p.jpg",
+    "rating": 9.5,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 240692,
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1780798067,
+    "fixed": true
   }
 ]
