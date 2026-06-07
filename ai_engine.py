@@ -32,6 +32,24 @@ log = logging.getLogger(__name__)
 # Global state
 _current_model_idx = 0
 
+def is_arabic_text(text):
+    """Check if text is primarily Arabic (not Hebrew, Cyrillic, Chinese, etc.)."""
+    if not text:
+        return False
+    
+    # Count Arabic characters (Unicode range U+0600-U+06FF)
+    arabic_chars = len(re.findall(r'[\u0600-\u06FF]', text))
+    
+    # Count total non-whitespace characters
+    total_chars = len(re.sub(r'\s', '', text))
+    
+    if total_chars == 0:
+        return False
+    
+    # If more than 50% of characters are Arabic, consider it Arabic text
+    arabic_ratio = arabic_chars / total_chars
+    return arabic_ratio > 0.5
+
 def clean_arabic_text(text):
     """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
@@ -376,6 +394,11 @@ def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en,
     """Generate bilingual description using HuggingFace API."""
     genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else str(genres_ar)
     media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    
+    # Validate title_ar - if not Arabic, fallback to title_en
+    if title_ar and not is_arabic_text(title_ar):
+        log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic. Falling back to title_en: '{title_en}'")
+        title_ar = title_en
     
     # Simple, clear prompt to avoid JSON parse errors
     system = """You are a JSON generator. Return ONLY valid JSON object. No markdown, no code blocks.
