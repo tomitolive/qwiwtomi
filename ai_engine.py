@@ -33,12 +33,22 @@ log = logging.getLogger(__name__)
 _current_model_idx = 0
 
 def clean_arabic_text(text):
-    """Remove non-Arabic characters from Arabic text fields."""
+    """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
         return text
-    # Keep Arabic letters, numbers, and basic punctuation
-    # Remove English letters and other non-Arabic characters
-    cleaned = re.sub(r'[a-zA-Z]', '', text)
+    # First, preserve proper names (capitalized English words)
+    # This keeps titles like "Star City", "For All Mankind" etc.
+    proper_names = re.findall(r'\b[A-Z][a-zA-Z]+\b', text)
+    
+    # Remove English letters except for proper names
+    cleaned = re.sub(r'\b[a-z]+\b', '', text)  # Remove lowercase English words
+    cleaned = re.sub(r'\b[A-Z](?![a-zA-Z])\b', '', cleaned)  # Remove single uppercase letters
+    
+    # Add back proper names
+    for name in proper_names:
+        if name not in cleaned:
+            cleaned = cleaned + ' ' + name
+    
     return cleaned.strip()
 
 def clean_english_text(text):
@@ -372,19 +382,27 @@ def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en,
 
 Generate this exact JSON structure:
 {
-  "desc_ar": "3-5 sentences summary in Arabic",
-  "desc_en": "English summary",
-  "meta_desc": "130-155 characters",
-  "seo_title_ar": "مشاهدة فيلم TITLE_EN مترجم - توميتو",
-  "opinion_ar": "1-2 sentence review in Arabic",
-  "opinion_en": "1-2 sentence review in English",
-  "faq": [{"q": "question in Arabic", "a": "answer in Arabic", "q_en": "question in English", "a_en": "answer in English"}],
-  "keywords": "comma separated keywords"
+  "desc_ar": "3-5 sentences summary in Arabic - MUST include the Arabic Title and English Title in the text",
+  "desc_en": "English summary - MUST include the English Title in the text",
+  "meta_desc": "130-155 characters - MUST include the title",
+  "seo_title_ar": "مشاهدة [TYPE] [TITLE_EN] مترجم - توميتو",
+  "opinion_ar": "1-2 sentence review in Arabic - MUST include the title",
+  "opinion_en": "1-2 sentence review in English - MUST include the title",
+  "faq": [{"q": "question in Arabic with title", "a": "answer in Arabic", "q_en": "question in English with title", "a_en": "answer in English"}],
+  "keywords": "comma separated keywords without leading comma"
 }
 
-CRITICAL: Complete the entire JSON. Do not cut off mid-sentence. Ensure all fields are present and properly formatted. No newlines in strings. Escape quotes properly."""
+CRITICAL INSTRUCTIONS:
+1. You MUST use the provided Arabic Title and English Title in ALL text fields (desc_ar, desc_en, meta_desc, seo_title_ar, opinion_ar, opinion_en, faq).
+2. Do NOT leave empty spaces or placeholders. Always include the actual titles.
+3. Complete the entire JSON. Do not cut off mid-sentence.
+4. Ensure all fields are present and properly formatted.
+5. No newlines in strings. Escape quotes properly.
+6. Keywords must NOT start with a comma."""
 
-    user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}."""
+    user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
+
+IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content. Do not leave empty spaces."""
 
     res, model_used = _call_cohere_llm(system, user)
     
@@ -446,6 +464,63 @@ CRITICAL: Complete the entire JSON. Do not cut off mid-sentence. Ensure all fiel
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
         data['keywords'] = clean_arabic_text(data['keywords'])
+        
+        # Validation: Check for empty placeholders and malformed output
+        def has_empty_placeholders(text):
+            if not text:
+                return True
+            # Check for patterns like "  ," or "  ." (double spaces with punctuation)
+            if re.search(r'\s{2,}[,.]', text):
+                return True
+            # Check for patterns like "عالم  ، حيث" (space, Arabic comma, space)
+            if re.search(r'\s+،\s+', text):
+                return True
+            # Check for just ": - , ." or similar
+            if re.match(r'^[:\-,\s\.]+$', text):
+                return True
+            return False
+        
+        # Validate and fix meta_desc
+        if has_empty_placeholders(data.get('meta_desc', '')):
+            data['meta_desc'] = f"مشاهدة {title_ar} مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة."[:155]
+            data['meta_desc'] = clean_arabic_text(data['meta_desc'])
+        
+        # Validate and fix desc_ar
+        if has_empty_placeholders(data.get('desc_ar', '')):
+            data['desc_ar'] = overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية."
+            data['desc_ar'] = clean_arabic_text(data['desc_ar'])
+        
+        # Validate and fix desc_en
+        if has_empty_placeholders(data.get('desc_en', '')):
+            data['desc_en'] = overview_en or f"Enjoy watching {title_en} in high quality."
+            data['desc_en'] = clean_english_text(data['desc_en'])
+        
+        # Validate and fix opinion_ar
+        if has_empty_placeholders(data.get('opinion_ar', '')):
+            data['opinion_ar'] = f"عمل {media_label_ar} مذهل يستحق المتابعة والاستكشاف."
+            data['opinion_ar'] = clean_arabic_text(data['opinion_ar'])
+        
+        # Validate and fix opinion_en
+        if has_empty_placeholders(data.get('opinion_en', '')):
+            data['opinion_en'] = f"A stunning {media_label_ar} worth watching and exploring."
+            data['opinion_en'] = clean_english_text(data['opinion_en'])
+        
+        # Validate and fix keywords (remove leading comma)
+        if data.get('keywords', '').startswith(','):
+            data['keywords'] = data['keywords'][1:].strip()
+        
+        # Validate FAQ fields
+        for faq_item in data.get('faq', []):
+            for key in ['q', 'a', 'q_en', 'a_en']:
+                if key in faq_item and has_empty_placeholders(faq_item[key]):
+                    if key == 'q':
+                        faq_item[key] = f"سؤال عن {title_ar}"
+                    elif key == 'a':
+                        faq_item[key] = f"إجابة عن {title_ar}"
+                    elif key == 'q_en':
+                        faq_item[key] = f"Question about {title_en}"
+                    elif key == 'a_en':
+                        faq_item[key] = f"Answer about {title_en}"
         
         log.info(f"✅ Successfully generated content for {title_ar} using {model_used}")
         return data
