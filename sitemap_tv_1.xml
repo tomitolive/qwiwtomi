@@ -1027,6 +1027,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/137228-la-casa-de-los-famosos</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/os706RrUUFdW8sWuo1qmmCDv6OE.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/13781-heathcliff-and-the-catillac-cats</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vGotZtJzU5eGCndAO4lqxylPK5t.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/223397-city-of-god-the-fight-rages-on</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

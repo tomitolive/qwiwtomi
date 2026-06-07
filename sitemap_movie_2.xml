@@ -2098,6 +2098,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/373001-el-cementerio-de-los-elefantes</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/r4AoFwoAYP1OBJAbmFTgUjGjAUE.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/373200-detective-chinatown</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kvcdaGcres9pGDwZfPN9jOKfZh.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/446893-trolls-world-tour</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/A7rxO6QpngbK2hGlCKKA5INrRFd.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
