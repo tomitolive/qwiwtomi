@@ -1180,6 +1180,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/282497-wonder-wall</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/1lPtFI5KujhtfagWqBrFN0zIkTv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/283123-eshref-ruya</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/44006-chicago-fire</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

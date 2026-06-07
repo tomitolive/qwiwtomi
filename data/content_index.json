@@ -51517,5 +51517,25 @@
     ],
     "timestamp": 1780803383,
     "fixed": true
+  },
+  {
+    "title": "Wonder Wall / Wonder Wall",
+    "title_ar": "Wonder Wall",
+    "title_en": "Wonder Wall",
+    "slug": "282497-wonder-wall",
+    "folder": "tv",
+    "poster": "/t/p/w500/1lPtFI5KujhtfagWqBrFN0zIkTv.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 282497,
+    "genre_ids": [
+      80
+    ],
+    "genres": [
+      "جريمة"
+    ],
+    "timestamp": 1780839754,
+    "fixed": true
   }
 ]
