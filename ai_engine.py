@@ -670,7 +670,8 @@ CRITICAL INSTRUCTIONS:
 3. Complete the entire JSON. Do not cut off mid-sentence.
 4. Ensure all fields are present and properly formatted.
 5. No newlines in strings. Escape quotes properly.
-6. Keywords must NOT start with a comma."""
+6. Keywords must NOT start with a comma.
+7. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
@@ -714,13 +715,19 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
                 return text
             return re.sub(r'La Casa\s+Famosos', 'La Casa de los Famosos', text)
         
-        data['desc_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data['desc_ar'])))
-        data['desc_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('desc_en', ''))))
-        data['meta_desc'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('meta_desc', ''))))
-        data['seo_title_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('seo_title_ar', ''))))
-        data['opinion_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('opinion_ar', ''))))
-        data['opinion_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('opinion_en', ''))))
-        data['keywords'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('keywords', ''))))
+        # Fix "El Cementerio   Elefantes" -> "El Cementerio de los Elefantes"
+        def fix_el_cementerio_de_los_elefantes(text):
+            if not text:
+                return text
+            return re.sub(r'El Cementerio\s+Elefantes', 'El Cementerio de los Elefantes', text)
+        
+        data['desc_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data['desc_ar']))))
+        data['desc_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('desc_en', '')))))
+        data['meta_desc'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('meta_desc', '')))))
+        data['seo_title_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('seo_title_ar', '')))))
+        data['opinion_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('opinion_ar', '')))))
+        data['opinion_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('opinion_en', '')))))
+        data['keywords'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(data.get('keywords', '')))))
 
         if not data.get('desc_en'):
             data['desc_en'] = overview_en or f"Enjoy watching {title_en} in high quality."
@@ -751,13 +758,13 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         # Clean FAQ fields
         for faq_item in data['faq']:
             if 'q' in faq_item:
-                faq_item['q'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['q']))))
+                faq_item['q'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['q'])))))
             if 'a' in faq_item:
-                faq_item['a'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['a']))))
+                faq_item['a'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['a'])))))
             if 'q_en' in faq_item:
-                faq_item['q_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['q_en']))))
+                faq_item['q_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['q_en'])))))
             if 'a_en' in faq_item:
-                faq_item['a_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['a_en']))))
+                faq_item['a_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['a_en'])))))
 
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
@@ -847,6 +854,12 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
                 return text
             return re.sub(r'La Casa\s+Famosos', 'La Casa de los Famosos', text)
         
+        # Fix "El Cementerio   Elefantes" -> "El Cementerio de los Elefantes"
+        def fix_el_cementerio_de_los_elefantes(text):
+            if not text:
+                return text
+            return re.sub(r'El Cementerio\s+Elefantes', 'El Cementerio de los Elefantes', text)
+        
         fallback_data = {
             "desc_ar": overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية.",
             "desc_en": overview_en or f"Enjoy watching {title_en} in high quality.",
@@ -863,19 +876,19 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         }
         
         # Apply fix to all fields
-        fallback_data['desc_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['desc_ar'])))
-        fallback_data['desc_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['desc_en'])))
-        fallback_data['meta_desc'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['meta_desc'])))
-        fallback_data['seo_title_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['seo_title_ar'])))
-        fallback_data['opinion_ar'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_ar'])))
-        fallback_data['opinion_en'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_en'])))
-        fallback_data['keywords'] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['keywords'])))
+        fallback_data['desc_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['desc_ar']))))
+        fallback_data['desc_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['desc_en']))))
+        fallback_data['meta_desc'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['meta_desc']))))
+        fallback_data['seo_title_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['seo_title_ar']))))
+        fallback_data['opinion_ar'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_ar']))))
+        fallback_data['opinion_en'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_en']))))
+        fallback_data['keywords'] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['keywords']))))
         
         # Apply fix to FAQ
         for faq_item in fallback_data['faq']:
             for key in ['q', 'a', 'q_en', 'a_en']:
                 if key in faq_item:
-                    faq_item[key] = fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(faq_item[key])))
+                    faq_item[key] = fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(faq_item[key]))))
         
         return fallback_data
 
