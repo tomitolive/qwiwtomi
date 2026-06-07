@@ -936,7 +936,7 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         fallback_data['seo_title_ar'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['seo_title_ar'])))))
         fallback_data['opinion_ar'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_ar'])))))
         fallback_data['opinion_en'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_en'])))))
-        fallback_data['keywords'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['keywords']))))
+        fallback_data['keywords'] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(fallback_data['keywords'])))))
         
         # Apply fix to FAQ
         for faq_item in fallback_data['faq']:
