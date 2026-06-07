@@ -95,6 +95,120 @@ def clean_english_text(text):
     cleaned = re.sub(r'[\u0600-\u06FF]', '', text)
     return cleaned.strip()
 
+# Country translation map
+COUNTRIES_MAP = {
+    'Thailand': 'تايلاند',
+    'Japan': 'اليابان',
+    'South Korea': 'كوريا الجنوبية',
+    'France': 'فرنسا',
+    'Germany': 'ألمانيا',
+    'United States': 'الولايات المتحدة',
+    'USA': 'الولايات المتحدة',
+    'United States of America': 'الولايات المتحدة',
+    'United Kingdom': 'المملكة المتحدة',
+    'UK': 'المملكة المتحدة',
+    'Italy': 'إيطاليا',
+    'Spain': 'إسبانيا',
+    'China': 'الصين',
+    'India': 'الهند',
+    'Brazil': 'البرازيل',
+    'Mexico': 'المكسيك',
+    'Canada': 'كندا',
+    'Australia': 'أستراليا',
+    'Russia': 'روسيا',
+    'Turkey': 'تركيا',
+    'Egypt': 'مصر',
+    'Saudi Arabia': 'السعودية',
+    'United Arab Emirates': 'الإمارات العربية المتحدة',
+    'UAE': 'الإمارات العربية المتحدة',
+    'Indonesia': 'إندونيسيا',
+    'Philippines': 'الفلبين',
+    'Vietnam': 'فيتنام',
+    'Malaysia': 'ماليزيا',
+    'Singapore': 'سنغافورة',
+    'Hong Kong': 'هونغ كونغ',
+    'Taiwan': 'تايوان',
+    'Poland': 'بولندا',
+    'Sweden': 'السويد',
+    'Norway': 'النرويج',
+    'Denmark': 'الدنمارك',
+    'Netherlands': 'هولندا',
+    'Belgium': 'بلجيكا',
+    'Switzerland': 'سويسرا',
+    'Austria': 'النمسا',
+    'Czech Republic': 'جمهورية التشيك',
+    'Czechoslovakia': 'تشيكوسلوفاكيا',
+    'Hungary': 'المجر',
+    'Romania': 'رومانيا',
+    'Bulgaria': 'بلغاريا',
+    'Greece': 'اليونان',
+    'Portugal': 'البرتغال',
+    'Argentina': 'الأرجنتين',
+    'Colombia': 'كولومبيا',
+    'Chile': 'تشيلي',
+    'Peru': 'بيرو',
+    'Bolivia': 'بوليفيا',
+    'South Africa': 'جنوب أفريقيا',
+    'Nigeria': 'نيجيريا',
+    'Kenya': 'كينيا',
+    'Morocco': 'المغرب',
+    'Algeria': 'الجزائر',
+    'Tunisia': 'تونس',
+    'Libya': 'ليبيا',
+    'Sudan': 'السودان',
+    'Iraq': 'العراق',
+    'Syria': 'سوريا',
+    'Jordan': 'الأردن',
+    'Lebanon': 'لبنان',
+    'Kuwait': 'الكويت',
+    'Qatar': 'قطر',
+    'Bahrain': 'البحرين',
+    'Oman': 'عمان',
+    'Yemen': 'اليمن',
+    'Pakistan': 'باكستان',
+    'Bangladesh': 'بنغلاديش',
+    'Sri Lanka': 'سريلانكا',
+    'Nepal': 'نيبال',
+    'Myanmar': 'ميانمار',
+    'Cambodia': 'كمبوديا',
+    'Laos': 'لاوس',
+    'New Zealand': 'نيوزيلندا',
+    'Ireland': 'أيرلندا',
+    'Finland': 'فنلندا',
+    'Iceland': 'آيسلندا',
+    'Estonia': 'إستونيا',
+    'Latvia': 'لاتفيا',
+    'Lithuania': 'ليتوانيا',
+    'Ukraine': 'أوكرانيا',
+    'Belarus': 'بيلاروسيا',
+    'Kazakhstan': 'كازاخستان',
+    'Uzbekistan': 'أوزبكستان',
+    'Afghanistan': 'أفغانستان',
+    'Iran': 'إيران',
+    'Israel': 'إسرائيل',
+    'North Korea': 'كوريا الشمالية',
+    'Mongolia': 'منغوليا',
+    'Georgia': 'جورجيا',
+    'Armenia': 'أرمينيا',
+    'Azerbaijan': 'أذربيجان',
+    'Cyprus': 'قبرص',
+    'Malta': 'مالطا',
+    'Luxembourg': 'لوكسمبورغ',
+    'Monaco': 'موناكو',
+    'San Marino': 'سان مارينو',
+    'Vatican City': 'الفاتيكان',
+    'Liechtenstein': 'ليختنشتاين',
+    'Andorra': 'أندورا',
+    'Croatia': 'كرواتيا',
+    'Serbia': 'صربيا',
+    'Bolivia': 'بوليفيا',
+    'Dominican Republic': 'جمهورية الدومينيكان',
+    'Soviet Union': 'الاتحاد السوفيتي',
+    'Yugoslavia': 'يوغوسلافيا',
+    'East Germany': 'ألمانيا الشرقية',
+    'Aruba': 'أروبا',
+}
+
 # Bot missions for content generation
 BOT_MISSIONS = [
     {
@@ -350,6 +464,16 @@ def get_trending_keywords(query, geo='SA'):
             if top_queries is not None and not top_queries.empty:
                 keywords = top_queries['query'].head(10).tolist()
         
+        # Also try rising queries for additional keywords
+        if query in related_queries and 'rising' in related_queries[query]:
+            rising_queries = related_queries[query]['rising']
+            if rising_queries is not None and not rising_queries.empty:
+                rising_keywords = rising_queries['query'].head(5).tolist()
+                keywords.extend(rising_keywords)
+        
+        # Remove duplicates and limit to 15
+        keywords = list(dict.fromkeys(keywords))[:15]
+        
         log.info(f"🔍 Found {len(keywords)} trending keywords for '{query}' in {geo}")
         return keywords
         
@@ -561,16 +685,36 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         t_query = title_ar if title_ar and title_ar.strip() else title_en
         trending_keywords = get_trending_keywords(t_query, geo='SA')
         
-        # Merge keywords
+        # Merge keywords - use more trending keywords (up to 10)
         base_keywords = data.get('keywords', '')
         if trending_keywords:
-            trending_kw_str = ", ".join(trending_keywords[:5])
+            trending_kw_str = ", ".join(trending_keywords[:10])
             data['keywords'] = f"{base_keywords}, {trending_kw_str}"
         
         # Ensure all required fields exist and clean them
         if not data.get('desc_ar'):
             data['desc_ar'] = overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية."
         data['desc_ar'] = clean_arabic_text(data['desc_ar'])
+        
+        # Fix "Attack Titan" -> "Attack on Titan" in all fields
+        def fix_attack_on_titan(text):
+            if not text:
+                return text
+            return re.sub(r'Attack\s+Titan', 'Attack on Titan', text)
+        
+        # Fix "Jack Joker:  Steal" -> "Jack Joker: U Steal"
+        def fix_jack_joker(text):
+            if not text:
+                return text
+            return re.sub(r'Jack Joker:\s+Steal', 'Jack Joker: U Steal', text)
+        
+        data['desc_ar'] = fix_jack_joker(fix_attack_on_titan(data['desc_ar']))
+        data['desc_en'] = fix_jack_joker(fix_attack_on_titan(data.get('desc_en', '')))
+        data['meta_desc'] = fix_jack_joker(fix_attack_on_titan(data.get('meta_desc', '')))
+        data['seo_title_ar'] = fix_jack_joker(fix_attack_on_titan(data.get('seo_title_ar', '')))
+        data['opinion_ar'] = fix_jack_joker(fix_attack_on_titan(data.get('opinion_ar', '')))
+        data['opinion_en'] = fix_jack_joker(fix_attack_on_titan(data.get('opinion_en', '')))
+        data['keywords'] = fix_jack_joker(fix_attack_on_titan(data.get('keywords', '')))
 
         if not data.get('desc_en'):
             data['desc_en'] = overview_en or f"Enjoy watching {title_en} in high quality."
@@ -601,13 +745,13 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         # Clean FAQ fields
         for faq_item in data['faq']:
             if 'q' in faq_item:
-                faq_item['q'] = clean_arabic_text(faq_item['q'])
+                faq_item['q'] = fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['q'])))
             if 'a' in faq_item:
-                faq_item['a'] = clean_arabic_text(faq_item['a'])
+                faq_item['a'] = fix_jack_joker(fix_attack_on_titan(clean_arabic_text(faq_item['a'])))
             if 'q_en' in faq_item:
-                faq_item['q_en'] = clean_english_text(faq_item['q_en'])
+                faq_item['q_en'] = fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['q_en'])))
             if 'a_en' in faq_item:
-                faq_item['a_en'] = clean_english_text(faq_item['a_en'])
+                faq_item['a_en'] = fix_jack_joker(fix_attack_on_titan(clean_english_text(faq_item['a_en'])))
 
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
@@ -679,7 +823,19 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         trending_keywords = get_trending_keywords(title_ar or title_en, geo='SA')
         trending_kw_str = ", ".join(trending_keywords[:5]) if trending_keywords else ""
         
-        return {
+        # Fix "Attack Titan" -> "Attack on Titan" in fallback
+        def fix_attack_on_titan(text):
+            if not text:
+                return text
+            return re.sub(r'Attack\s+Titan', 'Attack on Titan', text)
+        
+        # Fix "Jack Joker:  Steal" -> "Jack Joker: U Steal"
+        def fix_jack_joker(text):
+            if not text:
+                return text
+            return re.sub(r'Jack Joker:\s+Steal', 'Jack Joker: U Steal', text)
+        
+        fallback_data = {
             "desc_ar": overview_ar or f"استمتع بمشاهدة {media_label_ar} {title_ar} مترجم بجودة عالية.",
             "desc_en": overview_en or f"Enjoy watching {title_en} in high quality.",
             "meta_desc": f"مشاهدة {title_ar} مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة."[:155],
@@ -693,6 +849,23 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
             ],
             "keywords": f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {trending_kw_str}"
         }
+        
+        # Apply fix to all fields
+        fallback_data['desc_ar'] = fix_jack_joker(fix_attack_on_titan(fallback_data['desc_ar']))
+        fallback_data['desc_en'] = fix_jack_joker(fix_attack_on_titan(fallback_data['desc_en']))
+        fallback_data['meta_desc'] = fix_jack_joker(fix_attack_on_titan(fallback_data['meta_desc']))
+        fallback_data['seo_title_ar'] = fix_jack_joker(fix_attack_on_titan(fallback_data['seo_title_ar']))
+        fallback_data['opinion_ar'] = fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_ar']))
+        fallback_data['opinion_en'] = fix_jack_joker(fix_attack_on_titan(fallback_data['opinion_en']))
+        fallback_data['keywords'] = fix_jack_joker(fix_attack_on_titan(fallback_data['keywords']))
+        
+        # Apply fix to FAQ
+        for faq_item in fallback_data['faq']:
+            for key in ['q', 'a', 'q_en', 'a_en']:
+                if key in faq_item:
+                    faq_item[key] = fix_jack_joker(fix_attack_on_titan(faq_item[key]))
+        
+        return fallback_data
 
 
 def get_rising_seo_tags(subject_name, media_type='movie', year='2026', genres_ar=None, actor=None, platform=None, is_arabic_content=False):
