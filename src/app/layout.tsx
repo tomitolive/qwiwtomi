@@ -3,7 +3,6 @@ import { Inter, Outfit, Tajawal } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "@/components/ThemeProvider";
-import AdBanner from "@/components/AdBanner";
 import { cookies } from "next/headers";
 import { headers } from "next/headers";
 import Script from "next/script";
@@ -81,9 +80,6 @@ export default async function RootLayout({
           <main className="min-h-screen">
             {children}
           </main>
-
-          {/* ───── AD BANNER ───── */}
-          <AdBanner />
 
           {/* ───── FOOTER ───── */}
           <footer className="premium-footer">
