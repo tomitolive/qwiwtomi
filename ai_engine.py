@@ -942,7 +942,7 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         for faq_item in fallback_data['faq']:
             for key in ['q', 'a', 'q_en', 'a_en']:
                 if key in faq_item:
-                    faq_item[key] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(faq_item[key]))))
+                    faq_item[key] = fix_scooby_doos_a_nutcracker_scoob(fix_el_cementerio_de_los_elefantes(fix_la_casa_de_los_famosos(fix_jack_joker(fix_attack_on_titan(faq_item[key])))))
         
         return fallback_data
 
