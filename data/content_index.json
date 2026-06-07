@@ -51291,5 +51291,51 @@
     ],
     "timestamp": 1780794511,
     "fixed": true
+  },
+  {
+    "title": "THE LAST ATTACK / Attack on Titan: THE LAST ATTACK",
+    "title_ar": "THE LAST ATTACK",
+    "title_en": "Attack on Titan: THE LAST ATTACK",
+    "slug": "1333100-attack-on-titan-the-last-attack",
+    "folder": "movie",
+    "poster": "/t/p/w500/gzs2XMWatrPjVJputJUugbKA4Z.jpg",
+    "rating": 8.7,
+    "year": "2024",
+    "type": "movie",
+    "tmdb_id": 1333100,
+    "genre_ids": [
+      16,
+      28,
+      12,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة",
+      "مغامرة",
+      "دراما"
+    ],
+    "timestamp": 1780796661,
+    "fixed": true
+  },
+  {
+    "title": "المنافسون / Rivals",
+    "title_ar": "المنافسون",
+    "title_en": "Rivals",
+    "slug": "208921-rivals",
+    "folder": "tv",
+    "poster": "/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+    "rating": 7.4,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 208921,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780796676,
+    "fixed": true
   }
 ]

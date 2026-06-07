@@ -2197,6 +2197,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1333100-attack-on-titan-the-last-attack</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gzs2XMWatrPjVJputJUugbKA4Z.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1336770-vaazha-ii</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/rlpI8BqpCccQ9zx6UlQ72g8KJPb.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/14574-the-boy-in-the-striped-pyjamas</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

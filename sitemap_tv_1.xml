@@ -2296,6 +2296,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/208921-rivals</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2093-matlock</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/223911-renegade-immortal</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
