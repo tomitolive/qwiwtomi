@@ -18,6 +18,21 @@ import random
 import re
 from datetime import datetime
 
+# Load .env file manually
+def load_env():
+    env_path = os.path.join(os.path.dirname(__file__), '.env')
+    if os.path.exists(env_path):
+        with open(env_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, value = line.split('=', 1)
+                    os.environ[key] = value
+        return True
+    return False
+
+load_env()
+
 # Configuration
 COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 COHERE_API_URL = "https://api.cohere.com/v2/chat"
@@ -49,6 +64,24 @@ def is_arabic_text(text):
     # If more than 50% of characters are Arabic, consider it Arabic text
     arabic_ratio = arabic_chars / total_chars
     return arabic_ratio > 0.5
+
+def is_english_text(text):
+    """Check if text is primarily English (Latin letters)."""
+    if not text:
+        return False
+    
+    # Count Latin characters
+    latin_chars = len(re.findall(r'[a-zA-Z]', text))
+    
+    # Count total non-whitespace characters
+    total_chars = len(re.sub(r'\s', '', text))
+    
+    if total_chars == 0:
+        return False
+    
+    # If more than 50% of characters are Latin, consider it English text
+    latin_ratio = latin_chars / total_chars
+    return latin_ratio > 0.5
 
 def is_valid_title_ar(text):
     """Check if text is valid for title_ar (Arabic or English only, not Hebrew, Cyrillic, Chinese, etc.)."""
@@ -386,7 +419,7 @@ COHERE_MODELS = [
     {
         "name": "command-r-08-2024",
         "model_id": "command-r-08-2024",
-        "api_key": COHERE_API_KEY
+        "api_key": os.getenv("COHERE_API_KEY")
     }
 ]
 
