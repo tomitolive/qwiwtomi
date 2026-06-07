@@ -116,10 +116,118 @@ BOT_MISSIONS = [
         "label": "Netflix"
     },
     {
+        "name": "Warner Bros. Pictures",
+        "type": "company",
+        "id": 1743,
+        "label": "Warner Bros"
+    },
+    {
+        "name": "Universal Pictures",
+        "type": "company",
+        "id": 334,
+        "label": "Universal"
+    },
+    {
+        "name": "Paramount Pictures",
+        "type": "company",
+        "id": 45,
+        "label": "Paramount"
+    },
+    {
+        "name": "Sony Pictures",
+        "type": "company",
+        "id": 562,
+        "label": "Sony"
+    },
+    {
+        "name": "20th Century Studios",
+        "type": "company",
+        "id": 257,
+        "label": "20th Century"
+    },
+    {
+        "name": "Walt Disney Pictures",
+        "type": "company",
+        "id": 28,
+        "label": "Disney Pictures"
+    },
+    {
+        "name": "Apple TV+",
+        "type": "company",
+        "id": 25529,
+        "label": "Apple TV"
+    },
+    {
+        "name": "Amazon Studios",
+        "type": "company",
+        "id": 110810,
+        "label": "Amazon"
+    },
+    {
         "name": "HBO",
         "type": "company",
-        "id": 497,
+        "id": 3268,
         "label": "HBO"
+    },
+    {
+        "name": "Hulu",
+        "type": "company",
+        "id": 3560,
+        "label": "Hulu"
+    },
+    {
+        "name": "MGM",
+        "type": "company",
+        "id": 211,
+        "label": "MGM"
+    },
+    {
+        "name": "Lionsgate",
+        "type": "company",
+        "id": 1632,
+        "label": "Lionsgate"
+    },
+    {
+        "name": "A24",
+        "type": "company",
+        "id": 41077,
+        "label": "A24"
+    },
+    {
+        "name": "BBC",
+        "type": "company",
+        "id": 616,
+        "label": "BBC"
+    },
+    {
+        "name": "Canal+",
+        "type": "company",
+        "id": 3101,
+        "label": "Canal+"
+    },
+    {
+        "name": "Blumhouse",
+        "type": "company",
+        "id": 3172,
+        "label": "Blumhouse"
+    },
+    {
+        "name": "Bad Robot",
+        "type": "company",
+        "id": 11461,
+        "label": "Bad Robot"
+    },
+    {
+        "name": "Legendary Pictures",
+        "type": "company",
+        "id": 923,
+        "label": "Legendary"
+    },
+    {
+        "name": "Amblin Entertainment",
+        "type": "company",
+        "id": 56,
+        "label": "Amblin"
     },
     {
         "name": "Action",
