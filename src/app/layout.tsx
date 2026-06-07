@@ -66,6 +66,10 @@ export default async function RootLayout({
             gtag('config', 'G-PRCQVS90BX');
           `}
         </Script>
+        <Script 
+          src="https://pl29663723.effectivecpmnetwork.com/6e/78/14/6e781401b81579a741ac7074d6fe77eb.js"
+          strategy="afterInteractive"
+        />
       </head>
       <body>
         <ThemeProvider>
