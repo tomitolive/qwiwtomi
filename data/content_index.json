@@ -51423,5 +51423,57 @@
     ],
     "timestamp": 1780799418,
     "fixed": true
+  },
+  {
+    "title": "Scooby-Doos A Nutcracker Scoob / Scooby-Doos A Nutcracker Scoob",
+    "title_ar": "Scooby-Doos A Nutcracker Scoob",
+    "title_en": "Scooby-Doos A Nutcracker Scoob",
+    "slug": "48919-scooby-doos-a-nutcracker-scoob",
+    "folder": "movie",
+    "poster": "/t/p/w500/hPnHdgLYxUtgSxMoGeuhKxttJBS.jpg",
+    "rating": 9.1,
+    "year": "1984",
+    "type": "movie",
+    "tmdb_id": 48919,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      9648
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "عائلي",
+      "كوميديا",
+      "غموض"
+    ],
+    "timestamp": 1780800784,
+    "fixed": true
+  },
+  {
+    "title": "Irmo do Jorel / Jorels Brother",
+    "title_ar": "Irmo do Jorel",
+    "title_en": "Jorels Brother",
+    "slug": "74606-jorels-brother",
+    "folder": "tv",
+    "poster": "/t/p/w500/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg",
+    "rating": 8.9,
+    "year": "2014",
+    "type": "tv",
+    "tmdb_id": 74606,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "أطفال",
+      "دراما"
+    ],
+    "timestamp": 1780800813,
+    "fixed": true
   }
 ]

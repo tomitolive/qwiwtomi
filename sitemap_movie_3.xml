@@ -280,6 +280,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/48919-scooby-doos-a-nutcracker-scoob</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hPnHdgLYxUtgSxMoGeuhKxttJBS.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/49013-cars-2</loc>
     <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/866-finding-neverland</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/otscTaDTgjSuYKLOMoOoj29hkoe.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
