@@ -674,14 +674,14 @@ def create_page(item_data, media_type, is_trend=False):
     if not title_ar: title_ar = title_en
     if not title_en: title_en = title_ar
     
-    # Validate title_ar - if not Arabic, fallback to title_en
+    # Validate title_ar - if not Arabic or English, fallback to title_en
     try:
-        from ai_engine import is_arabic_text
-        if title_ar and not is_arabic_text(title_ar):
-            log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic (TMDB returned non-Arabic translation). Falling back to title_en: '{title_en}'")
+        from ai_engine import is_valid_title_ar
+        if title_ar and not is_valid_title_ar(title_ar):
+            log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic or English (TMDB returned invalid language). Falling back to title_en: '{title_en}'")
             title_ar = title_en
     except ImportError:
-        log.warning("⚠️ Could not import is_arabic_text from ai_engine. Skipping validation.")
+        log.warning("⚠️ Could not import is_valid_title_ar from ai_engine. Skipping validation.")
     tmdb_id = data.get('id')
     slug = clean_slug(title_en) or f"{media_type}-{tmdb_id}"
     if media_type == 'movie' or 'tv' in media_type:

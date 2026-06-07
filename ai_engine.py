@@ -50,6 +50,23 @@ def is_arabic_text(text):
     arabic_ratio = arabic_chars / total_chars
     return arabic_ratio > 0.5
 
+def is_valid_title_ar(text):
+    """Check if text is valid for title_ar (Arabic or English only, not Hebrew, Cyrillic, Chinese, etc.)."""
+    if not text:
+        return False
+    
+    # Check if Arabic
+    if is_arabic_text(text):
+        return True
+    
+    # Check if English (Latin letters only)
+    # Remove spaces and check if remaining characters are Latin letters or basic punctuation
+    clean_text = re.sub(r'[\s\-\'".,:;!?]', '', text)
+    if clean_text and re.match(r'^[a-zA-Z0-9]+$', clean_text):
+        return True
+    
+    return False
+
 def clean_arabic_text(text):
     """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
@@ -395,9 +412,9 @@ def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en,
     genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else str(genres_ar)
     media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
     
-    # Validate title_ar - if not Arabic, fallback to title_en
-    if title_ar and not is_arabic_text(title_ar):
-        log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic. Falling back to title_en: '{title_en}'")
+    # Validate title_ar - if not Arabic or English, fallback to title_en
+    if title_ar and not is_valid_title_ar(title_ar):
+        log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic or English. Falling back to title_en: '{title_en}'")
         title_ar = title_en
     
     # Simple, clear prompt to avoid JSON parse errors
