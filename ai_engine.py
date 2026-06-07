@@ -649,6 +649,19 @@ def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en,
         log.warning(f"⚠️ title_ar '{title_ar}' is not Arabic or English. Falling back to title_en: '{title_en}'")
         title_ar = title_en
     
+    # If title_ar is the same as title_en (both English), translate title_ar to Arabic
+    if title_ar == title_en and is_english_text(title_ar):
+        log.info(f"🔄 Translating title_ar from English to Arabic: '{title_en}'")
+        try:
+            from googletrans import Translator
+            translator = Translator()
+            translated = translator.translate(title_en, src='en', dest='ar')
+            if translated and translated.text:
+                title_ar = translated.text
+                log.info(f"✅ Translated to: '{title_ar}'")
+        except Exception as e:
+            log.warning(f"⚠️ Could not translate title_ar: {e}")
+    
     # Simple, clear prompt to avoid JSON parse errors
     system = """You are a JSON generator. Return ONLY valid JSON object. No markdown, no code blocks.
 
@@ -775,6 +788,16 @@ IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content.
         if not data.get('keywords'):
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
         data['keywords'] = clean_arabic_text(data['keywords'])
+        
+        # Clean keywords: remove empty placeholders and extra spaces
+        def clean_keywords(text):
+            if not text:
+                return text
+            # Split by comma, strip each part, filter empty strings, join back
+            parts = [k.strip() for k in text.split(',') if k.strip()]
+            return ', '.join(parts)
+        
+        data['keywords'] = clean_keywords(data['keywords'])
         
         # Validation: Check if title is present in all fields
         def validate_title_in_content(data, title_en):
