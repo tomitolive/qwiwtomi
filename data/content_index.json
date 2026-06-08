@@ -51537,5 +51537,93 @@
     ],
     "timestamp": 1780839754,
     "fixed": true
+  },
+  {
+    "title": "Masters of the Universe / Masters of the Universe",
+    "title_ar": "Masters of the Universe",
+    "title_en": "Masters of the Universe",
+    "slug": "454639-masters-of-the-universe",
+    "folder": "movie",
+    "poster": "/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "rating": 7.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 454639,
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "genres": [
+      "حركة",
+      "فانتازيا",
+      "خيال علمي"
+    ],
+    "timestamp": 1780889386,
+    "fixed": true
+  },
+  {
+    "title": "Divaldo: O Mensageiro da Paz / Divaldo Franco",
+    "title_ar": "Divaldo: O Mensageiro da Paz",
+    "title_en": "Divaldo Franco",
+    "slug": "612304-divaldo-franco",
+    "folder": "movie",
+    "poster": "/t/p/w500/a0qUWUddEMySjvvOUpAAlXWNrZt.jpg",
+    "rating": 8.7,
+    "year": "2019",
+    "type": "movie",
+    "tmdb_id": 612304,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780889399,
+    "fixed": true
+  },
+  {
+    "title": "The Vampire Lestat / The Vampire Lestat",
+    "title_ar": "The Vampire Lestat",
+    "title_en": "The Vampire Lestat",
+    "slug": "323411-the-vampire-lestat",
+    "folder": "tv",
+    "poster": "/t/p/w500/eZe79cdGBxiNXG6k4UyScu2XSDr.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 323411,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780889410,
+    "fixed": true
+  },
+  {
+    "title": "Guardin de mi vida / Guardin de mi vida",
+    "title_ar": "Guardin de mi vida",
+    "title_en": "Guardin de mi vida",
+    "slug": "320315-guardin-de-mi-vida",
+    "folder": "tv",
+    "poster": "/t/p/w500/ppdrvfUyukqtFkl1HY7x6qHd7st.jpg",
+    "rating": 9.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 320315,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1780889424,
+    "fixed": true
   }
 ]
