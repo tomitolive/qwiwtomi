@@ -51625,5 +51625,73 @@
     ],
     "timestamp": 1780889424,
     "fixed": true
+  },
+  {
+    "title": "Disclosure Day / Disclosure Day",
+    "title_ar": "Disclosure Day",
+    "title_en": "Disclosure Day",
+    "slug": "1275779-disclosure-day",
+    "folder": "movie",
+    "poster": "/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
+    "rating": 8.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1275779,
+    "genre_ids": [
+      9648,
+      878,
+      53
+    ],
+    "genres": [
+      "غموض",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1780933238,
+    "fixed": true
+  },
+  {
+    "title": "BTS: PERMISSION TO DANCE LA / BTS: Permission to Dance on Stage - LA",
+    "title_ar": "BTS: PERMISSION TO DANCE LA",
+    "title_en": "BTS: Permission to Dance on Stage - LA",
+    "slug": "1022102-bts-permission-to-dance-on-stage-la",
+    "folder": "movie",
+    "poster": "/t/p/w500/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",
+    "rating": 8.8,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 1022102,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780933249,
+    "fixed": true
+  },
+  {
+    "title": "Alice and Steve / Alice and Steve",
+    "title_ar": "Alice and Steve",
+    "title_en": "Alice and Steve",
+    "slug": "318203-alice-and-steve",
+    "folder": "tv",
+    "poster": "/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+    "rating": 5.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 318203,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780933258,
+    "fixed": true
   }
 ]
