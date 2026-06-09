@@ -1927,6 +1927,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1288341-seven-snipers</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1288445-mutiny</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1448560-wildcat</loc>
-    <lastmod>2026-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/yHdeUsqCmcyeW3A8p2Bi7eL8oCp.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

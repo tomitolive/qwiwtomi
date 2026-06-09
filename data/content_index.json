@@ -51715,5 +51715,93 @@
     ],
     "timestamp": 1780972767,
     "fixed": true
+  },
+  {
+    "title": "Seven Snipers / Seven Snipers",
+    "title_ar": "Seven Snipers",
+    "title_en": "Seven Snipers",
+    "slug": "1288341-seven-snipers",
+    "folder": "movie",
+    "poster": "/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1288341,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "إثارة"
+    ],
+    "timestamp": 1781015913,
+    "fixed": true
+  },
+  {
+    "title": "Break the Silence: The Movie / Break the Silence: The Movie",
+    "title_ar": "Break the Silence: The Movie",
+    "title_en": "Break the Silence: The Movie",
+    "slug": "730647-break-the-silence-the-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg",
+    "rating": 9.0,
+    "year": "2020",
+    "type": "movie",
+    "tmdb_id": 730647,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1781015924,
+    "fixed": true
+  },
+  {
+    "title": "Smoking Behind the Supermarket with You / Smoking Behind the Supermarket with You",
+    "title_ar": "Smoking Behind the Supermarket with You",
+    "title_en": "Smoking Behind the Supermarket with You",
+    "slug": "296286-smoking-behind-the-supermarket-with-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296286,
+    "genre_ids": [
+      16,
+      18,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1781015971,
+    "fixed": true
+  },
+  {
+    "title": "The Loyal Pin / The Loyal Pin",
+    "title_ar": "The Loyal Pin",
+    "title_en": "The Loyal Pin",
+    "slug": "238754-the-loyal-pin",
+    "folder": "tv",
+    "poster": "/t/p/w500/Afop0GW5UNjpVgo1UofebMF2EbQ.jpg",
+    "rating": 9.5,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 238754,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781015981,
+    "fixed": true
   }
 ]
