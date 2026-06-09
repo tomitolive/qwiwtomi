@@ -51693,5 +51693,27 @@
     ],
     "timestamp": 1780933258,
     "fixed": true
+  },
+  {
+    "title": "Interview with the Vampire / Interview with the Vampire",
+    "title_ar": "Interview with the Vampire",
+    "title_en": "Interview with the Vampire",
+    "slug": "128098-interview-with-the-vampire",
+    "folder": "tv",
+    "poster": "/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg",
+    "rating": 7.5,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 128098,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780972767,
+    "fixed": true
   }
 ]
