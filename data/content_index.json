@@ -51803,5 +51803,49 @@
     ],
     "timestamp": 1781015981,
     "fixed": true
+  },
+  {
+    "title": "الأوديسة / The Odyssey",
+    "title_ar": "الأوديسة",
+    "title_en": "The Odyssey",
+    "slug": "1368337-the-odyssey",
+    "folder": "movie",
+    "poster": "/t/p/w500/kVYFP3YKVgJEvKCbRdBMBbXVd3N.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1368337,
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "genres": [
+      "مغامرة",
+      "حركة",
+      "فانتازيا"
+    ],
+    "timestamp": 1781059995,
+    "fixed": true
+  },
+  {
+    "title": "الياسمين الأول / The First Jasmine",
+    "title_ar": "الياسمين الأول",
+    "title_en": "The First Jasmine",
+    "slug": "292696-the-first-jasmine",
+    "folder": "tv",
+    "poster": "/t/p/w500/ulZWyKjqf0mFDrgo6vbV6Ax81fd.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 292696,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781060008,
+    "fixed": true
   }
 ]
