@@ -262,6 +262,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1560681-colors-of-evil-black</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1572073-the-deadly-little-mermaid</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/43920-dog-pound</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/gp2ZbLAH1mlcGHoM1c8Bo2t13JI.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -51847,5 +51847,72 @@
     ],
     "timestamp": 1781060008,
     "fixed": true
+  },
+  {
+    "title": "Kolory za: Czer / Colors of Evil: Black",
+    "title_ar": "Kolory za: Czer",
+    "title_en": "Colors of Evil: Black",
+    "slug": "1560681-colors-of-evil-black",
+    "folder": "movie",
+    "poster": "/t/p/w500/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1560681,
+    "genre_ids": [
+      80,
+      53,
+      9648
+    ],
+    "genres": [
+      "إثارة",
+      "غموض",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1781104977,
+    "fixed": true
+  },
+  {
+    "title": "عاما بعد عام / Every Year After",
+    "title_ar": "عاما بعد عام",
+    "title_en": "Every Year After",
+    "slug": "260592-every-year-after",
+    "folder": "tv",
+    "poster": "/t/p/w500/wSGEa5ob5UL8FoQXRfN34WuTZf7.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 260592,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781104991,
+    "fixed": true
+  },
+  {
+    "title": "باكي دو: الساموراي الذي لا يقهر / BAKI-DOU: The Invincible Samurai",
+    "title_ar": "باكي دو: الساموراي الذي لا يقهر",
+    "title_en": "BAKI-DOU: The Invincible Samurai",
+    "slug": "300054-baki-dou-the-invincible-samurai",
+    "folder": "tv",
+    "poster": "/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "rating": 8.9,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 300054,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781105002,
+    "fixed": true
   }
 ]
