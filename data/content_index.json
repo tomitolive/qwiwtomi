@@ -51914,5 +51914,55 @@
     ],
     "timestamp": 1781105002,
     "fixed": true
+  },
+  {
+    "title": "Dragon Striker / Dragon Striker",
+    "title_ar": "Dragon Striker",
+    "title_en": "Dragon Striker",
+    "slug": "204135-dragon-striker",
+    "folder": "tv",
+    "poster": "/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 204135,
+    "genre_ids": [
+      16,
+      10765,
+      10751,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "عائلي",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781148363,
+    "fixed": true
+  },
+  {
+    "title": "Someday or One Day / Someday or One Day",
+    "title_ar": "Someday or One Day",
+    "title_en": "Someday or One Day",
+    "slug": "95717-someday-or-one-day",
+    "folder": "tv",
+    "poster": "/t/p/w500/i7mnRRCpjEgTeh7zpaIwliQWSDI.jpg",
+    "rating": 9.0,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 95717,
+    "genre_ids": [
+      9648,
+      10765,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1781148378,
+    "fixed": true
   }
 ]
