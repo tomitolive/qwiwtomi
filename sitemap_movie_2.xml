@@ -595,6 +595,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1700944-love-ngo</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1701-con-air</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pA9WRL9j6eigtwK0majwT0lDh9G.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/438808-white-boy-rick</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

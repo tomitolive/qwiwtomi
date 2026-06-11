@@ -1693,6 +1693,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/312493-viral-hit</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/31268-el-capo</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vQUN53ZU5YirPjFsiC5FOgJGW08.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4346-freddys-nightmares</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tISTXELQn3ZFC8mgBwEH77xKXkZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
