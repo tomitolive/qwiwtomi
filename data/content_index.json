@@ -52006,5 +52006,27 @@
     ],
     "timestamp": 1781192875,
     "fixed": true
+  },
+  {
+    "title": "Archives: The Nanyang Mystery / Archives: The Nanyang Mystery",
+    "title_ar": "Archives: The Nanyang Mystery",
+    "title_en": "Archives: The Nanyang Mystery",
+    "slug": "278605-archives-the-nanyang-mystery",
+    "folder": "tv",
+    "poster": "/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278605,
+    "genre_ids": [
+      10759,
+      9648
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "غموض"
+    ],
+    "timestamp": 1781233281,
+    "fixed": true
   }
 ]
