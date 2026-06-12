@@ -1873,6 +1873,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/324115-the-evil-lawyer</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/1xVfGMogjedmwtomxxeXi2VsCSe.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/32415-conan</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/43348-pablo-escobar-the-drug-lord</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

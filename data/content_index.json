@@ -52028,5 +52028,49 @@
     ],
     "timestamp": 1781233281,
     "fixed": true
+  },
+  {
+    "title": "Karuppu / Karuppu",
+    "title_ar": "Karuppu",
+    "title_en": "Karuppu",
+    "slug": "1367220-karuppu",
+    "folder": "movie",
+    "poster": "/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1367220,
+    "genre_ids": [
+      28,
+      14
+    ],
+    "genres": [
+      "حركة",
+      "فانتازيا"
+    ],
+    "timestamp": 1781275690,
+    "fixed": true
+  },
+  {
+    "title": "The Evil Lawyer / The Evil Lawyer",
+    "title_ar": "The Evil Lawyer",
+    "title_en": "The Evil Lawyer",
+    "slug": "324115-the-evil-lawyer",
+    "folder": "tv",
+    "poster": "/t/p/w500/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 324115,
+    "genre_ids": [
+      80,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1781275700,
+    "fixed": true
   }
 ]
