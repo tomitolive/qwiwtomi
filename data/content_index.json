@@ -52116,5 +52116,49 @@
     ],
     "timestamp": 1781319162,
     "fixed": true
+  },
+  {
+    "title": "Une Famille de Btards / Une Famille de Btards",
+    "title_ar": "Une Famille de Btards",
+    "title_en": "Une Famille de Btards",
+    "slug": "1501018-une-famille-de-btards",
+    "folder": "movie",
+    "poster": "/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1501018,
+    "genre_ids": [
+      35,
+      80
+    ],
+    "genres": [
+      "كوميديا",
+      "جريمة"
+    ],
+    "timestamp": 1781358540,
+    "fixed": true
+  },
+  {
+    "title": "The Polygamist / The Polygamist",
+    "title_ar": "The Polygamist",
+    "title_en": "The Polygamist",
+    "slug": "322430-the-polygamist",
+    "folder": "tv",
+    "poster": "/t/p/w500/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 322430,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1781358551,
+    "fixed": true
   }
 ]

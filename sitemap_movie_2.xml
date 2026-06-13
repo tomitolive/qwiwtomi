@@ -172,6 +172,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1501018-une-famille-de-btards</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1505315-pavlovs-dog</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/xayv8vZgN3aoqy8ADWvPz8RJOE8.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/438148-minions-the-rise-of-gru</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fawU2yYZYOmZOlIR7zKd9qaRd8D.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
