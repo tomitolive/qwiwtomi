@@ -847,6 +847,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/125928-my-adventures-with-superman</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/12598-black-lagoon</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/ypJm5Sg8WhJLeRfDL9zpcWQZr1Y.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2224-the-daily-show</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

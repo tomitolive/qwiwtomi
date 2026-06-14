@@ -52204,5 +52204,29 @@
     ],
     "timestamp": 1781407773,
     "fixed": true
+  },
+  {
+    "title": "My Adventures with Superman / My Adventures with Superman",
+    "title_ar": "My Adventures with Superman",
+    "title_en": "My Adventures with Superman",
+    "slug": "125928-my-adventures-with-superman",
+    "folder": "tv",
+    "poster": "/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg",
+    "rating": 8.1,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 125928,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1781445097,
+    "fixed": true
   }
 ]
