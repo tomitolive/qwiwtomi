@@ -52228,5 +52228,25 @@
     ],
     "timestamp": 1781445097,
     "fixed": true
+  },
+  {
+    "title": "El Secreto del Doctor Grinberg / The Secret of Dr. Grinberg",
+    "title_ar": "El Secreto del Doctor Grinberg",
+    "title_en": "The Secret of Dr. Grinberg",
+    "slug": "640028-the-secret-of-dr-grinberg",
+    "folder": "movie",
+    "poster": "/t/p/w500/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",
+    "rating": 8.7,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 640028,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1781494734,
+    "fixed": true
   }
 ]
