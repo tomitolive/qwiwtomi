@@ -52248,5 +52248,45 @@
     ],
     "timestamp": 1781494734,
     "fixed": true
+  },
+  {
+    "title": "UFC Freedom 250: Topuria vs. Gaethje / UFC Freedom 250: Topuria vs. Gaethje",
+    "title_ar": "UFC Freedom 250: Topuria vs. Gaethje",
+    "title_en": "UFC Freedom 250: Topuria vs. Gaethje",
+    "slug": "1648226-ufc-freedom-250-topuria-vs-gaethje",
+    "folder": "movie",
+    "poster": "/t/p/w500/9bkunLw8kI13A7aPIjduoUleQ9b.jpg",
+    "rating": 7.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1648226,
+    "genre_ids": [
+      28
+    ],
+    "genres": [
+      "حركة"
+    ],
+    "timestamp": 1781543326,
+    "fixed": true
+  },
+  {
+    "title": "Love Has Fireworks / Love Has Fireworks",
+    "title_ar": "Love Has Fireworks",
+    "title_en": "Love Has Fireworks",
+    "slug": "230311-love-has-fireworks",
+    "folder": "tv",
+    "poster": "/t/p/w500/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 230311,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781543341,
+    "fixed": true
   }
 ]

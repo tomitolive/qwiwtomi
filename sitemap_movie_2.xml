@@ -523,6 +523,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1648226-ufc-freedom-250-topuria-vs-gaethje</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/9bkunLw8kI13A7aPIjduoUleQ9b.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1654429-crush-the-wicked</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/3xTImsBYSIqLZfWCHfqWj9IC365.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/431-cube</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

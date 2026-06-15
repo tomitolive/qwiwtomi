@@ -244,6 +244,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/230311-love-has-fireworks</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/231100-boundless-love</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5pIfkimPGsMVmpgN6XO78LkPZqS.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4297-the-equalizer</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/7nrKPxGJWYe5cacNN9AV9bVplNZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
