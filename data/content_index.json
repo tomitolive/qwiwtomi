@@ -52288,5 +52288,21 @@
     ],
     "timestamp": 1781543341,
     "fixed": true
+  },
+  {
+    "title": "2026 FIFA World Cup / 2026 FIFA World Cup",
+    "title_ar": "2026 FIFA World Cup",
+    "title_en": "2026 FIFA World Cup",
+    "slug": "325375-2026-fifa-world-cup",
+    "folder": "tv",
+    "poster": "/t/p/w500/1sFvpOMllrbeQAmdwfzWsiIqkRe.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325375,
+    "genre_ids": [],
+    "genres": [],
+    "timestamp": 1781580904,
+    "fixed": true
   }
 ]
