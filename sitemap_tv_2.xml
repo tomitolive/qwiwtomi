@@ -1387,6 +1387,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/288603-never-ending-summer</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/289147-the-ferry-man-10th-anniversary</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pQrwM7hSDSffhL6m6F8y1RKJ2Bg.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/42830-moribito-guardian-of-the-spirit</loc>
-    <lastmod>2026-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rsn6ukPDA0NRt8qIilAFY59fhHn.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

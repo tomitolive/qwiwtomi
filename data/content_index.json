@@ -52304,5 +52304,49 @@
     "genres": [],
     "timestamp": 1781580904,
     "fixed": true
+  },
+  {
+    "title": "Pressure / Pressure",
+    "title_ar": "Pressure",
+    "title_en": "Pressure",
+    "slug": "1318413-pressure",
+    "folder": "movie",
+    "poster": "/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1318413,
+    "genre_ids": [
+      53,
+      36,
+      10752
+    ],
+    "genres": [
+      "إثارة",
+      "تاريخ",
+      "حرب"
+    ],
+    "timestamp": 1781628115,
+    "fixed": true
+  },
+  {
+    "title": "Never-Ending Summer / Never-Ending Summer",
+    "title_ar": "Never-Ending Summer",
+    "title_en": "Never-Ending Summer",
+    "slug": "288603-never-ending-summer",
+    "folder": "tv",
+    "poster": "/t/p/w500/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 288603,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781628135,
+    "fixed": true
   }
 ]

@@ -2152,6 +2152,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1318413-pressure</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1318447-apex</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1439112-muzzle-city-of-wolves</loc>
-    <lastmod>2026-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
