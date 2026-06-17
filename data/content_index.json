@@ -52348,5 +52348,45 @@
     ],
     "timestamp": 1781628135,
     "fixed": true
+  },
+  {
+    "title": "Deep Water / Deep Water",
+    "title_ar": "Deep Water",
+    "title_en": "Deep Water",
+    "slug": "1127384-deep-water",
+    "folder": "movie",
+    "poster": "/t/p/w500/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1127384,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1781667188,
+    "fixed": true
+  },
+  {
+    "title": "Eclipse of Illusion SPThe Miasma War / Eclipse of Illusion SPThe Miasma War",
+    "title_ar": "Eclipse of Illusion SPThe Miasma War",
+    "title_en": "Eclipse of Illusion SPThe Miasma War",
+    "slug": "325583-eclipse-of-illusion-spthe-miasma-war",
+    "folder": "tv",
+    "poster": "/t/p/w500/jewlUepfUnqurE9xdj80RXIR52k.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325583,
+    "genre_ids": [],
+    "genres": [
+      "رسوم متحركة"
+    ],
+    "timestamp": 1781667196,
+    "fixed": true
   }
 ]
