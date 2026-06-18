@@ -52472,5 +52472,57 @@
     ],
     "timestamp": 1781751644,
     "fixed": true
+  },
+  {
+    "title": "Minions Monsters / Minions Monsters",
+    "title_ar": "Minions Monsters",
+    "title_en": "Minions Monsters",
+    "slug": "1315772-minions-monsters",
+    "folder": "movie",
+    "poster": "/t/p/w500/uYs4IJdDQvnrNvVtYBNmjiHqbmF.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1315772,
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "genres": [
+      "مغامرة",
+      "رسوم متحركة",
+      "كوميديا",
+      "عائلي",
+      "فانتازيا"
+    ],
+    "timestamp": 1781794640,
+    "fixed": true
+  },
+  {
+    "title": "I Will Find You / I Will Find You",
+    "title_ar": "I Will Find You",
+    "title_en": "I Will Find You",
+    "slug": "278178-i-will-find-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278178,
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1781794651,
+    "fixed": true
   }
 ]
