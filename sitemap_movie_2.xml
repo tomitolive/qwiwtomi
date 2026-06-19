@@ -64,6 +64,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1451344-husbands-in-action</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/14537-harakiri</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/k4YLDFLncG5H0FTrUhVmpMiLLHe.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/425-ice-age</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tUJTkyMqWqfRqPg0AreeQ2cf8hJ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

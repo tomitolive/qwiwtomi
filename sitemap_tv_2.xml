@@ -1108,6 +1108,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/274622-go-for-it-nakamura-kun</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2750-silent-witness</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1537,6 +1546,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/tv/296285-oasis</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4177-perry-mason</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4194-star-wars-the-clone-wars</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

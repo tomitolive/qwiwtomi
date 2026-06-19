@@ -52546,5 +52546,73 @@
     ],
     "timestamp": 1781840834,
     "fixed": true
+  },
+  {
+    "title": "Husbands in Action / Husbands in Action",
+    "title_ar": "Husbands in Action",
+    "title_en": "Husbands in Action",
+    "slug": "1451344-husbands-in-action",
+    "folder": "movie",
+    "poster": "/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1451344,
+    "genre_ids": [
+      35,
+      28
+    ],
+    "genres": [
+      "كوميديا",
+      "حركة"
+    ],
+    "timestamp": 1781880843,
+    "fixed": true
+  },
+  {
+    "title": "Oasis / Oasis",
+    "title_ar": "Oasis",
+    "title_en": "Oasis",
+    "slug": "296285-oasis",
+    "folder": "tv",
+    "poster": "/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296285,
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1781880854,
+    "fixed": true
+  },
+  {
+    "title": "Go for It, Nakamura-kun!! / Go for It, Nakamura-kun!!",
+    "title_ar": "Go for It, Nakamura-kun!!",
+    "title_en": "Go for It, Nakamura-kun!!",
+    "slug": "274622-go-for-it-nakamura-kun",
+    "folder": "tv",
+    "poster": "/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
+    "rating": 9.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 274622,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1781880868,
+    "fixed": true
   }
 ]
