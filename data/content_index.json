@@ -52524,5 +52524,27 @@
     ],
     "timestamp": 1781794651,
     "fixed": true
+  },
+  {
+    "title": "Sugar / Sugar",
+    "title_ar": "Sugar",
+    "title_en": "Sugar",
+    "slug": "203744-sugar",
+    "folder": "tv",
+    "poster": "/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+    "rating": 7.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 203744,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1781840834,
+    "fixed": true
   }
 ]
