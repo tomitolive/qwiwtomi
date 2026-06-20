@@ -52662,5 +52662,57 @@
     ],
     "timestamp": 1781923874,
     "fixed": true
+  },
+  {
+    "title": "Citizen Vigilante / Citizen Vigilante",
+    "title_ar": "Citizen Vigilante",
+    "title_en": "Citizen Vigilante",
+    "slug": "1413976-citizen-vigilante",
+    "folder": "movie",
+    "poster": "/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1413976,
+    "genre_ids": [
+      53,
+      28,
+      80,
+      9648
+    ],
+    "genres": [
+      "إثارة",
+      "حركة",
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1781963449,
+    "fixed": true
+  },
+  {
+    "title": "لورد الغوامض / Lord of Mysteries",
+    "title_ar": "لورد الغوامض",
+    "title_en": "Lord of Mysteries",
+    "slug": "232230-lord-of-mysteries",
+    "folder": "tv",
+    "poster": "/t/p/w500/7Bi0B7PqKiSmc5C3ASgJIEo7t6Z.jpg",
+    "rating": 8.7,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 232230,
+    "genre_ids": [
+      16,
+      9648,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781963491,
+    "fixed": true
   }
 ]

@@ -2566,6 +2566,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1413976-citizen-vigilante</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/14160-up</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/h6bAYq54AEHy8Gafrf9evcjUEV5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1430077-hokum</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
