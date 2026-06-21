@@ -52714,5 +52714,27 @@
     ],
     "timestamp": 1781963491,
     "fixed": true
+  },
+  {
+    "title": "The Legend of Rosy Clouds / The Legend of Rosy Clouds",
+    "title_ar": "The Legend of Rosy Clouds",
+    "title_en": "The Legend of Rosy Clouds",
+    "slug": "239901-the-legend-of-rosy-clouds",
+    "folder": "tv",
+    "poster": "/t/p/w500/hBM7DoujI89vKD4Epgett80aM8t.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 239901,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1782012885,
+    "fixed": true
   }
 ]
