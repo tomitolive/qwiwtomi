@@ -1045,6 +1045,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/136228-pa-quererte</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yVq9cbegB2Ft9o8VDMiHcc0BnkV.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/136315-the-bear</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2683,21 +2692,12 @@
     </image:image>
   </url>
   <url>
-    <loc>https://tomito.xyz/tv/220102-spider-noir</loc>
+    <loc>https://tomito.xyz/tv/219971-the-agency</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mA9XrZsAk8YCkYUhmHPgKUKI2KA.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/220150-pokmon-horizons</loc>
-    <lastmod>2026-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qCRLHvSmjAzZlgtKBB2tMibYcxM.jpg</image:loc>
+      <image:loc>https://tomito.xyz/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

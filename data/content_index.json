@@ -52736,5 +52736,77 @@
     ],
     "timestamp": 1782012885,
     "fixed": true
+  },
+  {
+    "title": "Enola Holmes 3 / Enola Holmes 3",
+    "title_ar": "Enola Holmes 3",
+    "title_en": "Enola Holmes 3",
+    "slug": "1202033-enola-holmes-3",
+    "folder": "movie",
+    "poster": "/t/p/w500/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1202033,
+    "genre_ids": [
+      12,
+      9648,
+      80
+    ],
+    "genres": [
+      "مغامرة",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1782050304,
+    "fixed": true
+  },
+  {
+    "title": "The Agency / The Agency",
+    "title_ar": "The Agency",
+    "title_en": "The Agency",
+    "slug": "219971-the-agency",
+    "folder": "tv",
+    "poster": "/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+    "rating": 7.1,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 219971,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1782050316,
+    "fixed": true
+  },
+  {
+    "title": "Pa Quererte / Pa Quererte",
+    "title_ar": "Pa Quererte",
+    "title_en": "Pa Quererte",
+    "slug": "136228-pa-quererte",
+    "folder": "tv",
+    "poster": "/t/p/w500/yVq9cbegB2Ft9o8VDMiHcc0BnkV.jpg",
+    "rating": 9.0,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 136228,
+    "genre_ids": [
+      18,
+      10766,
+      35,
+      10751
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية",
+      "كوميديا",
+      "عائلي"
+    ],
+    "timestamp": 1782050329,
+    "fixed": true
   }
 ]
