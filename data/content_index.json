@@ -52808,5 +52808,29 @@
     ],
     "timestamp": 1782050329,
     "fixed": true
+  },
+  {
+    "title": "غريمة من البلاط الملكي / My Royal Nemesis",
+    "title_ar": "غريمة من البلاط الملكي",
+    "title_en": "My Royal Nemesis",
+    "slug": "303143-my-royal-nemesis",
+    "folder": "tv",
+    "poster": "/t/p/w500/cFcdgMci1klBjDRluoakeJ9Q2n3.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 303143,
+    "genre_ids": [
+      18,
+      35,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782099560,
+    "fixed": true
   }
 ]
