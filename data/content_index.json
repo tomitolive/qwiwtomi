@@ -52832,5 +52832,71 @@
     ],
     "timestamp": 1782099560,
     "fixed": true
+  },
+  {
+    "title": "Leviticus / Leviticus",
+    "title_ar": "Leviticus",
+    "title_en": "Leviticus",
+    "slug": "1564614-leviticus",
+    "folder": "movie",
+    "poster": "/t/p/w500/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
+    "rating": 7.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1564614,
+    "genre_ids": [
+      27,
+      10749
+    ],
+    "genres": [
+      "رعب",
+      "رومنسية"
+    ],
+    "timestamp": 1782146790,
+    "fixed": true
+  },
+  {
+    "title": "Un poeta / A Poet",
+    "title_ar": "Un poeta",
+    "title_en": "A Poet",
+    "slug": "1465563-a-poet",
+    "folder": "movie",
+    "poster": "/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+    "rating": 8.7,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1465563,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1782146801,
+    "fixed": true
+  },
+  {
+    "title": "See You at Work Tomorrow! / See You at Work Tomorrow!",
+    "title_ar": "See You at Work Tomorrow!",
+    "title_en": "See You at Work Tomorrow!",
+    "slug": "289763-see-you-at-work-tomorrow",
+    "folder": "tv",
+    "poster": "/t/p/w500/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 289763,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1782146813,
+    "fixed": true
   }
 ]
