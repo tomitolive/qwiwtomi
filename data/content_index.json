@@ -52898,5 +52898,27 @@
     ],
     "timestamp": 1782146813,
     "fixed": true
+  },
+  {
+    "title": "Tuner / Tuner",
+    "title_ar": "Tuner",
+    "title_en": "Tuner",
+    "slug": "1340206-tuner",
+    "folder": "movie",
+    "poster": "/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1340206,
+    "genre_ids": [
+      80,
+      53
+    ],
+    "genres": [
+      "جريمة",
+      "إثارة"
+    ],
+    "timestamp": 1782225483,
+    "fixed": true
   }
 ]
