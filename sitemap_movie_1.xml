@@ -1936,6 +1936,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1284016-power-ballad</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1284120-the-ugly-stepsister</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qCVh5LvTEDrmElwRqOwf91bInff.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1426964-state-of-fear</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
