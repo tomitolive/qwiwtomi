@@ -52920,5 +52920,29 @@
     ],
     "timestamp": 1782225483,
     "fixed": true
+  },
+  {
+    "title": "I Love Boosters / I Love Boosters",
+    "title_ar": "I Love Boosters",
+    "title_en": "I Love Boosters",
+    "slug": "1227877-i-love-boosters",
+    "folder": "movie",
+    "poster": "/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+    "rating": 5.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1227877,
+    "genre_ids": [
+      35,
+      878,
+      80
+    ],
+    "genres": [
+      "كوميديا",
+      "خيال علمي",
+      "جريمة"
+    ],
+    "timestamp": 1782269129,
+    "fixed": true
   }
 ]
