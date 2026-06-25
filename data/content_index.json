@@ -52968,5 +52968,47 @@
     ],
     "timestamp": 1782310615,
     "fixed": true
+  },
+  {
+    "title": "In the Hand of Dante / In the Hand of Dante",
+    "title_ar": "In the Hand of Dante",
+    "title_en": "In the Hand of Dante",
+    "slug": "1020047-in-the-hand-of-dante",
+    "folder": "movie",
+    "poster": "/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+    "rating": 4.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1020047,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1782355531,
+    "fixed": true
+  },
+  {
+    "title": "The American Experiment / The American Experiment",
+    "title_ar": "The American Experiment",
+    "title_en": "The American Experiment",
+    "slug": "322427-the-american-experiment",
+    "folder": "tv",
+    "poster": "/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 322427,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1782355541,
+    "fixed": true
   }
 ]
