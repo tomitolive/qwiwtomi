@@ -937,6 +937,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/259231-slay-the-gods</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yEURCDODP6noWXQsQ97VMVdupfq.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2593-without-a-trace</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5kODxCYihuM49oQWke6GfHdsRT6.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/40521-home-with-kids</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/knQh5E3YazUwkupxvfSyy11VqW0.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
