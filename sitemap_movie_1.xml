@@ -2566,6 +2566,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1397385-little-brother</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1401778-turbulence</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/90s6kuQ8qUHJFrjnCnUCWQXnu1V.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1422-the-departed</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aPxXQAE2ku0RoN1HSEIGi9KwwfB.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

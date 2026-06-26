@@ -53102,5 +53102,47 @@
     ],
     "timestamp": 1782442237,
     "fixed": true
+  },
+  {
+    "title": "Little Brother / Little Brother",
+    "title_ar": "Little Brother",
+    "title_en": "Little Brother",
+    "slug": "1397385-little-brother",
+    "folder": "movie",
+    "poster": "/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1397385,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782483200,
+    "fixed": true
+  },
+  {
+    "title": "رسائل من آخر الفصل / Notes from the Last Row",
+    "title_ar": "رسائل من آخر الفصل",
+    "title_en": "Notes from the Last Row",
+    "slug": "286360-notes-from-the-last-row",
+    "folder": "tv",
+    "poster": "/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 286360,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1782483243,
+    "fixed": true
   }
 ]
