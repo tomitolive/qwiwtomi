@@ -53056,5 +53056,51 @@
     ],
     "timestamp": 1782397045,
     "fixed": true
+  },
+  {
+    "title": "Hungry / HUNGRY",
+    "title_ar": "Hungry",
+    "title_en": "HUNGRY",
+    "slug": "1382832-hungry",
+    "folder": "movie",
+    "poster": "/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1382832,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1782442223,
+    "fixed": true
+  },
+  {
+    "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage / From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "title_ar": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "title_en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "slug": "314554-from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
+    "folder": "tv",
+    "poster": "/t/p/w500/t3PY70vsvRWSNewgUQmrSRIY0nW.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 314554,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782442237,
+    "fixed": true
   }
 ]
