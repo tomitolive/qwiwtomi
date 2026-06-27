@@ -53188,5 +53188,49 @@
     ],
     "timestamp": 1782528169,
     "fixed": true
+  },
+  {
+    "title": "موت روبن هود / The Death of Robin Hood",
+    "title_ar": "موت روبن هود",
+    "title_en": "The Death of Robin Hood",
+    "slug": "1284465-the-death-of-robin-hood",
+    "folder": "movie",
+    "poster": "/t/p/w500/zjLp3IBXlcyrppi5vNZyVLaM83O.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1284465,
+    "genre_ids": [
+      18,
+      53,
+      28
+    ],
+    "genres": [
+      "دراما",
+      "إثارة",
+      "حركة"
+    ],
+    "timestamp": 1782566544,
+    "fixed": true
+  },
+  {
+    "title": "Life, Larry and the Pursuit of Unhappiness / Life, Larry and the Pursuit of Unhappiness",
+    "title_ar": "Life, Larry and the Pursuit of Unhappiness",
+    "title_en": "Life, Larry and the Pursuit of Unhappiness",
+    "slug": "295780-life-larry-and-the-pursuit-of-unhappiness",
+    "folder": "tv",
+    "poster": "/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "rating": 2.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 295780,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782566555,
+    "fixed": true
   }
 ]

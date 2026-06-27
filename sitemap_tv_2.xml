@@ -1621,6 +1621,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/295780-life-larry-and-the-pursuit-of-unhappiness</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/296206-agent-kim-reactivated</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4018-quantum-leap</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
