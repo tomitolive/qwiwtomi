@@ -53144,5 +53144,49 @@
     ],
     "timestamp": 1782483243,
     "fixed": true
+  },
+  {
+    "title": "Drivers Ed / Drivers Ed",
+    "title_ar": "Drivers Ed",
+    "title_en": "Drivers Ed",
+    "slug": "1398050-drivers-ed",
+    "folder": "movie",
+    "poster": "/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1398050,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782528085,
+    "fixed": true
+  },
+  {
+    "title": "Agent Kim Reactivated / Agent Kim Reactivated",
+    "title_ar": "Agent Kim Reactivated",
+    "title_en": "Agent Kim Reactivated",
+    "slug": "296206-agent-kim-reactivated",
+    "folder": "tv",
+    "poster": "/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296206,
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1782528169,
+    "fixed": true
   }
 ]
