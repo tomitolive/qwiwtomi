@@ -53232,5 +53232,49 @@
     ],
     "timestamp": 1782566555,
     "fixed": true
+  },
+  {
+    "title": "Strung / Strung",
+    "title_ar": "Strung",
+    "title_en": "Strung",
+    "slug": "880067-strung",
+    "folder": "movie",
+    "poster": "/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+    "rating": 7.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 880067,
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "genres": [
+      "غموض",
+      "إثارة"
+    ],
+    "timestamp": 1782615330,
+    "fixed": true
+  },
+  {
+    "title": "Sherlock Daughter / Sherlock Daughter",
+    "title_ar": "Sherlock Daughter",
+    "title_en": "Sherlock Daughter",
+    "slug": "246461-sherlock-daughter",
+    "folder": "tv",
+    "poster": "/t/p/w500/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+    "rating": 6.6,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 246461,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1782615342,
+    "fixed": true
   }
 ]
