@@ -53276,5 +53276,71 @@
     ],
     "timestamp": 1782615342,
     "fixed": true
+  },
+  {
+    "title": "Finding Emily / Finding Emily",
+    "title_ar": "Finding Emily",
+    "title_en": "Finding Emily",
+    "slug": "1339588-finding-emily",
+    "folder": "movie",
+    "poster": "/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1339588,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1782653185,
+    "fixed": true
+  },
+  {
+    "title": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة / Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
+    "title_ar": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة",
+    "title_en": "Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
+    "slug": "1359607-miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved",
+    "folder": "movie",
+    "poster": "/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
+    "rating": 8.8,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1359607,
+    "genre_ids": [
+      16,
+      35,
+      14
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "فانتازيا"
+    ],
+    "timestamp": 1782653212,
+    "fixed": true
+  },
+  {
+    "title": "The Eternal Fragrance / The Eternal Fragrance",
+    "title_ar": "The Eternal Fragrance",
+    "title_en": "The Eternal Fragrance",
+    "slug": "251600-the-eternal-fragrance",
+    "folder": "tv",
+    "poster": "/t/p/w500/Cdnzjeu1pZ1ljF3ZtGV0a33Qq3.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 251600,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1782653240,
+    "fixed": true
   }
 ]
