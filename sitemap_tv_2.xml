@@ -1585,6 +1585,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/291947-inseparable</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/292516-reminder</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/40008-hannibal</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/3FLmBM6YQ8osV3ujPg6oKYysMC7.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

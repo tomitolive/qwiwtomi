@@ -53342,5 +53342,45 @@
     ],
     "timestamp": 1782653240,
     "fixed": true
+  },
+  {
+    "title": "Werwulf / Werwulf",
+    "title_ar": "Werwulf",
+    "title_en": "Werwulf",
+    "slug": "1421903-werwulf",
+    "folder": "movie",
+    "poster": "/t/p/w500/lLyum4KQyWqGxPRU3KAaGukyytm.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1421903,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1782747526,
+    "fixed": true
+  },
+  {
+    "title": "Inseparvel / Inseparable",
+    "title_ar": "Inseparvel",
+    "title_en": "Inseparable",
+    "slug": "291947-inseparable",
+    "folder": "tv",
+    "poster": "/t/p/w500/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 291947,
+    "genre_ids": [
+      9648
+    ],
+    "genres": [
+      "غموض"
+    ],
+    "timestamp": 1782747570,
+    "fixed": true
   }
 ]
