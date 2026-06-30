@@ -53382,5 +53382,49 @@
     ],
     "timestamp": 1782747570,
     "fixed": true
+  },
+  {
+    "title": "الشر المميت احتراق / Evil Dead Burn",
+    "title_ar": "الشر المميت احتراق",
+    "title_en": "Evil Dead Burn",
+    "slug": "1212763-evil-dead-burn",
+    "folder": "movie",
+    "poster": "/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1212763,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1782787803,
+    "fixed": true
+  },
+  {
+    "title": "The World Is Dancing / The World Is Dancing",
+    "title_ar": "The World Is Dancing",
+    "title_en": "The World Is Dancing",
+    "slug": "312020-the-world-is-dancing",
+    "folder": "tv",
+    "poster": "/t/p/w500/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 312020,
+    "genre_ids": [
+      16,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما"
+    ],
+    "timestamp": 1782787818,
+    "fixed": true
   }
 ]
