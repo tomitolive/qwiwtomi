@@ -901,6 +901,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/256694-adventure-time-side-quests</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/256695-regular-show-the-lost-tapes</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/nTiOt6gcZ8OoqgspLoDxUMpZXRW.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39905-toy-story-treats</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/XN7YIrndvobhXcQaCR2AlrXwHA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

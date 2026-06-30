@@ -53426,5 +53426,51 @@
     ],
     "timestamp": 1782787818,
     "fixed": true
+  },
+  {
+    "title": "The Get Out / The Get Out",
+    "title_ar": "The Get Out",
+    "title_en": "The Get Out",
+    "slug": "1279493-the-get-out",
+    "folder": "movie",
+    "poster": "/t/p/w500/dKoz9NKjqFkurpSE5BPe3JUvncL.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1279493,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "إثارة"
+    ],
+    "timestamp": 1782828512,
+    "fixed": true
+  },
+  {
+    "title": "Adventure Time: Side Quests / Adventure Time: Side Quests",
+    "title_ar": "Adventure Time: Side Quests",
+    "title_en": "Adventure Time: Side Quests",
+    "slug": "256694-adventure-time-side-quests",
+    "folder": "tv",
+    "poster": "/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 256694,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782828523,
+    "fixed": true
   }
 ]

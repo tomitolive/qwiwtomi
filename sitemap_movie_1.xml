@@ -1936,6 +1936,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1279493-the-get-out</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/dKoz9NKjqFkurpSE5BPe3JUvncL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/128-princess-mononoke</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/14160-up</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fPtAMZkhSZuz71XVm94F1n6f1oZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
