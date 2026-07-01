@@ -71,7 +71,7 @@ export default async function RootLayout({
           strategy="afterInteractive"
         />
       </head>
-      <body>
+      <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
         <ThemeProvider>
           {/* ───── NAVBAR ───── */}
           {!isDetailPage && <Navbar />}

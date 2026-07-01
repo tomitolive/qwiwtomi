@@ -13,6 +13,17 @@ export default async function TVPage() {
 
   return (
     <div className="bg-background text-foreground min-h-screen pt-32 pb-24 relative overflow-hidden">
+      {/* Background Image */}
+      <div 
+        className="absolute inset-0 z-0"
+        style={{ 
+          backgroundImage: 'url(\'/background.jpeg\')', 
+          backgroundSize: 'cover', 
+          backgroundPosition: 'center',
+          filter: 'brightness(0.3) saturate(0.7) hue-rotate(220deg) contrast(1.2)',
+          opacity: '1.2'
+        }}
+      />
       {/* Decorative Gradient */}
       <div className="absolute top-0 right-0 w-[50vw] h-[50vh] bg-primary/5 blur-[120px] rounded-full -z-10" />
       <div className="absolute bottom-0 left-0 w-[40vw] h-[40vh] bg-primary/3 blur-[100px] rounded-full -z-10" />

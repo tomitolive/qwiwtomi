@@ -13,6 +13,7 @@
   border: 2px solid transparent;
   aspect-ratio: 2/3;
   width: 100%;
+  filter: saturate(1.2) hue-rotate(10deg);
 }
 
 .movie-card:hover,
@@ -27,38 +28,45 @@
 }
 
 .movie-card img,
-.card-poster {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.5s cubic-bezier(0.2, 1, 0.3, 1);
-}
+  .card-poster {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.2, 1, 0.3, 1);
+  }
 
-.movie-card:hover img {
-  transform: scale(1.03);
-}
+  .movie-card:hover img {
+    transform: scale(1.03);
+  }
 
-.card-info,
-.card-bottom {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 1.5rem 0.75rem 0.75rem;
-  z-index: 3;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.4) 60%, transparent 100%);
-  opacity: 0;
-  transform: translateY(10px);
-  transition: var(--transition);
-}
+  .card-info,
+  .card-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1.5rem 0.75rem 0.75rem;
+    z-index: 3;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.4) 60%, transparent 100%);
+    opacity: 0;
+    transform: translateY(10px);
+    transition: var(--transition);
+  }
 
-.movie-card:hover .card-info,
-.card:hover .card-bottom {
-  opacity: 1;
-  transform: translateY(0);
-}
+  .movie-card:hover .card-info,
+  .card:hover .card-bottom {
+    opacity: 1;
+    transform: translateY(0);
+  }
 
-/* --- Buttons --- */
+  /* --- Home Page Cards --- */
+  .tc-small-box,
+  .tc-aside-post,
+  .tc-slide-card {
+    filter: saturate(1.2) hue-rotate(10deg);
+  }
+
+  /* --- Buttons --- */
 .btn-primary,
 .btn-watch {
   display: inline-flex;

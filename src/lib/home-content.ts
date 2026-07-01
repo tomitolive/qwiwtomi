@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import { cache } from "react";
 import type { ContentData, ContentIndexEntry } from "./content";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -44,7 +43,7 @@ function jsonToIndexEntry(data: ContentData, folder: "movie" | "tv"): ContentInd
  * Homepage catalog: content_index.json merged with any data/content/*.json
  * not yet in the index (e.g. while rebuild is running).
  */
-export const getHomeContent = cache((): ContentIndexEntry[] => {
+export const getHomeContent = (): ContentIndexEntry[] => {
   let index: ContentIndexEntry[] = [];
   try {
     if (fs.existsSync(INDEX_PATH)) {
@@ -81,13 +80,19 @@ export const getHomeContent = cache((): ContentIndexEntry[] => {
             : "movie";
 
       const entry = jsonToIndexEntry(raw, folder);
-      const stat = fs.statSync(path.join(CONTENT_DIR, file));
-      entry.timestamp = Math.floor(stat.mtimeMs / 1000);
+      // Use a very old timestamp for files not in index
+      // This prevents them from appearing at the top
+      entry.timestamp = 0;
       byId.set(id, entry);
     } catch {
       // skip corrupt files
     }
   }
 
-  return [...byId.values()].sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
-});
+  const sorted = [...byId.values()].sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
+  console.log("Top 5 items from getHomeContent:");
+  sorted.slice(0, 5).forEach((item, i) => {
+    console.log(`${i+1}. ${item.title} - timestamp: ${item.timestamp}`);
+  });
+  return sorted;
+};

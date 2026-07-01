@@ -40,7 +40,7 @@
 
 
 @theme inline {
-  --color-background: var(--bg);
+  --color-background: #030707f5;
   --color-foreground: var(--text);
   --color-primary: var(--primary);
   --color-card-bg: var(--card-bg);
@@ -59,7 +59,6 @@ html {
 }
 
 body {
-  background: var(--bg);
   color: var(--text);
   font-family: var(--font-main);
   direction: rtl;
@@ -447,6 +446,12 @@ img {
   font-size: 0.8rem;
 }
 
+/* ===== MAIN CONTENT ===== */
+main {
+  position: relative;
+  z-index: 1;
+}
+
 /* ===== UTILITIES ===== */
 .hide-scrollbar {
   scrollbar-width: none;
@@ -479,4 +484,12 @@ img {
     padding: 0.5rem 1rem;
     font-size: 0.8rem;
   }
+}
+
+.tc-aside-post a {
+  background-color: #05080f96 !important;
+}
+
+.bg-background {
+  background-color: #030707f5;
 }

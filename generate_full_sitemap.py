@@ -67,7 +67,8 @@ def generate_sitemaps():
         sitemap_index_urls.extend(write_split_sitemaps(root_dir, "tv", tv_urls, base_url, today, MAX_LINKS))
 
     # 4. Generate Main Sitemap Index
-    index_path = os.path.join(root_dir, 'sitemap.xml')
+    index_path = os.path.join(root_dir, 'public', 'sitemap.xml')
+    os.makedirs(os.path.dirname(index_path), exist_ok=True)
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
@@ -95,7 +96,8 @@ def write_split_sitemaps(root_dir, name, urls, base_url, date, max_links):
     generated_urls = []
     for idx, chunk in enumerate(chunks, 1):
         filename = f"sitemap_{name}_{idx}.xml" if len(chunks) > 1 else f"sitemap_{name}.xml"
-        filepath = os.path.join(root_dir, filename)
+        filepath = os.path.join(root_dir, 'public', filename)
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
         
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write('<?xml version="1.0" encoding="UTF-8"?>\n')

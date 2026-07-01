@@ -151,11 +151,12 @@ export default async function Home() {
 
   const localContent = getHomeContent();
 
-  const sortedAll = [...localContent].sort((a: any, b: any) => {
-    const timeA = a.timestamp || (a.release_date ? new Date(a.release_date).getTime() : 0);
-    const timeB = b.timestamp || (b.release_date ? new Date(b.release_date).getTime() : 0);
-    return timeB - timeA;
+  console.log("First 5 carousel items in page.tsx:");
+  localContent.slice(0, 5).forEach((item, i) => {
+    console.log(`${i+1}. ${item.title} - timestamp: ${item.timestamp}`);
   });
+
+  const sortedAll = localContent; // Already sorted by timestamp in getHomeContent()
 
   const movies = sortedAll.filter((item: any) => item.folder === 'movie');
   const series = sortedAll.filter((item: any) => item.folder === 'tv');

@@ -125,7 +125,7 @@ export default async function TVPage({ params }: Props) {
   };
 
   return (
-    <div className="relative min-h-screen bg-[#000] text-white">
+    <div className="relative min-h-screen bg-background text-white">
       <Script
         id="tv-schema"
         type="application/ld+json"
@@ -133,19 +133,8 @@ export default async function TVPage({ params }: Props) {
       />
 
       {/* Hero Section - 100vh with 4 layers */}
-      <div className="relative w-full h-[100vh] md:h-[80vh] bg-[#000000] overflow-hidden">
+      <div className="relative w-full h-[100vh] md:h-[80vh] bg-background overflow-hidden">
         
-        {/* Layer 1: Backdrop Image */}
-        {backdrop && (
-          <div 
-            className="absolute inset-0 bg-cover bg-center scale-105 z-0"
-            style={{ backgroundImage: `url('${backdrop}')` }}
-          />
-        )}
-
-        {/* Layer 2: Cinematic Dark Gradients */}
-        <div className="absolute inset-0 bg-gradient-to-t from-[#000000] via-[#000000]/60 to-transparent z-10" />
-
         {/* Layer 3: Transparent Header */}
         <div className="absolute top-0 left-0 w-full z-30 bg-transparent">
           <Navbar />
@@ -203,10 +192,17 @@ export default async function TVPage({ params }: Props) {
                 ))}
               </div>
 
+              {/* Overview */}
+              {overview && (
+                <p className="text-gray-300 text-sm md:text-base leading-relaxed line-clamp-3 md:line-clamp-4 max-w-3xl">
+                  {overview}
+                </p>
+              )}
+
               {/* Watch Buttons */}
               <div className="flex flex-col md:flex-row gap-2 md:gap-3 pt-1 md:pt-2 justify-center md:justify-start">
                 <ProtectedLink
-                  encodedUrl={btoa(`https://tv.tomito.xyz/tv/${slug}`)}
+                  encodedUrl={btoa(`https://tv.tomito.xyz/tv/${id}/watch`)}
                   className="px-5 md:px-6 py-2 md:py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-lg transition-colors text-center text-sm md:text-base tracking-wider"
                 >
                   مشاهدة الآن
@@ -269,10 +265,7 @@ export default async function TVPage({ params }: Props) {
                   </p>
                 )}
                 
-                {/* Arabic Description */}
-                <p className="text-gray-300 text-base leading-relaxed">
-                  {overview}
-                </p>
+                {/* Arabic Description removed from here intentionally as it was moved upstairs */}
                 {extraDesc && (
                   <p className="text-gray-300 text-base leading-relaxed">
                     {extraDesc}

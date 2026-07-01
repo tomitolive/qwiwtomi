@@ -1,26 +1,3107 @@
 [
   {
-    "title": "The Gumball Chronicles",
-    "title_ar": "The Gumball Chronicles",
-    "title_en": "The Gumball Chronicles",
-    "slug": "133529-the-gumball-chronicles",
+    "title": "Adventure Time: Side Quests / Adventure Time: Side Quests",
+    "title_ar": "Adventure Time: Side Quests",
+    "title_en": "Adventure Time: Side Quests",
+    "slug": "256694-adventure-time-side-quests",
     "folder": "tv",
-    "poster": "/hZ08bp9EEUJiCXIIu8DGf8jCwUB.jpg",
-    "rating": 9.3,
-    "year": "2020",
+    "poster": "/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg",
+    "rating": 7.0,
+    "year": "2026",
     "type": "tv",
-    "tmdb_id": 133529,
+    "tmdb_id": 256694,
     "genre_ids": [
-      10762,
-      10751,
-      16
+      16,
+      10759,
+      10765
     ],
     "genres": [
-      "أطفال",
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782828523,
+    "fixed": true
+  },
+  {
+    "title": "The Get Out / The Get Out",
+    "title_ar": "The Get Out",
+    "title_en": "The Get Out",
+    "slug": "1279493-the-get-out",
+    "folder": "movie",
+    "poster": "/t/p/w500/dKoz9NKjqFkurpSE5BPe3JUvncL.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1279493,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "إثارة"
+    ],
+    "timestamp": 1782828512,
+    "fixed": true
+  },
+  {
+    "title": "The World Is Dancing / The World Is Dancing",
+    "title_ar": "The World Is Dancing",
+    "title_en": "The World Is Dancing",
+    "slug": "312020-the-world-is-dancing",
+    "folder": "tv",
+    "poster": "/t/p/w500/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 312020,
+    "genre_ids": [
+      16,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما"
+    ],
+    "timestamp": 1782787818,
+    "fixed": true
+  },
+  {
+    "title": "الشر المميت احتراق / Evil Dead Burn",
+    "title_ar": "الشر المميت احتراق",
+    "title_en": "Evil Dead Burn",
+    "slug": "1212763-evil-dead-burn",
+    "folder": "movie",
+    "poster": "/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1212763,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1782787803,
+    "fixed": true
+  },
+  {
+    "title": "Inseparvel / Inseparable",
+    "title_ar": "Inseparvel",
+    "title_en": "Inseparable",
+    "slug": "291947-inseparable",
+    "folder": "tv",
+    "poster": "/t/p/w500/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 291947,
+    "genre_ids": [
+      9648
+    ],
+    "genres": [
+      "غموض"
+    ],
+    "timestamp": 1782747570,
+    "fixed": true
+  },
+  {
+    "title": "Werwulf / Werwulf",
+    "title_ar": "Werwulf",
+    "title_en": "Werwulf",
+    "slug": "1421903-werwulf",
+    "folder": "movie",
+    "poster": "/t/p/w500/lLyum4KQyWqGxPRU3KAaGukyytm.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1421903,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1782747526,
+    "fixed": true
+  },
+  {
+    "title": "The Eternal Fragrance / The Eternal Fragrance",
+    "title_ar": "The Eternal Fragrance",
+    "title_en": "The Eternal Fragrance",
+    "slug": "251600-the-eternal-fragrance",
+    "folder": "tv",
+    "poster": "/t/p/w500/Cdnzjeu1pZ1ljF3ZtGV0a33Qq3.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 251600,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1782653240,
+    "fixed": true
+  },
+  {
+    "title": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة / Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
+    "title_ar": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة",
+    "title_en": "Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
+    "slug": "1359607-miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved",
+    "folder": "movie",
+    "poster": "/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
+    "rating": 8.8,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1359607,
+    "genre_ids": [
+      16,
+      35,
+      14
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "فانتازيا"
+    ],
+    "timestamp": 1782653212,
+    "fixed": true
+  },
+  {
+    "title": "Finding Emily / Finding Emily",
+    "title_ar": "Finding Emily",
+    "title_en": "Finding Emily",
+    "slug": "1339588-finding-emily",
+    "folder": "movie",
+    "poster": "/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1339588,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1782653185,
+    "fixed": true
+  },
+  {
+    "title": "Sherlock Daughter / Sherlock Daughter",
+    "title_ar": "Sherlock Daughter",
+    "title_en": "Sherlock Daughter",
+    "slug": "246461-sherlock-daughter",
+    "folder": "tv",
+    "poster": "/t/p/w500/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+    "rating": 6.6,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 246461,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1782615342,
+    "fixed": true
+  },
+  {
+    "title": "Strung / Strung",
+    "title_ar": "Strung",
+    "title_en": "Strung",
+    "slug": "880067-strung",
+    "folder": "movie",
+    "poster": "/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+    "rating": 7.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 880067,
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "genres": [
+      "غموض",
+      "إثارة"
+    ],
+    "timestamp": 1782615330,
+    "fixed": true
+  },
+  {
+    "title": "Life, Larry and the Pursuit of Unhappiness / Life, Larry and the Pursuit of Unhappiness",
+    "title_ar": "Life, Larry and the Pursuit of Unhappiness",
+    "title_en": "Life, Larry and the Pursuit of Unhappiness",
+    "slug": "295780-life-larry-and-the-pursuit-of-unhappiness",
+    "folder": "tv",
+    "poster": "/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "rating": 2.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 295780,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782566555,
+    "fixed": true
+  },
+  {
+    "title": "موت روبن هود / The Death of Robin Hood",
+    "title_ar": "موت روبن هود",
+    "title_en": "The Death of Robin Hood",
+    "slug": "1284465-the-death-of-robin-hood",
+    "folder": "movie",
+    "poster": "/t/p/w500/zjLp3IBXlcyrppi5vNZyVLaM83O.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1284465,
+    "genre_ids": [
+      18,
+      53,
+      28
+    ],
+    "genres": [
+      "دراما",
+      "إثارة",
+      "حركة"
+    ],
+    "timestamp": 1782566544,
+    "fixed": true
+  },
+  {
+    "title": "Agent Kim Reactivated / Agent Kim Reactivated",
+    "title_ar": "Agent Kim Reactivated",
+    "title_en": "Agent Kim Reactivated",
+    "slug": "296206-agent-kim-reactivated",
+    "folder": "tv",
+    "poster": "/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296206,
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1782528169,
+    "fixed": true
+  },
+  {
+    "title": "Drivers Ed / Drivers Ed",
+    "title_ar": "Drivers Ed",
+    "title_en": "Drivers Ed",
+    "slug": "1398050-drivers-ed",
+    "folder": "movie",
+    "poster": "/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1398050,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782528085,
+    "fixed": true
+  },
+  {
+    "title": "رسائل من آخر الفصل / Notes from the Last Row",
+    "title_ar": "رسائل من آخر الفصل",
+    "title_en": "Notes from the Last Row",
+    "slug": "286360-notes-from-the-last-row",
+    "folder": "tv",
+    "poster": "/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 286360,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1782483243,
+    "fixed": true
+  },
+  {
+    "title": "Little Brother / Little Brother",
+    "title_ar": "Little Brother",
+    "title_en": "Little Brother",
+    "slug": "1397385-little-brother",
+    "folder": "movie",
+    "poster": "/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1397385,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1782483200,
+    "fixed": true
+  },
+  {
+    "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage / From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "title_ar": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "title_en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+    "slug": "314554-from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
+    "folder": "tv",
+    "poster": "/t/p/w500/t3PY70vsvRWSNewgUQmrSRIY0nW.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 314554,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782442237,
+    "fixed": true
+  },
+  {
+    "title": "Hungry / HUNGRY",
+    "title_ar": "Hungry",
+    "title_en": "HUNGRY",
+    "slug": "1382832-hungry",
+    "folder": "movie",
+    "poster": "/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1382832,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1782442223,
+    "fixed": true
+  },
+  {
+    "title": "Slay the Gods / Slay the Gods",
+    "title_ar": "Slay the Gods",
+    "title_en": "Slay the Gods",
+    "slug": "259231-slay-the-gods",
+    "folder": "tv",
+    "poster": "/t/p/w500/yEURCDODP6noWXQsQ97VMVdupfq.jpg",
+    "rating": 8.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 259231,
+    "genre_ids": [
+      16,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782397045,
+    "fixed": true
+  },
+  {
+    "title": "سوبرجيرل / Supergirl",
+    "title_ar": "سوبرجيرل",
+    "title_en": "Supergirl",
+    "slug": "1081003-supergirl",
+    "folder": "movie",
+    "poster": "/t/p/w500/qdSh923DHzTh9vWz4pGTbYpkXIy.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1081003,
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "خيال علمي"
+    ],
+    "timestamp": 1782396945,
+    "fixed": true
+  },
+  {
+    "title": "The American Experiment / The American Experiment",
+    "title_ar": "The American Experiment",
+    "title_en": "The American Experiment",
+    "slug": "322427-the-american-experiment",
+    "folder": "tv",
+    "poster": "/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 322427,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1782355541,
+    "fixed": true
+  },
+  {
+    "title": "In the Hand of Dante / In the Hand of Dante",
+    "title_ar": "In the Hand of Dante",
+    "title_en": "In the Hand of Dante",
+    "slug": "1020047-in-the-hand-of-dante",
+    "folder": "movie",
+    "poster": "/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+    "rating": 4.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1020047,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1782355531,
+    "fixed": true
+  },
+  {
+    "title": "Power Ballad / Power Ballad",
+    "title_ar": "Power Ballad",
+    "title_en": "Power Ballad",
+    "slug": "1284016-power-ballad",
+    "folder": "movie",
+    "poster": "/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
+    "rating": 7.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1284016,
+    "genre_ids": [
+      35,
+      10402,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "موسيقى",
+      "دراما"
+    ],
+    "timestamp": 1782310615,
+    "fixed": true
+  },
+  {
+    "title": "I Love Boosters / I Love Boosters",
+    "title_ar": "I Love Boosters",
+    "title_en": "I Love Boosters",
+    "slug": "1227877-i-love-boosters",
+    "folder": "movie",
+    "poster": "/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+    "rating": 5.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1227877,
+    "genre_ids": [
+      35,
+      878,
+      80
+    ],
+    "genres": [
+      "كوميديا",
+      "خيال علمي",
+      "جريمة"
+    ],
+    "timestamp": 1782269129,
+    "fixed": true
+  },
+  {
+    "title": "Tuner / Tuner",
+    "title_ar": "Tuner",
+    "title_en": "Tuner",
+    "slug": "1340206-tuner",
+    "folder": "movie",
+    "poster": "/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1340206,
+    "genre_ids": [
+      80,
+      53
+    ],
+    "genres": [
+      "جريمة",
+      "إثارة"
+    ],
+    "timestamp": 1782225483,
+    "fixed": true
+  },
+  {
+    "title": "See You at Work Tomorrow! / See You at Work Tomorrow!",
+    "title_ar": "See You at Work Tomorrow!",
+    "title_en": "See You at Work Tomorrow!",
+    "slug": "289763-see-you-at-work-tomorrow",
+    "folder": "tv",
+    "poster": "/t/p/w500/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 289763,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1782146813,
+    "fixed": true
+  },
+  {
+    "title": "Un poeta / A Poet",
+    "title_ar": "Un poeta",
+    "title_en": "A Poet",
+    "slug": "1465563-a-poet",
+    "folder": "movie",
+    "poster": "/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+    "rating": 8.7,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1465563,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1782146801,
+    "fixed": true
+  },
+  {
+    "title": "Leviticus / Leviticus",
+    "title_ar": "Leviticus",
+    "title_en": "Leviticus",
+    "slug": "1564614-leviticus",
+    "folder": "movie",
+    "poster": "/t/p/w500/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
+    "rating": 7.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1564614,
+    "genre_ids": [
+      27,
+      10749
+    ],
+    "genres": [
+      "رعب",
+      "رومنسية"
+    ],
+    "timestamp": 1782146790,
+    "fixed": true
+  },
+  {
+    "title": "غريمة من البلاط الملكي / My Royal Nemesis",
+    "title_ar": "غريمة من البلاط الملكي",
+    "title_en": "My Royal Nemesis",
+    "slug": "303143-my-royal-nemesis",
+    "folder": "tv",
+    "poster": "/t/p/w500/cFcdgMci1klBjDRluoakeJ9Q2n3.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 303143,
+    "genre_ids": [
+      18,
+      35,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1782099560,
+    "fixed": true
+  },
+  {
+    "title": "Pa Quererte / Pa Quererte",
+    "title_ar": "Pa Quererte",
+    "title_en": "Pa Quererte",
+    "slug": "136228-pa-quererte",
+    "folder": "tv",
+    "poster": "/t/p/w500/yVq9cbegB2Ft9o8VDMiHcc0BnkV.jpg",
+    "rating": 9.0,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 136228,
+    "genre_ids": [
+      18,
+      10766,
+      35,
+      10751
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية",
+      "كوميديا",
+      "عائلي"
+    ],
+    "timestamp": 1782050329,
+    "fixed": true
+  },
+  {
+    "title": "The Agency / The Agency",
+    "title_ar": "The Agency",
+    "title_en": "The Agency",
+    "slug": "219971-the-agency",
+    "folder": "tv",
+    "poster": "/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+    "rating": 7.1,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 219971,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1782050316,
+    "fixed": true
+  },
+  {
+    "title": "Enola Holmes 3 / Enola Holmes 3",
+    "title_ar": "Enola Holmes 3",
+    "title_en": "Enola Holmes 3",
+    "slug": "1202033-enola-holmes-3",
+    "folder": "movie",
+    "poster": "/t/p/w500/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1202033,
+    "genre_ids": [
+      12,
+      9648,
+      80
+    ],
+    "genres": [
+      "مغامرة",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1782050304,
+    "fixed": true
+  },
+  {
+    "title": "The Legend of Rosy Clouds / The Legend of Rosy Clouds",
+    "title_ar": "The Legend of Rosy Clouds",
+    "title_en": "The Legend of Rosy Clouds",
+    "slug": "239901-the-legend-of-rosy-clouds",
+    "folder": "tv",
+    "poster": "/t/p/w500/hBM7DoujI89vKD4Epgett80aM8t.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 239901,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1782012885,
+    "fixed": true
+  },
+  {
+    "title": "لورد الغوامض / Lord of Mysteries",
+    "title_ar": "لورد الغوامض",
+    "title_en": "Lord of Mysteries",
+    "slug": "232230-lord-of-mysteries",
+    "folder": "tv",
+    "poster": "/t/p/w500/7Bi0B7PqKiSmc5C3ASgJIEo7t6Z.jpg",
+    "rating": 8.7,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 232230,
+    "genre_ids": [
+      16,
+      9648,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781963491,
+    "fixed": true
+  },
+  {
+    "title": "Citizen Vigilante / Citizen Vigilante",
+    "title_ar": "Citizen Vigilante",
+    "title_en": "Citizen Vigilante",
+    "slug": "1413976-citizen-vigilante",
+    "folder": "movie",
+    "poster": "/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1413976,
+    "genre_ids": [
+      53,
+      28,
+      80,
+      9648
+    ],
+    "genres": [
+      "إثارة",
+      "حركة",
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1781963449,
+    "fixed": true
+  },
+  {
+    "title": "السيرك الرقمي المدهش / The Amazing Digital Circus",
+    "title_ar": "السيرك الرقمي المدهش",
+    "title_en": "The Amazing Digital Circus",
+    "slug": "261145-the-amazing-digital-circus",
+    "folder": "tv",
+    "poster": "/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+    "rating": 8.6,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 261145,
+    "genre_ids": [
+      16,
+      35,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1781923874,
+    "fixed": true
+  },
+  {
+    "title": "رسائل صوتية لإيزابيل / Voicemails for Isabelle",
+    "title_ar": "رسائل صوتية لإيزابيل",
+    "title_en": "Voicemails for Isabelle",
+    "slug": "614945-voicemails-for-isabelle",
+    "folder": "movie",
+    "poster": "/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 614945,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1781923863,
+    "fixed": true
+  },
+  {
+    "title": "Go for It, Nakamura-kun!! / Go for It, Nakamura-kun!!",
+    "title_ar": "Go for It, Nakamura-kun!!",
+    "title_en": "Go for It, Nakamura-kun!!",
+    "slug": "274622-go-for-it-nakamura-kun",
+    "folder": "tv",
+    "poster": "/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
+    "rating": 9.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 274622,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1781880868,
+    "fixed": true
+  },
+  {
+    "title": "Oasis / Oasis",
+    "title_ar": "Oasis",
+    "title_en": "Oasis",
+    "slug": "296285-oasis",
+    "folder": "tv",
+    "poster": "/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296285,
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1781880854,
+    "fixed": true
+  },
+  {
+    "title": "Husbands in Action / Husbands in Action",
+    "title_ar": "Husbands in Action",
+    "title_en": "Husbands in Action",
+    "slug": "1451344-husbands-in-action",
+    "folder": "movie",
+    "poster": "/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1451344,
+    "genre_ids": [
+      35,
+      28
+    ],
+    "genres": [
+      "كوميديا",
+      "حركة"
+    ],
+    "timestamp": 1781880843,
+    "fixed": true
+  },
+  {
+    "title": "Sugar / Sugar",
+    "title_ar": "Sugar",
+    "title_en": "Sugar",
+    "slug": "203744-sugar",
+    "folder": "tv",
+    "poster": "/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+    "rating": 7.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 203744,
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1781840834,
+    "fixed": true
+  },
+  {
+    "title": "I Will Find You / I Will Find You",
+    "title_ar": "I Will Find You",
+    "title_en": "I Will Find You",
+    "slug": "278178-i-will-find-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278178,
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1781794651,
+    "fixed": true
+  },
+  {
+    "title": "Minions Monsters / Minions Monsters",
+    "title_ar": "Minions Monsters",
+    "title_en": "Minions Monsters",
+    "slug": "1315772-minions-monsters",
+    "folder": "movie",
+    "poster": "/t/p/w500/uYs4IJdDQvnrNvVtYBNmjiHqbmF.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1315772,
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "genres": [
+      "مغامرة",
+      "رسوم متحركة",
+      "كوميديا",
       "عائلي",
+      "فانتازيا"
+    ],
+    "timestamp": 1781794640,
+    "fixed": true
+  },
+  {
+    "title": "The Season / The Season",
+    "title_ar": "The Season",
+    "title_en": "The Season",
+    "slug": "321623-the-season",
+    "folder": "tv",
+    "poster": "/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 321623,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781751644,
+    "fixed": true
+  },
+  {
+    "title": "Never Change! / Never Change!",
+    "title_ar": "Never Change!",
+    "title_en": "Never Change!",
+    "slug": "1558796-never-change",
+    "folder": "movie",
+    "poster": "/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+    "rating": 5.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1558796,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1781751633,
+    "fixed": true
+  },
+  {
+    "title": "مزرعة كلاركسون / Clarksons Farm",
+    "title_ar": "مزرعة كلاركسون",
+    "title_en": "Clarksons Farm",
+    "slug": "117648-clarksons-farm",
+    "folder": "tv",
+    "poster": "/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
+    "rating": 8.5,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 117648,
+    "genre_ids": [
+      10764,
+      35
+    ],
+    "genres": [
+      "واقع",
+      "كوميديا"
+    ],
+    "timestamp": 1781709365,
+    "fixed": true
+  },
+  {
+    "title": "Your Fault: London / Your Fault: London",
+    "title_ar": "Your Fault: London",
+    "title_en": "Your Fault: London",
+    "slug": "1477317-your-fault-london",
+    "folder": "movie",
+    "poster": "/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1477317,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1781709346,
+    "fixed": true
+  },
+  {
+    "title": "Eclipse of Illusion SPThe Miasma War / Eclipse of Illusion SPThe Miasma War",
+    "title_ar": "Eclipse of Illusion SPThe Miasma War",
+    "title_en": "Eclipse of Illusion SPThe Miasma War",
+    "slug": "325583-eclipse-of-illusion-spthe-miasma-war",
+    "folder": "tv",
+    "poster": "/t/p/w500/jewlUepfUnqurE9xdj80RXIR52k.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325583,
+    "genre_ids": [],
+    "genres": [
       "رسوم متحركة"
     ],
-    "timestamp": 1717630000
+    "timestamp": 1781667196,
+    "fixed": true
+  },
+  {
+    "title": "Deep Water / Deep Water",
+    "title_ar": "Deep Water",
+    "title_en": "Deep Water",
+    "slug": "1127384-deep-water",
+    "folder": "movie",
+    "poster": "/t/p/w500/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1127384,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1781667188,
+    "fixed": true
+  },
+  {
+    "title": "Never-Ending Summer / Never-Ending Summer",
+    "title_ar": "Never-Ending Summer",
+    "title_en": "Never-Ending Summer",
+    "slug": "288603-never-ending-summer",
+    "folder": "tv",
+    "poster": "/t/p/w500/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 288603,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781628135,
+    "fixed": true
+  },
+  {
+    "title": "Pressure / Pressure",
+    "title_ar": "Pressure",
+    "title_en": "Pressure",
+    "slug": "1318413-pressure",
+    "folder": "movie",
+    "poster": "/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1318413,
+    "genre_ids": [
+      53,
+      36,
+      10752
+    ],
+    "genres": [
+      "إثارة",
+      "تاريخ",
+      "حرب"
+    ],
+    "timestamp": 1781628115,
+    "fixed": true
+  },
+  {
+    "title": "2026 FIFA World Cup / 2026 FIFA World Cup",
+    "title_ar": "2026 FIFA World Cup",
+    "title_en": "2026 FIFA World Cup",
+    "slug": "325375-2026-fifa-world-cup",
+    "folder": "tv",
+    "poster": "/t/p/w500/1sFvpOMllrbeQAmdwfzWsiIqkRe.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325375,
+    "genre_ids": [],
+    "genres": [],
+    "timestamp": 1781580904,
+    "fixed": true
+  },
+  {
+    "title": "Love Has Fireworks / Love Has Fireworks",
+    "title_ar": "Love Has Fireworks",
+    "title_en": "Love Has Fireworks",
+    "slug": "230311-love-has-fireworks",
+    "folder": "tv",
+    "poster": "/t/p/w500/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 230311,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781543341,
+    "fixed": true
+  },
+  {
+    "title": "UFC Freedom 250: Topuria vs. Gaethje / UFC Freedom 250: Topuria vs. Gaethje",
+    "title_ar": "UFC Freedom 250: Topuria vs. Gaethje",
+    "title_en": "UFC Freedom 250: Topuria vs. Gaethje",
+    "slug": "1648226-ufc-freedom-250-topuria-vs-gaethje",
+    "folder": "movie",
+    "poster": "/t/p/w500/9bkunLw8kI13A7aPIjduoUleQ9b.jpg",
+    "rating": 7.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1648226,
+    "genre_ids": [
+      28
+    ],
+    "genres": [
+      "حركة"
+    ],
+    "timestamp": 1781543326,
+    "fixed": true
+  },
+  {
+    "title": "El Secreto del Doctor Grinberg / The Secret of Dr. Grinberg",
+    "title_ar": "El Secreto del Doctor Grinberg",
+    "title_en": "The Secret of Dr. Grinberg",
+    "slug": "640028-the-secret-of-dr-grinberg",
+    "folder": "movie",
+    "poster": "/t/p/w500/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",
+    "rating": 8.7,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 640028,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1781494734,
+    "fixed": true
+  },
+  {
+    "title": "My Adventures with Superman / My Adventures with Superman",
+    "title_ar": "My Adventures with Superman",
+    "title_en": "My Adventures with Superman",
+    "slug": "125928-my-adventures-with-superman",
+    "folder": "tv",
+    "poster": "/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg",
+    "rating": 8.1,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 125928,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1781445097,
+    "fixed": true
+  },
+  {
+    "title": "A Record of a Mortals Journey to Immortality / A Record of a Mortals Journey to Immortality",
+    "title_ar": "A Record of a Mortals Journey to Immortality",
+    "title_en": "A Record of a Mortals Journey to Immortality",
+    "slug": "285479-a-record-of-a-mortals-journey-to-immortality",
+    "folder": "tv",
+    "poster": "/t/p/w500/sZJssMWcejxx2k8i0JPIr4t2tMY.jpg",
+    "rating": 9.4,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 285479,
+    "genre_ids": [
+      16,
+      10759,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1781407773,
+    "fixed": true
+  },
+  {
+    "title": "Saccharine / Saccharine",
+    "title_ar": "Saccharine",
+    "title_en": "Saccharine",
+    "slug": "1363387-saccharine",
+    "folder": "movie",
+    "poster": "/t/p/w500/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1363387,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1781407762,
+    "fixed": true
+  },
+  {
+    "title": "The Polygamist / The Polygamist",
+    "title_ar": "The Polygamist",
+    "title_en": "The Polygamist",
+    "slug": "322430-the-polygamist",
+    "folder": "tv",
+    "poster": "/t/p/w500/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 322430,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1781358551,
+    "fixed": true
+  },
+  {
+    "title": "Une Famille de Btards / Une Famille de Btards",
+    "title_ar": "Une Famille de Btards",
+    "title_en": "Une Famille de Btards",
+    "slug": "1501018-une-famille-de-btards",
+    "folder": "movie",
+    "poster": "/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1501018,
+    "genre_ids": [
+      35,
+      80
+    ],
+    "genres": [
+      "كوميديا",
+      "جريمة"
+    ],
+    "timestamp": 1781358540,
+    "fixed": true
+  },
+  {
+    "title": "Jade Dynasty / Jade Dynasty",
+    "title_ar": "Jade Dynasty",
+    "title_en": "Jade Dynasty",
+    "slug": "206484-jade-dynasty",
+    "folder": "tv",
+    "poster": "/t/p/w500/kSC8drFvUBrcnHe6bz6zwvrnoeo.jpg",
+    "rating": 8.4,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 206484,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781319162,
+    "fixed": true
+  },
+  {
+    "title": "Maternal Instinct / Maternal Instinct",
+    "title_ar": "Maternal Instinct",
+    "title_en": "Maternal Instinct",
+    "slug": "1699155-maternal-instinct",
+    "folder": "movie",
+    "poster": "/t/p/w500/sSY1K2wENhlpAEo2ASrtsezn0YH.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1699155,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1781319149,
+    "fixed": true
+  },
+  {
+    "title": "The Evil Lawyer / The Evil Lawyer",
+    "title_ar": "The Evil Lawyer",
+    "title_en": "The Evil Lawyer",
+    "slug": "324115-the-evil-lawyer",
+    "folder": "tv",
+    "poster": "/t/p/w500/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 324115,
+    "genre_ids": [
+      80,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1781275700,
+    "fixed": true
+  },
+  {
+    "title": "Karuppu / Karuppu",
+    "title_ar": "Karuppu",
+    "title_en": "Karuppu",
+    "slug": "1367220-karuppu",
+    "folder": "movie",
+    "poster": "/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1367220,
+    "genre_ids": [
+      28,
+      14
+    ],
+    "genres": [
+      "حركة",
+      "فانتازيا"
+    ],
+    "timestamp": 1781275690,
+    "fixed": true
+  },
+  {
+    "title": "Archives: The Nanyang Mystery / Archives: The Nanyang Mystery",
+    "title_ar": "Archives: The Nanyang Mystery",
+    "title_en": "Archives: The Nanyang Mystery",
+    "slug": "278605-archives-the-nanyang-mystery",
+    "folder": "tv",
+    "poster": "/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278605,
+    "genre_ids": [
+      10759,
+      9648
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "غموض"
+    ],
+    "timestamp": 1781233281,
+    "fixed": true
+  },
+  {
+    "title": "Viral Hit / Viral Hit",
+    "title_ar": "Viral Hit",
+    "title_en": "Viral Hit",
+    "slug": "312493-viral-hit",
+    "folder": "tv",
+    "poster": "/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 312493,
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781192875,
+    "fixed": true
+  },
+  {
+    "title": "Love, Ngo / Love, Ngo",
+    "title_ar": "Love, Ngo",
+    "title_en": "Love, Ngo",
+    "slug": "1700944-love-ngo",
+    "folder": "movie",
+    "poster": "/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1700944,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1781192865,
+    "fixed": true
+  },
+  {
+    "title": "Someday or One Day / Someday or One Day",
+    "title_ar": "Someday or One Day",
+    "title_en": "Someday or One Day",
+    "slug": "95717-someday-or-one-day",
+    "folder": "tv",
+    "poster": "/t/p/w500/i7mnRRCpjEgTeh7zpaIwliQWSDI.jpg",
+    "rating": 9.0,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 95717,
+    "genre_ids": [
+      9648,
+      10765,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1781148378,
+    "fixed": true
+  },
+  {
+    "title": "Dragon Striker / Dragon Striker",
+    "title_ar": "Dragon Striker",
+    "title_en": "Dragon Striker",
+    "slug": "204135-dragon-striker",
+    "folder": "tv",
+    "poster": "/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 204135,
+    "genre_ids": [
+      16,
+      10765,
+      10751,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "عائلي",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781148363,
+    "fixed": true
+  },
+  {
+    "title": "باكي دو: الساموراي الذي لا يقهر / BAKI-DOU: The Invincible Samurai",
+    "title_ar": "باكي دو: الساموراي الذي لا يقهر",
+    "title_en": "BAKI-DOU: The Invincible Samurai",
+    "slug": "300054-baki-dou-the-invincible-samurai",
+    "folder": "tv",
+    "poster": "/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "rating": 8.9,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 300054,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1781105002,
+    "fixed": true
+  },
+  {
+    "title": "عاما بعد عام / Every Year After",
+    "title_ar": "عاما بعد عام",
+    "title_en": "Every Year After",
+    "slug": "260592-every-year-after",
+    "folder": "tv",
+    "poster": "/t/p/w500/wSGEa5ob5UL8FoQXRfN34WuTZf7.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 260592,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781104991,
+    "fixed": true
+  },
+  {
+    "title": "Kolory za: Czer / Colors of Evil: Black",
+    "title_ar": "Kolory za: Czer",
+    "title_en": "Colors of Evil: Black",
+    "slug": "1560681-colors-of-evil-black",
+    "folder": "movie",
+    "poster": "/t/p/w500/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1560681,
+    "genre_ids": [
+      80,
+      53,
+      9648
+    ],
+    "genres": [
+      "إثارة",
+      "غموض",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1781104977,
+    "fixed": true
+  },
+  {
+    "title": "الياسمين الأول / The First Jasmine",
+    "title_ar": "الياسمين الأول",
+    "title_en": "The First Jasmine",
+    "slug": "292696-the-first-jasmine",
+    "folder": "tv",
+    "poster": "/t/p/w500/ulZWyKjqf0mFDrgo6vbV6Ax81fd.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 292696,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781060008,
+    "fixed": true
+  },
+  {
+    "title": "الأوديسة / The Odyssey",
+    "title_ar": "الأوديسة",
+    "title_en": "The Odyssey",
+    "slug": "1368337-the-odyssey",
+    "folder": "movie",
+    "poster": "/t/p/w500/kVYFP3YKVgJEvKCbRdBMBbXVd3N.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1368337,
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "genres": [
+      "مغامرة",
+      "حركة",
+      "فانتازيا"
+    ],
+    "timestamp": 1781059995,
+    "fixed": true
+  },
+  {
+    "title": "The Loyal Pin / The Loyal Pin",
+    "title_ar": "The Loyal Pin",
+    "title_en": "The Loyal Pin",
+    "slug": "238754-the-loyal-pin",
+    "folder": "tv",
+    "poster": "/t/p/w500/Afop0GW5UNjpVgo1UofebMF2EbQ.jpg",
+    "rating": 9.5,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 238754,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1781015981,
+    "fixed": true
+  },
+  {
+    "title": "Smoking Behind the Supermarket with You / Smoking Behind the Supermarket with You",
+    "title_ar": "Smoking Behind the Supermarket with You",
+    "title_en": "Smoking Behind the Supermarket with You",
+    "slug": "296286-smoking-behind-the-supermarket-with-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296286,
+    "genre_ids": [
+      16,
+      18,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1781015971,
+    "fixed": true
+  },
+  {
+    "title": "Break the Silence: The Movie / Break the Silence: The Movie",
+    "title_ar": "Break the Silence: The Movie",
+    "title_en": "Break the Silence: The Movie",
+    "slug": "730647-break-the-silence-the-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg",
+    "rating": 9.0,
+    "year": "2020",
+    "type": "movie",
+    "tmdb_id": 730647,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1781015924,
+    "fixed": true
+  },
+  {
+    "title": "Seven Snipers / Seven Snipers",
+    "title_ar": "Seven Snipers",
+    "title_en": "Seven Snipers",
+    "slug": "1288341-seven-snipers",
+    "folder": "movie",
+    "poster": "/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1288341,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "إثارة"
+    ],
+    "timestamp": 1781015913,
+    "fixed": true
+  },
+  {
+    "title": "Interview with the Vampire / Interview with the Vampire",
+    "title_ar": "Interview with the Vampire",
+    "title_en": "Interview with the Vampire",
+    "slug": "128098-interview-with-the-vampire",
+    "folder": "tv",
+    "poster": "/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg",
+    "rating": 7.5,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 128098,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780972767,
+    "fixed": true
+  },
+  {
+    "title": "Alice and Steve / Alice and Steve",
+    "title_ar": "Alice and Steve",
+    "title_en": "Alice and Steve",
+    "slug": "318203-alice-and-steve",
+    "folder": "tv",
+    "poster": "/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+    "rating": 5.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 318203,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780933258,
+    "fixed": true
+  },
+  {
+    "title": "BTS: PERMISSION TO DANCE LA / BTS: Permission to Dance on Stage - LA",
+    "title_ar": "BTS: PERMISSION TO DANCE LA",
+    "title_en": "BTS: Permission to Dance on Stage - LA",
+    "slug": "1022102-bts-permission-to-dance-on-stage-la",
+    "folder": "movie",
+    "poster": "/t/p/w500/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",
+    "rating": 8.8,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 1022102,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780933249,
+    "fixed": true
+  },
+  {
+    "title": "Disclosure Day / Disclosure Day",
+    "title_ar": "Disclosure Day",
+    "title_en": "Disclosure Day",
+    "slug": "1275779-disclosure-day",
+    "folder": "movie",
+    "poster": "/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
+    "rating": 8.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1275779,
+    "genre_ids": [
+      9648,
+      878,
+      53
+    ],
+    "genres": [
+      "غموض",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1780933238,
+    "fixed": true
+  },
+  {
+    "title": "Guardin de mi vida / Guardin de mi vida",
+    "title_ar": "Guardin de mi vida",
+    "title_en": "Guardin de mi vida",
+    "slug": "320315-guardin-de-mi-vida",
+    "folder": "tv",
+    "poster": "/t/p/w500/ppdrvfUyukqtFkl1HY7x6qHd7st.jpg",
+    "rating": 9.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 320315,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1780889424,
+    "fixed": true
+  },
+  {
+    "title": "The Vampire Lestat / The Vampire Lestat",
+    "title_ar": "The Vampire Lestat",
+    "title_en": "The Vampire Lestat",
+    "slug": "323411-the-vampire-lestat",
+    "folder": "tv",
+    "poster": "/t/p/w500/eZe79cdGBxiNXG6k4UyScu2XSDr.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 323411,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780889410,
+    "fixed": true
+  },
+  {
+    "title": "Divaldo: O Mensageiro da Paz / Divaldo Franco",
+    "title_ar": "Divaldo: O Mensageiro da Paz",
+    "title_en": "Divaldo Franco",
+    "slug": "612304-divaldo-franco",
+    "folder": "movie",
+    "poster": "/t/p/w500/a0qUWUddEMySjvvOUpAAlXWNrZt.jpg",
+    "rating": 8.7,
+    "year": "2019",
+    "type": "movie",
+    "tmdb_id": 612304,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780889399,
+    "fixed": true
+  },
+  {
+    "title": "Masters of the Universe / Masters of the Universe",
+    "title_ar": "Masters of the Universe",
+    "title_en": "Masters of the Universe",
+    "slug": "454639-masters-of-the-universe",
+    "folder": "movie",
+    "poster": "/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "rating": 7.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 454639,
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "genres": [
+      "حركة",
+      "فانتازيا",
+      "خيال علمي"
+    ],
+    "timestamp": 1780889386,
+    "fixed": true
+  },
+  {
+    "title": "Wonder Wall / Wonder Wall",
+    "title_ar": "Wonder Wall",
+    "title_en": "Wonder Wall",
+    "slug": "282497-wonder-wall",
+    "folder": "tv",
+    "poster": "/t/p/w500/1lPtFI5KujhtfagWqBrFN0zIkTv.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 282497,
+    "genre_ids": [
+      80
+    ],
+    "genres": [
+      "جريمة"
+    ],
+    "timestamp": 1780839754,
+    "fixed": true
+  },
+  {
+    "title": "Rite Here Rite Now / Rite Here Rite Now",
+    "title_ar": "Rite Here Rite Now",
+    "title_en": "Rite Here Rite Now",
+    "slug": "1203397-rite-here-rite-now",
+    "folder": "movie",
+    "poster": "/t/p/w500/w3xJNhW5ZYuK3BySbsJiGDmKEiV.jpg",
+    "rating": 8.8,
+    "year": "2024",
+    "type": "movie",
+    "tmdb_id": 1203397,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780803383,
+    "fixed": true
+  },
+  {
+    "title": "Nude / Nude",
+    "title_ar": "Nude",
+    "title_en": "Nude",
+    "slug": "484133-nude",
+    "folder": "movie",
+    "poster": "/t/p/w500/699DbQ8eTecLmzjTLrao9D5bbpq.jpg",
+    "rating": 9.4,
+    "year": "2017",
+    "type": "movie",
+    "tmdb_id": 484133,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1780801175,
+    "fixed": true
+  },
+  {
+    "title": "Irmo do Jorel / Jorels Brother",
+    "title_ar": "Irmo do Jorel",
+    "title_en": "Jorels Brother",
+    "slug": "74606-jorels-brother",
+    "folder": "tv",
+    "poster": "/t/p/w500/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg",
+    "rating": 8.9,
+    "year": "2014",
+    "type": "tv",
+    "tmdb_id": 74606,
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "أطفال",
+      "دراما"
+    ],
+    "timestamp": 1780800813,
+    "fixed": true
+  },
+  {
+    "title": "Scooby-Doos A Nutcracker Scoob / Scooby-Doos A Nutcracker Scoob",
+    "title_ar": "Scooby-Doos A Nutcracker Scoob",
+    "title_en": "Scooby-Doos A Nutcracker Scoob",
+    "slug": "48919-scooby-doos-a-nutcracker-scoob",
+    "folder": "movie",
+    "poster": "/t/p/w500/hPnHdgLYxUtgSxMoGeuhKxttJBS.jpg",
+    "rating": 9.1,
+    "year": "1984",
+    "type": "movie",
+    "tmdb_id": 48919,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      9648
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "عائلي",
+      "كوميديا",
+      "غموض"
+    ],
+    "timestamp": 1780800784,
+    "fixed": true
+  },
+  {
+    "title": "La Casa de los Famosos / La Casa de los Famosos",
+    "title_ar": "La Casa de los Famosos",
+    "title_en": "La Casa de los Famosos",
+    "slug": "137228-la-casa-de-los-famosos",
+    "folder": "tv",
+    "poster": "/t/p/w500/os706RrUUFdW8sWuo1qmmCDv6OE.jpg",
+    "rating": 8.9,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 137228,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1780799418,
+    "fixed": true
+  },
+  {
+    "title": "El Cementerio de los Elefantes / El Cementerio de los Elefantes",
+    "title_ar": "El Cementerio de los Elefantes",
+    "title_en": "El Cementerio de los Elefantes",
+    "slug": "373001-el-cementerio-de-los-elefantes",
+    "folder": "movie",
+    "poster": "/t/p/w500/r4AoFwoAYP1OBJAbmFTgUjGjAUE.jpg",
+    "rating": 8.9,
+    "year": "2009",
+    "type": "movie",
+    "tmdb_id": 373001,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780799408,
+    "fixed": true
+  },
+  {
+    "title": "Jack Joker: U Steal My Heart! / Jack Joker: U Steal My Heart!",
+    "title_ar": "Jack Joker: U Steal My Heart!",
+    "title_en": "Jack Joker: U Steal My Heart!",
+    "slug": "240692-jack-joker-u-steal-my-heart",
+    "folder": "tv",
+    "poster": "/t/p/w500/iDN6krI6FivvUudyvlvQflYrG5p.jpg",
+    "rating": 9.5,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 240692,
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1780798067,
+    "fixed": true
+  },
+  {
+    "title": "Linkin Park: Live in Texas / Linkin Park: Live in Texas",
+    "title_ar": "Linkin Park: Live in Texas",
+    "title_en": "Linkin Park: Live in Texas",
+    "slug": "40444-linkin-park-live-in-texas",
+    "folder": "movie",
+    "poster": "/t/p/w500/7b6aV79bXuoNktnP7oKfUzZGBka.jpg",
+    "rating": 9.0,
+    "year": "2003",
+    "type": "movie",
+    "tmdb_id": 40444,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780798052,
+    "fixed": true
+  },
+  {
+    "title": "المنافسون / Rivals",
+    "title_ar": "المنافسون",
+    "title_en": "Rivals",
+    "slug": "208921-rivals",
+    "folder": "tv",
+    "poster": "/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+    "rating": 7.4,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 208921,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780796676,
+    "fixed": true
+  },
+  {
+    "title": "THE LAST ATTACK / Attack on Titan: THE LAST ATTACK",
+    "title_ar": "THE LAST ATTACK",
+    "title_en": "Attack on Titan: THE LAST ATTACK",
+    "slug": "1333100-attack-on-titan-the-last-attack",
+    "folder": "movie",
+    "poster": "/t/p/w500/gzs2XMWatrPjVJputJUugbKA4Z.jpg",
+    "rating": 8.7,
+    "year": "2024",
+    "type": "movie",
+    "tmdb_id": 1333100,
+    "genre_ids": [
+      16,
+      28,
+      12,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة",
+      "مغامرة",
+      "دراما"
+    ],
+    "timestamp": 1780796661,
+    "fixed": true
+  },
+  {
+    "title": "GAP / GAP",
+    "title_ar": "GAP",
+    "title_en": "GAP",
+    "slug": "155513-gap",
+    "folder": "tv",
+    "poster": "/t/p/w500/1NY4rLU5MQDMEzd9kZWKFgNCR8R.jpg",
+    "rating": 9.0,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 155513,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1780794511,
+    "fixed": true
+  },
+  {
+    "title": "مايكل جاكسون: الحكم / Michael Jackson: The Verdict",
+    "title_ar": "مايكل جاكسون: الحكم",
+    "title_en": "Michael Jackson: The Verdict",
+    "slug": "323111-michael-jackson-the-verdict",
+    "folder": "tv",
+    "poster": "/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
+    "rating": 5.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 323111,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1780794421,
+    "fixed": true
+  },
+  {
+    "title": "BTS : ARIRANG / BTS THE COMEBACK LIVE ARIRANG",
+    "title_ar": "BTS : ARIRANG",
+    "title_en": "BTS THE COMEBACK LIVE ARIRANG",
+    "slug": "1628123-bts-the-comeback-live-arirang",
+    "folder": "movie",
+    "poster": "/t/p/w500/u3IsNHuTykczbnLPYSzEMJ2p32G.jpg",
+    "rating": 8.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1628123,
+    "genre_ids": [
+      10402
+    ],
+    "genres": [
+      "موسيقى"
+    ],
+    "timestamp": 1780794360,
+    "fixed": true
+  },
+  {
+    "title": "Century of Love / Century of Love",
+    "title_ar": "Century of Love",
+    "title_en": "Century of Love",
+    "slug": "253296-century-of-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/A6jHAGINcgdeyC8Nmwpa18Ws8U8.jpg",
+    "rating": 9.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 253296,
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1780786731,
+    "fixed": true
+  },
+  {
+    "title": "Star City / Star City",
+    "title_ar": "Star City",
+    "title_en": "Star City",
+    "slug": "252107-star-city",
+    "folder": "tv",
+    "poster": "/t/p/w500/jjJZyBCDgyYylGdtctuqEYcO7Lc.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 252107,
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حرب وسياسة"
+    ],
+    "timestamp": 1780786715,
+    "fixed": true
+  },
+  {
+    "title": "Mi socio / My Partner",
+    "title_ar": "Mi socio",
+    "title_en": "My Partner",
+    "slug": "455502-my-partner",
+    "folder": "movie",
+    "poster": "/t/p/w500/cthChsUtOliCjo26soJzFHwLVTZ.jpg",
+    "rating": 8.9,
+    "year": "1982",
+    "type": "movie",
+    "tmdb_id": 455502,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780786635,
+    "fixed": true
+  },
+  {
+    "title": "الشاهد / The Witness",
+    "title_ar": "الشاهد",
+    "title_en": "The Witness",
+    "slug": "280511-the-witness",
+    "folder": "tv",
+    "poster": "/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+    "rating": 5.4,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 280511,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1780786306,
+    "fixed": true
+  },
+  {
+    "title": "Love Island USA / Love Island USA",
+    "title_ar": "Love Island USA",
+    "title_en": "Love Island USA",
+    "slug": "90521-love-island-usa",
+    "folder": "tv",
+    "poster": "/t/p/w500/kU2y21cls8WargMaX7KI47URMjD.jpg",
+    "rating": 7.0,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 90521,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1780784079,
+    "fixed": true
+  },
+  {
+    "title": "Morat: Balas Perdidas / Morat: Balas Perdidas",
+    "title_ar": "Morat: Balas Perdidas",
+    "title_en": "Morat: Balas Perdidas",
+    "slug": "806439-morat-balas-perdidas",
+    "folder": "movie",
+    "poster": "/t/p/w500/1Thyu0UorpClFHHpLt2d0h6k6Wf.jpg",
+    "rating": 9.0,
+    "year": "2021",
+    "type": "movie",
+    "tmdb_id": 806439,
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "genres": [
+      "موسيقى",
+      "وثائقي"
+    ],
+    "timestamp": 1780784068,
+    "fixed": true
+  },
+  {
+    "title": "Margarita: Que tu cuento valga la pena / Margarita: Make Your Story Count",
+    "title_ar": "Margarita: Que tu cuento valga la pena",
+    "title_en": "Margarita: Make Your Story Count",
+    "slug": "245328-margarita-make-your-story-count",
+    "folder": "tv",
+    "poster": "/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg",
+    "rating": 8.9,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 245328,
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10766
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "عائلي",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1780783005,
+    "fixed": true
+  },
+  {
+    "title": "The Ferry Man 10th Anniversary / The Ferry Man 10th Anniversary",
+    "title_ar": "The Ferry Man 10th Anniversary",
+    "title_en": "The Ferry Man 10th Anniversary",
+    "slug": "289147-the-ferry-man-10th-anniversary",
+    "folder": "tv",
+    "poster": "/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+    "rating": 9.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 289147,
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780782996,
+    "fixed": true
+  },
+  {
+    "title": "Las tres muertes de Marisela Escobedo / The Three Deaths of Marisela Escobedo",
+    "title_ar": "Las tres muertes de Marisela Escobedo",
+    "title_en": "The Three Deaths of Marisela Escobedo",
+    "slug": "753230-the-three-deaths-of-marisela-escobedo",
+    "folder": "movie",
+    "poster": "/t/p/w500/gYO7mmLti4XtIszP6C7Uc7OQnOc.jpg",
+    "rating": 8.9,
+    "year": "2020",
+    "type": "movie",
+    "tmdb_id": 753230,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1780782898,
+    "fixed": true
+  },
+  {
+    "title": "الغرفة الخلفية / Backrooms",
+    "title_ar": "الغرفة الخلفية",
+    "title_en": "Backrooms",
+    "slug": "1083381-backrooms",
+    "folder": "movie",
+    "poster": "/t/p/w500/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1083381,
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "genres": [
+      "رعب",
+      "غموض",
+      "خيال علمي"
+    ],
+    "timestamp": 1780782801,
+    "fixed": true
+  },
+  {
+    "title": "Among Us / Among Us",
+    "title_ar": "Among Us",
+    "title_en": "Among Us",
+    "slug": "229544-among-us",
+    "folder": "tv",
+    "poster": "/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 229544,
+    "genre_ids": [
+      16,
+      9648,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780774825,
+    "fixed": true
+  },
+  {
+    "title": "Teach You a Lesson / Teach You a Lesson",
+    "title_ar": "Teach You a Lesson",
+    "title_en": "Teach You a Lesson",
+    "slug": "276161-teach-you-a-lesson",
+    "folder": "tv",
+    "poster": "/t/p/w500/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 276161,
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1780712492,
+    "fixed": true
+  },
+  {
+    "title": "Socias por accidente / Accidental Partners",
+    "title_ar": "Socias por accidente",
+    "title_en": "Accidental Partners",
+    "slug": "1632181-accidental-partners",
+    "folder": "movie",
+    "poster": "/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+    "rating": 9.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1632181,
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "genres": [
+      "كوميديا",
+      "رومنسية"
+    ],
+    "timestamp": 1780712479,
+    "fixed": true
+  },
+  {
+    "title": "Scary Movie / Scary Movie",
+    "title_ar": "Scary Movie",
+    "title_en": "Scary Movie",
+    "slug": "1273221-scary-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
+    "rating": 5.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1273221,
+    "genre_ids": [
+      35,
+      27
+    ],
+    "genres": [
+      "كوميديا",
+      "رعب"
+    ],
+    "timestamp": 1780712465,
+    "fixed": true
+  },
+  {
+    "title": "La oficina / La oficina",
+    "title_ar": "La oficina",
+    "title_en": "La oficina",
+    "slug": "275202-la-oficina",
+    "folder": "tv",
+    "poster": "/t/p/w500/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+    "rating": 9.3,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 275202,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1780711087,
+    "fixed": true
+  },
+  {
+    "title": "Cape Fear / Cape Fear",
+    "title_ar": "Cape Fear",
+    "title_en": "Cape Fear",
+    "slug": "277439-cape-fear",
+    "folder": "tv",
+    "poster": "/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "rating": 5.4,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 277439,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1780711070,
+    "fixed": true
+  },
+  {
+    "title": "La bicicleta de los Huanca / La bicicleta de los Huanca",
+    "title_ar": "La bicicleta de los Huanca",
+    "title_en": "La bicicleta de los Huanca",
+    "slug": "628442-la-bicicleta-de-los-huanca",
+    "folder": "movie",
+    "poster": "/t/p/w500/hfAzttPC1Bhz5ijuuxDAUVjSRD8.jpg",
+    "rating": 9.0,
+    "year": "2007",
+    "type": "movie",
+    "tmdb_id": 628442,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1780711057,
+    "fixed": true
+  },
+  {
+    "title": "رومانسية في المكتب / Office Romance",
+    "title_ar": "رومانسية في المكتب",
+    "title_en": "Office Romance",
+    "slug": "1358005-office-romance",
+    "folder": "movie",
+    "poster": "/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "rating": 6.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1358005,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1780711044,
+    "fixed": true
+  },
+  {
+    "title": "Harry Potter 20th Anniversary: Return to Hogwarts / Harry Potter 20th Anniversary: Return to Hogwarts",
+    "title_ar": "Harry Potter 20th Anniversary: Return to Hogwarts",
+    "title_en": "Harry Potter 20th Anniversary: Return to Hogwarts",
+    "slug": "899082-harry-potter-20th-anniversary-return-to-hogwarts",
+    "folder": "movie",
+    "poster": "/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+    "rating": 7.3,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 899082,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1780004863,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "My Little Pony: The Movie / My Little Pony: The Movie",
+    "title_ar": "My Little Pony: The Movie",
+    "title_en": "My Little Pony: The Movie",
+    "slug": "335360-my-little-pony-the-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/AiJRCzcZSVs9xPHoEKZRp80TyTA.jpg",
+    "rating": 7.3,
+    "year": "2017",
+    "type": "movie",
+    "tmdb_id": 335360,
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      14
+    ],
+    "genres": [
+      "عائلي",
+      "رسوم متحركة",
+      "مغامرة",
+      "فانتازيا"
+    ],
+    "timestamp": 1780004857,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "المنبوش / Exhuma",
+    "title_ar": "المنبوش",
+    "title_en": "Exhuma",
+    "slug": "838209-exhuma",
+    "folder": "movie",
+    "poster": "/t/p/w500/872jJFhsI61Y849MhWLMee6RgXK.jpg",
+    "rating": 7.5,
+    "year": "2024",
+    "type": "movie",
+    "tmdb_id": 838209,
+    "genre_ids": [
+      9648,
+      27,
+      53
+    ],
+    "genres": [
+      "غموض",
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1780004852,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "تاي غوك غي: إخوة الحرب / Tae Guk Gi: The Brotherhood of War",
+    "title_ar": "تاي غوك غي: إخوة الحرب",
+    "title_en": "Tae Guk Gi: The Brotherhood of War",
+    "slug": "11658-tae-guk-gi-the-brotherhood-of-war",
+    "folder": "movie",
+    "poster": "/t/p/w500/rcBc6lI7Ouj1kb0bbbX0CkuJe9q.jpg",
+    "rating": 8,
+    "year": "2004",
+    "type": "movie",
+    "tmdb_id": 11658,
+    "genre_ids": [
+      28,
+      12,
+      18,
+      36,
+      10752
+    ],
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "دراما",
+      "تاريخ",
+      "حرب"
+    ],
+    "timestamp": 1780004847,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "Ghya Chang Fou / Ghya Chang Fou",
+    "title_ar": "Ghya Chang Fou",
+    "title_en": "Ghya Chang Fou",
+    "slug": "707974-ghya-chang-fou",
+    "folder": "movie",
+    "poster": "/t/p/w500/eSw8WCM0RcC81HORSiQWNCoiD7q.jpg",
+    "rating": 8.5,
+    "year": "2017",
+    "type": "movie",
+    "tmdb_id": 707974,
+    "genre_ids": [
+      14,
+      18
+    ],
+    "genres": [
+      "فانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1780004836,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "صائدو الأشباح / Ghostbusters",
+    "title_ar": "صائدو الأشباح",
+    "title_en": "Ghostbusters",
+    "slug": "620-ghostbusters",
+    "folder": "movie",
+    "poster": "/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+    "rating": 7.5,
+    "year": "1984",
+    "type": "movie",
+    "tmdb_id": 620,
+    "genre_ids": [
+      35,
+      14
+    ],
+    "genres": [
+      "كوميديا",
+      "فانتازيا"
+    ],
+    "timestamp": 1780004831,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "Casanova / Casanova",
+    "title_ar": "Casanova",
+    "title_en": "Casanova",
+    "slug": "376780-casanova",
+    "folder": "movie",
+    "poster": "/t/p/w500/uy9LfH3vF9No9NmdupcgJwFCQQf.jpg",
+    "rating": 8.2,
+    "year": "2015",
+    "type": "movie",
+    "tmdb_id": 376780,
+    "genre_ids": [
+      18,
+      10770
+    ],
+    "genres": [
+      "دراما",
+      "فيلم تلفازي"
+    ],
+    "timestamp": 1780004825,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "كوميديتي الرومانسية الشبابية خاطئة كما توقعت / My Teen Romantic Comedy SNAFU",
+    "title_ar": "كوميديتي الرومانسية الشبابية خاطئة كما توقعت",
+    "title_en": "My Teen Romantic Comedy SNAFU",
+    "slug": "65676-my-teen-romantic-comedy-snafu",
+    "folder": "tv",
+    "poster": "/t/p/w500/uLCcMQT9gBf81wI1sbHx2ICBiYH.jpg",
+    "rating": 8.2,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 65676,
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1780004729,
+    "fixed": true
+  },
+  {
+    "title": "غائم جزئيا / Partly Cloudy",
+    "title_ar": "غائم جزئيا",
+    "title_en": "Partly Cloudy",
+    "slug": "24480-partly-cloudy",
+    "folder": "movie",
+    "poster": "/t/p/w500/aWfat7MCiDTeQ35BVofIklBzSkO.jpg",
+    "rating": 7.8,
+    "year": "2009",
+    "type": "movie",
+    "tmdb_id": 24480,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "عائلي",
+      "كوميديا",
+      "فانتازيا"
+    ],
+    "timestamp": 1780004722,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "ما وراء اللمسة / Behind Your Touch",
+    "title_ar": "ما وراء اللمسة",
+    "title_en": "Behind Your Touch",
+    "slug": "210107-behind-your-touch",
+    "folder": "tv",
+    "poster": "/t/p/w500/2rIponPNCeiWkAoEkz4MHJCFRdo.jpg",
+    "rating": 8.1,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 210107,
+    "genre_ids": [
+      18,
+      35,
+      10765,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "غموض"
+    ],
+    "timestamp": 1780004717,
+    "fixed": true
+  },
+  {
+    "title": "Healing Hands / Healing Hands",
+    "title_ar": "Healing Hands",
+    "title_en": "Healing Hands",
+    "slug": "20464-healing-hands",
+    "folder": "tv",
+    "poster": "/t/p/w500/8zwsCXcFb7JsLyEcgdKt83NtGDE.jpg",
+    "rating": 7.6,
+    "year": "1998",
+    "type": "tv",
+    "tmdb_id": 20464,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780004712,
+    "fixed": true
+  },
+  {
+    "title": "Krlowa Bona / Krlowa Bona",
+    "title_ar": "Krlowa Bona",
+    "title_en": "Krlowa Bona",
+    "slug": "48704-krlowa-bona",
+    "folder": "tv",
+    "poster": "/t/p/w500/dWOaibGXErbOfK7sgQHKBWq2Nom.jpg",
+    "rating": 8.5,
+    "year": "1980",
+    "type": "tv",
+    "tmdb_id": 48704,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780004702,
+    "fixed": true
+  },
+  {
+    "title": "Haq / Haq",
+    "title_ar": "Haq",
+    "title_en": "Haq",
+    "slug": "1417941-haq",
+    "folder": "movie",
+    "poster": "/t/p/w500/tO7OI5MyzPSiVmlXXnlBKlAJH92.jpg",
+    "rating": 7.5,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1417941,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1780004694,
+    "fixed": true,
+    "section": "أفلام أجنبية",
+    "quality": "1080p BluRay",
+    "duration": "99 دقيقة",
+    "language": "الإنجليزية",
+    "country": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "title": "Going Live! / Going Live!",
+    "title_ar": "Going Live!",
+    "title_en": "Going Live!",
+    "slug": "2232-going-live",
+    "folder": "tv",
+    "poster": "/t/p/w500/sWOqHgPEzKieYIR7nnofJ2M0YFx.jpg",
+    "rating": 8,
+    "year": "1987",
+    "type": "tv",
+    "tmdb_id": 2232,
+    "genre_ids": [],
+    "genres": [],
+    "timestamp": 1780004689,
+    "fixed": true
+  },
+  {
+    "title": "بلدة المتقاعدين / The Boroughs",
+    "title_ar": "بلدة المتقاعدين",
+    "title_en": "The Boroughs",
+    "slug": "224941-the-boroughs",
+    "folder": "tv",
+    "poster": "/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "rating": 7.1,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 224941,
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "غموض"
+    ],
+    "timestamp": 1780004684,
+    "fixed": true
+  },
+  {
+    "title": "A Good Girls Guide to Murder / A Good Girls Guide to Murder",
+    "title_ar": "A Good Girls Guide to Murder",
+    "title_en": "A Good Girls Guide to Murder",
+    "slug": "218342-a-good-girls-guide-to-murder",
+    "folder": "tv",
+    "poster": "/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+    "rating": 7.4,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 218342,
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1780004678,
+    "fixed": true
+  },
+  {
+    "title": "My Deer Friend Nokotan / My Deer Friend Nokotan",
+    "title_ar": "My Deer Friend Nokotan",
+    "title_en": "My Deer Friend Nokotan",
+    "slug": "248866-my-deer-friend-nokotan",
+    "folder": "tv",
+    "poster": "/t/p/w500/kClBHXEZjJfING72fzoO9Eyb8yR.jpg",
+    "rating": 7.7,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 248866,
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1780003281,
+    "fixed": true
+  },
+  {
+    "title": "سبايدر-نوار / Spider-Noir",
+    "title_ar": "سبايدر-نوار",
+    "title_en": "Spider-Noir",
+    "slug": "220102-spider-noir",
+    "folder": "tv",
+    "poster": "/t/p/w500/mA9XrZsAk8YCkYUhmHPgKUKI2KA.jpg",
+    "rating": 8.9,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 220102,
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1780003266,
+    "fixed": true
   },
   {
     "title": "Kommissar Rex / Inspector Rex",
@@ -50183,6 +53264,29 @@
     "country": "الولايات المتحدة الأمريكية"
   },
   {
+    "title": "The Gumball Chronicles",
+    "title_ar": "The Gumball Chronicles",
+    "title_en": "The Gumball Chronicles",
+    "slug": "133529-the-gumball-chronicles",
+    "folder": "tv",
+    "poster": "/hZ08bp9EEUJiCXIIu8DGf8jCwUB.jpg",
+    "rating": 9.3,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 133529,
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ],
+    "genres": [
+      "أطفال",
+      "عائلي",
+      "رسوم متحركة"
+    ],
+    "timestamp": 1717630000
+  },
+  {
     "title": "نيتفلكس",
     "title_ar": "نيتفلكس",
     "title_en": "Netflix",
@@ -50367,3110 +53471,6 @@
     "type": "genre",
     "tmdb_id": 57,
     "timestamp": 0,
-    "fixed": true
-  },
-  {
-    "title": "سبايدر-نوار / Spider-Noir",
-    "title_ar": "سبايدر-نوار",
-    "title_en": "Spider-Noir",
-    "slug": "220102-spider-noir",
-    "folder": "tv",
-    "poster": "/t/p/w500/mA9XrZsAk8YCkYUhmHPgKUKI2KA.jpg",
-    "rating": 8.9,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 220102,
-    "genre_ids": [
-      80,
-      9648,
-      18
-    ],
-    "genres": [
-      "جريمة",
-      "غموض",
-      "دراما"
-    ],
-    "timestamp": 1780003266,
-    "fixed": true
-  },
-  {
-    "title": "My Deer Friend Nokotan / My Deer Friend Nokotan",
-    "title_ar": "My Deer Friend Nokotan",
-    "title_en": "My Deer Friend Nokotan",
-    "slug": "248866-my-deer-friend-nokotan",
-    "folder": "tv",
-    "poster": "/t/p/w500/kClBHXEZjJfING72fzoO9Eyb8yR.jpg",
-    "rating": 7.7,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 248866,
-    "genre_ids": [
-      16,
-      35,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1780003281,
-    "fixed": true
-  },
-  {
-    "title": "A Good Girls Guide to Murder / A Good Girls Guide to Murder",
-    "title_ar": "A Good Girls Guide to Murder",
-    "title_en": "A Good Girls Guide to Murder",
-    "slug": "218342-a-good-girls-guide-to-murder",
-    "folder": "tv",
-    "poster": "/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
-    "rating": 7.4,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 218342,
-    "genre_ids": [
-      80,
-      9648,
-      18
-    ],
-    "genres": [
-      "جريمة",
-      "غموض",
-      "دراما"
-    ],
-    "timestamp": 1780004678,
-    "fixed": true
-  },
-  {
-    "title": "بلدة المتقاعدين / The Boroughs",
-    "title_ar": "بلدة المتقاعدين",
-    "title_en": "The Boroughs",
-    "slug": "224941-the-boroughs",
-    "folder": "tv",
-    "poster": "/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
-    "rating": 7.1,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 224941,
-    "genre_ids": [
-      10765,
-      9648
-    ],
-    "genres": [
-      "خيال علمي وفانتازيا",
-      "غموض"
-    ],
-    "timestamp": 1780004684,
-    "fixed": true
-  },
-  {
-    "title": "Going Live! / Going Live!",
-    "title_ar": "Going Live!",
-    "title_en": "Going Live!",
-    "slug": "2232-going-live",
-    "folder": "tv",
-    "poster": "/t/p/w500/sWOqHgPEzKieYIR7nnofJ2M0YFx.jpg",
-    "rating": 8,
-    "year": "1987",
-    "type": "tv",
-    "tmdb_id": 2232,
-    "genre_ids": [],
-    "genres": [],
-    "timestamp": 1780004689,
-    "fixed": true
-  },
-  {
-    "title": "Haq / Haq",
-    "title_ar": "Haq",
-    "title_en": "Haq",
-    "slug": "1417941-haq",
-    "folder": "movie",
-    "poster": "/t/p/w500/tO7OI5MyzPSiVmlXXnlBKlAJH92.jpg",
-    "rating": 7.5,
-    "year": "2025",
-    "type": "movie",
-    "tmdb_id": 1417941,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780004694,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "Krlowa Bona / Krlowa Bona",
-    "title_ar": "Krlowa Bona",
-    "title_en": "Krlowa Bona",
-    "slug": "48704-krlowa-bona",
-    "folder": "tv",
-    "poster": "/t/p/w500/dWOaibGXErbOfK7sgQHKBWq2Nom.jpg",
-    "rating": 8.5,
-    "year": "1980",
-    "type": "tv",
-    "tmdb_id": 48704,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780004702,
-    "fixed": true
-  },
-  {
-    "title": "Healing Hands / Healing Hands",
-    "title_ar": "Healing Hands",
-    "title_en": "Healing Hands",
-    "slug": "20464-healing-hands",
-    "folder": "tv",
-    "poster": "/t/p/w500/8zwsCXcFb7JsLyEcgdKt83NtGDE.jpg",
-    "rating": 7.6,
-    "year": "1998",
-    "type": "tv",
-    "tmdb_id": 20464,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780004712,
-    "fixed": true
-  },
-  {
-    "title": "ما وراء اللمسة / Behind Your Touch",
-    "title_ar": "ما وراء اللمسة",
-    "title_en": "Behind Your Touch",
-    "slug": "210107-behind-your-touch",
-    "folder": "tv",
-    "poster": "/t/p/w500/2rIponPNCeiWkAoEkz4MHJCFRdo.jpg",
-    "rating": 8.1,
-    "year": "2023",
-    "type": "tv",
-    "tmdb_id": 210107,
-    "genre_ids": [
-      18,
-      35,
-      10765,
-      9648
-    ],
-    "genres": [
-      "دراما",
-      "كوميديا",
-      "خيال علمي وفانتازيا",
-      "غموض"
-    ],
-    "timestamp": 1780004717,
-    "fixed": true
-  },
-  {
-    "title": "غائم جزئيا / Partly Cloudy",
-    "title_ar": "غائم جزئيا",
-    "title_en": "Partly Cloudy",
-    "slug": "24480-partly-cloudy",
-    "folder": "movie",
-    "poster": "/t/p/w500/aWfat7MCiDTeQ35BVofIklBzSkO.jpg",
-    "rating": 7.8,
-    "year": "2009",
-    "type": "movie",
-    "tmdb_id": 24480,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      14
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "عائلي",
-      "كوميديا",
-      "فانتازيا"
-    ],
-    "timestamp": 1780004722,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "كوميديتي الرومانسية الشبابية خاطئة كما توقعت / My Teen Romantic Comedy SNAFU",
-    "title_ar": "كوميديتي الرومانسية الشبابية خاطئة كما توقعت",
-    "title_en": "My Teen Romantic Comedy SNAFU",
-    "slug": "65676-my-teen-romantic-comedy-snafu",
-    "folder": "tv",
-    "poster": "/t/p/w500/uLCcMQT9gBf81wI1sbHx2ICBiYH.jpg",
-    "rating": 8.2,
-    "year": "2013",
-    "type": "tv",
-    "tmdb_id": 65676,
-    "genre_ids": [
-      16,
-      35,
-      18
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1780004729,
-    "fixed": true
-  },
-  {
-    "title": "Casanova / Casanova",
-    "title_ar": "Casanova",
-    "title_en": "Casanova",
-    "slug": "376780-casanova",
-    "folder": "movie",
-    "poster": "/t/p/w500/uy9LfH3vF9No9NmdupcgJwFCQQf.jpg",
-    "rating": 8.2,
-    "year": "2015",
-    "type": "movie",
-    "tmdb_id": 376780,
-    "genre_ids": [
-      18,
-      10770
-    ],
-    "genres": [
-      "دراما",
-      "فيلم تلفازي"
-    ],
-    "timestamp": 1780004825,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "صائدو الأشباح / Ghostbusters",
-    "title_ar": "صائدو الأشباح",
-    "title_en": "Ghostbusters",
-    "slug": "620-ghostbusters",
-    "folder": "movie",
-    "poster": "/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
-    "rating": 7.5,
-    "year": "1984",
-    "type": "movie",
-    "tmdb_id": 620,
-    "genre_ids": [
-      35,
-      14
-    ],
-    "genres": [
-      "كوميديا",
-      "فانتازيا"
-    ],
-    "timestamp": 1780004831,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "Ghya Chang Fou / Ghya Chang Fou",
-    "title_ar": "Ghya Chang Fou",
-    "title_en": "Ghya Chang Fou",
-    "slug": "707974-ghya-chang-fou",
-    "folder": "movie",
-    "poster": "/t/p/w500/eSw8WCM0RcC81HORSiQWNCoiD7q.jpg",
-    "rating": 8.5,
-    "year": "2017",
-    "type": "movie",
-    "tmdb_id": 707974,
-    "genre_ids": [
-      14,
-      18
-    ],
-    "genres": [
-      "فانتازيا",
-      "دراما"
-    ],
-    "timestamp": 1780004836,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "تاي غوك غي: إخوة الحرب / Tae Guk Gi: The Brotherhood of War",
-    "title_ar": "تاي غوك غي: إخوة الحرب",
-    "title_en": "Tae Guk Gi: The Brotherhood of War",
-    "slug": "11658-tae-guk-gi-the-brotherhood-of-war",
-    "folder": "movie",
-    "poster": "/t/p/w500/rcBc6lI7Ouj1kb0bbbX0CkuJe9q.jpg",
-    "rating": 8,
-    "year": "2004",
-    "type": "movie",
-    "tmdb_id": 11658,
-    "genre_ids": [
-      28,
-      12,
-      18,
-      36,
-      10752
-    ],
-    "genres": [
-      "حركة",
-      "مغامرة",
-      "دراما",
-      "تاريخ",
-      "حرب"
-    ],
-    "timestamp": 1780004847,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "المنبوش / Exhuma",
-    "title_ar": "المنبوش",
-    "title_en": "Exhuma",
-    "slug": "838209-exhuma",
-    "folder": "movie",
-    "poster": "/t/p/w500/872jJFhsI61Y849MhWLMee6RgXK.jpg",
-    "rating": 7.5,
-    "year": "2024",
-    "type": "movie",
-    "tmdb_id": 838209,
-    "genre_ids": [
-      9648,
-      27,
-      53
-    ],
-    "genres": [
-      "غموض",
-      "رعب",
-      "إثارة"
-    ],
-    "timestamp": 1780004852,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "My Little Pony: The Movie / My Little Pony: The Movie",
-    "title_ar": "My Little Pony: The Movie",
-    "title_en": "My Little Pony: The Movie",
-    "slug": "335360-my-little-pony-the-movie",
-    "folder": "movie",
-    "poster": "/t/p/w500/AiJRCzcZSVs9xPHoEKZRp80TyTA.jpg",
-    "rating": 7.3,
-    "year": "2017",
-    "type": "movie",
-    "tmdb_id": 335360,
-    "genre_ids": [
-      10751,
-      16,
-      12,
-      14
-    ],
-    "genres": [
-      "عائلي",
-      "رسوم متحركة",
-      "مغامرة",
-      "فانتازيا"
-    ],
-    "timestamp": 1780004857,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "Harry Potter 20th Anniversary: Return to Hogwarts / Harry Potter 20th Anniversary: Return to Hogwarts",
-    "title_ar": "Harry Potter 20th Anniversary: Return to Hogwarts",
-    "title_en": "Harry Potter 20th Anniversary: Return to Hogwarts",
-    "slug": "899082-harry-potter-20th-anniversary-return-to-hogwarts",
-    "folder": "movie",
-    "poster": "/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
-    "rating": 7.3,
-    "year": "2022",
-    "type": "movie",
-    "tmdb_id": 899082,
-    "genre_ids": [
-      99
-    ],
-    "genres": [
-      "وثائقي"
-    ],
-    "timestamp": 1780004863,
-    "fixed": true,
-    "section": "أفلام أجنبية",
-    "quality": "1080p BluRay",
-    "duration": "99 دقيقة",
-    "language": "الإنجليزية",
-    "country": "الولايات المتحدة الأمريكية"
-  },
-  {
-    "title": "رومانسية في المكتب / Office Romance",
-    "title_ar": "رومانسية في المكتب",
-    "title_en": "Office Romance",
-    "slug": "1358005-office-romance",
-    "folder": "movie",
-    "poster": "/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-    "rating": 6.7,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1358005,
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "genres": [
-      "رومنسية",
-      "كوميديا"
-    ],
-    "timestamp": 1780711044,
-    "fixed": true
-  },
-  {
-    "title": "La bicicleta de los Huanca / La bicicleta de los Huanca",
-    "title_ar": "La bicicleta de los Huanca",
-    "title_en": "La bicicleta de los Huanca",
-    "slug": "628442-la-bicicleta-de-los-huanca",
-    "folder": "movie",
-    "poster": "/t/p/w500/hfAzttPC1Bhz5ijuuxDAUVjSRD8.jpg",
-    "rating": 9.0,
-    "year": "2007",
-    "type": "movie",
-    "tmdb_id": 628442,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1780711057,
-    "fixed": true
-  },
-  {
-    "title": "Cape Fear / Cape Fear",
-    "title_ar": "Cape Fear",
-    "title_en": "Cape Fear",
-    "slug": "277439-cape-fear",
-    "folder": "tv",
-    "poster": "/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
-    "rating": 5.4,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 277439,
-    "genre_ids": [
-      18,
-      80
-    ],
-    "genres": [
-      "دراما",
-      "جريمة"
-    ],
-    "timestamp": 1780711070,
-    "fixed": true
-  },
-  {
-    "title": "La oficina / La oficina",
-    "title_ar": "La oficina",
-    "title_en": "La oficina",
-    "slug": "275202-la-oficina",
-    "folder": "tv",
-    "poster": "/t/p/w500/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
-    "rating": 9.3,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 275202,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1780711087,
-    "fixed": true
-  },
-  {
-    "title": "Scary Movie / Scary Movie",
-    "title_ar": "Scary Movie",
-    "title_en": "Scary Movie",
-    "slug": "1273221-scary-movie",
-    "folder": "movie",
-    "poster": "/t/p/w500/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
-    "rating": 5.8,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1273221,
-    "genre_ids": [
-      35,
-      27
-    ],
-    "genres": [
-      "كوميديا",
-      "رعب"
-    ],
-    "timestamp": 1780712465,
-    "fixed": true
-  },
-  {
-    "title": "Socias por accidente / Accidental Partners",
-    "title_ar": "Socias por accidente",
-    "title_en": "Accidental Partners",
-    "slug": "1632181-accidental-partners",
-    "folder": "movie",
-    "poster": "/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
-    "rating": 9.1,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1632181,
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "genres": [
-      "كوميديا",
-      "رومنسية"
-    ],
-    "timestamp": 1780712479,
-    "fixed": true
-  },
-  {
-    "title": "Teach You a Lesson / Teach You a Lesson",
-    "title_ar": "Teach You a Lesson",
-    "title_en": "Teach You a Lesson",
-    "slug": "276161-teach-you-a-lesson",
-    "folder": "tv",
-    "poster": "/t/p/w500/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
-    "rating": 7.6,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 276161,
-    "genre_ids": [
-      10759,
-      18,
-      35
-    ],
-    "genres": [
-      "حركة ومغامرة",
-      "دراما",
-      "كوميديا"
-    ],
-    "timestamp": 1780712492,
-    "fixed": true
-  },
-  {
-    "title": "Among Us / Among Us",
-    "title_ar": "Among Us",
-    "title_en": "Among Us",
-    "slug": "229544-among-us",
-    "folder": "tv",
-    "poster": "/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 229544,
-    "genre_ids": [
-      16,
-      9648,
-      35,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "غموض",
-      "كوميديا",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1780774825,
-    "fixed": true
-  },
-  {
-    "title": "الغرفة الخلفية / Backrooms",
-    "title_ar": "الغرفة الخلفية",
-    "title_en": "Backrooms",
-    "slug": "1083381-backrooms",
-    "folder": "movie",
-    "poster": "/t/p/w500/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",
-    "rating": 6.8,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1083381,
-    "genre_ids": [
-      27,
-      9648,
-      878
-    ],
-    "genres": [
-      "رعب",
-      "غموض",
-      "خيال علمي"
-    ],
-    "timestamp": 1780782801,
-    "fixed": true
-  },
-  {
-    "title": "Las tres muertes de Marisela Escobedo / The Three Deaths of Marisela Escobedo",
-    "title_ar": "Las tres muertes de Marisela Escobedo",
-    "title_en": "The Three Deaths of Marisela Escobedo",
-    "slug": "753230-the-three-deaths-of-marisela-escobedo",
-    "folder": "movie",
-    "poster": "/t/p/w500/gYO7mmLti4XtIszP6C7Uc7OQnOc.jpg",
-    "rating": 8.9,
-    "year": "2020",
-    "type": "movie",
-    "tmdb_id": 753230,
-    "genre_ids": [
-      99,
-      80
-    ],
-    "genres": [
-      "وثائقي",
-      "جريمة"
-    ],
-    "timestamp": 1780782898,
-    "fixed": true
-  },
-  {
-    "title": "The Ferry Man 10th Anniversary / The Ferry Man 10th Anniversary",
-    "title_ar": "The Ferry Man 10th Anniversary",
-    "title_en": "The Ferry Man 10th Anniversary",
-    "slug": "289147-the-ferry-man-10th-anniversary",
-    "folder": "tv",
-    "poster": "/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-    "rating": 9.5,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 289147,
-    "genre_ids": [
-      10759,
-      10765
-    ],
-    "genres": [
-      "حركة ومغامرة",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1780782996,
-    "fixed": true
-  },
-  {
-    "title": "Margarita: Que tu cuento valga la pena / Margarita: Make Your Story Count",
-    "title_ar": "Margarita: Que tu cuento valga la pena",
-    "title_en": "Margarita: Make Your Story Count",
-    "slug": "245328-margarita-make-your-story-count",
-    "folder": "tv",
-    "poster": "/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg",
-    "rating": 8.9,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 245328,
-    "genre_ids": [
-      35,
-      18,
-      10751,
-      10766
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما",
-      "عائلي",
-      "أوبرا صابونية"
-    ],
-    "timestamp": 1780783005,
-    "fixed": true
-  },
-  {
-    "title": "Morat: Balas Perdidas / Morat: Balas Perdidas",
-    "title_ar": "Morat: Balas Perdidas",
-    "title_en": "Morat: Balas Perdidas",
-    "slug": "806439-morat-balas-perdidas",
-    "folder": "movie",
-    "poster": "/t/p/w500/1Thyu0UorpClFHHpLt2d0h6k6Wf.jpg",
-    "rating": 9.0,
-    "year": "2021",
-    "type": "movie",
-    "tmdb_id": 806439,
-    "genre_ids": [
-      10402,
-      99
-    ],
-    "genres": [
-      "موسيقى",
-      "وثائقي"
-    ],
-    "timestamp": 1780784068,
-    "fixed": true
-  },
-  {
-    "title": "Love Island USA / Love Island USA",
-    "title_ar": "Love Island USA",
-    "title_en": "Love Island USA",
-    "slug": "90521-love-island-usa",
-    "folder": "tv",
-    "poster": "/t/p/w500/kU2y21cls8WargMaX7KI47URMjD.jpg",
-    "rating": 7.0,
-    "year": "2019",
-    "type": "tv",
-    "tmdb_id": 90521,
-    "genre_ids": [
-      10764
-    ],
-    "genres": [
-      "واقع"
-    ],
-    "timestamp": 1780784079,
-    "fixed": true
-  },
-  {
-    "title": "الشاهد / The Witness",
-    "title_ar": "الشاهد",
-    "title_en": "The Witness",
-    "slug": "280511-the-witness",
-    "folder": "tv",
-    "poster": "/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-    "rating": 5.4,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 280511,
-    "genre_ids": [
-      18,
-      80
-    ],
-    "genres": [
-      "دراما",
-      "جريمة"
-    ],
-    "timestamp": 1780786306,
-    "fixed": true
-  },
-  {
-    "title": "Mi socio / My Partner",
-    "title_ar": "Mi socio",
-    "title_en": "My Partner",
-    "slug": "455502-my-partner",
-    "folder": "movie",
-    "poster": "/t/p/w500/cthChsUtOliCjo26soJzFHwLVTZ.jpg",
-    "rating": 8.9,
-    "year": "1982",
-    "type": "movie",
-    "tmdb_id": 455502,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1780786635,
-    "fixed": true
-  },
-  {
-    "title": "Star City / Star City",
-    "title_ar": "Star City",
-    "title_en": "Star City",
-    "slug": "252107-star-city",
-    "folder": "tv",
-    "poster": "/t/p/w500/jjJZyBCDgyYylGdtctuqEYcO7Lc.jpg",
-    "rating": 6.6,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 252107,
-    "genre_ids": [
-      18,
-      10765,
-      10768
-    ],
-    "genres": [
-      "دراما",
-      "خيال علمي وفانتازيا",
-      "حرب وسياسة"
-    ],
-    "timestamp": 1780786715,
-    "fixed": true
-  },
-  {
-    "title": "Century of Love / Century of Love",
-    "title_ar": "Century of Love",
-    "title_en": "Century of Love",
-    "slug": "253296-century-of-love",
-    "folder": "tv",
-    "poster": "/t/p/w500/A6jHAGINcgdeyC8Nmwpa18Ws8U8.jpg",
-    "rating": 9.3,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 253296,
-    "genre_ids": [
-      18,
-      10765,
-      10759
-    ],
-    "genres": [
-      "دراما",
-      "خيال علمي وفانتازيا",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1780786731,
-    "fixed": true
-  },
-  {
-    "title": "BTS : ARIRANG / BTS THE COMEBACK LIVE ARIRANG",
-    "title_ar": "BTS : ARIRANG",
-    "title_en": "BTS THE COMEBACK LIVE ARIRANG",
-    "slug": "1628123-bts-the-comeback-live-arirang",
-    "folder": "movie",
-    "poster": "/t/p/w500/u3IsNHuTykczbnLPYSzEMJ2p32G.jpg",
-    "rating": 8.8,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1628123,
-    "genre_ids": [
-      10402
-    ],
-    "genres": [
-      "موسيقى"
-    ],
-    "timestamp": 1780794360,
-    "fixed": true
-  },
-  {
-    "title": "مايكل جاكسون: الحكم / Michael Jackson: The Verdict",
-    "title_ar": "مايكل جاكسون: الحكم",
-    "title_en": "Michael Jackson: The Verdict",
-    "slug": "323111-michael-jackson-the-verdict",
-    "folder": "tv",
-    "poster": "/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
-    "rating": 5.7,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 323111,
-    "genre_ids": [
-      99
-    ],
-    "genres": [
-      "وثائقي"
-    ],
-    "timestamp": 1780794421,
-    "fixed": true
-  },
-  {
-    "title": "GAP / GAP",
-    "title_ar": "GAP",
-    "title_en": "GAP",
-    "slug": "155513-gap",
-    "folder": "tv",
-    "poster": "/t/p/w500/1NY4rLU5MQDMEzd9kZWKFgNCR8R.jpg",
-    "rating": 9.0,
-    "year": "2022",
-    "type": "tv",
-    "tmdb_id": 155513,
-    "genre_ids": [
-      18,
-      35
-    ],
-    "genres": [
-      "دراما",
-      "كوميديا"
-    ],
-    "timestamp": 1780794511,
-    "fixed": true
-  },
-  {
-    "title": "THE LAST ATTACK / Attack on Titan: THE LAST ATTACK",
-    "title_ar": "THE LAST ATTACK",
-    "title_en": "Attack on Titan: THE LAST ATTACK",
-    "slug": "1333100-attack-on-titan-the-last-attack",
-    "folder": "movie",
-    "poster": "/t/p/w500/gzs2XMWatrPjVJputJUugbKA4Z.jpg",
-    "rating": 8.7,
-    "year": "2024",
-    "type": "movie",
-    "tmdb_id": 1333100,
-    "genre_ids": [
-      16,
-      28,
-      12,
-      18
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة",
-      "مغامرة",
-      "دراما"
-    ],
-    "timestamp": 1780796661,
-    "fixed": true
-  },
-  {
-    "title": "المنافسون / Rivals",
-    "title_ar": "المنافسون",
-    "title_en": "Rivals",
-    "slug": "208921-rivals",
-    "folder": "tv",
-    "poster": "/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
-    "rating": 7.4,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 208921,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780796676,
-    "fixed": true
-  },
-  {
-    "title": "Linkin Park: Live in Texas / Linkin Park: Live in Texas",
-    "title_ar": "Linkin Park: Live in Texas",
-    "title_en": "Linkin Park: Live in Texas",
-    "slug": "40444-linkin-park-live-in-texas",
-    "folder": "movie",
-    "poster": "/t/p/w500/7b6aV79bXuoNktnP7oKfUzZGBka.jpg",
-    "rating": 9.0,
-    "year": "2003",
-    "type": "movie",
-    "tmdb_id": 40444,
-    "genre_ids": [
-      10402,
-      99
-    ],
-    "genres": [
-      "موسيقى",
-      "وثائقي"
-    ],
-    "timestamp": 1780798052,
-    "fixed": true
-  },
-  {
-    "title": "Jack Joker: U Steal My Heart! / Jack Joker: U Steal My Heart!",
-    "title_ar": "Jack Joker: U Steal My Heart!",
-    "title_en": "Jack Joker: U Steal My Heart!",
-    "slug": "240692-jack-joker-u-steal-my-heart",
-    "folder": "tv",
-    "poster": "/t/p/w500/iDN6krI6FivvUudyvlvQflYrG5p.jpg",
-    "rating": 9.5,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 240692,
-    "genre_ids": [
-      18,
-      80,
-      10759
-    ],
-    "genres": [
-      "دراما",
-      "جريمة",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1780798067,
-    "fixed": true
-  },
-  {
-    "title": "El Cementerio de los Elefantes / El Cementerio de los Elefantes",
-    "title_ar": "El Cementerio de los Elefantes",
-    "title_en": "El Cementerio de los Elefantes",
-    "slug": "373001-el-cementerio-de-los-elefantes",
-    "folder": "movie",
-    "poster": "/t/p/w500/r4AoFwoAYP1OBJAbmFTgUjGjAUE.jpg",
-    "rating": 8.9,
-    "year": "2009",
-    "type": "movie",
-    "tmdb_id": 373001,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780799408,
-    "fixed": true
-  },
-  {
-    "title": "La Casa de los Famosos / La Casa de los Famosos",
-    "title_ar": "La Casa de los Famosos",
-    "title_en": "La Casa de los Famosos",
-    "slug": "137228-la-casa-de-los-famosos",
-    "folder": "tv",
-    "poster": "/t/p/w500/os706RrUUFdW8sWuo1qmmCDv6OE.jpg",
-    "rating": 8.9,
-    "year": "2021",
-    "type": "tv",
-    "tmdb_id": 137228,
-    "genre_ids": [
-      10764
-    ],
-    "genres": [
-      "واقع"
-    ],
-    "timestamp": 1780799418,
-    "fixed": true
-  },
-  {
-    "title": "Scooby-Doos A Nutcracker Scoob / Scooby-Doos A Nutcracker Scoob",
-    "title_ar": "Scooby-Doos A Nutcracker Scoob",
-    "title_en": "Scooby-Doos A Nutcracker Scoob",
-    "slug": "48919-scooby-doos-a-nutcracker-scoob",
-    "folder": "movie",
-    "poster": "/t/p/w500/hPnHdgLYxUtgSxMoGeuhKxttJBS.jpg",
-    "rating": 9.1,
-    "year": "1984",
-    "type": "movie",
-    "tmdb_id": 48919,
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      9648
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "عائلي",
-      "كوميديا",
-      "غموض"
-    ],
-    "timestamp": 1780800784,
-    "fixed": true
-  },
-  {
-    "title": "Irmo do Jorel / Jorels Brother",
-    "title_ar": "Irmo do Jorel",
-    "title_en": "Jorels Brother",
-    "slug": "74606-jorels-brother",
-    "folder": "tv",
-    "poster": "/t/p/w500/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg",
-    "rating": 8.9,
-    "year": "2014",
-    "type": "tv",
-    "tmdb_id": 74606,
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      18
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا",
-      "أطفال",
-      "دراما"
-    ],
-    "timestamp": 1780800813,
-    "fixed": true
-  },
-  {
-    "title": "Nude / Nude",
-    "title_ar": "Nude",
-    "title_en": "Nude",
-    "slug": "484133-nude",
-    "folder": "movie",
-    "poster": "/t/p/w500/699DbQ8eTecLmzjTLrao9D5bbpq.jpg",
-    "rating": 9.4,
-    "year": "2017",
-    "type": "movie",
-    "tmdb_id": 484133,
-    "genre_ids": [
-      99
-    ],
-    "genres": [
-      "وثائقي"
-    ],
-    "timestamp": 1780801175,
-    "fixed": true
-  },
-  {
-    "title": "Rite Here Rite Now / Rite Here Rite Now",
-    "title_ar": "Rite Here Rite Now",
-    "title_en": "Rite Here Rite Now",
-    "slug": "1203397-rite-here-rite-now",
-    "folder": "movie",
-    "poster": "/t/p/w500/w3xJNhW5ZYuK3BySbsJiGDmKEiV.jpg",
-    "rating": 8.8,
-    "year": "2024",
-    "type": "movie",
-    "tmdb_id": 1203397,
-    "genre_ids": [
-      10402,
-      99
-    ],
-    "genres": [
-      "موسيقى",
-      "وثائقي"
-    ],
-    "timestamp": 1780803383,
-    "fixed": true
-  },
-  {
-    "title": "Wonder Wall / Wonder Wall",
-    "title_ar": "Wonder Wall",
-    "title_en": "Wonder Wall",
-    "slug": "282497-wonder-wall",
-    "folder": "tv",
-    "poster": "/t/p/w500/1lPtFI5KujhtfagWqBrFN0zIkTv.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 282497,
-    "genre_ids": [
-      80
-    ],
-    "genres": [
-      "جريمة"
-    ],
-    "timestamp": 1780839754,
-    "fixed": true
-  },
-  {
-    "title": "Masters of the Universe / Masters of the Universe",
-    "title_ar": "Masters of the Universe",
-    "title_en": "Masters of the Universe",
-    "slug": "454639-masters-of-the-universe",
-    "folder": "movie",
-    "poster": "/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-    "rating": 7.5,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 454639,
-    "genre_ids": [
-      28,
-      14,
-      878
-    ],
-    "genres": [
-      "حركة",
-      "فانتازيا",
-      "خيال علمي"
-    ],
-    "timestamp": 1780889386,
-    "fixed": true
-  },
-  {
-    "title": "Divaldo: O Mensageiro da Paz / Divaldo Franco",
-    "title_ar": "Divaldo: O Mensageiro da Paz",
-    "title_en": "Divaldo Franco",
-    "slug": "612304-divaldo-franco",
-    "folder": "movie",
-    "poster": "/t/p/w500/a0qUWUddEMySjvvOUpAAlXWNrZt.jpg",
-    "rating": 8.7,
-    "year": "2019",
-    "type": "movie",
-    "tmdb_id": 612304,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1780889399,
-    "fixed": true
-  },
-  {
-    "title": "The Vampire Lestat / The Vampire Lestat",
-    "title_ar": "The Vampire Lestat",
-    "title_en": "The Vampire Lestat",
-    "slug": "323411-the-vampire-lestat",
-    "folder": "tv",
-    "poster": "/t/p/w500/eZe79cdGBxiNXG6k4UyScu2XSDr.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 323411,
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "genres": [
-      "دراما",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1780889410,
-    "fixed": true
-  },
-  {
-    "title": "Guardin de mi vida / Guardin de mi vida",
-    "title_ar": "Guardin de mi vida",
-    "title_en": "Guardin de mi vida",
-    "slug": "320315-guardin-de-mi-vida",
-    "folder": "tv",
-    "poster": "/t/p/w500/ppdrvfUyukqtFkl1HY7x6qHd7st.jpg",
-    "rating": 9.7,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 320315,
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "genres": [
-      "أوبرا صابونية",
-      "دراما"
-    ],
-    "timestamp": 1780889424,
-    "fixed": true
-  },
-  {
-    "title": "Disclosure Day / Disclosure Day",
-    "title_ar": "Disclosure Day",
-    "title_en": "Disclosure Day",
-    "slug": "1275779-disclosure-day",
-    "folder": "movie",
-    "poster": "/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
-    "rating": 8.4,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1275779,
-    "genre_ids": [
-      9648,
-      878,
-      53
-    ],
-    "genres": [
-      "غموض",
-      "خيال علمي",
-      "إثارة"
-    ],
-    "timestamp": 1780933238,
-    "fixed": true
-  },
-  {
-    "title": "BTS: PERMISSION TO DANCE LA / BTS: Permission to Dance on Stage - LA",
-    "title_ar": "BTS: PERMISSION TO DANCE LA",
-    "title_en": "BTS: Permission to Dance on Stage - LA",
-    "slug": "1022102-bts-permission-to-dance-on-stage-la",
-    "folder": "movie",
-    "poster": "/t/p/w500/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",
-    "rating": 8.8,
-    "year": "2022",
-    "type": "movie",
-    "tmdb_id": 1022102,
-    "genre_ids": [
-      10402,
-      99
-    ],
-    "genres": [
-      "موسيقى",
-      "وثائقي"
-    ],
-    "timestamp": 1780933249,
-    "fixed": true
-  },
-  {
-    "title": "Alice and Steve / Alice and Steve",
-    "title_ar": "Alice and Steve",
-    "title_en": "Alice and Steve",
-    "slug": "318203-alice-and-steve",
-    "folder": "tv",
-    "poster": "/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg",
-    "rating": 5.5,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 318203,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1780933258,
-    "fixed": true
-  },
-  {
-    "title": "Interview with the Vampire / Interview with the Vampire",
-    "title_ar": "Interview with the Vampire",
-    "title_en": "Interview with the Vampire",
-    "slug": "128098-interview-with-the-vampire",
-    "folder": "tv",
-    "poster": "/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg",
-    "rating": 7.5,
-    "year": "2022",
-    "type": "tv",
-    "tmdb_id": 128098,
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "genres": [
-      "دراما",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1780972767,
-    "fixed": true
-  },
-  {
-    "title": "Seven Snipers / Seven Snipers",
-    "title_ar": "Seven Snipers",
-    "title_en": "Seven Snipers",
-    "slug": "1288341-seven-snipers",
-    "folder": "movie",
-    "poster": "/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
-    "rating": 6.1,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1288341,
-    "genre_ids": [
-      28,
-      53
-    ],
-    "genres": [
-      "حركة",
-      "إثارة"
-    ],
-    "timestamp": 1781015913,
-    "fixed": true
-  },
-  {
-    "title": "Break the Silence: The Movie / Break the Silence: The Movie",
-    "title_ar": "Break the Silence: The Movie",
-    "title_en": "Break the Silence: The Movie",
-    "slug": "730647-break-the-silence-the-movie",
-    "folder": "movie",
-    "poster": "/t/p/w500/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg",
-    "rating": 9.0,
-    "year": "2020",
-    "type": "movie",
-    "tmdb_id": 730647,
-    "genre_ids": [
-      10402,
-      99
-    ],
-    "genres": [
-      "موسيقى",
-      "وثائقي"
-    ],
-    "timestamp": 1781015924,
-    "fixed": true
-  },
-  {
-    "title": "Smoking Behind the Supermarket with You / Smoking Behind the Supermarket with You",
-    "title_ar": "Smoking Behind the Supermarket with You",
-    "title_en": "Smoking Behind the Supermarket with You",
-    "slug": "296286-smoking-behind-the-supermarket-with-you",
-    "folder": "tv",
-    "poster": "/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 296286,
-    "genre_ids": [
-      16,
-      18,
-      35
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "دراما",
-      "كوميديا"
-    ],
-    "timestamp": 1781015971,
-    "fixed": true
-  },
-  {
-    "title": "The Loyal Pin / The Loyal Pin",
-    "title_ar": "The Loyal Pin",
-    "title_en": "The Loyal Pin",
-    "slug": "238754-the-loyal-pin",
-    "folder": "tv",
-    "poster": "/t/p/w500/Afop0GW5UNjpVgo1UofebMF2EbQ.jpg",
-    "rating": 9.5,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 238754,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781015981,
-    "fixed": true
-  },
-  {
-    "title": "الأوديسة / The Odyssey",
-    "title_ar": "الأوديسة",
-    "title_en": "The Odyssey",
-    "slug": "1368337-the-odyssey",
-    "folder": "movie",
-    "poster": "/t/p/w500/kVYFP3YKVgJEvKCbRdBMBbXVd3N.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1368337,
-    "genre_ids": [
-      12,
-      28,
-      14
-    ],
-    "genres": [
-      "مغامرة",
-      "حركة",
-      "فانتازيا"
-    ],
-    "timestamp": 1781059995,
-    "fixed": true
-  },
-  {
-    "title": "الياسمين الأول / The First Jasmine",
-    "title_ar": "الياسمين الأول",
-    "title_en": "The First Jasmine",
-    "slug": "292696-the-first-jasmine",
-    "folder": "tv",
-    "poster": "/t/p/w500/ulZWyKjqf0mFDrgo6vbV6Ax81fd.jpg",
-    "rating": 9.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 292696,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781060008,
-    "fixed": true
-  },
-  {
-    "title": "Kolory za: Czer / Colors of Evil: Black",
-    "title_ar": "Kolory za: Czer",
-    "title_en": "Colors of Evil: Black",
-    "slug": "1560681-colors-of-evil-black",
-    "folder": "movie",
-    "poster": "/t/p/w500/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1560681,
-    "genre_ids": [
-      80,
-      53,
-      9648
-    ],
-    "genres": [
-      "إثارة",
-      "غموض",
-      "جريمة",
-      "دراما"
-    ],
-    "timestamp": 1781104977,
-    "fixed": true
-  },
-  {
-    "title": "عاما بعد عام / Every Year After",
-    "title_ar": "عاما بعد عام",
-    "title_en": "Every Year After",
-    "slug": "260592-every-year-after",
-    "folder": "tv",
-    "poster": "/t/p/w500/wSGEa5ob5UL8FoQXRfN34WuTZf7.jpg",
-    "rating": 6.8,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 260592,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781104991,
-    "fixed": true
-  },
-  {
-    "title": "باكي دو: الساموراي الذي لا يقهر / BAKI-DOU: The Invincible Samurai",
-    "title_ar": "باكي دو: الساموراي الذي لا يقهر",
-    "title_en": "BAKI-DOU: The Invincible Samurai",
-    "slug": "300054-baki-dou-the-invincible-samurai",
-    "folder": "tv",
-    "poster": "/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
-    "rating": 8.9,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 300054,
-    "genre_ids": [
-      16,
-      10759
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1781105002,
-    "fixed": true
-  },
-  {
-    "title": "Dragon Striker / Dragon Striker",
-    "title_ar": "Dragon Striker",
-    "title_en": "Dragon Striker",
-    "slug": "204135-dragon-striker",
-    "folder": "tv",
-    "poster": "/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 204135,
-    "genre_ids": [
-      16,
-      10765,
-      10751,
-      10759
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "خيال علمي وفانتازيا",
-      "عائلي",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1781148363,
-    "fixed": true
-  },
-  {
-    "title": "Someday or One Day / Someday or One Day",
-    "title_ar": "Someday or One Day",
-    "title_en": "Someday or One Day",
-    "slug": "95717-someday-or-one-day",
-    "folder": "tv",
-    "poster": "/t/p/w500/i7mnRRCpjEgTeh7zpaIwliQWSDI.jpg",
-    "rating": 9.0,
-    "year": "2019",
-    "type": "tv",
-    "tmdb_id": 95717,
-    "genre_ids": [
-      9648,
-      10765,
-      18
-    ],
-    "genres": [
-      "غموض",
-      "خيال علمي وفانتازيا",
-      "دراما"
-    ],
-    "timestamp": 1781148378,
-    "fixed": true
-  },
-  {
-    "title": "Love, Ngo / Love, Ngo",
-    "title_ar": "Love, Ngo",
-    "title_en": "Love, Ngo",
-    "slug": "1700944-love-ngo",
-    "folder": "movie",
-    "poster": "/t/p/w500/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
-    "rating": 9.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1700944,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1781192865,
-    "fixed": true
-  },
-  {
-    "title": "Viral Hit / Viral Hit",
-    "title_ar": "Viral Hit",
-    "title_en": "Viral Hit",
-    "slug": "312493-viral-hit",
-    "folder": "tv",
-    "poster": "/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 312493,
-    "genre_ids": [
-      18,
-      10759
-    ],
-    "genres": [
-      "دراما",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1781192875,
-    "fixed": true
-  },
-  {
-    "title": "Archives: The Nanyang Mystery / Archives: The Nanyang Mystery",
-    "title_ar": "Archives: The Nanyang Mystery",
-    "title_en": "Archives: The Nanyang Mystery",
-    "slug": "278605-archives-the-nanyang-mystery",
-    "folder": "tv",
-    "poster": "/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 278605,
-    "genre_ids": [
-      10759,
-      9648
-    ],
-    "genres": [
-      "حركة ومغامرة",
-      "غموض"
-    ],
-    "timestamp": 1781233281,
-    "fixed": true
-  },
-  {
-    "title": "Karuppu / Karuppu",
-    "title_ar": "Karuppu",
-    "title_en": "Karuppu",
-    "slug": "1367220-karuppu",
-    "folder": "movie",
-    "poster": "/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-    "rating": 7.6,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1367220,
-    "genre_ids": [
-      28,
-      14
-    ],
-    "genres": [
-      "حركة",
-      "فانتازيا"
-    ],
-    "timestamp": 1781275690,
-    "fixed": true
-  },
-  {
-    "title": "The Evil Lawyer / The Evil Lawyer",
-    "title_ar": "The Evil Lawyer",
-    "title_en": "The Evil Lawyer",
-    "slug": "324115-the-evil-lawyer",
-    "folder": "tv",
-    "poster": "/t/p/w500/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
-    "rating": 8.5,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 324115,
-    "genre_ids": [
-      80,
-      18
-    ],
-    "genres": [
-      "جريمة",
-      "دراما"
-    ],
-    "timestamp": 1781275700,
-    "fixed": true
-  },
-  {
-    "title": "Maternal Instinct / Maternal Instinct",
-    "title_ar": "Maternal Instinct",
-    "title_en": "Maternal Instinct",
-    "slug": "1699155-maternal-instinct",
-    "folder": "movie",
-    "poster": "/t/p/w500/sSY1K2wENhlpAEo2ASrtsezn0YH.jpg",
-    "rating": 6.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1699155,
-    "genre_ids": [
-      99,
-      80
-    ],
-    "genres": [
-      "وثائقي",
-      "جريمة"
-    ],
-    "timestamp": 1781319149,
-    "fixed": true
-  },
-  {
-    "title": "Jade Dynasty / Jade Dynasty",
-    "title_ar": "Jade Dynasty",
-    "title_en": "Jade Dynasty",
-    "slug": "206484-jade-dynasty",
-    "folder": "tv",
-    "poster": "/t/p/w500/kSC8drFvUBrcnHe6bz6zwvrnoeo.jpg",
-    "rating": 8.4,
-    "year": "2022",
-    "type": "tv",
-    "tmdb_id": 206484,
-    "genre_ids": [
-      16,
-      10759
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1781319162,
-    "fixed": true
-  },
-  {
-    "title": "Une Famille de Btards / Une Famille de Btards",
-    "title_ar": "Une Famille de Btards",
-    "title_en": "Une Famille de Btards",
-    "slug": "1501018-une-famille-de-btards",
-    "folder": "movie",
-    "poster": "/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-    "rating": 9.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1501018,
-    "genre_ids": [
-      35,
-      80
-    ],
-    "genres": [
-      "كوميديا",
-      "جريمة"
-    ],
-    "timestamp": 1781358540,
-    "fixed": true
-  },
-  {
-    "title": "The Polygamist / The Polygamist",
-    "title_ar": "The Polygamist",
-    "title_en": "The Polygamist",
-    "slug": "322430-the-polygamist",
-    "folder": "tv",
-    "poster": "/t/p/w500/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
-    "rating": 9.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 322430,
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "genres": [
-      "دراما",
-      "أوبرا صابونية"
-    ],
-    "timestamp": 1781358551,
-    "fixed": true
-  },
-  {
-    "title": "Saccharine / Saccharine",
-    "title_ar": "Saccharine",
-    "title_en": "Saccharine",
-    "slug": "1363387-saccharine",
-    "folder": "movie",
-    "poster": "/t/p/w500/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg",
-    "rating": 6.4,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1363387,
-    "genre_ids": [
-      27
-    ],
-    "genres": [
-      "رعب"
-    ],
-    "timestamp": 1781407762,
-    "fixed": true
-  },
-  {
-    "title": "A Record of a Mortals Journey to Immortality / A Record of a Mortals Journey to Immortality",
-    "title_ar": "A Record of a Mortals Journey to Immortality",
-    "title_en": "A Record of a Mortals Journey to Immortality",
-    "slug": "285479-a-record-of-a-mortals-journey-to-immortality",
-    "folder": "tv",
-    "poster": "/t/p/w500/sZJssMWcejxx2k8i0JPIr4t2tMY.jpg",
-    "rating": 9.4,
-    "year": "2020",
-    "type": "tv",
-    "tmdb_id": 285479,
-    "genre_ids": [
-      16,
-      10759,
-      18
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة",
-      "دراما"
-    ],
-    "timestamp": 1781407773,
-    "fixed": true
-  },
-  {
-    "title": "My Adventures with Superman / My Adventures with Superman",
-    "title_ar": "My Adventures with Superman",
-    "title_en": "My Adventures with Superman",
-    "slug": "125928-my-adventures-with-superman",
-    "folder": "tv",
-    "poster": "/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg",
-    "rating": 8.1,
-    "year": "2023",
-    "type": "tv",
-    "tmdb_id": 125928,
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1781445097,
-    "fixed": true
-  },
-  {
-    "title": "El Secreto del Doctor Grinberg / The Secret of Dr. Grinberg",
-    "title_ar": "El Secreto del Doctor Grinberg",
-    "title_en": "The Secret of Dr. Grinberg",
-    "slug": "640028-the-secret-of-dr-grinberg",
-    "folder": "movie",
-    "poster": "/t/p/w500/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg",
-    "rating": 8.7,
-    "year": "2022",
-    "type": "movie",
-    "tmdb_id": 640028,
-    "genre_ids": [
-      99
-    ],
-    "genres": [
-      "وثائقي"
-    ],
-    "timestamp": 1781494734,
-    "fixed": true
-  },
-  {
-    "title": "UFC Freedom 250: Topuria vs. Gaethje / UFC Freedom 250: Topuria vs. Gaethje",
-    "title_ar": "UFC Freedom 250: Topuria vs. Gaethje",
-    "title_en": "UFC Freedom 250: Topuria vs. Gaethje",
-    "slug": "1648226-ufc-freedom-250-topuria-vs-gaethje",
-    "folder": "movie",
-    "poster": "/t/p/w500/9bkunLw8kI13A7aPIjduoUleQ9b.jpg",
-    "rating": 7.5,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1648226,
-    "genre_ids": [
-      28
-    ],
-    "genres": [
-      "حركة"
-    ],
-    "timestamp": 1781543326,
-    "fixed": true
-  },
-  {
-    "title": "Love Has Fireworks / Love Has Fireworks",
-    "title_ar": "Love Has Fireworks",
-    "title_en": "Love Has Fireworks",
-    "slug": "230311-love-has-fireworks",
-    "folder": "tv",
-    "poster": "/t/p/w500/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 230311,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781543341,
-    "fixed": true
-  },
-  {
-    "title": "2026 FIFA World Cup / 2026 FIFA World Cup",
-    "title_ar": "2026 FIFA World Cup",
-    "title_en": "2026 FIFA World Cup",
-    "slug": "325375-2026-fifa-world-cup",
-    "folder": "tv",
-    "poster": "/t/p/w500/1sFvpOMllrbeQAmdwfzWsiIqkRe.jpg",
-    "rating": 8.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 325375,
-    "genre_ids": [],
-    "genres": [],
-    "timestamp": 1781580904,
-    "fixed": true
-  },
-  {
-    "title": "Pressure / Pressure",
-    "title_ar": "Pressure",
-    "title_en": "Pressure",
-    "slug": "1318413-pressure",
-    "folder": "movie",
-    "poster": "/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
-    "rating": 8.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1318413,
-    "genre_ids": [
-      53,
-      36,
-      10752
-    ],
-    "genres": [
-      "إثارة",
-      "تاريخ",
-      "حرب"
-    ],
-    "timestamp": 1781628115,
-    "fixed": true
-  },
-  {
-    "title": "Never-Ending Summer / Never-Ending Summer",
-    "title_ar": "Never-Ending Summer",
-    "title_en": "Never-Ending Summer",
-    "slug": "288603-never-ending-summer",
-    "folder": "tv",
-    "poster": "/t/p/w500/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 288603,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781628135,
-    "fixed": true
-  },
-  {
-    "title": "Deep Water / Deep Water",
-    "title_ar": "Deep Water",
-    "title_en": "Deep Water",
-    "slug": "1127384-deep-water",
-    "folder": "movie",
-    "poster": "/t/p/w500/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg",
-    "rating": 6.3,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1127384,
-    "genre_ids": [
-      53,
-      27
-    ],
-    "genres": [
-      "إثارة",
-      "رعب"
-    ],
-    "timestamp": 1781667188,
-    "fixed": true
-  },
-  {
-    "title": "Eclipse of Illusion SPThe Miasma War / Eclipse of Illusion SPThe Miasma War",
-    "title_ar": "Eclipse of Illusion SPThe Miasma War",
-    "title_en": "Eclipse of Illusion SPThe Miasma War",
-    "slug": "325583-eclipse-of-illusion-spthe-miasma-war",
-    "folder": "tv",
-    "poster": "/t/p/w500/jewlUepfUnqurE9xdj80RXIR52k.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 325583,
-    "genre_ids": [],
-    "genres": [
-      "رسوم متحركة"
-    ],
-    "timestamp": 1781667196,
-    "fixed": true
-  },
-  {
-    "title": "Your Fault: London / Your Fault: London",
-    "title_ar": "Your Fault: London",
-    "title_en": "Your Fault: London",
-    "slug": "1477317-your-fault-london",
-    "folder": "movie",
-    "poster": "/t/p/w500/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1477317,
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "genres": [
-      "رومنسية",
-      "دراما"
-    ],
-    "timestamp": 1781709346,
-    "fixed": true
-  },
-  {
-    "title": "مزرعة كلاركسون / Clarksons Farm",
-    "title_ar": "مزرعة كلاركسون",
-    "title_en": "Clarksons Farm",
-    "slug": "117648-clarksons-farm",
-    "folder": "tv",
-    "poster": "/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
-    "rating": 8.5,
-    "year": "2021",
-    "type": "tv",
-    "tmdb_id": 117648,
-    "genre_ids": [
-      10764,
-      35
-    ],
-    "genres": [
-      "واقع",
-      "كوميديا"
-    ],
-    "timestamp": 1781709365,
-    "fixed": true
-  },
-  {
-    "title": "Never Change! / Never Change!",
-    "title_ar": "Never Change!",
-    "title_en": "Never Change!",
-    "slug": "1558796-never-change",
-    "folder": "movie",
-    "poster": "/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
-    "rating": 5.5,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1558796,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1781751633,
-    "fixed": true
-  },
-  {
-    "title": "The Season / The Season",
-    "title_ar": "The Season",
-    "title_en": "The Season",
-    "slug": "321623-the-season",
-    "folder": "tv",
-    "poster": "/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 321623,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1781751644,
-    "fixed": true
-  },
-  {
-    "title": "Minions Monsters / Minions Monsters",
-    "title_ar": "Minions Monsters",
-    "title_en": "Minions Monsters",
-    "slug": "1315772-minions-monsters",
-    "folder": "movie",
-    "poster": "/t/p/w500/uYs4IJdDQvnrNvVtYBNmjiHqbmF.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1315772,
-    "genre_ids": [
-      12,
-      16,
-      35,
-      10751,
-      14
-    ],
-    "genres": [
-      "مغامرة",
-      "رسوم متحركة",
-      "كوميديا",
-      "عائلي",
-      "فانتازيا"
-    ],
-    "timestamp": 1781794640,
-    "fixed": true
-  },
-  {
-    "title": "I Will Find You / I Will Find You",
-    "title_ar": "I Will Find You",
-    "title_en": "I Will Find You",
-    "slug": "278178-i-will-find-you",
-    "folder": "tv",
-    "poster": "/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 278178,
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "genres": [
-      "دراما",
-      "غموض",
-      "جريمة"
-    ],
-    "timestamp": 1781794651,
-    "fixed": true
-  },
-  {
-    "title": "Sugar / Sugar",
-    "title_ar": "Sugar",
-    "title_en": "Sugar",
-    "slug": "203744-sugar",
-    "folder": "tv",
-    "poster": "/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
-    "rating": 7.3,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 203744,
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "genres": [
-      "دراما",
-      "غموض"
-    ],
-    "timestamp": 1781840834,
-    "fixed": true
-  },
-  {
-    "title": "Husbands in Action / Husbands in Action",
-    "title_ar": "Husbands in Action",
-    "title_en": "Husbands in Action",
-    "slug": "1451344-husbands-in-action",
-    "folder": "movie",
-    "poster": "/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1451344,
-    "genre_ids": [
-      35,
-      28
-    ],
-    "genres": [
-      "كوميديا",
-      "حركة"
-    ],
-    "timestamp": 1781880843,
-    "fixed": true
-  },
-  {
-    "title": "Oasis / Oasis",
-    "title_ar": "Oasis",
-    "title_en": "Oasis",
-    "slug": "296285-oasis",
-    "folder": "tv",
-    "poster": "/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 296285,
-    "genre_ids": [
-      80,
-      9648,
-      18
-    ],
-    "genres": [
-      "جريمة",
-      "غموض",
-      "دراما"
-    ],
-    "timestamp": 1781880854,
-    "fixed": true
-  },
-  {
-    "title": "Go for It, Nakamura-kun!! / Go for It, Nakamura-kun!!",
-    "title_ar": "Go for It, Nakamura-kun!!",
-    "title_en": "Go for It, Nakamura-kun!!",
-    "slug": "274622-go-for-it-nakamura-kun",
-    "folder": "tv",
-    "poster": "/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
-    "rating": 9.2,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 274622,
-    "genre_ids": [
-      16,
-      35
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا"
-    ],
-    "timestamp": 1781880868,
-    "fixed": true
-  },
-  {
-    "title": "رسائل صوتية لإيزابيل / Voicemails for Isabelle",
-    "title_ar": "رسائل صوتية لإيزابيل",
-    "title_en": "Voicemails for Isabelle",
-    "slug": "614945-voicemails-for-isabelle",
-    "folder": "movie",
-    "poster": "/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 614945,
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "genres": [
-      "رومنسية",
-      "كوميديا"
-    ],
-    "timestamp": 1781923863,
-    "fixed": true
-  },
-  {
-    "title": "السيرك الرقمي المدهش / The Amazing Digital Circus",
-    "title_ar": "السيرك الرقمي المدهش",
-    "title_en": "The Amazing Digital Circus",
-    "slug": "261145-the-amazing-digital-circus",
-    "folder": "tv",
-    "poster": "/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
-    "rating": 8.6,
-    "year": "2023",
-    "type": "tv",
-    "tmdb_id": 261145,
-    "genre_ids": [
-      16,
-      35,
-      18,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا",
-      "دراما",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1781923874,
-    "fixed": true
-  },
-  {
-    "title": "Citizen Vigilante / Citizen Vigilante",
-    "title_ar": "Citizen Vigilante",
-    "title_en": "Citizen Vigilante",
-    "slug": "1413976-citizen-vigilante",
-    "folder": "movie",
-    "poster": "/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1413976,
-    "genre_ids": [
-      53,
-      28,
-      80,
-      9648
-    ],
-    "genres": [
-      "إثارة",
-      "حركة",
-      "جريمة",
-      "غموض"
-    ],
-    "timestamp": 1781963449,
-    "fixed": true
-  },
-  {
-    "title": "لورد الغوامض / Lord of Mysteries",
-    "title_ar": "لورد الغوامض",
-    "title_en": "Lord of Mysteries",
-    "slug": "232230-lord-of-mysteries",
-    "folder": "tv",
-    "poster": "/t/p/w500/7Bi0B7PqKiSmc5C3ASgJIEo7t6Z.jpg",
-    "rating": 8.7,
-    "year": "2025",
-    "type": "tv",
-    "tmdb_id": 232230,
-    "genre_ids": [
-      16,
-      9648,
-      10765,
-      10759
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "غموض",
-      "خيال علمي وفانتازيا",
-      "حركة ومغامرة"
-    ],
-    "timestamp": 1781963491,
-    "fixed": true
-  },
-  {
-    "title": "The Legend of Rosy Clouds / The Legend of Rosy Clouds",
-    "title_ar": "The Legend of Rosy Clouds",
-    "title_en": "The Legend of Rosy Clouds",
-    "slug": "239901-the-legend-of-rosy-clouds",
-    "folder": "tv",
-    "poster": "/t/p/w500/hBM7DoujI89vKD4Epgett80aM8t.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 239901,
-    "genre_ids": [
-      18,
-      35
-    ],
-    "genres": [
-      "دراما",
-      "كوميديا"
-    ],
-    "timestamp": 1782012885,
-    "fixed": true
-  },
-  {
-    "title": "Enola Holmes 3 / Enola Holmes 3",
-    "title_ar": "Enola Holmes 3",
-    "title_en": "Enola Holmes 3",
-    "slug": "1202033-enola-holmes-3",
-    "folder": "movie",
-    "poster": "/t/p/w500/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1202033,
-    "genre_ids": [
-      12,
-      9648,
-      80
-    ],
-    "genres": [
-      "مغامرة",
-      "غموض",
-      "جريمة"
-    ],
-    "timestamp": 1782050304,
-    "fixed": true
-  },
-  {
-    "title": "The Agency / The Agency",
-    "title_ar": "The Agency",
-    "title_en": "The Agency",
-    "slug": "219971-the-agency",
-    "folder": "tv",
-    "poster": "/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
-    "rating": 7.1,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 219971,
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "genres": [
-      "دراما",
-      "غموض"
-    ],
-    "timestamp": 1782050316,
-    "fixed": true
-  },
-  {
-    "title": "Pa Quererte / Pa Quererte",
-    "title_ar": "Pa Quererte",
-    "title_en": "Pa Quererte",
-    "slug": "136228-pa-quererte",
-    "folder": "tv",
-    "poster": "/t/p/w500/yVq9cbegB2Ft9o8VDMiHcc0BnkV.jpg",
-    "rating": 9.0,
-    "year": "2020",
-    "type": "tv",
-    "tmdb_id": 136228,
-    "genre_ids": [
-      18,
-      10766,
-      35,
-      10751
-    ],
-    "genres": [
-      "دراما",
-      "أوبرا صابونية",
-      "كوميديا",
-      "عائلي"
-    ],
-    "timestamp": 1782050329,
-    "fixed": true
-  },
-  {
-    "title": "غريمة من البلاط الملكي / My Royal Nemesis",
-    "title_ar": "غريمة من البلاط الملكي",
-    "title_en": "My Royal Nemesis",
-    "slug": "303143-my-royal-nemesis",
-    "folder": "tv",
-    "poster": "/t/p/w500/cFcdgMci1klBjDRluoakeJ9Q2n3.jpg",
-    "rating": 8.5,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 303143,
-    "genre_ids": [
-      18,
-      35,
-      10765
-    ],
-    "genres": [
-      "دراما",
-      "كوميديا",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1782099560,
-    "fixed": true
-  },
-  {
-    "title": "Leviticus / Leviticus",
-    "title_ar": "Leviticus",
-    "title_en": "Leviticus",
-    "slug": "1564614-leviticus",
-    "folder": "movie",
-    "poster": "/t/p/w500/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
-    "rating": 7.3,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1564614,
-    "genre_ids": [
-      27,
-      10749
-    ],
-    "genres": [
-      "رعب",
-      "رومنسية"
-    ],
-    "timestamp": 1782146790,
-    "fixed": true
-  },
-  {
-    "title": "Un poeta / A Poet",
-    "title_ar": "Un poeta",
-    "title_en": "A Poet",
-    "slug": "1465563-a-poet",
-    "folder": "movie",
-    "poster": "/t/p/w500/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
-    "rating": 8.7,
-    "year": "2025",
-    "type": "movie",
-    "tmdb_id": 1465563,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1782146801,
-    "fixed": true
-  },
-  {
-    "title": "See You at Work Tomorrow! / See You at Work Tomorrow!",
-    "title_ar": "See You at Work Tomorrow!",
-    "title_en": "See You at Work Tomorrow!",
-    "slug": "289763-see-you-at-work-tomorrow",
-    "folder": "tv",
-    "poster": "/t/p/w500/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 289763,
-    "genre_ids": [
-      35,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "دراما"
-    ],
-    "timestamp": 1782146813,
-    "fixed": true
-  },
-  {
-    "title": "Tuner / Tuner",
-    "title_ar": "Tuner",
-    "title_en": "Tuner",
-    "slug": "1340206-tuner",
-    "folder": "movie",
-    "poster": "/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-    "rating": 6.9,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1340206,
-    "genre_ids": [
-      80,
-      53
-    ],
-    "genres": [
-      "جريمة",
-      "إثارة"
-    ],
-    "timestamp": 1782225483,
-    "fixed": true
-  },
-  {
-    "title": "I Love Boosters / I Love Boosters",
-    "title_ar": "I Love Boosters",
-    "title_en": "I Love Boosters",
-    "slug": "1227877-i-love-boosters",
-    "folder": "movie",
-    "poster": "/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-    "rating": 5.7,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1227877,
-    "genre_ids": [
-      35,
-      878,
-      80
-    ],
-    "genres": [
-      "كوميديا",
-      "خيال علمي",
-      "جريمة"
-    ],
-    "timestamp": 1782269129,
-    "fixed": true
-  },
-  {
-    "title": "Power Ballad / Power Ballad",
-    "title_ar": "Power Ballad",
-    "title_en": "Power Ballad",
-    "slug": "1284016-power-ballad",
-    "folder": "movie",
-    "poster": "/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
-    "rating": 7.4,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1284016,
-    "genre_ids": [
-      35,
-      10402,
-      18
-    ],
-    "genres": [
-      "كوميديا",
-      "موسيقى",
-      "دراما"
-    ],
-    "timestamp": 1782310615,
-    "fixed": true
-  },
-  {
-    "title": "In the Hand of Dante / In the Hand of Dante",
-    "title_ar": "In the Hand of Dante",
-    "title_en": "In the Hand of Dante",
-    "slug": "1020047-in-the-hand-of-dante",
-    "folder": "movie",
-    "poster": "/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-    "rating": 4.5,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1020047,
-    "genre_ids": [
-      18,
-      80
-    ],
-    "genres": [
-      "دراما",
-      "جريمة"
-    ],
-    "timestamp": 1782355531,
-    "fixed": true
-  },
-  {
-    "title": "The American Experiment / The American Experiment",
-    "title_ar": "The American Experiment",
-    "title_en": "The American Experiment",
-    "slug": "322427-the-american-experiment",
-    "folder": "tv",
-    "poster": "/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 322427,
-    "genre_ids": [
-      99
-    ],
-    "genres": [
-      "وثائقي"
-    ],
-    "timestamp": 1782355541,
-    "fixed": true
-  },
-  {
-    "title": "سوبرجيرل / Supergirl",
-    "title_ar": "سوبرجيرل",
-    "title_en": "Supergirl",
-    "slug": "1081003-supergirl",
-    "folder": "movie",
-    "poster": "/t/p/w500/qdSh923DHzTh9vWz4pGTbYpkXIy.jpg",
-    "rating": 6.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1081003,
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "genres": [
-      "حركة",
-      "مغامرة",
-      "خيال علمي"
-    ],
-    "timestamp": 1782396945,
-    "fixed": true
-  },
-  {
-    "title": "Slay the Gods / Slay the Gods",
-    "title_ar": "Slay the Gods",
-    "title_en": "Slay the Gods",
-    "slug": "259231-slay-the-gods",
-    "folder": "tv",
-    "poster": "/t/p/w500/yEURCDODP6noWXQsQ97VMVdupfq.jpg",
-    "rating": 8.3,
-    "year": "2024",
-    "type": "tv",
-    "tmdb_id": 259231,
-    "genre_ids": [
-      16,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1782397045,
-    "fixed": true
-  },
-  {
-    "title": "Hungry / HUNGRY",
-    "title_ar": "Hungry",
-    "title_en": "HUNGRY",
-    "slug": "1382832-hungry",
-    "folder": "movie",
-    "poster": "/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
-    "rating": 6.3,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1382832,
-    "genre_ids": [
-      53,
-      27
-    ],
-    "genres": [
-      "إثارة",
-      "رعب"
-    ],
-    "timestamp": 1782442223,
-    "fixed": true
-  },
-  {
-    "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage / From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-    "title_ar": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-    "title_en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-    "slug": "314554-from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
-    "folder": "tv",
-    "poster": "/t/p/w500/t3PY70vsvRWSNewgUQmrSRIY0nW.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 314554,
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1782442237,
-    "fixed": true
-  },
-  {
-    "title": "Little Brother / Little Brother",
-    "title_ar": "Little Brother",
-    "title_en": "Little Brother",
-    "slug": "1397385-little-brother",
-    "folder": "movie",
-    "poster": "/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1397385,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1782483200,
-    "fixed": true
-  },
-  {
-    "title": "رسائل من آخر الفصل / Notes from the Last Row",
-    "title_ar": "رسائل من آخر الفصل",
-    "title_en": "Notes from the Last Row",
-    "slug": "286360-notes-from-the-last-row",
-    "folder": "tv",
-    "poster": "/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 286360,
-    "genre_ids": [
-      9648,
-      18
-    ],
-    "genres": [
-      "غموض",
-      "دراما"
-    ],
-    "timestamp": 1782483243,
-    "fixed": true
-  },
-  {
-    "title": "Drivers Ed / Drivers Ed",
-    "title_ar": "Drivers Ed",
-    "title_en": "Drivers Ed",
-    "slug": "1398050-drivers-ed",
-    "folder": "movie",
-    "poster": "/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
-    "rating": 6.9,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1398050,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1782528085,
-    "fixed": true
-  },
-  {
-    "title": "Agent Kim Reactivated / Agent Kim Reactivated",
-    "title_ar": "Agent Kim Reactivated",
-    "title_en": "Agent Kim Reactivated",
-    "slug": "296206-agent-kim-reactivated",
-    "folder": "tv",
-    "poster": "/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-    "rating": 10.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 296206,
-    "genre_ids": [
-      10759,
-      80,
-      18
-    ],
-    "genres": [
-      "حركة ومغامرة",
-      "جريمة",
-      "دراما"
-    ],
-    "timestamp": 1782528169,
-    "fixed": true
-  },
-  {
-    "title": "موت روبن هود / The Death of Robin Hood",
-    "title_ar": "موت روبن هود",
-    "title_en": "The Death of Robin Hood",
-    "slug": "1284465-the-death-of-robin-hood",
-    "folder": "movie",
-    "poster": "/t/p/w500/zjLp3IBXlcyrppi5vNZyVLaM83O.jpg",
-    "rating": 6.6,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1284465,
-    "genre_ids": [
-      18,
-      53,
-      28
-    ],
-    "genres": [
-      "دراما",
-      "إثارة",
-      "حركة"
-    ],
-    "timestamp": 1782566544,
-    "fixed": true
-  },
-  {
-    "title": "Life, Larry and the Pursuit of Unhappiness / Life, Larry and the Pursuit of Unhappiness",
-    "title_ar": "Life, Larry and the Pursuit of Unhappiness",
-    "title_en": "Life, Larry and the Pursuit of Unhappiness",
-    "slug": "295780-life-larry-and-the-pursuit-of-unhappiness",
-    "folder": "tv",
-    "poster": "/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
-    "rating": 2.7,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 295780,
-    "genre_ids": [
-      35
-    ],
-    "genres": [
-      "كوميديا"
-    ],
-    "timestamp": 1782566555,
-    "fixed": true
-  },
-  {
-    "title": "Strung / Strung",
-    "title_ar": "Strung",
-    "title_en": "Strung",
-    "slug": "880067-strung",
-    "folder": "movie",
-    "poster": "/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-    "rating": 7.7,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 880067,
-    "genre_ids": [
-      9648,
-      53
-    ],
-    "genres": [
-      "غموض",
-      "إثارة"
-    ],
-    "timestamp": 1782615330,
-    "fixed": true
-  },
-  {
-    "title": "Sherlock Daughter / Sherlock Daughter",
-    "title_ar": "Sherlock Daughter",
-    "title_en": "Sherlock Daughter",
-    "slug": "246461-sherlock-daughter",
-    "folder": "tv",
-    "poster": "/t/p/w500/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
-    "rating": 6.6,
-    "year": "2025",
-    "type": "tv",
-    "tmdb_id": 246461,
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "genres": [
-      "دراما",
-      "غموض"
-    ],
-    "timestamp": 1782615342,
-    "fixed": true
-  },
-  {
-    "title": "Finding Emily / Finding Emily",
-    "title_ar": "Finding Emily",
-    "title_en": "Finding Emily",
-    "slug": "1339588-finding-emily",
-    "folder": "movie",
-    "poster": "/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
-    "rating": 6.4,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1339588,
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "genres": [
-      "رومنسية",
-      "كوميديا"
-    ],
-    "timestamp": 1782653185,
-    "fixed": true
-  },
-  {
-    "title": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة / Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
-    "title_ar": "الآنسة كوباياشي وخادمتها التنين: التنينة الوحيدة",
-    "title_en": "Miss Kobayashis Dragon Maid: A lonely dragon wants to be loved",
-    "slug": "1359607-miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved",
-    "folder": "movie",
-    "poster": "/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
-    "rating": 8.8,
-    "year": "2025",
-    "type": "movie",
-    "tmdb_id": 1359607,
-    "genre_ids": [
-      16,
-      35,
-      14
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "كوميديا",
-      "فانتازيا"
-    ],
-    "timestamp": 1782653212,
-    "fixed": true
-  },
-  {
-    "title": "The Eternal Fragrance / The Eternal Fragrance",
-    "title_ar": "The Eternal Fragrance",
-    "title_en": "The Eternal Fragrance",
-    "slug": "251600-the-eternal-fragrance",
-    "folder": "tv",
-    "poster": "/t/p/w500/Cdnzjeu1pZ1ljF3ZtGV0a33Qq3.jpg",
-    "rating": 8.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 251600,
-    "genre_ids": [
-      18
-    ],
-    "genres": [
-      "دراما"
-    ],
-    "timestamp": 1782653240,
-    "fixed": true
-  },
-  {
-    "title": "Werwulf / Werwulf",
-    "title_ar": "Werwulf",
-    "title_en": "Werwulf",
-    "slug": "1421903-werwulf",
-    "folder": "movie",
-    "poster": "/t/p/w500/lLyum4KQyWqGxPRU3KAaGukyytm.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1421903,
-    "genre_ids": [
-      27
-    ],
-    "genres": [
-      "رعب"
-    ],
-    "timestamp": 1782747526,
-    "fixed": true
-  },
-  {
-    "title": "Inseparvel / Inseparable",
-    "title_ar": "Inseparvel",
-    "title_en": "Inseparable",
-    "slug": "291947-inseparable",
-    "folder": "tv",
-    "poster": "/t/p/w500/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg",
-    "rating": 8.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 291947,
-    "genre_ids": [
-      9648
-    ],
-    "genres": [
-      "غموض"
-    ],
-    "timestamp": 1782747570,
-    "fixed": true
-  },
-  {
-    "title": "الشر المميت احتراق / Evil Dead Burn",
-    "title_ar": "الشر المميت احتراق",
-    "title_en": "Evil Dead Burn",
-    "slug": "1212763-evil-dead-burn",
-    "folder": "movie",
-    "poster": "/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1212763,
-    "genre_ids": [
-      27,
-      53
-    ],
-    "genres": [
-      "رعب",
-      "إثارة"
-    ],
-    "timestamp": 1782787803,
-    "fixed": true
-  },
-  {
-    "title": "The World Is Dancing / The World Is Dancing",
-    "title_ar": "The World Is Dancing",
-    "title_en": "The World Is Dancing",
-    "slug": "312020-the-world-is-dancing",
-    "folder": "tv",
-    "poster": "/t/p/w500/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 312020,
-    "genre_ids": [
-      16,
-      18
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "دراما"
-    ],
-    "timestamp": 1782787818,
-    "fixed": true
-  },
-  {
-    "title": "The Get Out / The Get Out",
-    "title_ar": "The Get Out",
-    "title_en": "The Get Out",
-    "slug": "1279493-the-get-out",
-    "folder": "movie",
-    "poster": "/t/p/w500/dKoz9NKjqFkurpSE5BPe3JUvncL.jpg",
-    "rating": 8.5,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1279493,
-    "genre_ids": [
-      28,
-      53
-    ],
-    "genres": [
-      "حركة",
-      "إثارة"
-    ],
-    "timestamp": 1782828512,
-    "fixed": true
-  },
-  {
-    "title": "Adventure Time: Side Quests / Adventure Time: Side Quests",
-    "title_ar": "Adventure Time: Side Quests",
-    "title_en": "Adventure Time: Side Quests",
-    "slug": "256694-adventure-time-side-quests",
-    "folder": "tv",
-    "poster": "/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg",
-    "rating": 7.0,
-    "year": "2026",
-    "type": "tv",
-    "tmdb_id": 256694,
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "genres": [
-      "رسوم متحركة",
-      "حركة ومغامرة",
-      "خيال علمي وفانتازيا"
-    ],
-    "timestamp": 1782828523,
     "fixed": true
   }
 ]
