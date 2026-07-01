@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/links/
+
+Sitemap: https://tomito.xyz/sitemap.xml
