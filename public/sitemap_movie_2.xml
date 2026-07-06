@@ -775,6 +775,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1659389-one-piece-heroines</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/16620-la-bamba</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vajDZ9wjf0GXVFohiZiCxiueRGv.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/400535-sicario-day-of-the-soldado</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -91,6 +91,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/223564-the-100-girlfriends-who-really-really-really-really-really-love-you</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/fOfFcOays1whjqBOEkEznVgyhVi.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/223911-renegade-immortal</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bz9ve9K49EKTifSINNtkjoFMlzv.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39793-call-the-midwife</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
