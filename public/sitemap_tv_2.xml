@@ -649,6 +649,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/243206-pritam-and-pedro</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ajkBXNt5tcNsc0cVpTSZW24oyUg.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2440-highway-to-heaven</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39525-wilfred</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/2cUYCkmHEWsxaNiVTQnFqxyq5Ij.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

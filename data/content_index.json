@@ -53676,5 +53676,31 @@
     ],
     "timestamp": 1783379903,
     "fixed": true
+  },
+  {
+    "title": "Pritam and Pedro / Pritam and Pedro",
+    "title_ar": "Pritam and Pedro",
+    "title_en": "Pritam and Pedro",
+    "slug": "243206-pritam-and-pedro",
+    "folder": "tv",
+    "poster": "/t/p/w500/ajkBXNt5tcNsc0cVpTSZW24oyUg.jpg",
+    "rating": 8.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 243206,
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      35
+    ],
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض",
+      "كوميديا"
+    ],
+    "timestamp": 1783381057,
+    "fixed": true
   }
 ]
