@@ -46,8 +46,9 @@ jobs:
           git config --local user.email "bot0@tomito.xyz"
           git config --local user.name "Tomito Bot0"
           
-          # Add all JSON items inside data/, sitemap files, and poster images
-          git add data/content/ data/content_index.json sitemap*.xml public/t/p/ || true
+                 # Add all JSON items inside data/, sitemap files, and poster images
+          git add data/content/ data/content_index.json public/sitemap*.xml public/t/p/ || true
+
           
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
