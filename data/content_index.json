@@ -53590,5 +53590,47 @@
     ],
     "timestamp": 1783371242,
     "fixed": true
+  },
+  {
+    "title": "Man of War / Man of War",
+    "title_ar": "Man of War",
+    "title_en": "Man of War",
+    "slug": "1705729-man-of-war",
+    "folder": "movie",
+    "poster": "/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "rating": 6.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1705729,
+    "genre_ids": [
+      28
+    ],
+    "genres": [
+      "حركة"
+    ],
+    "timestamp": 1783375878,
+    "fixed": true
+  },
+  {
+    "title": "Love Unseen Beneath the Clear Night Sky / Love Unseen Beneath the Clear Night Sky",
+    "title_ar": "Love Unseen Beneath the Clear Night Sky",
+    "title_en": "Love Unseen Beneath the Clear Night Sky",
+    "slug": "309974-love-unseen-beneath-the-clear-night-sky",
+    "folder": "tv",
+    "poster": "/t/p/w500/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 309974,
+    "genre_ids": [
+      16,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما"
+    ],
+    "timestamp": 1783375894,
+    "fixed": true
   }
 ]

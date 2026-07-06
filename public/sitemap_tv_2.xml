@@ -1918,6 +1918,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/309974-love-unseen-beneath-the-clear-night-sky</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/31014-lincoln</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2cUYCkmHEWsxaNiVTQnFqxyq5Ij.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39651-mario-puzos-the-godfather-the-complete-novel-for-television</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bz9ve9K49EKTifSINNtkjoFMlzv.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
