@@ -53472,5 +53472,77 @@
     "tmdb_id": 57,
     "timestamp": 0,
     "fixed": true
+  },
+  {
+    "title": "Passenger / Passenger",
+    "title_ar": "Passenger",
+    "title_en": "Passenger",
+    "slug": "1368314-passenger",
+    "folder": "movie",
+    "poster": "/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1368314,
+    "genre_ids": [
+      27,
+      53,
+      12
+    ],
+    "genres": [
+      "رعب",
+      "إثارة",
+      "مغامرة"
+    ],
+    "timestamp": 1783363772,
+    "fixed": true
+  },
+  {
+    "title": "بريق الغد / Sparks of Tomorrow",
+    "title_ar": "بريق الغد",
+    "title_en": "Sparks of Tomorrow",
+    "slug": "153217-sparks-of-tomorrow",
+    "folder": "tv",
+    "poster": "/t/p/w500/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 153217,
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783363791,
+    "fixed": true
+  },
+  {
+    "title": "Chainsaw Man - The Compilation / Chainsaw Man - The Compilation",
+    "title_ar": "Chainsaw Man - The Compilation",
+    "title_en": "Chainsaw Man - The Compilation",
+    "slug": "299555-chainsaw-man-the-compilation",
+    "folder": "tv",
+    "poster": "/t/p/w500/a4XqQQ9Hx6O8BsQzkCyLaD43GJY.jpg",
+    "rating": 9.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 299555,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783363801,
+    "fixed": true
   }
 ]
