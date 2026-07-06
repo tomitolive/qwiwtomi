@@ -5,8 +5,9 @@ name: bot0 - Mixed Content Bot
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # Every 12 hours (Midnight and Noon UTC)
+    - cron: '*/30 * * * *'
   workflow_dispatch:
+
 
 permissions:
   contents: write
