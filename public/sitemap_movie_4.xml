@@ -865,6 +865,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/950028-the-invite</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/9502-kung-fu-panda</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>

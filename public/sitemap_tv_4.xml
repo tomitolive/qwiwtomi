@@ -217,6 +217,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/79166-grand-blue-dreaming</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/79242-chilling-adventures-of-sabrina</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
