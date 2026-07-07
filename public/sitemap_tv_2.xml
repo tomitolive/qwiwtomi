@@ -1882,6 +1882,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/302519-victoria-of-many-faces</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/302929-sparkshorts</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8TTa91UMjuH3TUqB7dblTZzxSrj.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/38559-level-e</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tdhOYnrkZhSr6wiLDWOKIozRhEI.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

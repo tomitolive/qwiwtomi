@@ -53906,5 +53906,29 @@
     ],
     "timestamp": 1783459233,
     "fixed": true
+  },
+  {
+    "title": "Victoria of Many Faces / Victoria of Many Faces",
+    "title_ar": "Victoria of Many Faces",
+    "title_en": "Victoria of Many Faces",
+    "slug": "302519-victoria-of-many-faces",
+    "folder": "tv",
+    "poster": "/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 302519,
+    "genre_ids": [
+      16,
+      35,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1783463843,
+    "fixed": true
   }
 ]
