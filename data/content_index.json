@@ -53816,5 +53816,51 @@
     ],
     "timestamp": 1783439005,
     "fixed": true
+  },
+  {
+    "title": "The Ghost in the Shell / The Ghost in the Shell",
+    "title_ar": "The Ghost in the Shell",
+    "title_en": "The Ghost in the Shell",
+    "slug": "1706919-the-ghost-in-the-shell",
+    "folder": "movie",
+    "poster": "/t/p/w500/fN6YULMTWYXz5fmAMrUgMTsNttR.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1706919,
+    "genre_ids": [
+      16,
+      878
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي"
+    ],
+    "timestamp": 1783447004,
+    "fixed": true
+  },
+  {
+    "title": "Young Ladies Dont Play Fighting Games / Young Ladies Dont Play Fighting Games",
+    "title_ar": "Young Ladies Dont Play Fighting Games",
+    "title_en": "Young Ladies Dont Play Fighting Games",
+    "slug": "117120-young-ladies-dont-play-fighting-games",
+    "folder": "tv",
+    "poster": "/t/p/w500/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 117120,
+    "genre_ids": [
+      16,
+      35,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1783447019,
+    "fixed": true
   }
 ]
