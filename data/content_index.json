@@ -53702,5 +53702,27 @@
     ],
     "timestamp": 1783381057,
     "fixed": true
+  },
+  {
+    "title": "You and I Are Polar Opposites / You and I Are Polar Opposites",
+    "title_ar": "You and I Are Polar Opposites",
+    "title_en": "You and I Are Polar Opposites",
+    "slug": "278043-you-and-i-are-polar-opposites",
+    "folder": "tv",
+    "poster": "/t/p/w500/lLjcMT7fwuO5fgswb2drlbFwoTJ.jpg",
+    "rating": 8.4,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278043,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1783392021,
+    "fixed": true
   }
 ]
