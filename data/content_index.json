@@ -53930,5 +53930,29 @@
     ],
     "timestamp": 1783463843,
     "fixed": true
+  },
+  {
+    "title": "I Want to Love You Till Your Dying Day / I Want to Love You Till Your Dying Day",
+    "title_ar": "I Want to Love You Till Your Dying Day",
+    "title_en": "I Want to Love You Till Your Dying Day",
+    "slug": "285574-i-want-to-love-you-till-your-dying-day",
+    "folder": "tv",
+    "poster": "/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 285574,
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783468552,
+    "fixed": true
   }
 ]

@@ -1531,6 +1531,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/285574-i-want-to-love-you-till-your-dying-day</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/285807-nemesis</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/elvCmYxmwVzv2va3rLKponOJOfm.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/38464-blue-exorcist</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8TTa91UMjuH3TUqB7dblTZzxSrj.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
