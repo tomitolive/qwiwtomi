@@ -1441,6 +1441,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/284581-the-insipid-princes-furtive-grab-for-the-throne</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/284683-doktor-murek</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39272-once-upon-a-time</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/u95scYysMZvBoekSLmMNJjeqXcY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

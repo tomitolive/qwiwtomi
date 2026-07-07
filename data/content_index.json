@@ -53766,5 +53766,31 @@
     ],
     "timestamp": 1783419838,
     "fixed": true
+  },
+  {
+    "title": "The Insipid Princes Furtive Grab for the Throne / The Insipid Princes Furtive Grab for the Throne",
+    "title_ar": "The Insipid Princes Furtive Grab for the Throne",
+    "title_en": "The Insipid Princes Furtive Grab for the Throne",
+    "slug": "284581-the-insipid-princes-furtive-grab-for-the-throne",
+    "folder": "tv",
+    "poster": "/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 284581,
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1783428202,
+    "fixed": true
   }
 ]
