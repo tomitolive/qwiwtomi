@@ -928,6 +928,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/254420-elle</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/6bzrV6pbnYtbdjBCErT8rEuGDwO.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/255343-los-tres-chiflados</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/tdhOYnrkZhSr6wiLDWOKIozRhEI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/38693-ninjago-masters-of-spinjitzu</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/beKgqwruOGmVAvRwRvfuOcXwl2Z.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

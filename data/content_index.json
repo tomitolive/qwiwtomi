@@ -53884,5 +53884,27 @@
     ],
     "timestamp": 1783453875,
     "fixed": true
+  },
+  {
+    "title": "إيل / Elle",
+    "title_ar": "إيل",
+    "title_en": "Elle",
+    "slug": "254420-elle",
+    "folder": "tv",
+    "poster": "/t/p/w500/6bzrV6pbnYtbdjBCErT8rEuGDwO.jpg",
+    "rating": 8.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 254420,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1783459233,
+    "fixed": true
   }
 ]
