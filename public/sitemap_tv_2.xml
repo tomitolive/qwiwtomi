@@ -1549,6 +1549,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/287009-doctor-on-the-edge</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5tirIhH3VIoIyp0wTR9cf6CbbDv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2875-macgyver</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/beKgqwruOGmVAvRwRvfuOcXwl2Z.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/38974-jessie</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tspQe0FuiaUj0U1R1norNbiYTe4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

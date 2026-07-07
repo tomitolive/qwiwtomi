@@ -53862,5 +53862,27 @@
     ],
     "timestamp": 1783447019,
     "fixed": true
+  },
+  {
+    "title": "طبيب على حافة الهاوية / Doctor on the Edge",
+    "title_ar": "طبيب على حافة الهاوية",
+    "title_en": "Doctor on the Edge",
+    "slug": "287009-doctor-on-the-edge",
+    "folder": "tv",
+    "poster": "/t/p/w500/5tirIhH3VIoIyp0wTR9cf6CbbDv.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 287009,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1783453875,
+    "fixed": true
   }
 ]
