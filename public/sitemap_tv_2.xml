@@ -901,6 +901,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/253960-human-vapor</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/254002-critical-role</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/u95scYysMZvBoekSLmMNJjeqXcY.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/39276-unforgettable</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

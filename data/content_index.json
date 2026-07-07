@@ -53744,5 +53744,27 @@
     ],
     "timestamp": 1783406604,
     "fixed": true
+  },
+  {
+    "title": "رجل البخار / Human Vapor",
+    "title_ar": "رجل البخار",
+    "title_en": "Human Vapor",
+    "slug": "253960-human-vapor",
+    "folder": "tv",
+    "poster": "/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 253960,
+    "genre_ids": [
+      10765,
+      80
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "جريمة"
+    ],
+    "timestamp": 1783419838,
+    "fixed": true
   }
 ]
