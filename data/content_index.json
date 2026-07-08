@@ -53976,5 +53976,29 @@
     ],
     "timestamp": 1783476844,
     "fixed": true
+  },
+  {
+    "title": "THE GHOST IN THE SHELL / THE GHOST IN THE SHELL",
+    "title_ar": "THE GHOST IN THE SHELL",
+    "title_en": "THE GHOST IN THE SHELL",
+    "slug": "255358-the-ghost-in-the-shell",
+    "folder": "tv",
+    "poster": "/t/p/w500/xTipilnMw5XWWjW4YaDzG2AMrQk.jpg",
+    "rating": 6.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 255358,
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1783489018,
+    "fixed": true
   }
 ]

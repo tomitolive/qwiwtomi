@@ -946,6 +946,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/255358-the-ghost-in-the-shell</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xTipilnMw5XWWjW4YaDzG2AMrQk.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/255868-dream-productions</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/37971-the-old-fox</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/cHkQqbrVzcwuvLwStBpERJnxx4g.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
