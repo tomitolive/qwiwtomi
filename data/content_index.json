@@ -54226,5 +54226,29 @@
     ],
     "timestamp": 1783540965,
     "fixed": true
+  },
+  {
+    "title": "Tomb Raider King / Tomb Raider King",
+    "title_ar": "Tomb Raider King",
+    "title_en": "Tomb Raider King",
+    "slug": "297826-tomb-raider-king",
+    "folder": "tv",
+    "poster": "/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 297826,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783546889,
+    "fixed": true
   }
 ]
