@@ -54250,5 +54250,31 @@
     ],
     "timestamp": 1783546889,
     "fixed": true
+  },
+  {
+    "title": "From Old Country Bumpkin to Master Swordsman / From Old Country Bumpkin to Master Swordsman",
+    "title_ar": "From Old Country Bumpkin to Master Swordsman",
+    "title_en": "From Old Country Bumpkin to Master Swordsman",
+    "slug": "260823-from-old-country-bumpkin-to-master-swordsman",
+    "folder": "tv",
+    "poster": "/t/p/w500/53I6iDGxdHDBqcLb3yQsu9SGoD3.jpg",
+    "rating": 7.2,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 260823,
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا",
+      "كوميديا"
+    ],
+    "timestamp": 1783551718,
+    "fixed": true
   }
 ]
