@@ -54104,5 +54104,31 @@
     ],
     "timestamp": 1783513119,
     "fixed": true
+  },
+  {
+    "title": "يوجو سنكاي: ملحمة تانيا / Saga of Tanya the Evil",
+    "title_ar": "يوجو سنكاي: ملحمة تانيا",
+    "title_en": "Saga of Tanya the Evil",
+    "slug": "69346-saga-of-tanya-the-evil",
+    "folder": "tv",
+    "poster": "/t/p/w500/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg",
+    "rating": 8.2,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 69346,
+    "genre_ids": [
+      16,
+      18,
+      10765,
+      10768
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حرب وسياسة"
+    ],
+    "timestamp": 1783522570,
+    "fixed": true
   }
 ]

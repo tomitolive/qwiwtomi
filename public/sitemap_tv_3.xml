@@ -2458,6 +2458,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/69346-saga-of-tanya-the-evil</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/69478-the-handmaids-tale</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8F7Lpm8lWnhhG7tcq06jkGAdLZX.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/72750-killing-eve</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
