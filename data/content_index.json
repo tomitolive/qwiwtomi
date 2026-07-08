@@ -54000,5 +54000,25 @@
     ],
     "timestamp": 1783489018,
     "fixed": true
+  },
+  {
+    "title": "Trying / Trying",
+    "title_ar": "Trying",
+    "title_en": "Trying",
+    "slug": "98177-trying",
+    "folder": "tv",
+    "poster": "/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg",
+    "rating": 7.6,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 98177,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1783498858,
+    "fixed": true
   }
 ]
