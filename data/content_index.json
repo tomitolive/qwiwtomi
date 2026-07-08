@@ -54130,5 +54130,29 @@
     ],
     "timestamp": 1783522570,
     "fixed": true
+  },
+  {
+    "title": "Clevatess / Clevatess",
+    "title_ar": "Clevatess",
+    "title_en": "Clevatess",
+    "slug": "258348-clevatess",
+    "folder": "tv",
+    "poster": "/t/p/w500/avajalKjBP5QjwIEb5Xs8QXg1K.jpg",
+    "rating": 8.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 258348,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783528128,
+    "fixed": true
   }
 ]
