@@ -54062,5 +54062,47 @@
     ],
     "timestamp": 1783507028,
     "fixed": true
+  },
+  {
+    "title": "Marave / Marave",
+    "title_ar": "Marave",
+    "title_en": "Marave",
+    "slug": "1566481-marave",
+    "folder": "movie",
+    "poster": "/t/p/w500/tv1eO5lCZ8mIEqAuDmuHI4LkCzV.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1566481,
+    "genre_ids": [
+      35,
+      28
+    ],
+    "genres": [
+      "كوميديا",
+      "حركة"
+    ],
+    "timestamp": 1783513108,
+    "fixed": true
+  },
+  {
+    "title": "No tengo miedo / Im Not Afraid",
+    "title_ar": "No tengo miedo",
+    "title_en": "Im Not Afraid",
+    "slug": "290232-im-not-afraid",
+    "folder": "tv",
+    "poster": "/t/p/w500/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 290232,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1783513119,
+    "fixed": true
   }
 ]

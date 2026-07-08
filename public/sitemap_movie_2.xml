@@ -523,6 +523,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1566481-marave</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/tv1eO5lCZ8mIEqAuDmuHI4LkCzV.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1572073-the-deadly-little-mermaid</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/otaOgK1RQVRAU7hwsbBMQhNCQ0F.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/398-capote</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tzsxkZMnJvozpHQEl1KzO8KwWu.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
