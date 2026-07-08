@@ -1621,6 +1621,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/288912-better-late-than-single</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/x2tCHrVmmxj4GXxZC7McsDMfNJr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/289147-the-ferry-man-10th-anniversary</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/zftx59xeJOJtsmRdwqo4rn6zNpj.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3797-life</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

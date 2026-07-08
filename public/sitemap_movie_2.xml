@@ -910,6 +910,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1710008-nothing-to-lose</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/9FsSrhV4OM8dyyGR9dLF6auddW2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1715-the-cider-house-rules</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/tzsxkZMnJvozpHQEl1KzO8KwWu.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/399106-piper</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5fu2d809jepLwEpES7wggiECLoQ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
