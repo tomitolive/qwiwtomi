@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/movie/1412598-killer-whale</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/oordNvBXs5VMp3YbzuwRmc7V2cR.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1413976-citizen-vigilante</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pySivdR845Hom4u4T2WNkJxe6Ad.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/396535-train-to-busan</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/otaOgK1RQVRAU7hwsbBMQhNCQ0F.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

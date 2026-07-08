@@ -54178,5 +54178,53 @@
     ],
     "timestamp": 1783533745,
     "fixed": true
+  },
+  {
+    "title": "كثيب: القسم الثالث / Dune: Part Three",
+    "title_ar": "كثيب: القسم الثالث",
+    "title_en": "Dune: Part Three",
+    "slug": "1170608-dune-part-three",
+    "folder": "movie",
+    "poster": "/t/p/w500/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1170608,
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "خيال علمي"
+    ],
+    "timestamp": 1783540953,
+    "fixed": true
+  },
+  {
+    "title": "Chainsmoker Cat / Chainsmoker Cat",
+    "title_ar": "Chainsmoker Cat",
+    "title_en": "Chainsmoker Cat",
+    "slug": "312949-chainsmoker-cat",
+    "folder": "tv",
+    "poster": "/t/p/w500/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+    "rating": 8.4,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 312949,
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783540965,
+    "fixed": true
   }
 ]

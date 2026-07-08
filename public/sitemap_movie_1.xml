@@ -1297,6 +1297,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1170608-dune-part-three</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1171145-crime-101</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/wFNebQtCnYhB5WMN7MXRJcnHEB1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1412598-killer-whale</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/oordNvBXs5VMp3YbzuwRmc7V2cR.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
