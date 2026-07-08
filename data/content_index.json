@@ -54154,5 +54154,29 @@
     ],
     "timestamp": 1783528128,
     "fixed": true
+  },
+  {
+    "title": "The Prosecutors Proposal / The Prosecutors Proposal",
+    "title_ar": "The Prosecutors Proposal",
+    "title_en": "The Prosecutors Proposal",
+    "slug": "322055-the-prosecutors-proposal",
+    "folder": "tv",
+    "poster": "/t/p/w500/fxEfx2Tt98l4oW2KI0GU3Q0qgnB.jpg",
+    "rating": 4.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 322055,
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1783533745,
+    "fixed": true
   }
 ]
