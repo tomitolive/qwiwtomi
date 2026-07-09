@@ -54322,5 +54322,49 @@
     ],
     "timestamp": 1783575303,
     "fixed": true
+  },
+  {
+    "title": "Peddi / Peddi",
+    "title_ar": "Peddi",
+    "title_en": "Peddi",
+    "slug": "1057265-peddi",
+    "folder": "movie",
+    "poster": "/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1057265,
+    "genre_ids": [
+      28,
+      18
+    ],
+    "genres": [
+      "حركة",
+      "دراما"
+    ],
+    "timestamp": 1783589743,
+    "fixed": true
+  },
+  {
+    "title": "Little House on the Prairie / Little House on the Prairie",
+    "title_ar": "Little House on the Prairie",
+    "title_en": "Little House on the Prairie",
+    "slug": "283304-little-house-on-the-prairie",
+    "folder": "tv",
+    "poster": "/t/p/w500/wdYVZcm59DHYtwdCztruNYmJzX9.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 283304,
+    "genre_ids": [
+      18,
+      37
+    ],
+    "genres": [
+      "دراما",
+      "غربي"
+    ],
+    "timestamp": 1783589755,
+    "fixed": true
   }
 ]

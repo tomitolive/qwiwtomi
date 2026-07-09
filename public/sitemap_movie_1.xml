@@ -523,6 +523,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1057265-peddi</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/105864-the-good-dinosaur</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/leoZnShYBiq1yUwQnA7MiUNEJJA.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/140825-the-deadly-trap</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/wFNebQtCnYhB5WMN7MXRJcnHEB1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
