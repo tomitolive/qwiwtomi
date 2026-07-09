@@ -54300,5 +54300,27 @@
     ],
     "timestamp": 1783559396,
     "fixed": true
+  },
+  {
+    "title": "Thunder 3 / Thunder 3",
+    "title_ar": "Thunder 3",
+    "title_en": "Thunder 3",
+    "slug": "326119-thunder-3",
+    "folder": "tv",
+    "poster": "/t/p/w500/EwgegTmDUuf71tjZCswhJGo79F.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 326119,
+    "genre_ids": [
+      16,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783575303,
+    "fixed": true
   }
 ]
