@@ -54366,5 +54366,25 @@
     ],
     "timestamp": 1783589755,
     "fixed": true
+  },
+  {
+    "title": "زهور القوة / Blossoms of Power",
+    "title_ar": "زهور القوة",
+    "title_en": "Blossoms of Power",
+    "slug": "286506-blossoms-of-power",
+    "folder": "tv",
+    "poster": "/t/p/w500/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 286506,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1783611855,
+    "fixed": true
   }
 ]
