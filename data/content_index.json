@@ -54494,5 +54494,25 @@
     ],
     "timestamp": 1783689947,
     "fixed": true
+  },
+  {
+    "title": "4 / Dhamaal 4",
+    "title_ar": "4",
+    "title_en": "Dhamaal 4",
+    "slug": "1303331-dhamaal-4",
+    "folder": "movie",
+    "poster": "/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1303331,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1783698763,
+    "fixed": true
   }
 ]
