@@ -54386,5 +54386,25 @@
     ],
     "timestamp": 1783611855,
     "fixed": true
+  },
+  {
+    "title": "The Five Star Weekend / The Five Star Weekend",
+    "title_ar": "The Five Star Weekend",
+    "title_en": "The Five Star Weekend",
+    "slug": "283151-the-five-star-weekend",
+    "folder": "tv",
+    "poster": "/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+    "rating": 2.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 283151,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1783641698,
+    "fixed": true
   }
 ]
