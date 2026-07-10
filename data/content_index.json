@@ -54472,5 +54472,27 @@
     ],
     "timestamp": 1783682715,
     "fixed": true
+  },
+  {
+    "title": "Boulevard / Boulevard",
+    "title_ar": "Boulevard",
+    "title_en": "Boulevard",
+    "slug": "1595852-boulevard",
+    "folder": "movie",
+    "poster": "/t/p/w500/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg",
+    "rating": 4.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1595852,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1783689947,
+    "fixed": true
   }
 ]
