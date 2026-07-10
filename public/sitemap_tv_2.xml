@@ -1333,6 +1333,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/276567-tv-276567</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/bwiGIDkZ6K8vbRcskAEcK1iWIC0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2774-the-untouchables</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/37101-star-driver</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/xqdgSLJwEdvO7T16zVfmqezYGDY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
