@@ -54406,5 +54406,29 @@
     ],
     "timestamp": 1783641698,
     "fixed": true
+  },
+  {
+    "title": "MEBIUS DUST / MEBIUS DUST",
+    "title_ar": "MEBIUS DUST",
+    "title_en": "MEBIUS DUST",
+    "slug": "98865-mebius-dust",
+    "folder": "tv",
+    "poster": "/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 98865,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783657976,
+    "fixed": true
   }
 ]
