@@ -2116,6 +2116,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1295722-les-k-dor</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xZODXZeys9ARnXe2DekYFoUx385.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1297842-goat</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1406657-scarlet</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/leoZnShYBiq1yUwQnA7MiUNEJJA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

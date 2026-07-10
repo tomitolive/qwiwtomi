@@ -54430,5 +54430,25 @@
     ],
     "timestamp": 1783657976,
     "fixed": true
+  },
+  {
+    "title": "Les K dOr / Les K dOr",
+    "title_ar": "Les K dOr",
+    "title_en": "Les K dOr",
+    "slug": "1295722-les-k-dor",
+    "folder": "movie",
+    "poster": "/t/p/w500/xZODXZeys9ARnXe2DekYFoUx385.jpg",
+    "rating": 5.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1295722,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1783671536,
+    "fixed": true
   }
 ]
