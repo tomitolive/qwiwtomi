@@ -379,6 +379,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1484913-ikka</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/y35NPzuvfIbPQyhwnV4dBTqS76h.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1495-kingdom-of-heaven</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/393-kill-bill-vol-2</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ddTV49uQTyTN3CYxSFgoppYDuME.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

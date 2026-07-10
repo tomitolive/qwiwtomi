@@ -54450,5 +54450,27 @@
     ],
     "timestamp": 1783671536,
     "fixed": true
+  },
+  {
+    "title": "Ikka / Ikka",
+    "title_ar": "Ikka",
+    "title_en": "Ikka",
+    "slug": "1484913-ikka",
+    "folder": "movie",
+    "poster": "/t/p/w500/y35NPzuvfIbPQyhwnV4dBTqS76h.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1484913,
+    "genre_ids": [
+      18,
+      53
+    ],
+    "genres": [
+      "دراما",
+      "إثارة"
+    ],
+    "timestamp": 1783682715,
+    "fixed": true
   }
 ]
