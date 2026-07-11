@@ -54622,5 +54622,31 @@
     ],
     "timestamp": 1783787097,
     "fixed": true
+  },
+  {
+    "title": "BLACK TORCH / BLACK TORCH",
+    "title_ar": "BLACK TORCH",
+    "title_en": "BLACK TORCH",
+    "slug": "285993-black-torch",
+    "folder": "tv",
+    "poster": "/t/p/w500/qxPsSYAiNhFLETmFJZ0s5HWyYhr.jpg",
+    "rating": 7.7,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 285993,
+    "genre_ids": [
+      16,
+      9648,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783794627,
+    "fixed": true
   }
 ]
