@@ -2476,6 +2476,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/326445-peach-and-me</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/mPXlYxZyAwggX2E5qMgOQpcB8CX.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/32692-blue-bloods</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/35790-cardcaptor-sakura</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/eFV0I3w2trXNVIEXMvZpJqYJCd4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
