@@ -54596,5 +54596,31 @@
     ],
     "timestamp": 1783772092,
     "fixed": true
+  },
+  {
+    "title": "The Apartment Job / The Apartment Job",
+    "title_ar": "The Apartment Job",
+    "title_en": "The Apartment Job",
+    "slug": "300727-the-apartment-job",
+    "folder": "tv",
+    "poster": "/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 300727,
+    "genre_ids": [
+      80,
+      9648,
+      35,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "غموض",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1783787097,
+    "fixed": true
   }
 ]

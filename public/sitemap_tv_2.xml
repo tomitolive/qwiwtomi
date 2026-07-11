@@ -1972,6 +1972,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/300727-the-apartment-job</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/300847-tv-300847</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/367-klovn</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/x0HKUsKAWzHwzJZxXhTSx4LEydk.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
