@@ -54534,5 +54534,25 @@
     ],
     "timestamp": 1783711339,
     "fixed": true
+  },
+  {
+    "title": "Shipwrecked: Nightmare at Sea / Shipwrecked: Nightmare at Sea",
+    "title_ar": "Shipwrecked: Nightmare at Sea",
+    "title_en": "Shipwrecked: Nightmare at Sea",
+    "slug": "1715492-shipwrecked-nightmare-at-sea",
+    "folder": "movie",
+    "poster": "/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1715492,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1783728348,
+    "fixed": true
   }
 ]
