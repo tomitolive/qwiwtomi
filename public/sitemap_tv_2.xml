@@ -1828,6 +1828,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/295558-key-to-the-phoenix-heart</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/295778-scrubs</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/x0HKUsKAWzHwzJZxXhTSx4LEydk.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/36994-workaholics</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

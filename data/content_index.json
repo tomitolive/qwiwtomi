@@ -54576,5 +54576,25 @@
     ],
     "timestamp": 1783741909,
     "fixed": true
+  },
+  {
+    "title": "Key to the Phoenix Heart / Key to the Phoenix Heart",
+    "title_ar": "Key to the Phoenix Heart",
+    "title_en": "Key to the Phoenix Heart",
+    "slug": "295558-key-to-the-phoenix-heart",
+    "folder": "tv",
+    "poster": "/t/p/w500/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 295558,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1783772092,
+    "fixed": true
   }
 ]
