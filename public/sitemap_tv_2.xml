@@ -2197,6 +2197,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/312266-hanaori-san-still-wants-to-fight-in-the-next-life</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/MtHcMTVjuIPta3pQJtCc9LqYdT.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/312493-viral-hit</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/3HlMztiMrTnhU1u807MGUizEXxH.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/35610-inuyasha</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
