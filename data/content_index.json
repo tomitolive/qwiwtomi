@@ -54718,5 +54718,27 @@
     ],
     "timestamp": 1783834956,
     "fixed": true
+  },
+  {
+    "title": "The Westies / The Westies",
+    "title_ar": "The Westies",
+    "title_en": "The Westies",
+    "slug": "286709-the-westies",
+    "folder": "tv",
+    "poster": "/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 286709,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1783843825,
+    "fixed": true
   }
 ]
