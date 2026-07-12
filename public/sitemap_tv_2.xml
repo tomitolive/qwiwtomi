@@ -1630,6 +1630,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/286345-though-i-am-an-inept-villainess</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/sdWNqtcPJpudPItPG3zBdyGyzTH.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/286360-notes-from-the-last-row</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6I3VCk8GCscaPM3aKOTJlzIaqhc.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/35007-de-fabeltjeskrant</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

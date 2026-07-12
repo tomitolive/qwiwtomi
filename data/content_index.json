@@ -54740,5 +54740,29 @@
     ],
     "timestamp": 1783843825,
     "fixed": true
+  },
+  {
+    "title": "Though I Am an Inept Villainess / Though I Am an Inept Villainess",
+    "title_ar": "Though I Am an Inept Villainess",
+    "title_en": "Though I Am an Inept Villainess",
+    "slug": "286345-though-i-am-an-inept-villainess",
+    "folder": "tv",
+    "poster": "/t/p/w500/sdWNqtcPJpudPItPG3zBdyGyzTH.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 286345,
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783875355,
+    "fixed": true
   }
 ]
