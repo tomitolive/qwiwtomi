@@ -54670,5 +54670,29 @@
     ],
     "timestamp": 1783809840,
     "fixed": true
+  },
+  {
+    "title": "هيمنة عثة كتب / Ascendance of a Bookworm",
+    "title_ar": "هيمنة عثة كتب",
+    "title_en": "Ascendance of a Bookworm",
+    "slug": "91768-ascendance-of-a-bookworm",
+    "folder": "tv",
+    "poster": "/t/p/w500/nDHyBwYBoBkHMj4oWKEW9H1LKVQ.jpg",
+    "rating": 8.1,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 91768,
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1783822493,
+    "fixed": true
   }
 ]
