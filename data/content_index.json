@@ -54764,5 +54764,25 @@
     ],
     "timestamp": 1783875355,
     "fixed": true
+  },
+  {
+    "title": "UFC 329: McGregor vs. Holloway 2 / UFC 329: McGregor vs. Holloway 2",
+    "title_ar": "UFC 329: McGregor vs. Holloway 2",
+    "title_en": "UFC 329: McGregor vs. Holloway 2",
+    "slug": "1697636-ufc-329-mcgregor-vs-holloway-2",
+    "folder": "movie",
+    "poster": "/t/p/w500/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1697636,
+    "genre_ids": [
+      28
+    ],
+    "genres": [
+      "حركة"
+    ],
+    "timestamp": 1783883081,
+    "fixed": true
   }
 ]

@@ -937,6 +937,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1697636-ufc-329-mcgregor-vs-holloway-2</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yXzs6LE5dZ8ZbWMlCPZIY7fkHXR.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1699155-maternal-instinct</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8qZIrVzFJkhX9hErfoWrMvdor1F.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/388776-full-moon</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/zcMnWzUoc2Xn0JO6F4HwjRt95zX.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
