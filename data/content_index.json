@@ -54808,5 +54808,27 @@
     ],
     "timestamp": 1783930694,
     "fixed": true
+  },
+  {
+    "title": "Lucky / Lucky",
+    "title_ar": "Lucky",
+    "title_en": "Lucky",
+    "slug": "278624-lucky",
+    "folder": "tv",
+    "poster": "/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 278624,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1783952667,
+    "fixed": true
   }
 ]
