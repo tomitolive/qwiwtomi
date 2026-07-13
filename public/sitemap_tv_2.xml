@@ -2521,6 +2521,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/325622-murder-101</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/326119-thunder-3</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4s9hiyQvTaMe1bK91HRCTgDTAoF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/34766-mad-king-granzrt</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/lz9RyzVytKWmB06i4MYt7Ee3aqr.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

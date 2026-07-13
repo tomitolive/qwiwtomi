@@ -54896,5 +54896,27 @@
     ],
     "timestamp": 1783968147,
     "fixed": true
+  },
+  {
+    "title": "Murder 101 / Murder 101",
+    "title_ar": "Murder 101",
+    "title_en": "Murder 101",
+    "slug": "325622-murder-101",
+    "folder": "tv",
+    "poster": "/t/p/w500/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325622,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1783973476,
+    "fixed": true
   }
 ]
