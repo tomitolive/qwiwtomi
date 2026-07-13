@@ -793,6 +793,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1633263-wonderful-nightmare</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5plgPtzwuIHUKMN044igzRkbd90.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1634301-vanaveera</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/38757-tangled</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8qZIrVzFJkhX9hErfoWrMvdor1F.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

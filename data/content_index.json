@@ -54784,5 +54784,29 @@
     ],
     "timestamp": 1783883081,
     "fixed": true
+  },
+  {
+    "title": "Wonderful Nightmare / Wonderful Nightmare",
+    "title_ar": "Wonderful Nightmare",
+    "title_en": "Wonderful Nightmare",
+    "slug": "1633263-wonderful-nightmare",
+    "folder": "movie",
+    "poster": "/t/p/w500/5plgPtzwuIHUKMN044igzRkbd90.jpg",
+    "rating": 8.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1633263,
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1783930694,
+    "fixed": true
   }
 ]
