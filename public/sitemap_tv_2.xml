@@ -1891,6 +1891,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/296003-xiao-fang</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/296206-agent-kim-reactivated</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/lz9RyzVytKWmB06i4MYt7Ee3aqr.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/34891-jake-and-the-never-land-pirates</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/uet64gptwR7iDGc0laIRmYNtNH0.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
