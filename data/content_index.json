@@ -54918,5 +54918,29 @@
     ],
     "timestamp": 1783973476,
     "fixed": true
+  },
+  {
+    "title": "Golden Kamuy -The Abashiri Prison Raid- / Golden Kamuy -The Abashiri Prison Raid-",
+    "title_ar": "Golden Kamuy -The Abashiri Prison Raid-",
+    "title_en": "Golden Kamuy -The Abashiri Prison Raid-",
+    "slug": "1397201-golden-kamuy-the-abashiri-prison-raid-",
+    "folder": "movie",
+    "poster": "/t/p/w500/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg",
+    "rating": 8.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1397201,
+    "genre_ids": [
+      28,
+      12,
+      36
+    ],
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "تاريخ"
+    ],
+    "timestamp": 1783985289,
+    "fixed": true
   }
 ]
