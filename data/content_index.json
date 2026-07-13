@@ -54830,5 +54830,49 @@
     ],
     "timestamp": 1783952667,
     "fixed": true
+  },
+  {
+    "title": "Digger / Digger",
+    "title_ar": "Digger",
+    "title_en": "Digger",
+    "slug": "1248832-digger",
+    "folder": "movie",
+    "poster": "/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1248832,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "حرب"
+    ],
+    "timestamp": 1783961794,
+    "fixed": true
+  },
+  {
+    "title": "Dream to You / Dream to You",
+    "title_ar": "Dream to You",
+    "title_en": "Dream to You",
+    "slug": "301412-dream-to-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/6Xo53LDGp8QYc8gqEFyoAvnwciX.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 301412,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1783961815,
+    "fixed": true
   }
 ]
