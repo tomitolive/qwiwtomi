@@ -451,6 +451,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1491920-kung-fu-soccer</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1495-kingdom-of-heaven</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kH2acwtiiwHsgARlFM653miKOvn.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/381284-hidden-figures</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

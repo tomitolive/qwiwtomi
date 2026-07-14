@@ -55050,5 +55050,29 @@
     ],
     "timestamp": 1784044647,
     "fixed": true
+  },
+  {
+    "title": "Kung Fu Soccer / Kung Fu Soccer",
+    "title_ar": "Kung Fu Soccer",
+    "title_en": "Kung Fu Soccer",
+    "slug": "1491920-kung-fu-soccer",
+    "folder": "movie",
+    "poster": "/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+    "rating": 5.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1491920,
+    "genre_ids": [
+      18,
+      35,
+      28
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "حركة"
+    ],
+    "timestamp": 1784049163,
+    "fixed": true
   }
 ]
