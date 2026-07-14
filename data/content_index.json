@@ -55074,5 +55074,27 @@
     ],
     "timestamp": 1784049163,
     "fixed": true
+  },
+  {
+    "title": "Crystal Lake / Crystal Lake",
+    "title_ar": "Crystal Lake",
+    "title_en": "Crystal Lake",
+    "slug": "213562-crystal-lake",
+    "folder": "tv",
+    "poster": "/t/p/w500/3qhjI1l576hR3GeEmR9FcYcH4p9.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 213562,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1784059714,
+    "fixed": true
   }
 ]
