@@ -55096,5 +55096,25 @@
     ],
     "timestamp": 1784059714,
     "fixed": true
+  },
+  {
+    "title": "الظهير الرباعي / Quarterback",
+    "title_ar": "الظهير الرباعي",
+    "title_en": "Quarterback",
+    "slug": "220998-quarterback",
+    "folder": "tv",
+    "poster": "/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+    "rating": 7.9,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 220998,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784064640,
+    "fixed": true
   }
 ]

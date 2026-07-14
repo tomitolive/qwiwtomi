@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/tv/34524-teen-wolf</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/34587-the-valley-of-the-wolves</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/jWL9xcUKS9emn2vOdR21Ci3WI6S.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/69541-harlots</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
