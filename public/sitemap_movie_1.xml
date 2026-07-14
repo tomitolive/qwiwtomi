@@ -2602,6 +2602,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1380316-is-god-is</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1381202-the-outer-threat</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1397385-little-brother</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

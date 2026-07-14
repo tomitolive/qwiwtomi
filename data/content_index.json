@@ -55028,5 +55028,27 @@
     ],
     "timestamp": 1784039125,
     "fixed": true
+  },
+  {
+    "title": "Is God Is / Is God Is",
+    "title_ar": "Is God Is",
+    "title_en": "Is God Is",
+    "slug": "1380316-is-god-is",
+    "folder": "movie",
+    "poster": "/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+    "rating": 5.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1380316,
+    "genre_ids": [
+      18,
+      53
+    ],
+    "genres": [
+      "دراما",
+      "إثارة"
+    ],
+    "timestamp": 1784044647,
+    "fixed": true
   }
 ]
