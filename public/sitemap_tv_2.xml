@@ -1171,6 +1171,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/263330-shiboyugi-playing-death-games-to-put-food-on-the-table</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/3i3kkEgmw2LVkohQifjUxKqNCq.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/26383-glass-fleet</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3452-frasier</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

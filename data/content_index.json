@@ -55116,5 +55116,27 @@
     ],
     "timestamp": 1784064640,
     "fixed": true
+  },
+  {
+    "title": "ألعاب الموت من أجل لقمة العيش / SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "title_ar": "ألعاب الموت من أجل لقمة العيش",
+    "title_en": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "slug": "263330-shiboyugi-playing-death-games-to-put-food-on-the-table",
+    "folder": "tv",
+    "poster": "/t/p/w500/3i3kkEgmw2LVkohQifjUxKqNCq.jpg",
+    "rating": 7.1,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 263330,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784068426,
+    "fixed": true
   }
 ]
