@@ -55004,5 +55004,29 @@
     ],
     "timestamp": 1784025745,
     "fixed": true
+  },
+  {
+    "title": "Hope / Hope",
+    "title_ar": "Hope",
+    "title_en": "Hope",
+    "slug": "1058424-hope",
+    "folder": "movie",
+    "poster": "/t/p/w500/ptqlN6mDIAqJjVA86J5eOoG82zc.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1058424,
+    "genre_ids": [
+      878,
+      9648,
+      28
+    ],
+    "genres": [
+      "خيال علمي",
+      "غموض",
+      "حركة"
+    ],
+    "timestamp": 1784039125,
+    "fixed": true
   }
 ]

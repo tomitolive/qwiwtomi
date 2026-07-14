@@ -532,6 +532,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1058424-hope</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ptqlN6mDIAqJjVA86J5eOoG82zc.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/105864-the-good-dinosaur</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1398050-drivers-ed</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
