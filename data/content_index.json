@@ -54942,5 +54942,47 @@
     ],
     "timestamp": 1783985289,
     "fixed": true
+  },
+  {
+    "title": "The Breadwinner / The Breadwinner",
+    "title_ar": "The Breadwinner",
+    "title_en": "The Breadwinner",
+    "slug": "1440050-the-breadwinner",
+    "folder": "movie",
+    "poster": "/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1440050,
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "genres": [
+      "كوميديا",
+      "عائلي"
+    ],
+    "timestamp": 1784018124,
+    "fixed": true
+  },
+  {
+    "title": "10 / Guardian: The Lonely and Great God 10th Anniversary",
+    "title_ar": "10",
+    "title_en": "Guardian: The Lonely and Great God 10th Anniversary",
+    "slug": "325828-guardian-the-lonely-and-great-god-10th-anniversary",
+    "folder": "tv",
+    "poster": "/t/p/w500/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg",
+    "rating": 9.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325828,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784018208,
+    "fixed": true
   }
 ]
