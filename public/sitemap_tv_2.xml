@@ -1585,6 +1585,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/285143-road-to-success</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jE6xuxwLUojZ2k80rKbv73frWsv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/285166-jack-of-all-trades-party-of-none</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/33880-the-legend-of-korra</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/oCx1OCMOdjLPXzdjXGZ7Ijc2sCW.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

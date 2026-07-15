@@ -55180,5 +55180,25 @@
     ],
     "timestamp": 1784107737,
     "fixed": true
+  },
+  {
+    "title": "Road to Success / Road to Success",
+    "title_ar": "Road to Success",
+    "title_en": "Road to Success",
+    "slug": "285143-road-to-success",
+    "folder": "tv",
+    "poster": "/t/p/w500/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 285143,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784119900,
+    "fixed": true
   }
 ]
