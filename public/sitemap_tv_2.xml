@@ -667,6 +667,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/241882-ride-or-die</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/6HxyIZbnynMz18BzFesxn54Pfkw.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/242532-the-bell-system-science-series</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/hqPLqQjEBb7Q8EILvpIRU4WGZgn.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/33841-r-l-stines-the-haunting-hour</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

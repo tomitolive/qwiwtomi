@@ -55200,5 +55200,25 @@
     ],
     "timestamp": 1784119900,
     "fixed": true
+  },
+  {
+    "title": "Ride or Die / Ride or Die",
+    "title_ar": "Ride or Die",
+    "title_en": "Ride or Die",
+    "slug": "241882-ride-or-die",
+    "folder": "tv",
+    "poster": "/t/p/w500/6HxyIZbnynMz18BzFesxn54Pfkw.jpg",
+    "rating": 3.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 241882,
+    "genre_ids": [
+      10759
+    ],
+    "genres": [
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784142362,
+    "fixed": true
   }
 ]

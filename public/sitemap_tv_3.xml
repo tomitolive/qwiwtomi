@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/tv/33841-r-l-stines-the-haunting-hour</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/33880-the-legend-of-korra</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dVIiEynkFXQiCL1Ic02smNhkSnw.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/69050-riverdale</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aKc9Cw3vPYuHMbkiP5Ca9YDh2Z2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
