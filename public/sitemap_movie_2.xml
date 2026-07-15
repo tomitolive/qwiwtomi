@@ -595,6 +595,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1541560-stop-that-train</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1558796-never-change</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/38055-megamind</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kH2acwtiiwHsgARlFM653miKOvn.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
