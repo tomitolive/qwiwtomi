@@ -55160,5 +55160,25 @@
     ],
     "timestamp": 1784099714,
     "fixed": true
+  },
+  {
+    "title": "Love For You / Love For You",
+    "title_ar": "Love For You",
+    "title_en": "Love For You",
+    "slug": "291392-love-for-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
+    "rating": 4.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 291392,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784107737,
+    "fixed": true
   }
 ]
