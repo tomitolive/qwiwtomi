@@ -55220,5 +55220,29 @@
     ],
     "timestamp": 1784142362,
     "fixed": true
+  },
+  {
+    "title": "Goodbye, Lara / Goodbye, Lara",
+    "title_ar": "Goodbye, Lara",
+    "title_en": "Goodbye, Lara",
+    "slug": "295071-goodbye-lara",
+    "folder": "tv",
+    "poster": "/t/p/w500/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
+    "rating": 9.5,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 295071,
+    "genre_ids": [
+      16,
+      18,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784168302,
+    "fixed": true
   }
 ]
