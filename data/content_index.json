@@ -55354,5 +55354,31 @@
     ],
     "timestamp": 1784217318,
     "fixed": true
+  },
+  {
+    "title": "صمام / Fuze",
+    "title_ar": "صمام",
+    "title_en": "Fuze",
+    "slug": "1242265-fuze",
+    "folder": "movie",
+    "poster": "/t/p/w500/mjgisv866VI5PvaUZuvARwqY68R.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1242265,
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "جريمة",
+      "دراما",
+      "إثارة"
+    ],
+    "timestamp": 1784221951,
+    "fixed": true
   }
 ]

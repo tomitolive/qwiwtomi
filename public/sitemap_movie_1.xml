@@ -1765,6 +1765,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1242265-fuze</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/mjgisv866VI5PvaUZuvARwqY68R.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1242332-normal</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/gDmi9udysk1OTYPgk4YG4UXRkLv.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1390300-over-your-dead-body</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
