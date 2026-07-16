@@ -55306,5 +55306,27 @@
     ],
     "timestamp": 1784203201,
     "fixed": true
+  },
+  {
+    "title": "Ek Din / Ek Din",
+    "title_ar": "Ek Din",
+    "title_en": "Ek Din",
+    "slug": "1171094-ek-din",
+    "folder": "movie",
+    "poster": "/t/p/w500/yYkJylaY1TJT9iEBkWnc2Tiw6jN.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1171094,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1784210833,
+    "fixed": true
   }
 ]

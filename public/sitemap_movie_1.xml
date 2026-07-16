@@ -1324,6 +1324,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1171094-ek-din</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yYkJylaY1TJT9iEBkWnc2Tiw6jN.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1171145-crime-101</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/wMI6kmQz0WstAMyIdg0vmStlCXL.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1397201-golden-kamuy-the-abashiri-prison-raid-</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
