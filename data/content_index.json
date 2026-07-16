@@ -55328,5 +55328,31 @@
     ],
     "timestamp": 1784210833,
     "fixed": true
+  },
+  {
+    "title": "Descendants: Wicked Wonderland / Descendants: Wicked Wonderland",
+    "title_ar": "Descendants: Wicked Wonderland",
+    "title_en": "Descendants: Wicked Wonderland",
+    "slug": "1318621-descendants-wicked-wonderland",
+    "folder": "movie",
+    "poster": "/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1318621,
+    "genre_ids": [
+      14,
+      10751,
+      10770,
+      10402
+    ],
+    "genres": [
+      "فانتازيا",
+      "عائلي",
+      "فيلم تلفازي",
+      "موسيقى"
+    ],
+    "timestamp": 1784217318,
+    "fixed": true
   }
 ]

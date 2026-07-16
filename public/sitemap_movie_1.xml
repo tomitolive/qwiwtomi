@@ -2323,6 +2323,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1318621-descendants-wicked-wonderland</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/13192-moonwalker</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1396965-detective-conan-one-eyed-flashback</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/wMI6kmQz0WstAMyIdg0vmStlCXL.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
