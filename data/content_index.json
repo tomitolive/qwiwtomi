@@ -55244,5 +55244,27 @@
     ],
     "timestamp": 1784168302,
     "fixed": true
+  },
+  {
+    "title": "Oriental Martial Academy / Oriental Martial Academy",
+    "title_ar": "Oriental Martial Academy",
+    "title_en": "Oriental Martial Academy",
+    "slug": "323839-oriental-martial-academy",
+    "folder": "tv",
+    "poster": "/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 323839,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784187403,
+    "fixed": true
   }
 ]
