@@ -55266,5 +55266,45 @@
     ],
     "timestamp": 1784187403,
     "fixed": true
+  },
+  {
+    "title": "Aku Sebelum Aku / Aku Sebelum Aku",
+    "title_ar": "Aku Sebelum Aku",
+    "title_en": "Aku Sebelum Aku",
+    "slug": "1616674-aku-sebelum-aku",
+    "folder": "movie",
+    "poster": "/t/p/w500/xmwPr0YOFS6vC3aydnE85gxp36t.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1616674,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784203192,
+    "fixed": true
+  },
+  {
+    "title": "الصقر / The Hawk",
+    "title_ar": "الصقر",
+    "title_en": "The Hawk",
+    "slug": "254528-the-hawk",
+    "folder": "tv",
+    "poster": "/t/p/w500/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 254528,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1784203201,
+    "fixed": true
   }
 ]

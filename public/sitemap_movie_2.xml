@@ -811,6 +811,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1616674-aku-sebelum-aku</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xmwPr0YOFS6vC3aydnE85gxp36t.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1628123-bts-the-comeback-live-arirang</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/toDPO6Q5AVCCTYrwehbqW44I8Ul.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/378236-the-emoji-movie</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

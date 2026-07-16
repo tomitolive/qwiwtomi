@@ -973,6 +973,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/254528-the-hawk</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/255343-los-tres-chiflados</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/33238-running-man</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/25J6ufUoyvRVd8M6SpIYse0Ph9P.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
