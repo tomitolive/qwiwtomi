@@ -55380,5 +55380,31 @@
     ],
     "timestamp": 1784221951,
     "fixed": true
+  },
+  {
+    "title": "The Uprising / The Uprising",
+    "title_ar": "The Uprising",
+    "title_en": "The Uprising",
+    "slug": "977942-the-uprising",
+    "folder": "movie",
+    "poster": "/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 977942,
+    "genre_ids": [
+      28,
+      18,
+      36,
+      10752
+    ],
+    "genres": [
+      "حركة",
+      "دراما",
+      "تاريخ",
+      "حرب"
+    ],
+    "timestamp": 1784250032,
+    "fixed": true
   }
 ]
