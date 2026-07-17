@@ -55406,5 +55406,29 @@
     ],
     "timestamp": 1784250032,
     "fixed": true
+  },
+  {
+    "title": "القصر الشرقي / The East Palace",
+    "title_ar": "القصر الشرقي",
+    "title_en": "The East Palace",
+    "slug": "279323-the-east-palace",
+    "folder": "tv",
+    "poster": "/t/p/w500/gLMzMmN9sfxggkA3Xamuti7GjGK.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 279323,
+    "genre_ids": [
+      9648,
+      10759,
+      10765
+    ],
+    "genres": [
+      "غموض",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784261625,
+    "fixed": true
   }
 ]

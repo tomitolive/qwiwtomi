@@ -1486,6 +1486,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/279323-the-east-palace</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gLMzMmN9sfxggkA3Xamuti7GjGK.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/279471-malcolm-in-the-middle-lifes-still-unfair</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vs0eiGTSY49wGMjD2i6PgOkhLNu.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3322-oz</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
