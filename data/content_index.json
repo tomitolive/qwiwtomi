@@ -55556,5 +55556,25 @@
     ],
     "timestamp": 1784322892,
     "fixed": true
+  },
+  {
+    "title": "Ann Droid / Ann Droid",
+    "title_ar": "Ann Droid",
+    "title_en": "Ann Droid",
+    "slug": "292108-ann-droid",
+    "folder": "tv",
+    "poster": "/t/p/w500/toUy4s6yK8OyfQ9Rjj7R3l9rhyU.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 292108,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1784330587,
+    "fixed": true
   }
 ]
