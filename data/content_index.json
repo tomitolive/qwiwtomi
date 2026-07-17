@@ -55430,5 +55430,47 @@
     ],
     "timestamp": 1784261625,
     "fixed": true
+  },
+  {
+    "title": "Heartstopper Forever / Heartstopper Forever",
+    "title_ar": "Heartstopper Forever",
+    "title_en": "Heartstopper Forever",
+    "slug": "1468683-heartstopper-forever",
+    "folder": "movie",
+    "poster": "/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "rating": 4.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1468683,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784279225,
+    "fixed": true
+  },
+  {
+    "title": "El mapa de los anhelos / The Map of Longing",
+    "title_ar": "El mapa de los anhelos",
+    "title_en": "The Map of Longing",
+    "slug": "288671-the-map-of-longing",
+    "folder": "tv",
+    "poster": "/t/p/w500/x3nXE77C7DpPA8172UDEm5bBFJe.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 288671,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784279234,
+    "fixed": true
   }
 ]

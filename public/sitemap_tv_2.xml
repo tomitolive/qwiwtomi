@@ -1783,6 +1783,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/288671-the-map-of-longing</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/x3nXE77C7DpPA8172UDEm5bBFJe.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/288912-better-late-than-single</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/win95lA5rfDxwRGyOMKVWja0OSZ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/33217-young-justice</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/vs0eiGTSY49wGMjD2i6PgOkhLNu.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
