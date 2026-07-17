@@ -91,6 +91,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/222623-the-elusive-samurai</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8T3QsGzRvvAPUUw9Z1UjLNCQZlH.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/222766-the-day-of-the-jackal</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/32895-rizzoli-isles</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

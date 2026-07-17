@@ -55534,5 +55534,27 @@
     ],
     "timestamp": 1784318599,
     "fixed": true
+  },
+  {
+    "title": "Nige Jouzu no Wakagimi / The Elusive Samurai",
+    "title_ar": "Nige Jouzu no Wakagimi",
+    "title_en": "The Elusive Samurai",
+    "slug": "222623-the-elusive-samurai",
+    "folder": "tv",
+    "poster": "/t/p/w500/8T3QsGzRvvAPUUw9Z1UjLNCQZlH.jpg",
+    "rating": 7.8,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 222623,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784322892,
+    "fixed": true
   }
 ]
