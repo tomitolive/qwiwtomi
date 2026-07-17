@@ -55492,5 +55492,27 @@
     ],
     "timestamp": 1784286326,
     "fixed": true
+  },
+  {
+    "title": "Deseo / Desire",
+    "title_ar": "Deseo",
+    "title_en": "Desire",
+    "slug": "1668364-desire",
+    "folder": "movie",
+    "poster": "/t/p/w500/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+    "rating": 4.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1668364,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1784298622,
+    "fixed": true
   }
 ]

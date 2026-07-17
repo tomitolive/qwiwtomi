@@ -1018,6 +1018,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1668364-desire</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1669050-tayuan-2</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/r4AoFwoAYP1OBJAbmFTgUjGjAUE.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/373200-detective-chinatown</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/zKQtRG6a53CI2NRi0gkrH3IoZ6D.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
