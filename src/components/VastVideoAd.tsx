@@ -4,7 +4,6 @@ import { useEffect, useState, useRef, useCallback } from "react";
 import { usePathname } from "next/navigation";
 
 const VAST_URL = "https://s.magsrv.com/v1/vast.php?idz=5979262";
-const AD_CHANCE = 1.0; // 100% chance to show ad
 
 interface VastAd {
   mediaUrl: string;
@@ -14,30 +13,42 @@ interface VastAd {
   trackingEvents: Record<string, string[]>;
 }
 
+// Prefetch VAST XML immediately on module load for fastest first ad
+let prefetchedVastPromise: Promise<string> | null = null;
+function prefetchVast() {
+  prefetchedVastPromise = fetch(VAST_URL)
+    .then((res) => res.text())
+    .catch(() => "");
+  return prefetchedVastPromise;
+}
+// Start prefetching as soon as this module loads
+if (typeof window !== "undefined") {
+  prefetchVast();
+}
+
 export default function VastVideoAd() {
   const pathname = usePathname();
   const [showAd, setShowAd] = useState(false);
   const [adData, setAdData] = useState<VastAd | null>(null);
   const [countdown, setCountdown] = useState(0);
   const [canSkip, setCanSkip] = useState(false);
+  const [videoReady, setVideoReady] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
   const prevPathRef = useRef<string>("");
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+  const preloadVideoRef = useRef<HTMLVideoElement | null>(null);
 
   const parseVast = useCallback((xml: string): VastAd | null => {
     try {
       const parser = new DOMParser();
       const doc = parser.parseFromString(xml, "text/xml");
 
-      // Get media file URL
       const mediaFile = doc.querySelector("MediaFile");
       const mediaUrl = mediaFile?.textContent?.trim() || "";
 
-      // Get click-through URL
       const clickThrough =
         doc.querySelector("ClickThrough")?.textContent?.trim() || "";
 
-      // Get duration
       const durationStr =
         doc.querySelector("Duration")?.textContent?.trim() || "00:00:15";
       const parts = durationStr.split(":");
@@ -46,7 +57,6 @@ export default function VastVideoAd() {
         parseInt(parts[1]) * 60 +
         parseInt(parts[2]);
 
-      // Get impression URLs
       const impressionEls = doc.querySelectorAll("Impression");
       const impressionUrls: string[] = [];
       impressionEls.forEach((el) => {
@@ -54,7 +64,6 @@ export default function VastVideoAd() {
         if (url) impressionUrls.push(url);
       });
 
-      // Get tracking events
       const trackingEls = doc.querySelectorAll("Tracking");
       const trackingEvents: Record<string, string[]> = {};
       trackingEls.forEach((el) => {
@@ -86,6 +95,7 @@ export default function VastVideoAd() {
     setAdData(null);
     setCanSkip(false);
     setCountdown(0);
+    setVideoReady(false);
     if (timerRef.current) {
       clearInterval(timerRef.current);
       timerRef.current = null;
@@ -94,26 +104,49 @@ export default function VastVideoAd() {
       videoRef.current.pause();
       videoRef.current.src = "";
     }
+    // Prefetch next ad immediately after closing
+    prefetchVast();
   }, []);
 
-  // Trigger ad on pathname change
+  // Preload video file in background for instant playback
+  const preloadVideo = useCallback((url: string) => {
+    if (preloadVideoRef.current) {
+      preloadVideoRef.current.src = "";
+    }
+    const video = document.createElement("video");
+    video.preload = "auto";
+    video.muted = true;
+    video.src = url;
+    video.load();
+    preloadVideoRef.current = video;
+  }, []);
+
+  // Trigger ad on pathname change - NO DELAY
   useEffect(() => {
     if (pathname === prevPathRef.current) return;
     prevPathRef.current = pathname;
 
-    // 90% random chance
-    if (Math.random() > AD_CHANCE) return;
-
-    // Fetch VAST XML
     const fetchVast = async () => {
       try {
-        const res = await fetch(VAST_URL);
-        const xml = await res.text();
+        let xml: string;
+        // Use prefetched data if available, otherwise fetch fresh
+        if (prefetchedVastPromise) {
+          xml = await prefetchedVastPromise;
+          prefetchedVastPromise = null;
+        } else {
+          const res = await fetch(VAST_URL);
+          xml = await res.text();
+        }
+
         const parsed = parseVast(xml);
         if (parsed) {
+          // Preload the video file
+          preloadVideo(parsed.mediaUrl);
+
           setAdData(parsed);
           setShowAd(true);
           setCanSkip(false);
+          setVideoReady(false);
           const skipDelay = Math.min(parsed.duration, 5);
           setCountdown(skipDelay);
 
@@ -140,15 +173,17 @@ export default function VastVideoAd() {
       }
     };
 
-    // Small delay to ensure page transition feels smooth
-    const timeout = setTimeout(fetchVast, 500);
-    return () => clearTimeout(timeout);
-  }, [pathname, parseVast, firePixels]);
+    // No delay - show ad immediately
+    fetchVast();
+  }, [pathname, parseVast, firePixels, preloadVideo]);
 
   // Cleanup on unmount
   useEffect(() => {
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
+      if (preloadVideoRef.current) {
+        preloadVideoRef.current.src = "";
+      }
     };
   }, []);
 
@@ -167,6 +202,37 @@ export default function VastVideoAd() {
         backdropFilter: "blur(8px)",
       }}
     >
+      {/* Loading spinner while video loads */}
+      {!videoReady && (
+        <div
+          style={{
+            position: "absolute",
+            zIndex: 5,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            gap: "12px",
+          }}
+        >
+          <div
+            style={{
+              width: 40,
+              height: 40,
+              border: "3px solid rgba(255,255,255,0.2)",
+              borderTopColor: "#fff",
+              borderRadius: "50%",
+              animation: "vastSpin 0.8s linear infinite",
+            }}
+          />
+          <span style={{ color: "rgba(255,255,255,0.6)", fontSize: 13 }}>
+            جاري التحميل...
+          </span>
+        </div>
+      )}
+
+      {/* Spinner keyframes */}
+      <style>{`@keyframes vastSpin { to { transform: rotate(360deg); } }`}</style>
+
       {/* Ad container */}
       <div
         style={{
@@ -177,6 +243,8 @@ export default function VastVideoAd() {
           overflow: "hidden",
           boxShadow: "0 20px 60px rgba(0,0,0,0.6)",
           background: "#000",
+          opacity: videoReady ? 1 : 0,
+          transition: "opacity 0.3s ease",
         }}
       >
         {/* Ad label */}
@@ -231,7 +299,9 @@ export default function VastVideoAd() {
           src={adData.mediaUrl}
           autoPlay
           playsInline
-          muted={false}
+          muted
+          preload="auto"
+          onCanPlay={() => setVideoReady(true)}
           onClick={() => {
             if (adData.clickThrough) {
               window.open(adData.clickThrough, "_blank");
