@@ -55514,5 +55514,25 @@
     ],
     "timestamp": 1784298622,
     "fixed": true
+  },
+  {
+    "title": "The F Ward / The F Ward",
+    "title_ar": "The F Ward",
+    "title_en": "The F Ward",
+    "slug": "325549-the-f-ward",
+    "folder": "tv",
+    "poster": "/t/p/w500/piWo0Sal5TjkrbBDxB6VWMDcrVN.jpg",
+    "rating": 4.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325549,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784318599,
+    "fixed": true
   }
 ]

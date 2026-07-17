@@ -2611,6 +2611,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/325549-the-f-ward</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/piWo0Sal5TjkrbBDxB6VWMDcrVN.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/325583-eclipse-of-illusion-spthe-miasma-war</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3319-darkwing-duck</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/win95lA5rfDxwRGyOMKVWja0OSZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
