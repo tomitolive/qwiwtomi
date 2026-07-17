@@ -55472,5 +55472,25 @@
     ],
     "timestamp": 1784279234,
     "fixed": true
+  },
+  {
+    "title": "23 000 Leben / 23 000 Lives",
+    "title_ar": "23 000 Leben",
+    "title_en": "23 000 Lives",
+    "slug": "1656220-23-000-lives",
+    "folder": "movie",
+    "poster": "/t/p/w500/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+    "rating": 5.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1656220,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784286326,
+    "fixed": true
   }
 ]
