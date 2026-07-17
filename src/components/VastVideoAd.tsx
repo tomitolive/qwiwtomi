@@ -37,6 +37,7 @@ export default function VastVideoAd() {
   const prevPathRef = useRef<string>("");
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const preloadVideoRef = useRef<HTMLVideoElement | null>(null);
+  const videoReadyRef = useRef(false);
 
   const parseVast = useCallback((xml: string): VastAd | null => {
     try {
@@ -96,6 +97,7 @@ export default function VastVideoAd() {
     setCanSkip(false);
     setCountdown(0);
     setVideoReady(false);
+    videoReadyRef.current = false;
     if (timerRef.current) {
       clearInterval(timerRef.current);
       timerRef.current = null;
@@ -147,6 +149,7 @@ export default function VastVideoAd() {
           setShowAd(true);
           setCanSkip(false);
           setVideoReady(false);
+          videoReadyRef.current = false;
           const skipDelay = Math.min(parsed.duration, 5);
           setCountdown(skipDelay);
 
@@ -167,6 +170,13 @@ export default function VastVideoAd() {
               }
             }
           }, 1000);
+
+          // Safety timeout: if video is not ready in 6 seconds, close it to avoid blocking the user
+          setTimeout(() => {
+            if (!videoReadyRef.current) {
+              closeAd();
+            }
+          }, 6000);
         }
       } catch {
         // Silently fail - don't block user
@@ -175,7 +185,7 @@ export default function VastVideoAd() {
 
     // No delay - show ad immediately
     fetchVast();
-  }, [pathname, parseVast, firePixels, preloadVideo]);
+  }, [pathname, parseVast, firePixels, preloadVideo, closeAd]);
 
   // Cleanup on unmount
   useEffect(() => {
@@ -301,7 +311,10 @@ export default function VastVideoAd() {
           playsInline
           muted
           preload="auto"
-          onCanPlay={() => setVideoReady(true)}
+          onCanPlay={() => {
+            setVideoReady(true);
+            videoReadyRef.current = true;
+          }}
           onClick={() => {
             if (adData.clickThrough) {
               window.open(adData.clickThrough, "_blank");
