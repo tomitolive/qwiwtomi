@@ -4,7 +4,7 @@ import { useEffect, useState, useRef, useCallback } from "react";
 import { usePathname } from "next/navigation";
 
 const VAST_URL = "https://s.magsrv.com/v1/vast.php?idz=5979262";
-const AD_CHANCE = 0.9; // 90% chance to show ad
+const AD_CHANCE = 1.0; // 100% chance to show ad
 
 interface VastAd {
   mediaUrl: string;
