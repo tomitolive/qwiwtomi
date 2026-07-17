@@ -3,6 +3,7 @@ import { Inter, Outfit, Tajawal } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "@/components/ThemeProvider";
+import VastVideoAd from "@/components/VastVideoAd";
 import { cookies } from "next/headers";
 import { headers } from "next/headers";
 import Script from "next/script";
@@ -73,6 +74,7 @@ export default async function RootLayout({
       </head>
       <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
         <ThemeProvider>
+          <VastVideoAd />
           {/* ───── NAVBAR ───── */}
           {!isDetailPage && <Navbar />}
 
