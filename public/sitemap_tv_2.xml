@@ -532,6 +532,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/237020-lecture-room</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/237150-as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/jewlUepfUnqurE9xdj80RXIR52k.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/325622-murder-101</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

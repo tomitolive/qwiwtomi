@@ -55860,5 +55860,93 @@
     ],
     "timestamp": 1784354662,
     "fixed": true
+  },
+  {
+    "title": "The Banished / The Banished",
+    "title_ar": "The Banished",
+    "title_en": "The Banished",
+    "slug": "1321491-the-banished",
+    "folder": "movie",
+    "poster": "/t/p/w500/pBlTYknphiODxIQQrei030MSvdT.jpg",
+    "rating": 4.1,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1321491,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784362701,
+    "fixed": true
+  },
+  {
+    "title": "To Wong Foo, Thanks for Everything! Julie Newmar / To Wong Foo, Thanks for Everything! Julie Newmar",
+    "title_ar": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "title_en": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "slug": "9090-to-wong-foo-thanks-for-everything-julie-newmar",
+    "folder": "movie",
+    "poster": "/t/p/w500/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg",
+    "rating": 7.4,
+    "year": "1995",
+    "type": "movie",
+    "tmdb_id": 9090,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1784362717,
+    "fixed": true
+  },
+  {
+    "title": "Lecture Room / Lecture Room",
+    "title_ar": "Lecture Room",
+    "title_en": "Lecture Room",
+    "slug": "237020-lecture-room",
+    "folder": "tv",
+    "poster": "/t/p/w500/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+    "rating": 7.0,
+    "year": "2001",
+    "type": "tv",
+    "tmdb_id": 237020,
+    "genre_ids": [
+      10767,
+      99
+    ],
+    "genres": [
+      "حوار",
+      "وثائقي"
+    ],
+    "timestamp": 1784362726,
+    "fixed": true
+  },
+  {
+    "title": "The Gifted / The Gifted",
+    "title_ar": "The Gifted",
+    "title_en": "The Gifted",
+    "slug": "69629-the-gifted",
+    "folder": "tv",
+    "poster": "/t/p/w500/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+    "rating": 7.6,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 69629,
+    "genre_ids": [
+      10765,
+      10759,
+      18
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1784362738,
+    "fixed": true
   }
 ]

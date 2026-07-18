@@ -2368,6 +2368,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1321491-the-banished</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/pBlTYknphiODxIQQrei030MSvdT.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/13223-gran-torino</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1387382-hunting-season</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
