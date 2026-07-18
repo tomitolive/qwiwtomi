@@ -622,6 +622,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/11890-goede-tijden-slechte-tijden</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/118924-marvel-studios-assembled</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1711,6 +1720,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/155226-big-mouth</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8I7aAqKY97tPNQ36VJy47RIkwLf.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1554-qi</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/xtGzT7X7REZw8EJMgiefPOaqF9f.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/21510-white-collar</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/216074-25-dimensional-seduction</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
