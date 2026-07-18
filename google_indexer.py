@@ -105,6 +105,30 @@ def notify_google_index(url):
         print(f"❌ Request failed: {e}")
         return "ERROR"
 
+def notify_bing_indexnow(urls):
+    url = "https://api.indexnow.org/indexnow"
+    payload = {
+        "host": "tomito.xyz",
+        "key": "a9e4af6dd5424e28ad0fa5e4c301a3e4",
+        "keyLocation": "https://tomito.xyz/a9e4af6dd5424e28ad0fa5e4c301a3e4.txt",
+        "urlList": urls
+    }
+    headers = {
+        "Content-Type": "application/json; charset=utf-8"
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, data=json.dumps(payload))
+        if response.status_code == 200 or response.status_code == 202:
+            print(f"✅ Success (Bing IndexNow): Sent {len(urls)} links!")
+            return "SUCCESS"
+        else:
+            print(f"⚠️ Error (Bing) {response.status_code}: {response.text}")
+            return "ERROR"
+    except Exception as e:
+        print(f"❌ Request failed (Bing): {e}")
+        return "ERROR"
+
 def index_new_page(url):
     """Index a single URL and save it to progress JSON to avoid duplicate indexing."""
     progress = load_progress()
@@ -157,6 +181,10 @@ def main():
         urls_to_process = urls_to_index[:LINKS_PER_SITEMAP]
         print(f"▶️ Indexing {len(urls_to_process)} new links out of {len(urls_to_index)} remaining...")
         
+        bing_urls = [url for url, _ in urls_to_process]
+        if bing_urls:
+            notify_bing_indexnow(bing_urls)
+            
         rate_limit_hit = False
         for url, url_id in urls_to_process:
             status = notify_google_index(url)
