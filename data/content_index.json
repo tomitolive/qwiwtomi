@@ -55680,5 +55680,97 @@
     ],
     "timestamp": 1784341955,
     "fixed": true
+  },
+  {
+    "title": "Black Box / Black Box",
+    "title_ar": "Black Box",
+    "title_en": "Black Box",
+    "slug": "1321008-black-box",
+    "folder": "movie",
+    "poster": "/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1321008,
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "genres": [
+      "رعب",
+      "إثارة",
+      "خيال علمي"
+    ],
+    "timestamp": 1784346761,
+    "fixed": true
+  },
+  {
+    "title": "مكان هادئ الجزء الثاني / A Quiet Place Part II",
+    "title_ar": "مكان هادئ الجزء الثاني",
+    "title_en": "A Quiet Place Part II",
+    "slug": "520763-a-quiet-place-part-ii",
+    "folder": "movie",
+    "poster": "/t/p/w500/x4W340EWch9iS5iBxzBhD0EEfDt.jpg",
+    "rating": 7.4,
+    "year": "2021",
+    "type": "movie",
+    "tmdb_id": 520763,
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "genres": [
+      "خيال علمي",
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1784346772,
+    "fixed": true
+  },
+  {
+    "title": "Sturm der Liebe / Storm of Love",
+    "title_ar": "Sturm der Liebe",
+    "title_en": "Storm of Love",
+    "slug": "45789-storm-of-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+    "rating": 6.0,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 45789,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784346783,
+    "fixed": true
+  },
+  {
+    "title": "Shadow Hunter / Shadow Hunter",
+    "title_ar": "Shadow Hunter",
+    "title_en": "Shadow Hunter",
+    "slug": "12313-shadow-hunter",
+    "folder": "tv",
+    "poster": "/t/p/w500/hOTaiR2qRDZtHgR2Kwz7RcAVqA6.jpg",
+    "rating": 8.5,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 12313,
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1784346797,
+    "fixed": true
   }
 ]

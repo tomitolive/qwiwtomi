@@ -811,6 +811,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/12313-shadow-hunter</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hOTaiR2qRDZtHgR2Kwz7RcAVqA6.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/123876-komi-cant-communicate</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/e0bsxZqhE5fhRjaX2LKu8GuKccE.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/218342-a-good-girls-guide-to-murder</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

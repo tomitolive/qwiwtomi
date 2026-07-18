@@ -2359,6 +2359,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1321008-black-box</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/13223-gran-torino</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/138832-were-the-millers</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
