@@ -937,6 +937,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/11012-damage</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1102883-mother-mary</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1383731-protector</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
