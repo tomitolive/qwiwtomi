@@ -568,6 +568,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/235484-suidooster</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/naCgSiacvV685kait6fBvhVhdce.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2355-lilo-stitch-the-series</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/322430-the-polygamist</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -56482,5 +56482,91 @@
     ],
     "timestamp": 1784390060,
     "fixed": true
+  },
+  {
+    "title": "Summerween / Summerween",
+    "title_ar": "Summerween",
+    "title_en": "Summerween",
+    "slug": "1711175-summerween",
+    "folder": "movie",
+    "poster": "/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
+    "rating": 5.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1711175,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1784393611,
+    "fixed": true
+  },
+  {
+    "title": "Fireproof / Fireproof",
+    "title_ar": "Fireproof",
+    "title_en": "Fireproof",
+    "slug": "14438-fireproof",
+    "folder": "movie",
+    "poster": "/t/p/w500/hfoCG75j1YaNyfZGPg0rWy3nFmU.jpg",
+    "rating": 7.7,
+    "year": "2008",
+    "type": "movie",
+    "tmdb_id": 14438,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784393626,
+    "fixed": true
+  },
+  {
+    "title": "Suidooster / Suidooster",
+    "title_ar": "Suidooster",
+    "title_en": "Suidooster",
+    "slug": "235484-suidooster",
+    "folder": "tv",
+    "poster": "/t/p/w500/naCgSiacvV685kait6fBvhVhdce.jpg",
+    "rating": 7.0,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 235484,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784393641,
+    "fixed": true
+  },
+  {
+    "title": "Rebelde Way / Rebelde Way",
+    "title_ar": "Rebelde Way",
+    "title_en": "Rebelde Way",
+    "slug": "9027-rebelde-way",
+    "folder": "tv",
+    "poster": "/t/p/w500/3ROiiGuYqXkm1CKX1h3KtmSvI8z.jpg",
+    "rating": 8.0,
+    "year": "2002",
+    "type": "tv",
+    "tmdb_id": 9027,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1784393664,
+    "fixed": true
   }
 ]
