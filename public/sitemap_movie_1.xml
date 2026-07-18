@@ -2053,6 +2053,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1285366-shape-of-my-heart</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1287322-christy</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/138843-the-conjuring</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/gDmi9udysk1OTYPgk4YG4UXRkLv.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

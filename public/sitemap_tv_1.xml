@@ -1882,6 +1882,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/17611-southland</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1781-little-house-on-the-prairie</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/218896-the-law-according-to-lidia-pot</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/nMukXo1oufnu2ehuiFEKFtCZS9T.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
