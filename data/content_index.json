@@ -55576,5 +55576,27 @@
     ],
     "timestamp": 1784330587,
     "fixed": true
+  },
+  {
+    "title": "They Fight / They Fight",
+    "title_ar": "They Fight",
+    "title_en": "They Fight",
+    "slug": "1587964-they-fight",
+    "folder": "movie",
+    "poster": "/t/p/w500/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+    "rating": 1.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1587964,
+    "genre_ids": [
+      18,
+      28
+    ],
+    "genres": [
+      "دراما",
+      "حركة"
+    ],
+    "timestamp": 1784336051,
+    "fixed": true
   }
 ]
