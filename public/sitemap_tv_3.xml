@@ -2134,6 +2134,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/60802-the-last-ship</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xH529hDtPxhslAEeCrN7gD64ZMX.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/6081-wagon-train</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2320,6 +2329,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/tv/62285-marvels-the-defenders</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jHmxoaC1SP7Wlc3HEYGEBvw05v7.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/x221LECWojgDTnXhWsaMIVmgM5h.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/66025-animal-kingdom</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/66038-the-wakos</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/e8QQghtMh5iPkp10YSJBEww3nU5.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
