@@ -2044,6 +2044,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/291-coronation-street</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2912-jeopardy</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/1njNWXvE6kpZB9pRemQJ1EhWl1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/31910-naruto-shippden</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qOxedwaJzdms2alAmIEHEnDeDzg.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

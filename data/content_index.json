@@ -56926,5 +56926,91 @@
     ],
     "timestamp": 1784409340,
     "fixed": true
+  },
+  {
+    "title": "Bokshi / Bokshi",
+    "title_ar": "Bokshi",
+    "title_en": "Bokshi",
+    "slug": "718833-bokshi",
+    "folder": "movie",
+    "poster": "/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
+    "rating": 6.0,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 718833,
+    "genre_ids": [
+      27,
+      18
+    ],
+    "genres": [
+      "رعب",
+      "دراما"
+    ],
+    "timestamp": 1784412871,
+    "fixed": true
+  },
+  {
+    "title": "Earth / Earth",
+    "title_ar": "Earth",
+    "title_en": "Earth",
+    "slug": "10946-earth",
+    "folder": "movie",
+    "poster": "/t/p/w500/qMB7s9sQVFOQS4l9IdjuwCFkIT1.jpg",
+    "rating": 7.6,
+    "year": "2007",
+    "type": "movie",
+    "tmdb_id": 10946,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784412881,
+    "fixed": true
+  },
+  {
+    "title": "Coronation Street / Coronation Street",
+    "title_ar": "Coronation Street",
+    "title_en": "Coronation Street",
+    "slug": "291-coronation-street",
+    "folder": "tv",
+    "poster": "/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "rating": 5.3,
+    "year": "1960",
+    "type": "tv",
+    "tmdb_id": 291,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784412894,
+    "fixed": true
+  },
+  {
+    "title": "اللامفعول / The Undoing",
+    "title_ar": "اللامفعول",
+    "title_en": "The Undoing",
+    "slug": "83851-the-undoing",
+    "folder": "tv",
+    "poster": "/t/p/w500/mILplbs04vVro4RUh4bmr8Poh8v.jpg",
+    "rating": 7.4,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 83851,
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1784412905,
+    "fixed": true
   }
 ]

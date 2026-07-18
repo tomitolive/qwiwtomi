@@ -910,6 +910,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/10946-earth</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qMB7s9sQVFOQS4l9IdjuwCFkIT1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/109526-crayon-shin-chan-the-hidden-treasure-of-the-buri-buri-kingdom</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/iBEQJqPdmzFvPjuTxy2KZtbsEQJ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1380316-is-god-is</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
