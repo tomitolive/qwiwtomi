@@ -56392,5 +56392,95 @@
     ],
     "timestamp": 1784385321,
     "fixed": true
+  },
+  {
+    "title": "I Know Who You Are / I Know Who You Are",
+    "title_ar": "I Know Who You Are",
+    "title_en": "I Know Who You Are",
+    "slug": "1305672-i-know-who-you-are",
+    "folder": "movie",
+    "poster": "/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
+    "rating": 6.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1305672,
+    "genre_ids": [
+      36,
+      18
+    ],
+    "genres": [
+      "تاريخ",
+      "دراما"
+    ],
+    "timestamp": 1784389955,
+    "fixed": true
+  },
+  {
+    "title": "3 بلهاء / 3 Idiots",
+    "title_ar": "3 بلهاء",
+    "title_en": "3 Idiots",
+    "slug": "20453-3-idiots",
+    "folder": "movie",
+    "poster": "/t/p/w500/9FhGenQJbIYZ7OPeUysi49i2IjH.jpg",
+    "rating": 8.0,
+    "year": "2009",
+    "type": "movie",
+    "tmdb_id": 20453,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784390000,
+    "fixed": true
+  },
+  {
+    "title": "Bad Sisters / Bad Sisters",
+    "title_ar": "Bad Sisters",
+    "title_en": "Bad Sisters",
+    "slug": "199318-bad-sisters",
+    "folder": "tv",
+    "poster": "/t/p/w500/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg",
+    "rating": 7.5,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 199318,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784390046,
+    "fixed": true
+  },
+  {
+    "title": "كثيب: النبوءة / Dune: Prophecy",
+    "title_ar": "كثيب: النبوءة",
+    "title_en": "Dune: Prophecy",
+    "slug": "90228-dune-prophecy",
+    "folder": "tv",
+    "poster": "/t/p/w500/k74582cs4J7RHae8QFNsbq4ibVy.jpg",
+    "rating": 7.2,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 90228,
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784390060,
+    "fixed": true
   }
 ]

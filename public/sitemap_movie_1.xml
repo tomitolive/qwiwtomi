@@ -2242,6 +2242,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1305672-i-know-who-you-are</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1305781-blades-of-the-guardians-wind-rises-in-the-desert</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/fOkeNglWmj5ubNwhpiXBPEep2QW.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1382406-striking-rescue</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/npLvwol2oZGLc0VeYYxJ72KXYwY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
