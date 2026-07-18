@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 
 interface ContentIndexEntry {
   title: string;
@@ -14,6 +15,17 @@ interface ContentIndexEntry {
   year?: string;
   tmdb_id: number;
   isLocal?: boolean;
+}
+
+interface TMDBSearchResult {
+  id: number;
+  media_type: "movie" | "tv";
+  title?: string;
+  name?: string;
+  poster_path?: string;
+  release_date?: string;
+  first_air_date?: string;
+  vote_average?: number;
 }
 
 export default function Search() {
@@ -70,12 +82,12 @@ export default function Search() {
       
       const localIds = new Set(allContent.map(item => item.tmdb_id));
       tmdbResults = (data.results || [])
-        .filter((item: any) => 
+        .filter((item: TMDBSearchResult) => 
           (item.media_type === 'movie' || item.media_type === 'tv') && 
           !localIds.has(item.id)
         )
         .slice(0, 8)
-        .map((item: any) => ({
+        .map((item: TMDBSearchResult) => ({
           tmdb_id: item.id,
           title: item.title || item.name,
           title_ar: item.title || item.name,
@@ -152,11 +164,12 @@ export default function Search() {
                 data-nav={encodedNav}
                 style={{ touchAction: 'manipulation' }}
               >
-                <img
+                <Image
                   src={item.poster ? `https://image.tmdb.org/t/p/w500${item.poster}` : "/favicon.ico"}
                   alt={item.title_ar || item.title}
+                  width={40}
+                  height={56}
                   className="w-10 h-14 object-cover rounded shadow"
-                  loading="lazy"
                 />
                 <div className="text-right">
                   <div className="text-sm font-bold text-white truncate max-w-[200px]">{item.title_ar || item.title}</div>

@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { getContentByType } from "@/lib/content";
+import { getContentByType, ContentIndexEntry } from "@/lib/content";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
@@ -41,7 +41,7 @@ export default async function TVPage() {
       </header>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6 px-6 md:px-12 lg:px-20">
-        {items.map((item: any, i: number) => {
+        {items.map((item: ContentIndexEntry, i: number) => {
           const title = item.title_ar || item.title;
           
           return (

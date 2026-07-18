@@ -148,7 +148,7 @@ export default async function GenrePage({ params }: Props) {
       </header>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6 px-6 md:px-12 lg:px-20">
-        {genreData.items.map((item: any, i: number) => {
+        {genreData.items.map((item: GenreItem, i: number) => {
           const type = item.media_type;
           const title = item.title_ar || item.title;
           const slug_raw = title.toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, '-');

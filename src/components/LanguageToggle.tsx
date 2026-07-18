@@ -11,17 +11,17 @@ const languages = [
 
 export function LanguageToggle() {
   const [isOpen, setIsOpen] = useState(false);
-  const [currentLang, setCurrentLang] = useState("ar");
+  const [currentLang, setCurrentLang] = useState(() => {
+    if (typeof document !== 'undefined') {
+      const cookies = document.cookie.split("; ");
+      const localeCookie = cookies.find((c) => c.startsWith("NEXT_LOCALE="));
+      return localeCookie ? localeCookie.split("=")[1] : "ar";
+    }
+    return "ar";
+  });
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // Read current lang from cookie
-    const cookies = document.cookie.split("; ");
-    const localeCookie = cookies.find((c) => c.startsWith("NEXT_LOCALE="));
-    if (localeCookie) {
-      setCurrentLang(localeCookie.split("=")[1]);
-    }
-
     const handleClickOutside = (event: MouseEvent | TouchEvent) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setIsOpen(false);
@@ -36,8 +36,12 @@ export function LanguageToggle() {
   }, []);
 
   const changeLanguage = (code: string) => {
-    document.cookie = `NEXT_LOCALE=${code}; path=/; max-age=31536000`; // 1 year
-    window.location.reload();
+    // Use useEffect to handle side effect
+    const updateCookie = () => {
+      document.cookie = `NEXT_LOCALE=${code}; path=/; max-age=31536000`; // 1 year
+      window.location.reload();
+    };
+    updateCookie();
   };
 
   return (

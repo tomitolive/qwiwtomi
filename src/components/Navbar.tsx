@@ -1,10 +1,18 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import Link from "next/link";
 import GenreModal from "@/components/GenreModal";
 import Search from "@/components/Search";
 
-const navTranslations: Record<string, any> = {
+interface NavTranslations {
+  home: string;
+  movies: string;
+  series: string;
+  genres: string;
+}
+
+const navTranslations: Record<string, NavTranslations> = {
   ar: { home: "الرئيسية", movies: "أفلام", series: "مسلسلات", genres: "التصنيفات" },
   en: { home: "Home", movies: "Movies", series: "Series", genres: "Genres" },
   fr: { home: "Accueil", movies: "Films", series: "Séries", genres: "Genres" },
@@ -12,14 +20,14 @@ const navTranslations: Record<string, any> = {
 };
 
 export default function Navbar() {
-  const [locale, setLocale] = useState("ar");
+  const [locale, setLocale] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem("NEXT_LOCALE") || "ar";
+    }
+    return "ar";
+  });
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const navRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    const savedLocale = localStorage.getItem("NEXT_LOCALE") || "ar";
-    setLocale(savedLocale);
-  }, []);
 
   // Close mobile menu when clicking outside
   useEffect(() => {
@@ -53,15 +61,15 @@ export default function Navbar() {
     <header className="navbar" ref={navRef}>
       <div className="flex items-center justify-between w-full gap-3">
         <div className="flex items-center gap-3 md:gap-6">
-          <a href="/" className="logo-link" style={{ fontFamily: 'var(--font-outfit)' }}>
+          <Link href="/" className="logo-link" style={{ fontFamily: 'var(--font-outfit)' }}>
             <h1 className="logo-text-wrapper m-0">
               <span className="logo-text">TOMITO</span>
             </h1>
-          </a>
+          </Link>
           <nav className={`items-center gap-5 text-[13px] font-semibold ${mobileMenuOpen ? 'flex flex-col absolute top-full left-0 right-0 bg-[#000] p-4 z-50' : 'hidden md:flex'}`}>
-            <a href="/" className="nav-link-active" onClick={() => setMobileMenuOpen(false)}>{t.home}</a>
-            <a href="/movie" className="nav-link" onClick={() => setMobileMenuOpen(false)}>{t.movies}</a>
-            <a href="/tv" className="nav-link" onClick={() => setMobileMenuOpen(false)}>{t.series}</a>
+            <Link href="/" className="nav-link-active" onClick={() => setMobileMenuOpen(false)}>{t.home}</Link>
+            <Link href="/movie" className="nav-link" onClick={() => setMobileMenuOpen(false)}>{t.movies}</Link>
+            <Link href="/tv" className="nav-link" onClick={() => setMobileMenuOpen(false)}>{t.series}</Link>
 
             {/* Genres Modal Trigger */}
             <GenreModal />
