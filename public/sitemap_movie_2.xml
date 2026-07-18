@@ -1378,6 +1378,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1923-twin-peaks-fire-walk-with-me</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/mxsGXqetGnirf99qapYd5MMY1VL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/192904-doraemon-nobita-in-the-wan-nyan-spacetime-odyssey</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/34wZYMyJNONs9HpNjQMHeu4qqJt.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/359724-ford-v-ferrari</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/i9FUL1B0ComrhEXnsCR3L5SlOJ7.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -56042,5 +56042,93 @@
     ],
     "timestamp": 1784368576,
     "fixed": true
+  },
+  {
+    "title": "Graphic Desires / Graphic Desires",
+    "title_ar": "Graphic Desires",
+    "title_en": "Graphic Desires",
+    "slug": "976912-graphic-desires",
+    "folder": "movie",
+    "poster": "/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+    "rating": 7.1,
+    "year": "2023",
+    "type": "movie",
+    "tmdb_id": 976912,
+    "genre_ids": [
+      53,
+      80
+    ],
+    "genres": [
+      "إثارة",
+      "جريمة"
+    ],
+    "timestamp": 1784372366,
+    "fixed": true
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me / Twin Peaks: Fire Walk with Me",
+    "title_ar": "Twin Peaks: Fire Walk with Me",
+    "title_en": "Twin Peaks: Fire Walk with Me",
+    "slug": "1923-twin-peaks-fire-walk-with-me",
+    "folder": "movie",
+    "poster": "/t/p/w500/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+    "rating": 7.4,
+    "year": "1992",
+    "type": "movie",
+    "tmdb_id": 1923,
+    "genre_ids": [
+      18,
+      9648,
+      27
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "رعب"
+    ],
+    "timestamp": 1784372382,
+    "fixed": true
+  },
+  {
+    "title": "Egoli: Place of Gold / Egoli: Place of Gold",
+    "title_ar": "Egoli: Place of Gold",
+    "title_en": "Egoli: Place of Gold",
+    "slug": "12415-egoli-place-of-gold",
+    "folder": "tv",
+    "poster": "/t/p/w500/l8ivo9sEkKrLYRsNeyaVmAbH0eg.jpg",
+    "rating": 7.2,
+    "year": "1992",
+    "type": "tv",
+    "tmdb_id": 12415,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784372394,
+    "fixed": true
+  },
+  {
+    "title": "مراهق العائلة / Adolescence",
+    "title_ar": "مراهق العائلة",
+    "title_en": "Adolescence",
+    "slug": "249042-adolescence",
+    "folder": "tv",
+    "poster": "/t/p/w500/g6zVogWhyGtKrIqYK7Y5aUOt0ob.jpg",
+    "rating": 7.8,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 249042,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784372406,
+    "fixed": true
   }
 ]
