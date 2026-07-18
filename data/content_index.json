@@ -56216,5 +56216,95 @@
     ],
     "timestamp": 1784375804,
     "fixed": true
+  },
+  {
+    "title": "Raakaasa / Raakaasa",
+    "title_ar": "Raakaasa",
+    "title_en": "Raakaasa",
+    "slug": "1451078-raakaasa",
+    "folder": "movie",
+    "poster": "/t/p/w500/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1451078,
+    "genre_ids": [
+      14,
+      35
+    ],
+    "genres": [
+      "فانتازيا",
+      "كوميديا"
+    ],
+    "timestamp": 1784379938,
+    "fixed": true
+  },
+  {
+    "title": "Sweet Smell of Success / Sweet Smell of Success",
+    "title_ar": "Sweet Smell of Success",
+    "title_en": "Sweet Smell of Success",
+    "slug": "976-sweet-smell-of-success",
+    "folder": "movie",
+    "poster": "/t/p/w500/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+    "rating": 7.6,
+    "year": "1957",
+    "type": "movie",
+    "tmdb_id": 976,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784380038,
+    "fixed": true
+  },
+  {
+    "title": "IZUMI / Shoujo Commando IZUMI",
+    "title_ar": "IZUMI",
+    "title_en": "Shoujo Commando IZUMI",
+    "slug": "91791-shoujo-commando-izumi",
+    "folder": "tv",
+    "poster": "/t/p/w500/k8AN7L35uA6eEhVZZ1QlvXLWXsI.jpg",
+    "rating": 6.7,
+    "year": "1987",
+    "type": "tv",
+    "tmdb_id": 91791,
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784380051,
+    "fixed": true
+  },
+  {
+    "title": "Hell on Wheels / Hell on Wheels",
+    "title_ar": "Hell on Wheels",
+    "title_en": "Hell on Wheels",
+    "slug": "1401-hell-on-wheels",
+    "folder": "tv",
+    "poster": "/t/p/w500/ckC9pL9yeYpOoK5aJ7GbYYWheK7.jpg",
+    "rating": 7.6,
+    "year": "2011",
+    "type": "tv",
+    "tmdb_id": 1401,
+    "genre_ids": [
+      10759,
+      18,
+      37
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "غربي"
+    ],
+    "timestamp": 1784380071,
+    "fixed": true
   }
 ]

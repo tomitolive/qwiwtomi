@@ -370,6 +370,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1451078-raakaasa</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1451344-husbands-in-action</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/xrAgzeYhng1sQjfjJFJdrcZcFK3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/359410-road-house</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/34wZYMyJNONs9HpNjQMHeu4qqJt.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
