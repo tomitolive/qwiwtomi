@@ -7,6 +7,7 @@ import Script from "next/script";
 import ProtectedLink from "@/components/ProtectedLink";
 import ShareButton from "@/components/ShareButton";
 import Navbar from "@/components/Navbar";
+import MagsrvAd from "@/components/MagsrvAd";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -238,6 +239,9 @@ export default async function TVPage({ params }: Props) {
               ]} />
             </div>
 
+            {/* Ad 1 - بعد البريدكرامبس */}
+            <MagsrvAd />
+
             {/* Full Content Section */}
             <div className="bg-zinc-900 border border-zinc-800 p-4">
               <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
@@ -420,6 +424,9 @@ export default async function TVPage({ params }: Props) {
               </div>
             </div>
 
+            {/* Ad 2 - بعد تفاصيل المسلسل */}
+            <MagsrvAd />
+
             {/* Trailer Section */}
             {trailer && (
               <div className="bg-zinc-900 border border-zinc-800 p-4">
@@ -514,6 +521,9 @@ export default async function TVPage({ params }: Props) {
             </div>
           </div>
         )}
+
+        {/* Ad 3 - بعد المسلسلات المقترحة */}
+        <MagsrvAd />
 
         {/* Footer Carousels - 4 sections with sliding cards */}
         <div className="mt-8 space-y-8">

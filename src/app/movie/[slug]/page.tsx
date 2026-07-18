@@ -1,12 +1,21 @@
 import { Metadata } from "next";
 import { getDetails } from "@/lib/tmdb";
-import { getLocalContent, getLocalSimilar } from "@/lib/content";
+import { getLocalContent, getLocalSimilar, ContentGenre, ContentFaqItem } from "@/lib/content";
 import { buildMovieMetadata, formatBilingualTitle } from "@/lib/seo";
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Script from "next/script";
 import ProtectedLink from "@/components/ProtectedLink";
 import Navbar from "@/components/Navbar";
+import MagsrvAd from "@/components/MagsrvAd";
+
+interface TMDBVideo {
+  id: string;
+  key: string;
+  name: string;
+  site: string;
+  type: string;
+}
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -59,14 +68,14 @@ export default async function MoviePage({ params }: Props) {
 
   const data = local;
   const ai = local?.ai_content;
-  const genreIds: number[] = data.genres?.map((g: any) => g.id) || [];
+  const genreIds: number[] = data.genres?.map((g: ContentGenre) => g.id) || [];
 
   // Get trailer from TMDB safely
   let trailer = null;
   try {
     const tmdbDetails = await getDetails(id, "movie");
     const videos = tmdbDetails?.videos?.results || [];
-    trailer = videos.find((v: any) => v.type === "Trailer" && v.site === "YouTube") || videos[0];
+    trailer = videos.find((v: TMDBVideo) => v.type === "Trailer" && v.site === "YouTube") || videos[0];
   } catch (error) {
     console.error(`Failed to fetch TMDB details for movie ${id}:`, error);
   }
@@ -88,7 +97,7 @@ export default async function MoviePage({ params }: Props) {
   const extraDesc = ai?.desc_ar && data.overview && ai.desc_ar !== data.overview && ai.desc_ar.length > 30 && !ai.desc_ar.startsWith("مشاهدة وتحميل") ? ai.desc_ar : null;
   const year = (data.release_date || "2026").substring(0, 4);
   const rating = data.vote_average?.toFixed(1);
-  const genres = data.genres?.map((g: any) => g.name).join(" • ");
+  const genres = data.genres?.map((g: ContentGenre) => g.name).join(" • ");
   const backdrop = data.backdrop_path ? `/t/p/original${data.backdrop_path}` : "";
   const poster = data.poster_path ? `/t/p/w500${data.poster_path}` : "";
 
@@ -164,7 +173,7 @@ export default async function MoviePage({ params }: Props) {
 
               {/* Genres */}
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {data.genres?.map((g: any) => (
+                {data.genres?.map((g: ContentGenre) => (
                   <span key={g.id} className="px-2 md:px-3 py-1 md:py-1.5 bg-white/10 backdrop-blur-sm text-xs md:text-xs rounded-full border border-white/20 font-extrabold tracking-wider" style={{
                     color: 'transparent',
                     backgroundClip: 'text',
@@ -222,6 +231,9 @@ export default async function MoviePage({ params }: Props) {
                 { name: displayTitle, item: `/movie/${slug}` }
               ]} />
             </div>
+
+            {/* Ad 1 - بعد البريدكرامبس */}
+            <MagsrvAd />
 
             {/* Full Content Section */}
             <div className="bg-zinc-900 border border-zinc-800 p-4">
@@ -405,6 +417,9 @@ export default async function MoviePage({ params }: Props) {
               </div>
             </div>
 
+            {/* Ad 2 - بعد تفاصيل الفيلم */}
+            <MagsrvAd />
+
             {/* Trailer Section */}
             {trailer && (
               <div className="bg-zinc-900 border border-zinc-800 p-4">
@@ -438,7 +453,7 @@ export default async function MoviePage({ params }: Props) {
                   الأسئلة الشائعة
                 </h2>
                 <div className="space-y-3">
-                  {ai.faq.map((item: any, index: number) => (
+                  {ai.faq.map((item: ContentFaqItem, index: number) => (
                     <div key={index} className="border-b border-zinc-700 pb-3 last:border-0">
                       {/* Arabic / Default FAQ */}
                       <h3 className="text-white font-semibold mb-2">{item.q || item.question}</h3>
@@ -499,6 +514,9 @@ export default async function MoviePage({ params }: Props) {
             </div>
           </div>
         )}
+
+        {/* Ad 3 - بعد الأفلام المقترحة */}
+        <MagsrvAd />
 
         {/* Footer Carousels - 4 sections with sliding cards */}
         <div className="mt-8 space-y-8">

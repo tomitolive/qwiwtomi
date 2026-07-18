@@ -1,6 +1,8 @@
 import { getTMDBData } from "@/lib/tmdb";
 import { cookies } from "next/headers";
 import { getHomeContent } from "@/lib/home-content";
+import MagsrvAd from "@/components/MagsrvAd";
+
 
 const pageTranslations: Record<string, any> = {
   ar: {
