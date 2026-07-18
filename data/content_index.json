@@ -55772,5 +55772,93 @@
     ],
     "timestamp": 1784346797,
     "fixed": true
+  },
+  {
+    "title": "Night of the Living Dead / Night of the Living Dead",
+    "title_ar": "Night of the Living Dead",
+    "title_en": "Night of the Living Dead",
+    "slug": "1645603-night-of-the-living-dead",
+    "folder": "movie",
+    "poster": "/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "rating": 5.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1645603,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784354594,
+    "fixed": true
+  },
+  {
+    "title": "Waking Life / Waking Life",
+    "title_ar": "Waking Life",
+    "title_en": "Waking Life",
+    "slug": "9081-waking-life",
+    "folder": "movie",
+    "poster": "/t/p/w500/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+    "rating": 7.5,
+    "year": "2001",
+    "type": "movie",
+    "tmdb_id": 9081,
+    "genre_ids": [
+      16,
+      18,
+      14
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "فانتازيا"
+    ],
+    "timestamp": 1784354638,
+    "fixed": true
+  },
+  {
+    "title": "Rote Rosen / Rote Rosen",
+    "title_ar": "Rote Rosen",
+    "title_en": "Rote Rosen",
+    "slug": "27181-rote-rosen",
+    "folder": "tv",
+    "poster": "/t/p/w500/swL2qUjGrChFyj14ExwA0pwWtzv.jpg",
+    "rating": 3.0,
+    "year": "2006",
+    "type": "tv",
+    "tmdb_id": 27181,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1784354651,
+    "fixed": true
+  },
+  {
+    "title": "Big Time Rush / Big Time Rush",
+    "title_ar": "Big Time Rush",
+    "title_en": "Big Time Rush",
+    "slug": "31356-big-time-rush",
+    "folder": "tv",
+    "poster": "/t/p/w500/34y5JjZYj2paoxA0RXEppU5LRpb.jpg",
+    "rating": 8.6,
+    "year": "2009",
+    "type": "tv",
+    "tmdb_id": 31356,
+    "genre_ids": [
+      35,
+      10762
+    ],
+    "genres": [
+      "كوميديا",
+      "أطفال"
+    ],
+    "timestamp": 1784354662,
+    "fixed": true
   }
 ]

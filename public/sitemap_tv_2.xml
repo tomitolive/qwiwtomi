@@ -1297,6 +1297,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/27181-rote-rosen</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/swL2qUjGrChFyj14ExwA0pwWtzv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/272059-to-be-hero-x</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2413,6 +2422,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/31356-big-time-rush</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/34y5JjZYj2paoxA0RXEppU5LRpb.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/3137-babylon-5</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/325828-guardian-the-lonely-and-great-god-10th-anniversary</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/326119-thunder-3</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/EwgegTmDUuf71tjZCswhJGo79F.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
