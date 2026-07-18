@@ -516,78 +516,25 @@ def get_trending_keywords(query, geo='SA'):
 
 
 def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
-    """Fetch trending content from TMDB (US region), excluding existing content."""
+    """Fetch trending content from TMDB (US region), excluding existing content and LGBTQ+."""
     available_ids = available_ids or set()
     log.info(f"🔥 Fetching trending {media_type} (US region)...")
     
-    params = {
-        'api_key': tmdb_api_key,
-        'region': 'US'
-    }
-    
-    try:
-        response = requests.get(f"{TMDB_BASE_URL}/trending/{media_type}/day", params=params, timeout=15)
-        if response.status_code == 200:
-            data = response.json()
-            if 'results' in data and len(data['results']) > 0:
-                trends = []
-                for item in data['results'][:20]:
-                    tid = item.get('id')
-                    # Skip if already exists
-                    if tid in available_ids:
-                        continue
-                    
-                    title = item.get('title') or item.get('name')
-                    poster = item.get('poster_path')
-                    year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
-                    rating = round(item.get('vote_average', 0), 1)
-                    
-                    folder = 'movie' if media_type == 'movie' else 'tv'
-                    
-                    def clean_slug(text):
-                        res = re.sub(r'[^\w\s-]', '', text).strip().lower()
-                        res = re.sub(r'[-\s_]+', '-', res)
-                        return res
-                    
-                    slug = f"{tid}-{clean_slug(title)}"
-                    
-                    trends.append({
-                        'tmdb_id': tid,
-                        'title': title,
-                        'poster': poster,
-                        'year': year,
-                        'rating': rating,
-                        'folder': folder,
-                        'slug': slug
-                    })
-                
-                if trends:
-                    log.info(f"✅ Found {len(trends)} trending {media_type} (excluding existing)")
-                else:
-                    log.warning(f"⚠️ All trending {media_type} already exist in local data")
-                
-                return trends
-    except Exception as e:
-        log.error(f"Error fetching trending {media_type}: {e}")
-    
-    return []
-
-
-def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
-    """Fetch one random movie/tv with rating >= 7, excluding existing content."""
-    available_ids = available_ids or set()
-    log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7)...")
+    # Common LGBTQ+ keyword IDs on TMDB to exclude
+    lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
     
     endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
+
+    trends = []
     
-    # Try multiple pages for more variety
-    for page in range(1, 4):
+    # Loop up to 10 pages to ensure we find new content
+    for page in range(1, 11):
         params = {
             'api_key': tmdb_api_key,
-            'vote_average.gte': 7,
-            'vote_count.gte': 50,
-            'sort_by': 'vote_average.desc',
-            'page': page
+            'region': 'US',
+            'page': page,
+            'sort_by': 'popularity.desc',
+            'without_keywords': lgbt_keywords
         }
         
         try:
@@ -595,7 +542,78 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
             if response.status_code == 200:
                 data = response.json()
                 if 'results' in data and len(data['results']) > 0:
-                    results = data['results'][:20]
+                    for item in data['results']:
+                        tid = item.get('id')
+                        # Skip if already exists
+                        if tid in available_ids:
+                            continue
+                        
+                        title = item.get('title') or item.get('name')
+                        poster = item.get('poster_path')
+                        year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                        rating = round(item.get('vote_average', 0), 1)
+                        
+                        folder = 'movie' if media_type == 'movie' else 'tv'
+                        
+                        def clean_slug(text):
+                            res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                            res = re.sub(r'[-\s_]+', '-', res)
+                            return res
+                        
+                        slug = f"{tid}-{clean_slug(title)}"
+                        
+                        trends.append({
+                            'tmdb_id': tid,
+                            'title': title,
+                            'poster': poster,
+                            'year': year,
+                            'rating': rating,
+                            'folder': folder,
+                            'slug': slug
+                        })
+                        
+                        # Return immediately once we find enough new trends
+                        if len(trends) >= 3:
+                            log.info(f"✅ Found new trending {media_type} (excluding existing & LGBTQ+)")
+                            return trends
+        except Exception as e:
+            log.error(f"Error fetching trending {media_type} page {page}: {e}")
+            
+    if trends:
+        return trends
+
+    log.warning(f"⚠️ All trending {media_type} (up to page 10) already exist in local data")
+    return []
+
+
+def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
+    """Fetch one random movie/tv with rating >= 7, excluding existing content and LGBTQ+."""
+    available_ids = available_ids or set()
+    log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7)...")
+    
+    endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
+    
+    # Common LGBTQ+ keyword IDs on TMDB to exclude
+    lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
+    
+    # Try random pages for infinite variety
+    pages_to_try = random.sample(range(1, 100), 10)
+    for page in pages_to_try:
+        params = {
+            'api_key': tmdb_api_key,
+            'vote_average.gte': 7,
+            'vote_count.gte': 200,
+            'sort_by': 'vote_average.desc',
+            'page': page,
+            'without_keywords': lgbt_keywords
+        }
+        
+        try:
+            response = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                if 'results' in data and len(data['results']) > 0:
+                    results = data['results']
                     # Filter out existing content
                     filtered = [r for r in results if r.get('id') not in available_ids]
                     
