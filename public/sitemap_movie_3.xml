@@ -973,6 +973,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/47612-au-bonheur-des-dames</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/lcshMRxDFWDtT2W9ImBeyuYnbg4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/476299-ghostland</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/69700-one-mysterious-night</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/nxwh3o5mRGIZF0StbXPe2CV8zjn.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

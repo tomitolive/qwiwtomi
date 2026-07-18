@@ -56836,5 +56836,95 @@
     ],
     "timestamp": 1784405133,
     "fixed": true
+  },
+  {
+    "title": "Au Bonheur des Dames / Au Bonheur des Dames",
+    "title_ar": "Au Bonheur des Dames",
+    "title_en": "Au Bonheur des Dames",
+    "slug": "47612-au-bonheur-des-dames",
+    "folder": "movie",
+    "poster": "/t/p/w500/lcshMRxDFWDtT2W9ImBeyuYnbg4.jpg",
+    "rating": 6.3,
+    "year": "1930",
+    "type": "movie",
+    "tmdb_id": 47612,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784409262,
+    "fixed": true
+  },
+  {
+    "title": "الهاتف الأسود / The Black Phone",
+    "title_ar": "الهاتف الأسود",
+    "title_en": "The Black Phone",
+    "slug": "756999-the-black-phone",
+    "folder": "movie",
+    "poster": "/t/p/w500/cVS9bAvGM0HiyDfiOErwrUB2Iab.jpg",
+    "rating": 7.5,
+    "year": "2022",
+    "type": "movie",
+    "tmdb_id": 756999,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1784409274,
+    "fixed": true
+  },
+  {
+    "title": "Na lovu / Na lovu",
+    "title_ar": "Na lovu",
+    "title_en": "Na lovu",
+    "slug": "206679-na-lovu",
+    "folder": "tv",
+    "poster": "/t/p/w500/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+    "rating": 5.4,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 206679,
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "genres": [
+      "واقع",
+      "عائلي"
+    ],
+    "timestamp": 1784409285,
+    "fixed": true
+  },
+  {
+    "title": "فجر التاريخ الأمريكي / American Primeval",
+    "title_ar": "فجر التاريخ الأمريكي",
+    "title_en": "American Primeval",
+    "slug": "215866-american-primeval",
+    "folder": "tv",
+    "poster": "/t/p/w500/8Eh2IFoWxTVnl9ju01nOcxFczZo.jpg",
+    "rating": 7.7,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 215866,
+    "genre_ids": [
+      37,
+      18,
+      10759
+    ],
+    "genres": [
+      "غربي",
+      "دراما",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784409340,
+    "fixed": true
   }
 ]
