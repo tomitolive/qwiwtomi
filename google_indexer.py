@@ -141,6 +141,11 @@ def index_new_page(url):
     
     print(f"📡 Sending to Google Indexing API: {url}")
     status = notify_google_index(url)
+    
+    # 📡 Also send to Bing IndexNow
+    print(f"📡 Sending to Bing IndexNow: {url}")
+    notify_bing_indexnow([url])
+    
     if status == "SUCCESS" or status == "ERROR":
         indexed_ids.add(url_id)
         progress["indexed_ids"] = list(indexed_ids)
