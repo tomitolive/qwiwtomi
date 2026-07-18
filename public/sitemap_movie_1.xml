@@ -1450,6 +1450,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/11909-bullet-in-the-head</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5tY6VtjHlQl4dOjVNhzyJaItkdr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1193501-whistle</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2296,6 +2305,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1309083-dolly</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1311031-demon-slayer-kimetsu-no-yaiba-infinity-castle</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1376434-predator-killer-of-killers</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1380291-tom-clancys-jack-ryan-ghost-war</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/iBEQJqPdmzFvPjuTxy2KZtbsEQJ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

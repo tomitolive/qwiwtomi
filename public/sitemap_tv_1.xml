@@ -514,6 +514,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/115004-mare-of-easttown</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/115036-the-book-of-boba-fett</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/3qhjI1l576hR3GeEmR9FcYcH4p9.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/213703-agent-from-above</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/efFwhZ9uOCYVG3VSjBoLBqRypDv.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

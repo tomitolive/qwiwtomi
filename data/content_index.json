@@ -57012,5 +57012,95 @@
     ],
     "timestamp": 1784412905,
     "fixed": true
+  },
+  {
+    "title": "Dolly / Dolly",
+    "title_ar": "Dolly",
+    "title_en": "Dolly",
+    "slug": "1309083-dolly",
+    "folder": "movie",
+    "poster": "/t/p/w500/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",
+    "rating": 5.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1309083,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784417131,
+    "fixed": true
+  },
+  {
+    "title": "Bullet in the Head / Bullet in the Head",
+    "title_ar": "Bullet in the Head",
+    "title_en": "Bullet in the Head",
+    "slug": "11909-bullet-in-the-head",
+    "folder": "movie",
+    "poster": "/t/p/w500/5tY6VtjHlQl4dOjVNhzyJaItkdr.jpg",
+    "rating": 7.6,
+    "year": "1990",
+    "type": "movie",
+    "tmdb_id": 11909,
+    "genre_ids": [
+      28,
+      80,
+      53,
+      10752
+    ],
+    "genres": [
+      "حركة",
+      "جريمة",
+      "إثارة",
+      "حرب"
+    ],
+    "timestamp": 1784417143,
+    "fixed": true
+  },
+  {
+    "title": "Kangxi Coming / Kangxi Coming",
+    "title_ar": "Kangxi Coming",
+    "title_en": "Kangxi Coming",
+    "slug": "6836-kangxi-coming",
+    "folder": "tv",
+    "poster": "/t/p/w500/bVWEPDZHRSdd7voVled6CLLq1zB.jpg",
+    "rating": 7.7,
+    "year": "2004",
+    "type": "tv",
+    "tmdb_id": 6836,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1784417156,
+    "fixed": true
+  },
+  {
+    "title": "مير إيست تاون / Mare of Easttown",
+    "title_ar": "مير إيست تاون",
+    "title_en": "Mare of Easttown",
+    "slug": "115004-mare-of-easttown",
+    "folder": "tv",
+    "poster": "/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+    "rating": 8.2,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 115004,
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1784417168,
+    "fixed": true
   }
 ]
