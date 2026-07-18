@@ -13,6 +13,8 @@ export interface ContentFaqItem {
   a?: string;
   question?: string;
   answer?: string;
+  q_en?: string;
+  a_en?: string;
 }
 
 /** AI-generated blocks written by mega_bot / ai_engine */
