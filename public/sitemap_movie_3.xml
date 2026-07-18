@@ -568,6 +568,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/431937-mr-mme-adelman</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/53Zy4zL31TSjxjQ0awxVQTOVtBn.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/436969-the-suicide-squad</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/gLNZdWq7r8ZAyWuUxoke7qC0gy8.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/73353-man-in-the-mirror-the-michael-jackson-story</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qhp25BXUEqIaDFQbC7YI3h2FSqD.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
