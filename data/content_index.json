@@ -56306,5 +56306,91 @@
     ],
     "timestamp": 1784380071,
     "fixed": true
+  },
+  {
+    "title": "Zombies of the Third Reich / Zombies of the Third Reich",
+    "title_ar": "Zombies of the Third Reich",
+    "title_en": "Zombies of the Third Reich",
+    "slug": "1301310-zombies-of-the-third-reich",
+    "folder": "movie",
+    "poster": "/t/p/w500/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg",
+    "rating": 4.8,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1301310,
+    "genre_ids": [
+      27,
+      36
+    ],
+    "genres": [
+      "رعب",
+      "تاريخ"
+    ],
+    "timestamp": 1784385286,
+    "fixed": true
+  },
+  {
+    "title": "تنفس / Breathe",
+    "title_ar": "تنفس",
+    "title_en": "Breathe",
+    "slug": "407445-breathe",
+    "folder": "movie",
+    "poster": "/t/p/w500/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg",
+    "rating": 7.4,
+    "year": "2017",
+    "type": "movie",
+    "tmdb_id": 407445,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784385296,
+    "fixed": true
+  },
+  {
+    "title": "العالم الغربي / Westworld",
+    "title_ar": "العالم الغربي",
+    "title_en": "Westworld",
+    "slug": "63247-westworld",
+    "folder": "tv",
+    "poster": "/t/p/w500/qRnaQNbSrtdlvMR1ZAXnWbsZRmD.jpg",
+    "rating": 8.0,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 63247,
+    "genre_ids": [
+      10765,
+      37
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "غربي"
+    ],
+    "timestamp": 1784385308,
+    "fixed": true
+  },
+  {
+    "title": "Hidden Love / Hidden Love",
+    "title_ar": "Hidden Love",
+    "title_en": "Hidden Love",
+    "slug": "210733-hidden-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg",
+    "rating": 8.5,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 210733,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784385321,
+    "fixed": true
   }
 ]

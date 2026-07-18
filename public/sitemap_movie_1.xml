@@ -2206,6 +2206,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1301310-zombies-of-the-third-reich</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1301421-the-sheep-detectives</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/npLvwol2oZGLc0VeYYxJ72KXYwY.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1382832-hungry</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
