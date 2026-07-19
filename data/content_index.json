@@ -58258,5 +58258,95 @@
     ],
     "timestamp": 1784500059,
     "fixed": true
+  },
+  {
+    "title": "Le calde notti di Poppea / Poppeas Hot Nights",
+    "title_ar": "Le calde notti di Poppea",
+    "title_en": "Poppeas Hot Nights",
+    "slug": "424711-poppeas-hot-nights",
+    "folder": "movie",
+    "poster": "/t/p/w500/g1kB4f7aZBJnU2XZILZ8TsyDVVM.jpg",
+    "rating": 4.7,
+    "year": "1969",
+    "type": "movie",
+    "tmdb_id": 424711,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1784503770,
+    "fixed": true
+  },
+  {
+    "title": "The Theory of Everything / The Theory of Everything",
+    "title_ar": "The Theory of Everything",
+    "title_en": "The Theory of Everything",
+    "slug": "266856-the-theory-of-everything",
+    "folder": "movie",
+    "poster": "/t/p/w500/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+    "rating": 7.8,
+    "year": "2014",
+    "type": "movie",
+    "tmdb_id": 266856,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784503814,
+    "fixed": true
+  },
+  {
+    "title": "Minnale / Minnale",
+    "title_ar": "Minnale",
+    "title_en": "Minnale",
+    "slug": "317270-minnale",
+    "folder": "tv",
+    "poster": "/t/p/w500/wACr0ARXdPXZeakkw2ecg4PrDId.jpg",
+    "rating": 7.0,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 317270,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784503837,
+    "fixed": true
+  },
+  {
+    "title": "Invader ZIM / Invader ZIM",
+    "title_ar": "Invader ZIM",
+    "title_en": "Invader ZIM",
+    "slug": "3793-invader-zim",
+    "folder": "tv",
+    "poster": "/t/p/w500/nbphRMU1yjDjcMC5RCPyCxc4Yff.jpg",
+    "rating": 8.5,
+    "year": "2001",
+    "type": "tv",
+    "tmdb_id": 3793,
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10751
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "عائلي"
+    ],
+    "timestamp": 1784503851,
+    "fixed": true
   }
 ]

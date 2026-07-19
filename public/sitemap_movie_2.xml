@@ -2134,6 +2134,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/266856-the-theory-of-everything</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7kwcLFNt887saoQAL7EY0XnW7VI.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/268-batman</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/AiJRCzcZSVs9xPHoEKZRp80TyTA.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/335797-sing</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
