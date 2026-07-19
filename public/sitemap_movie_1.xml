@@ -442,6 +442,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/104894-a-garden-without-birds</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wbSCK7bKziQrSB0vYZSR2aTJ9I7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1049471-outcome</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1368166-the-housemaid</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/xWbrjqGtZn8Dp6uMPzBz6mKvuk3.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
