@@ -1612,6 +1612,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1219926-south-park-not-suitable-for-children</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/122-the-lord-of-the-rings-the-return-of-the-king</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1375646-colony</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

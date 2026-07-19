@@ -1243,6 +1243,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/13945-gute-zeiten-schlechte-zeiten</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/139512-trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/ge49OZww8kYdchAj38gA6z8ts5y.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2122-king-of-the-hill</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
