@@ -199,6 +199,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/1068-the-new-scooby-doo-movies</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/slBx9Vkh0ET9m2lgrD8KxJDL5T9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/107113-only-murders-in-the-building</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1603,6 +1612,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/14981-the-late-late-show-with-craig-ferguson</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1508-dancing-with-the-stars</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/21220-father-matteo</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/eawqydLHvZUGvgd9rAaCDM4qwbl.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/212989-lego-ninjago-dragons-rising</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
