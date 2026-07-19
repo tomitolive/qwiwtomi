@@ -57726,5 +57726,91 @@
     ],
     "timestamp": 1784476554,
     "fixed": true
+  },
+  {
+    "title": "Ghost Stories / Ghost Stories",
+    "title_ar": "Ghost Stories",
+    "title_en": "Ghost Stories",
+    "slug": "687259-ghost-stories",
+    "folder": "movie",
+    "poster": "/t/p/w500/m4ALMhsuqOOUkkABvgQWfrgoL8y.jpg",
+    "rating": 6.2,
+    "year": "1982",
+    "type": "movie",
+    "tmdb_id": 687259,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784480090,
+    "fixed": true
+  },
+  {
+    "title": "الوافد / Arrival",
+    "title_ar": "الوافد",
+    "title_en": "Arrival",
+    "slug": "329865-arrival",
+    "folder": "movie",
+    "poster": "/t/p/w500/7Yd1qVsFRypQPCiVbzZNDExJFo7.jpg",
+    "rating": 7.6,
+    "year": "2016",
+    "type": "movie",
+    "tmdb_id": 329865,
+    "genre_ids": [
+      18,
+      878,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "غموض"
+    ],
+    "timestamp": 1784480133,
+    "fixed": true
+  },
+  {
+    "title": "Match of the Day / Match of the Day",
+    "title_ar": "Match of the Day",
+    "title_en": "Match of the Day",
+    "slug": "224-match-of-the-day",
+    "folder": "tv",
+    "poster": "/t/p/w500/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+    "rating": 7.6,
+    "year": "1964",
+    "type": "tv",
+    "tmdb_id": 224,
+    "genre_ids": [
+      10767,
+      10763
+    ],
+    "genres": [
+      "حوار",
+      "أخبار"
+    ],
+    "timestamp": 1784480147,
+    "fixed": true
+  },
+  {
+    "title": "The Young Pope / The Young Pope",
+    "title_ar": "The Young Pope",
+    "title_en": "The Young Pope",
+    "slug": "62699-the-young-pope",
+    "folder": "tv",
+    "poster": "/t/p/w500/iaGH4pRNRFo7dTkvHmWJ9C4uPLM.jpg",
+    "rating": 7.7,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 62699,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784480159,
+    "fixed": true
   }
 ]

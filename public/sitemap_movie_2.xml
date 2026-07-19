@@ -2575,6 +2575,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/329865-arrival</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7Yd1qVsFRypQPCiVbzZNDExJFo7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/330457-frozen-ii</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6tEhtGf2eqsbr0SOzaMcBQz1Trz.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/339846-baywatch</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/854zLO17VxLFaDPqlU23r6bHLBn.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -361,6 +361,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/224-match-of-the-day</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/paRFRd11WlFOxVbGnzjjCBym7FW.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/224263-stranger-things-tales-from-85</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/314-star-trek-enterprise</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
