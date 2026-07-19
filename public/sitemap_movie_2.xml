@@ -910,6 +910,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1600-the-double-life-of-vronique</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/dC0WaoOLkUdFpwHgIXMIJdB1sT1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1601243-oscar-shaw</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/345938-the-shack</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
