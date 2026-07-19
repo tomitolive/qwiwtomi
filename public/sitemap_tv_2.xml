@@ -1117,6 +1117,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/251356-zdrada</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2RQIXdCkQzRgWB5KOKtLgxryK7a.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/251600-the-eternal-fragrance</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dNqHn5UCoa2vodPv5g1nfQE89R4.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/31692-kurau-phantom-memory</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/f5v386giaPRNsuowWCTdwyVLTp.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

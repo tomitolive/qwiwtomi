@@ -57364,5 +57364,73 @@
     ],
     "timestamp": 1784453223,
     "fixed": true
+  },
+  {
+    "title": "Sacco e Vanzetti / Sacco Vanzetti",
+    "title_ar": "Sacco e Vanzetti",
+    "title_en": "Sacco Vanzetti",
+    "slug": "48211-sacco-vanzetti",
+    "folder": "movie",
+    "poster": "/t/p/w500/f6TmHh1TGL39saDjCWaPUZhfwYC.jpg",
+    "rating": 7.7,
+    "year": "1971",
+    "type": "movie",
+    "tmdb_id": 48211,
+    "genre_ids": [
+      18,
+      36
+    ],
+    "genres": [
+      "دراما",
+      "تاريخ"
+    ],
+    "timestamp": 1784458416,
+    "fixed": true
+  },
+  {
+    "title": "Zdrada / Zdrada",
+    "title_ar": "Zdrada",
+    "title_en": "Zdrada",
+    "slug": "251356-zdrada",
+    "folder": "tv",
+    "poster": "/t/p/w500/2RQIXdCkQzRgWB5KOKtLgxryK7a.jpg",
+    "rating": 8.0,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 251356,
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1784458429,
+    "fixed": true
+  },
+  {
+    "title": "السحرة / The Magicians",
+    "title_ar": "السحرة",
+    "title_en": "The Magicians",
+    "slug": "64432-the-magicians",
+    "folder": "tv",
+    "poster": "/t/p/w500/A66dZN98BPEYeFQAhNdNCIXa57d.jpg",
+    "rating": 7.6,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 64432,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784458442,
+    "fixed": true
   }
 ]
