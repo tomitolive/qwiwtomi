@@ -57316,5 +57316,53 @@
     ],
     "timestamp": 1784444789,
     "fixed": true
+  },
+  {
+    "title": "Va, vis et deviens / Live and Become",
+    "title_ar": "Va, vis et deviens",
+    "title_en": "Live and Become",
+    "slug": "1986-live-and-become",
+    "folder": "movie",
+    "poster": "/t/p/w500/9epxWjiU1epDK3dg8DKnBhHP1bn.jpg",
+    "rating": 7.4,
+    "year": "2005",
+    "type": "movie",
+    "tmdb_id": 1986,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784453210,
+    "fixed": true
+  },
+  {
+    "title": "بينكي وبرين / Pinky and the Brain",
+    "title_ar": "بينكي وبرين",
+    "title_en": "Pinky and the Brain",
+    "slug": "2228-pinky-and-the-brain",
+    "folder": "tv",
+    "poster": "/t/p/w500/3jYJtTc3F2h8pDOm64K8ZkUVQJR.jpg",
+    "rating": 7.7,
+    "year": "1995",
+    "type": "tv",
+    "tmdb_id": 2228,
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765,
+      10762
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "عائلي",
+      "خيال علمي وفانتازيا",
+      "أطفال"
+    ],
+    "timestamp": 1784453223,
+    "fixed": true
   }
 ]
