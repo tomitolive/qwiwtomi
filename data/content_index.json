@@ -57988,5 +57988,91 @@
     ],
     "timestamp": 1784487732,
     "fixed": true
+  },
+  {
+    "title": "قيام الشر المميت / Evil Dead Rise",
+    "title_ar": "قيام الشر المميت",
+    "title_en": "Evil Dead Rise",
+    "slug": "713704-evil-dead-rise",
+    "folder": "movie",
+    "poster": "/t/p/w500/dzrJ9rcjzw2p3DKt9T4rJzqXzD6.jpg",
+    "rating": 6.9,
+    "year": "2023",
+    "type": "movie",
+    "tmdb_id": 713704,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1784491819,
+    "fixed": true
+  },
+  {
+    "title": "Achtste Groepers Huilen Niet / Cool Kids Dont Cry",
+    "title_ar": "Achtste Groepers Huilen Niet",
+    "title_en": "Cool Kids Dont Cry",
+    "slug": "115929-cool-kids-dont-cry",
+    "folder": "movie",
+    "poster": "/t/p/w500/Sjra8pU6vfnfEfy73MZdogfn5P.jpg",
+    "rating": 7.9,
+    "year": "2012",
+    "type": "movie",
+    "tmdb_id": 115929,
+    "genre_ids": [
+      10751,
+      10749,
+      18
+    ],
+    "genres": [
+      "عائلي",
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1784491832,
+    "fixed": true
+  },
+  {
+    "title": "Planet Wissen / Planet Wissen",
+    "title_ar": "Planet Wissen",
+    "title_en": "Planet Wissen",
+    "slug": "66759-planet-wissen",
+    "folder": "tv",
+    "poster": "/t/p/w500/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
+    "rating": 7.0,
+    "year": "2002",
+    "type": "tv",
+    "tmdb_id": 66759,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784491843,
+    "fixed": true
+  },
+  {
+    "title": "Neymar: O Caos Perfeito / Neymar: The Perfect Chaos",
+    "title_ar": "Neymar: O Caos Perfeito",
+    "title_en": "Neymar: The Perfect Chaos",
+    "slug": "153519-neymar-the-perfect-chaos",
+    "folder": "tv",
+    "poster": "/t/p/w500/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+    "rating": 7.3,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 153519,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784491853,
+    "fixed": true
   }
 ]

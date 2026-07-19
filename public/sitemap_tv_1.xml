@@ -1738,6 +1738,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/153519-neymar-the-perfect-chaos</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/153657-bosch-legacy</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/211288-tracker</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
