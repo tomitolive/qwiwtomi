@@ -57902,5 +57902,91 @@
     ],
     "timestamp": 1784483824,
     "fixed": true
+  },
+  {
+    "title": "Maa Inti Bangaram / Maa Inti Bangaram",
+    "title_ar": "Maa Inti Bangaram",
+    "title_en": "Maa Inti Bangaram",
+    "slug": "1227241-maa-inti-bangaram",
+    "folder": "movie",
+    "poster": "/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+    "rating": 7.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1227241,
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "genres": [
+      "حركة",
+      "إثارة",
+      "دراما"
+    ],
+    "timestamp": 1784487694,
+    "fixed": true
+  },
+  {
+    "title": "Smultronstllet / Wild Strawberries",
+    "title_ar": "Smultronstllet",
+    "title_en": "Wild Strawberries",
+    "slug": "614-wild-strawberries",
+    "folder": "movie",
+    "poster": "/t/p/w500/1Sh4fqJXnVVSvZ8XDppkf0sVdHZ.jpg",
+    "rating": 8.1,
+    "year": "1957",
+    "type": "movie",
+    "tmdb_id": 614,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784487706,
+    "fixed": true
+  },
+  {
+    "title": "Crazy Love, Moo-Moo! / Crazy Love, Moo-Moo!",
+    "title_ar": "Crazy Love, Moo-Moo!",
+    "title_en": "Crazy Love, Moo-Moo!",
+    "slug": "314402-crazy-love-moo-moo",
+    "folder": "tv",
+    "poster": "/t/p/w500/nhhfvJRIXC5a7d5eOZOhu1vrTWG.jpg",
+    "rating": 7.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 314402,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784487720,
+    "fixed": true
+  },
+  {
+    "title": "Candy / Candy",
+    "title_ar": "Candy",
+    "title_en": "Candy",
+    "slug": "105804-candy",
+    "folder": "tv",
+    "poster": "/t/p/w500/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg",
+    "rating": 7.1,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 105804,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784487732,
+    "fixed": true
   }
 ]

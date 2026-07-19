@@ -136,6 +136,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/105804-candy</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1059-t-j-hooker</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/211747-island</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ge49OZww8kYdchAj38gA6z8ts5y.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
