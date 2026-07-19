@@ -57432,5 +57432,75 @@
     ],
     "timestamp": 1784458442,
     "fixed": true
+  },
+  {
+    "title": "O Auto da Compadecida / A Dogs Will",
+    "title_ar": "O Auto da Compadecida",
+    "title_en": "A Dogs Will",
+    "slug": "40096-a-dogs-will",
+    "folder": "movie",
+    "poster": "/t/p/w500/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg",
+    "rating": 8.4,
+    "year": "2000",
+    "type": "movie",
+    "tmdb_id": 40096,
+    "genre_ids": [
+      35,
+      18,
+      14,
+      10749
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "فانتازيا",
+      "رومنسية"
+    ],
+    "timestamp": 1784462081,
+    "fixed": true
+  },
+  {
+    "title": "Hitler Didi / Hitler Didi",
+    "title_ar": "Hitler Didi",
+    "title_en": "Hitler Didi",
+    "slug": "41933-hitler-didi",
+    "folder": "tv",
+    "poster": "/t/p/w500/qwDJ7lsG5nSSMNp6xpcC5FnmS3s.jpg",
+    "rating": 2.0,
+    "year": "2011",
+    "type": "tv",
+    "tmdb_id": 41933,
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "عائلي",
+      "كوميديا"
+    ],
+    "timestamp": 1784462096,
+    "fixed": true
+  },
+  {
+    "title": "Baby / Baby",
+    "title_ar": "Baby",
+    "title_en": "Baby",
+    "slug": "82700-baby",
+    "folder": "tv",
+    "poster": "/t/p/w500/kSKgyS5ZwiMj97VQ2lD9IBtg1Wd.jpg",
+    "rating": 7.9,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 82700,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784462108,
+    "fixed": true
   }
 ]

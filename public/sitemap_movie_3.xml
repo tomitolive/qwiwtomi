@@ -460,6 +460,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/40096-a-dogs-will</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/402431-wicked</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vrmBGQRCW7TzoZS4XDNuVV60cgv.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/6844-the-ten-commandments</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/n7baShuR4TVdV4xgsvAFf59y0aR.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
