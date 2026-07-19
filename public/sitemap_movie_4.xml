@@ -964,6 +964,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/871-planet-of-the-apes</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/872585-oppenheimer</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>

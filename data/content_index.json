@@ -57170,5 +57170,53 @@
     ],
     "timestamp": 1784422853,
     "fixed": true
+  },
+  {
+    "title": "Planet of the Apes / Planet of the Apes",
+    "title_ar": "Planet of the Apes",
+    "title_en": "Planet of the Apes",
+    "slug": "871-planet-of-the-apes",
+    "folder": "movie",
+    "poster": "/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+    "rating": 7.7,
+    "year": "1968",
+    "type": "movie",
+    "tmdb_id": 871,
+    "genre_ids": [
+      878,
+      12,
+      18,
+      28
+    ],
+    "genres": [
+      "خيال علمي",
+      "مغامرة",
+      "دراما",
+      "حركة"
+    ],
+    "timestamp": 1784433916,
+    "fixed": true
+  },
+  {
+    "title": "Dont Fk with Cats: Hunting an Internet Killer / Dont Fk with Cats: Hunting an Internet Killer",
+    "title_ar": "Dont Fk with Cats: Hunting an Internet Killer",
+    "title_en": "Dont Fk with Cats: Hunting an Internet Killer",
+    "slug": "96129-dont-fk-with-cats-hunting-an-internet-killer",
+    "folder": "tv",
+    "poster": "/t/p/w500/Crc4XkhLddMTNJfj1iLca0w1Bb.jpg",
+    "rating": 7.6,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 96129,
+    "genre_ids": [
+      80,
+      99
+    ],
+    "genres": [
+      "جريمة",
+      "وثائقي"
+    ],
+    "timestamp": 1784433940,
+    "fixed": true
   }
 ]
