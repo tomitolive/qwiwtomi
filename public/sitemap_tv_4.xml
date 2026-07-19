@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/tv/65291-stuck-in-the-middle</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/phquU470KPL2XvWX0D6he5xwK3P.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/65294-a-series-of-unfortunate-events</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1924,6 +1933,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/tv/95941-zoeys-extraordinary-playlist</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg</image:loc>
     </image:image>
   </url>
   <url>

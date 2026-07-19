@@ -46,6 +46,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/214295-please-love-me</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/cj7iPJxiMUosrOoQUpn3i3yrU8s.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/21510-white-collar</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8jLjAXdwn3BsMB4VpOa8PSplgfw.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3163-foyles-war</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/dNqHn5UCoa2vodPv5g1nfQE89R4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

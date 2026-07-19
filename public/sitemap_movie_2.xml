@@ -1918,6 +1918,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/2517-nobody-knows</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gyKXQi9zWRQqa1qbXngUk4W0Skh.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/252969-secret-pleasures</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bvCEEs5l3ylNIgH4foqOmQk0qdi.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/343668-kingsman-the-golden-circle</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
