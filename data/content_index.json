@@ -57566,5 +57566,73 @@
     ],
     "timestamp": 1784466587,
     "fixed": true
+  },
+  {
+    "title": "El secreto de sus ojos / The Secret in Their Eyes",
+    "title_ar": "El secreto de sus ojos",
+    "title_en": "The Secret in Their Eyes",
+    "slug": "25376-the-secret-in-their-eyes",
+    "folder": "movie",
+    "poster": "/t/p/w500/4qGglMWuI4dHMHX8pMr1BbwaXkW.jpg",
+    "rating": 8.0,
+    "year": "2009",
+    "type": "movie",
+    "tmdb_id": 25376,
+    "genre_ids": [
+      9648,
+      53,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "إثارة",
+      "دراما"
+    ],
+    "timestamp": 1784471908,
+    "fixed": true
+  },
+  {
+    "title": "This Is Us / This Is Us",
+    "title_ar": "This Is Us",
+    "title_en": "This Is Us",
+    "slug": "67136-this-is-us",
+    "folder": "tv",
+    "poster": "/t/p/w500/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+    "rating": 8.2,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 67136,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784471954,
+    "fixed": true
+  },
+  {
+    "title": "The Librarians / The Librarians",
+    "title_ar": "The Librarians",
+    "title_en": "The Librarians",
+    "slug": "61599-the-librarians",
+    "folder": "tv",
+    "poster": "/t/p/w500/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
+    "rating": 7.2,
+    "year": "2014",
+    "type": "tv",
+    "tmdb_id": 61599,
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784471979,
+    "fixed": true
   }
 ]

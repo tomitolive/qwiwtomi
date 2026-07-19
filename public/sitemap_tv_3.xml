@@ -2395,6 +2395,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/61599-the-librarians</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/61818-late-night-with-seth-meyers</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/x8ic33t4NurJul1oXmvKwKtWH28.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/6479-marco-polo</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8ev49IKXhJpiDVLFijjKL1y3Ct1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
