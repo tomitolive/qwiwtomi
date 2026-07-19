@@ -57218,5 +57218,57 @@
     ],
     "timestamp": 1784433940,
     "fixed": true
+  },
+  {
+    "title": "Steven Universe: The Movie / Steven Universe: The Movie",
+    "title_ar": "Steven Universe: The Movie",
+    "title_en": "Steven Universe: The Movie",
+    "slug": "537061-steven-universe-the-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+    "rating": 8.2,
+    "year": "2019",
+    "type": "movie",
+    "tmdb_id": 537061,
+    "genre_ids": [
+      10770,
+      16,
+      10751,
+      12,
+      14
+    ],
+    "genres": [
+      "فيلم تلفازي",
+      "رسوم متحركة",
+      "عائلي",
+      "مغامرة",
+      "فانتازيا"
+    ],
+    "timestamp": 1784435097,
+    "fixed": true
+  },
+  {
+    "title": "Them / Them",
+    "title_ar": "Them",
+    "title_en": "Them",
+    "slug": "120462-them",
+    "folder": "tv",
+    "poster": "/t/p/w500/bJw1VZ4ACt5TnAvJbHcprzgYc1E.jpg",
+    "rating": 7.6,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 120462,
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1784435110,
+    "fixed": true
   }
 ]

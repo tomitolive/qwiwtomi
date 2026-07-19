@@ -766,6 +766,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/120462-them</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/bJw1VZ4ACt5TnAvJbHcprzgYc1E.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/120516-the-greatest-event-in-television-history</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/77JSE7rHSCkQBlNoi4hPgyzWiRu.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2132-the-dick-van-dyke-show</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/w2Tcx36ybQEczP5zkUhPwaehgeL.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

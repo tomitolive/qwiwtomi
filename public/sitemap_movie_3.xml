@@ -1522,6 +1522,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/537061-steven-universe-the-movie</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8mRgpubxHqnqvENK4Bei30xMDvy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/539-psycho</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mBfLDsgqqdeYKxhLWz0jeUzz41B.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/68726-pacific-rim</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
