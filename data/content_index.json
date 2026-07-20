@@ -58994,5 +58994,89 @@
     ],
     "timestamp": 1784567877,
     "fixed": true
+  },
+  {
+    "title": "2 / Ip Man: Kung Fu Legend",
+    "title_ar": "2",
+    "title_en": "Ip Man: Kung Fu Legend",
+    "slug": "1628071-ip-man-kung-fu-legend",
+    "folder": "movie",
+    "poster": "/t/p/w500/QcHi4NdJi6FoXeU8DDmJAT71K0.jpg",
+    "rating": 5.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1628071,
+    "genre_ids": [
+      28
+    ],
+    "genres": [
+      "حركة"
+    ],
+    "timestamp": 1784581160,
+    "fixed": true
+  },
+  {
+    "title": "All Elite Wrestling: Collision / All Elite Wrestling: Collision",
+    "title_ar": "All Elite Wrestling: Collision",
+    "title_en": "All Elite Wrestling: Collision",
+    "slug": "226687-all-elite-wrestling-collision",
+    "folder": "tv",
+    "poster": "/t/p/w500/85ZKXqPiZHjPPxeoR26dyodqHVZ.jpg",
+    "rating": 7.7,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 226687,
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1784581260,
+    "fixed": true
+  },
+  {
+    "title": "رجال في مهمة / Men on a Mission",
+    "title_ar": "رجال في مهمة",
+    "title_en": "Men on a Mission",
+    "slug": "70672-men-on-a-mission",
+    "folder": "tv",
+    "poster": "/t/p/w500/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+    "rating": 7.4,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 70672,
+    "genre_ids": [
+      10764,
+      35
+    ],
+    "genres": [
+      "واقع",
+      "كوميديا"
+    ],
+    "timestamp": 1784581277,
+    "fixed": true
+  },
+  {
+    "title": "Star Wars: The Mandalorian and Grogu A Special Look / Star Wars: The Mandalorian and Grogu A Special Look",
+    "title_ar": "Star Wars: The Mandalorian and Grogu A Special Look",
+    "title_en": "Star Wars: The Mandalorian and Grogu A Special Look",
+    "slug": "321564-star-wars-the-mandalorian-and-grogu-a-special-look",
+    "folder": "tv",
+    "poster": "/t/p/w500/2YI9C4Ynr952BQj0e9qe6V5P6p8.jpg",
+    "rating": 8.3,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 321564,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784581302,
+    "fixed": true
   }
 ]
