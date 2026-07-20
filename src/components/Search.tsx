@@ -135,6 +135,12 @@ export default function Search() {
         type="text"
         value={query}
         onChange={(e) => handleSearch(e.target.value)}
+        onKeyDown={(e) => {
+          if (e.key === "Enter" && query.trim().length >= 1) {
+            setIsOpen(false);
+            router.push(`/search?q=${encodeURIComponent(query.trim())}`);
+          }
+        }}
         placeholder="ابحث عن فيلم أو مسلسل..."
         className="w-full bg-input border-none rounded-lg py-2.5 px-10 text-sm focus:outline-none transition-all placeholder:text-gray-600"
         style={{ touchAction: 'manipulation' }}
