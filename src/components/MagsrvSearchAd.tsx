@@ -28,7 +28,7 @@ export default function MagsrvSearchAd() {
   }, []);
 
   return (
-    <div style={{ textAlign: "center", margin: "16px auto", overflow: "hidden" }}>
+    <div style={{ textAlign: "center", overflow: "hidden" }}>
       <ins
         className="eas6a97888e37"
         data-zoneid="5980994"
