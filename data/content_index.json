@@ -58438,5 +58438,97 @@
     ],
     "timestamp": 1784509595,
     "fixed": true
+  },
+  {
+    "title": "The Dog Stars / The Dog Stars",
+    "title_ar": "The Dog Stars",
+    "title_en": "The Dog Stars",
+    "slug": "1384216-the-dog-stars",
+    "folder": "movie",
+    "poster": "/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1384216,
+    "genre_ids": [
+      12,
+      878,
+      53
+    ],
+    "genres": [
+      "مغامرة",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1784515025,
+    "fixed": true
+  },
+  {
+    "title": "Dear You / Dear You",
+    "title_ar": "Dear You",
+    "title_en": "Dear You",
+    "slug": "1671548-dear-you",
+    "folder": "movie",
+    "poster": "/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+    "rating": 9.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1671548,
+    "genre_ids": [
+      18,
+      10751,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "عائلي",
+      "كوميديا"
+    ],
+    "timestamp": 1784515055,
+    "fixed": true
+  },
+  {
+    "title": "Home Alone / Home Alone",
+    "title_ar": "Home Alone",
+    "title_en": "Home Alone",
+    "slug": "65282-home-alone",
+    "folder": "tv",
+    "poster": "/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+    "rating": 7.5,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 65282,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784515068,
+    "fixed": true
+  },
+  {
+    "title": "Spooky in Love / Spooky in Love",
+    "title_ar": "Spooky in Love",
+    "title_en": "Spooky in Love",
+    "slug": "298610-spooky-in-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 298610,
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1784515101,
+    "fixed": true
   }
 ]
