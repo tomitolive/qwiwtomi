@@ -2368,6 +2368,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1308767-young-washington</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1309083-dolly</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1363123-the-family-plan-2</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/semFxuYx6HcrkZzslgAkBqfJvZk.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

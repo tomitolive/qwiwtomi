@@ -58790,5 +58790,121 @@
     ],
     "timestamp": 1784543947,
     "fixed": true
+  },
+  {
+    "title": "المحقق كونان: الملاك الساقط في الطريق السريع / Detective Conan: Fallen Angel of the Highway",
+    "title_ar": "المحقق كونان: الملاك الساقط في الطريق السريع",
+    "title_en": "Detective Conan: Fallen Angel of the Highway",
+    "slug": "1545621-detective-conan-fallen-angel-of-the-highway",
+    "folder": "movie",
+    "poster": "/t/p/w500/l2kfiNoRi6ofM5pSjr1rCloOfpx.jpg",
+    "rating": 7.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1545621,
+    "genre_ids": [
+      16,
+      28,
+      9648,
+      80
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1784555000,
+    "fixed": true
+  },
+  {
+    "title": "Young Washington / Young Washington",
+    "title_ar": "Young Washington",
+    "title_en": "Young Washington",
+    "slug": "1308767-young-washington",
+    "folder": "movie",
+    "poster": "/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+    "rating": 8.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1308767,
+    "genre_ids": [
+      36,
+      10752,
+      18
+    ],
+    "genres": [
+      "تاريخ",
+      "حرب",
+      "دراما"
+    ],
+    "timestamp": 1784555012,
+    "fixed": true
+  },
+  {
+    "title": "Kyunki... Saas Bhi Kabhi Bahu Thi... / Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "title_ar": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "title_en": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "slug": "6060-kyunki-saas-bhi-kabhi-bahu-thi",
+    "folder": "tv",
+    "poster": "/t/p/w500/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+    "rating": 3.4,
+    "year": "2000",
+    "type": "tv",
+    "tmdb_id": 6060,
+    "genre_ids": [
+      18,
+      10751,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "عائلي",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784555027,
+    "fixed": true
+  },
+  {
+    "title": "منتجع / Resort",
+    "title_ar": "منتجع",
+    "title_en": "Resort",
+    "slug": "315038-resort",
+    "folder": "tv",
+    "poster": "/t/p/w500/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 315038,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784555037,
+    "fixed": true
+  },
+  {
+    "title": "Caressing My Hibernating Bear / Caressing My Hibernating Bear",
+    "title_ar": "Caressing My Hibernating Bear",
+    "title_en": "Caressing My Hibernating Bear",
+    "slug": "204269-caressing-my-hibernating-bear",
+    "folder": "tv",
+    "poster": "/t/p/w500/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+    "rating": 5.7,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 204269,
+    "genre_ids": [
+      16
+    ],
+    "genres": [
+      "رسوم متحركة"
+    ],
+    "timestamp": 1784555051,
+    "fixed": true
   }
 ]

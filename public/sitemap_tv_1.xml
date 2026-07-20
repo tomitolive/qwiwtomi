@@ -2503,6 +2503,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/204269-caressing-my-hibernating-bear</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/20464-healing-hands</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/210865-golden-boy</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/zhTDZtUfpB8sCbCgjqYKsxfY2os.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
