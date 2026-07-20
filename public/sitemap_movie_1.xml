@@ -973,6 +973,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1101383-the-end-of-oak-street</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1102883-mother-mary</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/semFxuYx6HcrkZzslgAkBqfJvZk.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1363387-saccharine</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
