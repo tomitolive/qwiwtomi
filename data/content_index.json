@@ -58708,5 +58708,87 @@
     ],
     "timestamp": 1784529541,
     "fixed": true
+  },
+  {
+    "title": "كيف تصنع الثروة قاتل / How to Make a Killing",
+    "title_ar": "كيف تصنع الثروة قاتل",
+    "title_en": "How to Make a Killing",
+    "slug": "467905-how-to-make-a-killing",
+    "folder": "movie",
+    "poster": "/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 467905,
+    "genre_ids": [
+      35,
+      53
+    ],
+    "genres": [
+      "كوميديا",
+      "إثارة"
+    ],
+    "timestamp": 1784543902,
+    "fixed": true
+  },
+  {
+    "title": "Wonderland / Wonderland",
+    "title_ar": "Wonderland",
+    "title_en": "Wonderland",
+    "slug": "126398-wonderland",
+    "folder": "tv",
+    "poster": "/t/p/w500/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
+    "rating": 6.8,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 126398,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784543915,
+    "fixed": true
+  },
+  {
+    "title": "Raw / Raw",
+    "title_ar": "Raw",
+    "title_en": "Raw",
+    "slug": "4656-raw",
+    "folder": "tv",
+    "poster": "/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "rating": 6.8,
+    "year": "1993",
+    "type": "tv",
+    "tmdb_id": 4656,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784543929,
+    "fixed": true
+  },
+  {
+    "title": "Overdo / Overdo",
+    "title_ar": "Overdo",
+    "title_en": "Overdo",
+    "slug": "289139-overdo",
+    "folder": "tv",
+    "poster": "/t/p/w500/4e1ycw3hY6aAtUGIsLOk80gTobn.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 289139,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784543947,
+    "fixed": true
   }
 ]

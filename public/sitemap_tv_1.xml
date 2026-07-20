@@ -973,6 +973,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/126398-wonderland</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/126506-smiling-friends</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/zhTDZtUfpB8sCbCgjqYKsxfY2os.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/210879-rurouni-kenshin</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mCafSOuO3PqgoxaweNCo45KpctE.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
