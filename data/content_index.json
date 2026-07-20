@@ -58348,5 +58348,95 @@
     ],
     "timestamp": 1784503851,
     "fixed": true
+  },
+  {
+    "title": "Bosco damore / Bosco damore",
+    "title_ar": "Bosco damore",
+    "title_en": "Bosco damore",
+    "slug": "204407-bosco-damore",
+    "folder": "movie",
+    "poster": "/t/p/w500/jNV46xSIONTEvIAWon6NnveH7eG.jpg",
+    "rating": 4.7,
+    "year": "1981",
+    "type": "movie",
+    "tmdb_id": 204407,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784509557,
+    "fixed": true
+  },
+  {
+    "title": "I cento passi / One Hundred Steps",
+    "title_ar": "I cento passi",
+    "title_en": "One Hundred Steps",
+    "slug": "29458-one-hundred-steps",
+    "folder": "movie",
+    "poster": "/t/p/w500/pScb9QrLFeqlLsDGL9pXMWGiMz2.jpg",
+    "rating": 7.8,
+    "year": "2000",
+    "type": "movie",
+    "tmdb_id": 29458,
+    "genre_ids": [
+      18,
+      36
+    ],
+    "genres": [
+      "دراما",
+      "تاريخ"
+    ],
+    "timestamp": 1784509569,
+    "fixed": true
+  },
+  {
+    "title": "Bittersweet Love / Bittersweet Love",
+    "title_ar": "Bittersweet Love",
+    "title_en": "Bittersweet Love",
+    "slug": "316540-bittersweet-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/8cp0T45VlImvWqnuJXxTEoDwKjG.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 316540,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784509582,
+    "fixed": true
+  },
+  {
+    "title": "أنت غير عادية / Extraordinary You",
+    "title_ar": "أنت غير عادية",
+    "title_en": "Extraordinary You",
+    "slug": "93657-extraordinary-you",
+    "folder": "tv",
+    "poster": "/t/p/w500/aGqyFrtmHIjGQ7ZYPpFTxptF5ei.jpg",
+    "rating": 8.1,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 93657,
+    "genre_ids": [
+      10765,
+      35,
+      10759,
+      18
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "كوميديا",
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1784509595,
+    "fixed": true
   }
 ]
