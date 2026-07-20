@@ -58906,5 +58906,93 @@
     ],
     "timestamp": 1784555051,
     "fixed": true
+  },
+  {
+    "title": "Idhayam Murali / Idhayam Murali",
+    "title_ar": "Idhayam Murali",
+    "title_en": "Idhayam Murali",
+    "slug": "1432631-idhayam-murali",
+    "folder": "movie",
+    "poster": "/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+    "rating": 7.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1432631,
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1784567838,
+    "fixed": true
+  },
+  {
+    "title": "Secret Story / Secret Story",
+    "title_ar": "Secret Story",
+    "title_en": "Secret Story",
+    "slug": "46271-secret-story",
+    "folder": "tv",
+    "poster": "/t/p/w500/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+    "rating": 3.5,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 46271,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784567851,
+    "fixed": true
+  },
+  {
+    "title": "Swallowed Star / Swallowed Star",
+    "title_ar": "Swallowed Star",
+    "title_en": "Swallowed Star",
+    "slug": "101172-swallowed-star",
+    "folder": "tv",
+    "poster": "/t/p/w500/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
+    "rating": 8.3,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 101172,
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784567866,
+    "fixed": true
+  },
+  {
+    "title": "عندما تمنحك الحياة ثمار اليوسفي / When Life Gives You Tangerines",
+    "title_ar": "عندما تمنحك الحياة ثمار اليوسفي",
+    "title_en": "When Life Gives You Tangerines",
+    "slug": "219246-when-life-gives-you-tangerines",
+    "folder": "tv",
+    "poster": "/t/p/w500/vtncx2AmW9ajahOsKVxsRrG56qd.jpg",
+    "rating": 8.8,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 219246,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784567877,
+    "fixed": true
   }
 ]

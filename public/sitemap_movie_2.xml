@@ -451,6 +451,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1432631-idhayam-murali</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/14359-doubt</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/eRsjW25YfROtayinWVI8HVIHyoX.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/324786-hacksaw-ridge</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

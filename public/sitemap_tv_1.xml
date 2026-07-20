@@ -64,6 +64,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/101172-swallowed-star</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/dShQsQFLSivwCIRjC7crsnznPXY.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/10160-big-brother</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/sIWIB7Q6vsU3b4ULoa6a1kq7SXg.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/210733-hidden-love</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
