@@ -1954,6 +1954,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1257009-primitive-war</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2Xum1rE9XtOAy0TovRld4o51qBF.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/12613-street-fighter-ii-the-animated-movie</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2332,6 +2341,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1307247-ok-madam-bon-voyage</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/xDbrWXB9yb5aEdt4peVy8OWNP2Y.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1307373-wasteman</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bCHPB5WZy4T0Rerh1GTuQLzU0rF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1367220-karuppu</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1367642-reminders-of-him</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
