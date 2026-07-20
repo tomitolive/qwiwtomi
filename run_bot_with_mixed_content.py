@@ -38,15 +38,48 @@ def is_already_processed(tmdb_id):
     content_file = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
     return os.path.exists(content_file)
 
-# Fetch mixed content for movies
+# Fetch mixed content for movies (2 items)
 print("\n🎬 Fetching mixed content for movies...")
 movies = fetch_mixed_content('movie')
-print(f"Movies fetched: {len(movies)}")
+# Ensure we get exactly 2 movies by retrying if needed
+max_attempts = 3
+attempt = 0
+while len(movies) < 2 and attempt < max_attempts:
+    attempt += 1
+    if attempt > 1:
+        print(f"  🔄 Retry attempt {attempt} to get more movies...")
+        more_movies = fetch_mixed_content('movie')
+        # Add only new movies not already in the list
+        existing_ids = {m['tmdb_id'] for m in movies}
+        for m in more_movies:
+            if m['tmdb_id'] not in existing_ids:
+                movies.append(m)
+                existing_ids.add(m['tmdb_id'])
+                if len(movies) >= 2:
+                    break
+movies = movies[:2]
+print(f"✅ Movies fetched: {len(movies)} (required: 2)")
 
-# Fetch mixed content for tv
+# Fetch mixed content for tv (3 items)
 print("\n📺 Fetching mixed content for tv...")
 tv_shows = fetch_mixed_content('tv')
-print(f"TV shows fetched: {len(tv_shows)}")
+# Ensure we get exactly 3 TV shows by retrying if needed
+attempt = 0
+while len(tv_shows) < 3 and attempt < max_attempts:
+    attempt += 1
+    if attempt > 1:
+        print(f"  🔄 Retry attempt {attempt} to get more TV shows...")
+        more_tv = fetch_mixed_content('tv')
+        # Add only new TV shows not already in the list
+        existing_ids = {t['tmdb_id'] for t in tv_shows}
+        for t in more_tv:
+            if t['tmdb_id'] not in existing_ids:
+                tv_shows.append(t)
+                existing_ids.add(t['tmdb_id'])
+                if len(tv_shows) >= 3:
+                    break
+tv_shows = tv_shows[:3]
+print(f"✅ TV shows fetched: {len(tv_shows)} (required: 3)")
 
 # Create pages for movies
 print("\n📄 Creating pages for movies...")

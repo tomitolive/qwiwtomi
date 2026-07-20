@@ -405,6 +405,24 @@ def fetch_trailer_key(tmdb_id, media_type):
 def fetch_details(tmdb_id, media_type):
     ar_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'ar'})
     en_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'en'})
+    
+    # Check for adult content before proceeding
+    title = ar_data.get('title') or en_data.get('title') or en_data.get('name') or ''
+    overview = ar_data.get('overview') or en_data.get('overview') or ''
+    
+    # Adult content keywords to filter out (in English and Arabic)
+    adult_keywords = [
+        'porn', 'xxx', 'sex', 'erotic', 'adult', 'nude', 'naked', 'hardcore',
+        'softcore', 'erotica', 'pornography', 'incest', 'taboo',
+        'إباحي', 'جنس', 'عري', 'محظور', 'إغراء'
+    ]
+    
+    text_to_check = f"{title} {overview}".lower()
+    for keyword in adult_keywords:
+        if keyword.lower() in text_to_check:
+            log.warning(f"🚫 Adult content blocked in fetch_details: '{keyword}' found in {title} (ID: {tmdb_id})")
+            return None
+    
     credits = get_tmdb_data(f"{media_type}/{tmdb_id}/credits", {})
     similar = get_tmdb_data(f"{media_type}/{tmdb_id}/similar", {'language': 'en'})
     return {'ar': ar_data, 'en': en_data, 'credits': credits, 'similar': similar}

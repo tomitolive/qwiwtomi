@@ -2,6 +2,8 @@ import { getTMDBData } from "@/lib/tmdb";
 import { cookies } from "next/headers";
 import { getHomeContent } from "@/lib/home-content";
 import MagsrvAd from "@/components/MagsrvAd";
+import { Metadata } from "next";
+import Script from "next/script";
 
 
 const pageTranslations: Record<string, any> = {
@@ -102,6 +104,35 @@ const pageTranslations: Record<string, any> = {
     }
   }
 };
+
+export async function generateMetadata(): Promise<Metadata> {
+  return {
+    title: "توميتو — مشاهدة أفلام ومسلسلات أون لاين بجودة HD",
+    description: "توميتو هو موقعك الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات من جميع أنحاء العالم مترجمة بجودة عالية HD و 4K بدون إعلانات مزعجة. استمتع بمشاهدة أفلام الأكشن والدراما والكوميديا والرعب والخيال العلمي والمسلسلات الحصرية أون لاين مجاناً. مكتبة ضخمة تشمل الأفلام الأمريكية والهندية والآسيوية والتركية والعربية والأوروبية والفيتنامية والكورية والأنمي الياباني والكوري. جميع الأنواع متوفرة: أفلام رعب، أفلام أكشن، أفلام دراما، أفلام كوميديا، أفلام رومانسية، أفلام خيال علمي، أفلام مغامرة، أفلام جريمة، أفلام إثارة، أفلام فانتازيا، أفلام تاريخية، أفلام حرب، أفلام عائلية، أفلام رسوم متحركة، أفلام غموض، مسلسلات تركية، مسلسلات كورية، مسلسلات عربية، مسلسلات أمريكية، مسلسلات هندية، مسلسلات آسيوية، مسلسلات أوروبية، أنمي، أفلام فيتنامية. جودات متعددة للمشاهدة والتحميل: 480p, 720p, 1080p, 4K, BluRay, WEB-DL, HD, FHD, UHD, HDR, Dolby Vision, HDTV, DVDRip, BRRip, x264, x265, HEVC, 1080p BluRay, 720p WEB-DL, 480p HDTV.",
+    keywords: "أفلام أون لاين, مسلسلات مترجمة, مشاهدة أفلام, تحميل مسلسلات, أفلام عربي, أفلام هوليود, مسلسلات تركية, أفلام بدون إعلانات, توميتو, tomito xyz, أفلام أمريكية, أفلام هندية, أفلام آسيوية, أفلام تركية, أفلام عربية, أفلام أوروبية, أفلام فيتنامية, أفلام كورية, أنمي, مسلسلات كورية, مسلسلات عربية, مسلسلات أمريكية, مسلسلات هندية, أفلام رعب, أفلام أكشن, أفلام دراما, أفلام كوميديا, أفلام رومانسية, أفلام خيال علمي, أفلام مغامرة, أفلام جريمة, أفلام إثارة, أفلام فانتازيا, 480p, 720p, 1080p, 4K, BluRay, WEB-DL, HD, FHD, UHD, HDR, Dolby Vision, HDTV, DVDRip, BRRip, x264, x265, HEVC",
+    openGraph: {
+      title: "توميتو — مشاهدة أفلام ومسلسلات أون لاين بجودة HD",
+      description: "توميتو هو موقعك الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات من جميع أنحاء العالم مترجمة بجودة عالية HD و 4K بدون إعلانات مزعجة. مكتبة ضخمة تشمل الأفلام الأمريكية والهندية والآسيوية والتركية والعربية والأوروبية والفيتنامية والكورية والأنمي. جودات متعددة: 480p, 720p, 1080p, 4K, BluRay, WEB-DL.",
+      url: "https://tomito.xyz",
+      siteName: "توميتو",
+      images: [
+        {
+          url: "https://tomito.xyz/background.jpeg",
+          width: 1200,
+          height: 630,
+        },
+      ],
+      locale: "ar_AR",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "توميتو — مشاهدة أفلام ومسلسلات أون لاين بجودة HD",
+      description: "توميتو هو موقعك الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات من جميع أنحاء العالم مترجمة بجودة عالية HD و 4K بدون إعلانات مزعجة. مكتبة ضخمة تشمل الأفلام الأمريكية والهندية والآسيوية والتركية والعربية والأوروبية والفيتنامية والكورية والأنمي. جودات متعددة: 480p, 720p, 1080p, 4K, BluRay, WEB-DL.",
+      images: ["https://tomito.xyz/background.jpeg"],
+    },
+  };
+}
 
 function CardItem({ item, getLink, getAlt, getPoster }: any) {
   return (
@@ -223,6 +254,35 @@ export default async function Home() {
 
   return (
     <div className="bg-background text-foreground min-h-screen" style={{ paddingTop: '64px' }}>
+      {/* SEO H1 - Hidden visually but accessible for screen readers and SEO */}
+      <h1 className="sr-only" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0, 0, 0, 0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
+        توميتو — مشاهدة أفلام ومسلسلات أون لاين بجودة HD
+      </h1>
+
+      {/* Schema.org JSON-LD for WebSite */}
+      <Script
+        id="website-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "توميتو",
+            "alternateName": "Tomito",
+            "url": "https://tomito.xyz",
+            "description": "توميتو هو موقعك الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات من جميع أنحاء العالم مترجمة بجودة عالية HD و 4K بدون إعلانات مزعجة. مكتبة ضخمة تشمل الأفلام الأمريكية والهندية والآسيوية والتركية والعربية والأوروبية والفيتنامية والكورية والأنمي. جودات متعددة للمشاهدة والتحميل: 480p, 720p, 1080p, 4K, BluRay, WEB-DL.",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://tomito.xyz/search?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          })
+        }}
+      />
+
       {/* ═══════ NEWS BAR ═══════ */}
       <div className="tc-news-bar">
         <div className="tc-news-bar-inner">

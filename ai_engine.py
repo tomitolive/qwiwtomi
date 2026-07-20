@@ -100,6 +100,27 @@ def is_valid_title_ar(text):
     
     return False
 
+def is_adult_content(title, overview):
+    """Check if content is adult/explicit based on title and overview."""
+    if not title and not overview:
+        return False
+    
+    # Adult content keywords to filter out (in English and Arabic)
+    adult_keywords = [
+        'porn', 'xxx', 'sex', 'erotic', 'adult', 'nude', 'naked', 'hardcore',
+        'softcore', 'erotica', 'pornography', 'incest', 'taboo',
+        'إباحي', 'جنس', 'عري', 'محظور', 'إغراء'
+    ]
+    
+    text_to_check = f"{title or ''} {overview or ''}".lower()
+    
+    for keyword in adult_keywords:
+        if keyword.lower() in text_to_check:
+            log.warning(f"🚫 Adult content detected: '{keyword}' found in title/overview")
+            return True
+    
+    return False
+
 def clean_arabic_text(text):
     """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
@@ -516,12 +537,15 @@ def get_trending_keywords(query, geo='SA'):
 
 
 def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
-    """Fetch trending content from TMDB (US region), excluding existing content and LGBTQ+."""
+    """Fetch trending content from TMDB (US region), excluding existing content, LGBTQ+, and adult content."""
     available_ids = available_ids or set()
     log.info(f"🔥 Fetching trending {media_type} (US region)...")
     
     # Common LGBTQ+ keyword IDs on TMDB to exclude
     lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
+    
+    # Adult content genre IDs to exclude (Adult, Erotica)
+    adult_genres = "299697,299696"
     
     endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
 
@@ -534,7 +558,9 @@ def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
             'region': 'US',
             'page': page,
             'sort_by': 'popularity.desc',
-            'without_keywords': lgbt_keywords
+            'without_keywords': lgbt_keywords,
+            'without_genres': adult_genres,
+            'include_adult': 'false'
         }
         
         try:
@@ -549,6 +575,13 @@ def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
                             continue
                         
                         title = item.get('title') or item.get('name')
+                        overview = item.get('overview', '')
+                        
+                        # Check for adult content
+                        if is_adult_content(title, overview):
+                            log.warning(f"🚫 Skipping adult content: {title} (ID: {tid})")
+                            continue
+                        
                         poster = item.get('poster_path')
                         year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
                         rating = round(item.get('vote_average', 0), 1)
@@ -587,7 +620,7 @@ def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
 
 
 def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
-    """Fetch one random movie/tv with rating >= 7, excluding existing content and LGBTQ+."""
+    """Fetch one random movie/tv with rating >= 7, excluding existing content, LGBTQ+, and adult content."""
     available_ids = available_ids or set()
     log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7)...")
     
@@ -595,6 +628,9 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
     
     # Common LGBTQ+ keyword IDs on TMDB to exclude
     lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
+    
+    # Adult content genre IDs to exclude (Adult, Erotica)
+    adult_genres = "299697,299696"
     
     # Try random pages for infinite variety
     pages_to_try = random.sample(range(1, 100), 10)
@@ -605,7 +641,9 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
             'vote_count.gte': 200,
             'sort_by': 'vote_average.desc',
             'page': page,
-            'without_keywords': lgbt_keywords
+            'without_keywords': lgbt_keywords,
+            'without_genres': adult_genres,
+            'include_adult': 'false'
         }
         
         try:
@@ -622,6 +660,13 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
                         
                         tid = item.get('id')
                         title = item.get('title') or item.get('name')
+                        overview = item.get('overview', '')
+                        
+                        # Check for adult content
+                        if is_adult_content(title, overview):
+                            log.warning(f"🚫 Skipping adult content: {title} (ID: {tid})")
+                            continue
+                        
                         poster = item.get('poster_path')
                         year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
                         rating = round(item.get('vote_average', 0), 1)
@@ -669,25 +714,147 @@ def get_available_ids():
 
 
 def fetch_mixed_content(media_type, tmdb_api_key=TMDB_API_KEY):
-    """Fetch 1 trending + 1 random high-rated content, excluding existing content."""
+    """Fetch content using rotating TMDB endpoints (now_playing, top_rated, popular, trending, etc.)."""
     available_ids = get_available_ids()
     log.info(f"📊 Found {len(available_ids)} existing items in local data")
     
-    trending = fetch_trending(media_type, tmdb_api_key, available_ids)
-    random_item = fetch_random_high_rated(media_type, tmdb_api_key, available_ids)
+    # Define endpoints for rotation
+    if media_type == 'movie':
+        endpoints_group1 = [
+            ('now_playing', 'now_playing'),
+            ('top_rated', 'top_rated'),
+            ('popular', 'popular'),
+            ('trending', 'trending/day')
+        ]
+        endpoints_group2 = [
+            ('trending', 'trending/week'),
+            ('upcoming', 'upcoming'),
+            ('popular', 'popular'),
+            ('top_rated', 'top_rated')
+        ]
+    else:  # tv
+        endpoints_group1 = [
+            ('airing_today', 'airing_today'),
+            ('top_rated', 'top_rated'),
+            ('popular', 'popular'),
+            ('trending', 'trending/day')
+        ]
+        endpoints_group2 = [
+            ('on_the_air', 'on_the_air'),
+            ('trending', 'trending/week'),
+            ('popular', 'popular'),
+            ('top_rated', 'top_rated')
+        ]
+    
+    # Rotate between groups based on time (every 30 minutes)
+    import time
+    current_time = int(time.time())
+    use_group1 = (current_time // 1800) % 2 == 0  # Switch every 30 minutes
+    
+    endpoints = endpoints_group1 if use_group1 else endpoints_group2
+    log.info(f"🔄 Using endpoint group: {'Group 1' if use_group1 else 'Group 2'}")
     
     result = []
     
-    # Get top trending (already filtered)
-    if trending:
-        result.append(trending[0])
+    # Fetch from each endpoint in the group
+    for endpoint_type, endpoint_path in endpoints:
+        items = fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, available_ids)
+        if items:
+            result.extend(items)
+            if len(result) >= 3:  # Get up to 3 items per media type
+                break
     
-    # Get random high-rated (already filtered)
-    if random_item:
-        result.append(random_item)
+    # Deduplicate by tmdb_id
+    seen_ids = set()
+    unique_result = []
+    for item in result:
+        if item['tmdb_id'] not in seen_ids:
+            seen_ids.add(item['tmdb_id'])
+            unique_result.append(item)
     
-    log.info(f"✅ Returning {len(result)} new {media_type} items")
-    return result
+    log.info(f"✅ Returning {len(unique_result)} new {media_type} items")
+    return unique_result
+
+
+def fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, available_ids):
+    """Fetch content from a specific TMDB endpoint."""
+    available_ids = available_ids or set()
+    log.info(f"🔍 Fetching from {endpoint_type} ({endpoint_path}) for {media_type}...")
+    
+    # Adult content filters
+    lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
+    adult_genres = "299697,299696"
+    
+    items = []
+    
+    # Try up to 3 pages
+    for page in range(1, 4):
+        if endpoint_type == 'trending':
+            url = f"{TMDB_BASE_URL}/trending/{media_type}/{endpoint_path.split('/')[1]}"
+            params = {
+                'api_key': tmdb_api_key,
+                'page': page
+            }
+        else:
+            url = f"{TMDB_BASE_URL}/{media_type}/{endpoint_type}"
+            params = {
+                'api_key': tmdb_api_key,
+                'page': page,
+                'without_keywords': lgbt_keywords,
+                'without_genres': adult_genres,
+                'include_adult': 'false'
+            }
+        
+        try:
+            response = requests.get(url, params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                results = data.get('results', [])
+                
+                for item in results:
+                    tid = item.get('id')
+                    if tid in available_ids:
+                        continue
+                    
+                    title = item.get('title') or item.get('name')
+                    overview = item.get('overview', '')
+                    
+                    # Check for adult content
+                    if is_adult_content(title, overview):
+                        log.warning(f"🚫 Skipping adult content: {title} (ID: {tid})")
+                        continue
+                    
+                    poster = item.get('poster_path')
+                    year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                    rating = round(item.get('vote_average', 0), 1)
+                    
+                    folder = 'movie' if media_type == 'movie' else 'tv'
+                    
+                    def clean_slug(text):
+                        res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                        res = re.sub(r'[-\s_]+', '-', res)
+                        return res
+                    
+                    slug = f"{tid}-{clean_slug(title)}"
+                    
+                    items.append({
+                        'tmdb_id': tid,
+                        'title': title,
+                        'poster': poster,
+                        'year': year,
+                        'rating': rating,
+                        'folder': folder,
+                        'slug': slug
+                    })
+                    
+                    if len(items) >= 2:
+                        log.info(f"✅ Found {len(items)} items from {endpoint_type}")
+                        return items
+                        
+        except Exception as e:
+            log.error(f"Error fetching from {endpoint_type} page {page}: {e}")
+    
+    return items
 
 
 def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en, year, genres_ar, media_type, actor=None, platform=None, is_arabic_content=False, *args, **kwargs):
