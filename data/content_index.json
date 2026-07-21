@@ -59504,5 +59504,93 @@
     ],
     "timestamp": 1784653624,
     "fixed": true
+  },
+  {
+    "title": "Other Mommy / Other Mommy",
+    "title_ar": "Other Mommy",
+    "title_en": "Other Mommy",
+    "slug": "1400837-other-mommy",
+    "folder": "movie",
+    "poster": "/t/p/w500/8CXwxpyvQiz9COMLZov4Oae8NKb.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1400837,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784667416,
+    "fixed": true
+  },
+  {
+    "title": "University Challenge / University Challenge",
+    "title_ar": "University Challenge",
+    "title_en": "University Challenge",
+    "slug": "5266-university-challenge",
+    "folder": "tv",
+    "poster": "/t/p/w500/cqczsSUFFOlAYQ2QOsrDo9tkhWi.jpg",
+    "rating": 6.2,
+    "year": "1962",
+    "type": "tv",
+    "tmdb_id": 5266,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1784667461,
+    "fixed": true
+  },
+  {
+    "title": "All Elite Wrestling: Dynamite / All Elite Wrestling: Dynamite",
+    "title_ar": "All Elite Wrestling: Dynamite",
+    "title_en": "All Elite Wrestling: Dynamite",
+    "slug": "91555-all-elite-wrestling-dynamite",
+    "folder": "tv",
+    "poster": "/t/p/w500/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+    "rating": 8.0,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 91555,
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1784667474,
+    "fixed": true
+  },
+  {
+    "title": "دكتور ستون / Dr. STONE",
+    "title_ar": "دكتور ستون",
+    "title_en": "Dr. STONE",
+    "slug": "86031-dr-stone",
+    "folder": "tv",
+    "poster": "/t/p/w500/fxmigTNZHRfBQ7h13vs8K5H5f77.jpg",
+    "rating": 8.5,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 86031,
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784667484,
+    "fixed": true
   }
 ]

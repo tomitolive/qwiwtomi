@@ -2206,6 +2206,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/5266-university-challenge</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/cqczsSUFFOlAYQ2QOsrDo9tkhWi.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/52661-nayagi</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/5XBk7T4NsGeN9RG39y2nU6gRWQl.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/61379-monthly-girls-nozaki-kun</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/maPv22inKIcyfOCil3wrWiyJ7gC.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
