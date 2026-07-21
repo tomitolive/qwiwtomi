@@ -59412,5 +59412,97 @@
     ],
     "timestamp": 1784639444,
     "fixed": true
+  },
+  {
+    "title": "Satluj / Satluj",
+    "title_ar": "Satluj",
+    "title_en": "Satluj",
+    "slug": "1155818-satluj",
+    "folder": "movie",
+    "poster": "/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
+    "rating": 7.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1155818,
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "genres": [
+      "جريمة",
+      "دراما",
+      "تاريخ"
+    ],
+    "timestamp": 1784653588,
+    "fixed": true
+  },
+  {
+    "title": "WWE NXT / WWE NXT",
+    "title_ar": "WWE NXT",
+    "title_en": "WWE NXT",
+    "slug": "31991-wwe-nxt",
+    "folder": "tv",
+    "poster": "/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+    "rating": 6.7,
+    "year": "2010",
+    "type": "tv",
+    "tmdb_id": 31991,
+    "genre_ids": [
+      10759,
+      18,
+      10764
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "واقع"
+    ],
+    "timestamp": 1784653599,
+    "fixed": true
+  },
+  {
+    "title": "Shortland Street / Shortland Street",
+    "title_ar": "Shortland Street",
+    "title_en": "Shortland Street",
+    "slug": "4504-shortland-street",
+    "folder": "tv",
+    "poster": "/t/p/w500/7T7TphnK6yvz9J5sMbJ5UyquYWK.jpg",
+    "rating": 5.3,
+    "year": "1992",
+    "type": "tv",
+    "tmdb_id": 4504,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1784653613,
+    "fixed": true
+  },
+  {
+    "title": "البدائي / Primal",
+    "title_ar": "البدائي",
+    "title_en": "Primal",
+    "slug": "89456-primal",
+    "folder": "tv",
+    "poster": "/t/p/w500/kNgrVdp3wFXPPrv10Eo4GF52ZLh.jpg",
+    "rating": 8.7,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 89456,
+    "genre_ids": [
+      10759,
+      16
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "رسوم متحركة"
+    ],
+    "timestamp": 1784653624,
+    "fixed": true
   }
 ]

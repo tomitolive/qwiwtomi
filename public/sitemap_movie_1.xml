@@ -1261,6 +1261,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1155818-satluj</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/11586-exorcist-ii-the-heretic</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qE6bHAtqroAdwPTJ1DvyIrK3nuY.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1359607-miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
