@@ -2170,6 +2170,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/1900-live-with-kelly-and-mark</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1908-miami-vice</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2rIponPNCeiWkAoEkz4MHJCFRdo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/210272-one-day-off</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fumf21EdFlDqqUFsGEVXNF03ng9.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
