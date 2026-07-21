@@ -59242,5 +59242,89 @@
     ],
     "timestamp": 1784614927,
     "fixed": true
+  },
+  {
+    "title": "Three Kingdoms: The Beginning / Three Kingdoms: The Beginning",
+    "title_ar": "Three Kingdoms: The Beginning",
+    "title_en": "Three Kingdoms: The Beginning",
+    "slug": "1671541-three-kingdoms-the-beginning",
+    "folder": "movie",
+    "poster": "/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1671541,
+    "genre_ids": [
+      16,
+      36
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "تاريخ"
+    ],
+    "timestamp": 1784628744,
+    "fixed": true
+  },
+  {
+    "title": "Americas Got Talent / Americas Got Talent",
+    "title_ar": "Americas Got Talent",
+    "title_en": "Americas Got Talent",
+    "slug": "4551-americas-got-talent",
+    "folder": "tv",
+    "poster": "/t/p/w500/y9Lee4CQ7mAD8B5PAExU6D4oEp5.jpg",
+    "rating": 5.7,
+    "year": "2006",
+    "type": "tv",
+    "tmdb_id": 4551,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784628758,
+    "fixed": true
+  },
+  {
+    "title": "Emmerdale / Emmerdale",
+    "title_ar": "Emmerdale",
+    "title_en": "Emmerdale",
+    "slug": "2527-emmerdale",
+    "folder": "tv",
+    "poster": "/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+    "rating": 4.3,
+    "year": "1972",
+    "type": "tv",
+    "tmdb_id": 2527,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1784628801,
+    "fixed": true
+  },
+  {
+    "title": "تشيرنوبيل / Chernobyl",
+    "title_ar": "تشيرنوبيل",
+    "title_en": "Chernobyl",
+    "slug": "87108-chernobyl",
+    "folder": "tv",
+    "poster": "/t/p/w500/dJFMw4g86jVOzfmGI2Q1NTE5h8c.jpg",
+    "rating": 8.7,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 87108,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784628814,
+    "fixed": true
   }
 ]

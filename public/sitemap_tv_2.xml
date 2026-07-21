@@ -1306,6 +1306,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/2527-emmerdale</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/253-star-trek</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/j73WOp6ArCy8vK4vreIdSunoXAr.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/308014-berlin-and-the-lady-with-an-ermine</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kSh4JujFOj1uFBVIiDrwxgUGlG1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

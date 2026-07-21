@@ -1288,6 +1288,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1671541-three-kingdoms-the-beginning</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1671548-dear-you</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/tevlzPwtzc5KYPONsS2sGqYQoPG.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/315635-spider-man-homecoming</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/6sTSMOw6n5AZc18RNm1s4wOkVIP.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
