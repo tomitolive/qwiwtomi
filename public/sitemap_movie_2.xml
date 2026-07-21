@@ -1432,6 +1432,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1723013-hibla-2</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1725116-simpsley</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mvPR52hepNXBNBezFeLtEorbruo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/315162-puss-in-boots-the-last-wish</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tevlzPwtzc5KYPONsS2sGqYQoPG.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
