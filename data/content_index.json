@@ -59078,5 +59078,87 @@
     ],
     "timestamp": 1784581302,
     "fixed": true
+  },
+  {
+    "title": "Borderline / Borderline",
+    "title_ar": "Borderline",
+    "title_en": "Borderline",
+    "slug": "1727780-borderline",
+    "folder": "movie",
+    "poster": "/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1727780,
+    "genre_ids": [
+      53
+    ],
+    "genres": [
+      "إثارة"
+    ],
+    "timestamp": 1784596822,
+    "fixed": true
+  },
+  {
+    "title": "Australian Story / Australian Story",
+    "title_ar": "Australian Story",
+    "title_en": "Australian Story",
+    "slug": "12317-australian-story",
+    "folder": "tv",
+    "poster": "/t/p/w500/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+    "rating": 5.3,
+    "year": "1996",
+    "type": "tv",
+    "tmdb_id": 12317,
+    "genre_ids": [
+      99,
+      10763
+    ],
+    "genres": [
+      "وثائقي",
+      "أخبار"
+    ],
+    "timestamp": 1784596868,
+    "fixed": true
+  },
+  {
+    "title": "Un si grand soleil / Chronicles of the Sun",
+    "title_ar": "Un si grand soleil",
+    "title_en": "Chronicles of the Sun",
+    "slug": "81329-chronicles-of-the-sun",
+    "folder": "tv",
+    "poster": "/t/p/w500/m1z5FCcnKWBl2dEt8J81RmQnqmr.jpg",
+    "rating": 6.6,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 81329,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784596898,
+    "fixed": true
+  },
+  {
+    "title": "Heated Rivalry / Heated Rivalry",
+    "title_ar": "Heated Rivalry",
+    "title_en": "Heated Rivalry",
+    "slug": "301507-heated-rivalry",
+    "folder": "tv",
+    "poster": "/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+    "rating": 8.8,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 301507,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784596923,
+    "fixed": true
   }
 ]
