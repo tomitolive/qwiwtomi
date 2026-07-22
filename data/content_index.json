@@ -59850,5 +59850,93 @@
     ],
     "timestamp": 1784715189,
     "fixed": true
+  },
+  {
+    "title": "صاحب القلب الشجاع سيحوز على العروسة / Dilwale Dulhania Le Jayenge",
+    "title_ar": "صاحب القلب الشجاع سيحوز على العروسة",
+    "title_en": "Dilwale Dulhania Le Jayenge",
+    "slug": "19404-dilwale-dulhania-le-jayenge",
+    "folder": "movie",
+    "poster": "/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "rating": 8.5,
+    "year": "1995",
+    "type": "movie",
+    "tmdb_id": 19404,
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784726164,
+    "fixed": true
+  },
+  {
+    "title": "Ici tout commence / Ici tout commence",
+    "title_ar": "Ici tout commence",
+    "title_en": "Ici tout commence",
+    "slug": "112470-ici-tout-commence",
+    "folder": "tv",
+    "poster": "/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+    "rating": 6.9,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 112470,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1784726176,
+    "fixed": true
+  },
+  {
+    "title": "Big Brother / Big Brother",
+    "title_ar": "Big Brother",
+    "title_en": "Big Brother",
+    "slug": "100128-big-brother",
+    "folder": "tv",
+    "poster": "/t/p/w500/7Lp5sg13ohIpsUp6YTCYJEsy8yp.jpg",
+    "rating": 2.5,
+    "year": "2000",
+    "type": "tv",
+    "tmdb_id": 100128,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784726187,
+    "fixed": true
+  },
+  {
+    "title": "الزهرة العطرة تزهر بكرامة / The Fragrant Flower Blooms with Dignity",
+    "title_ar": "الزهرة العطرة تزهر بكرامة",
+    "title_en": "The Fragrant Flower Blooms with Dignity",
+    "slug": "271607-the-fragrant-flower-blooms-with-dignity",
+    "folder": "tv",
+    "poster": "/t/p/w500/wWWjqHUBJ0xdtWaacMYTRadRtsM.jpg",
+    "rating": 8.6,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 271607,
+    "genre_ids": [
+      16,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما"
+    ],
+    "timestamp": 1784726198,
+    "fixed": true
   }
 ]

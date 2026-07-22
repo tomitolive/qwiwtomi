@@ -1702,6 +1702,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/19404-dilwale-dulhania-le-jayenge</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1948-crank</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8aTpo9gqkO8rg5xEgNTXxg53QjC.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/308266-war-dogs</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
