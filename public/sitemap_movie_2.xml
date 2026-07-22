@@ -2053,6 +2053,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/240-the-godfather-part-ii</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/lLAMPTG6H4tXOA8Eb59zUnfGQi5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/240832-lucy</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/311-once-upon-a-time-in-america</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/f8GGENmL2WWJeaBPk0VmeGbDcSf.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

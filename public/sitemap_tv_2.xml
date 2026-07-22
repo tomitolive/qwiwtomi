@@ -397,6 +397,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/2221-the-view</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/222233-doctor-slump</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1549,6 +1558,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/260609-com-si-fos-ahir</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/260823-from-old-country-bumpkin-to-master-swordsman</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/tUQQ0jaYuOBdZFrzJ9Z5wyI67cG.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/3022-rugrats</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/302519-victoria-of-many-faces</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

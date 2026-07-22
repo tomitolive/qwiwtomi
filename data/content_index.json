@@ -59764,5 +59764,91 @@
     ],
     "timestamp": 1784701328,
     "fixed": true
+  },
+  {
+    "title": "العراب: الجزء الثاني / The Godfather Part II",
+    "title_ar": "العراب: الجزء الثاني",
+    "title_en": "The Godfather Part II",
+    "slug": "240-the-godfather-part-ii",
+    "folder": "movie",
+    "poster": "/t/p/w500/lLAMPTG6H4tXOA8Eb59zUnfGQi5.jpg",
+    "rating": 8.6,
+    "year": "1974",
+    "type": "movie",
+    "tmdb_id": 240,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784715121,
+    "fixed": true
+  },
+  {
+    "title": "Com si fos ahir / Com si fos ahir",
+    "title_ar": "Com si fos ahir",
+    "title_en": "Com si fos ahir",
+    "slug": "260609-com-si-fos-ahir",
+    "folder": "tv",
+    "poster": "/t/p/w500/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
+    "rating": 5.5,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 260609,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784715165,
+    "fixed": true
+  },
+  {
+    "title": "The View / The View",
+    "title_ar": "The View",
+    "title_en": "The View",
+    "slug": "2221-the-view",
+    "folder": "tv",
+    "poster": "/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+    "rating": 4.3,
+    "year": "1997",
+    "type": "tv",
+    "tmdb_id": 2221,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1784715178,
+    "fixed": true
+  },
+  {
+    "title": "الكوكب الأزرق 2 / Blue Planet II",
+    "title_ar": "الكوكب الأزرق 2",
+    "title_en": "Blue Planet II",
+    "slug": "74313-blue-planet-ii",
+    "folder": "tv",
+    "poster": "/t/p/w500/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+    "rating": 8.6,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 74313,
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "genres": [
+      "وثائقي",
+      "عائلي"
+    ],
+    "timestamp": 1784715189,
+    "fixed": true
   }
 ]
