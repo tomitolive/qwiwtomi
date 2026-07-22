@@ -59592,5 +59592,89 @@
     ],
     "timestamp": 1784667484,
     "fixed": true
+  },
+  {
+    "title": "Morte Cucina / Morte Cucina",
+    "title_ar": "Morte Cucina",
+    "title_en": "Morte Cucina",
+    "slug": "1141970-morte-cucina",
+    "folder": "movie",
+    "poster": "/t/p/w500/1CdRrEcwaFEXMNyhlwRkMSaSpG3.jpg",
+    "rating": 3.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1141970,
+    "genre_ids": [
+      53,
+      18
+    ],
+    "genres": [
+      "إثارة",
+      "دراما"
+    ],
+    "timestamp": 1784683091,
+    "fixed": true
+  },
+  {
+    "title": "Na Wsplnej / Na Wsplnej",
+    "title_ar": "Na Wsplnej",
+    "title_en": "Na Wsplnej",
+    "slug": "14750-na-wsplnej",
+    "folder": "tv",
+    "poster": "/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+    "rating": 4.7,
+    "year": "2003",
+    "type": "tv",
+    "tmdb_id": 14750,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784683103,
+    "fixed": true
+  },
+  {
+    "title": "Cosmos: A Personal Voyage / Cosmos: A Personal Voyage",
+    "title_ar": "Cosmos: A Personal Voyage",
+    "title_en": "Cosmos: A Personal Voyage",
+    "slug": "1430-cosmos-a-personal-voyage",
+    "folder": "tv",
+    "poster": "/t/p/w500/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
+    "rating": 8.7,
+    "year": "1980",
+    "type": "tv",
+    "tmdb_id": 1430,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784683113,
+    "fixed": true
+  },
+  {
+    "title": "كوكب الأرض 2 / Planet Earth II",
+    "title_ar": "كوكب الأرض 2",
+    "title_en": "Planet Earth II",
+    "slug": "68595-planet-earth-ii",
+    "folder": "tv",
+    "poster": "/t/p/w500/5maYKYzWpE68ycxGh1luu4P2LOS.jpg",
+    "rating": 8.6,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 68595,
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "genres": [
+      "وثائقي",
+      "عائلي"
+    ],
+    "timestamp": 1784683123,
+    "fixed": true
   }
 ]
