@@ -235,6 +235,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1397485-girls-like-girls</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1398050-drivers-ed</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/f8GGENmL2WWJeaBPk0VmeGbDcSf.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/312-beyond-silence</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/c7pZYrEeI5OAnEDIzoQv3UhdwGY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

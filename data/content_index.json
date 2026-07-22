@@ -59676,5 +59676,93 @@
     ],
     "timestamp": 1784683123,
     "fixed": true
+  },
+  {
+    "title": "Girls Like Girls / Girls Like Girls",
+    "title_ar": "Girls Like Girls",
+    "title_en": "Girls Like Girls",
+    "slug": "1397485-girls-like-girls",
+    "folder": "movie",
+    "poster": "/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg",
+    "rating": 7.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1397485,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1784701206,
+    "fixed": true
+  },
+  {
+    "title": "Hollyoaks / Hollyoaks",
+    "title_ar": "Hollyoaks",
+    "title_en": "Hollyoaks",
+    "slug": "966-hollyoaks",
+    "folder": "tv",
+    "poster": "/t/p/w500/5sbMgcbpzZn8aKETeanrKDANzdM.jpg",
+    "rating": 5.2,
+    "year": "1995",
+    "type": "tv",
+    "tmdb_id": 966,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784701305,
+    "fixed": true
+  },
+  {
+    "title": "La promesa / La promesa",
+    "title_ar": "La promesa",
+    "title_en": "La promesa",
+    "slug": "212907-la-promesa",
+    "folder": "tv",
+    "poster": "/t/p/w500/t6q9xzdt3XGnEvbvMtD9GxpQaW4.jpg",
+    "rating": 8.2,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 212907,
+    "genre_ids": [
+      18,
+      9648,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "غموض",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784701317,
+    "fixed": true
+  },
+  {
+    "title": "هنيئا مريئا، جلالتك / Bon Apptit, Your Majesty",
+    "title_ar": "هنيئا مريئا، جلالتك",
+    "title_en": "Bon Apptit, Your Majesty",
+    "slug": "280945-bon-apptit-your-majesty",
+    "folder": "tv",
+    "poster": "/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
+    "rating": 8.7,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 280945,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784701328,
+    "fixed": true
   }
 ]

@@ -118,6 +118,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/212907-la-promesa</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/t6q9xzdt3XGnEvbvMtD9GxpQaW4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/212989-lego-ninjago-dragons-rising</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1981,6 +1990,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/280945-bon-apptit-your-majesty</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/28116-semi-homemade-cooking-with-sandra-lee</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/302929-sparkshorts</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/6oVfLHD5YGof4uCC7jxq784jZTl.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/303109-fire-and-water-making-the-avatar-films</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/1Jv4WlLRA659DdZIXOR2f6hZGz8.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
