@@ -59938,5 +59938,93 @@
     ],
     "timestamp": 1784726198,
     "fixed": true
+  },
+  {
+    "title": "Quieres ser mi hijo / Quieres ser mi hijo",
+    "title_ar": "Quieres ser mi hijo",
+    "title_en": "Quieres ser mi hijo",
+    "slug": "1181678-quieres-ser-mi-hijo",
+    "folder": "movie",
+    "poster": "/t/p/w500/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg",
+    "rating": 8.5,
+    "year": "2023",
+    "type": "movie",
+    "tmdb_id": 1181678,
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "genres": [
+      "كوميديا",
+      "رومنسية"
+    ],
+    "timestamp": 1784739972,
+    "fixed": true
+  },
+  {
+    "title": "Great Escape Super Version / Great Escape Super Version",
+    "title_ar": "Great Escape Super Version",
+    "title_en": "Great Escape Super Version",
+    "slug": "109096-great-escape-super-version",
+    "folder": "tv",
+    "poster": "/t/p/w500/hAMORqnXSHNzQbnJ6gykTddW2gQ.jpg",
+    "rating": 8.2,
+    "year": "2019",
+    "type": "tv",
+    "tmdb_id": 109096,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784739985,
+    "fixed": true
+  },
+  {
+    "title": "The Truth / The Truth",
+    "title_ar": "The Truth",
+    "title_en": "The Truth",
+    "slug": "203003-the-truth",
+    "folder": "tv",
+    "poster": "/t/p/w500/64xFi1olZzxBFFX93fIVGa6tU7h.jpg",
+    "rating": 7.9,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 203003,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784739998,
+    "fixed": true
+  },
+  {
+    "title": "وقت المغامرة: فيونا وكيك / Adventure Time: Fionna and Cake",
+    "title_ar": "وقت المغامرة: فيونا وكيك",
+    "title_en": "Adventure Time: Fionna and Cake",
+    "slug": "131378-adventure-time-fionna-and-cake",
+    "folder": "tv",
+    "poster": "/t/p/w500/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+    "rating": 8.6,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 131378,
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784740011,
+    "fixed": true
   }
 ]
