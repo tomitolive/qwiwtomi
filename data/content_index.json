@@ -60292,5 +60292,93 @@
     ],
     "timestamp": 1784787823,
     "fixed": true
+  },
+  {
+    "title": "الحياة جميلة / Life Is Beautiful",
+    "title_ar": "الحياة جميلة",
+    "title_en": "Life Is Beautiful",
+    "slug": "637-life-is-beautiful",
+    "folder": "movie",
+    "poster": "/t/p/w500/8Xz0u6JxwCK8iHNqIvvcLQpucc9.jpg",
+    "rating": 8.4,
+    "year": "1997",
+    "type": "movie",
+    "tmdb_id": 637,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1784801404,
+    "fixed": true
+  },
+  {
+    "title": "عالم مثالي وانمي شيجي / Perfect World",
+    "title_ar": "عالم مثالي وانمي شيجي",
+    "title_en": "Perfect World",
+    "slug": "124003-perfect-world",
+    "folder": "tv",
+    "poster": "/t/p/w500/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg",
+    "rating": 8.2,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 124003,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1784801420,
+    "fixed": true
+  },
+  {
+    "title": "Become a Farmer / Become a Farmer",
+    "title_ar": "Become a Farmer",
+    "title_en": "Become a Farmer",
+    "slug": "219934-become-a-farmer",
+    "folder": "tv",
+    "poster": "/t/p/w500/vl5WKVXgL1tQs9D9wGE2ido6dwW.jpg",
+    "rating": 8.7,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 219934,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784801432,
+    "fixed": true
+  },
+  {
+    "title": "سحرة حي ويفرلي / Wizards of Waverly Place",
+    "title_ar": "سحرة حي ويفرلي",
+    "title_en": "Wizards of Waverly Place",
+    "slug": "3498-wizards-of-waverly-place",
+    "folder": "tv",
+    "poster": "/t/p/w500/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
+    "rating": 8.6,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 3498,
+    "genre_ids": [
+      35,
+      10765,
+      10762
+    ],
+    "genres": [
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "أطفال"
+    ],
+    "timestamp": 1784801443,
+    "fixed": true
   }
 ]

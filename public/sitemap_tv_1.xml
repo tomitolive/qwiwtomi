@@ -955,6 +955,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/124003-perfect-world</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/12415-egoli-place-of-gold</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/207250-the-dangers-in-my-heart</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
