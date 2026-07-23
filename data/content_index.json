@@ -60204,5 +60204,93 @@
     ],
     "timestamp": 1784769943,
     "fixed": true
+  },
+  {
+    "title": "قبر اليراعات / Grave of the Fireflies",
+    "title_ar": "قبر اليراعات",
+    "title_en": "Grave of the Fireflies",
+    "slug": "12477-grave-of-the-fireflies",
+    "folder": "movie",
+    "poster": "/t/p/w500/hJaodNynKzjPyPWIXBL7mJpXvn3.jpg",
+    "rating": 8.4,
+    "year": "1988",
+    "type": "movie",
+    "tmdb_id": 12477,
+    "genre_ids": [
+      16,
+      18,
+      10752
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "حرب"
+    ],
+    "timestamp": 1784787788,
+    "fixed": true
+  },
+  {
+    "title": " / ",
+    "title_ar": "",
+    "title_en": "",
+    "slug": "119171-tv-119171",
+    "folder": "tv",
+    "poster": "/t/p/w500/6PFfnOoHCWFuLyt4jtTqBx2vJFI.jpg",
+    "rating": 7.0,
+    "year": "2010",
+    "type": "tv",
+    "tmdb_id": 119171,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784787800,
+    "fixed": true
+  },
+  {
+    "title": "متجر للقتلة / A Shop for Killers",
+    "title_ar": "متجر للقتلة",
+    "title_en": "A Shop for Killers",
+    "slug": "215072-a-shop-for-killers",
+    "folder": "tv",
+    "poster": "/t/p/w500/wLCwduomyQ9bMLBJ9btbrRG7JUD.jpg",
+    "rating": 8.3,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 215072,
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "حركة ومغامرة",
+      "غموض"
+    ],
+    "timestamp": 1784787813,
+    "fixed": true
+  },
+  {
+    "title": "كوكب الأرض / Planet Earth",
+    "title_ar": "كوكب الأرض",
+    "title_en": "Planet Earth",
+    "slug": "1044-planet-earth",
+    "folder": "tv",
+    "poster": "/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+    "rating": 8.6,
+    "year": "2006",
+    "type": "tv",
+    "tmdb_id": 1044,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784787823,
+    "fixed": true
   }
 ]
