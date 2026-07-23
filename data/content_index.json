@@ -60558,5 +60558,71 @@
     ],
     "timestamp": 1784826595,
     "fixed": true
+  },
+  {
+    "title": "The Debt Collector / The Debt Collector",
+    "title_ar": "The Debt Collector",
+    "title_en": "The Debt Collector",
+    "slug": "1630409-the-debt-collector",
+    "folder": "movie",
+    "poster": "/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
+    "rating": 6.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1630409,
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "genres": [
+      "حركة",
+      "إثارة",
+      "جريمة"
+    ],
+    "timestamp": 1784839793,
+    "fixed": true
+  },
+  {
+    "title": "Chiisana Tabi / Chiisana Tabi",
+    "title_ar": "Chiisana Tabi",
+    "title_en": "Chiisana Tabi",
+    "slug": "130990-chiisana-tabi",
+    "folder": "tv",
+    "poster": "/t/p/w500/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
+    "rating": 9.0,
+    "year": "1983",
+    "type": "tv",
+    "tmdb_id": 130990,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784839804,
+    "fixed": true
+  },
+  {
+    "title": "ستار تريك: عوالم جديدة غريبة / Star Trek: Strange New Worlds",
+    "title_ar": "ستار تريك: عوالم جديدة غريبة",
+    "title_en": "Star Trek: Strange New Worlds",
+    "slug": "103516-star-trek-strange-new-worlds",
+    "folder": "tv",
+    "poster": "/t/p/w500/twnZzawRaodWcjw6yBCzhXCnfK5.jpg",
+    "rating": 8.0,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 103516,
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1784839817,
+    "fixed": true
   }
 ]

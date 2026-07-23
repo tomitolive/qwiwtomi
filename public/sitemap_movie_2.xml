@@ -1198,6 +1198,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1630409-the-debt-collector</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1630423-my-dearest-assassin</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/w1byH6nWJIEDDrRuOC2XfeaHnTP.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/299054-expend4bles</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/zNhUmqYeDHklzGyfYbOq1F9zaAb.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
