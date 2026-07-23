@@ -60468,5 +60468,95 @@
     ],
     "timestamp": 1784812943,
     "fixed": true
+  },
+  {
+    "title": "سينما باراديزو الجديدة / Cinema Paradiso",
+    "title_ar": "سينما باراديزو الجديدة",
+    "title_en": "Cinema Paradiso",
+    "slug": "11216-cinema-paradiso",
+    "folder": "movie",
+    "poster": "/t/p/w500/mWf6TRucAdKDwBI0Qzn0uZHss3e.jpg",
+    "rating": 8.4,
+    "year": "1988",
+    "type": "movie",
+    "tmdb_id": 11216,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784826526,
+    "fixed": true
+  },
+  {
+    "title": "Jornal Nacional / Jornal Nacional",
+    "title_ar": "Jornal Nacional",
+    "title_en": "Jornal Nacional",
+    "slug": "16807-jornal-nacional",
+    "folder": "tv",
+    "poster": "/t/p/w500/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+    "rating": 7.0,
+    "year": "1969",
+    "type": "tv",
+    "tmdb_id": 16807,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1784826537,
+    "fixed": true
+  },
+  {
+    "title": "ROH on HonorClub / ROH on HonorClub",
+    "title_ar": "ROH on HonorClub",
+    "title_en": "ROH on HonorClub",
+    "slug": "221681-roh-on-honorclub",
+    "folder": "tv",
+    "poster": "/t/p/w500/gOB56XzE6PqoaXixFGeM6pN7dWD.jpg",
+    "rating": 8.0,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 221681,
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784826547,
+    "fixed": true
+  },
+  {
+    "title": "Kamisama Kiss / Kamisama Kiss",
+    "title_ar": "Kamisama Kiss",
+    "title_en": "Kamisama Kiss",
+    "slug": "62741-kamisama-kiss",
+    "folder": "tv",
+    "poster": "/t/p/w500/8nfyyLqcAbEocNvPXj26uIflThp.jpg",
+    "rating": 8.6,
+    "year": "2012",
+    "type": "tv",
+    "tmdb_id": 62741,
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784826595,
+    "fixed": true
   }
 ]
