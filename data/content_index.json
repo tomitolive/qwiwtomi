@@ -60624,5 +60624,93 @@
     ],
     "timestamp": 1784839817,
     "fixed": true
+  },
+  {
+    "title": "Triangle / Triangle",
+    "title_ar": "Triangle",
+    "title_en": "Triangle",
+    "slug": "26466-triangle",
+    "folder": "movie",
+    "poster": "/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+    "rating": 6.9,
+    "year": "2009",
+    "type": "movie",
+    "tmdb_id": 26466,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1784856076,
+    "fixed": true
+  },
+  {
+    "title": "Bom Dia Brasil / Bom Dia Brasil",
+    "title_ar": "Bom Dia Brasil",
+    "title_en": "Bom Dia Brasil",
+    "slug": "227430-bom-dia-brasil",
+    "folder": "tv",
+    "poster": "/t/p/w500/nC9NtlQa30yzvS0O8orAzdr9FUl.jpg",
+    "rating": 7.0,
+    "year": "1983",
+    "type": "tv",
+    "tmdb_id": 227430,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1784856088,
+    "fixed": true
+  },
+  {
+    "title": "Pushpa Impossible / Pushpa Impossible",
+    "title_ar": "Pushpa Impossible",
+    "title_en": "Pushpa Impossible",
+    "slug": "203769-pushpa-impossible",
+    "folder": "tv",
+    "poster": "/t/p/w500/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
+    "rating": 7.0,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 203769,
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ],
+    "genres": [
+      "عائلي",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784856104,
+    "fixed": true
+  },
+  {
+    "title": "مذكرة الموت / Death Note",
+    "title_ar": "مذكرة الموت",
+    "title_en": "Death Note",
+    "slug": "13916-death-note",
+    "folder": "tv",
+    "poster": "/t/p/w500/6tk3niGT9rf48KePCv4fPKM0K62.jpg",
+    "rating": 8.6,
+    "year": "2006",
+    "type": "tv",
+    "tmdb_id": 13916,
+    "genre_ids": [
+      16,
+      9648,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "غموض",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784856114,
+    "fixed": true
   }
 ]
