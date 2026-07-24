@@ -60712,5 +60712,95 @@
     ],
     "timestamp": 1784856114,
     "fixed": true
+  },
+  {
+    "title": "Lenin / Lenin",
+    "title_ar": "Lenin",
+    "title_en": "Lenin",
+    "slug": "1408170-lenin",
+    "folder": "movie",
+    "poster": "/t/p/w500/vMhmsHb9GvlALNzblHYIiC6N3vA.jpg",
+    "rating": 7.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1408170,
+    "genre_ids": [
+      28,
+      18,
+      10749
+    ],
+    "genres": [
+      "حركة",
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784873856,
+    "fixed": true
+  },
+  {
+    "title": "A Winter Sun Wakes the Wind in Spring Hills Dream / A Winter Sun Wakes the Wind in Spring Hills Dream",
+    "title_ar": "A Winter Sun Wakes the Wind in Spring Hills Dream",
+    "title_en": "A Winter Sun Wakes the Wind in Spring Hills Dream",
+    "slug": "319037-a-winter-sun-wakes-the-wind-in-spring-hills-dream",
+    "folder": "tv",
+    "poster": "/t/p/w500/1rE1nJ2cboJ3Hzfd8yuCnWX0wQ6.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 319037,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784873868,
+    "fixed": true
+  },
+  {
+    "title": "WWE Friday Night SmackDown / WWE Friday Night SmackDown",
+    "title_ar": "WWE Friday Night SmackDown",
+    "title_en": "WWE Friday Night SmackDown",
+    "slug": "1549-wwe-friday-night-smackdown",
+    "folder": "tv",
+    "poster": "/t/p/w500/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
+    "rating": 7.5,
+    "year": "1999",
+    "type": "tv",
+    "tmdb_id": 1549,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784873878,
+    "fixed": true
+  },
+  {
+    "title": "الرجل العنكبوت المذهل / The Spectacular Spider-Man",
+    "title_ar": "الرجل العنكبوت المذهل",
+    "title_en": "The Spectacular Spider-Man",
+    "slug": "3854-the-spectacular-spider-man",
+    "folder": "tv",
+    "poster": "/t/p/w500/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+    "rating": 8.6,
+    "year": "2008",
+    "type": "tv",
+    "tmdb_id": 3854,
+    "genre_ids": [
+      10759,
+      16,
+      10762,
+      10751
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "رسوم متحركة",
+      "أطفال",
+      "عائلي"
+    ],
+    "timestamp": 1784873889,
+    "fixed": true
   }
 ]

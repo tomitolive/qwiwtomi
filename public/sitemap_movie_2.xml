@@ -343,6 +343,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1408170-lenin</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vMhmsHb9GvlALNzblHYIiC6N3vA.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/140825-the-deadly-trap</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/fDPAjvfPMomkKF7cMRmL5Anak61.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/297762-wonder-woman</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/c47ADbn3gqf7v4pAZY7MNpRQjCq.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

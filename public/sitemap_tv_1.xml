@@ -1936,6 +1936,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/1549-wwe-friday-night-smackdown</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/aECaauQxUz2LBwHh2NQlGD49pRe.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/155-the-dark-knight</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pk26xg01tf6UiVUO04Az428Ihip.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/205072-beyond-paradise</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/1zyKeMDCLpn2UK6hxU2IrVLgot2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
