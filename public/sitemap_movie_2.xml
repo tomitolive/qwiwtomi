@@ -46,6 +46,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1361774-the-dink</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1363123-the-family-plan-2</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1321,6 +1330,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/oZxNblisKuDzSUW5g18FERjyJs9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/movie/1659155-the-truthers</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/kWCAJMEHEwGgmgHCO2MPg8p7lnU.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/296989-the-other-side-of-the-sex</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/xNzpGB2R5HSfFB25RYxfVkVeHZt.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/297-meet-joe-black</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fDPAjvfPMomkKF7cMRmL5Anak61.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

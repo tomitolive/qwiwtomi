@@ -61068,5 +61068,91 @@
     ],
     "timestamp": 1784913623,
     "fixed": true
+  },
+  {
+    "title": "The Dink / The Dink",
+    "title_ar": "The Dink",
+    "title_en": "The Dink",
+    "slug": "1361774-the-dink",
+    "folder": "movie",
+    "poster": "/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+    "rating": 4.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1361774,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1784926467,
+    "fixed": true
+  },
+  {
+    "title": "Los creyentes / The Truthers",
+    "title_ar": "Los creyentes",
+    "title_en": "The Truthers",
+    "slug": "1659155-the-truthers",
+    "folder": "movie",
+    "poster": "/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+    "rating": 5.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1659155,
+    "genre_ids": [
+      53
+    ],
+    "genres": [
+      "إثارة",
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1784926476,
+    "fixed": true
+  },
+  {
+    "title": "وقت حقيقي مع بيل ماهر / Real Time with Bill Maher",
+    "title_ar": "وقت حقيقي مع بيل ماهر",
+    "title_en": "Real Time with Bill Maher",
+    "slug": "4419-real-time-with-bill-maher",
+    "folder": "tv",
+    "poster": "/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+    "rating": 6.1,
+    "year": "2003",
+    "type": "tv",
+    "tmdb_id": 4419,
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "genres": [
+      "كوميديا",
+      "حوار"
+    ],
+    "timestamp": 1784926518,
+    "fixed": true
+  },
+  {
+    "title": "Stuart Fails to Save the Universe / Stuart Fails to Save the Universe",
+    "title_ar": "Stuart Fails to Save the Universe",
+    "title_en": "Stuart Fails to Save the Universe",
+    "slug": "287620-stuart-fails-to-save-the-universe",
+    "folder": "tv",
+    "poster": "/t/p/w500/iQbTbwmLX5Nh1nlH21YUJPWt3Zo.jpg",
+    "rating": 8.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 287620,
+    "genre_ids": [
+      35,
+      10765
+    ],
+    "genres": [
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784926531,
+    "fixed": true
   }
 ]

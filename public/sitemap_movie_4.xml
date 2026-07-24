@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/movie/628442-la-bicicleta-de-los-huanca</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hfAzttPC1Bhz5ijuuxDAUVjSRD8.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/movie/62871-a-distant-neighborhood</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wLLx74H0789Vvf4u5TTJEkdIh2p.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/628847-trap-house</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
