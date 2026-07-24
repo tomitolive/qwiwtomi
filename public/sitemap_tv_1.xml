@@ -271,6 +271,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/107116-supreme-god-emperor</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8vmZErkbw5d5iwXHO23zVmvixOB.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/107703-the-big-game</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/20464-healing-hands</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8zwsCXcFb7JsLyEcgdKt83NtGDE.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

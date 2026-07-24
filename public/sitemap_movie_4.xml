@@ -298,6 +298,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/667257-impossible-things</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/667538-transformers-rise-of-the-beasts</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
