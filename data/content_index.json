@@ -60802,5 +60802,87 @@
     ],
     "timestamp": 1784873889,
     "fixed": true
+  },
+  {
+    "title": "أحدهم طار فوق عش الوقواق / One Flew Over the Cuckoos Nest",
+    "title_ar": "أحدهم طار فوق عش الوقواق",
+    "title_en": "One Flew Over the Cuckoos Nest",
+    "slug": "510-one-flew-over-the-cuckoos-nest",
+    "folder": "movie",
+    "poster": "/t/p/w500/1QTNC2MnXNLMLsZGItz68MTPsQH.jpg",
+    "rating": 8.4,
+    "year": "1975",
+    "type": "movie",
+    "tmdb_id": 510,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1784887497,
+    "fixed": true
+  },
+  {
+    "title": "Gardening Australia / Gardening Australia",
+    "title_ar": "Gardening Australia",
+    "title_en": "Gardening Australia",
+    "slug": "2835-gardening-australia",
+    "folder": "tv",
+    "poster": "/t/p/w500/79taCPhP1vgKCZVEHRhVZXo6G9F.jpg",
+    "rating": 6.7,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 2835,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784887510,
+    "fixed": true
+  },
+  {
+    "title": "Anupamaa / Anupamaa",
+    "title_ar": "Anupamaa",
+    "title_en": "Anupamaa",
+    "slug": "116479-anupamaa",
+    "folder": "tv",
+    "poster": "/t/p/w500/i3ZcFxUiGr6HV5yv1i6n7uKHyj7.jpg",
+    "rating": 4.7,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 116479,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784887591,
+    "fixed": true
+  },
+  {
+    "title": "Run BTS! / Run BTS!",
+    "title_ar": "Run BTS!",
+    "title_en": "Run BTS!",
+    "slug": "77696-run-bts",
+    "folder": "tv",
+    "poster": "/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg",
+    "rating": 8.6,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 77696,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784887633,
+    "fixed": true
   }
 ]

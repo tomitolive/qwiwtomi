@@ -622,6 +622,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/116479-anupamaa</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/i3ZcFxUiGr6HV5yv1i6n7uKHyj7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/116799-the-lincoln-lawyer</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8zwsCXcFb7JsLyEcgdKt83NtGDE.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/204999-faraway-downs</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/pk26xg01tf6UiVUO04Az428Ihip.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
