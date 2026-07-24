@@ -60976,5 +60976,97 @@
     ],
     "timestamp": 1784898840,
     "fixed": true
+  },
+  {
+    "title": "الحزن الصامت / A Silent Voice: The Movie",
+    "title_ar": "الحزن الصامت",
+    "title_en": "A Silent Voice: The Movie",
+    "slug": "378064-a-silent-voice-the-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/ndlHzeb0WwdorqDzikjuQg9Lxw1.jpg",
+    "rating": 8.4,
+    "year": "2016",
+    "type": "movie",
+    "tmdb_id": 378064,
+    "genre_ids": [
+      16,
+      18,
+      10749
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1784913579,
+    "fixed": true
+  },
+  {
+    "title": "Sueos de libertad / Dreams of Freedom",
+    "title_ar": "Sueos de libertad",
+    "title_en": "Dreams of Freedom",
+    "slug": "239526-dreams-of-freedom",
+    "folder": "tv",
+    "poster": "/t/p/w500/k0uSCsavcoGviQK9rfyH2srRjhZ.jpg",
+    "rating": 6.1,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 239526,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784913592,
+    "fixed": true
+  },
+  {
+    "title": "Power Book III: Raising Kanan / Power Book III: Raising Kanan",
+    "title_ar": "Power Book III: Raising Kanan",
+    "title_en": "Power Book III: Raising Kanan",
+    "slug": "124394-power-book-iii-raising-kanan",
+    "folder": "tv",
+    "poster": "/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+    "rating": 8.0,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 124394,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1784913611,
+    "fixed": true
+  },
+  {
+    "title": "العفريت / Guardian: The Lonely and Great God",
+    "title_ar": "العفريت",
+    "title_en": "Guardian: The Lonely and Great God",
+    "slug": "67915-guardian-the-lonely-and-great-god",
+    "folder": "tv",
+    "poster": "/t/p/w500/py2GkXY5GjuL83mgypDFJ5z081g.jpg",
+    "rating": 8.6,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 67915,
+    "genre_ids": [
+      18,
+      10765,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "كوميديا"
+    ],
+    "timestamp": 1784913623,
+    "fixed": true
   }
 ]
