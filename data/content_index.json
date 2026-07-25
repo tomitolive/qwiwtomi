@@ -61336,5 +61336,93 @@
     ],
     "timestamp": 1784959794,
     "fixed": true
+  },
+  {
+    "title": "Gabriels Inferno / Gabriels Inferno",
+    "title_ar": "Gabriels Inferno",
+    "title_en": "Gabriels Inferno",
+    "slug": "696374-gabriels-inferno",
+    "folder": "movie",
+    "poster": "/t/p/w500/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+    "rating": 8.4,
+    "year": "2020",
+    "type": "movie",
+    "tmdb_id": 696374,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1784971504,
+    "fixed": true
+  },
+  {
+    "title": "The Rap of China / The Rap of China",
+    "title_ar": "The Rap of China",
+    "title_en": "The Rap of China",
+    "slug": "103863-the-rap-of-china",
+    "folder": "tv",
+    "poster": "/t/p/w500/lRCsRHT3WfrMoIES7TF7WkJe6hj.jpg",
+    "rating": 7.0,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 103863,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1784971514,
+    "fixed": true
+  },
+  {
+    "title": "Casualty / Casualty",
+    "title_ar": "Casualty",
+    "title_en": "Casualty",
+    "slug": "1021-casualty",
+    "folder": "tv",
+    "poster": "/t/p/w500/oPPClLJtWzeHMojXsGsV09QOTSB.jpg",
+    "rating": 6.2,
+    "year": "1986",
+    "type": "tv",
+    "tmdb_id": 1021,
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "genres": [
+      "دراما",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1784971525,
+    "fixed": true
+  },
+  {
+    "title": "أكاديمية الأبطال / My Hero Academia",
+    "title_ar": "أكاديمية الأبطال",
+    "title_en": "My Hero Academia",
+    "slug": "65930-my-hero-academia",
+    "folder": "tv",
+    "poster": "/t/p/w500/a3GlsRvZx7i1a77IVMxuvR7TZj0.jpg",
+    "rating": 8.6,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 65930,
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1784971537,
+    "fixed": true
   }
 ]
