@@ -703,6 +703,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1469342-her-private-hell</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1469458-sambhavam-adhyayam-onnu</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pScb9QrLFeqlLsDGL9pXMWGiMz2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/296096-me-before-you</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

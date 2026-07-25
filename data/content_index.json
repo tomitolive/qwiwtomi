@@ -61424,5 +61424,75 @@
     ],
     "timestamp": 1784971537,
     "fixed": true
+  },
+  {
+    "title": "Her Private Hell / Her Private Hell",
+    "title_ar": "Her Private Hell",
+    "title_en": "Her Private Hell",
+    "slug": "1469342-her-private-hell",
+    "folder": "movie",
+    "poster": "/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
+    "rating": 3.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1469342,
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "genres": [
+      "خيال علمي",
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1784984105,
+    "fixed": true
+  },
+  {
+    "title": "WWE Pay Per View / WWE Pay Per View",
+    "title_ar": "WWE Pay Per View",
+    "title_en": "WWE Pay Per View",
+    "slug": "316387-wwe-pay-per-view",
+    "folder": "tv",
+    "poster": "/t/p/w500/b14Q6VGmTBbfgSlXvtXgKFqR2l6.jpg",
+    "rating": 7.0,
+    "year": "1985",
+    "type": "tv",
+    "tmdb_id": 316387,
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1784984122,
+    "fixed": true
+  },
+  {
+    "title": "Lanterns / Lanterns",
+    "title_ar": "Lanterns",
+    "title_en": "Lanterns",
+    "slug": "95350-lanterns",
+    "folder": "tv",
+    "poster": "/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 95350,
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "غموض"
+    ],
+    "timestamp": 1784984134,
+    "fixed": true
   }
 ]
