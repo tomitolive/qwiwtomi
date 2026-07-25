@@ -1567,6 +1567,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/4086-diners-drive-ins-and-dives</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/40862-soko-kln</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/55358-mini-adventures-of-winnie-the-pooh</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/u1bb4i6uIBuO190EVf98U2SvsHD.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

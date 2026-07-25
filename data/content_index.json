@@ -61248,5 +61248,93 @@
     ],
     "timestamp": 1784942570,
     "fixed": true
+  },
+  {
+    "title": "72 ساعة / 72 HOURS",
+    "title_ar": "72 ساعة",
+    "title_en": "72 HOURS",
+    "slug": "949838-72-hours",
+    "folder": "movie",
+    "poster": "/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "rating": 6.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 949838,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1784959747,
+    "fixed": true
+  },
+  {
+    "title": "Diners, Drive-Ins and Dives / Diners, Drive-Ins and Dives",
+    "title_ar": "Diners, Drive-Ins and Dives",
+    "title_en": "Diners, Drive-Ins and Dives",
+    "slug": "4086-diners-drive-ins-and-dives",
+    "folder": "tv",
+    "poster": "/t/p/w500/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg",
+    "rating": 6.8,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 4086,
+    "genre_ids": [
+      99,
+      10764
+    ],
+    "genres": [
+      "وثائقي",
+      "واقع"
+    ],
+    "timestamp": 1784959768,
+    "fixed": true
+  },
+  {
+    "title": "72 / Document 72 Hours",
+    "title_ar": "72",
+    "title_en": "Document 72 Hours",
+    "slug": "74277-document-72-hours",
+    "folder": "tv",
+    "poster": "/t/p/w500/nVGFaga1eALOjX11vgwZs4FvMEa.jpg",
+    "rating": 8.7,
+    "year": "2006",
+    "type": "tv",
+    "tmdb_id": 74277,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1784959781,
+    "fixed": true
+  },
+  {
+    "title": "محاربو السندوكاي / Desafo Champions Sendokai",
+    "title_ar": "محاربو السندوكاي",
+    "title_en": "Desafo Champions Sendokai",
+    "slug": "80040-desafo-champions-sendokai",
+    "folder": "tv",
+    "poster": "/t/p/w500/qNqQm1xFJd44PVtW7BanoafhgnM.jpg",
+    "rating": 8.6,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 80040,
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10751
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "حركة ومغامرة",
+      "عائلي"
+    ],
+    "timestamp": 1784959794,
+    "fixed": true
   }
 ]
