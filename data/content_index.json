@@ -61564,5 +61564,67 @@
     ],
     "timestamp": 1784997799,
     "fixed": true
+  },
+  {
+    "title": "أحبك من زمان / Love in Slow Motion",
+    "title_ar": "أحبك من زمان",
+    "title_en": "Love in Slow Motion",
+    "slug": "1620682-love-in-slow-motion",
+    "folder": "movie",
+    "poster": "/t/p/w500/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
+    "rating": 4.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1620682,
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "genres": [
+      "رومنسية",
+      "كوميديا"
+    ],
+    "timestamp": 1785012034,
+    "fixed": true
+  },
+  {
+    "title": "The Chi / The Chi",
+    "title_ar": "The Chi",
+    "title_en": "The Chi",
+    "slug": "72071-the-chi",
+    "folder": "tv",
+    "poster": "/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+    "rating": 7.8,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 72071,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785012049,
+    "fixed": true
+  },
+  {
+    "title": "Unsettled Case / Unsettled Case",
+    "title_ar": "Unsettled Case",
+    "title_en": "Unsettled Case",
+    "slug": "273114-unsettled-case",
+    "folder": "tv",
+    "poster": "/t/p/w500/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 273114,
+    "genre_ids": [
+      9648
+    ],
+    "genres": [
+      "غموض"
+    ],
+    "timestamp": 1785012061,
+    "fixed": true
   }
 ]

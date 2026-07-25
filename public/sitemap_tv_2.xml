@@ -2062,6 +2062,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/273114-unsettled-case</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/273240-off-campus</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/291339-memory-of-a-killer</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

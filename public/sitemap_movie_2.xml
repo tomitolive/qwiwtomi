@@ -1198,6 +1198,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1620682-love-in-slow-motion</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/cj3uvHPlfEmdy8veYczXs7ibHah.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1628071-ip-man-kung-fu-legend</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/MbILysGhjAbnZi1Okae9wYqLMx.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/29458-one-hundred-steps</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/pScb9QrLFeqlLsDGL9pXMWGiMz2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
