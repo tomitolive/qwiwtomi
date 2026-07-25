@@ -61494,5 +61494,75 @@
     ],
     "timestamp": 1784984134,
     "fixed": true
+  },
+  {
+    "title": "Motor City / Motor City",
+    "title_ar": "Motor City",
+    "title_en": "Motor City",
+    "slug": "87513-motor-city",
+    "folder": "movie",
+    "poster": "/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+    "rating": 4.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 87513,
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "genres": [
+      "حركة",
+      "إثارة",
+      "جريمة"
+    ],
+    "timestamp": 1784997769,
+    "fixed": true
+  },
+  {
+    "title": "رانسوم كانيون / Ransom Canyon",
+    "title_ar": "رانسوم كانيون",
+    "title_en": "Ransom Canyon",
+    "slug": "240993-ransom-canyon",
+    "folder": "tv",
+    "poster": "/t/p/w500/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+    "rating": 7.2,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 240993,
+    "genre_ids": [
+      18,
+      37
+    ],
+    "genres": [
+      "دراما",
+      "غربي"
+    ],
+    "timestamp": 1784997781,
+    "fixed": true
+  },
+  {
+    "title": "Soy Luna: Volver a rodar / Soy Luna: Lets Roll Again",
+    "title_ar": "Soy Luna: Volver a rodar",
+    "title_en": "Soy Luna: Lets Roll Again",
+    "slug": "324434-soy-luna-lets-roll-again",
+    "folder": "tv",
+    "poster": "/t/p/w500/3gzwiyE7jHHvjWS8WBEqztCqxD9.jpg",
+    "rating": 6.2,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 324434,
+    "genre_ids": [
+      10751,
+      35,
+      18
+    ],
+    "genres": [
+      "عائلي",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1784997799,
+    "fixed": true
   }
 ]
