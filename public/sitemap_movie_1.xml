@@ -1810,6 +1810,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1232569-pinocchio-unstrung</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1233413-sinners</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/u3qOxvlykoTpurg1G8VOcawoePI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1353926-keep-real</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

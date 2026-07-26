@@ -62080,5 +62080,73 @@
     ],
     "timestamp": 1785084353,
     "fixed": true
+  },
+  {
+    "title": "Pinocchio: Unstrung / Pinocchio: Unstrung",
+    "title_ar": "Pinocchio: Unstrung",
+    "title_en": "Pinocchio: Unstrung",
+    "slug": "1232569-pinocchio-unstrung",
+    "folder": "movie",
+    "poster": "/t/p/w500/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
+    "rating": 8.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1232569,
+    "genre_ids": [
+      27,
+      14,
+      9648
+    ],
+    "genres": [
+      "رعب",
+      "فانتازيا",
+      "غموض"
+    ],
+    "timestamp": 1785098642,
+    "fixed": true
+  },
+  {
+    "title": "A Will Eternal / A Will Eternal",
+    "title_ar": "A Will Eternal",
+    "title_en": "A Will Eternal",
+    "slug": "107371-a-will-eternal",
+    "folder": "tv",
+    "poster": "/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg",
+    "rating": 8.9,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 107371,
+    "genre_ids": [
+      16,
+      10765,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1785098656,
+    "fixed": true
+  },
+  {
+    "title": "Paradise Hotel / Paradise Hotel",
+    "title_ar": "Paradise Hotel",
+    "title_en": "Paradise Hotel",
+    "slug": "51025-paradise-hotel",
+    "folder": "tv",
+    "poster": "/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+    "rating": 5.6,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 51025,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785098666,
+    "fixed": true
   }
 ]

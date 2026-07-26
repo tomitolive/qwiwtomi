@@ -307,6 +307,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/107371-a-will-eternal</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/107703-the-big-game</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2025-beverly-hills-90210</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
