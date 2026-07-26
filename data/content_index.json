@@ -62014,5 +62014,71 @@
     ],
     "timestamp": 1785070372,
     "fixed": true
+  },
+  {
+    "title": "A Toxic Love Story / A Toxic Love Story",
+    "title_ar": "A Toxic Love Story",
+    "title_en": "A Toxic Love Story",
+    "slug": "1723460-a-toxic-love-story",
+    "folder": "movie",
+    "poster": "/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1723460,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785084298,
+    "fixed": true
+  },
+  {
+    "title": "Pompeii: Out of Time with Tom Hiddleston / Pompeii: Out of Time with Tom Hiddleston",
+    "title_ar": "Pompeii: Out of Time with Tom Hiddleston",
+    "title_en": "Pompeii: Out of Time with Tom Hiddleston",
+    "slug": "277640-pompeii-out-of-time-with-tom-hiddleston",
+    "folder": "tv",
+    "poster": "/t/p/w500/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 277640,
+    "genre_ids": [
+      99,
+      18
+    ],
+    "genres": [
+      "وثائقي",
+      "دراما"
+    ],
+    "timestamp": 1785084310,
+    "fixed": true
+  },
+  {
+    "title": "Malhao / Young Hearts",
+    "title_ar": "Malhao",
+    "title_en": "Young Hearts",
+    "slug": "14424-young-hearts",
+    "folder": "tv",
+    "poster": "/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+    "rating": 6.3,
+    "year": "1995",
+    "type": "tv",
+    "tmdb_id": 14424,
+    "genre_ids": [
+      10766,
+      35,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1785084353,
+    "fixed": true
   }
 ]

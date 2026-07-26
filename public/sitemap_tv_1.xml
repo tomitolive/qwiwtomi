@@ -1738,6 +1738,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/14424-young-hearts</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1447-psych</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/202555-daredevil-born-again</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/gBYwH0psbqxzan8kqplkfrCgdwC.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
