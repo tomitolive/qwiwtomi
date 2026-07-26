@@ -1837,6 +1837,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/260463-daemons-of-the-shadow-realm</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/nfGf70m4irGQaHmsfotAnGdQOgC.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/260592-every-year-after</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/290232-im-not-afraid</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

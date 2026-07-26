@@ -61920,5 +61920,99 @@
     ],
     "timestamp": 1785059448,
     "fixed": true
+  },
+  {
+    "title": "1994 / Cold War 1994",
+    "title_ar": "1994",
+    "title_en": "Cold War 1994",
+    "slug": "1499071-cold-war-1994",
+    "folder": "movie",
+    "poster": "/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+    "rating": 6.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1499071,
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "genres": [
+      "حركة",
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1785070338,
+    "fixed": true
+  },
+  {
+    "title": "The Bay / The Bay",
+    "title_ar": "The Bay",
+    "title_en": "The Bay",
+    "slug": "1430698-the-bay",
+    "folder": "movie",
+    "poster": "/t/p/w500/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1430698,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1785070350,
+    "fixed": true
+  },
+  {
+    "title": "لأسبوع الماضي مع جون أوليفر / Last Week Tonight with John Oliver",
+    "title_ar": "لأسبوع الماضي مع جون أوليفر",
+    "title_en": "Last Week Tonight with John Oliver",
+    "slug": "60694-last-week-tonight-with-john-oliver",
+    "folder": "tv",
+    "poster": "/t/p/w500/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+    "rating": 7.8,
+    "year": "2014",
+    "type": "tv",
+    "tmdb_id": 60694,
+    "genre_ids": [
+      10767,
+      35,
+      10763
+    ],
+    "genres": [
+      "حوار",
+      "كوميديا",
+      "أخبار"
+    ],
+    "timestamp": 1785070360,
+    "fixed": true
+  },
+  {
+    "title": "Daemons of the Shadow Realm / Daemons of the Shadow Realm",
+    "title_ar": "Daemons of the Shadow Realm",
+    "title_en": "Daemons of the Shadow Realm",
+    "slug": "260463-daemons-of-the-shadow-realm",
+    "folder": "tv",
+    "poster": "/t/p/w500/nfGf70m4irGQaHmsfotAnGdQOgC.jpg",
+    "rating": 8.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 260463,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785070372,
+    "fixed": true
   }
 ]
