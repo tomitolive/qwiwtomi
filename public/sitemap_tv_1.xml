@@ -532,6 +532,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/113962-lioness</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/114068-the-offer</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2431,6 +2440,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/194583-the-walking-dead-dead-city</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/88ZAgQ9fH3x7PRhQjtkFHE30Fpo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/194766-the-summer-i-turned-pretty</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/gBYwH0psbqxzan8kqplkfrCgdwC.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/202998-star-wars-young-jedi-adventures</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bC2Mix1WPUiY6pldh77oiFl1MvI.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/203003-the-truth</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/64xFi1olZzxBFFX93fIVGa6tU7h.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

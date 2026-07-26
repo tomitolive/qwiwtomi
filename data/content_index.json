@@ -61804,5 +61804,121 @@
     ],
     "timestamp": 1785047383,
     "fixed": true
+  },
+  {
+    "title": "Bleach: Thousand-Year Blood War - The Calamity / Bleach: Thousand-Year Blood War - The Calamity",
+    "title_ar": "Bleach: Thousand-Year Blood War - The Calamity",
+    "title_en": "Bleach: Thousand-Year Blood War - The Calamity",
+    "slug": "1669841-bleach-thousand-year-blood-war-the-calamity",
+    "folder": "movie",
+    "poster": "/t/p/w500/9HW5N89FN8hdo0PjbYiYVENBeH1.jpg",
+    "rating": 8.1,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1669841,
+    "genre_ids": [
+      28,
+      12,
+      16,
+      878
+    ],
+    "genres": [
+      "حركة",
+      "مغامرة",
+      "رسوم متحركة",
+      "خيال علمي"
+    ],
+    "timestamp": 1785059400,
+    "fixed": true
+  },
+  {
+    "title": "Resident Evil / Resident Evil",
+    "title_ar": "Resident Evil",
+    "title_en": "Resident Evil",
+    "slug": "1423191-resident-evil",
+    "folder": "movie",
+    "poster": "/t/p/w500/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1423191,
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1785059409,
+    "fixed": true
+  },
+  {
+    "title": "BBC Proms / BBC Proms",
+    "title_ar": "BBC Proms",
+    "title_en": "BBC Proms",
+    "slug": "23393-bbc-proms",
+    "folder": "tv",
+    "poster": "/t/p/w500/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+    "rating": 7.7,
+    "year": "1947",
+    "type": "tv",
+    "tmdb_id": 23393,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785059422,
+    "fixed": true
+  },
+  {
+    "title": "Lioness / Lioness",
+    "title_ar": "Lioness",
+    "title_en": "Lioness",
+    "slug": "113962-lioness",
+    "folder": "tv",
+    "poster": "/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "rating": 8.0,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 113962,
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "genres": [
+      "دراما",
+      "حرب وسياسة"
+    ],
+    "timestamp": 1785059435,
+    "fixed": true
+  },
+  {
+    "title": "الموتى السائرون: المدينة الميتة / The Walking Dead: Dead City",
+    "title_ar": "الموتى السائرون: المدينة الميتة",
+    "title_en": "The Walking Dead: Dead City",
+    "slug": "194583-the-walking-dead-dead-city",
+    "folder": "tv",
+    "poster": "/t/p/w500/88ZAgQ9fH3x7PRhQjtkFHE30Fpo.jpg",
+    "rating": 7.9,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 194583,
+    "genre_ids": [
+      10759,
+      18,
+      10765
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785059448,
+    "fixed": true
   }
 ]
