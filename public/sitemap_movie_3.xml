@@ -2665,6 +2665,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/620249-the-legend-of-hei</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4efytN4Bki4VlqnAMjsWdEGj4Sb.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/62177-brave</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2ZUpj73MzEh2YwVzJNVUqBSu2LZ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/62211-monsters-university</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5J8k8r0R5nhlZcqSyJUqDxg2nPZ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -61712,5 +61712,97 @@
     ],
     "timestamp": 1785029122,
     "fixed": true
+  },
+  {
+    "title": "The Legend of Hei / The Legend of Hei",
+    "title_ar": "The Legend of Hei",
+    "title_en": "The Legend of Hei",
+    "slug": "620249-the-legend-of-hei",
+    "folder": "movie",
+    "poster": "/t/p/w500/4efytN4Bki4VlqnAMjsWdEGj4Sb.jpg",
+    "rating": 8.4,
+    "year": "2019",
+    "type": "movie",
+    "tmdb_id": 620249,
+    "genre_ids": [
+      16,
+      14,
+      28
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "فانتازيا",
+      "حركة"
+    ],
+    "timestamp": 1785047309,
+    "fixed": true
+  },
+  {
+    "title": "Show! Music Core / Show! Music Core",
+    "title_ar": "Show! Music Core",
+    "title_en": "Show! Music Core",
+    "slug": "35024-show-music-core",
+    "folder": "tv",
+    "poster": "/t/p/w500/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
+    "rating": 7.0,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 35024,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785047359,
+    "fixed": true
+  },
+  {
+    "title": "Fort Boyard / Fort Boyard",
+    "title_ar": "Fort Boyard",
+    "title_en": "Fort Boyard",
+    "slug": "3752-fort-boyard",
+    "folder": "tv",
+    "poster": "/t/p/w500/nFQyP89WGXtsDeD7ShiERRZ0kVy.jpg",
+    "rating": 7.5,
+    "year": "1990",
+    "type": "tv",
+    "tmdb_id": 3752,
+    "genre_ids": [
+      10751,
+      10764,
+      10759
+    ],
+    "genres": [
+      "عائلي",
+      "واقع",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785047370,
+    "fixed": true
+  },
+  {
+    "title": "31 Minutos / 31 Minutes",
+    "title_ar": "31 Minutos",
+    "title_en": "31 Minutes",
+    "slug": "43-31-minutes",
+    "folder": "tv",
+    "poster": "/t/p/w500/rI0hXEJFcgRaigCWGEuqEXQvOjY.jpg",
+    "rating": 8.6,
+    "year": "2003",
+    "type": "tv",
+    "tmdb_id": 43,
+    "genre_ids": [
+      35,
+      10762,
+      10751
+    ],
+    "genres": [
+      "كوميديا",
+      "أطفال",
+      "عائلي"
+    ],
+    "timestamp": 1785047383,
+    "fixed": true
   }
 ]
