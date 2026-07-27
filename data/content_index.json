@@ -62148,5 +62148,71 @@
     ],
     "timestamp": 1785098666,
     "fixed": true
+  },
+  {
+    "title": "Lucy Shimmers and the Prince of Peace / Lucy Shimmers and the Prince of Peace",
+    "title_ar": "Lucy Shimmers and the Prince of Peace",
+    "title_en": "Lucy Shimmers and the Prince of Peace",
+    "slug": "770156-lucy-shimmers-and-the-prince-of-peace",
+    "folder": "movie",
+    "poster": "/t/p/w500/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg",
+    "rating": 8.4,
+    "year": "2020",
+    "type": "movie",
+    "tmdb_id": 770156,
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "genres": [
+      "دراما",
+      "عائلي"
+    ],
+    "timestamp": 1785115769,
+    "fixed": true
+  },
+  {
+    "title": "1 2 / 2 Days and 1 Night",
+    "title_ar": "1 2",
+    "title_en": "2 Days and 1 Night",
+    "slug": "30801-2-days-and-1-night",
+    "folder": "tv",
+    "poster": "/t/p/w500/44CeavkZLqW9Z7SkOffxLNJtAv9.jpg",
+    "rating": 6.7,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 30801,
+    "genre_ids": [
+      35,
+      10764
+    ],
+    "genres": [
+      "كوميديا",
+      "واقع"
+    ],
+    "timestamp": 1785115782,
+    "fixed": true
+  },
+  {
+    "title": "Nadie nos va a extraar / No One Will Miss Us",
+    "title_ar": "Nadie nos va a extraar",
+    "title_en": "No One Will Miss Us",
+    "slug": "259666-no-one-will-miss-us",
+    "folder": "tv",
+    "poster": "/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+    "rating": 8.6,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 259666,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1785115795,
+    "fixed": true
   }
 ]
