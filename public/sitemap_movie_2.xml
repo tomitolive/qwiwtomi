@@ -595,6 +595,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1439808-hadestown-the-musical</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1439930-the-punisher-one-last-kill</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4Zrcfq0kDltHKMgPSVzi6rw8UOA.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/284054-black-panther</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/sksOGFDEd9f2mvIM68m8i1XRS30.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

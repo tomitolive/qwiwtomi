@@ -62214,5 +62214,77 @@
     ],
     "timestamp": 1785115795,
     "fixed": true
+  },
+  {
+    "title": "Hadestown: The Musical / Hadestown: The Musical",
+    "title_ar": "Hadestown: The Musical",
+    "title_en": "Hadestown: The Musical",
+    "slug": "1439808-hadestown-the-musical",
+    "folder": "movie",
+    "poster": "/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
+    "rating": 8.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1439808,
+    "genre_ids": [
+      18,
+      14,
+      10749,
+      10402
+    ],
+    "genres": [
+      "دراما",
+      "فانتازيا",
+      "رومنسية",
+      "موسيقى"
+    ],
+    "timestamp": 1785135273,
+    "fixed": true
+  },
+  {
+    "title": "President Curtis / President Curtis",
+    "title_ar": "President Curtis",
+    "title_en": "President Curtis",
+    "slug": "296756-president-curtis",
+    "folder": "tv",
+    "poster": "/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "rating": 1.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296756,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1785135288,
+    "fixed": true
+  },
+  {
+    "title": "على نبض واحد / Love In Sync",
+    "title_ar": "على نبض واحد",
+    "title_en": "Love In Sync",
+    "slug": "315007-love-in-sync",
+    "folder": "tv",
+    "poster": "/t/p/w500/ah84dUb8HDFs1OJEQKU22cmIxWv.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 315007,
+    "genre_ids": [
+      18,
+      35,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785135300,
+    "fixed": true
   }
 ]
