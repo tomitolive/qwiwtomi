@@ -2575,6 +2575,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/274-the-silence-of-the-lambs</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wFHGONr3HZ6nslEoxhE3JR0DN2W.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/275-fargo</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/fP33MFHyjJ7CpdnEJXYWJHB0zf7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/284053-thor-ragnarok</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/4Zrcfq0kDltHKMgPSVzi6rw8UOA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

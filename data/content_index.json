@@ -62370,5 +62370,89 @@
     ],
     "timestamp": 1785150076,
     "fixed": true
+  },
+  {
+    "title": "صمت الحملان / The Silence of the Lambs",
+    "title_ar": "صمت الحملان",
+    "title_en": "The Silence of the Lambs",
+    "slug": "274-the-silence-of-the-lambs",
+    "folder": "movie",
+    "poster": "/t/p/w500/wFHGONr3HZ6nslEoxhE3JR0DN2W.jpg",
+    "rating": 8.3,
+    "year": "1991",
+    "type": "movie",
+    "tmdb_id": 274,
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "إثارة",
+      "دراما"
+    ],
+    "timestamp": 1785161150,
+    "fixed": true
+  },
+  {
+    "title": "Mao Xue Woof / Mao Xue Woof",
+    "title_ar": "Mao Xue Woof",
+    "title_en": "Mao Xue Woof",
+    "slug": "137726-mao-xue-woof",
+    "folder": "tv",
+    "poster": "/t/p/w500/biarmEDDU3W5WSxCo8rYsykPOpP.jpg",
+    "rating": 8.8,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 137726,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785161250,
+    "fixed": true
+  },
+  {
+    "title": "Mastermind / Mastermind",
+    "title_ar": "Mastermind",
+    "title_en": "Mastermind",
+    "slug": "2621-mastermind",
+    "folder": "tv",
+    "poster": "/t/p/w500/oHPMk8WUSPIdqa5Ss3SmsXWXWb5.jpg",
+    "rating": 5.7,
+    "year": "1972",
+    "type": "tv",
+    "tmdb_id": 2621,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1785161264,
+    "fixed": true
+  },
+  {
+    "title": "Klan / Klan",
+    "title_ar": "Klan",
+    "title_en": "Klan",
+    "slug": "6489-klan",
+    "folder": "tv",
+    "poster": "/t/p/w500/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
+    "rating": 5.5,
+    "year": "1997",
+    "type": "tv",
+    "tmdb_id": 6489,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1785161275,
+    "fixed": true
   }
 ]
