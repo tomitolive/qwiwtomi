@@ -1324,6 +1324,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1633056-all-wishes-come-true</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1633263-wonderful-nightmare</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/arRNmW27fs1TFsIBOwPYCfZQFJC.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/283995-guardians-of-the-galaxy-vol-2</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/3kGckArA1uCjkbzwMmFFyGx0J4N.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

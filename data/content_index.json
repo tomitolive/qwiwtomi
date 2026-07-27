@@ -62546,5 +62546,97 @@
     ],
     "timestamp": 1785173382,
     "fixed": true
+  },
+  {
+    "title": "All Wishes Come True! / All Wishes Come True!",
+    "title_ar": "All Wishes Come True!",
+    "title_en": "All Wishes Come True!",
+    "slug": "1633056-all-wishes-come-true",
+    "folder": "movie",
+    "poster": "/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+    "rating": 8.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1633056,
+    "genre_ids": [
+      35,
+      16,
+      14,
+      12
+    ],
+    "genres": [
+      "كوميديا",
+      "رسوم متحركة",
+      "فانتازيا",
+      "مغامرة"
+    ],
+    "timestamp": 1785185991,
+    "fixed": true
+  },
+  {
+    "title": "37 Grad / 37 Grad",
+    "title_ar": "37 Grad",
+    "title_en": "37 Grad",
+    "slug": "86086-37-grad",
+    "folder": "tv",
+    "poster": "/t/p/w500/2P0rDTpgHthvowPOq2ZJ1PLzaGD.jpg",
+    "rating": 9.0,
+    "year": "1994",
+    "type": "tv",
+    "tmdb_id": 86086,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785186002,
+    "fixed": true
+  },
+  {
+    "title": "GTO / GTO (2026)",
+    "title_ar": "GTO",
+    "title_en": "GTO (2026)",
+    "slug": "325022-gto-2026",
+    "folder": "tv",
+    "poster": "/t/p/w500/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 325022,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785186016,
+    "fixed": true
+  },
+  {
+    "title": "إيه جابك عند جارك / Sister-in-Law Is at Home!",
+    "title_ar": "إيه جابك عند جارك",
+    "title_en": "Sister-in-Law Is at Home!",
+    "slug": "65682-sister-in-law-is-at-home",
+    "folder": "tv",
+    "poster": "/t/p/w500/sNsd3D77vr8k2xdKpv1NFDWj8b9.jpg",
+    "rating": 5.6,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 65682,
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10766
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "عائلي",
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1785186032,
+    "fixed": true
   }
 ]

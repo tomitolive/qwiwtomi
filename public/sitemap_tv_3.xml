@@ -1027,6 +1027,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/325022-gto-2026</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/325158-the-forsaken-saintess-and-her-foodie-road-trip-in-another-world</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pthoQb9tOrM0gi43ZER4cOKgm8D.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/48704-krlowa-bona</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/dWOaibGXErbOfK7sgQHKBWq2Nom.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
