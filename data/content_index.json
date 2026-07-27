@@ -62454,5 +62454,97 @@
     ],
     "timestamp": 1785161275,
     "fixed": true
+  },
+  {
+    "title": "Nagabandham: The Secret Treasure / Nagabandham: The Secret Treasure",
+    "title_ar": "Nagabandham: The Secret Treasure",
+    "title_en": "Nagabandham: The Secret Treasure",
+    "slug": "1442396-nagabandham-the-secret-treasure",
+    "folder": "movie",
+    "poster": "/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+    "rating": 2.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1442396,
+    "genre_ids": [
+      18,
+      14,
+      28
+    ],
+    "genres": [
+      "دراما",
+      "فانتازيا",
+      "حركة"
+    ],
+    "timestamp": 1785173305,
+    "fixed": true
+  },
+  {
+    "title": "The Bold and the Beautiful / The Bold and the Beautiful",
+    "title_ar": "The Bold and the Beautiful",
+    "title_en": "The Bold and the Beautiful",
+    "slug": "6647-the-bold-and-the-beautiful",
+    "folder": "tv",
+    "poster": "/t/p/w500/rbmLSQHmSSCBhSfRhvToAEvSsqI.jpg",
+    "rating": 5.7,
+    "year": "1987",
+    "type": "tv",
+    "tmdb_id": 6647,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1785173320,
+    "fixed": true
+  },
+  {
+    "title": "The Young and the Restless / The Young and the Restless",
+    "title_ar": "The Young and the Restless",
+    "title_en": "The Young and the Restless",
+    "slug": "1054-the-young-and-the-restless",
+    "folder": "tv",
+    "poster": "/t/p/w500/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+    "rating": 7.0,
+    "year": "1973",
+    "type": "tv",
+    "tmdb_id": 1054,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1785173364,
+    "fixed": true
+  },
+  {
+    "title": "Kangs Family / Kangs Family",
+    "title_ar": "Kangs Family",
+    "title_en": "Kangs Family",
+    "slug": "121513-kangs-family",
+    "folder": "tv",
+    "poster": "/t/p/w500/yubXCrUPIc83Nk53gYARF49rOYV.jpg",
+    "rating": 10.0,
+    "year": "2000",
+    "type": "tv",
+    "tmdb_id": 121513,
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "عائلي"
+    ],
+    "timestamp": 1785173382,
+    "fixed": true
   }
 ]

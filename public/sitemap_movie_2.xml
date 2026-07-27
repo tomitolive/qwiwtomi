@@ -631,6 +631,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1442396-nagabandham-the-secret-treasure</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/14438-fireproof</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/3kGckArA1uCjkbzwMmFFyGx0J4N.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/284052-doctor-strange</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fP33MFHyjJ7CpdnEJXYWJHB0zf7.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
