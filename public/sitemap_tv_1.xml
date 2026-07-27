@@ -523,6 +523,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/113266-kaatelal-sons</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/cIHvYSONXUF17lUlschDDiw1Trz.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/113268-the-uncanny-counter</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/202411-monarch-legacy-of-monsters</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

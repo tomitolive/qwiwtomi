@@ -820,6 +820,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/724089-gabriels-inferno-part-ii</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/7299-equilibrium</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
