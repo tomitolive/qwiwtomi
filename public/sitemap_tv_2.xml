@@ -874,6 +874,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/224839-shrouding-the-heavens</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/224941-the-boroughs</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/285807-nemesis</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/9mDtRLBZ1UfMhXZdWb2Jg3g6JI2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
