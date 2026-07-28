@@ -1567,6 +1567,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1698856-master-of-the-universe</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/3m8O5kxUlXjEi8YZ9mZ7QA0dg5Z.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1699155-maternal-instinct</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/281338-war-for-the-planet-of-the-apes</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/pamFAGpb814eyZOO3BVVeQMy2zh.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -406,6 +406,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/110181-the-god-of-war-dominates</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/tiiDyfu3CXhqJMqD303KjMctNVG.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/110316-alice-in-borderland</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dkSExQYwgKVtHULDEEo0byXz53w.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2004-malcolm-in-the-middle</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

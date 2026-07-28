@@ -62894,5 +62894,91 @@
     ],
     "timestamp": 1785234022,
     "fixed": true
+  },
+  {
+    "title": "Master of the Universe / Master of the Universe",
+    "title_ar": "Master of the Universe",
+    "title_en": "Master of the Universe",
+    "slug": "1698856-master-of-the-universe",
+    "folder": "movie",
+    "poster": "/t/p/w500/3m8O5kxUlXjEi8YZ9mZ7QA0dg5Z.jpg",
+    "rating": 4.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1698856,
+    "genre_ids": [
+      878,
+      28
+    ],
+    "genres": [
+      "خيال علمي",
+      "حركة"
+    ],
+    "timestamp": 1785245148,
+    "fixed": true
+  },
+  {
+    "title": " / ",
+    "title_ar": "",
+    "title_en": "",
+    "slug": "215643-tv-215643",
+    "folder": "tv",
+    "poster": "/t/p/w500/2LpyhsezyKkCCdZyzaGJfiKNLev.jpg",
+    "rating": 7.0,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 215643,
+    "genre_ids": [
+      10762
+    ],
+    "genres": [
+      "أطفال"
+    ],
+    "timestamp": 1785245188,
+    "fixed": true
+  },
+  {
+    "title": "The God of War Dominates / The God of War Dominates",
+    "title_ar": "The God of War Dominates",
+    "title_en": "The God of War Dominates",
+    "slug": "110181-the-god-of-war-dominates",
+    "folder": "tv",
+    "poster": "/t/p/w500/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
+    "rating": 7.6,
+    "year": "2020",
+    "type": "tv",
+    "tmdb_id": 110181,
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "genres": [
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا",
+      "رسوم متحركة"
+    ],
+    "timestamp": 1785245205,
+    "fixed": true
+  },
+  {
+    "title": "Sazanami Soushi ni Junketsu wo Sasagu / Sazanami Soushi ni Junketsu wo Sasagu",
+    "title_ar": "Sazanami Soushi ni Junketsu wo Sasagu",
+    "title_en": "Sazanami Soushi ni Junketsu wo Sasagu",
+    "slug": "220118-sazanami-soushi-ni-junketsu-wo-sasagu",
+    "folder": "tv",
+    "poster": "/t/p/w500/9hyTDPS9uo70QJwvBsVGtaLAANB.jpg",
+    "rating": 6.6,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 220118,
+    "genre_ids": [
+      16
+    ],
+    "genres": [
+      "رسوم متحركة"
+    ],
+    "timestamp": 1785245230,
+    "fixed": true
   }
 ]
