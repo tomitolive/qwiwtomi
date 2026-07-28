@@ -1414,6 +1414,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/1384-four-corners</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qC9ptdSjmezPMFidYCLp8mgpWfR.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/138501-agatha-all-along</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2233,6 +2242,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/16395-masterchef-australia</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/m5akdtbWznF8KpOewKyKw0C36s1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1660-i-dream-of-jeannie</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/zQAkxz85wntjAQHwfHSB8x9kkap.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2009-rocket-power</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/2As5aMc84mtTurD2DfDLytNLhkh.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/20111-mobile-suit-gundam-seed</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/et7TAbuD2bF6QCdOyzv7Fxu15Aq.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

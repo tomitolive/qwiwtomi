@@ -62724,5 +62724,87 @@
     ],
     "timestamp": 1785201481,
     "fixed": true
+  },
+  {
+    "title": "Radical / Radical",
+    "title_ar": "Radical",
+    "title_en": "Radical",
+    "slug": "1058694-radical",
+    "folder": "movie",
+    "poster": "/t/p/w500/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+    "rating": 8.3,
+    "year": "2023",
+    "type": "movie",
+    "tmdb_id": 1058694,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785219470,
+    "fixed": true
+  },
+  {
+    "title": "Four Corners / Four Corners",
+    "title_ar": "Four Corners",
+    "title_en": "Four Corners",
+    "slug": "1384-four-corners",
+    "folder": "tv",
+    "poster": "/t/p/w500/qC9ptdSjmezPMFidYCLp8mgpWfR.jpg",
+    "rating": 6.9,
+    "year": "1961",
+    "type": "tv",
+    "tmdb_id": 1384,
+    "genre_ids": [
+      10763,
+      99
+    ],
+    "genres": [
+      "أخبار",
+      "وثائقي"
+    ],
+    "timestamp": 1785219486,
+    "fixed": true
+  },
+  {
+    "title": "مستر شيف أستراليا / MasterChef Australia",
+    "title_ar": "مستر شيف أستراليا",
+    "title_en": "MasterChef Australia",
+    "slug": "16395-masterchef-australia",
+    "folder": "tv",
+    "poster": "/t/p/w500/m5akdtbWznF8KpOewKyKw0C36s1.jpg",
+    "rating": 7.0,
+    "year": "2009",
+    "type": "tv",
+    "tmdb_id": 16395,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785219496,
+    "fixed": true
+  },
+  {
+    "title": " / ",
+    "title_ar": "",
+    "title_en": "",
+    "slug": "93120-tv-93120",
+    "folder": "tv",
+    "poster": "/t/p/w500/xKhGbQg0pjgrsLE8octAdB31026.jpg",
+    "rating": 10.0,
+    "year": "2004",
+    "type": "tv",
+    "tmdb_id": 93120,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1785219539,
+    "fixed": true
   }
 ]
