@@ -991,6 +991,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/121651-stardom-on-stardom-world</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/121658-fbi-international</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/200709-weak-hero</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/zQAkxz85wntjAQHwfHSB8x9kkap.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
