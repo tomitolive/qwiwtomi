@@ -62638,5 +62638,91 @@
     ],
     "timestamp": 1785186032,
     "fixed": true
+  },
+  {
+    "title": "النافذة الخلفية / Rear Window",
+    "title_ar": "النافذة الخلفية",
+    "title_en": "Rear Window",
+    "slug": "567-rear-window",
+    "folder": "movie",
+    "poster": "/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+    "rating": 8.3,
+    "year": "1954",
+    "type": "movie",
+    "tmdb_id": 567,
+    "genre_ids": [
+      53,
+      9648,
+      18
+    ],
+    "genres": [
+      "إثارة",
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1785201448,
+    "fixed": true
+  },
+  {
+    "title": "Beyond the Gates / Beyond the Gates",
+    "title_ar": "Beyond the Gates",
+    "title_en": "Beyond the Gates",
+    "slug": "248361-beyond-the-gates",
+    "folder": "tv",
+    "poster": "/t/p/w500/ah7Flh6FSq8WWxMkzRlazSFp2AX.jpg",
+    "rating": 5.8,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 248361,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1785201460,
+    "fixed": true
+  },
+  {
+    "title": "Point of View / Point of View",
+    "title_ar": "Point of View",
+    "title_en": "Point of View",
+    "slug": "14955-point-of-view",
+    "folder": "tv",
+    "poster": "/t/p/w500/rJStW9J8LuB6alAA8t3YdRYkhkT.jpg",
+    "rating": 6.9,
+    "year": "1988",
+    "type": "tv",
+    "tmdb_id": 14955,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785201472,
+    "fixed": true
+  },
+  {
+    "title": "Newsnight / Newsnight",
+    "title_ar": "Newsnight",
+    "title_en": "Newsnight",
+    "slug": "841-newsnight",
+    "folder": "tv",
+    "poster": "/t/p/w500/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
+    "rating": 6.0,
+    "year": "1980",
+    "type": "tv",
+    "tmdb_id": 841,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1785201481,
+    "fixed": true
   }
 ]
