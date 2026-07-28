@@ -280,6 +280,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/313369-la-la-land</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ff0zxwoyaG95kytpMuTVseDndIE.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/3134-baise-moi</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/1wEOLsYgtl5vkZvhHhTO1cyUo62.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/606856-togo</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

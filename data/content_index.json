@@ -63072,5 +63072,71 @@
     ],
     "timestamp": 1785259019,
     "fixed": true
+  },
+  {
+    "title": "لا لا لاند / La La Land",
+    "title_ar": "لا لا لاند",
+    "title_en": "La La Land",
+    "slug": "313369-la-la-land",
+    "folder": "movie",
+    "poster": "/t/p/w500/ff0zxwoyaG95kytpMuTVseDndIE.jpg",
+    "rating": 7.9,
+    "year": "2016",
+    "type": "movie",
+    "tmdb_id": 313369,
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1785272202,
+    "fixed": true
+  },
+  {
+    "title": "VIVANT / Vivant",
+    "title_ar": "VIVANT",
+    "title_en": "Vivant",
+    "slug": "218038-vivant",
+    "folder": "tv",
+    "poster": "/t/p/w500/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+    "rating": 7.4,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 218038,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785272216,
+    "fixed": true
+  },
+  {
+    "title": "الــثــائــرة / Furious",
+    "title_ar": "الــثــائــرة",
+    "title_en": "Furious",
+    "slug": "287238-furious",
+    "folder": "tv",
+    "poster": "/t/p/w500/hf3tdaDfpkCk4XWukWlk6vh3PAW.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 287238,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1785272227,
+    "fixed": true
   }
 ]

@@ -604,6 +604,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/218038-vivant</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/31iHlDe30pudzLfPaAg20H5gJmE.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/218342-a-good-girls-guide-to-murder</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/285574-i-want-to-love-you-till-your-dying-day</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
