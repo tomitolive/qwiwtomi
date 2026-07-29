@@ -63138,5 +63138,91 @@
     ],
     "timestamp": 1785272227,
     "fixed": true
+  },
+  {
+    "title": "Extreme Makeover: Homer Edition / Extreme Makeover: Homer Edition",
+    "title_ar": "Extreme Makeover: Homer Edition",
+    "title_en": "Extreme Makeover: Homer Edition",
+    "slug": "1716513-extreme-makeover-homer-edition",
+    "folder": "movie",
+    "poster": "/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+    "rating": 7.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1716513,
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "عائلي"
+    ],
+    "timestamp": 1785287952,
+    "fixed": true
+  },
+  {
+    "title": "arsiz / arsiz",
+    "title_ar": "arsiz",
+    "title_en": "arsiz",
+    "slug": "305222-arsiz",
+    "folder": "tv",
+    "poster": "/t/p/w500/kvJF0Ng3g0poFrvuhXJZYxgOYp2.jpg",
+    "rating": 7.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 305222,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785287964,
+    "fixed": true
+  },
+  {
+    "title": "Shark Week / Shark Week",
+    "title_ar": "Shark Week",
+    "title_en": "Shark Week",
+    "slug": "15871-shark-week",
+    "folder": "tv",
+    "poster": "/t/p/w500/wRAOmmAVxpYKHRT1ZIbcWz4pUTe.jpg",
+    "rating": 7.6,
+    "year": "1988",
+    "type": "tv",
+    "tmdb_id": 15871,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785287978,
+    "fixed": true
+  },
+  {
+    "title": "Salatut elmt / Secret Lives",
+    "title_ar": "Salatut elmt",
+    "title_en": "Secret Lives",
+    "slug": "14610-secret-lives",
+    "folder": "tv",
+    "poster": "/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+    "rating": 4.2,
+    "year": "1999",
+    "type": "tv",
+    "tmdb_id": 14610,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1785287987,
+    "fixed": true
   }
 ]
