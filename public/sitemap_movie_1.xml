@@ -2044,6 +2044,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1260649-jumanji-open-world</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/12613-street-fighter-ii-the-animated-movie</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dHxLBtHw4InwsVumnthupZYz6NM.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1340206-tuner</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

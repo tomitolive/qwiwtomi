@@ -640,6 +640,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/218642-my-senior-brother-is-too-steady</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/hLUK05JYFVDVGYJLDlI7FUxV6jh.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2188-tru-calling</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/upjt2eq2ICUq8iZjtGbK7UFhQgH.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/285310-number-one-on-the-call-sheet</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mLibEk2hWf6OqywiYUpumGf07eP.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

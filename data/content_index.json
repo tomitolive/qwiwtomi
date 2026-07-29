@@ -63330,5 +63330,121 @@
     ],
     "timestamp": 1785306267,
     "fixed": true
+  },
+  {
+    "title": "The Devils Mouth / The Devils Mouth",
+    "title_ar": "The Devils Mouth",
+    "title_en": "The Devils Mouth",
+    "slug": "1481343-the-devils-mouth",
+    "folder": "movie",
+    "poster": "/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1481343,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1785320741,
+    "fixed": true
+  },
+  {
+    "title": "Jumanji: Open World / Jumanji: Open World",
+    "title_ar": "Jumanji: Open World",
+    "title_en": "Jumanji: Open World",
+    "slug": "1260649-jumanji-open-world",
+    "folder": "movie",
+    "poster": "/t/p/w500/wlzAdBQw2XnmVW05YEJLNdAbizA.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1260649,
+    "genre_ids": [
+      14,
+      12,
+      35
+    ],
+    "genres": [
+      "فانتازيا",
+      "مغامرة",
+      "كوميديا"
+    ],
+    "timestamp": 1785320752,
+    "fixed": true
+  },
+  {
+    "title": "My Senior Brother is Too Steady / My Senior Brother is Too Steady",
+    "title_ar": "My Senior Brother is Too Steady",
+    "title_en": "My Senior Brother is Too Steady",
+    "slug": "218642-my-senior-brother-is-too-steady",
+    "folder": "tv",
+    "poster": "/t/p/w500/hLUK05JYFVDVGYJLDlI7FUxV6jh.jpg",
+    "rating": 8.8,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 218642,
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785320767,
+    "fixed": true
+  },
+  {
+    "title": "GOING SEVENTEEN / GOING SEVENTEEN",
+    "title_ar": "GOING SEVENTEEN",
+    "title_en": "GOING SEVENTEEN",
+    "slug": "74225-going-seventeen",
+    "folder": "tv",
+    "poster": "/t/p/w500/qQZvkevnkCWlfOg7fn6rHcqu5yC.jpg",
+    "rating": 9.8,
+    "year": "2017",
+    "type": "tv",
+    "tmdb_id": 74225,
+    "genre_ids": [
+      10764,
+      35,
+      10767
+    ],
+    "genres": [
+      "واقع",
+      "كوميديا",
+      "حوار"
+    ],
+    "timestamp": 1785320780,
+    "fixed": true
+  },
+  {
+    "title": "Royal Betrothal / Royal Betrothal",
+    "title_ar": "Royal Betrothal",
+    "title_en": "Royal Betrothal",
+    "slug": "295599-royal-betrothal",
+    "folder": "tv",
+    "poster": "/t/p/w500/aoLCbjb0b4f4hbqAofvkyHgsogM.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 295599,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785320795,
+    "fixed": true
   }
 ]
