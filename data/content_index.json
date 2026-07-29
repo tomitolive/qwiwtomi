@@ -63504,5 +63504,115 @@
     "genres": [],
     "timestamp": 1785331926,
     "fixed": true
+  },
+  {
+    "title": "The Thomas Crown Affair / The Thomas Crown Affair",
+    "title_ar": "The Thomas Crown Affair",
+    "title_en": "The Thomas Crown Affair",
+    "slug": "615121-the-thomas-crown-affair",
+    "folder": "movie",
+    "poster": "/t/p/w500/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
+    "rating": 7.0,
+    "year": "2027",
+    "type": "movie",
+    "tmdb_id": 615121,
+    "genre_ids": [
+      80,
+      10749,
+      53
+    ],
+    "genres": [
+      "جريمة",
+      "رومنسية",
+      "إثارة"
+    ],
+    "timestamp": 1785344533,
+    "fixed": true
+  },
+  {
+    "title": "Winter: Battleground / Winter: Battleground",
+    "title_ar": "Winter: Battleground",
+    "title_en": "Winter: Battleground",
+    "slug": "1647508-winter-battleground",
+    "folder": "movie",
+    "poster": "/t/p/w500/3IKLg61qUiSsA1tx7SS50XJWa01.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1647508,
+    "genre_ids": [
+      878,
+      28,
+      53,
+      10752
+    ],
+    "genres": [
+      "خيال علمي",
+      "حركة",
+      "إثارة",
+      "حرب"
+    ],
+    "timestamp": 1785344544,
+    "fixed": true
+  },
+  {
+    "title": "Show! Champion / Show! Champion",
+    "title_ar": "Show! Champion",
+    "title_en": "Show! Champion",
+    "slug": "130013-show-champion",
+    "folder": "tv",
+    "poster": "/t/p/w500/9SoRDu5oh1HN2xZIbnfHC9A7C7U.jpg",
+    "rating": 8.5,
+    "year": "2012",
+    "type": "tv",
+    "tmdb_id": 130013,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785344619,
+    "fixed": true
+  },
+  {
+    "title": "MasterChef / MasterChef",
+    "title_ar": "MasterChef",
+    "title_en": "MasterChef",
+    "slug": "40290-masterchef",
+    "folder": "tv",
+    "poster": "/t/p/w500/42gO1qCC6GPtHKNXvOdhunhzyS3.jpg",
+    "rating": 7.1,
+    "year": "2010",
+    "type": "tv",
+    "tmdb_id": 40290,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785344644,
+    "fixed": true
+  },
+  {
+    "title": "Proyecto final / Final Project",
+    "title_ar": "Proyecto final",
+    "title_en": "Final Project",
+    "slug": "327814-final-project",
+    "folder": "tv",
+    "poster": "/t/p/w500/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 327814,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785344690,
+    "fixed": true
   }
 ]

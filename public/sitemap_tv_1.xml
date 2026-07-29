@@ -1288,6 +1288,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/130013-show-champion</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/9SoRDu5oh1HN2xZIbnfHC9A7C7U.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/130990-chiisana-tabi</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/g11y0jZ1ugmlpDdZrw8hOr6NEFo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/199318-bad-sisters</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
