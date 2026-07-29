@@ -63614,5 +63614,75 @@
     ],
     "timestamp": 1785344690,
     "fixed": true
+  },
+  {
+    "title": "الشروق الأخير / The Last Sunrise",
+    "title_ar": "الشروق الأخير",
+    "title_en": "The Last Sunrise",
+    "slug": "1516698-the-last-sunrise",
+    "folder": "movie",
+    "poster": "/t/p/w500/wMVASRRCPZNUSF332J2vL1auwbY.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1516698,
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "دراما"
+    ],
+    "timestamp": 1785357734,
+    "fixed": true
+  },
+  {
+    "title": "GuAn / GuAn",
+    "title_ar": "GuAn",
+    "title_en": "GuAn",
+    "slug": "303287-guan",
+    "folder": "tv",
+    "poster": "/t/p/w500/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 303287,
+    "genre_ids": [
+      16,
+      10759,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1785357743,
+    "fixed": true
+  },
+  {
+    "title": "الزوج / The Husband",
+    "title_ar": "الزوج",
+    "title_en": "The Husband",
+    "slug": "300954-the-husband",
+    "folder": "tv",
+    "poster": "/t/p/w500/tC7y1Ut98xH8Ovs1KhxRPMkwEmN.jpg",
+    "rating": 7.1,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 300954,
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1785357755,
+    "fixed": true
   }
 ]
