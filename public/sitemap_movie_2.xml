@@ -829,6 +829,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1477712-ice-cream-man</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1480382-the-voice-of-hind-rajab</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/k37axEHszFP9WOVvbozxF0r7X7g.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/276907-legend</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/k1P8B8Jjs7W0IFVGYMIVrsZ9QsH.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

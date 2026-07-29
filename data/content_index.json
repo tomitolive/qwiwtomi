@@ -63446,5 +63446,63 @@
     ],
     "timestamp": 1785320795,
     "fixed": true
+  },
+  {
+    "title": "Ice Cream Man / Ice Cream Man",
+    "title_ar": "Ice Cream Man",
+    "title_en": "Ice Cream Man",
+    "slug": "1477712-ice-cream-man",
+    "folder": "movie",
+    "poster": "/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1477712,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1785331901,
+    "fixed": true
+  },
+  {
+    "title": "Musafir Cafe / Musafir Cafe",
+    "title_ar": "Musafir Cafe",
+    "title_en": "Musafir Cafe",
+    "slug": "313101-musafir-cafe",
+    "folder": "tv",
+    "poster": "/t/p/w500/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 313101,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785331914,
+    "fixed": true
+  },
+  {
+    "title": "The Shadow Sovereign / The Shadow Sovereign",
+    "title_ar": "The Shadow Sovereign",
+    "title_en": "The Shadow Sovereign",
+    "slug": "313642-the-shadow-sovereign",
+    "folder": "tv",
+    "poster": "/t/p/w500/4NTEELjCYu8rqdIEafe2hAfF3em.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 313642,
+    "genre_ids": [],
+    "genres": [],
+    "timestamp": 1785331926,
+    "fixed": true
   }
 ]
