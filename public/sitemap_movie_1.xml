@@ -1900,6 +1900,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1241436-warfare</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/inCgrDifGkSgEx3IhVClBj2AuGk.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1241470-osiris</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/gzs2XMWatrPjVJputJUugbKA4Z.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1336770-vaazha-ii</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

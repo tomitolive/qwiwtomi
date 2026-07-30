@@ -64156,5 +64156,71 @@
     ],
     "timestamp": 1785431790,
     "fixed": true
+  },
+  {
+    "title": "حرب / Warfare",
+    "title_ar": "حرب",
+    "title_en": "Warfare",
+    "slug": "1241436-warfare",
+    "folder": "movie",
+    "poster": "/t/p/w500/inCgrDifGkSgEx3IhVClBj2AuGk.jpg",
+    "rating": 7.1,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1241436,
+    "genre_ids": [
+      10752,
+      28
+    ],
+    "genres": [
+      "حرب",
+      "حركة"
+    ],
+    "timestamp": 1785444815,
+    "fixed": true
+  },
+  {
+    "title": "ما زلت في ١٧ / Torn Apart",
+    "title_ar": "ما زلت في ١٧",
+    "title_en": "Torn Apart",
+    "slug": "317883-torn-apart",
+    "folder": "tv",
+    "poster": "/t/p/w500/w8TdpohODyjtDMga1aN3WeZnWBU.jpg",
+    "rating": 6.3,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 317883,
+    "genre_ids": [
+      18,
+      35
+    ],
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1785444826,
+    "fixed": true
+  },
+  {
+    "title": "The Ark / The Ark",
+    "title_ar": "The Ark",
+    "title_en": "The Ark",
+    "slug": "47663-the-ark",
+    "folder": "tv",
+    "poster": "/t/p/w500/rec774m02XNLSjU9qm5z6UUfMRl.jpg",
+    "rating": 6.3,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 47663,
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "غموض"
+    ],
+    "timestamp": 1785444842,
+    "fixed": true
   }
 ]
