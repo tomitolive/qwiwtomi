@@ -388,6 +388,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1404604-compostelle</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4FaoBpDtzhZk9R907epSN5WCelq.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1405769-i-can-only-imagine-2</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qWDB95ka7PimGBWDjwgho9KwNbU.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/271110-captain-america-civil-war</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8qrwEGagUE5Kc1IVxpWRHSGAPvD.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
