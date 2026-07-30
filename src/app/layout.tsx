@@ -56,6 +56,10 @@ export default async function RootLayout({
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="fbd3e913244fb343" />
         <Script 
+          src="https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js"
+          strategy="beforeInteractive"
+        />
+        <Script 
           src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
           strategy="afterInteractive"
         />
