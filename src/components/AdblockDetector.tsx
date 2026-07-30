@@ -7,27 +7,32 @@ export default function AdblockDetector() {
   const [isChecking, setIsChecking] = useState(true);
 
   useEffect(() => {
-    // Check for adblock by attempting to load a bait element
-    const checkAdblock = () => {
-      // Method 1: Check if ad containers are blocked
+    let blockedCount = 0;
+    const totalChecks = 8;
+
+    // Method 1: Check if ad containers are blocked via CSS
+    const checkAdContainers = () => {
       const adTest = document.createElement("div");
       adTest.innerHTML = "&nbsp;";
-      adTest.className = "adsbox ad-banner ad-placement ad-sidebar ad-container";
+      adTest.className = "adsbox ad-banner ad-placement ad-sidebar ad-container ad-banner-top ad-banner-bottom ad-sidebar-ad ad-content";
       adTest.style.position = "absolute";
       adTest.style.left = "-999px";
       document.body.appendChild(adTest);
 
       setTimeout(() => {
+        const computedStyle = window.getComputedStyle(adTest);
         const isBlocked = 
           adTest.offsetHeight === 0 ||
           adTest.style.display === "none" ||
-          window.getComputedStyle(adTest).display === "none" ||
+          computedStyle.display === "none" ||
           adTest.style.visibility === "hidden" ||
-          window.getComputedStyle(adTest).visibility === "hidden";
+          computedStyle.visibility === "hidden" ||
+          computedStyle.opacity === "0" ||
+          computedStyle.height === "0px";
         
         document.body.removeChild(adTest);
-        setIsAdblockDetected(isBlocked);
-        setIsChecking(false);
+        if (isBlocked) blockedCount++;
+        checkComplete();
       }, 100);
     };
 
@@ -37,22 +42,142 @@ export default function AdblockDetector() {
       testScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
       testScript.async = true;
       testScript.onerror = () => {
-        setIsAdblockDetected(true);
-        setIsChecking(false);
+        blockedCount++;
+        checkComplete();
       };
-      document.head.appendChild(testScript);
-      
-      // Clean up after check
-      setTimeout(() => {
+      testScript.onload = () => {
         if (document.head.contains(testScript)) {
           document.head.removeChild(testScript);
         }
+        checkComplete();
+      };
+      document.head.appendChild(testScript);
+    };
+
+    // Method 3: Check if adblock properties exist on window
+    const checkWindowProperties = () => {
+      const adblockProps = [
+        'canRunAds',
+        'canRunAdsense',
+        '_ab_',
+        'abp',
+        'adblock',
+        'adblockActive',
+        'adblockEnabled',
+        'adblockDetected',
+        'isAdBlockActive',
+        'isAdblockActive'
+      ];
+      
+      for (const prop of adblockProps) {
+        if (window[prop as keyof Window] !== undefined) {
+          blockedCount++;
+          break;
+        }
+      }
+      checkComplete();
+    };
+
+    // Method 4: Check if ad elements are removed from DOM
+    const checkElementRemoval = () => {
+      const bait = document.createElement("div");
+      bait.id = "ad-banner-test";
+      bait.className = "ad-banner adsbox";
+      bait.style.position = "absolute";
+      bait.style.left = "-9999px";
+      bait.innerHTML = "<ins class='adsbygoogle'></ins>";
+      document.body.appendChild(bait);
+
+      setTimeout(() => {
+        const isRemoved = !document.body.contains(bait) || 
+                          bait.innerHTML === "" ||
+                          !bait.querySelector("ins");
+        
+        if (document.body.contains(bait)) {
+          document.body.removeChild(bait);
+        }
+        
+        if (isRemoved) blockedCount++;
+        checkComplete();
       }, 200);
     };
 
-    // Run both checks
-    checkAdblock();
+    // Method 5: Check if specific ad URLs are blocked
+    const checkBlockedUrls = () => {
+      const testImg = new Image();
+      testImg.src = "https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDL7IjD9woEQqYQ4AII";
+      testImg.onload = () => checkComplete();
+      testImg.onerror = () => {
+        blockedCount++;
+        checkComplete();
+      };
+    };
+
+    // Method 6: Check for adblock extension injection
+    const checkExtensionInjection = () => {
+      const adblockElements = document.querySelectorAll('[class*="adblock"], [id*="adblock"], [class*="block-ad"], [id*="block-ad"]');
+      if (adblockElements.length > 0) {
+        blockedCount++;
+      }
+      checkComplete();
+    };
+
+    // Method 7: Check if localStorage has adblock flags
+    const checkLocalStorage = () => {
+      try {
+        const adblockKeys = Object.keys(localStorage).filter(key => 
+          key.toLowerCase().includes('adblock') || 
+          key.toLowerCase().includes('adblocker') ||
+          key.toLowerCase().includes('blockad')
+        );
+        if (adblockKeys.length > 0) {
+          blockedCount++;
+        }
+      } catch (e) {
+        // Ignore localStorage errors
+      }
+      checkComplete();
+    };
+
+    // Method 8: Check if specific ad classes are hidden
+    const checkHiddenClasses = () => {
+      const testDiv = document.createElement("div");
+      testDiv.className = "google-ad ad-ad advertisement banner-ad";
+      testDiv.style.position = "absolute";
+      testDiv.style.left = "-9999px";
+      document.body.appendChild(testDiv);
+
+      setTimeout(() => {
+        const computedStyle = window.getComputedStyle(testDiv);
+        const isHidden = computedStyle.display === "none" || 
+                        computedStyle.visibility === "hidden" ||
+                        computedStyle.opacity === "0";
+        
+        document.body.removeChild(testDiv);
+        if (isHidden) blockedCount++;
+        checkComplete();
+      }, 100);
+    };
+
+    let checksCompleted = 0;
+    const checkComplete = () => {
+      checksCompleted++;
+      if (checksCompleted >= totalChecks) {
+        // If 2 or more checks detect adblock, consider it blocked
+        setIsAdblockDetected(blockedCount >= 2);
+        setIsChecking(false);
+      }
+    };
+
+    // Run all checks
+    checkAdContainers();
     checkBlockedScripts();
+    checkWindowProperties();
+    checkElementRemoval();
+    checkBlockedUrls();
+    checkExtensionInjection();
+    checkLocalStorage();
+    checkHiddenClasses();
   }, []);
 
   // Block page content if adblock is detected
