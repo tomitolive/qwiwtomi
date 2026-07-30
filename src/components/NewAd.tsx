@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 
 export default function NewAd() {
   const containerRef = useRef<HTMLDivElement>(null);
-  const loaded = useRef(false);
+  const uniqueId = useRef(`container-${Math.random().toString(36).substr(2, 9)}`);
 
   useEffect(() => {
     const loadScript = () => {
@@ -29,7 +29,7 @@ export default function NewAd() {
 
   return (
     <div ref={containerRef} style={{ textAlign: "center", margin: "20px auto", overflow: "hidden", maxWidth: "728px", minHeight: "90px", border: "1px dashed #333", padding: "10px" }}>
-      <div id="container-08370281e563742f6dcb56530f5e8082"></div>
+      <div id={uniqueId.current}></div>
     </div>
   );
 }
