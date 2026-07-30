@@ -3,7 +3,7 @@ import path from "path";
 import { ContentIndexEntry } from "@/lib/content";
 import { Metadata } from "next";
 import Link from "next/link";
-import MagsrvSearchAd from "@/components/MagsrvSearchAd";
+import NewAd from "@/components/NewAd";
 
 interface SearchPageProps {
   searchParams: Promise<{ q?: string }>;
@@ -135,7 +135,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         </div>
 
         {/* إعلان 1 - بعد العنوان */}
-        <MagsrvSearchAd />
+        <NewAd />
 
         {localResults.length > 0 && (
           <div className="mb-12">
@@ -170,7 +170,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         )}
 
         {/* إعلان 2 - بين القسمين */}
-        <MagsrvSearchAd />
+        <NewAd />
 
         {tmdbFiltered.length > 0 && (
           <div className="mb-12">
@@ -213,7 +213,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         )}
 
         {/* إعلان 3 - في الأسفل */}
-        <MagsrvSearchAd />
+        <NewAd />
       </div>
     </div>
   );

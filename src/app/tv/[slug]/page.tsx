@@ -7,7 +7,7 @@ import Script from "next/script";
 import ProtectedLink from "@/components/ProtectedLink";
 import ShareButton from "@/components/ShareButton";
 import Navbar from "@/components/Navbar";
-import MagsrvAd from "@/components/MagsrvAd";
+import NewAd from "@/components/NewAd";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -240,7 +240,7 @@ export default async function TVPage({ params }: Props) {
             </div>
 
             {/* Ad 1 - بعد البريدكرامبس */}
-            <MagsrvAd />
+            <NewAd />
 
             {/* Full Content Section */}
             <div className="bg-zinc-900 border border-zinc-800 p-4">
@@ -425,7 +425,7 @@ export default async function TVPage({ params }: Props) {
             </div>
 
             {/* Ad 2 - بعد تفاصيل المسلسل */}
-            <MagsrvAd />
+            <NewAd />
 
             {/* Trailer Section */}
             {trailer && (
@@ -523,7 +523,7 @@ export default async function TVPage({ params }: Props) {
         )}
 
         {/* Ad 3 - بعد المسلسلات المقترحة */}
-        <MagsrvAd />
+        <NewAd />
 
         {/* Footer Carousels - 4 sections with sliding cards */}
         <div className="mt-8 space-y-8">
