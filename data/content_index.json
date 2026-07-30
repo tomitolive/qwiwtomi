@@ -63794,5 +63794,95 @@
     ],
     "timestamp": 1785373984,
     "fixed": true
+  },
+  {
+    "title": "Coyote vs. Acme / Coyote vs. Acme",
+    "title_ar": "Coyote vs. Acme",
+    "title_en": "Coyote vs. Acme",
+    "slug": "1204680-coyote-vs-acme",
+    "folder": "movie",
+    "poster": "/t/p/w500/ex1x4IZusmvqAfHBnuv410RGwMt.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1204680,
+    "genre_ids": [
+      35,
+      12,
+      10751
+    ],
+    "genres": [
+      "كوميديا",
+      "مغامرة",
+      "عائلي"
+    ],
+    "timestamp": 1785392195,
+    "fixed": true
+  },
+  {
+    "title": "Ancient Aliens / Ancient Aliens",
+    "title_ar": "Ancient Aliens",
+    "title_en": "Ancient Aliens",
+    "slug": "32608-ancient-aliens",
+    "folder": "tv",
+    "poster": "/t/p/w500/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+    "rating": 7.1,
+    "year": "2010",
+    "type": "tv",
+    "tmdb_id": 32608,
+    "genre_ids": [
+      99,
+      9648,
+      10765
+    ],
+    "genres": [
+      "وثائقي",
+      "غموض",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785392207,
+    "fixed": true
+  },
+  {
+    "title": "Impractical Jokers / Impractical Jokers",
+    "title_ar": "Impractical Jokers",
+    "title_en": "Impractical Jokers",
+    "slug": "59186-impractical-jokers",
+    "folder": "tv",
+    "poster": "/t/p/w500/tRLj19YXH9GPiaqlU7GwWyd6G5K.jpg",
+    "rating": 7.9,
+    "year": "2011",
+    "type": "tv",
+    "tmdb_id": 59186,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1785392220,
+    "fixed": true
+  },
+  {
+    "title": "Quiet Please! / Quiet Please!",
+    "title_ar": "Quiet Please!",
+    "title_en": "Quiet Please!",
+    "slug": "299989-quiet-please",
+    "folder": "tv",
+    "poster": "/t/p/w500/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+    "rating": 7.5,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 299989,
+    "genre_ids": [
+      35,
+      16
+    ],
+    "genres": [
+      "كوميديا",
+      "رسوم متحركة"
+    ],
+    "timestamp": 1785392235,
+    "fixed": true
   }
 ]

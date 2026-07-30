@@ -1630,6 +1630,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1204680-coyote-vs-acme</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ex1x4IZusmvqAfHBnuv410RGwMt.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1207162-rise-of-the-conqueror</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1339713-obsession</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ypyn52YUVZ6ZZ3UlMtglIKejYOa.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
