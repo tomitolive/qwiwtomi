@@ -10,13 +10,13 @@ export default function NewAd() {
       if (loaded.current) return;
       
       // Check if script is already loaded
-      if (document.querySelector('script[src="https://pl29663723.effectivecpmnetwork.com/6e/78/14/6e781401b81579a741ac7074d6fe77eb.js"]')) {
+      if (document.querySelector('script[src="https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js"]')) {
         loaded.current = true;
         return;
       }
 
       const script = document.createElement("script");
-      script.src = "https://pl29663723.effectivecpmnetwork.com/6e/78/14/6e781401b81579a741ac7074d6fe77eb.js";
+      script.src = "https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js";
       script.async = true;
       document.head.appendChild(script);
       loaded.current = true;
