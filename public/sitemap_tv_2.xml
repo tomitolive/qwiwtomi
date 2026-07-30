@@ -2269,6 +2269,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/271016-mystic-nine</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8jb87VHtwuViVNdYBvmniiy9OES.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/271607-the-fragrant-flower-blooms-with-dignity</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/wFop5Yilhu4DR8mQYEPWFvJFepy.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2849-the-world-of-david-the-gnome</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/wbk24KPWMcwTQE9LmYkiQcBE9k4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

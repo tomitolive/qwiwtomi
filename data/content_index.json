@@ -63884,5 +63884,109 @@
     ],
     "timestamp": 1785392235,
     "fixed": true
+  },
+  {
+    "title": "Shake, Rattle Roll Evil Origins / Shake, Rattle Roll Evil Origins",
+    "title_ar": "Shake, Rattle Roll Evil Origins",
+    "title_en": "Shake, Rattle Roll Evil Origins",
+    "slug": "1510795-shake-rattle-roll-evil-origins",
+    "folder": "movie",
+    "poster": "/t/p/w500/6evn0A1Mvxe9p5r2CVxFfbOoetw.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1510795,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1785406190,
+    "fixed": true
+  },
+  {
+    "title": "Insidious: Out of the Further / Insidious: Out of the Further",
+    "title_ar": "Insidious: Out of the Further",
+    "title_en": "Insidious: Out of the Further",
+    "slug": "1291595-insidious-out-of-the-further",
+    "folder": "movie",
+    "poster": "/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1291595,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
+    "timestamp": 1785406203,
+    "fixed": true
+  },
+  {
+    "title": "Jersey Shore: Family Vacation / Jersey Shore: Family Vacation",
+    "title_ar": "Jersey Shore: Family Vacation",
+    "title_en": "Jersey Shore: Family Vacation",
+    "slug": "78533-jersey-shore-family-vacation",
+    "folder": "tv",
+    "poster": "/t/p/w500/w9bzs5aESomtSrKi39NKrre5tC7.jpg",
+    "rating": 7.2,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 78533,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785406214,
+    "fixed": true
+  },
+  {
+    "title": "Akn Gc / Power of Love",
+    "title_ar": "Akn Gc",
+    "title_en": "Power of Love",
+    "slug": "308185-power-of-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/zkMOBciCmOJyGgYOw7aICvY516C.jpg",
+    "rating": 10.0,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 308185,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785406227,
+    "fixed": true
+  },
+  {
+    "title": "Mystic Nine / Mystic Nine",
+    "title_ar": "Mystic Nine",
+    "title_en": "Mystic Nine",
+    "slug": "271016-mystic-nine",
+    "folder": "tv",
+    "poster": "/t/p/w500/8jb87VHtwuViVNdYBvmniiy9OES.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 271016,
+    "genre_ids": [
+      18,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785406242,
+    "fixed": true
   }
 ]

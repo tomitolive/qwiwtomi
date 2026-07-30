@@ -2323,6 +2323,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1291595-insidious-out-of-the-further</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1291608-dhurandhar</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1339588-finding-emily</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
