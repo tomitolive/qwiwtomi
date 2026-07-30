@@ -8,7 +8,7 @@ export default function NewAd() {
 
   useEffect(() => {
     const loadScript = () => {
-      if (loaded.current || !containerRef.current) return;
+      if (loaded.current) return;
       
       // Check if script is already loaded
       if (document.querySelector('script[src="https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js"]')) {
@@ -20,7 +20,7 @@ export default function NewAd() {
       script.src = "https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js";
       script.async = true;
       script.setAttribute("data-cfasync", "false");
-      containerRef.current.appendChild(script);
+      document.head.appendChild(script);
       loaded.current = true;
     };
 
