@@ -3,6 +3,7 @@ import { Inter, Outfit, Tajawal } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "@/components/ThemeProvider";
+import AdblockDetector from "@/components/AdblockDetector";
 
 import { cookies } from "next/headers";
 import { headers } from "next/headers";
@@ -55,10 +56,13 @@ export default async function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="fbd3e913244fb343" />
-        <Script 
-          src="https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js"
-          strategy="beforeInteractive"
-        />
+        
+        {/* Preconnect to ad networks for faster loading */}
+        <link rel="preconnect" href="https://pl30597637.effectivecpmnetwork.com" />
+        <link rel="preconnect" href="https://pl30598106.effectivecpmnetwork.com" />
+        <link rel="preconnect" href="https://pl30598123.effectivecpmnetwork.com" />
+        
+        {/* Google Analytics */}
         <Script 
           src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
           strategy="afterInteractive"
@@ -71,9 +75,29 @@ export default async function RootLayout({
             gtag('config', 'G-PRCQVS90BX');
           `}
         </Script>
+        
+        {/* Ad Scripts - Preload for faster loading */}
+        <Script 
+          src="https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js"
+          strategy="afterInteractive"
+          data-cfasync="false"
+        />
+        <Script 
+          src="https://pl30598106.effectivecpmnetwork.com/7853b06f071ef8a725aee4957098eae1/invoke.js"
+          strategy="afterInteractive"
+          data-cfasync="false"
+        />
+        <Script 
+          src="https://pl30598123.effectivecpmnetwork.com/74473a481e12f32fea68225a3cc97eed/invoke.js"
+          strategy="afterInteractive"
+          data-cfasync="false"
+        />
       </head>
       <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
         <ThemeProvider>
+
+          {/* ───── ADBLOCK DETECTOR ───── */}
+          <AdblockDetector />
 
           {/* ───── NAVBAR ───── */}
           {!isDetailPage && <Navbar />}
