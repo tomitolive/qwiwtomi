@@ -126,8 +126,8 @@ export default async function MoviePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(movieSchema) }}
       />
 
-      {/* Hero Section - 100vh with 4 layers */}
-      <div className="relative w-full h-[100vh] md:h-[80vh] bg-background overflow-hidden">
+      {/* Hero Section */}
+      <div className="relative w-full bg-background py-8 md:py-12">
         
         {/* Layer 3: Transparent Header */}
         <div className="absolute top-0 left-0 w-full z-30 bg-transparent">
@@ -135,23 +135,23 @@ export default async function MoviePage({ params }: Props) {
         </div>
 
         {/* Layer 4: Clear Content */}
-        <div className="relative z-20 container mx-auto h-full flex items-center px-4 md:px-6 pt-16 md:pt-20 pb-6">
-          <div className="flex flex-col md:flex-row gap-4 md:gap-6 items-center w-full">
+        <div className="relative z-20 container mx-auto flex items-center px-4 md:px-6 pt-20 md:pt-24">
+          <div className="flex flex-col md:flex-row gap-6 md:gap-8 items-center w-full">
             
             {/* Left: Poster */}
             {poster && (
-              <div className="w-full md:w-[260px] flex-shrink-0 relative order-2 md:order-1">
+              <div className="w-full md:w-[260px] flex-shrink-0 relative order-1">
                 <img
                   src={poster}
                   alt={displayTitle}
-                  className="w-full h-[260px] md:h-[380px] object-cover rounded-lg border-2 border-white/20 shadow-2xl"
+                  className="w-full h-auto object-contain rounded-lg border-2 border-white/20 shadow-2xl"
                   loading="eager"
                 />
               </div>
             )}
 
             {/* Right: Content */}
-            <div className="flex-1 space-y-2 md:space-y-3 order-1 md:order-2 text-center md:text-left">
+            <div className="flex-1 space-y-3 md:space-y-4 order-2 text-center md:text-left">
               {/* Title */}
               <h1 className="text-xl md:text-3xl lg:text-4xl font-extrabold tracking-wider text-white">
                 {displayTitle} {year}
@@ -188,7 +188,7 @@ export default async function MoviePage({ params }: Props) {
 
               {/* Overview */}
               {overview && (
-                <p className="text-gray-300 text-sm md:text-base leading-relaxed line-clamp-3 md:line-clamp-4 max-w-3xl">
+                <p className="text-gray-300 text-sm md:text-base leading-relaxed max-w-3xl">
                   {overview}
                 </p>
               )}
@@ -236,7 +236,7 @@ export default async function MoviePage({ params }: Props) {
             <NewAd ad="ad1" />
 
             {/* Full Content Section */}
-            <div className="bg-zinc-900 border border-zinc-800 p-4">
+            <div className="bg-transparent border border-zinc-800 p-4">
               <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-orange-500">
                   <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
@@ -325,7 +325,7 @@ export default async function MoviePage({ params }: Props) {
             </div>
 
             {/* Movie Details Table */}
-            <div className="bg-zinc-900 border border-zinc-800 p-4">
+            <div className="bg-transparent border border-zinc-800 p-4">
               <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-orange-500">
                   <circle cx="12" cy="12" r="10"/>
@@ -422,7 +422,7 @@ export default async function MoviePage({ params }: Props) {
 
             {/* Trailer Section */}
             {trailer && (
-              <div className="bg-zinc-900 border border-zinc-800 p-4">
+              <div className="bg-transparent border border-zinc-800 p-4">
                 <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-orange-500">
                     <polygon points="5 3 19 12 5 21 5 3"/>
@@ -443,7 +443,7 @@ export default async function MoviePage({ params }: Props) {
 
             {/* FAQ Section */}
             {ai?.faq && ai.faq.length > 0 && (
-              <div className="bg-zinc-900 border border-zinc-800 p-4">
+              <div className="bg-transparent border border-zinc-800 p-4">
                 <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-orange-500">
                     <circle cx="12" cy="12" r="10"/>
