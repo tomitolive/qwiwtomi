@@ -63684,5 +63684,115 @@
     ],
     "timestamp": 1785357755,
     "fixed": true
+  },
+  {
+    "title": "The Gentleman Thief / The Gentleman Thief",
+    "title_ar": "The Gentleman Thief",
+    "title_en": "The Gentleman Thief",
+    "slug": "1458215-the-gentleman-thief",
+    "folder": "movie",
+    "poster": "/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+    "rating": 4.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1458215,
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "جريمة",
+      "إثارة"
+    ],
+    "timestamp": 1785373932,
+    "fixed": true
+  },
+  {
+    "title": "Fall 2: Deadpoint / Fall 2: Deadpoint",
+    "title_ar": "Fall 2: Deadpoint",
+    "title_en": "Fall 2: Deadpoint",
+    "slug": "1101412-fall-2-deadpoint",
+    "folder": "movie",
+    "poster": "/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1101412,
+    "genre_ids": [
+      53
+    ],
+    "genres": [
+      "إثارة"
+    ],
+    "timestamp": 1785373944,
+    "fixed": true
+  },
+  {
+    "title": "Candy Caries / Candy Caries",
+    "title_ar": "Candy Caries",
+    "title_en": "Candy Caries",
+    "slug": "312383-candy-caries",
+    "folder": "tv",
+    "poster": "/t/p/w500/a7sm6GnT2NfO9l7N4e8JGpYw7eN.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 312383,
+    "genre_ids": [
+      16,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1785373958,
+    "fixed": true
+  },
+  {
+    "title": "Guys Grocery Games / Guys Grocery Games",
+    "title_ar": "Guys Grocery Games",
+    "title_en": "Guys Grocery Games",
+    "slug": "62595-guys-grocery-games",
+    "folder": "tv",
+    "poster": "/t/p/w500/dNg2v7SQLOOYn23rc5dJLgSDgYh.jpg",
+    "rating": 5.7,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 62595,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785373970,
+    "fixed": true
+  },
+  {
+    "title": "Ranma1/2 / Ranma1/2",
+    "title_ar": "Ranma1/2",
+    "title_en": "Ranma1/2",
+    "slug": "259140-ranma12",
+    "folder": "tv",
+    "poster": "/t/p/w500/x6NCiVv8ik6llOZT7ECBSxn9FaY.jpg",
+    "rating": 8.1,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 259140,
+    "genre_ids": [
+      16,
+      10759,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "كوميديا"
+    ],
+    "timestamp": 1785373984,
+    "fixed": true
   }
 ]
