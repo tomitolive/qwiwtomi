@@ -559,6 +559,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/298994-the-villager-of-level-999</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/299141-apex-legends</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/4583-derrick</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5HPuyO4V3rcoMgPZmgcdKJrdXUI.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

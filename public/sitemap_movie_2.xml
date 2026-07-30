@@ -694,6 +694,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1440304-mauvaise-pioche</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wRPxSccJw6wckkBUOzM5CHd871w.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1442396-nagabandham-the-secret-treasure</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/gEi9HS7OZwdpiU3Uc8aVIF88Pa6.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/270946-penguins-of-madagascar</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/qWDB95ka7PimGBWDjwgho9KwNbU.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
