@@ -3,22 +3,24 @@
 import { useEffect, useRef } from "react";
 
 export default function NewAd() {
+  const containerRef = useRef<HTMLDivElement>(null);
   const loaded = useRef(false);
 
   useEffect(() => {
     const loadScript = () => {
-      if (loaded.current) return;
+      if (loaded.current || !containerRef.current) return;
       
       // Check if script is already loaded
-      if (document.querySelector('script[src="https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js"]')) {
+      if (document.querySelector('script[src="https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js"]')) {
         loaded.current = true;
         return;
       }
 
       const script = document.createElement("script");
-      script.src = "https://pl30597550.effectivecpmnetwork.com/e9/97/d5/e997d5de88469fe50e1f491bdebf4d3e.js";
+      script.src = "https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js";
       script.async = true;
-      document.head.appendChild(script);
+      script.setAttribute("data-cfasync", "false");
+      containerRef.current.appendChild(script);
       loaded.current = true;
     };
 
@@ -35,8 +37,8 @@ export default function NewAd() {
   }, []);
 
   return (
-    <div style={{ textAlign: "center", margin: "20px auto", overflow: "hidden", maxWidth: "728px", minHeight: "90px", border: "1px dashed #333", padding: "10px" }}>
-      {/* Ad will be loaded here */}
+    <div ref={containerRef} style={{ textAlign: "center", margin: "20px auto", overflow: "hidden", maxWidth: "728px", minHeight: "90px", border: "1px dashed #333", padding: "10px" }}>
+      <div id="container-08370281e563742f6dcb56530f5e8082"></div>
     </div>
   );
 }
