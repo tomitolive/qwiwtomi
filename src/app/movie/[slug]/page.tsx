@@ -233,7 +233,7 @@ export default async function MoviePage({ params }: Props) {
             </div>
 
             {/* Ad 1 - بعد البريدكرامبس */}
-            <NewAd />
+            <NewAd ad="ad1" />
 
             {/* Full Content Section */}
             <div className="bg-zinc-900 border border-zinc-800 p-4">
@@ -418,7 +418,7 @@ export default async function MoviePage({ params }: Props) {
             </div>
 
             {/* Ad 2 - بعد تفاصيل الفيلم */}
-            <NewAd />
+            <NewAd ad="ad2" />
 
             {/* Trailer Section */}
             {trailer && (
@@ -516,7 +516,7 @@ export default async function MoviePage({ params }: Props) {
         )}
 
         {/* Ad 3 - بعد الأفلام المقترحة */}
-        <NewAd />
+        <NewAd ad="ad3" />
 
         {/* Footer Carousels - 4 sections with sliding cards */}
         <div className="mt-8 space-y-8">

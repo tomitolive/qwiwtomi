@@ -1,35 +1,53 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect } from "react";
 
-export default function NewAd() {
-  const containerRef = useRef<HTMLDivElement>(null);
-  const uniqueId = useRef(`container-${Math.random().toString(36).substr(2, 9)}`);
+const ADS = {
+  ad1: {
+    id: "container-08370281e563742f6dcb56530f5e8082",
+    src: "https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js"
+  },
+  ad2: {
+    id: "container-7853b06f071ef8a725aee4957098eae1",
+    src: "https://pl30598106.effectivecpmnetwork.com/7853b06f071ef8a725aee4957098eae1/invoke.js"
+  },
+  ad3: {
+    id: "container-74473a481e12f32fea68225a3cc97eed",
+    src: "https://pl30598123.effectivecpmnetwork.com/74473a481e12f32fea68225a3cc97eed/invoke.js"
+  }
+};
+
+interface NewAdProps {
+  ad?: "ad1" | "ad2" | "ad3";
+}
+
+export default function NewAd({ ad = "ad1" }: NewAdProps) {
+  const adConfig = ADS[ad];
 
   useEffect(() => {
-    const loadScript = () => {
+    // Only inject script once per ad type
+    if (!document.querySelector(`script[src="${adConfig.src}"]`)) {
       const script = document.createElement("script");
-      script.src = "https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js";
+      script.src = adConfig.src;
       script.async = true;
       script.setAttribute("data-cfasync", "false");
       document.head.appendChild(script);
-    };
-
-    // Load script after page is fully loaded
-    if (document.readyState === 'complete') {
-      loadScript();
-    } else {
-      window.addEventListener('load', loadScript);
     }
-
-    return () => {
-      window.removeEventListener('load', loadScript);
-    };
-  }, []);
+  }, [adConfig.src]);
 
   return (
-    <div ref={containerRef} style={{ textAlign: "center", margin: "20px auto", overflow: "hidden", maxWidth: "728px", minHeight: "90px", border: "1px dashed #333", padding: "10px" }}>
-      <div id={uniqueId.current}></div>
+    <div style={{ 
+      textAlign: "center", 
+      margin: "20px auto", 
+      overflow: "hidden", 
+      maxWidth: "728px", 
+      minHeight: "90px",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      gap: "10px"
+    }}>
+      <div id={adConfig.id} style={{ flex: 1, minWidth: 0 }}></div>
     </div>
   );
 }

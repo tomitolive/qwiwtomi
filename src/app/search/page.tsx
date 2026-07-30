@@ -134,8 +134,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </p>
         </div>
 
-        {/* إعلان 1 - بعد العنوان */}
-        <NewAd />
+        {/* Ad 1 - بعد العنوان */}
+        <NewAd ad="ad1" />
 
         {localResults.length > 0 && (
           <div className="mb-12">
@@ -169,8 +169,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </div>
         )}
 
-        {/* إعلان 2 - بين القسمين */}
-        <NewAd />
+        {/* Ad 2 - بين القسمين */}
+        <NewAd ad="ad2" />
 
         {tmdbFiltered.length > 0 && (
           <div className="mb-12">
@@ -212,8 +212,8 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </div>
         )}
 
-        {/* إعلان 3 - في الأسفل */}
-        <NewAd />
+        {/* Ad 3 - في الأسفل */}
+        <NewAd ad="ad3" />
       </div>
     </div>
   );
