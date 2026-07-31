@@ -1216,6 +1216,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/127163-das-perfekte-dinner</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/12751-automan</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/198178-wonder-man</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rF5jPrRY8WgLLifVWqzGEI3aWGc.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

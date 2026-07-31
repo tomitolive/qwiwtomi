@@ -64584,5 +64584,95 @@
     ],
     "timestamp": 1785504435,
     "fixed": true
+  },
+  {
+    "title": "Good Boy / Good Boy",
+    "title_ar": "Good Boy",
+    "title_en": "Good Boy",
+    "slug": "1381027-good-boy",
+    "folder": "movie",
+    "poster": "/t/p/w500/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
+    "rating": 7.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1381027,
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "genres": [
+      "إثارة",
+      "دراما",
+      "غموض"
+    ],
+    "timestamp": 1785518186,
+    "fixed": true
+  },
+  {
+    "title": "Das perfekte Dinner / Das perfekte Dinner",
+    "title_ar": "Das perfekte Dinner",
+    "title_en": "Das perfekte Dinner",
+    "slug": "127163-das-perfekte-dinner",
+    "folder": "tv",
+    "poster": "/t/p/w500/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
+    "rating": 7.0,
+    "year": "2005",
+    "type": "tv",
+    "tmdb_id": 127163,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785518207,
+    "fixed": true
+  },
+  {
+    "title": "0 / The Frontier Lord Begins with Zero Subjects",
+    "title_ar": "0",
+    "title_en": "The Frontier Lord Begins with Zero Subjects",
+    "slug": "296437-the-frontier-lord-begins-with-zero-subjects",
+    "folder": "tv",
+    "poster": "/t/p/w500/sFMfJnehzGh9lSvULJBEp8Pr0zV.jpg",
+    "rating": 6.9,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 296437,
+    "genre_ids": [
+      35,
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "كوميديا",
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785518220,
+    "fixed": true
+  },
+  {
+    "title": "RTL Tonight / RTL Tonight",
+    "title_ar": "RTL Tonight",
+    "title_en": "RTL Tonight",
+    "slug": "296126-rtl-tonight",
+    "folder": "tv",
+    "poster": "/t/p/w500/m56sR1upTuxs3UZJU7vbku1cSAc.jpg",
+    "rating": 7.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 296126,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1785518249,
+    "fixed": true
   }
 ]
