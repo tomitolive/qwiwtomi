@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import Script from "next/script";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Navbar from "@/components/Navbar";
-import NewAd from "@/components/NewAd";
 
 interface Props {
   params: Promise<{
@@ -156,9 +155,6 @@ export default async function EpisodePage({ params }: Props) {
           ]} />
         </div>
 
-        {/* Ad */}
-        <NewAd />
-
         {/* Episode Still Image */}
         {still && (
           <div className="mb-6">
@@ -286,9 +282,6 @@ export default async function EpisodePage({ params }: Props) {
             </div>
           </div>
         )}
-
-        {/* Ad */}
-        <NewAd />
       </div>
     </div>
   );

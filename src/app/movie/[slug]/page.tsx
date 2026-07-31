@@ -127,17 +127,16 @@ export default async function MoviePage({ params }: Props) {
       />
 
       {/* Hero Section */}
-      <div className="relative w-full bg-background py-8 md:py-12">
+      <div className="relative w-full py-8 md:py-12">
         
         {/* Layer 3: Transparent Header */}
         <div className="absolute top-0 left-0 w-full z-30 bg-transparent">
           <Navbar />
         </div>
 
-        {/* Layer 4: Clear Content */}
-        <div className="relative z-20 container mx-auto flex items-center px-4 md:px-6 pt-20 md:pt-24">
-          <div className="flex flex-col md:flex-row gap-6 md:gap-8 items-center w-full">
-            
+         {/* Layer 4: Clear Content */}
+         <div className="relative z-20 container mx-auto flex items-center justify-start md:justify-center px-4 md:px-6 pt-20 md:pt-24">
+          <div className="flex flex-col md:flex-row gap-6 md:gap-8 items-center w-full max-w-5xl text-right">
             {/* Left: Poster */}
             {poster && (
               <div className="w-full md:w-[260px] flex-shrink-0 relative order-1">
@@ -151,7 +150,7 @@ export default async function MoviePage({ params }: Props) {
             )}
 
             {/* Right: Content */}
-            <div className="flex-1 space-y-3 md:space-y-4 order-2 text-center md:text-left">
+            <div className="flex-1 space-y-3 md:space-y-4 order-2 text-center md:text-right pl-4 md:pl-8">
               {/* Title */}
               <h1 className="text-xl md:text-3xl lg:text-4xl font-extrabold tracking-wider text-white">
                 {displayTitle} {year}
@@ -159,7 +158,7 @@ export default async function MoviePage({ params }: Props) {
 
               {/* Rating */}
               {rating && (
-                <div className="flex items-center gap-2 justify-center md:justify-start">
+                <div className="flex items-center gap-2 justify-center md:justify-end flex-row-reverse">
                   <span className="text-yellow-400 text-lg md:text-xl">⭐</span>
                   <span className="text-base md:text-lg font-extrabold tracking-wider" style={{
                     color: 'transparent',
@@ -172,15 +171,9 @@ export default async function MoviePage({ params }: Props) {
               )}
 
               {/* Genres */}
-              <div className="flex flex-wrap gap-2 justify-center md:justify-start">
+              <div className="flex flex-row-reverse flex-wrap gap-2 justify-center md:justify-end">
                 {data.genres?.map((g: ContentGenre) => (
-                  <span key={g.id} className="px-2 md:px-3 py-1 md:py-1.5 bg-white/10 backdrop-blur-sm text-xs md:text-xs rounded-full border border-white/20 font-extrabold tracking-wider" style={{
-                    color: 'transparent',
-                    backgroundClip: 'text',
-                    WebkitBackgroundClip: 'text',
-                    backgroundImage: 'linear-gradient(to right, #ef4444, #f97316, #dc2626)',
-                    filter: 'drop-shadow(0 0 15px rgba(255, 80, 0, 0.8))'
-                  }}>
+                  <span key={g.id} className="px-4 py-2 bg-gradient-to-r from-red-600 via-orange-600 to-red-600 text-[var(--primary)] text-sm font-bold rounded-full hover:scale-105 transition-all duration-300 cursor-default backdrop-blur-md border-2 border-[var(--primary)]/50">
                     {g.name}
                   </span>
                 ))}
@@ -194,10 +187,10 @@ export default async function MoviePage({ params }: Props) {
               )}
 
               {/* Watch Buttons */}
-              <div className="flex flex-col md:flex-row gap-2 md:gap-3 pt-1 md:pt-2 justify-center md:justify-start">
+              <div className="flex flex-row-reverse gap-2 md:gap-3 pt-1 md:pt-2 pb-4 md:pb-0 w-full justify-center md:justify-end">
                 <ProtectedLink
                   encodedUrl={btoa(`https://tv.tomito.xyz/movie/${id}/watch`)}
-                  className="px-5 md:px-6 py-2 md:py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-lg transition-colors text-center text-sm md:text-base tracking-wider"
+                  className="px-5 md:px-6 py-2 md:py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-lg transition-colors text-center text-sm md:text-base tracking-wider "
                 >
                   مشاهدة الآن
                 </ProtectedLink>
