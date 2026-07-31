@@ -64222,5 +64222,111 @@
     ],
     "timestamp": 1785444842,
     "fixed": true
+  },
+  {
+    "title": "Immortal Combat / Immortal Combat",
+    "title_ar": "Immortal Combat",
+    "title_en": "Immortal Combat",
+    "slug": "1656061-immortal-combat",
+    "folder": "movie",
+    "poster": "/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+    "rating": 4.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1656061,
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "genres": [
+      "حركة",
+      "خيال علمي",
+      "مغامرة"
+    ],
+    "timestamp": 1785461124,
+    "fixed": true
+  },
+  {
+    "title": "Wild Sing / Wild Sing",
+    "title_ar": "Wild Sing",
+    "title_en": "Wild Sing",
+    "slug": "1396749-wild-sing",
+    "folder": "movie",
+    "poster": "/t/p/w500/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1396749,
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "genres": [
+      "كوميديا",
+      "موسيقى"
+    ],
+    "timestamp": 1785461136,
+    "fixed": true
+  },
+  {
+    "title": "Terra Forte / Terra Forte",
+    "title_ar": "Terra Forte",
+    "title_en": "Terra Forte",
+    "slug": "293939-terra-forte",
+    "folder": "tv",
+    "poster": "/t/p/w500/emDXPQIYkRDvqd3EChIYc39kGmc.jpg",
+    "rating": 10.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 293939,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785461148,
+    "fixed": true
+  },
+  {
+    "title": "Celebrity Family Feud / Celebrity Family Feud",
+    "title_ar": "Celebrity Family Feud",
+    "title_en": "Celebrity Family Feud",
+    "slug": "82108-celebrity-family-feud",
+    "folder": "tv",
+    "poster": "/t/p/w500/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg",
+    "rating": 7.6,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 82108,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785461161,
+    "fixed": true
+  },
+  {
+    "title": "Paradise Hotel / Paradise Hotel",
+    "title_ar": "Paradise Hotel",
+    "title_en": "Paradise Hotel",
+    "slug": "36109-paradise-hotel",
+    "folder": "tv",
+    "poster": "/t/p/w500/awiU67ZYSwEOwWnIbjyQ5x9Dmyv.jpg",
+    "rating": 5.2,
+    "year": "2009",
+    "type": "tv",
+    "tmdb_id": 36109,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785461173,
+    "fixed": true
   }
 ]
