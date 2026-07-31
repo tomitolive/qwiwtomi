@@ -1198,6 +1198,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/126824-the-patrick-star-show</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/44zbV1t35gxgcSN7sTlkUY85GC9.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1269-spider-man-and-his-amazing-friends</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/rF5jPrRY8WgLLifVWqzGEI3aWGc.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/198182-throne-of-seal</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/l73nSjpGliYSrg7W7gSg5sxQjQa.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

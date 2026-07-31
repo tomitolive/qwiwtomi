@@ -64470,5 +64470,119 @@
     ],
     "timestamp": 1785493633,
     "fixed": true
+  },
+  {
+    "title": "سنوبي يقدم: لا يوجد مكان مثل المنزل يا سنوبي / Snoopy Presents: Theres No Place Like Home, Snoopy",
+    "title_ar": "سنوبي يقدم: لا يوجد مكان مثل المنزل يا سنوبي",
+    "title_en": "Snoopy Presents: Theres No Place Like Home, Snoopy",
+    "slug": "1698575-snoopy-presents-theres-no-place-like-home-snoopy",
+    "folder": "movie",
+    "poster": "/t/p/w500/v0s5AwqaK7rniVhxYvF5olRh7LD.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1698575,
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "عائلي"
+    ],
+    "timestamp": 1785504319,
+    "fixed": true
+  },
+  {
+    "title": "2 / Gatta Kusthi 2",
+    "title_ar": "2",
+    "title_en": "Gatta Kusthi 2",
+    "slug": "1509599-gatta-kusthi-2",
+    "folder": "movie",
+    "poster": "/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+    "rating": 1.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1509599,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1785504330,
+    "fixed": true
+  },
+  {
+    "title": "The Exiled Heavy Knight Knows How to Game the System / The Exiled Heavy Knight Knows How to Game the System",
+    "title_ar": "The Exiled Heavy Knight Knows How to Game the System",
+    "title_en": "The Exiled Heavy Knight Knows How to Game the System",
+    "slug": "270603-the-exiled-heavy-knight-knows-how-to-game-the-system",
+    "folder": "tv",
+    "poster": "/t/p/w500/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
+    "rating": 8.3,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 270603,
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785504344,
+    "fixed": true
+  },
+  {
+    "title": "The Patrick Star Show / The Patrick Star Show",
+    "title_ar": "The Patrick Star Show",
+    "title_en": "The Patrick Star Show",
+    "slug": "126824-the-patrick-star-show",
+    "folder": "tv",
+    "poster": "/t/p/w500/44zbV1t35gxgcSN7sTlkUY85GC9.jpg",
+    "rating": 6.0,
+    "year": "2021",
+    "type": "tv",
+    "tmdb_id": 126824,
+    "genre_ids": [
+      10751,
+      35,
+      16
+    ],
+    "genres": [
+      "عائلي",
+      "كوميديا",
+      "رسوم متحركة"
+    ],
+    "timestamp": 1785504357,
+    "fixed": true
+  },
+  {
+    "title": "The Bombing of Pan Am 103 / The Bombing of Pan Am 103",
+    "title_ar": "The Bombing of Pan Am 103",
+    "title_en": "The Bombing of Pan Am 103",
+    "slug": "248226-the-bombing-of-pan-am-103",
+    "folder": "tv",
+    "poster": "/t/p/w500/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+    "rating": 7.2,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 248226,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "timestamp": 1785504435,
+    "fixed": true
   }
 ]
