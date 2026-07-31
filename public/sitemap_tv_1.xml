@@ -1135,6 +1135,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/125909-batman-caped-crusader</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/efVXLgqYzEBTGdzlNd3jwbKlllr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/125910-young-royals</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/l73nSjpGliYSrg7W7gSg5sxQjQa.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/19885-sherlock</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/g11y0jZ1ugmlpDdZrw8hOr6NEFo.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

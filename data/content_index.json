@@ -64376,5 +64376,99 @@
     ],
     "timestamp": 1785479791,
     "fixed": true
+  },
+  {
+    "title": "Vanishing Point / Vanishing Point",
+    "title_ar": "Vanishing Point",
+    "title_en": "Vanishing Point",
+    "slug": "1658653-vanishing-point",
+    "folder": "movie",
+    "poster": "/t/p/w500/v1mXfFXyAQRedKHIg1ji9gGKmSt.jpg",
+    "rating": 6.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1658653,
+    "genre_ids": [
+      9648,
+      53,
+      80
+    ],
+    "genres": [
+      "غموض",
+      "إثارة",
+      "جريمة"
+    ],
+    "timestamp": 1785493597,
+    "fixed": true
+  },
+  {
+    "title": "The Demon Hunter / The Demon Hunter",
+    "title_ar": "The Demon Hunter",
+    "title_en": "The Demon Hunter",
+    "slug": "229192-the-demon-hunter",
+    "folder": "tv",
+    "poster": "/t/p/w500/oF48FTeSqd1AIUVsMVXTAGriObV.jpg",
+    "rating": 9.2,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 229192,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785493610,
+    "fixed": true
+  },
+  {
+    "title": "الاعراف / Arafta",
+    "title_ar": "الاعراف",
+    "title_en": "Arafta",
+    "slug": "306118-arafta",
+    "folder": "tv",
+    "poster": "/t/p/w500/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+    "rating": 8.8,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 306118,
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "genres": [
+      "دراما",
+      "عائلي"
+    ],
+    "timestamp": 1785493621,
+    "fixed": true
+  },
+  {
+    "title": "الرجل الوطواط، المحارب ذو الرداء / Batman: Caped Crusader",
+    "title_ar": "الرجل الوطواط، المحارب ذو الرداء",
+    "title_en": "Batman: Caped Crusader",
+    "slug": "125909-batman-caped-crusader",
+    "folder": "tv",
+    "poster": "/t/p/w500/efVXLgqYzEBTGdzlNd3jwbKlllr.jpg",
+    "rating": 7.2,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 125909,
+    "genre_ids": [
+      16,
+      80,
+      10759,
+      9648
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "جريمة",
+      "حركة ومغامرة",
+      "غموض"
+    ],
+    "timestamp": 1785493633,
+    "fixed": true
   }
 ]
