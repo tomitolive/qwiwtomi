@@ -46,6 +46,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/283780-wind-born-warriors</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ybE61R0h8r7lLVppxThPKmOsICO.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/284581-the-insipid-princes-furtive-grab-for-the-throne</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/45016-the-bridge</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/ieZK3u4tumJB7KJsWN0nzdofvn8.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -64674,5 +64674,73 @@
     ],
     "timestamp": 1785518249,
     "fixed": true
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea / That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+    "title_ar": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+    "title_en": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+    "slug": "1363974-that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea",
+    "folder": "movie",
+    "poster": "/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1363974,
+    "genre_ids": [
+      16,
+      14,
+      12,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "فانتازيا",
+      "مغامرة",
+      "كوميديا"
+    ],
+    "timestamp": 1785531084,
+    "fixed": true
+  },
+  {
+    "title": "Fightland / Fightland",
+    "title_ar": "Fightland",
+    "title_en": "Fightland",
+    "slug": "8840-fightland",
+    "folder": "tv",
+    "poster": "/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
+    "rating": 3.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 8840,
+    "genre_ids": [
+      80,
+      18
+    ],
+    "genres": [
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1785531142,
+    "fixed": true
+  },
+  {
+    "title": "Wind-Born Warriors / Wind-Born Warriors",
+    "title_ar": "Wind-Born Warriors",
+    "title_en": "Wind-Born Warriors",
+    "slug": "283780-wind-born-warriors",
+    "folder": "tv",
+    "poster": "/t/p/w500/ybE61R0h8r7lLVppxThPKmOsICO.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 283780,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785531159,
+    "fixed": true
   }
 ]
