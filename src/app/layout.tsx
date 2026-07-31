@@ -61,6 +61,7 @@ export default async function RootLayout({
         <link rel="preconnect" href="https://pl30597637.effectivecpmnetwork.com" />
         <link rel="preconnect" href="https://pl30598106.effectivecpmnetwork.com" />
         <link rel="preconnect" href="https://pl30598123.effectivecpmnetwork.com" />
+        <link rel="preconnect" href="https://pl30597533.effectivecpmnetwork.com" />
         
         {/* Google Analytics */}
         <Script 
@@ -89,6 +90,11 @@ export default async function RootLayout({
         />
         <Script 
           src="https://pl30598123.effectivecpmnetwork.com/74473a481e12f32fea68225a3cc97eed/invoke.js"
+          strategy="afterInteractive"
+          data-cfasync="false"
+        />
+        <Script 
+          src="https://pl30597533.effectivecpmnetwork.com/b6/9d/a7/b69da7c3ee677ac42178f0d30e42047b.js"
           strategy="afterInteractive"
           data-cfasync="false"
         />
