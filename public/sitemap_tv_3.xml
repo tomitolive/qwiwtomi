@@ -1450,6 +1450,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/328735-the-idaho-murders-college-nightmare</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/zdZ9Hx7Fra5mIxJzYSzqyhlHmbL.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/32895-rizzoli-isles</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/voLbSUAVu1RfZWx0qeTFqVAixIO.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/45782-sword-art-online</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

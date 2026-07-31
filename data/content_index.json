@@ -64328,5 +64328,53 @@
     ],
     "timestamp": 1785461173,
     "fixed": true
+  },
+  {
+    "title": "PAW Patrol: The Dino Movie / PAW Patrol: The Dino Movie",
+    "title_ar": "PAW Patrol: The Dino Movie",
+    "title_en": "PAW Patrol: The Dino Movie",
+    "slug": "1185806-paw-patrol-the-dino-movie",
+    "folder": "movie",
+    "poster": "/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "rating": 3.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1185806,
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751
+    ],
+    "genres": [
+      "مغامرة",
+      "رسوم متحركة",
+      "كوميديا",
+      "عائلي"
+    ],
+    "timestamp": 1785479773,
+    "fixed": true
+  },
+  {
+    "title": "The Idaho Murders: College Nightmare / The Idaho Murders: College Nightmare",
+    "title_ar": "The Idaho Murders: College Nightmare",
+    "title_en": "The Idaho Murders: College Nightmare",
+    "slug": "328735-the-idaho-murders-college-nightmare",
+    "folder": "tv",
+    "poster": "/t/p/w500/zdZ9Hx7Fra5mIxJzYSzqyhlHmbL.jpg",
+    "rating": 5.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 328735,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1785479791,
+    "fixed": true
   }
 ]
