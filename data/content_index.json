@@ -64878,5 +64878,99 @@
     ],
     "timestamp": 1785565257,
     "fixed": true
+  },
+  {
+    "title": "Soulm8te / Soulm8te",
+    "title_ar": "Soulm8te",
+    "title_en": "Soulm8te",
+    "slug": "1307118-soulm8te",
+    "folder": "movie",
+    "poster": "/t/p/w500/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1307118,
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1785577690,
+    "fixed": true
+  },
+  {
+    "title": "TMZ / TMZ",
+    "title_ar": "TMZ",
+    "title_en": "TMZ",
+    "slug": "13008-tmz",
+    "folder": "tv",
+    "poster": "/t/p/w500/qotUEfomNK4r1ZVPVNAbXHon8Oh.jpg",
+    "rating": 4.9,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 13008,
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "genres": [
+      "أخبار",
+      "كوميديا"
+    ],
+    "timestamp": 1785577716,
+    "fixed": true
+  },
+  {
+    "title": "قاتلة بحسن نية / A Bona Fide Killer",
+    "title_ar": "قاتلة بحسن نية",
+    "title_en": "A Bona Fide Killer",
+    "slug": "294095-a-bona-fide-killer",
+    "folder": "tv",
+    "poster": "/t/p/w500/eG7xO1Ac7k7sTxRcS34XScWUyui.jpg",
+    "rating": 10.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 294095,
+    "genre_ids": [
+      18,
+      10759,
+      9648,
+      80
+    ],
+    "genres": [
+      "دراما",
+      "حركة ومغامرة",
+      "غموض",
+      "جريمة"
+    ],
+    "timestamp": 1785577739,
+    "fixed": true
+  },
+  {
+    "title": "The Affair Was Just The Beginning / The Affair Was Just The Beginning",
+    "title_ar": "The Affair Was Just The Beginning",
+    "title_en": "The Affair Was Just The Beginning",
+    "slug": "301418-the-affair-was-just-the-beginning",
+    "folder": "tv",
+    "poster": "/t/p/w500/8tA7kjsuQaKFsrRuxjkEn5F9LII.jpg",
+    "rating": 6.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 301418,
+    "genre_ids": [
+      80,
+      35
+    ],
+    "genres": [
+      "جريمة",
+      "كوميديا"
+    ],
+    "timestamp": 1785577761,
+    "fixed": true
   }
 ]

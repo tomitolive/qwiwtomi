@@ -1333,6 +1333,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/13008-tmz</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qotUEfomNK4r1ZVPVNAbXHon8Oh.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/130990-chiisana-tabi</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/1973-24</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
