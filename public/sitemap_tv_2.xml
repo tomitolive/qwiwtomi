@@ -2683,21 +2683,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/281233-beyond-times-gaze</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ap2kHJAwQWpGC6g9W53O4ipoFq4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/281281-elite-force</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/uQaXsUheuuV0pnHoCuNk9hyrwKF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2813-mannix</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/8Nh2D2dHKJnUbRHqLS5QsKWJuPb.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

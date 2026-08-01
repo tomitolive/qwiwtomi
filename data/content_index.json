@@ -64808,5 +64808,75 @@
     ],
     "timestamp": 1785547692,
     "fixed": true
+  },
+  {
+    "title": "Rose of Nevada / Rose of Nevada",
+    "title_ar": "Rose of Nevada",
+    "title_en": "Rose of Nevada",
+    "slug": "1399525-rose-of-nevada",
+    "folder": "movie",
+    "poster": "/t/p/w500/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
+    "rating": 6.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1399525,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "timestamp": 1785565207,
+    "fixed": true
+  },
+  {
+    "title": "Beyond Times Gaze / Beyond Times Gaze",
+    "title_ar": "Beyond Times Gaze",
+    "title_en": "Beyond Times Gaze",
+    "slug": "281233-beyond-times-gaze",
+    "folder": "tv",
+    "poster": "/t/p/w500/ap2kHJAwQWpGC6g9W53O4ipoFq4.jpg",
+    "rating": 9.4,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 281233,
+    "genre_ids": [
+      16,
+      10759,
+      18
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة",
+      "دراما"
+    ],
+    "timestamp": 1785565237,
+    "fixed": true
+  },
+  {
+    "title": "Payback / Payback",
+    "title_ar": "Payback",
+    "title_en": "Payback",
+    "slug": "316294-payback",
+    "folder": "tv",
+    "poster": "/t/p/w500/jqPLOdL2BmCIM1BSkEF9ezdbMJp.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 316294,
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785565257,
+    "fixed": true
   }
 ]
