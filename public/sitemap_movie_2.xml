@@ -955,6 +955,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1479832-dc</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1480382-the-voice-of-hind-rajab</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/A44uICYhIVkxzILXvC0jeDCWu42.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/259693-the-conjuring-2</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/47o4yaaBGS8RhygbBZNnqYD0e1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

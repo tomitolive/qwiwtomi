@@ -65032,5 +65032,73 @@
     ],
     "timestamp": 1785588570,
     "fixed": true
+  },
+  {
+    "title": "DC / DC",
+    "title_ar": "DC",
+    "title_en": "DC",
+    "slug": "1479832-dc",
+    "folder": "movie",
+    "poster": "/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1479832,
+    "genre_ids": [
+      10749,
+      28,
+      18
+    ],
+    "genres": [
+      "رومنسية",
+      "حركة",
+      "دراما"
+    ],
+    "timestamp": 1785602697,
+    "fixed": true
+  },
+  {
+    "title": "Fantstico / Fantstico",
+    "title_ar": "Fantstico",
+    "title_en": "Fantstico",
+    "slug": "19538-fantstico",
+    "folder": "tv",
+    "poster": "/t/p/w500/rlPtvFRsxwcJEwLdd0e8jdruhkj.jpg",
+    "rating": 8.0,
+    "year": "1973",
+    "type": "tv",
+    "tmdb_id": 19538,
+    "genre_ids": [
+      99,
+      10763
+    ],
+    "genres": [
+      "وثائقي",
+      "أخبار"
+    ],
+    "timestamp": 1785602716,
+    "fixed": true
+  },
+  {
+    "title": "Dark Matter / Dark Matter",
+    "title_ar": "Dark Matter",
+    "title_en": "Dark Matter",
+    "slug": "196322-dark-matter",
+    "folder": "tv",
+    "poster": "/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+    "rating": 7.8,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 196322,
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "timestamp": 1785602730,
+    "fixed": true
   }
 ]
