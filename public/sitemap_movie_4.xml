@@ -2539,6 +2539,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/964849-nightborn</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/964980-air</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/979-irreversible</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/AdrItykbv1evqcbIPrItVWnkaKj.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

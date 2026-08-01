@@ -64972,5 +64972,65 @@
     ],
     "timestamp": 1785577761,
     "fixed": true
+  },
+  {
+    "title": "Yn lapsi / Nightborn",
+    "title_ar": "Yn lapsi",
+    "title_en": "Nightborn",
+    "slug": "964849-nightborn",
+    "folder": "movie",
+    "poster": "/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 964849,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1785588541,
+    "fixed": true
+  },
+  {
+    "title": "Proud / Proud",
+    "title_ar": "Proud",
+    "title_en": "Proud",
+    "slug": "315610-proud",
+    "folder": "tv",
+    "poster": "/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 315610,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785588553,
+    "fixed": true
+  },
+  {
+    "title": "Majhi Manasa / Majhi Manasa",
+    "title_ar": "Majhi Manasa",
+    "title_en": "Majhi Manasa",
+    "slug": "324186-majhi-manasa",
+    "folder": "tv",
+    "poster": "/t/p/w500/6bk8ShS9yZnO7do6uy0Lfej7KUY.jpg",
+    "rating": 7.0,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 324186,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785588570,
+    "fixed": true
   }
 ]
