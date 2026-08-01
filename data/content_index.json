@@ -65100,5 +65100,51 @@
     ],
     "timestamp": 1785602730,
     "fixed": true
+  },
+  {
+    "title": "Wings of Dread / Wings of Dread",
+    "title_ar": "Wings of Dread",
+    "title_en": "Wings of Dread",
+    "slug": "1424435-wings-of-dread",
+    "folder": "movie",
+    "poster": "/t/p/w500/dB8adJetrhgmzA1gQXCUXSuM5li.jpg",
+    "rating": 6.4,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1424435,
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "جريمة",
+      "إثارة"
+    ],
+    "timestamp": 1785616789,
+    "fixed": true
+  },
+  {
+    "title": "Bartok kzt / Among Friends",
+    "title_ar": "Bartok kzt",
+    "title_en": "Among Friends",
+    "slug": "50821-among-friends",
+    "folder": "tv",
+    "poster": "/t/p/w500/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "rating": 3.8,
+    "year": "1998",
+    "type": "tv",
+    "tmdb_id": 50821,
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "genres": [
+      "دراما",
+      "عائلي"
+    ],
+    "timestamp": 1785616803,
+    "fixed": true
   }
 ]

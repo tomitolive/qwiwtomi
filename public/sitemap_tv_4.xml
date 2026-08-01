@@ -676,6 +676,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/50821-among-friends</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/51025-paradise-hotel</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/n03r99xHPAd47LaTTsGQnKovJNW.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/75450-titans</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/oUSnGxC06ptTw9YQfTnEFNxFEWI.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
