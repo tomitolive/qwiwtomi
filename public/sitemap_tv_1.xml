@@ -1936,6 +1936,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/14686-alles-was-zhlt</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2qup6w78HhDiSii7v8vYgfEsz6E.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/14733-rich-man-poor-man</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2NiNDgVQHvw9qzGWtZwxRKy1FsO.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/19614-it</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
