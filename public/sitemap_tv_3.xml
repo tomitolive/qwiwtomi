@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomito.xyz/tv/280735-the-forbidden-land</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rFJ7COrfj6P7ryrOzmC0Lt9VZDy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/280945-bon-apptit-your-majesty</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -547,6 +556,15 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomito.xyz/tv/295434-kamen-rider-zeztz</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/rg18G28Et6hAIO7usVD8mHrq5sr.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/2pHBPVGn2DpYEAHBdT62nc0untt.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/43982-line-of-duty</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/44006-chicago-fire</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

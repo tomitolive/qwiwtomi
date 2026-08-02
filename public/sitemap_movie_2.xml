@@ -1990,6 +1990,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1741109-wwe-summerslam-2026-saturday</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wy3w5vAs00Id06Sm9a8TOvIA4bX.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/17581-naruto-shippuden-the-movie-bonds</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/jYnLA3fA05OZ6YVepV8qjnfu484.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/256591-focus</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

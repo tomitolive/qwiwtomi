@@ -1450,6 +1450,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/236534-tales-of-herding-gods</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/237020-lecture-room</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/280735-the-forbidden-land</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rFJ7COrfj6P7ryrOzmC0Lt9VZDy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
