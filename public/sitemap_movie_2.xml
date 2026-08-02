@@ -2107,6 +2107,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/18491-neon-genesis-evangelion-the-end-of-evangelion</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/185-a-clockwork-orange</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/oFBQUufCV4c8WZoNhtGM17p884H.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/256040-bhubali-the-beginning</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/jYnLA3fA05OZ6YVepV8qjnfu484.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -65278,5 +65278,53 @@
     ],
     "timestamp": 1785651980,
     "fixed": true
+  },
+  {
+    "title": "Air / Neon Genesis Evangelion: The End of Evangelion",
+    "title_ar": "Air",
+    "title_en": "Neon Genesis Evangelion: The End of Evangelion",
+    "slug": "18491-neon-genesis-evangelion-the-end-of-evangelion",
+    "folder": "movie",
+    "poster": "/t/p/w500/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
+    "rating": 8.3,
+    "year": "1997",
+    "type": "movie",
+    "tmdb_id": 18491,
+    "genre_ids": [
+      16,
+      878,
+      18,
+      14,
+      28
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي",
+      "دراما",
+      "فانتازيا",
+      "حركة"
+    ],
+    "timestamp": 1785664065,
+    "fixed": true
+  },
+  {
+    "title": "Genius Girlfriend / Genius Girlfriend",
+    "title_ar": "Genius Girlfriend",
+    "title_en": "Genius Girlfriend",
+    "slug": "289116-genius-girlfriend",
+    "folder": "tv",
+    "poster": "/t/p/w500/IJwcAExX0T8rmcLFng4G5xmwhA.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 289116,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785664081,
+    "fixed": true
   }
 ]
