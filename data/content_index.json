@@ -65418,5 +65418,69 @@
     ],
     "timestamp": 1785689041,
     "fixed": true
+  },
+  {
+    "title": "The Dreamers / The Dreamers",
+    "title_ar": "The Dreamers",
+    "title_en": "The Dreamers",
+    "slug": "1278-the-dreamers",
+    "folder": "movie",
+    "poster": "/t/p/w500/gBb7GGaFYPu7nEUYvC8G4LaJJN1.jpg",
+    "rating": 7.2,
+    "year": "2003",
+    "type": "movie",
+    "tmdb_id": 1278,
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "genres": [
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1785703383,
+    "fixed": true
+  },
+  {
+    "title": "Barbara Karlich Talk um 4 / Barbara Karlich Talk um 4",
+    "title_ar": "Barbara Karlich Talk um 4",
+    "title_en": "Barbara Karlich Talk um 4",
+    "slug": "108188-barbara-karlich-talk-um-4",
+    "folder": "tv",
+    "poster": "/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+    "rating": 4.5,
+    "year": "1999",
+    "type": "tv",
+    "tmdb_id": 108188,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1785703445,
+    "fixed": true
+  },
+  {
+    "title": "Adorable Mnica / Adorable Mnica",
+    "title_ar": "Adorable Mnica",
+    "title_en": "Adorable Mnica",
+    "slug": "217663-adorable-mnica",
+    "folder": "tv",
+    "poster": "/t/p/w500/vfKHSDMweuK6iRuKZ72P5nTKbYF.jpg",
+    "rating": 9.0,
+    "year": "1990",
+    "type": "tv",
+    "tmdb_id": 217663,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "genres": [
+      "أوبرا صابونية",
+      "دراما"
+    ],
+    "timestamp": 1785703460,
+    "fixed": true
   }
 ]

@@ -352,6 +352,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/108188-barbara-karlich-talk-um-4</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/108545-3-body-problem</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/rlPtvFRsxwcJEwLdd0e8jdruhkj.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/195670-xo-kitty</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/2NiNDgVQHvw9qzGWtZwxRKy1FsO.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
