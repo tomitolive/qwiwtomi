@@ -65146,5 +65146,65 @@
     ],
     "timestamp": 1785616803,
     "fixed": true
+  },
+  {
+    "title": "Maddies Secret / Maddies Secret",
+    "title_ar": "Maddies Secret",
+    "title_en": "Maddies Secret",
+    "slug": "1517868-maddies-secret",
+    "folder": "movie",
+    "poster": "/t/p/w500/gtssK2SacGjpj2psN0Ee2TcTgso.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1517868,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1785633865,
+    "fixed": true
+  },
+  {
+    "title": "Svengoolie / Svengoolie",
+    "title_ar": "Svengoolie",
+    "title_en": "Svengoolie",
+    "slug": "124146-svengoolie",
+    "folder": "tv",
+    "poster": "/t/p/w500/rAlUtmmXLyBTSuVewY0M7OxBbCg.jpg",
+    "rating": 8.4,
+    "year": "1995",
+    "type": "tv",
+    "tmdb_id": 124146,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1785633888,
+    "fixed": true
+  },
+  {
+    "title": "Jornal Hoje / Jornal Hoje",
+    "title_ar": "Jornal Hoje",
+    "title_en": "Jornal Hoje",
+    "slug": "17737-jornal-hoje",
+    "folder": "tv",
+    "poster": "/t/p/w500/y9w72Qqi1PAokF0TObD04ediuPw.jpg",
+    "rating": 7.0,
+    "year": "1971",
+    "type": "tv",
+    "tmdb_id": 17737,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1785633902,
+    "fixed": true
   }
 ]
