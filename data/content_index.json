@@ -65374,5 +65374,49 @@
     ],
     "timestamp": 1785675104,
     "fixed": true
+  },
+  {
+    "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation / Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+    "title_ar": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+    "title_en": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+    "slug": "1598766-crayon-shin-chan-the-movie-very-bizarre-my-yokai-vacation",
+    "folder": "movie",
+    "poster": "/t/p/w500/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1598766,
+    "genre_ids": [
+      12,
+      16,
+      35
+    ],
+    "genres": [
+      "مغامرة",
+      "رسوم متحركة",
+      "كوميديا"
+    ],
+    "timestamp": 1785689027,
+    "fixed": true
+  },
+  {
+    "title": "Mein Lokal, Dein Lokal / Mein Lokal, Dein Lokal",
+    "title_ar": "Mein Lokal, Dein Lokal",
+    "title_en": "Mein Lokal, Dein Lokal",
+    "slug": "78303-mein-lokal-dein-lokal",
+    "folder": "tv",
+    "poster": "/t/p/w500/lnzrDMAIMkdvtXOd4qutYw2m8uH.jpg",
+    "rating": 7.0,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 78303,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785689041,
+    "fixed": true
   }
 ]
