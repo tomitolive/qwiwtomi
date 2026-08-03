@@ -2233,6 +2233,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/156240-the-chelsea-detective</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/5wkzja9xjIPMc46cAGuei172lnu.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1568-til-death</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/19530-pili</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

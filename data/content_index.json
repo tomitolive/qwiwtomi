@@ -65612,5 +65612,97 @@
     ],
     "timestamp": 1785740341,
     "fixed": true
+  },
+  {
+    "title": "المريخي / The Martian",
+    "title_ar": "المريخي",
+    "title_en": "The Martian",
+    "slug": "286217-the-martian",
+    "folder": "movie",
+    "poster": "/t/p/w500/q4wc9Y6HRzdUkXITn60AliXNBZ0.jpg",
+    "rating": 7.7,
+    "year": "2015",
+    "type": "movie",
+    "tmdb_id": 286217,
+    "genre_ids": [
+      878,
+      18,
+      12
+    ],
+    "genres": [
+      "خيال علمي",
+      "دراما",
+      "مغامرة"
+    ],
+    "timestamp": 1785755454,
+    "fixed": true
+  },
+  {
+    "title": "Les Novices / The Novices",
+    "title_ar": "Les Novices",
+    "title_en": "The Novices",
+    "slug": "82976-the-novices",
+    "folder": "movie",
+    "poster": "/t/p/w500/4Ppq2oJPnEqSeyliPG9QbCHUL0q.jpg",
+    "rating": 4.8,
+    "year": "1970",
+    "type": "movie",
+    "tmdb_id": 82976,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "timestamp": 1785755465,
+    "fixed": true
+  },
+  {
+    "title": "10 / I Became a Legend After My 10 Year-Long Last Stand",
+    "title_ar": "10",
+    "title_en": "I Became a Legend After My 10 Year-Long Last Stand",
+    "slug": "302051-i-became-a-legend-after-my-10-year-long-last-stand",
+    "folder": "tv",
+    "poster": "/t/p/w500/svcJyWDhj1STkOTSfxgd2hOvZ0z.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 302051,
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785755481,
+    "fixed": true
+  },
+  {
+    "title": "The Chelsea Detective / The Chelsea Detective",
+    "title_ar": "The Chelsea Detective",
+    "title_en": "The Chelsea Detective",
+    "slug": "156240-the-chelsea-detective",
+    "folder": "tv",
+    "poster": "/t/p/w500/5wkzja9xjIPMc46cAGuei172lnu.jpg",
+    "rating": 6.3,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 156240,
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "genres": [
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1785755496,
+    "fixed": true
   }
 ]

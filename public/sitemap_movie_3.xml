@@ -406,6 +406,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/286217-the-martian</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/q4wc9Y6HRzdUkXITn60AliXNBZ0.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/290250-the-nice-guys</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/ffGpsolcNX9oJZvJinQwFhePtAD.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/56292-mission-impossible-ghost-protocol</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/bi61KYRPq3uOjcicWBB1xIU9q0x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
