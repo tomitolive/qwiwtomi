@@ -65482,5 +65482,91 @@
     ],
     "timestamp": 1785703460,
     "fixed": true
+  },
+  {
+    "title": "The Priest: Thanksgiving Massacre / The Priest: Thanksgiving Massacre",
+    "title_ar": "The Priest: Thanksgiving Massacre",
+    "title_en": "The Priest: Thanksgiving Massacre",
+    "slug": "1569947-the-priest-thanksgiving-massacre",
+    "folder": "movie",
+    "poster": "/t/p/w500/AiRySv62247N91mfCCAryACGNuv.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1569947,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1785720294,
+    "fixed": true
+  },
+  {
+    "title": "بليد رانر / Blade Runner",
+    "title_ar": "بليد رانر",
+    "title_en": "Blade Runner",
+    "slug": "78-blade-runner",
+    "folder": "movie",
+    "poster": "/t/p/w500/br1qQTecBWGZHajVU7BFNEYeH9Z.jpg",
+    "rating": 7.9,
+    "year": "1982",
+    "type": "movie",
+    "tmdb_id": 78,
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "genres": [
+      "خيال علمي",
+      "دراما",
+      "إثارة"
+    ],
+    "timestamp": 1785720308,
+    "fixed": true
+  },
+  {
+    "title": "My Little Old Boy / My Little Old Boy",
+    "title_ar": "My Little Old Boy",
+    "title_en": "My Little Old Boy",
+    "slug": "72896-my-little-old-boy",
+    "folder": "tv",
+    "poster": "/t/p/w500/eFxC1aItvr2xGfG2Z7lXQt6CfnB.jpg",
+    "rating": 7.0,
+    "year": "2016",
+    "type": "tv",
+    "tmdb_id": 72896,
+    "genre_ids": [
+      10764,
+      10767
+    ],
+    "genres": [
+      "واقع",
+      "حوار"
+    ],
+    "timestamp": 1785720321,
+    "fixed": true
+  },
+  {
+    "title": "M jak mio / L for Love",
+    "title_ar": "M jak mio",
+    "title_en": "L for Love",
+    "slug": "14447-l-for-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/8agoxhXGlv6ICYa733bDrfKnJ3.jpg",
+    "rating": 4.0,
+    "year": "2000",
+    "type": "tv",
+    "tmdb_id": 14447,
+    "genre_ids": [
+      10766
+    ],
+    "genres": [
+      "أوبرا صابونية"
+    ],
+    "timestamp": 1785720336,
+    "fixed": true
   }
 ]
