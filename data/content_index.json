@@ -65704,5 +65704,93 @@
     ],
     "timestamp": 1785755496,
     "fixed": true
+  },
+  {
+    "title": "WWE SummerSlam 2026: Sunday / WWE SummerSlam 2026: Sunday",
+    "title_ar": "WWE SummerSlam 2026: Sunday",
+    "title_en": "WWE SummerSlam 2026: Sunday",
+    "slug": "1741545-wwe-summerslam-2026-sunday",
+    "folder": "movie",
+    "poster": "/t/p/w500/rHd7I4XGQZG4xnhYmrQLPEy6SEO.jpg",
+    "rating": 8.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1741545,
+    "genre_ids": [
+      28,
+      18,
+      35
+    ],
+    "genres": [
+      "حركة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1785766248,
+    "fixed": true
+  },
+  {
+    "title": "Only Connect / Only Connect",
+    "title_ar": "Only Connect",
+    "title_en": "Only Connect",
+    "slug": "8425-only-connect",
+    "folder": "tv",
+    "poster": "/t/p/w500/mCS6E8Ca5RYthdYpz1j72Tr5AKD.jpg",
+    "rating": 6.4,
+    "year": "2008",
+    "type": "tv",
+    "tmdb_id": 8425,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785766262,
+    "fixed": true
+  },
+  {
+    "title": "PBS News Hour / PBS News Hour",
+    "title_ar": "PBS News Hour",
+    "title_en": "PBS News Hour",
+    "slug": "1655-pbs-news-hour",
+    "folder": "tv",
+    "poster": "/t/p/w500/1IOCTC4SQk8N4cBwzjq9Zve8b9E.jpg",
+    "rating": 5.7,
+    "year": "1975",
+    "type": "tv",
+    "tmdb_id": 1655,
+    "genre_ids": [
+      10763
+    ],
+    "genres": [
+      "أخبار"
+    ],
+    "timestamp": 1785766313,
+    "fixed": true
+  },
+  {
+    "title": "Gravitation / Gravitation",
+    "title_ar": "Gravitation",
+    "title_en": "Gravitation",
+    "slug": "30979-gravitation",
+    "folder": "tv",
+    "poster": "/t/p/w500/pSX3VpIt5lQJvxh1uHuSMJUwPgO.jpg",
+    "rating": 6.5,
+    "year": "2000",
+    "type": "tv",
+    "tmdb_id": 30979,
+    "genre_ids": [
+      16,
+      18,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "دراما",
+      "كوميديا"
+    ],
+    "timestamp": 1785766397,
+    "fixed": true
   }
 ]
