@@ -901,6 +901,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/5455-saber-y-ganar</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/32Xh0zXL8Z7TYuVNG2MOEHcqMlh.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/54650-power</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qQZvkevnkCWlfOg7fn6rHcqu5yC.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/74277-document-72-hours</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/nVGFaga1eALOjX11vgwZs4FvMEa.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

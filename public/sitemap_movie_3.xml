@@ -2269,6 +2269,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/50620-the-twilight-saga-breaking-dawn-part-2</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/z1M8f4Quj6QQahsGMVqqkYGLV2o.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/507086-jurassic-world-dominion</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/bi61KYRPq3uOjcicWBB1xIU9q0x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/564-the-mummy</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tRZITXSgsdU8oVEpFxYo5CPFa9X.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

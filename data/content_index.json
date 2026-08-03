@@ -65568,5 +65568,49 @@
     ],
     "timestamp": 1785720336,
     "fixed": true
+  },
+  {
+    "title": "ملحمة الشفق: بزوغ الفجر ج2 / The Twilight Saga: Breaking Dawn - Part 2",
+    "title_ar": "ملحمة الشفق: بزوغ الفجر ج2",
+    "title_en": "The Twilight Saga: Breaking Dawn - Part 2",
+    "slug": "50620-the-twilight-saga-breaking-dawn-part-2",
+    "folder": "movie",
+    "poster": "/t/p/w500/z1M8f4Quj6QQahsGMVqqkYGLV2o.jpg",
+    "rating": 6.5,
+    "year": "2012",
+    "type": "movie",
+    "tmdb_id": 50620,
+    "genre_ids": [
+      14,
+      18,
+      10749
+    ],
+    "genres": [
+      "فانتازيا",
+      "دراما",
+      "رومنسية"
+    ],
+    "timestamp": 1785740248,
+    "fixed": true
+  },
+  {
+    "title": "Saber y Ganar / Saber y Ganar",
+    "title_ar": "Saber y Ganar",
+    "title_en": "Saber y Ganar",
+    "slug": "5455-saber-y-ganar",
+    "folder": "tv",
+    "poster": "/t/p/w500/32Xh0zXL8Z7TYuVNG2MOEHcqMlh.jpg",
+    "rating": 10.0,
+    "year": "1997",
+    "type": "tv",
+    "tmdb_id": 5455,
+    "genre_ids": [
+      10751
+    ],
+    "genres": [
+      "عائلي"
+    ],
+    "timestamp": 1785740341,
+    "fixed": true
   }
 ]
