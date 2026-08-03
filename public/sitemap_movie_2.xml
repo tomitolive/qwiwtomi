@@ -514,6 +514,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1408208-exit-8</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/2ZwPyghJrSKYzIZzHtpf9UsJh1x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/140825-the-deadly-trap</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/aWfat7MCiDTeQ35BVofIklBzSkO.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/24858-eternity-and-a-day</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/6GaWxbYvgbNi8ymXdJktIVBqNrD.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

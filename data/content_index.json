@@ -65854,5 +65854,29 @@
     ],
     "timestamp": 1785779320,
     "fixed": true
+  },
+  {
+    "title": "مخرج 8 / Exit 8",
+    "title_ar": "مخرج 8",
+    "title_en": "Exit 8",
+    "slug": "1408208-exit-8",
+    "folder": "movie",
+    "poster": "/t/p/w500/2ZwPyghJrSKYzIZzHtpf9UsJh1x.jpg",
+    "rating": 7.0,
+    "year": "2025",
+    "type": "movie",
+    "tmdb_id": 1408208,
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "genres": [
+      "رعب",
+      "غموض",
+      "إثارة"
+    ],
+    "timestamp": 1785790521,
+    "fixed": true
   }
 ]
