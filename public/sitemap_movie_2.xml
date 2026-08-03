@@ -2026,6 +2026,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1740877-storm-on-sesame-street</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1741109-wwe-summerslam-2026-saturday</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/6GaWxbYvgbNi8ymXdJktIVBqNrD.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/2501-the-bourne-identity</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/9dw031qqvJVkT3ix8KUZViEvvhz.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
