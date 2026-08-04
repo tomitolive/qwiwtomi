@@ -66138,5 +66138,25 @@
     ],
     "timestamp": 1785839170,
     "fixed": true
+  },
+  {
+    "title": "Coutures / Couture",
+    "title_ar": "Coutures",
+    "title_en": "Couture",
+    "slug": "1390382-couture",
+    "folder": "movie",
+    "poster": "/t/p/w500/zN2hnZzj3DjJH2CzB76kDo1zYFu.jpg",
+    "rating": 6.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1390382,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785850326,
+    "fixed": true
   }
 ]

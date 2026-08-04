@@ -370,6 +370,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1390382-couture</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/zN2hnZzj3DjJH2CzB76kDo1zYFu.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1396749-wild-sing</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/rVJCp4VVfg7SAXZ7WZPBEfWwhrQ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/24428-the-avengers</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/goQMyAlsmxBpPnMKIcm361Thju6.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
