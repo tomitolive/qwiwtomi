@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { getDetails } from "@/lib/tmdb";
 import { getLocalContent, getLocalSimilar } from "@/lib/content";
+import { getContentByType } from "@/lib/content";
 import { buildTvMetadata, formatBilingualTitle } from "@/lib/seo";
 import { notFound } from "next/navigation";
 import Script from "next/script";
@@ -10,6 +11,7 @@ import Navbar from "@/components/Navbar";
 import NewAd from "@/components/NewAd";
 import EpisodeRatingHeatmap from "./EpisodeRatingHeatmap";
 import ShortLink from "@/components/ShortLink";
+import RandomMixCarouselClient from "@/components/RandomMixCarouselClient";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -75,6 +77,17 @@ export default async function TVPage({ params }: Props) {
 
   // Local similar TV shows from our own database
   const localSimilar = getLocalSimilar(id!, genreIds, "tv", 40);
+
+  // Random mix: 5 movies + 5 tv for the mix carousel
+  const allMovies = getContentByType('movie');
+  const allTv = getContentByType('tv').filter(t => String(t.tmdb_id) !== id);
+  const shuffle = <T,>(arr: T[]) => {
+    const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a;
+  };
+  const mixItems = [
+    ...shuffle(allMovies).slice(0, 5),
+    ...shuffle(allTv).slice(0, 5),
+  ];
 
   const titleAr =
     local?.title_ar ||
@@ -558,6 +571,9 @@ export default async function TVPage({ params }: Props) {
             </div>
           </div>
         )}
+
+        {/* Random Mix Carousel */}
+        <RandomMixCarouselClient items={mixItems} />
 
         {/* Ad 3 - بعد المسلسلات المقترحة */}
         <NewAd ad="ad3" />

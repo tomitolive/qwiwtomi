@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { getDetails } from "@/lib/tmdb";
 import { getLocalContent, getLocalSimilar, ContentGenre, ContentFaqItem } from "@/lib/content";
+import { getContentByType } from "@/lib/content";
 import { buildMovieMetadata, formatBilingualTitle } from "@/lib/seo";
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -10,6 +11,7 @@ import Navbar from "@/components/Navbar";
 import NewAd from "@/components/NewAd";
 import ShareButton from "@/components/ShareButton";
 import ShortLink from "@/components/ShortLink";
+import RandomMixCarouselClient from "@/components/RandomMixCarouselClient";
 
 interface TMDBVideo {
   id: string;
@@ -84,6 +86,17 @@ export default async function MoviePage({ params }: Props) {
 
   // Local similar movies from our own database (no TMDB external calls)
   const localSimilar = getLocalSimilar(id!, genreIds, "movie", 40);
+
+  // Random mix: 5 movies + 5 tv for the mix carousel
+  const allMovies = getContentByType('movie').filter(m => String(m.tmdb_id) !== id);
+  const allTv = getContentByType('tv');
+  const shuffle = <T,>(arr: T[]) => {
+    const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a;
+  };
+  const mixItems = [
+    ...shuffle(allMovies).slice(0, 5),
+    ...shuffle(allTv).slice(0, 5),
+  ];
 
   const titleAr =
     local?.title_ar ||
@@ -540,6 +553,9 @@ export default async function MoviePage({ params }: Props) {
             </div>
           </div>
         )}
+
+        {/* Random Mix Carousel */}
+        <RandomMixCarouselClient items={mixItems} />
 
         {/* Ad 3 - بعد الأفلام المقترحة */}
         <NewAd ad="ad3" />

@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import AdblockDetector from "@/components/AdblockDetector";
+import SocialBar from "@/components/SocialBar";
 
 import { cookies } from "next/headers";
 import { headers } from "next/headers";
@@ -104,6 +105,9 @@ export default async function RootLayout({
 
           {/* ───── ADBLOCK DETECTOR ───── */}
           <AdblockDetector />
+
+          {/* ───── SOCIAL BAR ───── */}
+          <SocialBar />
 
           {/* ───── NAVBAR ───── */}
           {!isDetailPage && <Navbar />}
