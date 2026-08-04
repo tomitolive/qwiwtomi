@@ -721,6 +721,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1078446-violent-night-2</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1078605-weapons</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/fLFXaQzRYbgTZQ17FBVZvxBbWgY.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1327819-hoppers</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/aUhnoIdBZYETNvsR4QlZhNYZffw.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
