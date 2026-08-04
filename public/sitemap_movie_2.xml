@@ -478,6 +478,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1404304-the-isolate-thief</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1404604-compostelle</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/qDioVWtzOCASwvxbiaL3lkCOPb5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/242582-nightcrawler</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/rVJCp4VVfg7SAXZ7WZPBEfWwhrQ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
