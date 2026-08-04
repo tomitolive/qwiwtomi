@@ -9,6 +9,7 @@ import ShareButton from "@/components/ShareButton";
 import Navbar from "@/components/Navbar";
 import NewAd from "@/components/NewAd";
 import EpisodeRatingHeatmap from "./EpisodeRatingHeatmap";
+import ShortLink from "@/components/ShortLink";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -95,6 +96,16 @@ export default async function TVPage({ params }: Props) {
     "2026"
   ).substring(0, 4);
   const rating = data.vote_average?.toFixed(1);
+  
+  // Dynamic rating color based on value (green for high, red for low)
+  const getRatingColor = (ratingValue: number) => {
+    if (ratingValue >= 8) return '#22c55e'; // green-500
+    if (ratingValue >= 6) return '#eab308'; // yellow-500
+    if (ratingValue >= 4) return '#f97316'; // orange-500
+    return '#ef4444'; // red-500
+  };
+  
+  const ratingColor = getRatingColor(parseFloat(rating || '0'));
   const genres = data.genres?.map((g: any) => g.name).join(" • ");
   const backdrop = data.backdrop_path ? `/t/p/original${data.backdrop_path}` : "";
   const poster = data.poster_path ? `/t/p/w500${data.poster_path}` : "";
@@ -159,7 +170,7 @@ export default async function TVPage({ params }: Props) {
             )}
 
             {/* Right: Content */}
-            <div className="flex-1 space-y-3 md:space-y-4 order-2 text-center md:text-right pl-4 md:pl-8">
+            <div className="flex-1 min-w-0 overflow-hidden space-y-3 md:space-y-4 order-2 text-center md:text-right pl-4 md:pl-8">
               {/* Title */}
               <h1 className="text-xl md:text-3xl lg:text-4xl font-extrabold tracking-wider text-white">
                 {displayTitle} {year}
@@ -168,21 +179,20 @@ export default async function TVPage({ params }: Props) {
               {/* Rating */}
               {rating && (
                 <div className="flex items-center gap-2 justify-center md:justify-end flex-row-reverse">
-                  <span className="text-yellow-400 text-lg md:text-xl">⭐</span>
-                  <span className="text-base md:text-lg font-extrabold tracking-wider" style={{
-                    color: 'transparent',
-                    backgroundClip: 'text',
-                    WebkitBackgroundClip: 'text',
-                    backgroundImage: 'linear-gradient(to right, #ef4444, #f97316, #dc2626)',
-                    filter: 'drop-shadow(0 0 15px rgba(255, 80, 0, 0.8))'
-                  }}>{rating}</span>
+                  <span className="text-yellow-400/80 hover:text-yellow-400 text-lg md:text-xl transition-colors">⭐</span>
+                  <span className="text-base md:text-lg font-extrabold tracking-wider transition-all" style={{
+                    color: ratingColor,
+                    filter: `drop-shadow(0 0 15px ${ratingColor}80)`
+                  }}>
+                    {rating}
+                  </span>
                 </div>
               )}
 
               {/* Genres */}
               <div className="flex flex-row-reverse flex-wrap gap-2 justify-center md:justify-end">
                 {data.genres?.map((g: any) => (
-                  <span key={g.id} className="px-4 py-2 bg-gradient-to-r from-red-600 via-orange-600 to-red-600 text-[var(--primary)] text-sm font-bold rounded-full hover:scale-105 transition-all duration-300 cursor-default backdrop-blur-md border-2 border-[var(--primary)]/50">
+                  <span key={g.id} className="px-3 py-1 bg-zinc-800/50 hover:bg-zinc-700/80 text-gray-300 text-sm font-medium rounded-md transition-colors">
                     {g.name}
                   </span>
                 ))}
@@ -197,12 +207,28 @@ export default async function TVPage({ params }: Props) {
 
               {/* Watch Buttons */}
               <div className="flex flex-row-reverse gap-2 md:gap-3 pt-1 md:pt-2 pb-4 md:pb-0 w-full justify-center md:justify-end">
-                <ProtectedLink
-                  encodedUrl={btoa(`https://tv.tomito.xyz/tv/${id}/watch`)}
-                  className="px-5 md:px-6 py-2 md:py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-bold rounded-lg transition-colors text-center text-sm md:text-base tracking-wider"
-                >
-                  مشاهدة الآن
-                </ProtectedLink>
+                <div className="BTNSDownWatch flex gap-2">
+                  <ProtectedLink
+                    encodedUrl={btoa(`https://tv.tomito.xyz/tv/${id}/watch`)}
+                    className="download flex flex-col items-center justify-center p-4 bg-zinc-800/20 hover:bg-zinc-700/80 backdrop-blur-sm rounded-lg transition-colors min-w-[120px]"
+                  >
+                    <svg className="w-8 h-8 mb-2 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                    <span className="text-white font-bold text-sm">تحميل الآن</span>
+                    <p className="text-gray-400 text-xs">الذهاب لصفحة التحميل</p>
+                  </ProtectedLink>
+                  <ProtectedLink
+                    encodedUrl={btoa(`https://tv.tomito.xyz/tv/${id}/watch`)}
+                    className="watch flex flex-col items-center justify-center p-4 bg-zinc-800/20 hover:bg-zinc-700/80 backdrop-blur-sm rounded-lg transition-colors min-w-[120px]"
+                  >
+                    <svg className="w-8 h-8 mb-2 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                    </svg>
+                    <span className="text-white font-bold text-sm">مشاهدة الآن</span>
+                    <p className="text-gray-400 text-xs">الذهاب لصفحة المشاهدة</p>
+                  </ProtectedLink>
+                </div>
                 {(data as any).imdb_id && (
                   <a
                     href={`https://www.imdb.com/title/${(data as any).imdb_id}`}
@@ -214,6 +240,12 @@ export default async function TVPage({ params }: Props) {
                   </a>
                 )}
               </div>
+
+              {/* Share Button */}
+              <ShareButton url={`https://tomito.xyz/tv/${id}`} title={displayTitle} />
+
+              {/* Short Link */}
+              <ShortLink slug={id!} />
             </div>
           </div>
         </div>
@@ -226,7 +258,7 @@ export default async function TVPage({ params }: Props) {
           {/* Right Column - Content (69%) */}
           <div className="w-full md:w-[69%] space-y-6">
             {/* Breadcrumbs */}
-            <div className="h-[38px]">
+            <div className="flex justify-center">
               <Breadcrumbs items={[
                 { name: "الرئيسية", item: "/" },
                 { name: "مسلسلات", item: "/tv" },
