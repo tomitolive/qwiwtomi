@@ -1243,6 +1243,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/228791-betrayal</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/sFPgHRfA95VwK43vwkNznaLYlMo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2288-prison-break</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/lLjcMT7fwuO5fgswb2drlbFwoTJ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/278178-i-will-find-you</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

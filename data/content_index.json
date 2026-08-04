@@ -66074,5 +66074,69 @@
     ],
     "timestamp": 1785824372,
     "fixed": true
+  },
+  {
+    "title": "Lucky Strike / Lucky Strike",
+    "title_ar": "Lucky Strike",
+    "title_en": "Lucky Strike",
+    "slug": "1594914-lucky-strike",
+    "folder": "movie",
+    "poster": "/t/p/w500/fBniztkLes0lA2CD50j4iWAwX5y.jpg",
+    "rating": 6.7,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1594914,
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "genres": [
+      "حركة",
+      "حرب"
+    ],
+    "timestamp": 1785839134,
+    "fixed": true
+  },
+  {
+    "title": "Badly in Love / Badly in Love",
+    "title_ar": "Badly in Love",
+    "title_en": "Badly in Love",
+    "slug": "305379-badly-in-love",
+    "folder": "tv",
+    "poster": "/t/p/w500/iAGXAIlRhpgK4cqv51eUc9dCl8h.jpg",
+    "rating": 7.7,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 305379,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785839149,
+    "fixed": true
+  },
+  {
+    "title": "Betrayal / Betrayal",
+    "title_ar": "Betrayal",
+    "title_en": "Betrayal",
+    "slug": "228791-betrayal",
+    "folder": "tv",
+    "poster": "/t/p/w500/sFPgHRfA95VwK43vwkNznaLYlMo.jpg",
+    "rating": 6.2,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 228791,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1785839170,
+    "fixed": true
   }
 ]
