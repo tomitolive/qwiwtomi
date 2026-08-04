@@ -65984,5 +65984,95 @@
     ],
     "timestamp": 1785806259,
     "fixed": true
+  },
+  {
+    "title": "Evolution / Evolution",
+    "title_ar": "Evolution",
+    "title_en": "Evolution",
+    "slug": "1571101-evolution",
+    "folder": "movie",
+    "poster": "/t/p/w500/vzkouNc5lH0RMRe0ZCEtFHDV2ms.jpg",
+    "rating": 5.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1571101,
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "عائلي",
+      "كوميديا"
+    ],
+    "timestamp": 1785824322,
+    "fixed": true
+  },
+  {
+    "title": "Knot / Knot",
+    "title_ar": "Knot",
+    "title_en": "Knot",
+    "slug": "303493-knot",
+    "folder": "tv",
+    "poster": "/t/p/w500/YC0i5PrabFdcok34xG2pIcKivz.jpg",
+    "rating": 7.4,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 303493,
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785824338,
+    "fixed": true
+  },
+  {
+    "title": "The Vacation Principle / The Vacation Principle",
+    "title_ar": "The Vacation Principle",
+    "title_en": "The Vacation Principle",
+    "slug": "319077-the-vacation-principle",
+    "folder": "tv",
+    "poster": "/t/p/w500/jh3ia7esrJcZhQSzDVXIsBivYIS.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 319077,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785824355,
+    "fixed": true
+  },
+  {
+    "title": "False Memory / False Memory",
+    "title_ar": "False Memory",
+    "title_en": "False Memory",
+    "slug": "280564-false-memory",
+    "folder": "tv",
+    "poster": "/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 280564,
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1785824372,
+    "fixed": true
   }
 ]
