@@ -9,10 +9,13 @@ export default function SocialBar() {
   const [hasTriggeredLink, setHasTriggeredLink] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setIsVisible(true);
-    }, 2000);
-    return () => clearTimeout(timer);
+    // 88% chance of showing the popup
+    if (Math.random() > 0.12) {
+      const timer = setTimeout(() => {
+        setIsVisible(true);
+      }, 2000);
+      return () => clearTimeout(timer);
+    }
   }, []);
 
   const handleHideClick = () => {
@@ -74,9 +77,10 @@ export default function SocialBar() {
             </svg>
             <button
               onClick={handleHideClick}
-              className="px-3 py-1.5 bg-orange-500 hover:bg-orange-400 active:scale-95 text-white text-xs font-bold rounded-lg transition-all whitespace-nowrap shadow-md cursor-pointer pointer-events-auto"
+              className="px-3 py-1.5 bg-orange-500 hover:bg-orange-400 active:scale-95 text-white text-xs font-bold rounded-lg transition-all whitespace-nowrap shadow-md cursor-pointer pointer-events-auto flex flex-col items-center leading-tight"
             >
-              Hide
+              <span>Hide</span>
+              <span className="text-[9px] font-medium opacity-80">إزالة الإعلان</span>
             </button>
           </div>
         </div>
