@@ -9,7 +9,7 @@
   "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
   "release_date": "2025-06-23",
   "vote_average": 6.3,
-  "vote_count": 3350,
+  "vote_count": 3605,
   "genres": [
     {
       "id": 878,
@@ -25,12 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد خمس سنوات من أحداث فيلم \"جوراسيك وورلد دومينيون\"، تُكلَّف خبيرة العمليات السرية زورا بينيت بقيادة فريق ماهر في مهمة سرية للغاية لتأمين مادة وراثية من أضخم ثلاثة ديناصورات في العالم. عندما تتقاطع عملية زورا مع عائلة مدنية انقلبت رحلتها البحرية، يجدون أنفسهم جميعًا عالقين على جزيرة حيث يواجهون اكتشافًا صادمًا ومخيفًا ظلَّ مخفيًا عن العالم لعقود.",
-    "desc_en": "بعد خمس سنوات من أحداث فيلم \"جوراسيك وورلد دومينيون\"، تُكلَّف خبيرة العمليات السرية زورا بينيت بقيادة فريق ماهر في مهمة سرية للغاية لتأمين مادة وراثية من أضخم ثلاثة ديناصورات في العالم. عندما تتقاطع عملية زورا مع عائلة مدنية انقلبت رحلتها البحرية، يجدون أنفسهم جميعًا عالقين على جزيرة حيث يواجهون اكتشافًا صادمًا ومخيفًا ظلَّ مخفيًا عن العالم لعقود.",
-    "meta_desc": "مشاهدة عالم الديناصورات: إحياء مترجم بجودة عالية على توميتو.",
-    "keywords": "Jurassic World Rebirth, أحداث عالم الديناصورات: إحياء بالتفصيل, قصة فيلم عالم الديناصورات: إحياء, مشاهدة عالم الديناصورات: إحياء 2026, توميتو عالم الديناصورات: إحياء, عالم الديناصورات: إحياء مترجم",
-    "seo_title_ar": "مشاهدة عالم الديناصورات: إحياء مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "استمتع بمشاهدة فيلم عالم الديناصورات: إحياء (2025) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "في فيلم \"عالم الديناصورات: إحياء\"، بعد خمس سنوات من أحداث \"جوراسيك وورلد دومينيون\"، تُكلف زورا بينيت، خبيرة العمليات السرية، بمهمة خطيرة لتأمين مادة وراثية من ديناصورات عملاقة. أثناء تنفيذ المهمة، تتقاطع مساراتها مع عائلة مدنية، ليجدوا أنفسهم عالقين على جزيرة مليئة بالمفاجآت المخيفة التي ظلت مخفية عن العالم لعقود. هل سينجحون في مواجهة هذا التهديد؟",
+    "desc_en": "In \"Jurassic World Rebirth\", five years after the events of Dominion, covert operations expert Zora Bennett embarks on a mission to secure genetic material from massive dinosaurs. When her path intersects with a civilian family, they find themselves stranded on an island, uncovering a shocking secret hidden for decades.",
+    "seo_title_ar": "مشاهدة فيلم عالم الديناصورات: إحياء مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم عالم الديناصورات: إحياء، حيث الإثارة والتشويق في عالم الديناصورات. انضم إلى زورا بينيت في مهمة خطيرة لتأمين مادة وراثية من أضخم الدين",
+    "outro": "شاهد عالم الديناصورات: إحياء الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"عالم الديناصورات: إحياء\" يقدم تجربة مشاهدة ممتعة ومثيرة، حيث يجمع بين الإثارة والتشويق في عالم الديناصورات. أداء الممثلين كان رائعًا، خاصةً زورا بينيت التي أبدعت في دورها كخبيرة عمليات سرية. لا تفوتوا هذه المغامرة المليئة بالتشويق!",
+    "opinion_en": "\"Jurassic World Rebirth\" is an exciting and thrilling cinematic experience. The cast, particularly Zora Bennett, delivers exceptional performances. Get ready for a thrilling adventure filled with surprises and a hidden threat!",
+    "faq": [
+      {
+        "q": "هل فيلم \"عالم الديناصورات: إحياء\" مناسب للعائلات؟",
+        "a": "نعم، الفيلم مناسب للعائلات ومحبي أفلام الديناصورات. فهو يقدم مزيجًا من المغامرة والإثارة مع لمسة عائلية.",
+        "q_en": "Is \"Jurassic World Rebirth\" family-friendly?",
+        "a_en": "Absolutely! It's a great choice for families and dinosaur enthusiasts, offering a blend of adventure and excitement with a family-friendly twist."
+      }
+    ],
+    "keywords": "عالم الديناصورات, إحياء, جوراسيك وورلد, ديناصورات, مغامرة, إثارة, زورا بينيت, عمليات سرية, جودة عالية, مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -38,5 +49,5 @@
   "duration": "134 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Scarlett Johansson Mahershala Ali Jonathan Bailey Rupert Friend Manuel Garcia-Rulfo"
+  "cast": "Scarlett Johansson Mahershala Ali Jonathan Bailey Rupert Friend Manuel Garcia-Rulfo Luna Blaise David Iacono Audrina Miranda"
 }

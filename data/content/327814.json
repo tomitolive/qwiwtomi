@@ -1,46 +1,57 @@
 {
   "id": 327814,
-  "title": "Proyecto final",
-  "title_ar": "Proyecto final",
-  "title_en": "Final Project",
-  "slug": "327814-final-project",
-  "overview": "مسلسل \"Proyecto \" أو \"Final Project\" هو دراما مشوقة تدور أحداثها في مدرسة جديدة، حيث تبدأ تامارا حياة جديدة، لكنها تواجه تحديات خطيرة عندما تتعرض لهجمات شرسة عبر الإنترنت وتقبل تحديًا من أحد زملائها في الفصل، مما يؤدي إلى تحولها بشكل غير متوقع.",
-  "poster_path": "/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
-  "backdrop_path": "/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
-  "release_date": "2026-07-29",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "title": "عنتر بن شداد",
+  "title_ar": "عنتر بن شداد",
+  "title_en": "Antar: The Black Prince",
+  "slug": "327814-antar-the-black-prince",
+  "overview": "يروي الفيلم قصة حياة (عنترة بن شداد) الذي أنجبه أمير بني عبس من جارته زبيدة ثم تبرأ منه، ولم يكتفي بذلك بل ضمه إلى عبيده، ولقوة يتمتع بها عنترة يتمكن من إنقاذ بنات قبيلته من الغزاة والمغتصبين فيلقى المزيد من العرفان من الجميع لكن أباه يظل على موقفه بعدم الاعتراف به، ويتعلق عنترة بحب (عبلة) لكن والدها يرغمها على الزواج من أمير إحدى القبائل الأخرى الذي يرسل رجاله لمجابهة عنترة.",
+  "poster_path": "/tUzy5E2DLHVphgXcLVkY0JDQesS.jpg",
+  "backdrop_path": "/g8X404oSjJGDu5lRyUY6mdSF2iS.jpg",
+  "release_date": "1961-12-04",
+  "vote_average": 4.8,
+  "vote_count": 5,
   "genres": [
     {
       "id": 18,
       "name": "دراما"
+    },
+    {
+      "id": 36,
+      "name": "تاريخ"
+    },
+    {
+      "id": 10749,
+      "name": "رومنسية"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Proyecto final (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"Proyecto \" أو \"Final Project\" هو دراما مشوقة تدور أحداثها في مدرسة جديدة، حيث تبدأ تامارا حياة جديدة، لكنها تواجه تحديات خطيرة عندما تتعرض لهجمات شرسة عبر الإنترنت وتقبل تحديًا من أحد زملائها في الفصل، مما يؤدي إلى تحولها بشكل غير متوقع.",
-    "desc_en": "The series \"Final Project\" follows Tamara's journey in a new school, where a dangerous connection and a classmate's challenge lead her to an unexpected transformation. It's a gripping drama that explores the impact of online attacks.",
-    "seo_title_ar": "مشاهدة مسلسل Proyecto مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل Proyecto أو Final Project الدرامي المشوق، حيث تبدأ تامارا حياة جديدة في مدرسة جديدة، لكنها تواجه تحديات خطيرة بسبب هجمات عبر الإنترنت.",
-    "outro": "شاهد Proyecto final الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"Proyecto \" يقدم قصة مثيرة ومؤثرة، حيث يستكشف العواقب الوخيمة للتنمر الإلكتروني. إنه عمل درامي متميز يستحق المشاهدة.",
-    "opinion_en": "\"Final Project\" is a captivating series that sheds light on the dangers of online harassment. It's a must-watch drama with a powerful message.",
+    "intro": "استمتع بمشاهدة فيلم عنتر بن شداد (1961) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يروي فيلم \"عنتر بن شداد\" أو \"Antar: The Black Prince\" قصة حياة البطل الأسطوري عنترة بن شداد، الذي ولد لأمير بني عبس من جارته زبيدة، لكن الأمير تبرأ منه وضمّه إلى عبيده. على الرغم من ذلك، يتمتع عنترة بقوة جسدية هائلة، مما يجعله قادرًا على إنقاذ بنات قبيلته من الغزاة والمغتصبين، ويكسب احترام الجميع. ومع ذلك، يظل والده على موقفه الرافض للاعتراف به. يقع عنترة في حب عبلة، لكن والدها يرغمها على الزواج من أمير قبيلة أخرى، مما يؤدي إلى مواجهة عنيفة بين عنترة ورجال الأمير.",
+    "desc_en": "Antar: The Black Prince is a film based on the life and legend of Antarah ibn Shaddad, a 6th-century poet and hero. The film follows Antar's journey, born to a noble father who disowns him, yet he gains strength and respect by saving his tribe's women. Antar's love for Abla leads to a clash with another tribal prince, creating an epic tale.",
+    "seo_title_ar": "مشاهدة فيلم عنتر بن شداد مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم عنتر بن شداد أو Antar: The Black Prince الذي يروي قصة حياة عنترة بن شداد، البطل الأسطوري الذي ولد لأمير بني عبس من جارته زبيدة. الف",
+    "outro": "شاهد عنتر بن شداد الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"عنتر بن شداد\" أو \"Antar: The Black Prince\" هو عمل فني رائع يسلط الضوء على حياة البطل الأسطوري عنترة بن شداد، ويأخذنا في رحلة مليئة بالدراما والتاريخ والرومانسية. أداء الممثلين كان رائعًا، خاصة في تجسيد قوة عنترة وشخصيته المعقدة. الفيلم يستحق المشاهدة لمحبي القصص التاريخية.",
+    "opinion_en": "Antar: The Black Prince is a captivating film that brings the legend of Antarah ibn Shaddad to life. The story, filled with drama and romance, showcases the strength and struggles of a true hero. The performances are powerful, making it a must-watch for fans of historical tales.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل \"Proyecto \"؟",
-        "a": "يتناول المسلسل موضوع التنمر الإلكتروني وتأثيره على حياة المراهقين.",
-        "q_en": "What is the main theme of \"Final Project\"?",
-        "a_en": "The series explores the theme of cyberbullying and its impact on teenagers' lives."
+        "q": "هل فيلم \"عنتر بن شداد\" مناسب لجميع الأعمار؟",
+        "a": "نعم، الفيلم مناسب لجميع الأعمار، فهو يقدم قصة تاريخية ملهمة ومليئة بالقيم النبيلة.",
+        "q_en": "Is Antar: The Black Prince suitable for all ages?",
+        "a_en": "Absolutely! The film is suitable for all ages, as it presents an inspiring historical story with noble values."
       }
     ],
-    "keywords": "Proyecto, Final Project, مسلسل, دراما, تنمر إلكتروني, تحول, مدرسة, تامارا"
+    "keywords": "عنتر بن شداد, Antar: The Black Prince, فيلم, دراما, تاريخ, رومانسية, إثارة, عنترة بن شداد, عبلة, أمير بني عبس, زبيدة"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإسبانية",
-  "country": "المكسيك",
-  "cast": "",
-  "first_air_date": "2026-07-29"
+  "duration": "130 دقيقة",
+  "language": "العربية",
+  "country": "مصر",
+  "cast": "Farid Shawqy Kouka Aida Hilal Said Abou Bakr Nour El Demerdash Ferdoos Mohamed Fakher Fakher Hassan Hamed"
 }
