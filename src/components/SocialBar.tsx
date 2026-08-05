@@ -27,10 +27,10 @@ export default function SocialBar() {
 
   return (
     <div className="fixed top-20 right-4 z-[10000] max-w-xs">
-      <div className="bg-gradient-to-br from-zinc-900 to-zinc-800 rounded-xl shadow-2xl border border-zinc-600/50 overflow-hidden">
+      <div className="bg-[#0f0f11] rounded-xl shadow-[0_0_30px_rgba(0,0,0,0.8)] border border-zinc-700 overflow-hidden relative">
 
         {/* ── Message + Hide button ── */}
-        <div className="flex items-center justify-between p-4">
+        <div className="flex items-center justify-between p-4 bg-zinc-900/90 backdrop-blur-md relative z-10 w-full">
           <div className="flex items-center gap-2 flex-1">
             {/* Bell icon */}
             <svg
@@ -49,17 +49,17 @@ export default function SocialBar() {
               </p>
               {/* Arabic */}
               <p
-                className="text-zinc-300 text-xs leading-snug mt-0.5 text-right"
+                className="text-zinc-300 text-[11px] leading-snug mt-0.5 text-right font-medium"
                 dir="rtl"
               >
-                هاد الإشعار مغادي يتحيد غير إلا ضغطتي على{" "}
+                لن يختفي هذا الإشعار حتى تضغط على{" "}
                 <span className="text-orange-400 font-bold">Hide</span>
               </p>
             </div>
           </div>
 
           {/* Animated arrow + Hide button */}
-          <div className="flex flex-col items-center gap-1 ml-2">
+          <div className="flex flex-col items-center gap-1 ml-2 shrink-0">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
@@ -74,7 +74,7 @@ export default function SocialBar() {
             </svg>
             <button
               onClick={handleHideClick}
-              className="px-3 py-1.5 bg-orange-500 hover:bg-orange-400 active:scale-95 text-white text-xs font-bold rounded-lg transition-all whitespace-nowrap shadow-md"
+              className="px-3 py-1.5 bg-orange-500 hover:bg-orange-400 active:scale-95 text-white text-xs font-bold rounded-lg transition-all whitespace-nowrap shadow-md cursor-pointer pointer-events-auto"
             >
               Hide
             </button>
@@ -82,7 +82,7 @@ export default function SocialBar() {
         </div>
 
         {/* ── Ad banner below the message ── */}
-        <div className="border-t border-zinc-700/60">
+        <div className="w-full relative z-0 bg-black min-h-[50px]">
           <div id="container-08370281e563742f6dcb56530f5e8082" className="w-full" />
         </div>
 
