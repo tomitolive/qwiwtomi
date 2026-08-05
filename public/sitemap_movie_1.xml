@@ -2269,6 +2269,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1284041-the-last-house</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1284120-the-ugly-stepsister</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/lImNK0hcaHI1O8V4BIGjd5S8rqZ.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1325734-the-drama</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/fLFXaQzRYbgTZQ17FBVZvxBbWgY.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
