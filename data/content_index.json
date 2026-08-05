@@ -66362,5 +66362,49 @@
     ],
     "timestamp": 1785877376,
     "fixed": true
+  },
+  {
+    "title": "Uyir / Uyir",
+    "title_ar": "Uyir",
+    "title_en": "Uyir",
+    "slug": "1451486-uyir",
+    "folder": "movie",
+    "poster": "/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1451486,
+    "genre_ids": [
+      80,
+      53
+    ],
+    "genres": [
+      "جريمة",
+      "إثارة"
+    ],
+    "timestamp": 1785892689,
+    "fixed": true
+  },
+  {
+    "title": "مئة عام من العزلة / One Hundred Years of Solitude",
+    "title_ar": "مئة عام من العزلة",
+    "title_en": "One Hundred Years of Solitude",
+    "slug": "207333-one-hundred-years-of-solitude",
+    "folder": "tv",
+    "poster": "/t/p/w500/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg",
+    "rating": 7.9,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 207333,
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "genres": [
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "timestamp": 1785892708,
+    "fixed": true
   }
 ]
