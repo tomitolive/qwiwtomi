@@ -26,31 +26,8 @@ export default function SocialBar() {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed top-20 right-4 z-[10000] max-w-xs md:max-w-xs w-[calc(100vw-2rem)] md:w-auto">
+    <div className="fixed top-20 right-4 z-[10000] max-w-xs">
       <div className="bg-[#0f0f11] rounded-xl shadow-[0_0_30px_rgba(0,0,0,0.8)] border border-zinc-700 overflow-hidden relative">
-
-        <style dangerouslySetInnerHTML={{ __html: `
-          @media (max-width: 767px) {
-            #ad-wrapper {
-              transform: scale(0.9);
-              transform-origin: top center;
-              margin-bottom: -5%;
-            }
-            #container-08370281e563742f6dcb56530f5e8082,
-            #container-08370281e563742f6dcb56530f5e8082 > div,
-            #container-08370281e563742f6dcb56530f5e8082 iframe {
-              display: grid !important;
-              grid-template-columns: repeat(2, 1fr) !important;
-              gap: 4px !important;
-              width: 100% !important;
-            }
-            #container-08370281e563742f6dcb56530f5e8082 > div > div {
-              width: 100% !important;
-              max-width: 100% !important;
-              margin: 0 !important;
-            }
-          }
-        `}} />
 
         {/* ── Message + Hide button ── */}
         <div className="flex items-center justify-between p-4 bg-zinc-900/90 backdrop-blur-md relative z-10 w-full">
@@ -105,7 +82,7 @@ export default function SocialBar() {
         </div>
 
         {/* ── Ad banner below the message ── */}
-        <div id="ad-wrapper" className="w-full relative z-0 bg-black min-h-[50px]">
+        <div className="w-full relative z-0 bg-black min-h-[50px]">
           <div id="container-08370281e563742f6dcb56530f5e8082" className="w-full" />
         </div>
 
