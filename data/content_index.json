@@ -66406,5 +66406,25 @@
     ],
     "timestamp": 1785892708,
     "fixed": true
+  },
+  {
+    "title": "Lockbox / Lockbox",
+    "title_ar": "Lockbox",
+    "title_en": "Lockbox",
+    "slug": "1500890-lockbox",
+    "folder": "movie",
+    "poster": "/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+    "rating": 9.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1500890,
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
+    "timestamp": 1785910665,
+    "fixed": true
   }
 ]
