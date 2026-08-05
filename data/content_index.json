@@ -66514,5 +66514,107 @@
     ],
     "timestamp": 1785925401,
     "fixed": true
+  },
+  {
+    "title": "Big Chicken: A Fast Food Conspiracy / Big Chicken: A Fast Food Conspiracy",
+    "title_ar": "Big Chicken: A Fast Food Conspiracy",
+    "title_en": "Big Chicken: A Fast Food Conspiracy",
+    "slug": "1728056-big-chicken-a-fast-food-conspiracy",
+    "folder": "movie",
+    "poster": "/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1728056,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1785950500,
+    "fixed": true
+  },
+  {
+    "title": "Inside the Trustor Scandal / Inside the Trustor Scandal",
+    "title_ar": "Inside the Trustor Scandal",
+    "title_en": "Inside the Trustor Scandal",
+    "slug": "1421594-inside-the-trustor-scandal",
+    "folder": "movie",
+    "poster": "/t/p/w500/zTKzYt7N7BXlSajkfm8RE2sEsdN.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1421594,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "genres": [
+      "وثائقي",
+      "جريمة"
+    ],
+    "timestamp": 1785950591,
+    "fixed": true
+  },
+  {
+    "title": "Dead of Winter / Dead of Winter",
+    "title_ar": "Dead of Winter",
+    "title_en": "Dead of Winter",
+    "slug": "327916-dead-of-winter",
+    "folder": "tv",
+    "poster": "/t/p/w500/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 327916,
+    "genre_ids": [
+      9648
+    ],
+    "genres": [
+      "غموض"
+    ],
+    "timestamp": 1785950610,
+    "fixed": true
+  },
+  {
+    "title": "Forged in Fire / Forged in Fire",
+    "title_ar": "Forged in Fire",
+    "title_en": "Forged in Fire",
+    "slug": "62884-forged-in-fire",
+    "folder": "tv",
+    "poster": "/t/p/w500/qTeChgTbGdrxRy6X3TFRW83e1U2.jpg",
+    "rating": 7.8,
+    "year": "2015",
+    "type": "tv",
+    "tmdb_id": 62884,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1785950632,
+    "fixed": true
+  },
+  {
+    "title": "SKAM Italia / SKAM Italia",
+    "title_ar": "SKAM Italia",
+    "title_en": "SKAM Italia",
+    "slug": "77826-skam-italia",
+    "folder": "tv",
+    "poster": "/t/p/w500/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg",
+    "rating": 7.3,
+    "year": "2018",
+    "type": "tv",
+    "tmdb_id": 77826,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1785950651,
+    "fixed": true
   }
 ]

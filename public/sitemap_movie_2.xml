@@ -640,6 +640,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1421594-inside-the-trustor-scandal</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/zTKzYt7N7BXlSajkfm8RE2sEsdN.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1421903-werwulf</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -2098,6 +2107,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1728056-big-chicken-a-fast-food-conspiracy</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1728704-siping</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/238-the-godfather</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/q0wsNUEw7VSThyY22EjolcxNCjM.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/238713-spy</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

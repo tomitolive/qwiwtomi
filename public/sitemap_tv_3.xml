@@ -1918,6 +1918,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/327916-dead-of-winter</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/8PbjBwbkZgFj8k2bitxMFkllal5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/32798-hawaii-five-0</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/4UNZ0w9tc2T7tDbE2DO4wF718I7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/41727-banshee</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
