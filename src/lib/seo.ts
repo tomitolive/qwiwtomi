@@ -3,6 +3,54 @@ import type { ContentData } from "./content";
 
 const SITE_URL = "https://tomito.xyz";
 
+/**
+ * Ensures meta description is between 150-300 characters
+ * If description is too short, appends additional descriptive text
+ * If description is too long, truncates it
+ */
+function ensureMinimumDescriptionLength(description: string, title: string, mediaType: "movie" | "tv"): string {
+  const minLength = 150;
+  const maxLength = 300;
+  
+  // If description is already within range, return it as-is
+  if (description.length >= minLength && description.length <= maxLength) {
+    return description;
+  }
+  
+  // If description is too long, truncate it to exactly maxLength
+  if (description.length > maxLength) {
+    console.log(`Truncating description from ${description.length} to ${maxLength} chars for: ${title}`);
+    return description.slice(0, maxLength);
+  }
+  
+  // If too short, append additional text
+  const typeLabel = mediaType === "movie" ? "فيلم" : "مسلسل";
+  const fallbackTexts = [
+    `شاهد بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.`,
+    `استمتع بمشاهدة بجودة 4K وترجمة عربية احترافية مجاناً.`,
+    `مشاهدة بترجمة احترافية وجودة عالية وبدون إعلانات.`,
+    `تجربة مشاهدة فريدة بجودة عالية وترجمة دقيقة.`,
+    `شاهد هذا ${typeLabel} بجودة عالية وترجمة احترافية على توميتو.`,
+    `استمتع بمشاهدة هذا ${typeLabel} بجودة عالية وترجمة احترافية بدون إعلانات.`,
+  ];
+  
+  // Try each fallback text until we reach the minimum length
+  for (const fallback of fallbackTexts) {
+    const extended = `${description} ${fallback}`;
+    if (extended.length >= minLength) {
+      // If extended is too long, truncate to exactly maxLength
+      if (extended.length > maxLength) {
+        return extended.slice(0, maxLength);
+      }
+      return extended;
+    }
+  }
+  
+  // If still too short, use a generic extended description
+  const generic = `${description} شاهد بجودة عالية وترجمة احترافية على توميتو بدون إعلانات مزعجة.`;
+  return generic.slice(0, maxLength);
+}
+
 /** Arabic + English in one label: هوس (Obsession) */
 export function formatBilingualTitle(ar: string, en?: string): string {
   const enClean = en?.trim();
@@ -54,12 +102,20 @@ export function buildMovieMetadata(opts: {
     : defaultTitle;
 
   const intentLead = genreLabel
-    ? `مشاهدة وتحميل فيلم ${genreLabel} ${title} ${year} بجودة 4K مترجم اون لاين على توميتو.`
-    : `مشاهدة وتحميل فيلم ${title} ${year} بجودة 4K مترجم اون لاين على توميتو.`;
+    ? `مشاهدة فيلم ${genreLabel} ${title} ${year} على توميتو tomito`
+    : `مشاهدة فيلم ${title} ${year} على توميتو tomito`;
 
-  const description =
-    ai?.meta_desc?.trim() ||
-    `${intentLead} ${(overview || "").trim()}`.trim().slice(0, 160);
+  // Use AI meta_desc only if it's within acceptable range, otherwise use intentLead
+  const aiDesc = ai?.meta_desc?.trim();
+  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 310) 
+    ? aiDesc 
+    : intentLead;
+
+  const description = ensureMinimumDescriptionLength(
+    baseDescription,
+    title,
+    "movie"
+  );
 
   const keywords =
     ai?.keywords?.trim() ||
@@ -70,6 +126,12 @@ export function buildMovieMetadata(opts: {
       `${title} مترجم`,
       `${title} اون لاين`,
       `توميتو ${title}`,
+      // English keywords
+      titleEn ? `watch ${titleEn} online` : `watch ${title} online`,
+      titleEn ? `download ${titleEn}` : `download ${title}`,
+      titleEn ? `${titleEn} movie ${year}` : `${title} movie ${year}`,
+      titleEn ? `${titleEn} free` : `${title} free`,
+      titleEn ? `${titleEn} streaming` : `${title} streaming`,
     ].join(", ");
 
   const ogImage = absolutePosterUrl(posterPath || local?.poster_path);
@@ -125,12 +187,20 @@ export function buildTvMetadata(opts: {
     : defaultTitle;
 
   const intentLead = genreLabel
-    ? `مشاهدة وتحميل مسلسل ${genreLabel} ${title} ${year} بجودة 4K مترجم اون لاين على توميتو.`
-    : `مشاهدة وتحميل مسلسل ${title} ${year} بجودة 4K مترجم اون لاين على توميتو.`;
+    ? `مشاهدة مسلسل ${genreLabel} ${title} ${year} على توميتو tomito`
+    : `مشاهدة مسلسل ${title} ${year} على توميتو tomito`;
 
-  const description =
-    ai?.meta_desc?.trim() ||
-    `${intentLead} ${(overview || "").trim()}`.trim().slice(0, 160);
+  // Use AI meta_desc only if it's within acceptable range, otherwise use intentLead
+  const aiDesc = ai?.meta_desc?.trim();
+  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 310) 
+    ? aiDesc 
+    : intentLead;
+
+  const description = ensureMinimumDescriptionLength(
+    baseDescription,
+    title,
+    "tv"
+  );
 
   const keywords =
     ai?.keywords?.trim() ||
@@ -142,6 +212,13 @@ export function buildTvMetadata(opts: {
       `${title} اون لاين`,
       `حلقات ${title}`,
       `توميتو ${title}`,
+      // English keywords
+      titleEn ? `watch ${titleEn} online` : `watch ${title} online`,
+      titleEn ? `download ${titleEn}` : `download ${title}`,
+      titleEn ? `${titleEn} series ${year}` : `${title} series ${year}`,
+      titleEn ? `${titleEn} free` : `${title} free`,
+      titleEn ? `${titleEn} streaming` : `${title} streaming`,
+      titleEn ? `${titleEn} episodes` : `${title} episodes`,
     ].join(", ");
 
   const ogImage = absolutePosterUrl(posterPath || local?.poster_path);

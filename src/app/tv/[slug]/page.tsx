@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     slug,
     local,
     posterPath: data?.poster_path,
-    overview: local?.ai_content?.desc_ar || data?.overview,
+    overview: data?.overview,
   });
 }
 
