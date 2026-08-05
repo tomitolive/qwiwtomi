@@ -81,9 +81,35 @@ export default function SocialBar() {
           </div>
         </div>
 
-        {/* ── Ad banner below the message ── */}
-        <div className="w-full relative z-0 bg-black min-h-[50px]">
-          <div id="container-08370281e563742f6dcb56530f5e8082" className="w-full" />
+        {/* ── Remove Ad button + Ad banner ── */}
+        <div className="w-full bg-black">
+          {/* Remove Ad button */}
+          <button
+            onClick={() => window.open(SMART_LINK_URL, "_blank")}
+            className="w-full flex items-center justify-center gap-1.5 py-1.5 bg-zinc-800 hover:bg-zinc-700 transition-colors border-t border-zinc-700 group"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              className="w-3.5 h-3.5 text-zinc-400 group-hover:text-red-400 transition-colors"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <path d="M15 9l-6 6M9 9l6 6" />
+            </svg>
+            <span className="text-zinc-400 group-hover:text-red-400 text-[10px] font-semibold transition-colors">
+              Remove Ad &nbsp;/&nbsp; إزالة الإعلان
+            </span>
+          </button>
+
+          {/* Ad banner */}
+          <div className="min-h-[50px]">
+            <div id="container-08370281e563742f6dcb56530f5e8082" className="w-full" />
+          </div>
         </div>
 
       </div>
