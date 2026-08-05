@@ -40,7 +40,7 @@ jobs:
           git config --local user.name "Tomito Fix Bot"
           
           # Add updated JSON files and tracking file
-          git add data/content/ data/fixed_descriptions.json || true
+          git add data/content/ data/fixed_pages.json || true
           
           # Check if there are any changes to commit
           if git diff --staged --quiet; then

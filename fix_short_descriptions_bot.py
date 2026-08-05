@@ -20,7 +20,7 @@ from datetime import datetime
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
-PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_descriptions.json')
+PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
 BATCH_SIZE = 15
 
 # Logging setup
@@ -30,26 +30,30 @@ log = logging.getLogger(__name__)
 # Import project modules
 import mega_bot
 
-def load_processed_ids():
-    """تحميل قائمة المعرفات التي تم معالجتها."""
+def load_fixed_pages():
+    """تحميل قائمة الصفحات التي تم إصلاحها."""
     if not os.path.exists(PROCESSED_FILE):
-        return set()
+        return []
     try:
         with open(PROCESSED_FILE, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            return set(data.get('processed_ids', []))
+            return data.get('fixed_pages', [])
     except Exception as e:
-        log.warning(f"Could not load processed IDs: {e}")
-        return set()
+        log.warning(f"Could not load fixed pages: {e}")
+        return []
 
-def save_processed_ids(processed_ids):
-    """حفظ قائمة المعرفات التي تم معالجتها."""
+def save_fixed_pages(fixed_pages):
+    """حفظ قائمة الصفحات التي تم إصلاحها."""
     try:
         os.makedirs(os.path.dirname(PROCESSED_FILE), exist_ok=True)
         with open(PROCESSED_FILE, 'w', encoding='utf-8') as f:
-            json.dump({'processed_ids': list(processed_ids), 'last_updated': datetime.now().isoformat()}, f, ensure_ascii=False, indent=2)
+            json.dump({
+                'fixed_pages': fixed_pages,
+                'last_updated': datetime.now().isoformat(),
+                'total_fixed': len(fixed_pages)
+            }, f, ensure_ascii=False, indent=2)
     except Exception as e:
-        log.error(f"Could not save processed IDs: {e}")
+        log.error(f"Could not save fixed pages: {e}")
 
 def find_short_descriptions():
     """البحث عن جميع الصفحات ذات الأوصاف القصيرة."""
@@ -98,14 +102,15 @@ def find_short_descriptions():
     log.info(f"🔍 Found {len(short_desc_pages)} pages with short descriptions (<150 chars)")
     return short_desc_pages
 
-def process_batch(short_pages, processed_ids):
+def process_batch(short_pages, fixed_pages):
     """معالجة دفعة من الصفحات."""
     # استبعاد الصفحات التي تم معالجتها بالفعل
-    available_pages = [p for p in short_pages if str(p['tmdb_id']) not in processed_ids]
+    fixed_ids = {str(p['tmdb_id']) for p in fixed_pages}
+    available_pages = [p for p in short_pages if str(p['tmdb_id']) not in fixed_ids]
     
     if not available_pages:
         log.info("✅ All short descriptions have been fixed!")
-        return 0, processed_ids
+        return 0, fixed_pages
     
     # اختيار 15 صفحة عشوائية
     batch = random.sample(available_pages, min(len(available_pages), BATCH_SIZE))
@@ -116,6 +121,7 @@ def process_batch(short_pages, processed_ids):
         tmdb_id = str(page['tmdb_id'])
         media_type = page['media_type']
         title = page['title']
+        json_file = page['file']
         
         log.info(f"[{i+1}/{len(batch)}] Fixing: {title} (ID: {tmdb_id}, current length: {page['current_length']})")
         
@@ -131,16 +137,29 @@ def process_batch(short_pages, processed_ids):
             
             if entry:
                 success += 1
-                processed_ids.add(tmdb_id)
+                
+                # إضافة إلى قائمة الصفحات المُصلحة
+                fixed_pages.append({
+                    'tmdb_id': tmdb_id,
+                    'file': json_file,
+                    'title': title,
+                    'fixed_at': datetime.now().isoformat()
+                })
+                
                 log.info(f"   ✅ Fixed: {page_path}")
                 
                 # التحقق من الطول الجديد
                 try:
-                    with open(page_path.replace('.html', '.json'), 'r', encoding='utf-8') as f:
+                    json_path = os.path.join(CONTENT_DIR, json_file)
+                    with open(json_path, 'r', encoding='utf-8') as f:
                         new_data = json.load(f)
                     new_meta_desc = new_data.get('ai_content', {}).get('meta_desc', '')
                     new_length = len(new_meta_desc) if new_meta_desc else 0
                     log.info(f"   📏 New length: {new_length} chars")
+                    
+                    # إذا كان الطول الجديد >= 150، احذف الملف من القائمة
+                    if new_length >= 150:
+                        log.info(f"   🗑️  Removing from short description list (length OK)")
                 except:
                     pass
             else:
@@ -152,15 +171,15 @@ def process_batch(short_pages, processed_ids):
         # استراحة قصيرة بين الطلبات
         time.sleep(2)
     
-    return success, processed_ids
+    return success, fixed_pages
 
 def main():
     log.info("🚀 Starting Fix Short Descriptions Bot...")
     log.info("=" * 60)
     
-    # تحميل قائمة المعرفات التي تم معالجتها
-    processed_ids = load_processed_ids()
-    log.info(f"📊 Already processed: {len(processed_ids)} pages")
+    # تحميل قائمة الصفحات التي تم إصلاحها
+    fixed_pages = load_fixed_pages()
+    log.info(f"📊 Already fixed: {len(fixed_pages)} pages")
     
     # البحث عن أوصاف قصيرة
     short_pages = find_short_descriptions()
@@ -170,17 +189,18 @@ def main():
         return
     
     # معالجة دفعة
-    success, processed_ids = process_batch(short_pages, processed_ids)
+    success, fixed_pages = process_batch(short_pages, fixed_pages)
     
-    # حفظ قائمة المعرفات المحدثة
-    save_processed_ids(processed_ids)
+    # حفظ قائمة الصفحات المحدثة
+    save_fixed_pages(fixed_pages)
     
     # الإحصائيات
-    remaining = len([p for p in short_pages if str(p['tmdb_id']) not in processed_ids])
+    fixed_ids = {str(p['tmdb_id']) for p in fixed_pages}
+    remaining = len([p for p in short_pages if str(p['tmdb_id']) not in fixed_ids])
     log.info("=" * 60)
     log.info(f"📈 Statistics:")
     log.info(f"   ✅ Fixed in this run: {success}")
-    log.info(f"   📊 Total processed: {len(processed_ids)}")
+    log.info(f"   📊 Total fixed: {len(fixed_pages)}")
     log.info(f"   ⏳ Remaining to fix: {remaining}")
     
     if remaining > 0:
