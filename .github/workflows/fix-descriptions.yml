@@ -1,0 +1,51 @@
+# GitHub Actions Workflow `fix-descriptions`
+# Runs the short descriptions fix bot every 30 minutes.
+
+name: Fix Short Descriptions Bot
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || pip install requests pytrends google-auth requests-oauthlib
+
+      - name: Run Fix Short Descriptions Bot
+        env:
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 fix_short_descriptions_bot.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "bot-fix@tomito.xyz"
+          git config --local user.name "Tomito Fix Bot"
+          
+          # Add updated JSON files and tracking file
+          git add data/content/ data/fixed_descriptions.json || true
+          
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "fix-descriptions-bot: fixed short meta descriptions (batch of 15)"
+            git push
+          fi
