@@ -4,14 +4,12 @@
   "title_ar": "الضاحكون",
   "title_en": "Animaniacs",
   "slug": "82-animaniacs",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يحكي مسلسل الضاحكون قصة ثلاثة أخوة «واكو، ياكو، دوت» فروا من المرسم في عام 1929 وأخذوا يقومون بأعمال شغب كثيرة وفي كل مكان، مطاردات، إزعاج.",
   "poster_path": "/zXKhRLTRoVd8M94K4ilnUubwaip.jpg",
   "backdrop_path": "/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
   "release_date": "1993-09-13",
-  "vote_average": 8,
-  "vote_count": 766,
+  "vote_average": 8.0,
+  "vote_count": 780,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الازعاج والمرح، يأخذ ثلاثة أخوة فرار من المرسم في عام 1929، ويقومون بأعمال شغب كثيرة، من مطاردات إلى إزعاج، في كل مكان. ياكو، واكو، دوت، ثلاثة أخوة متميزين، يأخذوننا في رحلة ممتعة، مليئة بالكوميديا والمرح، في عالم رسوم متحركة رائع.",
-    "desc_en": "In a world of chaos and fun, three brothers escape from school in 1929 and start causing trouble, from chases to disturbances, everywhere. Yakko, Wakko, and Dot, three unique brothers, take us on a thrilling adventure, filled with comedy and fun, in a wonderful animated world.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع الضاحكون! رسوم متحركة، أطفال، كوميديا، عائلي",
-    "seo_title_ar": "مشاهدة الضاحكون مترجم اون لاين - توميتو",
-    "keywords": "Animaniacs, فيلم الضاحكون مترجم, مشاهدة الضاحكون, أحداث الضاحكون بالتفصيل, الضاحكون مترجم كامل, مشاهدة الضاحكون 1993, قصة مسلسل الضاحكون, توميتو الضاحكون",
-    "opinion": "هو فيلم رائع، مليء بالمرح والكوميديا، يأخذنا في رحلة ممتعة، مع ثلاثة أخوة متميزين، ياكو، واكو، دوت.",
+    "intro": "استمتع بمشاهدة مسلسل الضاحكون (1993) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تابع مغامرات الأخوة الثلاثة واكو وياكو ودوت في مسلسل الضاحكون، حيث يهربون من المرسم في عام 1929 ويبدأون بمشاغباتهم في كل مكان. يتنقلون بين المطاردات والإزعاج، ويسببون الفوضى في كل مكان. الضاحكون: Animaniacs، مسلسل رسوم متحركة كوميدي عائلي ممتع.",
+    "desc_en": "Animaniacs is a hilarious animated series following the adventures of the Warner siblings, Yakko, Wakko, and Dot. After escaping from their studio tower in the 1990s, they cause chaos and mayhem wherever they go. Get ready for a wild ride with Animaniacs!",
+    "seo_title_ar": "مشاهدة مسلسل الضاحكون Animaniacs مترجم - توميتو",
+    "meta_desc": "استمتع بمغامرات الضاحكون Animaniacs، مسلسل رسوم متحركة كوميدي عائلي، يهرب فيه الأخوة الثلاثة من المرسم في عام 1929، ويبدأون بمشاغباتهم في كل مكان. شاهد الف",
+    "outro": "شاهد الضاحكون الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "الضاحكون Animaniacs مسلسل رسوم متحركة كوميدي رائع، يجمع بين المتعة والضحك. إنه اختيار ممتاز للعائلة، حيث يمزج بين المغامرات الشيقة والمواقف المضحكة.",
+    "opinion_en": "Animaniacs is a hilarious and heartwarming animated series. It's a perfect blend of comedy and adventure, making it a great choice for family viewing.",
     "faq": [
       {
-        "q": "ما هو الضاحكون؟",
-        "a": "هو مسلسل رسوم متحركة للأطفال، مليء بالكوميديا والمرح."
-      },
-      {
-        "q": "ما هو نوع الضاحكون؟",
-        "a": "هو نوع رسوم متحركة، عائلي، كوميديا."
-      },
-      {
-        "q": "ما هو أفضل شيء في الضاحكون؟",
-        "a": "هو عالم رسوم متحركة رائع، مليء بالمرح والكوميديا، مع ثلاثة أخوة متميزين."
+        "q": "هل الضاحكون مناسب للأطفال؟",
+        "a": "نعم، الضاحكون Animaniacs مسلسل رسوم متحركة مناسب للأطفال والعائلات، فهو مليء بالمغامرات والمواقف الكوميدية المسلية.",
+        "q_en": "Is Animaniacs suitable for children?",
+        "a_en": "Absolutely! Animaniacs is an animated series that's perfect for kids and families, offering a mix of adventure and light-hearted comedy."
       }
-    ]
+    ],
+    "keywords": "الضاحكون, Animaniacs, رسوم متحركة, كوميديا, عائلي, مغامرات, أخوة, واكو, ياكو, دوت"
   },
   "fixed": true,
-  "first_air_date": "1993-09-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "132 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "ألمانيا",
-  "cast": "Colin Farrell Jamie Foxx Naomie Harris Gong Li John Ortiz"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Rob Paulsen Jess Harnell Tress MacNeille Maurice LaMarche Sherri Stoner Chick Vennera John Mariano Nathan Ruegger",
+  "first_air_date": "1993-09-13"
 }

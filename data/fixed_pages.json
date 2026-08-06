@@ -167,8 +167,98 @@
       "file": "622.json",
       "title": "The Ninth Gate",
       "fixed_at": "2026-08-06T00:25:31.302539"
+    },
+    {
+      "tmdb_id": "46923",
+      "file": "46923.json",
+      "title": "Shetland",
+      "fixed_at": "2026-08-06T03:32:42.319550"
+    },
+    {
+      "tmdb_id": "37799",
+      "file": "37799.json",
+      "title": "الشبكة الاجتماعية",
+      "fixed_at": "2026-08-06T03:33:15.574099"
+    },
+    {
+      "tmdb_id": "101172",
+      "file": "101172.json",
+      "title": "Swallowed Star",
+      "fixed_at": "2026-08-06T03:33:45.727840"
+    },
+    {
+      "tmdb_id": "94372",
+      "file": "94372.json",
+      "title": "إف بي آي: أخطر المطلوبين",
+      "fixed_at": "2026-08-06T03:34:18.181422"
+    },
+    {
+      "tmdb_id": "265",
+      "file": "265.json",
+      "title": "Lili Marleen",
+      "fixed_at": "2026-08-06T03:34:41.555498"
+    },
+    {
+      "tmdb_id": "107",
+      "file": "107.json",
+      "title": "خطف",
+      "fixed_at": "2026-08-06T03:36:00.445048"
+    },
+    {
+      "tmdb_id": "546554",
+      "file": "546554.json",
+      "title": "أخرجوا السكاكين",
+      "fixed_at": "2026-08-06T03:36:14.639484"
+    },
+    {
+      "tmdb_id": "1010820",
+      "file": "1010820.json",
+      "title": "Groots Pursuit",
+      "fixed_at": "2026-08-06T03:36:33.304784"
+    },
+    {
+      "tmdb_id": "110181",
+      "file": "110181.json",
+      "title": "The God of War Dominates",
+      "fixed_at": "2026-08-06T03:36:49.979634"
+    },
+    {
+      "tmdb_id": "67324",
+      "file": "67324.json",
+      "title": "Crayon Shin-chan Spin-off",
+      "fixed_at": "2026-08-06T03:37:16.433158"
+    },
+    {
+      "tmdb_id": "522627",
+      "file": "522627.json",
+      "title": "السادة الأفاضل",
+      "fixed_at": "2026-08-06T03:38:56.130256"
+    },
+    {
+      "tmdb_id": "82",
+      "file": "82.json",
+      "title": "الضاحكون",
+      "fixed_at": "2026-08-06T03:39:09.162382"
+    },
+    {
+      "tmdb_id": "446893",
+      "file": "446893.json",
+      "title": "ترولز 2 جولة حول العالم",
+      "fixed_at": "2026-08-06T03:39:21.689623"
+    },
+    {
+      "tmdb_id": "1290821",
+      "file": "1290821.json",
+      "title": "مأوى",
+      "fixed_at": "2026-08-06T03:40:05.836072"
+    },
+    {
+      "tmdb_id": "4482",
+      "file": "4482.json",
+      "title": "Bewitched",
+      "fixed_at": "2026-08-06T03:40:22.491919"
     }
   ],
-  "last_updated": "2026-08-06T00:25:33.305392",
-  "total_fixed": 28
+  "last_updated": "2026-08-06T03:40:24.494650",
+  "total_fixed": 43
 }
