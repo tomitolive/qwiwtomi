@@ -521,8 +521,98 @@
       "file": "339846.json",
       "title": "حارس إنقاذ",
       "fixed_at": "2026-08-06T11:14:04.709853"
+    },
+    {
+      "tmdb_id": "1871",
+      "file": "1871.json",
+      "title": "EastEnders",
+      "fixed_at": "2026-08-06T13:03:35.868698"
+    },
+    {
+      "tmdb_id": "236235",
+      "file": "236235.json",
+      "title": "السادة الأفاضل",
+      "fixed_at": "2026-08-06T13:04:04.403199"
+    },
+    {
+      "tmdb_id": "24710",
+      "file": "24710.json",
+      "title": "الماسة الزرقاء",
+      "fixed_at": "2026-08-06T13:04:58.761932"
+    },
+    {
+      "tmdb_id": "95057",
+      "file": "95057.json",
+      "title": "سوبرمان ولويس",
+      "fixed_at": "2026-08-06T13:05:28.572210"
+    },
+    {
+      "tmdb_id": "200709",
+      "file": "200709.json",
+      "title": "البطل الضعيف - الصف ١",
+      "fixed_at": "2026-08-06T13:05:55.398254"
+    },
+    {
+      "tmdb_id": "1248832",
+      "file": "1248832.json",
+      "title": "Digger",
+      "fixed_at": "2026-08-06T13:06:26.337980"
+    },
+    {
+      "tmdb_id": "35790",
+      "file": "35790.json",
+      "title": "Cardcaptor Sakura",
+      "fixed_at": "2026-08-06T13:06:48.080841"
+    },
+    {
+      "tmdb_id": "36557",
+      "file": "36557.json",
+      "title": "كازينو رويال",
+      "fixed_at": "2026-08-06T13:07:20.428271"
+    },
+    {
+      "tmdb_id": "235685",
+      "file": "235685.json",
+      "title": "The Pendragon Cycle: Rise of the Merlin",
+      "fixed_at": "2026-08-06T13:08:11.167201"
+    },
+    {
+      "tmdb_id": "1641319",
+      "file": "1641319.json",
+      "title": "Sniper: No Nation",
+      "fixed_at": "2026-08-06T13:08:29.496858"
+    },
+    {
+      "tmdb_id": "246",
+      "file": "246.json",
+      "title": "Zatoichi",
+      "fixed_at": "2026-08-06T13:08:48.864594"
+    },
+    {
+      "tmdb_id": "166426",
+      "file": "166426.json",
+      "title": "قراصنة الكاريبي - الموتى لا يروون حكايات",
+      "fixed_at": "2026-08-06T13:09:21.946255"
+    },
+    {
+      "tmdb_id": "2912",
+      "file": "2912.json",
+      "title": "Jeopardy!",
+      "fixed_at": "2026-08-06T13:09:53.193447"
+    },
+    {
+      "tmdb_id": "86086",
+      "file": "86086.json",
+      "title": "37 Grad",
+      "fixed_at": "2026-08-06T13:11:20.111415"
+    },
+    {
+      "tmdb_id": "967998",
+      "file": "967998.json",
+      "title": "Conspirao Fatal",
+      "fixed_at": "2026-08-06T13:12:16.132448"
     }
   ],
-  "last_updated": "2026-08-06T11:14:08.978607",
-  "total_fixed": 87
+  "last_updated": "2026-08-06T13:12:18.135093",
+  "total_fixed": 102
 }

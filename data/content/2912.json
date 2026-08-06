@@ -4,14 +4,12 @@
   "title_ar": "Jeopardy!",
   "title_en": "Jeopardy!",
   "slug": "2912-jeopardy",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "مسلسل \"خطر!\" هو برنامج مسابقات أمريكي شهير، حيث يتنافس المتسابقون في اختبار معلوماتهم العامة. يُقدم البرنامج أدلة على شكل إجابات، ويجب على المتسابقين صياغة ردودهم في صورة أسئلة. استمتع بمشاهدة هذا العمل الممتع والمشوق، والذي يجمع بين الترفيه والمعرفة.",
   "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
   "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
   "release_date": "1984-09-10",
-  "vote_average": 6.8,
-  "vote_count": 155,
+  "vote_average": 6.9,
+  "vote_count": 160,
   "genres": [
     {
       "id": 10764,
@@ -23,25 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخاطر واللعب، يلعب اللاعبون الأبطال في لعبة jeopardy! مع قيمتها المادية والشخصية، يلعبون لكي يفوزوا بالمال والشرف، ولكن ما الذي ينتظرهم؟",
-    "desc_en": "In a world of risk and play, the champions play in Jeopardy! With their material and personal values, they play to win the money and prestige, but what awaits them?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في لعبة jeopardy!",
-    "seo_title_ar": "مشاهدة برنامج jeopardy! مترجم اون لاين - توميتو",
-    "keywords": "فيلم واقع, مشاهدة برنامج عائلي, Jeopardy! مترجم كامل, توميتو Jeopardy!, مشاهدة Jeopardy! 1984, أحداث Jeopardy! بالتفصيل, قصة مسلسل Jeopardy!",
-    "opinion": "هذه اللعبة هي واحدة من أكثر البرامج إثارة في تاريخ التلفزيون، مع قيمتها المادية والشخصية، يلعب اللاعبون الأبطال لكي يفوزوا بالمال والشرف، ولكن ما الذي ينتظرهم؟",
+    "intro": "استمتع بمشاهدة مسلسل Jeopardy! (1984) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "مسلسل \"خطر!\" هو برنامج مسابقات أمريكي شهير، حيث يتنافس المتسابقون في اختبار معلوماتهم العامة. يُقدم البرنامج أدلة على شكل إجابات، ويجب على المتسابقين صياغة ردودهم في صورة أسئلة. استمتع بمشاهدة هذا العمل الممتع والمشوق، والذي يجمع بين الترفيه والمعرفة.",
+    "desc_en": "Jeopardy! is America's beloved quiz show, where contestants test their general knowledge. With clues presented as answers, the game challenges players to phrase their responses as questions. Watch this exciting and informative series, Jeopardy!, for an engaging and entertaining experience.",
+    "seo_title_ar": "مشاهدة مسلسل خطر! Jeopardy! مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل خطر! Jeopardy!، البرنامج الأمريكي الشهير الذي يختبر معلوماتك العامة. مع أدلة مقدمة كإجابات، يجب على المتسابقين صياغة ردودهم في صورة",
+    "outro": "شاهد Jeopardy! الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مسلسل \"خطر!\" هو برنامج مسابقات ممتع ومشوق، يجمع بين الترفيه والمعرفة. إنه تجربة فريدة من نوعها، حيث يختبر المتسابقون معلوماتهم العامة بطريقة مبتكرة ومثيرة.",
+    "opinion_en": "Jeopardy! is an exciting and engaging quiz show that combines entertainment with knowledge. It's a unique experience, testing contestants' general knowledge in a fresh and thrilling way.",
     "faq": [
       {
-        "q": "ما هو هدف اللاعبين في لعبة jeopardy?",
-        "a": "لكي يفوزوا بالمال والشرف"
+        "q": "ما هو مسلسل \"خطر!\"؟",
+        "a": "مسلسل \"خطر!\" هو برنامج مسابقات أمريكي شهير، حيث يتنافس المتسابقون في اختبار معلوماتهم العامة.",
+        "q_en": "What is Jeopardy!?",
+        "a_en": "Jeopardy! is America's beloved quiz show, where contestants test their general knowledge."
       }
-    ]
+    ],
+    "keywords": "مسلسل, مسابقات, خطر!, Jeopardy!, معلومات عامة, ترفيه, معرفة, متسابقون, ترفيهي, مشوق, ممتع"
   },
   "fixed": true,
-  "first_air_date": "1984-09-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "93 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Stéphane Audran Jean Yanne Roger Rudel Antonio Passalia Mario Beccara"
+  "duration": "22 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Ken Jennings Johnny Gilbert",
+  "first_air_date": "1984-09-10"
 }
