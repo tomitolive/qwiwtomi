@@ -1,62 +1,53 @@
 {
   "id": 253,
-  "title": "Star Trek",
-  "title_ar": "Star Trek",
-  "title_en": "Star Trek",
-  "slug": "253-star-trek",
-  "overview": "استمتع بمشاهدة مسلسل Star Trek مترجم بجودة عالية.",
-  "poster_path": "/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
-  "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
-  "release_date": "1966-09-08",
-  "vote_average": 8.0,
-  "vote_count": 1508,
+  "title": "Live and Let Die",
+  "title_ar": "Live and Let Die",
+  "title_en": "Live and Let Die",
+  "slug": "253-live-and-let-die",
+  "overview": "فيلم \"عش ودع الموت\" هو مغامرة مثيرة من بطولة جيمس بوند، حيث يجد نفسه في مهمة خطيرة للتحقيق في مقتل عميل بريطاني في نيو أورلينز. سرعان ما يواجه بوند زعيم عصابة خطير يدعى السيد بيج. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+  "poster_path": "/39qkrjqMZs6utwNmihVImC3ghas.jpg",
+  "backdrop_path": "/hzmmXx6UeYQeylioNbliFKjSbV7.jpg",
+  "release_date": "1973-06-27",
+  "vote_average": 6.5,
+  "vote_count": 2330,
   "genres": [
     {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 12,
+      "name": "مغامرة"
     },
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Star Trek (1966) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "استمتع بمشاهدة مسلسل Star Trek مترجم بجودة عالية.",
-    "desc_en": "Space. The Final Frontier. The U.S.S. Enterprise embarks on a five year mission to explore the galaxy. The Enterprise is under the command of Captain James T. Kirk with First Officer Mr. Spock, from the planet Vulcan. With a determined crew, the Enterprise encounters Klingons, Romulans, time paradoxes, tribbles and genetic supermen led by Khan Noonian Singh. Their mission is to explore strange new worlds, to seek new life and new civilizations, and to boldly go where no man has gone before.",
-    "seo_title_ar": "مشاهدة مسلسل Star Trek مترجم - توميتو",
-    "meta_desc": "مشاهدة Star Trek مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Star Trek الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
-    "opinion_en": "A stunning  worth watching and exploring.",
+    "intro": "استمتع بمشاهدة فيلم Live and Let Die (1973) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "فيلم \"عش ودع الموت\" هو مغامرة مثيرة من بطولة جيمس بوند، حيث يجد نفسه في مهمة خطيرة للتحقيق في مقتل عميل بريطاني في نيو أورلينز. سرعان ما يواجه بوند زعيم عصابة خطير يدعى السيد بيج. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "desc_en": "In the action-packed \"Live and Let Die\", James Bond embarks on a thrilling adventure, investigating a mysterious murder in New Orleans. He soon finds himself entangled with the dangerous gangster Mr. Big.",
+    "seo_title_ar": "مشاهدة فيلم عش ودع الموت Live Let Die مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم عش ودع الموت (Live Let Die) بجودة عالية وترجمة احترافية. شاهد جيمس بوند وهو يحقق في مقتل عميل بريطاني في نيو أورلينز، ويواجه زعيم عص",
+    "outro": "شاهد Live and Let Die الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"عش ودع الموت\" يقدم مزيجًا رائعًا من الإثارة والحركة، مع أداء متميز من جيمس بوند. إنه تجربة سينمائية ممتعة ومثيرة.",
+    "opinion_en": "\"Live and Let Die\" is an exhilarating adventure with James Bond, offering a thrilling ride and a captivating story. A must-watch for Bond fans!",
     "faq": [
       {
-        "q": "كيف يمكنني مشاهدة مسلسل Star Trek?",
-        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
-        "q_en": "How can I watch Star Trek?",
-        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
-      },
-      {
-        "q": "ما هو تصنيف مسلسل Star Trek?",
-        "a": "يندرج العمل تحت تصنيف خيال علمي وفانتازيا, دراما.",
-        "q_en": "What is the genre of Star Trek?",
-        "a_en": "Answer about Star Trek"
-      },
-      {
-        "q": "ما هي قصة مسلسل Star Trek?",
-        "a": "إجابة عن Star Trek",
-        "q_en": "What is the story of Star Trek?",
-        "a_en": "Space. The Final Frontier. The U.S.S. Enterprise embarks on a five year mission to explore the galaxy. The Enterprise is under the command of Captain James T. Kirk with First Officer Mr. Spock, from t..."
+        "q": "هل فيلم \"عش ودع الموت\" مناسب لجميع الأعمار؟",
+        "a": "لا، الفيلم مخصص للبالغين فقط، حيث يحتوي على مشاهد عنف ومشاهد غير مناسبة للأطفال.",
+        "q_en": "Is \"Live and Let Die\" suitable for all ages?",
+        "a_en": "No, the film is intended for mature audiences only due to its violent and adult-oriented content."
       }
     ],
-    "keywords": "Star Trek مترجم, Star Trek مترجم, مشاهدة Star Trek, Star Trek"
+    "keywords": "عش ودع الموت, Live Let Die, جيمس بوند, مغامرة, حركة, إثارة, نيو أورلينز, جودة عالية, ترجمة احترافية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "50 دقيقة",
+  "duration": "121 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "William Shatner Leonard Nimoy DeForest Kelley James Doohan Walter Koenig George Takei Nichelle Nichols",
-  "first_air_date": "1966-09-08"
+  "country": "المملكة المتحدة",
+  "cast": "Roger Moore Yaphet Kotto Jane Seymour Clifton James Julius Harris Geoffrey Holder David Hedison Gloria Hendry"
 }

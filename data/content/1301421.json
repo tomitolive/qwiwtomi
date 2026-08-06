@@ -1,15 +1,15 @@
 {
   "id": 1301421,
-  "title": "الأغنام المحققين",
-  "title_ar": "الأغنام المحققين",
+  "title": "المحققون الخراف",
+  "title_ar": "المحققون الخراف",
   "title_en": "The Sheep Detectives",
   "slug": "1301421-the-sheep-detectives",
-  "overview": "جورج هاردي راعي غنم يقرأ روايات بوليسية لخرافه المحبوبة كل ليلة، ظنًّا منه أنها مستحيل أن تفهم ما يقال. ولكن عندما يقع حادث غامض يقلب الحياة في المزرعة رأسًا على عقب، تدرك الخراف أن عليها أن تتحول إلى محققين. وبينما تتبع الخيوط وتحقق مع المشتبه بهم من البشر، تثبت هذه الخراف أنه حتى الغنم يمكنها أن تكون بارعة في حل الجرائم",
-  "poster_path": "/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+  "overview": "عندما يُعثر على مربّيهم المحبوب ميتاً في ظروف غامضة، يستنتج قطيع من الأغنام أنه سيتعين عليهم حل جريمة القتل بأنفسهم، حتى لو كان ذلك يعني مغادرة مرعاهم لأول مرة ومواجهة حقيقة أن العالم البشري ليس بالبساطة التي يبدو عليها في الكتب.",
+  "poster_path": "/2hqxC1MvuQFAv8LdLppNuUHBz1i.jpg",
   "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
   "release_date": "2026-04-30",
-  "vote_average": 7.6,
-  "vote_count": 106,
+  "vote_average": 7.9,
+  "vote_count": 1315,
   "genres": [
     {
       "id": 35,
@@ -25,28 +25,23 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تخيلت يومًا أن تكون الخراف أذكى مما تبدو عليه؟ هل فكرت في قدرتها على حل الألغاز والتحقيق في الجرائم؟",
-    "desc_ar": "في عالم الرعاية، يقرأ جورج هاردي روايات بوليسية كل ليلة، ظنًّا أنها مستحيل أن تفهم ما يقال. ولكن عندما يقع حادث غامض يقلب الحياة في المزرعة رأسًا على عقب، تدرك الخراف أن عليها أن تتحول إلى محققين. وبينما تتبع الخيوط وتحقق مع المشتبه بهم من البشر، تثبت هذه الخراف أنها يمكنها أن تكون بارعة في حل الجرائم.",
-    "seo_title_ar": "مشاهدة فيلم الأغنام المحققين مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الأغنام المحققين مترجم اون لاين - توميتو",
-    "outro": "إذا كنت تبحث عن فيلم عائلي ممتع ومختلف، فإن الأغنام المحققين هو اختيارك المثالي. استعد لمغامرة مليئة بالضحك والتشويق، حيث ستكتشف أن الذكاء لا يعرف حدودًا، حتى في عالم الخراف.",
-    "opinion": "هذا الفيلم هو مزيج من الكوميديا والغموض، وهو يلقي باللوم على القاعدة القديمة التي تقول أن الغنم لا يمكن أن يكون بارعا في حل الجرائم. ولكن في النهاية، تثبت هذه الخراف أنها يمكنها أن تكون بارعة في حل الجرائم.",
+    "intro": "استمتع بمشاهدة فيلم المحققون الخراف (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يغوص فيلم \"المحققون الخراف\" في مغامرة شيقة حيث يجد قطيع من الأغنام نفسه في مهمة لحل لغز جريمة قتل مربيهم المحبوب. وبينما يغادرون مرعاهم لأول مرة، يكتشفون أن العالم البشري أكثر تعقيدًا مما يبدو في الكتب. \"المحققون الخراف\"، فيلم عائلي كوميدي وممتع، يجمع بين الفكاهة والغموض في رحلة مثيرة.",
+    "desc_en": "In \"The Sheep Detectives\", a flock of sheep embarks on a thrilling journey to solve the mysterious death of their beloved shepherd. As they venture beyond their pasture for the first time, they uncover the complexities of the human world. This family-friendly comedy-mystery film offers a delightful blend of humor and intrigue.",
+    "seo_title_ar": "مشاهدة فيلم المحققون الخراف The Sheep Detectives مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم المحققون الخراف، حيث تتحدى الأغنام المعتادة على حياة المرعى هدوءها وتتحول إلى محققين. فيلم عائلي كوميدي وممتع، مليء بالمغامرة والغموض",
+    "outro": "شاهد المحققون الخراف الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"المحققون الخراف\" يقدم تجربة سينمائية فريدة وممتعة، حيث يجمع بين الكوميديا والغموض بشكل رائع. إنه فيلم عائلي ممتع ومليء بالمفاجآت، ويتركك تبتسم طوال الوقت.",
+    "opinion_en": "\"The Sheep Detectives\" is a delightful cinematic experience, blending comedy and mystery seamlessly. It's a fun family film that keeps you engaged and smiling throughout.",
     "faq": [
       {
-        "q": "ما هو فيلم الأغنام المحققين؟",
-        "a": "هو فيلم كوميديا عائلي غموض يلقي باللوم على القاعدة القديمة التي تقول أن الغنم لا يمكن أن يكون بارعا في حل الجرائم."
-      },
-      {
-        "q": "ما هو موضوع فيلم الأغنام المحققين؟",
-        "a": "هو فيلم يلقي باللوم على القاعدة القديمة التي تقول أن الغنم لا يمكن أن يكون بارعا في حل الجرائم."
-      },
-      {
-        "q": "ما هو نوع فيلم الأغنام المحققين؟",
-        "a": "هو فيلم كوميديا عائلي غموض"
+        "q": "هل فيلم \"المحققون الخراف\" مناسب للعائلات؟",
+        "a": "نعم، إنه فيلم عائلي رائع، مليء بالكوميديا والغموض، مناسب لجميع أفراد العائلة.",
+        "q_en": "Is \"The Sheep Detectives\" suitable for families?",
+        "a_en": "Absolutely! It's a wonderful family film, packed with comedy and mystery, suitable for all ages."
       }
     ],
-    "keywords": "The Sheep Detectives, فيلم الأغنام المحققين مترجم, مشاهدة فيلم كوميديا عائلي غموض, توميتو الأغنام المحققين, مشاهدة الأغنام المحققين 2026, قصة فيلم الأغنام المحققين, الأغنام المحققين مترجم, أحداث الأغنام المحققين بالتفصيل",
-    "desc_en": "In the world of shepherding, George Hardie reads detective stories every night, thinking it's impossible to understand what's being said. But when a mysterious incident turns the farm's life upside down, the sheep realize they must turn into detectives. As they follow the threads and investigate with the human suspects, these sheep prove they can be brilliant in solving crimes."
+    "keywords": "المحققون الخراف, The Sheep Detectives, فيلم, كوميديا, عائلي, غموض, مغامرة, جريمة, أغنام, تحقيقات"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "109 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Hugh Jackman Julia Louis-Dreyfus Emma Thompson Nicholas Braun Nicholas Galitzine"
+  "cast": "Hugh Jackman Nicholas Braun Nicholas Galitzine Molly Gordon Julia Louis-Dreyfus Bryan Cranston Chris O'Dowd Regina Hall"
 }

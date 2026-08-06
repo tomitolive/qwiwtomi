@@ -4,14 +4,12 @@
   "title_ar": "Dancing with the Stars",
   "title_en": "Dancing with the Stars",
   "slug": "1508-dancing-with-the-stars",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "انطلق في رحلة ممتعة مع مسلسل \"الرقص مع النجوم\"، حيث يتنافس المشاهير في أداء رقصات استعراضية مبهرة. يُحكم على أدائهم من قبل خبراء رقص محترفين، بينما يصوت المشاهدون لاختيار الفائز. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
   "poster_path": "/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
   "backdrop_path": "/zx574JjeDSqd8gpkEi9AeU75adK.jpg",
   "release_date": "2005-06-01",
   "vote_average": 6.1,
-  "vote_count": 130,
+  "vote_count": 136,
   "genres": [
     {
       "id": 10764,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرقص والغناء، يلتقي الأصدقاء والخصوم في مسابقة الرقص مع النجوم، حيث يتنافسون في كل حلقة ليكونوا الأفضل في المجموعة. سوف نرى منافسات رائعة، وغنائيات رائعة، و رقص رائع، في هذه المسابقة التي ستشعل مشاعرك!",
-    "desc_en": "In a world of dance and song, friends and foes come together in a competition with the stars, where they compete in each episode to be the best in the group. We will see great rivalries, great songs, and great dance, in this competition that will ignite your emotions!",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسابقة الرقص مع النجوم!",
-    "seo_title_ar": "مشاهدة فيلم رقص مع النجوم مترجم اون لاين - توميتو",
-    "keywords": "فيلم رقص مع النجوم مترجم, مشاهدة فيلم رقص مع النجوم, مشاهدة Dancing with the Stars 2005, قصة مسلسل Dancing with the Stars, توميتو Dancing with the Stars, Dancing with the Stars مترجم كامل, أحداث Dancing with the Stars بالتفصيل",
-    "opinion": "هذه المسابقة هي واحدة من أفضل ما شاهدناه في السنوات الأخيرة، حيث تجمع بين الرقص والغناء والتشويق، مما يجعلها مسابقة رائعة للاستمتاع!",
+    "intro": "استمتع بمشاهدة مسلسل Dancing with the Stars (2005) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "انطلق في رحلة ممتعة مع مسلسل \"الرقص مع النجوم\"، حيث يتنافس المشاهير في أداء رقصات استعراضية مبهرة. يُحكم على أدائهم من قبل خبراء رقص محترفين، بينما يصوت المشاهدون لاختيار الفائز. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "desc_en": "Dancing with the Stars is a captivating series that showcases celebrities performing choreographed dance routines. Judged by ballroom experts and voted on by viewers, it's a thrilling competition. Watch as they battle it out for the Mirrorball Trophy.",
+    "seo_title_ar": "مشاهدة مسلسل الرقص مع النجوم - Dancing Stars مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل الرقص مع النجوم - Dancing Stars، حيث يتنافس المشاهير في رقصات استعراضية ممتعة. تابع الحلقات بجودة عالية وترجمة احترافية، واكتشف من",
+    "outro": "شاهد Dancing with the Stars الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مسلسل \"الرقص مع النجوم\" يجمع بين الإثارة والمتعة، حيث يُظهر مواهب المشاهير في عالم الرقص. إنه برنامج ترفيهي ممتع ومشوق، يناسب جميع أفراد العائلة.",
+    "opinion_en": "Dancing with the Stars is a captivating show that showcases the hidden talents of celebrities. It's an entertaining and thrilling program, perfect for family viewing.",
     "faq": [
       {
-        "q": "ما هو نوع مسابقة الرقص مع النجوم؟",
-        "a": "هي مسابقة واقعية حيث يتنافسون المشاركون في كل حلقة ليكونوا الأفضل في المجموعة."
-      },
-      {
-        "q": "ما هي المجموعات في مسابقة الرقص مع النجوم؟",
-        "a": "هناك العديد من المجموعات في المسابقة، كل مجموعة تتنافس ضد الأخرى في كل حلقة."
-      },
-      {
-        "q": "ما هو الهدف من مسابقة الرقص مع النجوم؟",
-        "a": "الهدف هو أن يصبح المشاركون الأفضل في المجموعة، حيث سوف يفوز المجموعة التي تتصدر الترتيب في النهاية."
+        "q": "ما هو مسلسل الرقص مع النجوم؟",
+        "a": "مسلسل الرقص مع النجوم هو برنامج مسابقات ترفيهي، حيث يتنافس المشاهير في أداء رقصات استعراضية أمام لجنة تحكيم من خبراء الرقص.",
+        "q_en": "What is Dancing with the Stars?",
+        "a_en": "Dancing with the Stars is an entertaining competition show where celebrities perform choreographed dances and are judged by ballroom experts."
       }
-    ]
+    ],
+    "keywords": "الرقص مع النجوم, Dancing Stars, مسلسل, مسابقات, رقص, مشاهير, عائلي, واقعي, ترجمة, جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2005-06-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "",
+  "first_air_date": "2005-06-01"
 }

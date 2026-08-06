@@ -257,8 +257,98 @@
       "file": "4482.json",
       "title": "Bewitched",
       "fixed_at": "2026-08-06T03:40:22.491919"
+    },
+    {
+      "tmdb_id": "338803",
+      "file": "338803.json",
+      "title": "The Treacherous",
+      "fixed_at": "2026-08-06T06:14:14.704391"
+    },
+    {
+      "tmdb_id": "308014",
+      "file": "308014.json",
+      "title": "برلين ولوحة ليوناردو دا فينشي",
+      "fixed_at": "2026-08-06T06:14:34.836478"
+    },
+    {
+      "tmdb_id": "79481",
+      "file": "79481.json",
+      "title": "Fights Break Sphere",
+      "fixed_at": "2026-08-06T06:15:02.838340"
+    },
+    {
+      "tmdb_id": "949838",
+      "file": "949838.json",
+      "title": "72 ساعة",
+      "fixed_at": "2026-08-06T06:15:49.740479"
+    },
+    {
+      "tmdb_id": "60728",
+      "file": "60728.json",
+      "title": "كيل لا كيل kill la kill",
+      "fixed_at": "2026-08-06T06:16:13.831176"
+    },
+    {
+      "tmdb_id": "1380316",
+      "file": "1380316.json",
+      "title": "Is God Is",
+      "fixed_at": "2026-08-06T06:17:04.296318"
+    },
+    {
+      "tmdb_id": "72750",
+      "file": "72750.json",
+      "title": "Killing Eve",
+      "fixed_at": "2026-08-06T06:17:54.399982"
+    },
+    {
+      "tmdb_id": "253",
+      "file": "253.json",
+      "title": "Star Trek",
+      "fixed_at": "2026-08-06T06:18:10.418465"
+    },
+    {
+      "tmdb_id": "82675",
+      "file": "82675.json",
+      "title": "Taken 2",
+      "fixed_at": "2026-08-06T06:18:28.233242"
+    },
+    {
+      "tmdb_id": "1301421",
+      "file": "1301421.json",
+      "title": "الأغنام المحققين",
+      "fixed_at": "2026-08-06T06:18:47.641257"
+    },
+    {
+      "tmdb_id": "637649",
+      "file": "637649.json",
+      "title": "غضب الرجل",
+      "fixed_at": "2026-08-06T06:19:05.063085"
+    },
+    {
+      "tmdb_id": "1508",
+      "file": "1508.json",
+      "title": "Dancing with the Stars",
+      "fixed_at": "2026-08-06T06:20:28.268352"
+    },
+    {
+      "tmdb_id": "475557",
+      "file": "475557.json",
+      "title": "جوكر",
+      "fixed_at": "2026-08-06T06:20:49.909327"
+    },
+    {
+      "tmdb_id": "291947",
+      "file": "291947.json",
+      "title": "Inseparvel",
+      "fixed_at": "2026-08-06T06:21:52.242795"
+    },
+    {
+      "tmdb_id": "39852",
+      "file": "39852.json",
+      "title": "The Sinner",
+      "fixed_at": "2026-08-06T06:22:12.307100"
     }
   ],
-  "last_updated": "2026-08-06T03:40:24.494650",
-  "total_fixed": 43
+  "last_updated": "2026-08-06T06:22:14.309883",
+  "total_fixed": 58
 }
