@@ -145,6 +145,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/199001-my-life-with-the-walter-boys</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/199318-bad-sisters</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/277439-cape-fear</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

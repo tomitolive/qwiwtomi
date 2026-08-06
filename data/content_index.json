@@ -66636,5 +66636,49 @@
     ],
     "timestamp": 1785984023,
     "fixed": true
+  },
+  {
+    "title": "حياتي مع أبناء عائلة والتر / My Life with the Walter Boys",
+    "title_ar": "حياتي مع أبناء عائلة والتر",
+    "title_en": "My Life with the Walter Boys",
+    "slug": "199001-my-life-with-the-walter-boys",
+    "folder": "tv",
+    "poster": "/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+    "rating": 7.8,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 199001,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1786005523,
+    "fixed": true
+  },
+  {
+    "title": "المؤسس أورهان / Founder: Orhan",
+    "title_ar": "المؤسس أورهان",
+    "title_en": "Founder: Orhan",
+    "slug": "302658-founder-orhan",
+    "folder": "tv",
+    "poster": "/t/p/w500/377bu6HOkoVdZFasjnmehrCIOgA.jpg",
+    "rating": 8.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 302658,
+    "genre_ids": [
+      18,
+      10759,
+      10768
+    ],
+    "genres": [
+      "دراما",
+      "حركة ومغامرة",
+      "حرب وسياسة"
+    ],
+    "timestamp": 1786005539,
+    "fixed": true
   }
 ]
