@@ -695,8 +695,80 @@
       "file": "97546.json",
       "title": "Ted Lasso",
       "fixed_at": "2026-08-06T15:35:37.263948"
+    },
+    {
+      "tmdb_id": "39514",
+      "file": "39514.json",
+      "title": "قمة الخطورة",
+      "fixed_at": "2026-08-06T22:14:57.388166"
+    },
+    {
+      "tmdb_id": "950396",
+      "file": "950396.json",
+      "title": "The Gorge",
+      "fixed_at": "2026-08-06T22:16:37.872348"
+    },
+    {
+      "tmdb_id": "51817",
+      "file": "51817.json",
+      "title": "سلاحف النينجا",
+      "fixed_at": "2026-08-06T22:18:17.563070"
+    },
+    {
+      "tmdb_id": "1304313",
+      "file": "1304313.json",
+      "title": "المومياء",
+      "fixed_at": "2026-08-06T22:19:57.331099"
+    },
+    {
+      "tmdb_id": "74225",
+      "file": "74225.json",
+      "title": "GOING SEVENTEEN",
+      "fixed_at": "2026-08-06T22:21:26.590440"
+    },
+    {
+      "tmdb_id": "346364",
+      "file": "346364.json",
+      "title": "الشيء",
+      "fixed_at": "2026-08-06T22:22:19.084361"
+    },
+    {
+      "tmdb_id": "653851",
+      "file": "653851.json",
+      "title": "الولاء",
+      "fixed_at": "2026-08-06T22:22:39.341699"
+    },
+    {
+      "tmdb_id": "110070",
+      "file": "110070.json",
+      "title": "Horimiya",
+      "fixed_at": "2026-08-06T22:23:07.018897"
+    },
+    {
+      "tmdb_id": "399366",
+      "file": "399366.json",
+      "title": "El secreto de Marrowbone",
+      "fixed_at": "2026-08-06T22:23:28.417934"
+    },
+    {
+      "tmdb_id": "4583",
+      "file": "4583.json",
+      "title": "Derrick",
+      "fixed_at": "2026-08-06T22:24:00.571042"
+    },
+    {
+      "tmdb_id": "61599",
+      "file": "61599.json",
+      "title": "The Librarians",
+      "fixed_at": "2026-08-06T22:24:23.891696"
+    },
+    {
+      "tmdb_id": "1930",
+      "file": "1930.json",
+      "title": "The Beverly Hillbillies",
+      "fixed_at": "2026-08-06T22:24:52.078376"
     }
   ],
-  "last_updated": "2026-08-06T15:35:39.266695",
-  "total_fixed": 116
+  "last_updated": "2026-08-06T22:24:54.081045",
+  "total_fixed": 128
 }

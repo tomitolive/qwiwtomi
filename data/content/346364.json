@@ -4,12 +4,12 @@
   "title_ar": "الشيء",
   "title_en": "It",
   "slug": "346364-it",
-  "overview": "في مدينة (ديري)، الأطفال المحليين يختفون واحدًا تلو الآخر، تاركين خلفهم أجساد ممزقة أو أشلاء.. بينما في مكان معروف بإسم (The Barrens) تتكون مجموعة من سبع أطفال من خلال لقاءات مرعبة وعجيبة مع مهرج يُدعى (بيني وايز)، ويظل لـ(بيل دينيبروه) ثأر شخصي مع هذا المهرج.. بعد سبعة وعشرين عامًا من لقاءهم مع بيني وايز، يقوم (نادي الخاسرين) بتجميع أعضائه واقتراضهم من حيواتهم الناجحة وأعمالهم لأن (IT) كما لقبونه، عاد من جديد وعادت معه ظاهرة اختفاء الأطفال.",
-  "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+  "overview": "في بلدة صغيرة بولاية (مين)، يواجه سبعة أطفال يُعرفون باسم نادي الخاسرين مشكلات الحياة اليومية، وتنمّر زملائهم، إلى جانب كيان مرعب يتخذ هيئة مهرج يُدعى \"بيني وايز\".",
+  "poster_path": "/f8Dw77vu4sRJ0rie0UBhOmrhA0L.jpg",
   "backdrop_path": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
   "release_date": "2017-09-06",
   "vote_average": 7.2,
-  "vote_count": 20298,
+  "vote_count": 20508,
   "genres": [
     {
       "id": 27,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة ديري، الأطفال المحليين يختفون واحدًا تلو الآخر، تاركين خلفهم أجساد ممزقة أو أشلاء. بينما في مكان معروف بإسم The Barrens تتكون مجموعة من سبع أطفال من خلال لقاءات مرعبة وعجيبة مع مهرج يُدعى بيني وايز، ويظل لـ بيل دينيبروه ثأر شخصي مع هذا المهرج. في النهاية، يكتشف الأطفال أنهم جزء من شيء أكبر من أنفسهم، وأنهم جزء من قصة إثارة ورهيبة.",
-    "desc_en": "In Derry, local children keep disappearing one by one, leaving behind mangled bodies or severed limbs. Meanwhile, in a place known as The Barrens, a group of seven children form through terrifying and wondrous encounters with a clown called Pennywise, and Bill Denebrough remains personally haunted by this clown. In the end, the children discover that they are part of something bigger than themselves, that they are part of a thrilling and frightening story.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الشيء مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم الشيء مترجم اون لاين - توميتو",
-    "keywords": "It, فيلم الشيء مترجم, مشاهدة فيلم الشيء, توميتو الشيء, أحداث الشيء بالتفصيل, مشاهدة الشيء 2017, الشيء مترجم, قصة فيلم الشيء",
-    "opinion": "هو فيلم رعب قوي، مليء بالعديد من الأحداث الجريئة والشعور بالخوف. الفيلم يُظهر كيف يمكن أن يُحول المهرج بيني وايز الأطفال إلى شيء أكبر من أنفسهم، ويُظهر كيف يمكن أن يُحولهم إلى قصة إثارة ورهيبة.",
+    "intro": "استمتع بمشاهدة فيلم الشيء (2017) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "في فيلم \"الشيء\" المثير، يواجه سبعة أطفال في بلدة صغيرة بولاية مين كابوسًا مرعبًا يتمثل في كيان شرير يتخذ هيئة مهرج يدعى بيني وايز. يتعين على نادي الخاسرين مواجهة مخاوفهم والتصدي لهذا التهديد الغامض. هل سينجحون في التغلب على مخاوفهم؟",
+    "desc_en": "It is a thrilling film that follows the journey of seven children in a small town in Maine as they confront a terrifying entity that takes the form of a clown named Pennywise. The Losers Club must overcome their fears and battle this mysterious threat. Will they be able to defeat the evil that haunts them?",
+    "seo_title_ar": "مشاهدة فيلم الشيء It مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الشيء المثير، حيث يواجه سبعة أطفال في بلدة صغيرة بولاية مين كيانا شريرا يتخذ هيئة مهرج مرعب. هل سينجح نادي الخاسرين في التغلب على م",
+    "outro": "شاهد الشيء الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"الشيء\" هو تجربة مرعبة ومثيرة، حيث يبقيك المخرج في حالة من التوتر طوال الوقت. أداء الممثلين كان رائعًا، خاصةً في تجسيد شخصيات الأطفال.",
+    "opinion_en": "It is a terrifying and thrilling experience, with the director keeping you on the edge of your seat throughout. The cast's performance, especially the child actors, is exceptional.",
     "faq": [
       {
-        "q": "ما هو الشيء؟",
-        "a": "هو مهرج يُدعى بيني وايز، الذي يُحول الأطفال إلى شيء أكبر من أنفسهم."
-      },
-      {
-        "q": "ما هو مكان The Barrens؟",
-        "a": "هو مكان يُدعى The Barrens، حيث يُحول الأطفال إلى شيء أكبر من أنفسهم."
-      },
-      {
-        "q": "ما هو الشيء الذي يُحول الأطفال؟",
-        "a": "هو الشيء الذي يُحول الأطفال إلى قصة إثارة ورهيبة، ويُحولهم إلى شيء أكبر من أنفسهم."
+        "q": "ما هو فيلم \"الشيء\"؟",
+        "a": "فيلم \"الشيء\" هو فيلم رعب وإثارة مبني على رواية شهيرة تحمل نفس الاسم. تدور أحداثه حول كيان شرير يتخذ هيئة مهرج يدعى بيني وايز.",
+        "q_en": "What is the film \"It\" about?",
+        "a_en": "The film \"It\" is a horror and thriller movie based on a popular novel of the same name. It follows a terrifying entity that takes the form of a clown named Pennywise."
       }
-    ]
+    ],
+    "keywords": "الشيء, It, فيلم رعب, مهرج, بيني وايز, نادي الخاسرين, كيان شرير, إثارة, دراما, توميتو"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "135 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jaeden Martell Jeremy Ray Taylor Sophia Lillis Finn Wolfhard Chosen Jacobs"
+  "cast": "Jaeden Martell Jeremy Ray Taylor Sophia Lillis Finn Wolfhard Chosen Jacobs Jack Dylan Grazer Wyatt Oleff Bill Skarsgård"
 }

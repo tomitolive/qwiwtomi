@@ -9,7 +9,7 @@
   "backdrop_path": "/tY36rkGlREg5m9CaguckR8jZCye.jpg",
   "release_date": "2022-11-23",
   "vote_average": 7.1,
-  "vote_count": 821,
+  "vote_count": 840,
   "genres": [
     {
       "id": 10752,
@@ -20,31 +20,28 @@
       "name": "دراما"
     },
     {
-      "id": 28,
-      "name": "حركة"
+      "id": 36,
+      "name": "تاريخ"
     }
   ],
   "ai_content": {
-    "desc_ar": "في ظل الحرب الكورية، يلتقي اثنان من نخبة الطيارين المقاتلين في البحرية الأمريكية، الذين يخوضون معركة حياة أو موت في السماء. من خلال قصة رائعة، نرى كيف يخدمان قوامهم البشري، ويقدمون تضحياتهم البطولية، ليحفظوا وطنهم، ويحافظوا على إنماءهم.",
-    "desc_en": "In the midst of the Korean War, two elite fighter pilots in the US Navy, engage in a battle of life and death in the skies. Through a remarkable story, we see how they demonstrate their humanity, make sacrifices, and preserve their homeland.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الولاء مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم الولاء مترجم اون لاين - توميتو",
-    "keywords": "Devotion, فيلم الولاء مترجم, مشاهدة فيلم الولاء, الولاء مترجم, أحداث الولاء بالتفصيل, مشاهدة الولاء 2022, توميتو الولاء, قصة فيلم الولاء",
-    "opinion": "فيلم الولاء هو فيلم رائع، يلقي الضوء على القوة والبطولة والوفاء. يلقي الضوء على القوة والبطولة والوفاء.",
+    "intro": "استمتع بمشاهدة فيلم الولاء (2022) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "فيلم \"الولاء\"، الملحمة الجوية الحربية التي تستند إلى الكتاب الأكثر مبيعًا، تعرض القصة الحقيقية المروعة لطيارين مقاتلين في البحرية الأمريكية خلال الحرب الكورية. \"Devotion\" يسلط الضوء على التضحيات البطولية التي قام بها هذان الطياران، والتي جعلتهما في نهاية المطاف أشهر رجال البحرية.",
+    "desc_en": "Devotion, the gripping true story of elite US Navy pilots during the Korean War. This film showcases their heroic sacrifices, ultimately earning them legendary status within the Navy.",
+    "seo_title_ar": "مشاهدة فيلم الولاء Devotion مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الولاء (Devotion) الذي يسلط الضوء على التضحيات البطولية لطيارين في البحرية الأمريكية خلال الحرب الكورية. فيلم حربي مثير يستند إلى قصة",
+    "outro": "شاهد الولاء الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"الولاء\" (Devotion) يقدم تجربة مشاهدة مثيرة ومؤثرة، حيث يسلط الضوء على بطولة الطيارين في الحرب الكورية. إنه عمل ملهم ومؤثر.",
+    "opinion_en": "Devotion is a gripping and inspiring film, showcasing the heroism of US Navy pilots during the Korean War. A must-watch for fans of war dramas.",
     "faq": [
       {
-        "q": "ما هو فيلم الولاء؟",
-        "a": "فيلم الولاء هو فيلم رائع يلقي الضوء على القوة والبطولة والوفاء."
-      },
-      {
-        "q": "ما هو نوع فيلم الولاء؟",
-        "a": "فيلم الولاء هو فيلم حربي درامي"
-      },
-      {
-        "q": "ما هو مخرج فيلم الولاء؟",
-        "a": "لم يذكر مخرج الفيلم"
+        "q": "ما هو موضوع فيلم الولاء؟",
+        "a": "فيلم الولاء يتناول قصة حقيقية لطيارين في البحرية الأمريكية خلال الحرب الكورية، ويركز على تضحياتهم البطولية.",
+        "q_en": "What is the main theme of Devotion?",
+        "a_en": "Devotion tells the true story of US Navy pilots during the Korean War, highlighting their heroic sacrifices."
       }
-    ]
+    ],
+    "keywords": "الولاء, Devotion, فيلم حربي, طيارين, الحرب الكورية, تضحيات, ملحمة جوية, البحرية الأمريكية, قصة حقيقية, بطولة, برنامج الولاء, الولاء والبراء, نقاط الولاء, برامج الولاء, برنامج الولاء طيران الرياض, الولاء سفير, برنامج الولاء سفير, معنى الولاء, شركة الولاء, برنامج الولاء سفير طيران الرياض"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "139 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jonathan Majors Glen Powell Christina Jackson Thomas Sadoski Daren Kagasoff"
+  "cast": "Jonathan Majors Glen Powell Christina Jackson Thomas Sadoski Daren Kagasoff Joe Jonas Spencer Neville Nick Hargrove"
 }

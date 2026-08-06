@@ -1,54 +1,40 @@
 {
   "id": 61599,
-  "title": "The Librarians",
-  "title_ar": "The Librarians",
-  "title_en": "The Librarians",
-  "slug": "61599-the-librarians",
-  "overview": "تابع مغامرات أمناء المكتبات في مسلسل \"أمناء المكتبات\"، حيث يخوضون مغامرات مثيرة لحماية الآثار القديمة الغامضة. مستوحى من سلسلة أفلام \"The Librarian\".",
-  "poster_path": "/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-  "backdrop_path": "/1EBMUCxPjGQneeyshurFBpqXVL9.jpg",
-  "release_date": "2014-12-07",
-  "vote_average": 7.2,
-  "vote_count": 536,
-  "genres": [
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
-    },
-    {
-      "id": 35,
-      "name": "كوميديا"
-    }
-  ],
+  "title": "Asian Eyes",
+  "title_ar": "Asian Eyes",
+  "title_en": "Asian Eyes",
+  "slug": "61599-asian-eyes",
+  "overview": "عيون آسيوية: فيلم يسلط الضوء على الجمال الآسيوي الساحر. تدور أحداثه حول مجموعة من النساء الآسيويات الجميلات، لندن كيز، جيسيكا بانكوك، ميا ليلاني، تايلور فيكسن، كيا تروبي وبيتي هانا، اللواتي يمتلكن نظرات آسيوية جاذبة قادرة على إغواء أي رجل. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+  "poster_path": "/va8jgakBOpYWmdbZDepM6OKneTk.jpg",
+  "backdrop_path": null,
+  "release_date": "2010-04-26",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "genres": [],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Librarians (2014) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تابع مغامرات أمناء المكتبات في مسلسل \"أمناء المكتبات\"، حيث يخوضون مغامرات مثيرة لحماية الآثار القديمة الغامضة. مستوحى من سلسلة أفلام \"The Librarian\".",
-    "desc_en": "Embark on thrilling adventures with \"The Librarians\" series. A group of librarians embark on a quest to protect mysterious ancient artifacts, inspired by the \"The Librarian\" movie series.",
-    "seo_title_ar": "مشاهدة مسلسل أمناء المكتبات - The Librarians مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل أمناء المكتبات - The Librarians، مغامرات مثيرة لأمناء المكتبات لحماية الآثار القديمة. مستوحى من أفلام The Librarian.",
-    "outro": "شاهد The Librarians الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل أمناء المكتبات - The Librarians يقدم مزيجًا رائعًا من الحركة والمغامرة والدراما الكوميدية، ويأخذ المشاهدين في رحلة شيقة وممتعة.",
-    "opinion_en": "The Librarians series offers a fantastic blend of action, adventure, and comedic drama, taking viewers on an exciting and entertaining journey.",
+    "intro": "استمتع بمشاهدة فيلم Asian Eyes (2010) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "عيون آسيوية: فيلم يسلط الضوء على الجمال الآسيوي الساحر. تدور أحداثه حول مجموعة من النساء الآسيويات الجميلات، لندن كيز، جيسيكا بانكوك، ميا ليلاني، تايلور فيكسن، كيا تروبي وبيتي هانا، اللواتي يمتلكن نظرات آسيوية جاذبة قادرة على إغواء أي رجل. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "desc_en": "Asian Eyes: A film showcasing the captivating Asian beauty. It follows the story of London Keyes, Jessica Bangkok, Mia Lelani, Taylor Vixen, Kya Tropic, and Beti Hana, whose Asian eyes seduce and get them whatever they desire. Watch this film in high quality with professional subtitles, ad-free.",
+    "seo_title_ar": "مشاهدة فيلم عيون آسيوية مترجم - توميتو",
+    "meta_desc": "عيون آسيوية: فيلم يسلط الضوء على الجمال الآسيوي الساحر. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. Asian Eyes، London Keyes،",
+    "outro": "شاهد Asian Eyes الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عيون آسيوية: فيلم مثير وجذاب، يسلط الضوء على الجمال الآسيوي الأخاذ. أداء مميز من الممثلات، خاصةً نظراتهن الآسرة التي ستترك أثرًا عميقًا في ذاكرتك.",
+    "opinion_en": "Asian Eyes is a captivating and sensual film that showcases the mesmerizing Asian beauty. The actresses' performances, especially their enchanting gazes, will leave a lasting impression.",
     "faq": [
       {
-        "q": "هل مسلسل أمناء المكتبات - The Librarians مرتبط بأفلام The Librarian؟",
-        "a": "نعم، مسلسل أمناء المكتبات مستوحى من سلسلة أفلام The Librarian الشهيرة، ويستكمل مغامرات أمناء المكتبات في عالم مليء بالغموض والتشويق.",
-        "q_en": "Is The Librarians series related to the The Librarian movies?",
-        "a_en": "Yes, The Librarians series is inspired by the popular The Librarian movie series, continuing the adventures of librarians in a world filled with mystery and excitement."
+        "q": "هل فيلم عيون آسيوية مناسب للمشاهدة العائلية؟",
+        "a": "لا، فيلم عيون آسيوية مخصص للبالغين فقط، ويحتوي على مشاهد قد لا تكون مناسبة للعائلات.",
+        "q_en": "Is Asian Eyes family-friendly?",
+        "a_en": "No, Asian Eyes is intended for adult audiences only and contains scenes that may not be suitable for families."
       }
     ],
-    "keywords": "أمناء المكتبات, The Librarians, حركة, مغامرة, دراما, كوميديا, آثار قديمة, أفلام The Librarian"
+    "keywords": "عيون آسيوية, Asian Eyes, فيلم, جمال آسيوي, London Keyes, Jessica Bangkok, Mia Lelani, Taylor Vixen, Kya Tropic, Beti Hana"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "121 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Rebecca Romijn Christian Kane John Harlan Kim Lindy Booth John Larroquette",
-  "first_air_date": "2014-12-07"
+  "cast": "London Keyes Mia Lelani Kya Tropic Beti Hana Jessica Bangkok Taylor Vixen Johnny Castle Tommy Gunn"
 }
