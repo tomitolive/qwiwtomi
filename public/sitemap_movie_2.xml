@@ -334,6 +334,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1383154-the-eyes</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/jOD0Z78Jo0njtJu1hlC27LEs78F.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1383731-protector</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/iHMbrTHJwocsNvo5murCBw0CwTo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/235-stand-by-me</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -66680,5 +66680,89 @@
     ],
     "timestamp": 1786005539,
     "fixed": true
+  },
+  {
+    "title": "The Eyes / The Eyes",
+    "title_ar": "The Eyes",
+    "title_en": "The Eyes",
+    "slug": "1383154-the-eyes",
+    "folder": "movie",
+    "poster": "/t/p/w500/jOD0Z78Jo0njtJu1hlC27LEs78F.jpg",
+    "rating": 6.5,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1383154,
+    "genre_ids": [
+      53,
+      27
+    ],
+    "genres": [
+      "إثارة",
+      "رعب"
+    ],
+    "timestamp": 1786025701,
+    "fixed": true
+  },
+  {
+    "title": "Jogada de Risco / Jogada de Risco",
+    "title_ar": "Jogada de Risco",
+    "title_en": "Jogada de Risco",
+    "slug": "299188-jogada-de-risco",
+    "folder": "tv",
+    "poster": "/t/p/w500/iEcju8TBN5jmZswIpQXV5YTJB9L.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 299188,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1786025720,
+    "fixed": true
+  },
+  {
+    "title": "Gran hermano / Gran hermano",
+    "title_ar": "Gran hermano",
+    "title_en": "Gran hermano",
+    "slug": "37528-gran-hermano",
+    "folder": "tv",
+    "poster": "/t/p/w500/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "rating": 4.3,
+    "year": "2001",
+    "type": "tv",
+    "tmdb_id": 37528,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1786025763,
+    "fixed": true
+  },
+  {
+    "title": "Hard Knocks / Hard Knocks",
+    "title_ar": "Hard Knocks",
+    "title_en": "Hard Knocks",
+    "slug": "12940-hard-knocks",
+    "folder": "tv",
+    "poster": "/t/p/w500/3u3XqybD6Fu9dyOMJn2nBN9qzs8.jpg",
+    "rating": 7.9,
+    "year": "2001",
+    "type": "tv",
+    "tmdb_id": 12940,
+    "genre_ids": [
+      99,
+      10764
+    ],
+    "genres": [
+      "وثائقي",
+      "واقع"
+    ],
+    "timestamp": 1786025781,
+    "fixed": true
   }
 ]
