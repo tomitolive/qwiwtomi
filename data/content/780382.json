@@ -9,7 +9,7 @@
   "backdrop_path": "/lKvMfb4A7AHy4UzIWzFR8vJbaeb.jpg",
   "release_date": "2021-10-13",
   "vote_average": 7.5,
-  "vote_count": 502,
+  "vote_count": 506,
   "genres": [
     {
       "id": 10751,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في إطار عائلي، تدور أحداث الفيلم حول جرو ذئب وشبل أسد مفقودين يتم إنقاذهما من قبل فتاة في قلب البرية الكندية، وتنشأ صداقة بين الثلاثي تُغير من حياتهم إلى الأبد.",
-    "desc_en": "In a heartwarming family film, the story revolves around a wolf pup and a lost lion cub who are rescued by a young girl in the Canadian wilderness, and a bond forms between the trio, changing their lives forever.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الذئب والأسد مترجم اون لاين!",
-    "seo_title_ar": "مشاهدة فيلم الذئب والأسد مترجم اون لاين - توميتو",
-    "keywords": "The Wolf and the Lion, فيلم الذئب والأسد مترجم, مشاهدة فيلم الذئب والأسد, توميتو الذئب والأسد, أحداث الذئب والأسد بالتفصيل, قصة فيلم الذئب والأسد, الذئب والأسد مترجم, مشاهدة الذئب والأسد 2021",
-    "opinion": "فيلم الذئب والأسد هو فيلم عائلي رائع يملأ القلب بالحب والرحمة، ويحول حياتك إلى الأبد!",
+    "intro": "استمتع بمشاهدة فيلم الذئب والأسد (2021) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تدور أحداث فيلم \"الذئب والأسد\" في إطار عائلي مؤثر، حيث تتعمق الصداقة بين جرو ذئب وشبل أسد مفقودين وفتاة شجاعة في قلب البرية الكندية. \"The Wolf   Lion\" فيلم عائلي ومغامرات ممتع، يسلط الضوء على قوة الصداقة والروابط العائلية.",
+    "desc_en": "In \"The Wolf and the Lion\", a heartwarming family film, a wolf pup and a lion cub form an unbreakable bond with a brave girl in the Canadian wilderness. This adventure-filled story showcases the power of friendship and family ties.",
+    "seo_title_ar": "مشاهدة فيلم الذئب والأسد The Wolf Lion مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الذئب والأسد، وهو عمل عائلي رائع يجمع بين المغامرة والدراما. تدور أحداث الفيلم حول صداقة مؤثرة بين جرو ذئب وشبل أسد وفتاة شجاعة في قل",
+    "outro": "شاهد الذئب والأسد الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"الذئب والأسد\" هو تجربة عائلية رائعة، حيث يجمع بين المغامرة والدراما العائلية. إنه فيلم مؤثر وممتع، ويترك انطباعًا دافئًا في قلوب المشاهدين.",
+    "opinion_en": "\"The Wolf and the Lion\" is a heartwarming family film that blends adventure and drama. It's an engaging and emotional watch, leaving viewers with a warm and satisfying experience.",
     "faq": [
       {
-        "q": "ما هو فيلم الذئب والأسد؟",
-        "a": "فيلم عائلي رائع يملأ القلب بالحب والرحمة، ويحول حياتك إلى الأبد!"
-      },
-      {
-        "q": "ما هو نوع فيلم الذئب والأسد؟",
-        "a": "فيلم عائلي، مغامرة، دراما"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم الذئب والأسد؟",
-        "a": "صداقته بين الثلاثي، والرحمة والحب التي تملأ القلب"
+        "q": "ما هو تصنيف فيلم \"الذئب والأسد\"؟",
+        "a": "فيلم \"الذئب والأسد\" هو فيلم عائلي، مغامرة، ودراما. يجمع بين عناصر عائلية مؤثرة ومغامرات شيقة.",
+        "q_en": "What is the genre of \"The Wolf and the Lion\"?",
+        "a_en": "\"The Wolf and the Lion\" is a family film, blending adventure and drama. It offers an engaging mix of emotional family moments and thrilling adventures."
       }
-    ]
+    ],
+    "keywords": "الذئب والأسد, The Wolf Lion, فيلم عائلي, مغامرة, دراما, صداقة, برية, كندا"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "99 دقيقة",
   "language": "الإنجليزية",
   "country": "كندا",
-  "cast": "Molly Kunz Graham Greene Charlie Carrick Derek Johns Rebecca Croll"
+  "cast": "Molly Kunz Graham Greene Charlie Carrick Derek Johns Rebecca Croll Rhys Slack Evan Buliung Daniel Brochu"
 }

@@ -347,8 +347,98 @@
       "file": "39852.json",
       "title": "The Sinner",
       "fixed_at": "2026-08-06T06:22:12.307100"
+    },
+    {
+      "tmdb_id": "44006",
+      "file": "44006.json",
+      "title": "شيكاغو فاير",
+      "fixed_at": "2026-08-06T08:53:47.287350"
+    },
+    {
+      "tmdb_id": "627",
+      "file": "627.json",
+      "title": "ترينسبوتينغ",
+      "fixed_at": "2026-08-06T08:54:03.351205"
+    },
+    {
+      "tmdb_id": "217390",
+      "file": "217390.json",
+      "title": "My Tiny Senpai",
+      "fixed_at": "2026-08-06T08:54:19.925488"
+    },
+    {
+      "tmdb_id": "1139087",
+      "file": "1139087.json",
+      "title": "Once Upon a Studio",
+      "fixed_at": "2026-08-06T08:54:35.754559"
+    },
+    {
+      "tmdb_id": "780382",
+      "file": "780382.json",
+      "title": "الذئب والأسد",
+      "fixed_at": "2026-08-06T08:54:52.618584"
+    },
+    {
+      "tmdb_id": "1416391",
+      "file": "1416391.json",
+      "title": "Toaster",
+      "fixed_at": "2026-08-06T08:55:05.766986"
+    },
+    {
+      "tmdb_id": "870",
+      "file": "870.json",
+      "title": "Dolls",
+      "fixed_at": "2026-08-06T08:55:18.366453"
+    },
+    {
+      "tmdb_id": "66894",
+      "file": "66894.json",
+      "title": "Frequency",
+      "fixed_at": "2026-08-06T08:55:32.780701"
+    },
+    {
+      "tmdb_id": "158300",
+      "file": "158300.json",
+      "title": "Knuckles",
+      "fixed_at": "2026-08-06T08:55:49.242313"
+    },
+    {
+      "tmdb_id": "2188",
+      "file": "2188.json",
+      "title": "Tru Calling",
+      "fixed_at": "2026-08-06T08:56:07.996331"
+    },
+    {
+      "tmdb_id": "32692",
+      "file": "32692.json",
+      "title": "الدماء الزرقاء",
+      "fixed_at": "2026-08-06T08:56:20.783825"
+    },
+    {
+      "tmdb_id": "1368314",
+      "file": "1368314.json",
+      "title": "Passenger",
+      "fixed_at": "2026-08-06T08:56:42.129780"
+    },
+    {
+      "tmdb_id": "1439930",
+      "file": "1439930.json",
+      "title": "ذا بانشر: مهمة واحدة أخيرة",
+      "fixed_at": "2026-08-06T08:56:55.722141"
+    },
+    {
+      "tmdb_id": "100402",
+      "file": "100402.json",
+      "title": "كابتن أمريكا وجندي الشتاء",
+      "fixed_at": "2026-08-06T08:58:14.548084"
+    },
+    {
+      "tmdb_id": "198184",
+      "file": "198184.json",
+      "title": "Chappie",
+      "fixed_at": "2026-08-06T08:59:33.905444"
     }
   ],
-  "last_updated": "2026-08-06T06:22:14.309883",
-  "total_fixed": 58
+  "last_updated": "2026-08-06T08:59:35.908283",
+  "total_fixed": 73
 }
