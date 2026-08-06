@@ -611,8 +611,92 @@
       "file": "967998.json",
       "title": "Conspirao Fatal",
       "fixed_at": "2026-08-06T13:12:16.132448"
+    },
+    {
+      "tmdb_id": "233205",
+      "file": "233205.json",
+      "title": "الملك في فخ الحب",
+      "fixed_at": "2026-08-06T15:28:17.753085"
+    },
+    {
+      "tmdb_id": "947905",
+      "file": "947905.json",
+      "title": "Apartment Wife: Agony Afternoon",
+      "fixed_at": "2026-08-06T15:28:35.389470"
+    },
+    {
+      "tmdb_id": "9702",
+      "file": "9702.json",
+      "title": "Bound by Honor",
+      "fixed_at": "2026-08-06T15:30:15.461527"
+    },
+    {
+      "tmdb_id": "2122",
+      "file": "2122.json",
+      "title": "King of the Hill",
+      "fixed_at": "2026-08-06T15:30:38.514406"
+    },
+    {
+      "tmdb_id": "255343",
+      "file": "255343.json",
+      "title": "Los tres chiflados",
+      "fixed_at": "2026-08-06T15:32:01.129042"
+    },
+    {
+      "tmdb_id": "256591",
+      "file": "256591.json",
+      "title": "Focus",
+      "fixed_at": "2026-08-06T15:32:21.669089"
+    },
+    {
+      "tmdb_id": "64432",
+      "file": "64432.json",
+      "title": "السحرة",
+      "fixed_at": "2026-08-06T15:32:38.287759"
+    },
+    {
+      "tmdb_id": "11808",
+      "file": "11808.json",
+      "title": "U.S. Marshals",
+      "fixed_at": "2026-08-06T15:32:58.519172"
+    },
+    {
+      "tmdb_id": "26383",
+      "file": "26383.json",
+      "title": "Glass Fleet",
+      "fixed_at": "2026-08-06T15:33:22.471842"
+    },
+    {
+      "tmdb_id": "47971",
+      "file": "47971.json",
+      "title": "ثلاثية ايكس : عودة إسكندر كيدج",
+      "fixed_at": "2026-08-06T15:33:37.035347"
+    },
+    {
+      "tmdb_id": "7723",
+      "file": "7723.json",
+      "title": "Yemin",
+      "fixed_at": "2026-08-06T15:34:09.135213"
+    },
+    {
+      "tmdb_id": "60708",
+      "file": "60708.json",
+      "title": "قوثام",
+      "fixed_at": "2026-08-06T15:35:06.402373"
+    },
+    {
+      "tmdb_id": "96129",
+      "file": "96129.json",
+      "title": "Dont Fk with Cats: Hunting an Internet Killer",
+      "fixed_at": "2026-08-06T15:35:22.053976"
+    },
+    {
+      "tmdb_id": "97546",
+      "file": "97546.json",
+      "title": "Ted Lasso",
+      "fixed_at": "2026-08-06T15:35:37.263948"
     }
   ],
-  "last_updated": "2026-08-06T13:12:18.135093",
-  "total_fixed": 102
+  "last_updated": "2026-08-06T15:35:39.266695",
+  "total_fixed": 116
 }

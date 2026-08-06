@@ -4,13 +4,11 @@
   "title_ar": "Glass Fleet",
   "title_en": "Glass Fleet",
   "slug": "26383-glass-fleet",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تابع أحداث مسلسل \"أسطول الزجاج\"، حيث يسيطر إمبراطور مستبد على المجرة. يحاول المتمردون، الذين يفوقهم الإمبراطور عددًا وتسليحًا، العثور على الأسطول الأسطوري \"Glass Fleet\" الذي خدم الحاكم الحقيقي سابقًا. ويجدون أحد أحفاد العائلة المالكة، الذي أصبح الآن قرصانًا في الفضاء.",
   "poster_path": "/nCFu0RGVKC0IRSkOTE8zNqv9rSe.jpg",
   "backdrop_path": "/7yXraFXKLntwQEmrhW1x9eK9RvZ.jpg",
   "release_date": "2006-04-05",
-  "vote_average": 9,
+  "vote_average": 9.0,
   "vote_count": 2,
   "genres": [
     {
@@ -19,33 +17,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرسوم المتحركة، تتشكل قوة عظيمة من السفن الزجاجية، التي تملك القدرة على السفر عبر الزمن وال空. يمرق القائد الأبطال، كايرو، في رحلة ممتدة لاكتشاف أسرار هذه القوة، بينما يتعرض لخतरات عديدة من قبل الأعداء، ويحاول أن يمنعهم من إختراق عالمهم، فيما يتعامل مع مشكلات الشخصية والروحانية.",
-    "desc_en": "In a world of animation, a powerful force emerges from the glass ships, which possess the ability to travel through time and space. Captain Kairo embarks on a long journey to uncover the secrets of this force, while facing numerous threats from enemies and trying to prevent them from infiltrating their world, as he deals with personal and spiritual issues.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم الرسوم المتحركة!",
-    "seo_title_ar": "مشاهدة فيلم غラス فليت مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم رسوم متحركة, Glass Fleet مترجم كامل, توميتو Glass Fleet, أحداث Glass Fleet بالتفصيل, مشاهدة Glass Fleet 2006, قصة مسلسل Glass Fleet",
-    "opinion": "هو فيلم رائع، مليء بالدrama والفانتازيا، مع شخصيات رائعة وتصوير رائع. إنه فيلم يجب مشاهدته",
+    "intro": "استمتع بمشاهدة مسلسل Glass Fleet (2006) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تابع أحداث مسلسل \"أسطول الزجاج\"، حيث يسيطر إمبراطور مستبد على المجرة. يحاول المتمردون، الذين يفوقهم الإمبراطور عددًا وتسليحًا، العثور على الأسطول الأسطوري \"Glass Fleet\" الذي خدم الحاكم الحقيقي سابقًا. ويجدون أحد أحفاد العائلة المالكة، الذي أصبح الآن قرصانًا في الفضاء.",
+    "desc_en": "In \"Glass Fleet\", a tyrannical Emperor rules the galaxy. The outnumbered rebels seek the legendary Glass Fleet, once serving the true ruler. They find a royal descendant, now a space pirate.",
+    "seo_title_ar": "مشاهدة مسلسل أسطول الزجاج - Glass Fleet مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل أسطول الزجاج - Glass Fleet، وهو عمل رسوم متحركة ملحمي يمزج بين الخيال العلمي والمغامرة. تابع رحلة المتمردين في البحث عن الأسطول الأس",
+    "outro": "شاهد Glass Fleet الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مسلسل \"أسطول الزجاج\" يقدم قصة مشوقة ومثيرة، حيث يمزج بين الخيال العلمي والمغامرة. إنه عمل رائع يستحق المشاهدة.",
+    "opinion_en": "\"Glass Fleet\" is an epic animated series that blends science fiction and adventure. It's a must-watch for fans of the genre.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم غラス فليت؟",
-        "a": "هو فيلم رسوم متحركة"
-      },
-      {
-        "q": "ما هو موضوع فيلم غラス فليت؟",
-        "a": "يحكي عن قوة عظيمة من السفن الزجاجية"
-      },
-      {
-        "q": "ما هو نوع الأحداث في فيلم غラス فليت؟",
-        "a": "يحتوي على أحداث درامية وفانتازية"
+        "q": "هل مسلسل \"أسطول الزجاج\" مناسب لجميع الأعمار؟",
+        "a": "نعم، المسلسل مناسب لجميع الأعمار، فهو يقدم قصة مشوقة وممتعة تناسب جميع الفئات العمرية.",
+        "q_en": "Is \"Glass Fleet\" suitable for all ages?",
+        "a_en": "Yes, the series is suitable for all ages. It offers an engaging and enjoyable story that appeals to viewers of all ages."
       }
-    ]
+    ],
+    "keywords": "أسطول الزجاج, Glass Fleet, رسوم متحركة, خيال علمي, مغامرة, متمردون, إمبراطور, أسطول أسطوري, قراصنة الفضاء"
   },
   "fixed": true,
-  "first_air_date": "2006-04-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "30 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Akira Ishida Kana Ueda Rie Kugimiya Kenjiro Tsuda Ryoko Shiraishi Ryoka Yuzuki Hiroshi Iida Yuhko Kaida",
+  "first_air_date": "2006-04-05"
 }

@@ -4,14 +4,12 @@
   "title_ar": "قوثام",
   "title_en": "Gotham",
   "slug": "60708-gotham",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "الجميع يعرف اسم المفوض قوردون. من أكبر أعداء الجريمة في العالم، هو رجل تشتهر سمعته بالقانون والنظام. ولكن ما هو معروف من قصة قوردون وصعوده شرطي مبتدئ لمفوض الشرطة؟ ما الذي يتطلبه الأمر للتنقل بين طبقات الفساد المتعددة التي حكمت سراً مدينة قوثام، وما هي الظروف التي أوجدت الشخصيات المشهوره مثل المرأة القط، البطريق، الاحجية، ذو الوجهين والجوكر؟",
   "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
   "backdrop_path": "/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
   "release_date": "2014-09-22",
   "vote_average": 7.6,
-  "vote_count": 3683,
+  "vote_count": 3758,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة قوثام، حيث يسيطر الفساد على كل شيء، يأتي رجل جديد ليكون قائد الشرطة، ولكن ما هو معروف من قصة قوردون؟ ما الذي يتطلبه الأمر للتنقل بين طبقات الفساد المتعددة التي حكمت المدينة؟",
-    "desc_en": "In the city of Gotham, where corruption reigns supreme, a new leader arrives to head the police force, but what is known about Gordon's story? What does it take to navigate the multiple layers of corruption that have taken over the city?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في قوثام",
-    "seo_title_ar": "مشاهدة فيلم قوثام مترجم اون لاين - توميتو",
-    "keywords": "Gotham, فيلم قوثام مترجم, مشاهدة فيلم قوثام, أحداث قوثام بالتفصيل, قصة مسلسل قوثام, قوثام مترجم كامل, توميتو قوثام, مشاهدة قوثام 2014",
-    "opinion": "قوثام هو من أهم المسلسلات التلفزيونية في التاريخ، فهو يحتوي على كل ما يحتاج إليه مشاهد من دراما، جريمة، خيال علمي وفانتازيا",
+    "intro": "استمتع بمشاهدة مسلسل قوثام (2014) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "قوثام. مسلسل دراما وجريمة وخيال علمي وفانتازيا. يروي قصة المفوض جوردون، أحد أعداء الجريمة في العالم، ورحلته من شرطي مبتدئ إلى مفوض الشرطة. استكشف العالم السري لمدينة قوثام، حيث الفساد يحكم المدينة، واكتشف الظروف التي أدت إلى ظهور شخصيات شهيرة مثل المرأة القط والبطريق والاحجية وذو الوجهين والجوكر.",
+    "desc_en": "Gotham, a drama, crime, and sci-fi series, delves into Commissioner Gordon's story, his rise from a rookie to a police commissioner. It explores the secret world of Gotham City, ruled by corruption, and the circumstances that gave birth to iconic villains like Catwoman, The Penguin, The Riddler, Two-Face, and The Joker.",
+    "seo_title_ar": "مشاهدة مسلسل قوثام Gotham مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل قوثام Gotham، الذي يغوص في عالم الجريمة والفساد في مدينة قوثام. تابع قصة المفوض جوردون ورحلته المثيرة من شرطي مبتدئ إلى مفوض الشرطة. ا",
+    "outro": "شاهد قوثام الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مسلسل قوثام Gotham يقدم نظرة فريدة على عالم الجريمة والفساد في مدينة قوثام. إنه عمل مثير وممتع، ويستحق المشاهدة لمحبي قصص الأبطال الخارقين.",
+    "opinion_en": "The series Gotham offers a unique perspective on the criminal underworld of Gotham City. It's an exciting and engaging watch, a must-see for fans of superhero stories.",
     "faq": [
       {
-        "q": "ما هو قوثام؟",
-        "a": "قوثام هو مدينة تسيطر عليها الفساد"
-      },
-      {
-        "q": "ما هو دور قوردون في قوثام؟",
-        "a": "قوردون هو رجل جديد ليكون قائد الشرطة في قوثام"
-      },
-      {
-        "q": "ما هي الشخصيات المشهوره في قوثام؟",
-        "a": "هناك شخصيات مشهورة مثل المرأة القط، البطريق، الاحجية، ذو الوجهين والجوكر"
+        "q": "ما هو مسلسل قوثام Gotham؟",
+        "a": "مسلسل قوثام هو مسلسل دراما وجريمة وخيال علمي، يروي قصة مدينة قوثام والشخصيات التي تعيش فيها، بما في ذلك المفوض جوردون وأعداء الجريمة.",
+        "q_en": "What is the Gotham series about?",
+        "a_en": "The Gotham series is a drama, crime, and sci-fi series that tells the story of Gotham City and the iconic characters that inhabit it, including Commissioner Gordon and his foes."
       }
-    ]
+    ],
+    "keywords": "قوثام, Gotham, مسلسل, دراما, جريمة, خيال علمي, فانتازيا, المفوض جوردون, المرأة القط, البطريق, الاحجية, ذو الوجهين, الجوكر"
   },
   "fixed": true,
-  "first_air_date": "2014-09-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "108 دقيقة",
-  "language": "الإسبانية",
-  "country": "بوليفيا",
-  "cast": "Mariana Vargas Ninón del Castillo Pascual Loayza Nicolás Fernández Juan Pablo Koria"
+  "duration": "43 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Ben McKenzie Donal Logue David Mazouz Sean Pertwee Robin Lord Taylor Erin Richards Camren Bicondova Cory Michael Smith",
+  "first_air_date": "2014-09-22"
 }
