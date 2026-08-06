@@ -66616,5 +66616,25 @@
     ],
     "timestamp": 1785950651,
     "fixed": true
+  },
+  {
+    "title": "1670 / 1670",
+    "title_ar": "1670",
+    "title_en": "1670",
+    "slug": "236450-1670",
+    "folder": "tv",
+    "poster": "/t/p/w500/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg",
+    "rating": 7.4,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 236450,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1785984023,
+    "fixed": true
   }
 ]
