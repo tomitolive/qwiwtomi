@@ -89,8 +89,86 @@
       "file": "2458.json",
       "title": "CSI: NY",
       "fixed_at": "2026-08-05T23:28:13.985154"
+    },
+    {
+      "tmdb_id": "93456",
+      "file": "93456.json",
+      "title": "الحقير أنا 2",
+      "fixed_at": "2026-08-06T00:11:54.913041"
+    },
+    {
+      "tmdb_id": "1367220",
+      "file": "1367220.json",
+      "title": "Karuppu",
+      "fixed_at": "2026-08-06T00:12:29.357069"
+    },
+    {
+      "tmdb_id": "1630433",
+      "file": "1630433.json",
+      "title": "The Red Line",
+      "fixed_at": "2026-08-06T00:14:10.361171"
+    },
+    {
+      "tmdb_id": "414419",
+      "file": "414419.json",
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "fixed_at": "2026-08-06T00:15:34.573408"
+    },
+    {
+      "tmdb_id": "807",
+      "file": "807.json",
+      "title": "سبعة",
+      "fixed_at": "2026-08-06T00:16:03.966447"
+    },
+    {
+      "tmdb_id": "1243741",
+      "file": "1243741.json",
+      "title": "Ballistic",
+      "fixed_at": "2026-08-06T00:16:24.974747"
+    },
+    {
+      "tmdb_id": "16395",
+      "file": "16395.json",
+      "title": "مستر شيف أستراليا",
+      "fixed_at": "2026-08-06T00:18:07.566852"
+    },
+    {
+      "tmdb_id": "378064",
+      "file": "378064.json",
+      "title": "الحزن الصامت",
+      "fixed_at": "2026-08-06T00:19:47.246189"
+    },
+    {
+      "tmdb_id": "99861",
+      "file": "99861.json",
+      "title": "المنتقمون عهد الترون",
+      "fixed_at": "2026-08-06T00:21:15.068019"
+    },
+    {
+      "tmdb_id": "1470130",
+      "file": "1470130.json",
+      "title": "The Mortuary Assistant",
+      "fixed_at": "2026-08-06T00:22:39.235049"
+    },
+    {
+      "tmdb_id": "210891",
+      "file": "210891.json",
+      "title": "The Travel Nurse",
+      "fixed_at": "2026-08-06T00:24:15.670616"
+    },
+    {
+      "tmdb_id": "78173",
+      "file": "78173.json",
+      "title": "تنانين: السباق إلى الحافة",
+      "fixed_at": "2026-08-06T00:25:11.725176"
+    },
+    {
+      "tmdb_id": "622",
+      "file": "622.json",
+      "title": "The Ninth Gate",
+      "fixed_at": "2026-08-06T00:25:31.302539"
     }
   ],
-  "last_updated": "2026-08-05T23:28:15.987827",
-  "total_fixed": 15
+  "last_updated": "2026-08-06T00:25:33.305392",
+  "total_fixed": 28
 }

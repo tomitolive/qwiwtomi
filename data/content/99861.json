@@ -1,17 +1,15 @@
 {
   "id": 99861,
-  "title": "المنتقمون عهد الترون",
-  "title_ar": "المنتقمون عهد الترون",
+  "title": "المنتقمون: عهد الترون",
+  "title_ar": "المنتقمون: عهد الترون",
   "title_en": "Avengers: Age of Ultron",
   "slug": "99861-avengers-age-of-ultron",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "عندما يحاول توني ستارك وبروس بانر إعادة تشغيل برنامج حفظ سلام خامل يُدعى ألترون، تسوء الأمور بشكل مروع، ويصبح الأمر متروكًا لأبطال الأرض الأقوى لإيقاف الشرير ألترون من تنفيذ خطته الرهيبة.",
+  "overview": "عندما يحاول توني ستارك إعادة تشغيل برنامج لحفظ السلام كان متوقفًا، تسير الأمور بشكل كارثي، ويجد أقوى أبطال الأرض أنفسهم أمام أصعب اختبار في حياتهم، بينما يصبح مصير الكوكب بأكمله على المحك.  ومع ظهور الشرير ألترون، يصبح على \"المنتقمون\" إيقافه قبل أن ينفذ خططه المروعة. وسرعان ما تؤدي التحالفات غير المستقرة والمواجهات غير المتوقعة إلى انطلاق مغامرة عالمية ملحمية وفريدة من نوعها.",
   "poster_path": "/23hItmIT3tHckHl0GPpAblOJuPr.jpg",
   "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
   "release_date": "2015-04-22",
   "vote_average": 7.3,
-  "vote_count": 24420,
+  "vote_count": 24726,
   "genres": [
     {
       "id": 28,
@@ -27,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم خيال علمي، يتحول توني ستارك وبروس بانر إلى قادة المتحديين لمنع الشرير ألترون من تنفيذ خطته الرهيبة، لكن الأمور تسوء بشكل مروع، ويصبح الأمر متروكًا لأبطال الأرض الأقوى.",
-    "desc_en": "In a world of science fiction, Tony Stark and Bruce Banner transform into leaders of the Avengers to prevent the evil Ultron from carrying out its terrible plan, but things take a turn for the worse, and it's up to the strongest heroes on Earth to stop it.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المنتقمون عهد الترون - مشاهدة فيلم حركة، مغامرة، خيال علمي مترجم اون لاين!",
-    "seo_title_ar": "مشاهدة فيلم المنتقمون عهد الترون مترجم اون لاين - توميتو",
-    "keywords": "Avengers: Age of Ultron, فيلم المنتقمون عهد الترون مترجم, مشاهدة فيلم المنتقمون عهد الترون, المنتقمون عهد الترون مترجم, أحداث المنتقمون عهد الترون بالتفصيل, قصة فيلم المنتقمون عهد الترون, توميتو المنتقمون عهد الترون, مشاهدة المنتقمون عهد الترون 2015",
-    "opinion": "فيلم المنتقمون عهد الترون هو إصدار رائع من سلسلة المنتقمون، مع قصة ممتعة وتصوير رائع، إلا أن النهاية كانت قليلاً غير متوقع.",
+    "intro": "استمتع بمشاهدة فيلم المنتقمون: عهد الترون (2015) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يستمر المنتقمون: عهد الترون في ملحمة الأبطال الخارقين، حيث يواجهون تحديًا جديدًا مع ظهور الشرير ألترون. توني ستارك، الذي يحاول إعادة تشغيل برنامج لحفظ السلام، يتسبب في كارثة، مما يضع المنتقمون أمام اختبار مصيري. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "desc_en": "Avengers: Age of Ultron takes the superhero epic to new heights as Earth's Mightiest Heroes face their toughest challenge yet. When Tony Stark's attempt to revive a peacekeeping program goes wrong, the Avengers must unite to stop the villainous Ultron and save the planet. This action-packed adventure is a must-watch!",
+    "seo_title_ar": "مشاهدة فيلم المنتقمون: عهد الترون مترجم - توميتو",
+    "meta_desc": "المنتقمون: عهد الترون - فيلم ملحمي مليء بالإثارة والتشويق، حيث يواجه المنتقمون تحديا جديدا مع ظهور الشرير ألترون. استمتع بمشاهدة هذا العمل الرائع الذي يج",
+    "outro": "شاهد المنتقمون: عهد الترون الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "المنتقمون: عهد الترون هو فيلم مثير ومليء بالحركة، حيث يجمع بين الأبطال الخارقين في معركة ملحمية ضد الشرير ألترون. أداء مميز للممثلين ومشاهد أكشن مبهرة تجعل من هذا الفيلم تجربة سينمائية لا تنسى.",
+    "opinion_en": "Avengers: Age of Ultron is a thrilling superhero blockbuster that delivers an epic adventure. The cast's performances and stunning action sequences make this film a must-watch for fans of the genre.",
     "faq": [
       {
-        "q": "ما هو المنتقمون عهد الترون؟",
-        "a": "فيلم المنتقمون عهد الترون هو إصدار رائع من سلسلة المنتقمون، مع قصة ممتعة وتصوير رائع."
-      },
-      {
-        "q": "ما هو ألترون؟",
-        "a": "ألترون هو الشرير الرئيسي في الفيلم، الذي يهدف إلى إيقاف البرنامج الحفظ سلام خامل."
-      },
-      {
-        "q": "ما هو أفضل ما في المنتقمون عهد الترون؟",
-        "a": "أفضل ما في الفيلم هو قصة المتابعة والتصوير الرائع والعمل الفني الممتاز"
+        "q": "هل فيلم المنتقمون: عهد الترون مناسب للمشاهدة العائلية؟",
+        "a": "نعم، فيلم المنتقمون: عهد الترون مناسب للمشاهدة العائلية، فهو يحتوي على مشاهد أكشن مثيرة ومؤثرات بصرية مبهرة، دون أن يكون عنيفًا بشكل مفرط. يمكن للعائلات الاستمتاع بهذا الفيلم معًا.",
+        "q_en": "Is Avengers: Age of Ultron suitable for family viewing?",
+        "a_en": "Yes, Avengers: Age of Ultron is family-friendly. It offers thrilling action and stunning visuals without excessive violence, making it an enjoyable watch for all ages."
       }
-    ]
+    ],
+    "keywords": "المنتقمون, عهد الترون, Avengers, Age Ultron, فيلم, حركة, مغامرة, خيال علمي, أبطال خارقين, توني ستارك, ألترون"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "141 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Robert Downey Jr. Chris Hemsworth Mark Ruffalo Chris Evans Scarlett Johansson"
+  "cast": "Robert Downey Jr. Chris Hemsworth Mark Ruffalo Chris Evans Scarlett Johansson Jeremy Renner James Spader Samuel L. Jackson"
 }
