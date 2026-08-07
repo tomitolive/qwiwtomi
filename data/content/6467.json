@@ -4,14 +4,12 @@
   "title_ar": "Chicago Hope",
   "title_en": "Chicago Hope",
   "slug": "6467-chicago-hope",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل Chicago Hope مترجم بجودة عالية.",
   "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
   "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
   "release_date": "1994-09-18",
   "vote_average": 7.2,
-  "vote_count": 78,
+  "vote_count": 81,
   "genres": [
     {
       "id": 10766,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الطب، حيث يلتقي الأطباء والمرضى، توجد علاقة قوية بين المريض والطبيب، حيث يتعاون المريض مع الطبيب لتحقيق الشفاء، هذا هو ما يحدث في مسلسل «شيكاغو هوب» الذي يلقي الضوء على حياة الأطباء والمرضى في مستشفى شيكاغو، حيث توجد قصة حب بين الطبيب والمرضى، وتعاونهم معاً لتحقيق الشفاء.",
-    "desc_en": "In the world of medicine, where doctors and patients meet, there is a strong bond between the patient and the doctor, where the patient collaborates with the doctor to achieve recovery. This is what happens in the series 'Chicago Hope' which sheds light on the lives of doctors and patients in a Chicago hospital, where a love story unfolds between the doctor and the patient, and their collaboration to achieve recovery.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل «شيكاغو هوب»",
-    "seo_title_ar": "مشاهدة مسلسل شيكاغو هوب مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما, مشاهدة مسلسل أوبرا صابونية, أحداث Chicago Hope بالتفصيل, Chicago Hope مترجم كامل, قصة مسلسل Chicago Hope, توميتو Chicago Hope, مشاهدة Chicago Hope 1994",
-    "opinion": "هو مسلسل رائع يلقي الضوء على حياة الأطباء والمرضى، ويحكي قصة حب بين الطبيب والمرضى، ويحقق الشفاء معاً",
+    "intro": "استمتع بمشاهدة مسلسل Chicago Hope (1994) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل Chicago Hope مترجم بجودة عالية.",
+    "desc_en": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+    "seo_title_ar": "مشاهدة مسلسل Chicago Hope مترجم - توميتو",
+    "meta_desc": "مشاهدة Chicago Hope مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Chicago Hope الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو مسلسل شيكاغو هوب؟",
-        "a": "هو مسلسل دراما يلقي الضوء على حياة الأطباء والمرضى في مستشفى شيكاغو"
+        "q": "كيف يمكنني مشاهدة مسلسل Chicago Hope?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Chicago Hope?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع مسلسل شيكاغو هوب؟",
-        "a": "هو مسلسل دراما أوبرا صابونية"
+        "q": "ما هو تصنيف مسلسل Chicago Hope?",
+        "a": "يندرج العمل تحت تصنيف أوبرا صابونية, دراما.",
+        "q_en": "What is the genre of Chicago Hope?",
+        "a_en": "Answer about Chicago Hope"
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه مسلسل شيكاغو هوب؟",
-        "a": "يحدث فيه مستشفى شيكاغو"
+        "q": "ما هي قصة مسلسل Chicago Hope?",
+        "a": "إجابة عن Chicago Hope",
+        "q_en": "What is the story of Chicago Hope?",
+        "a_en": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospita..."
       }
-    ]
+    ],
+    "keywords": "Chicago Hope مترجم, Chicago Hope مترجم, مشاهدة Chicago Hope, Chicago Hope"
   },
   "fixed": true,
-  "first_air_date": "1994-09-18",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "108 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Simon Rattle"
+  "duration": "60 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Adam Arkin Mark Harmon Héctor Elizondo Rocky Carroll Lauren Holly Barbara Hershey Mandy Patinkin Carla Gugino",
+  "first_air_date": "1994-09-18"
 }

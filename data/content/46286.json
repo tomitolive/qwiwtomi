@@ -4,14 +4,12 @@
   "title_ar": "Ink Master",
   "title_en": "Ink Master",
   "slug": "46286-ink-master",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل سيد الحبر مترجم بجودة عالية.",
   "poster_path": "/y2qHivDbnmndHGw3iNhw1LPZIpM.jpg",
   "backdrop_path": "/kJspjzlXblGQTcjka5vhclbz6Rb.jpg",
   "release_date": "2012-01-17",
-  "vote_average": 7.9,
-  "vote_count": 88,
+  "vote_average": 7.8,
+  "vote_count": 91,
   "genres": [
     {
       "id": 10764,
@@ -19,33 +17,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرسم والزخرفة، يأخذ المواهب الشابة من مختلف أنحاء العالم في رحلة من المغامرة والتحديات، حيث يُقدم لهم فرصة لخلق أعمال فنية رائعة، ولكن ما الذي ينتظرهم في هذه الرحلة؟",
-    "desc_en": "In the world of art and design, young talents from around the globe embark on a journey of adventure and challenges, where they are given the opportunity to create remarkable works of art, but what lies ahead for them on this journey?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم الرسم والزخرفة في (مشاهدة فيلم إنك ماستر مترجم اون لاين - توميتو)",
-    "seo_title_ar": "مشاهدة فيلم إنك ماستر مترجم اون لاين - توميتو",
-    "keywords": "فيلم إنك ماستر مترجم, مشاهدة فيلم إنك ماستر, مشاهدة Ink Master 2012, Ink Master مترجم كامل, قصة مسلسل Ink Master, أحداث Ink Master بالتفصيل, توميتو Ink Master",
-    "opinion": "هذه المرة، نرى المواهب الشابة تظهر فيما هو أكثر من مجرد رسم، sondern فيما هو أكثر من مجرد فن، sondern فيما هو أكثر من مجرد حكاية، sondern فيما هو أكثر من مجرد تجربة",
+    "intro": "استمتع بمشاهدة مسلسل Ink Master (2012) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل سيد الحبر مترجم بجودة عالية.",
+    "desc_en": "A group of the country's most creative and skilled tattoo artists compete for a hundred thousand dollars and the title of Ink Master. The stakes couldn't be higher with \"living canvasses\" donating their skin to be permanently marked in this adrenalized competition elimination.",
+    "seo_title_ar": "مشاهدة مسلسل Ink Master مترجم - توميتو",
+    "meta_desc": "مشاهدة سيد الحبر مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Ink Master الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو إنك ماستر؟",
-        "a": "هو برنامج تلفزيوني يُقدم لنا المواهب الشابة فرصة لخلق أعمال فنية رائعة"
+        "q": "كيف يمكنني مشاهدة مسلسل سيد الحبر?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Ink Master?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "هو برنامج واقعي يُقدم لنا المواهب الشابة فرصة لخلق أعمال فنية رائعة"
+        "q": "ما هو تصنيف مسلسل سيد الحبر?",
+        "a": "يندرج العمل تحت تصنيف واقع.",
+        "q_en": "What is the genre of Ink Master?",
+        "a_en": "It falls under the genre of ."
       },
       {
-        "q": "ما هو الهدف من البرنامج؟",
-        "a": "الهدف هو أن المواهب الشابة يخلقون أعمال فنية رائعة وتعلموا من التجربة"
+        "q": "ما هي قصة مسلسل سيد الحبر?",
+        "a": "إجابة عن سيد الحبر",
+        "q_en": "What is the story of Ink Master?",
+        "a_en": "A group of the country's most creative and skilled tattoo artists compete for a hundred thousand dollars and the title of Ink Master. The stakes couldn't be higher with \"living canvasses\" donating the..."
       }
-    ]
+    ],
+    "keywords": "سيد الحبر مترجم, Ink Master مترجم, مشاهدة سيد الحبر, Ink Master"
   },
   "fixed": true,
-  "first_air_date": "2012-01-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "81 دقيقة",
+  "duration": "42 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Craig Bierko Amy Brenneman Antonio Fargas Will Ferrell Tony Guma"
+  "cast": "",
+  "first_air_date": "2012-01-17"
 }

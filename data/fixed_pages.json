@@ -1751,8 +1751,92 @@
       "file": "301174.json",
       "title": "Corao Acelerado",
       "fixed_at": "2026-08-07T16:36:32.349314"
+    },
+    {
+      "tmdb_id": "75384",
+      "file": "75384.json",
+      "title": "Jiji Maa",
+      "fixed_at": "2026-08-07T17:33:19.976753"
+    },
+    {
+      "tmdb_id": "81355",
+      "file": "81355.json",
+      "title": "مرايا خادعة",
+      "fixed_at": "2026-08-07T17:33:30.172387"
+    },
+    {
+      "tmdb_id": "498",
+      "file": "498.json",
+      "title": "Late Show with David Letterman",
+      "fixed_at": "2026-08-07T17:33:45.004400"
+    },
+    {
+      "tmdb_id": "211747",
+      "file": "211747.json",
+      "title": "Island",
+      "fixed_at": "2026-08-07T17:33:55.798036"
+    },
+    {
+      "tmdb_id": "314402",
+      "file": "314402.json",
+      "title": "Crazy Love, Moo-Moo!",
+      "fixed_at": "2026-08-07T17:34:07.003570"
+    },
+    {
+      "tmdb_id": "46286",
+      "file": "46286.json",
+      "title": "Ink Master",
+      "fixed_at": "2026-08-07T17:34:17.839947"
+    },
+    {
+      "tmdb_id": "40521",
+      "file": "40521.json",
+      "title": "Home with Kids",
+      "fixed_at": "2026-08-07T17:34:28.473974"
+    },
+    {
+      "tmdb_id": "71446",
+      "file": "71446.json",
+      "title": "بيت الورق",
+      "fixed_at": "2026-08-07T17:34:40.617522"
+    },
+    {
+      "tmdb_id": "1089625",
+      "file": "1089625.json",
+      "title": "The Making of the Last Duel",
+      "fixed_at": "2026-08-07T17:34:50.543821"
+    },
+    {
+      "tmdb_id": "656",
+      "file": "656.json",
+      "title": "Curious George",
+      "fixed_at": "2026-08-07T17:35:03.200202"
+    },
+    {
+      "tmdb_id": "61963",
+      "file": "61963.json",
+      "title": "Gnei Beklerken",
+      "fixed_at": "2026-08-07T17:35:12.681655"
+    },
+    {
+      "tmdb_id": "1010818",
+      "file": "1010818.json",
+      "title": "Groots First Steps",
+      "fixed_at": "2026-08-07T17:35:23.544029"
+    },
+    {
+      "tmdb_id": "6467",
+      "file": "6467.json",
+      "title": "Chicago Hope",
+      "fixed_at": "2026-08-07T17:35:38.095920"
+    },
+    {
+      "tmdb_id": "11220",
+      "file": "11220.json",
+      "title": "Fallen Angels",
+      "fixed_at": "2026-08-07T17:35:49.295123"
     }
   ],
-  "last_updated": "2026-08-07T16:36:34.351907",
-  "total_fixed": 292
+  "last_updated": "2026-08-07T17:35:51.297773",
+  "total_fixed": 306
 }

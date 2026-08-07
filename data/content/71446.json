@@ -4,14 +4,12 @@
   "title_ar": "بيت الورق",
   "title_en": "Money Heist",
   "slug": "71446-money-heist",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتّخذ ثمانية لصوص بعض الرهائن ويحبسون أنفسهم في \"دار السكّ الملكيّة\" في إسبانيا، فيما يتلاعب أحد العقول الإجرامية بالشرطة لتنفيذ مُخططه.",
-  "poster_path": "/pf2kh8DCah5isAVBc5R1rx1fFaF.jpg",
+  "poster_path": "/rl99DVtn7gs1mg5tpJLxuFUN9xG.jpg",
   "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
   "release_date": "2017-05-02",
   "vote_average": 8.2,
-  "vote_count": 19438,
+  "vote_count": 19593,
   "genres": [
     {
       "id": 80,
@@ -23,19 +21,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل بيت الورق (2017) مترجم بجودة عالية على توميتو.",
     "desc_ar": "يتّخذ ثمانية لصوص بعض الرهائن ويحبسون أنفسهم في \"دار السكّ الملكيّة\" في إسبانيا، فيما يتلاعب أحد العقول الإجرامية بالشرطة لتنفيذ مُخططه.",
-    "desc_en": "يتّخذ ثمانية لصوص بعض الرهائن ويحبسون أنفسهم في \"دار السكّ الملكيّة\" في إسبانيا، فيما يتلاعب أحد العقول الإجرامية بالشرطة لتنفيذ مُخططه.",
-    "meta_desc": "مشاهدة بيت الورق مترجم بجودة عالية على توميتو.",
-    "keywords": "Money Heist, مشاهدة بيت الورق 2026, بيت الورق مترجم, توميتو بيت الورق, أحداث بيت الورق بالتفصيل, قصة فيلم بيت الورق",
-    "seo_title_ar": "مشاهدة بيت الورق مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+    "seo_title_ar": "مشاهدة مسلسل Money Heist مترجم - توميتو",
+    "meta_desc": "مشاهدة بيت الورق مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد بيت الورق الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل بيت الورق?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Money Heist?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل بيت الورق?",
+        "a": "يندرج العمل تحت تصنيف جريمة, دراما.",
+        "q_en": "What is the genre of Money Heist?",
+        "a_en": "It falls under the genre of , ."
+      },
+      {
+        "q": "ما هي قصة مسلسل بيت الورق?",
+        "a": "يتّخذ ثمانية لصوص بعض الرهائن ويحبسون أنفسهم في \"دار السكّ الملكيّة\" في إسبانيا، فيما يتلاعب أحد العقول الإجرامية بالشرطة لتنفيذ مُخططه.",
+        "q_en": "What is the story of Money Heist?",
+        "a_en": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of se..."
+      }
+    ],
+    "keywords": "بيت الورق مترجم, Money Heist مترجم, مشاهدة بيت الورق, Money Heist"
   },
   "fixed": true,
-  "first_air_date": "2017-05-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "113 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Vivica A. Fox Christian Keyes Elise Neal Johnny Gill Laila Odom"
+  "duration": "45 دقيقة",
+  "language": "الإسبانية",
+  "country": "إسبانيا",
+  "cast": "Úrsula Corberó Itziar Ituño Álvaro Morte Pedro Alonso Miguel Herrán Esther Acebo Jaime Lorente Najwa Nimri",
+  "first_air_date": "2017-05-02"
 }
