@@ -4,14 +4,12 @@
   "title_ar": "Monarch: Legacy of Monsters",
   "title_en": "Monarch: Legacy of Monsters",
   "slug": "202411-monarch-legacy-of-monsters",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد النجاة من هجوم \"غودزيلا\" على \"سان فرانسيسكو\"، تُصدم \"كايت\" مرة أخرى بسر مروع. وسط التهديدات الوحشية، تخوض مغامرة حول العالم لتكتشف الحقيقة عن عائلتها، والمنظمة الغامضة باسم \"مونارك\".",
   "poster_path": "/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-  "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+  "backdrop_path": "/n5FGEUmId87nZAdFiOFmCKXynmT.jpg",
   "release_date": "2023-11-16",
-  "vote_average": 7.8,
-  "vote_count": 1288,
+  "vote_average": 7.7,
+  "vote_count": 1369,
   "genres": [
     {
       "id": 10765,
@@ -27,19 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد النجاة من هجوم \"غودزيلا\" على \"سان فرانسيسكو\"، تُصدم \"كايت\" مرة أخرى بسر مروع. وسط التهديدات الوحشية، تخوض مغامرة حول العالم لتكتشف الحقيقة عن عائلتها، والمنظمة الغامضة باسم \"مونارك\".",
-    "desc_en": "بعد النجاة من هجوم \"غودزيلا\" على \"سان فرانسيسكو\"، تُصدم \"كايت\" مرة أخرى بسر مروع. وسط التهديدات الوحشية، تخوض مغامرة حول العالم لتكتشف الحقيقة عن عائلتها، والمنظمة الغامضة باسم \"مونارك\".",
-    "meta_desc": "مشاهدة Monarch: Legacy of Monsters مترجم بجودة عالية على توميتو.",
-    "keywords": "توميتو Monarch: Legacy of Monsters, أحداث Monarch: Legacy of Monsters بالتفصيل, Monarch: Legacy of Monsters مترجم, قصة فيلم Monarch: Legacy of Monsters, مشاهدة Monarch: Legacy of Monsters 2026",
-    "seo_title_ar": "مشاهدة Monarch: Legacy of Monsters مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "استمتع بمشاهدة مسلسل Monarch: Legacy of Monsters (2023) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تستكمل كايت رحلتها بعد النجاة من هجوم غودزيلا، لتكتشف سرًا مروعًا يقلب حياتها رأسًا على عقب. مسلسل \"العاهل: تراث الوحوش\" يأخذنا في مغامرة حول العالم، حيث تكشف كايت النقاب عن حقيقة عائلتها والمنظمة الغامضة \"مونارك\".",
+    "desc_en": "In \"Monarch: Legacy of Monsters\", Cate's journey continues as she uncovers a shocking secret after surviving Godzilla's attack. This thrilling series takes viewers on a global adventure, as Cate seeks the truth about her family and the mysterious organization, Monarch.",
+    "seo_title_ar": "مشاهدة مسلسل العاهل: تراث الوحوش مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل العاهل: تراث الوحوش، حيث تتصارع كايت مع أسرار عائلتها وتواجه تهديدات وحوش ضخمة. مغامرة مشوقة حول العالم تنتظرك في هذا العمل المثير.",
+    "outro": "شاهد Monarch: Legacy of Monsters الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مسلسل \"العاهل: تراث الوحوش\" يقدم مزيجًا رائعًا من الخيال العلمي والفانتازيا، مع أداء مميز من الممثلين. إنه عمل ممتع ومشوق، يجعلك تتوق لمعرفة المزيد عن عالم الوحوش الغامض.",
+    "opinion_en": "\"Monarch: Legacy of Monsters\" is a captivating series that blends science fiction and fantasy seamlessly. The cast delivers impressive performances, making it an enjoyable and thrilling watch.",
+    "faq": [
+      {
+        "q": "هل مسلسل \"العاهل: تراث الوحوش\" مناسب لجميع الأعمار؟",
+        "a": "قد يحتوي المسلسل على بعض المشاهد العنيفة والمرعبة، لذا يُنصح بمشاهدته من قبل البالغين أو المراهقين تحت إشراف الأهل.",
+        "q_en": "Is \"Monarch: Legacy of Monsters\" suitable for all ages?",
+        "a_en": "The series may contain violent and scary scenes, so it is recommended for adult or teenage audiences with parental guidance."
+      }
+    ],
+    "keywords": "العاهل, تراث الوحوش, Monarch, Legacy Monsters, مسلسل, خيال علمي, فانتازيا, دراما, مغامرة, غودزيلا, سان فرانسيسكو"
   },
   "fixed": true,
-  "first_air_date": "2023-11-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "اليابان",
+  "cast": "Anna Sawai Kiersey Clemons Ren Watabe Mari Yamamoto Anders Holm Joe Tippett Wyatt Russell Kurt Russell",
+  "first_air_date": "2023-11-16"
 }

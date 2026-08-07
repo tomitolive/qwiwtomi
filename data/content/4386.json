@@ -4,14 +4,12 @@
   "title_ar": "Baywatch",
   "title_en": "Baywatch",
   "slug": "4386-baywatch",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "انضم إلى حراس الشواطئ في بايواتش في مغامراتهم المثيرة على الشواطئ الجميلة مع أزيائهم الحمراء الأيقونية. بايواتش مسلسل مليء بالإثارة والدراما والجريمة، استمتع بمشاهدته بجودة عالية وترجمة احترافية.",
   "poster_path": "/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
   "backdrop_path": "/yXuZVMnOEsIhx1vtu9kJGpzmjGN.jpg",
   "release_date": "1989-04-23",
-  "vote_average": 6,
-  "vote_count": 536,
+  "vote_average": 6.0,
+  "vote_count": 553,
   "genres": [
     {
       "id": 10759,
@@ -27,35 +25,30 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تريد مغامرة مثيرة على الشاطئ مع فرقة إنقاذ مشهورة؟",
-    "desc_ar": "في عالم المحيطات، يوجد فريق من الناجين من الكوارث البحرية، الذين يلون في الماء لإنقاذ الناجين من الكوارث البحرية، ويحاولون أن يمنعوا الكوارث البحرية من الحدوث، ولكنهم يواجهون الكثير من المخاطر والصعوبات في أثناء مهماتهم، ويحاولون أن ينجوا من الكوارث البحرية، ويحاولون أن يمنعوا الكوارث البحرية من الحدوث، ويحاولون أن ينجوا من الكوارث البحرية، ويحاولون أن يمنعوا الكوارث البحرية من الحدوث.",
-    "seo_title_ar": "مشاهدة فيلم بайوتش مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بайوتش - توميتو",
-    "outro": "إكتشف العالم المليء بالحركة والإثارة مع فريق الإنقاذ الشهير.",
-    "opinion": "هو فيلم رائع، مليء بالتension والدراما، والعملية، والفكاهة، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم.",
+    "intro": "استمتع بمشاهدة مسلسل Baywatch (1989) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "انضم إلى حراس الشواطئ في بايواتش في مغامراتهم المثيرة على الشواطئ الجميلة مع أزيائهم الحمراء الأيقونية. بايواتش مسلسل مليء بالإثارة والدراما والجريمة، استمتع بمشاهدته بجودة عالية وترجمة احترافية.",
+    "desc_en": "Baywatch, the iconic series, takes you on a thrilling ride with its lifeguards. Join them on beautiful beaches and witness their adventures. Baywatch is an action-packed drama with a touch of crime.",
+    "seo_title_ar": "مشاهدة مسلسل بايواتش Baywatch مترجم - توميتو",
+    "meta_desc": "بايواتش مسلسل مليء بالإثارة والدراما والجريمة، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. انضم إلى حراس الشواطئ في بايواتش في",
+    "outro": "شاهد Baywatch الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "بايواتش، المسلسل الأيقوني، يبقيك على حافة مقعدك مع مغامراته المثيرة. إنه مزيج رائع من الحركة والدراما، ولا يمكنك تفويت مشاهدته!",
+    "opinion_en": "Baywatch is a thrilling ride from start to finish. The iconic lifeguards and their adventures will keep you engaged. A must-watch for action and drama lovers!",
     "faq": [
       {
-        "q": "ما هو بайوتش؟",
-        "a": "هو فيلم رائع، مليء بالتension والدراما، والعملية، والفكاهة، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم."
-      },
-      {
-        "q": "ما هو نوع بайوتش؟",
-        "a": "هو فيلم حركة ومغامرة ودراما وجريمة"
-      },
-      {
-        "q": "هل بайوتش فيلم جيد؟",
-        "a": "نعم، هو فيلم رائع، مليء بالتension والدراما، والعملية، والفكاهة، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم، والشعور بالرعاية واللوم، والشعور بالسعادة واللوم"
+        "q": "هل بايواتش مسلسل قديم؟",
+        "a": "نعم، بايواتش مسلسل قديم بدأ عرضه في عام 1989 واستمر لسنوات عديدة.",
+        "q_en": "Is Baywatch an old series?",
+        "a_en": "Yes, Baywatch is an iconic series that started in 1989 and ran for many years."
       }
     ],
-    "keywords": "فيلم بайوتش مترجم, مشاهدة فيلم بайوتش, مشاهدة Baywatch 1989, أحداث Baywatch بالتفصيل, قصة مسلسل Baywatch, Baywatch مترجم كامل, توميتو Baywatch",
-    "desc_en": "In the world of oceans, there is a team of survivors from marine disasters, who swim in the sea to rescue survivors from marine disasters, and try to prevent marine disasters from happening, but they face many risks and challenges during their missions, and try to survive from marine disasters, and try to prevent marine disasters from happening, and try to survive from marine disasters, and try to prevent marine disasters from happening."
+    "keywords": "بايواتش, Baywatch, مسلسل, حركة, مغامرة, دراما, جريمة, حراس الشواطئ, شواطئ, إثارة"
   },
   "fixed": true,
-  "first_air_date": "1989-04-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "107 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Jacques Brel Catherine Rouvel Paola Pitagora Charles Denner François Cadet"
+  "duration": "42 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Jason Momoa Brande Roderick Michael Bergin Stacy Kamano Jason Brooks Krista Allen Charlie Brumbly",
+  "first_air_date": "1989-04-23"
 }

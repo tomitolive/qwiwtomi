@@ -1,50 +1,53 @@
 {
   "id": 239526,
-  "title": "Sueos de libertad",
-  "title_ar": "Sueos de libertad",
-  "title_en": "Dreams of Freedom",
-  "slug": "239526-dreams-of-freedom",
-  "overview": "تدور أحداث مسلسل \"أحلام الحرية\" حول بيجونيا مونتيس، المرأة التي تعيش في زواج سام وتسعى إلى الحرية المنشودة في إسبانيا عام 1958. وتكشف القصة عن رحلة بيجونيا نحو التحرر من قيودها، حيث تتصارع مع التحديات في مجتمع مقيد. \"أحلام الحرية\"، مسلسل دراما مشوق، يسلط الضوء على النضال من أجل الحرية الشخصية في حقبة زمنية صعبة.",
-  "poster_path": "/k0uSCsavcoGviQK9rfyH2srRjhZ.jpg",
-  "backdrop_path": "/qwoFxyMtArLpZZzG3mmRDEjGgCM.jpg",
-  "release_date": "2024-02-25",
-  "vote_average": 6.1,
-  "vote_count": 16,
+  "title": "BUDDHA 2 --",
+  "title_ar": "BUDDHA 2 --",
+  "title_en": "Buddha 2: The Endless Journey",
+  "slug": "239526-buddha-2-the-endless-journey",
+  "overview": "فيلم BUDDHA 2 --: الرحلة الأبدية، هو فيلم رسوم متحركة درامي تاريخي يسلط الضوء على رحلة الأمير سيدارتا، الذي تخلى عن مملكته لرؤية العالم. يلتقي سيدارتا بأشخاص غريبين، مثل الصبي آساجي الذي يتنبأ بالمستقبل، والراهب ذو العين الواحدة، وديبا. في رحلته، يواجه سيدارتا المعاناة التي تحيط به، بينما يبدأ الأمير روري من كوسارا هجومه على قبيلة شاكيا. هذا هو الفيلم الثاني من إنتاج Tezuka Productions.",
+  "poster_path": "/pbHKzX1J9ou0NSTv4aTlncqq2Nw.jpg",
+  "backdrop_path": "/t4zre7QdIQPtM1khpn0b5TGFDvU.jpg",
+  "release_date": "2014-02-08",
+  "vote_average": 7.7,
+  "vote_count": 50,
   "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
     {
       "id": 18,
       "name": "دراما"
     },
     {
-      "id": 10766,
-      "name": "أوبرا صابونية"
+      "id": 36,
+      "name": "تاريخ"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Sueos de libertad (2024) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"أحلام الحرية\" حول بيجونيا مونتيس، المرأة التي تعيش في زواج سام وتسعى إلى الحرية المنشودة في إسبانيا عام 1958. وتكشف القصة عن رحلة بيجونيا نحو التحرر من قيودها، حيث تتصارع مع التحديات في مجتمع مقيد. \"أحلام الحرية\"، مسلسل دراما مشوق، يسلط الضوء على النضال من أجل الحرية الشخصية في حقبة زمنية صعبة.",
-    "desc_en": "Dreams of Freedom, a gripping drama series, follows Begoña Montes' journey towards freedom from a toxic marriage in 1958 Spain. The story delves into the challenges she faces in a restrictive society, showcasing her struggle for personal liberation. This soap opera-style series offers an engaging exploration of freedom's pursuit.",
-    "seo_title_ar": "مشاهدة مسلسل Sueos Dreams Freedom مترجم - توميتو",
-    "meta_desc": "مشاهدة Sueos مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Sueos de libertad الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"أحلام الحرية\" يقدم قصة مؤثرة عن النضال من أجل الحرية في حقبة زمنية صعبة. إنه عمل درامي متميز يستحق المشاهدة.",
-    "opinion_en": "Dreams of Freedom is a compelling drama that showcases the struggle for freedom in a challenging era. It's a must-watch soap opera series.",
+    "intro": "استمتع بمشاهدة فيلم BUDDHA 2 -- (2014) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "فيلم BUDDHA 2 --: الرحلة الأبدية، هو فيلم رسوم متحركة درامي تاريخي يسلط الضوء على رحلة الأمير سيدارتا، الذي تخلى عن مملكته لرؤية العالم. يلتقي سيدارتا بأشخاص غريبين، مثل الصبي آساجي الذي يتنبأ بالمستقبل، والراهب ذو العين الواحدة، وديبا. في رحلته، يواجه سيدارتا المعاناة التي تحيط به، بينما يبدأ الأمير روري من كوسارا هجومه على قبيلة شاكيا. هذا هو الفيلم الثاني من إنتاج Tezuka Productions.",
+    "desc_en": "Buddha 2: The Endless Journey is a 2014 animated drama that follows Prince Siddhartha's journey as he leaves his kingdom to see the world. He encounters strange individuals, including Assaji, a boy who can predict the future, a one-eyed monk, and Depa. As Siddhartha travels, he is confronted with the sufferings around him, while Prince Ruri of Kosara begins his attack on the Shakya clan.",
+    "seo_title_ar": "مشاهدة فيلم BUDDHA 2 --: الرحلة الأبدية مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Buddha 2: The Endless Journey، وهو فيلم رسوم متحركة درامي تاريخي يروي رحلة الأمير سيدارتا. شاهد كيف يلتقي بأشخاص غريبين ويختبر المعاناة",
+    "outro": "شاهد BUDDHA 2 -- الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم BUDDHA 2 --: الرحلة الأبدية هو عمل فني رائع، حيث يسلط الضوء على رحلة الأمير سيدارتا ومواجهته للمعاناة في العالم. إنه فيلم مؤثر ومثير للإعجاب من إنتاج Tezuka Productions.",
+    "opinion_en": "Buddha 2: The Endless Journey is a visually stunning and emotionally powerful film. It captures the journey of Prince Siddhartha and his encounter with the harsh realities of the world. A must-watch from Tezuka Productions.",
     "faq": [
       {
-        "q": "ما هو مسلسل Sueos  ؟",
-        "a": "مسلسل Sueos   هو مسلسل دراما إسباني يروي قصة امرأة تسعى للحرية من زواج سام.",
-        "q_en": "What is Dreams of Freedom about?",
-        "a_en": "Dreams of Freedom is a Spanish drama series that tells the story of a woman's quest for freedom from a toxic marriage."
+        "q": "ما هو موضوع فيلم BUDDHA 2 --: الرحلة الأبدية؟",
+        "a": "يروي الفيلم رحلة الأمير سيدارتا، الذي يتخلى عن مملكته لرؤية العالم ومواجهة المعاناة.",
+        "q_en": "What is the theme of Buddha 2: The Endless Journey?",
+        "a_en": "The film explores Prince Siddhartha's journey, as he leaves his kingdom to witness the sufferings of the world."
       }
     ],
-    "keywords": "Sueos, Dreams Freedom, مسلسل, دراما, أوبرا صابونية, الحرية, إسبانيا, 1958, بيجونيا مونتيس"
+    "keywords": "BUDDHA 2 --, Buddha 2: The Endless Journey, فيلم, رسوم متحركة, دراما, تاريخ, Tezuka Productions, رحلة, معاناة, هجوم, قبيلة شاكيا"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "50 دقيقة",
-  "language": "الإسبانية",
-  "country": "إسبانيا",
-  "cast": "Natalia Sánchez Dani Tatay Nancho Novo Marta Belmonte Ana Fernández Carolina Lapausa Fernando Andina José Milán",
-  "first_air_date": "2024-02-25"
+  "duration": "120 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Sayuri Yoshinaga Kenichi Matsuyama Yoko Maki 観世清和 Hidetaka Yoshioka Shin'ya Ohwada Tetsuo Hiromasa Taguchi"
 }
