@@ -40,13 +40,16 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 fix_short_descriptions_bot.py
 
+      - name: Download missing poster images
+        run: python3 download_all_images.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "bot-fix@tomito.xyz"
           git config --local user.name "Tomito Fix Bot"
           
-          # Add updated JSON files and tracking file
-          git add data/content/ data/fixed_pages.json || true
+          # Add updated JSON files, tracking file, and poster images
+          git add data/content/ data/fixed_pages.json public/t/p/ || true
           
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
