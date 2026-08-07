@@ -4,8 +4,6 @@
   "title_ar": "الكابادي المشتعلة",
   "title_en": "Burning Kabaddi",
   "slug": "105721-burning-kabaddi",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "لاعب كرة قدم أطلق عليه لقب تاتسويا الخالد، يفقد شغفه بالرياضة ويلتحق بالمدرسة الثانوية إلى أن يتلقى دعوة للإنضمام إلى نادي رياضة شعبية عنيفة تدعى الكابادي.",
   "poster_path": "/nHaTQoEyLJSkMBUASWr3PynbUss.jpg",
   "backdrop_path": "/nN4OVdex64ZeNV1DWmpfqC8MPGu.jpg",
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرياضة، يوجد نوع من الرياضة يسمى الكابادي، حيث يلعب اللاعبون كرة القدم في الميدان، ولكن مع هذا، هناك لاعب واحد يفقد شغفه بالرياضة ويقرر أن يلتحق بالمدرسة الثانوية، ولكن دعوة من النادي الرياضي الشعبي تطرحه في مشروع جديد، حيث سيركب اللاعبون كرة القدم في الميدان، ولكن ما هو هذا المشروع الجديد؟",
-    "desc_en": "In the world of sports, there is a type of sport called Kabaddi, where players play football in the field, but with this, there is one player who loses his passion for sports and decides to join a high school, but an invitation from a popular sports club throws him into a new project, where players will play football in the field, but what is this new project?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الكابادي المشتعلة!",
-    "seo_title_ar": "مشاهدة فيلم الكابادي المشتعلة مترجم اون لاين - توميتو",
-    "keywords": "Burning Kabaddi, فيلم الكابادي المشتعلة مترجم, مشاهدة فيلم الكابادي, الكابادي المشتعلة مترجم كامل, أحداث الكابادي المشتعلة بالتفصيل, توميتو الكابادي المشتعلة, مشاهدة الكابادي المشتعلة 2021, قصة مسلسل الكابادي المشتعلة",
-    "opinion": "هو فيلم كوميدي رائع يلقي بالمرح والضحك، ولكن ما هو الشيء الذي يجعله مختلفاً عن غيره؟",
+    "intro": "استمتع بمشاهدة مسلسل الكابادي المشتعلة (2021) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "لاعب كرة قدم أطلق عليه لقب تاتسويا الخالد، يفقد شغفه بالرياضة ويلتحق بالمدرسة الثانوية إلى أن يتلقى دعوة للإنضمام إلى نادي رياضة شعبية عنيفة تدعى الكابادي.",
+    "desc_en": "Yoigoshi Tatsuya was a star soccer player known as \"Yoigoshi the Unstoppable,\" but when he entered high school, he severed all involvement with sports. Now, he has been invited to a certain sports team. In these matches, victory is achieved through teammates working together to catch and defeat the opponents invading their territory... You could call it a sort of running combat sport. And the name of this game is... Kabaddi.",
+    "seo_title_ar": "مشاهدة مسلسل Burning Kabaddi مترجم - توميتو",
+    "meta_desc": "مشاهدة الكابادي المشتعلة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد الكابادي المشتعلة الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو الكابادي؟",
-        "a": "هو نوع من الرياضة يلعب اللاعبون كرة القدم في الميدان"
+        "q": "كيف يمكنني مشاهدة مسلسل الكابادي المشتعلة?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Burning Kabaddi?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو فيلم الكابادي المشتعلة؟",
-        "a": "هو فيلم كوميدي رائع يلقي بالمرح والضحك"
+        "q": "ما هو تصنيف مسلسل الكابادي المشتعلة?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا.",
+        "q_en": "What is the genre of Burning Kabaddi?",
+        "a_en": "Answer about Burning Kabaddi"
       },
       {
-        "q": "ما هو الشيء الجديد في هذا الفيلم؟",
-        "a": "هو الشيء الذي يجعله مختلفاً عن غيره"
+        "q": "ما هي قصة مسلسل الكابادي المشتعلة?",
+        "a": "لاعب كرة قدم أطلق عليه لقب تاتسويا الخالد، يفقد شغفه بالرياضة ويلتحق بالمدرسة الثانوية إلى أن يتلقى دعوة للإنضمام إلى نادي رياضة شعبية عنيفة تدعى الكابادي.",
+        "q_en": "What is the story of Burning Kabaddi?",
+        "a_en": "Yoigoshi Tatsuya was a star soccer player known as \"Yoigoshi the Unstoppable,\" but when he entered high school, he severed all involvement with sports. Now, he has been invited to a certain sports tea..."
       }
-    ]
+    ],
+    "keywords": "الكابادي المشتعلة مترجم, Burning Kabaddi مترجم, مشاهدة الكابادي المشتعلة, Burning Kabaddi"
   },
   "fixed": true,
-  "first_air_date": "2021-04-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "11 دقيقة",
-  "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Richard Lester Peter Sellers Spike Milligan Mario Fabrizi David Lodge"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Shuichi Uchida Nobuhiko Okamoto Yuma Uchida Gen Sato Makoto Furukawa Tatsuhisa Suzuki Shunsuke Takeuchi Shinichiro Kamio",
+  "first_air_date": "2021-04-03"
 }

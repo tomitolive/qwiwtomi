@@ -8,8 +8,8 @@
   "poster_path": "/107lP2QaOQSf9X0KFHa7zYy4NG8.jpg",
   "backdrop_path": "/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
   "release_date": "2025-11-07",
-  "vote_average": 7,
-  "vote_count": 215,
+  "vote_average": 7.0,
+  "vote_count": 243,
   "genres": [
     {
       "id": 12,
@@ -33,12 +33,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تنطلق فتاة مع شقيقها في رحلة عبر معالم أحلامها الغريبة للغاية ليطلبا من محقق الأمنيات \"ساندمان\" أن يمنحهما عائلة مثالية.",
-    "desc_en": "تنطلق فتاة مع شقيقها في رحلة عبر معالم أحلامها الغريبة للغاية ليطلبا من محقق الأمنيات \"ساندمان\" أن يمنحهما عائلة مثالية.",
-    "meta_desc": "مشاهدة في احلامكما مترجم بجودة عالية على توميتو.",
-    "keywords": "In Your Dreams, في احلامكما مترجم, مشاهدة في احلامكما 2026, أحداث في احلامكما بالتفصيل, توميتو في احلامكما, قصة فيلم في احلامكما",
-    "seo_title_ar": "مشاهدة في احلامكما مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "استمتع بمشاهدة فيلم في احلامكما (2025) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "في أحلامكما، تنطلق ستيفي وشقيقها إيليوت في رحلة عبر أحلامهما الغريبة، حيث يطلبان من محقق الأمنيات \"ساندمان\" تحقيق حلمهما في الحصول على عائلة مثالية. فيلم \"في أحلامكما\" هو مغامرة عائلية خيالية مليئة بالكوميديا والرسوم المتحركة.",
+    "desc_en": "In Your Dreams, Stevie and Elliot embark on a journey through their wild and absurd dreams, seeking the Sandman to grant their wish for the perfect family. This animated adventure is a heartwarming comedy for all ages.",
+    "seo_title_ar": "مشاهدة فيلم في احلامكما In Your Dreams مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم في أحلامكما، وهو فيلم رسوم متحركة عائلي كوميدي خيالي، حيث يخوض الأشقاء مغامرة في عالم الأحلام الغريب بحثا عن عائلة مثالية. استمتع بج",
+    "outro": "شاهد في احلامكما الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"في أحلامكما\" هو تجربة سينمائية ممتعة ومثيرة، حيث يأخذنا في رحلة خيالية عبر عالم الأحلام الساحر. إنه فيلم عائلي رائع يجمع بين المغامرة والكوميديا.",
+    "opinion_en": "In Your Dreams is a delightful cinematic adventure, taking us on a fantastical journey through the dream world. It's a heartwarming family film that blends adventure and comedy seamlessly.",
+    "faq": [
+      {
+        "q": "هل فيلم \"في أحلامكما\" مناسب لجميع الأعمار؟",
+        "a": "نعم، إنه فيلم عائلي مناسب لجميع أفراد العائلة، حيث يحتوي على رسائل إيجابية وقصة ملهمة.",
+        "q_en": "Is In Your Dreams suitable for all ages?",
+        "a_en": "Absolutely! It's a family-friendly film with positive messages and an inspiring story, suitable for all audiences."
+      }
+    ],
+    "keywords": "فيلم, في احلامكما, In Your Dreams, مغامرة, رسوم متحركة, كوميديا, عائلي, فانتازيا, أحلام, ساندمان"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +57,5 @@
   "duration": "87 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jolie Hoang-Rappaport Elias Janssen Simu Liu Craig Robinson Cristin Milioti"
+  "cast": "Jolie Hoang-Rappaport Elias Janssen Simu Liu Craig Robinson Cristin Milioti Gia Carides Omid Djalili SungWon Cho"
 }

@@ -4,14 +4,12 @@
   "title_ar": "بيكسار بوب كورن",
   "title_en": "Pixar Popcorn",
   "slug": "114505-pixar-popcorn",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "مجموعة من الأفلام القصيرة بطولة بعض شخصيات بيكسار المفضلة لديك في قصص صغيرة جديدة تمامًا.",
   "poster_path": "/pRpwcEKPvsj0WKbhrowQbyy4bIg.jpg",
   "backdrop_path": "/20vaL9s1GfZqgA7Ty1JrDqK58qX.jpg",
   "release_date": "2021-01-22",
   "vote_average": 7.2,
-  "vote_count": 198,
+  "vote_count": 199,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم بيكسار، يلتقي عشاق رسوم متحركة والكوميديا والفيلم العائلي مع مجموعة من الأفلام القصيرة التي تجمع شخصيات المفضلة لديك في قصص صغيرة جديدة تمامًا. من أين يأتي هذا؟ من أين يذهب؟ كل شيء من أجل الحصول على المزيد من النكهة والمرح والفكاهة!",
-    "desc_en": "In the world of Pixar, fans of animation, comedy, and family films will meet a collection of short films that bring together beloved characters in new and exciting stories. Where do they come from? Where do they go? Everything is for more flavor, joy, and laughter!",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بيكسار بوب كورن - توميتو",
-    "seo_title_ar": "مشاهدة فيلم بيكسار بوب كورن مترجم اون لاين - توميتو",
-    "keywords": "Pixar Popcorn, فيلم رسوم متحركة مترجم, مشاهدة فيلم كوميديا عائلي, أحداث بيكسار بوب كورن بالتفصيل, توميتو بيكسار بوب كورن, مشاهدة بيكسار بوب كورن 2021, بيكسار بوب كورن مترجم كامل, قصة مسلسل بيكسار بوب كورن",
-    "opinion": "هذه المجموعة من الأفلام القصيرة هي المرة التي ستنال فيها عائلتك جميعاً في عالم بيكسار. ستنال كل منهم شيء من المزيد من النكهة والمرح والفكاهة!",
+    "intro": "استمتع بمشاهدة مسلسل بيكسار بوب كورن (2021) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "مجموعة من الأفلام القصيرة بطولة بعض شخصيات بيكسار المفضلة لديك في قصص صغيرة جديدة تمامًا.",
+    "desc_en": "Grab a quick snack of Pixar with this collection of mini shorts starring your favorite characters.",
+    "seo_title_ar": "مشاهدة مسلسل Pixar Popcorn مترجم - توميتو",
+    "meta_desc": "مشاهدة بيكسار بوب كورن مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد بيكسار بوب كورن الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو بيكسار بوب كورن؟",
-        "a": "هو مجموعة من الأفلام القصيرة التي تجمع شخصيات المفضلة لديك في قصص صغيرة جديدة تمامًا."
+        "q": "كيف يمكنني مشاهدة مسلسل بيكسار بوب كورن?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Pixar Popcorn?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع بيكسار بوب كورن؟",
-        "a": "هو نوع رسوم متحركة و كوميديا و عائلي."
+        "q": "ما هو تصنيف مسلسل بيكسار بوب كورن?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, عائلي.",
+        "q_en": "What is the genre of Pixar Popcorn?",
+        "a_en": "Answer about Pixar Popcorn"
       },
       {
-        "q": "هل بيكسار بوب كورن مناسب لجميع الأعمار؟",
-        "a": "نعم، بيكسار بوب كورن مناسب لجميع الأعمار، من الصغار إلى الكبار، من أجل الحصول على المزيد من النكهة والمرح والفكاهة! "
+        "q": "ما هي قصة مسلسل بيكسار بوب كورن?",
+        "a": "مجموعة من الأفلام القصيرة بطولة بعض شخصيات بيكسار المفضلة لديك في قصص صغيرة جديدة تمامًا.",
+        "q_en": "What is the story of Pixar Popcorn?",
+        "a_en": "Grab a quick snack of Pixar with this collection of mini shorts starring your favorite characters."
       }
-    ]
+    ],
+    "keywords": "بيكسار بوب كورن مترجم, Pixar Popcorn مترجم, مشاهدة بيكسار بوب كورن, Pixar Popcorn"
   },
   "fixed": true,
-  "first_air_date": "2021-01-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
-  "language": "الإيطالية",
-  "country": "إيطاليا",
-  "cast": "Pascal Zullino Andrea Osvárt Riccardo Zinna Sascha Zacharias Francesco Maria Dominedò"
+  "duration": "3 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "",
+  "first_air_date": "2021-01-22"
 }

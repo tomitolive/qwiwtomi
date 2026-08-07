@@ -1,50 +1,57 @@
 {
   "id": 37288,
-  "title": "Morgenmagazin",
-  "title_ar": "Morgenmagazin",
-  "title_en": "Morgenmagazin",
-  "slug": "37288-morgenmagazin",
-  "overview": "مورجينماجازين. مسلسل إخباري وحواري ألماني، يبث منذ عام 1992. يغطي الأحداث الجارية والمقابلات الحصرية، ويوفر نظرة شاملة على الأخبار العالمية.",
-  "poster_path": "/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-  "backdrop_path": null,
-  "release_date": "1992-07-19",
-  "vote_average": 5.3,
-  "vote_count": 3,
+  "title": "Take Care of My Cat",
+  "title_ar": "Take Care of My Cat",
+  "title_en": "Take Care of My Cat",
+  "slug": "37288-take-care-of-my-cat",
+  "overview": "استمتع بمشاهدة فيلم اعتني بقطتي مترجم بجودة عالية.",
+  "poster_path": "/shfJHf75bhAIpQyZSkoOzvheMHi.jpg",
+  "backdrop_path": "/65vwocYaQrSjuaAL3UuNVc0YIoD.jpg",
+  "release_date": "2001-10-12",
+  "vote_average": 6.9,
+  "vote_count": 56,
   "genres": [
     {
-      "id": 10763,
-      "name": "أخبار"
-    },
-    {
-      "id": 10767,
-      "name": "حوار"
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Morgenmagazin (1992) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مورجينماجازين. مسلسل إخباري وحواري ألماني، يبث منذ عام 1992. يغطي الأحداث الجارية والمقابلات الحصرية، ويوفر نظرة شاملة على الأخبار العالمية.",
-    "desc_en": "Morgenmagazin, a German news and talk show series, has been airing since 1992. It offers a comprehensive look at global news with current affairs and exclusive interviews.",
-    "seo_title_ar": "مشاهدة مسلسل مورجينماجازين Morgenmagazin مترجم - توميتو",
-    "meta_desc": "مورجينماجازين. مسلسل إخباري ألماني شهير، يستكشف الأحداث العالمية مع مقابلات حصرية. يبث منذ عام 1992، ويغطي الأخبار بأسلوب شيق.",
-    "outro": "شاهد Morgenmagazin الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مورجينماجازين. برنامج إخباري ممتع، يقدم نظرة شاملة على الأخبار العالمية. يبقى خيارًا مفضلًا للباحثين عن المعلومات الموثوقة.",
-    "opinion_en": "Morgenmagazin is an engaging news program, offering a comprehensive global news experience. It remains a trusted choice for those seeking reliable information.",
+    "intro": "استمتع بمشاهدة فيلم Take Care of My Cat (2001) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم اعتني بقطتي مترجم بجودة عالية.",
+    "desc_en": "When one girl from five close school friends moves to Seoul after school is over, the other four try and deal with the loss of her moving and them drifting apart.",
+    "seo_title_ar": "مشاهدة فيلم Take Care My Cat مترجم - توميتو",
+    "meta_desc": "مشاهدة اعتني بقطتي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Take Care of My Cat الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو مورجينماجازين؟",
-        "a": "مورجينماجازين هو برنامج إخباري ألماني شهير يبث منذ عام 1992.",
-        "q_en": "What is Morgenmagazin?",
-        "a_en": "Morgenmagazin is a popular German news program that has been airing since 1992."
+        "q": "كيف يمكنني مشاهدة فيلم اعتني بقطتي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Take Care of My Cat?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم اعتني بقطتي?",
+        "a": "يندرج العمل تحت تصنيف دراما.",
+        "q_en": "What is the genre of Take Care of My Cat?",
+        "a_en": "It falls under the genre of ."
+      },
+      {
+        "q": "ما هي قصة فيلم اعتني بقطتي?",
+        "a": "إجابة عن اعتني بقطتي",
+        "q_en": "What is the story of Take Care of My Cat?",
+        "a_en": "When one girl from five close school friends moves to Seoul after school is over, the other four try and deal with the loss of her moving and them drifting apart."
       }
     ],
-    "keywords": "مورجينماجازين, Morgenmagazin, مسلسل, إخباري, حواري, أخبار, مقابلات, ألمانيا"
+    "keywords": "اعتني بقطتي مترجم, Take Care My Cat مترجم, مشاهدة اعتني بقطتي, Take Care My Cat"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "210 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Mitri Sirin Andreas Wunn Mirjam Meinhardt Philip Wortmann Eva-Maria Lemke Benjamin Stöwe Maral Bazargani Dunja Hayali",
-  "first_air_date": "1992-07-19"
+  "duration": "112 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Bae Doona Lee Yo-won Ok Ji-young Lee Eun-sil Lee Eun-ju Oh Tae-kyung Kim Hwa-yeong Park Seong-geun"
 }
