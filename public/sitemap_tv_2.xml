@@ -217,6 +217,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/200881-vadhandhi</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/yMlWD4vMzJzJbME8ghTP9a7cVZx.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/2009-rocket-power</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/2755-rules-of-engagement</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tRma9RQCgwLXqkDrCPyrQwsazuJ.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

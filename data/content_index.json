@@ -66968,5 +66968,75 @@
     ],
     "timestamp": 1786087154,
     "fixed": true
+  },
+  {
+    "title": "سباق الحيوانات / Beast Race",
+    "title_ar": "سباق الحيوانات",
+    "title_en": "Beast Race",
+    "slug": "1263532-beast-race",
+    "folder": "movie",
+    "poster": "/t/p/w500/AjDI3wr8qbOetPFhri4ZsMPmh7v.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1263532,
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "خيال علمي",
+      "إثارة"
+    ],
+    "timestamp": 1786108092,
+    "fixed": true
+  },
+  {
+    "title": "LEnfant du Dsert / The Desert Child",
+    "title_ar": "LEnfant du Dsert",
+    "title_en": "The Desert Child",
+    "slug": "1266800-the-desert-child",
+    "folder": "movie",
+    "poster": "/t/p/w500/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1266800,
+    "genre_ids": [
+      10751,
+      12
+    ],
+    "genres": [
+      "عائلي",
+      "مغامرة"
+    ],
+    "timestamp": 1786108101,
+    "fixed": true
+  },
+  {
+    "title": "Vadhandhi / Vadhandhi",
+    "title_ar": "Vadhandhi",
+    "title_en": "Vadhandhi",
+    "slug": "200881-vadhandhi",
+    "folder": "tv",
+    "poster": "/t/p/w500/yMlWD4vMzJzJbME8ghTP9a7cVZx.jpg",
+    "rating": 6.9,
+    "year": "2022",
+    "type": "tv",
+    "tmdb_id": 200881,
+    "genre_ids": [
+      9648,
+      80,
+      18
+    ],
+    "genres": [
+      "غموض",
+      "جريمة",
+      "دراما"
+    ],
+    "timestamp": 1786108110,
+    "fixed": true
   }
 ]
