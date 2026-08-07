@@ -4,13 +4,13 @@ import type { ContentData } from "./content";
 const SITE_URL = "https://tomito.xyz";
 
 /**
- * Ensures meta description is between 150-300 characters
+ * Ensures meta description is between 150-160 characters
  * If description is too short, appends additional descriptive text
  * If description is too long, truncates it
  */
 function ensureMinimumDescriptionLength(description: string, title: string, mediaType: "movie" | "tv"): string {
   const minLength = 150;
-  const maxLength = 300;
+  const maxLength = 160;
   
   // If description is already within range, return it as-is
   if (description.length >= minLength && description.length <= maxLength) {
@@ -107,7 +107,7 @@ export function buildMovieMetadata(opts: {
 
   // Use AI meta_desc only if it's within acceptable range, otherwise use intentLead
   const aiDesc = ai?.meta_desc?.trim();
-  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 310) 
+  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 170) 
     ? aiDesc 
     : intentLead;
 
@@ -192,7 +192,7 @@ export function buildTvMetadata(opts: {
 
   // Use AI meta_desc only if it's within acceptable range, otherwise use intentLead
   const aiDesc = ai?.meta_desc?.trim();
-  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 310) 
+  const baseDescription = (aiDesc && aiDesc.length >= 140 && aiDesc.length <= 170) 
     ? aiDesc 
     : intentLead;
 

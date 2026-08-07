@@ -887,7 +887,7 @@ Generate this exact JSON structure:
 {
   "desc_ar": "3-5 sentences summary in Arabic - MUST include the Arabic Title and English Title in the text",
   "desc_en": "English summary - MUST include the English Title in the text",
-  "meta_desc": "EXACTLY 150-300 characters - MUST include the title - NEVER shorter than 150 characters",
+  "meta_desc": "EXACTLY 150-160 characters - MUST include the title - NEVER shorter than 150 characters",
   "seo_title_ar": "مشاهدة [TYPE] [TITLE_EN] مترجم - توميتو",
   "opinion_ar": "1-2 sentence review in Arabic - MUST include the title",
   "opinion_en": "1-2 sentence review in English - MUST include the title",
@@ -903,7 +903,7 @@ CRITICAL INSTRUCTIONS:
 5. No newlines in strings. Escape quotes properly.
 6. Keywords must NOT start with a comma.
 7. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided.
-8. CRITICAL: meta_desc MUST be exactly 150-300 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length."""
+8. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 

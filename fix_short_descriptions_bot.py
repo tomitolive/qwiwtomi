@@ -56,7 +56,7 @@ def save_fixed_pages(fixed_pages):
         log.error(f"Could not save fixed pages: {e}")
 
 def find_short_descriptions():
-    """البحث عن جميع الصفحات ذات الأوصاف القصيرة."""
+    """البحث عن جميع الصفحات ذات الأوصاف القصيرة أو الطويلة."""
     short_desc_pages = []
     
     if not os.path.exists(CONTENT_DIR):
@@ -77,7 +77,8 @@ def find_short_descriptions():
             ai_content = data.get('ai_content', {})
             meta_desc = ai_content.get('meta_desc', '')
             
-            if meta_desc and len(meta_desc) < 150:
+            # Check if meta_desc is outside the 150-160 range
+            if meta_desc and (len(meta_desc) < 150 or len(meta_desc) > 160):
                 tmdb_id = data.get('tmdb_id') or data.get('id')
                 media_type = data.get('type') or data.get('media_type', 'movie')
                 title = data.get('title_ar') or data.get('title', '')
@@ -99,7 +100,7 @@ def find_short_descriptions():
         except Exception as e:
             log.warning(f"Error reading {json_file}: {e}")
     
-    log.info(f"🔍 Found {len(short_desc_pages)} pages with short descriptions (<150 chars)")
+    log.info(f"🔍 Found {len(short_desc_pages)} pages with descriptions outside 150-160 range")
     return short_desc_pages
 
 def process_batch(short_pages, fixed_pages):
@@ -157,8 +158,8 @@ def process_batch(short_pages, fixed_pages):
                     new_length = len(new_meta_desc) if new_meta_desc else 0
                     log.info(f"   📏 New length: {new_length} chars")
                     
-                    # إذا كان الطول الجديد >= 150، احذف الملف من القائمة
-                    if new_length >= 150:
+                    # إذا كان الطول الجديد بين 150-160، احذف الملف من القائمة
+                    if 150 <= new_length <= 160:
                         log.info(f"   🗑️  Removing from short description list (length OK)")
                 except:
                     pass
