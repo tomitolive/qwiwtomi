@@ -43,13 +43,16 @@ jobs:
       - name: Download missing poster images
         run: python3 download_all_images.py
 
+      - name: Submit to Bing Webmaster Tools (IndexNow)
+        run: python3 google_indexer.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "bot-fix@tomito.xyz"
           git config --local user.name "Tomito Fix Bot"
           
-          # Add updated JSON files, tracking file, and poster images
-          git add data/content/ data/fixed_pages.json public/t/p/ || true
+          # Add updated JSON files, tracking file, poster images, and indexer progress
+          git add data/content/ data/fixed_pages.json public/t/p/ indexer_progress.json || true
           
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
