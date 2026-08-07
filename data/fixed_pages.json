@@ -1007,8 +1007,86 @@
       "file": "62286.json",
       "title": "اخشوا الموتى السائرون",
       "fixed_at": "2026-08-07T05:57:16.538297"
+    },
+    {
+      "tmdb_id": "4046",
+      "file": "4046.json",
+      "title": "Spooks",
+      "fixed_at": "2026-08-07T07:25:02.514165"
+    },
+    {
+      "tmdb_id": "1549",
+      "file": "1549.json",
+      "title": "WWE Friday Night SmackDown",
+      "fixed_at": "2026-08-07T07:25:15.362120"
+    },
+    {
+      "tmdb_id": "269",
+      "file": "269.json",
+      "title": "One Tree Hill",
+      "fixed_at": "2026-08-07T07:25:25.682336"
+    },
+    {
+      "tmdb_id": "337404",
+      "file": "337404.json",
+      "title": "كورلا",
+      "fixed_at": "2026-08-07T07:25:35.222517"
+    },
+    {
+      "tmdb_id": "899082",
+      "file": "899082.json",
+      "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "fixed_at": "2026-08-07T07:25:45.490059"
+    },
+    {
+      "tmdb_id": "323111",
+      "file": "323111.json",
+      "title": "مايكل جاكسون: الحكم",
+      "fixed_at": "2026-08-07T07:25:57.440414"
+    },
+    {
+      "tmdb_id": "195670",
+      "file": "195670.json",
+      "title": "مع قبلاتي، كيتي",
+      "fixed_at": "2026-08-07T07:26:06.901910"
+    },
+    {
+      "tmdb_id": "140607",
+      "file": "140607.json",
+      "title": "Star Wars: The Force Awakens",
+      "fixed_at": "2026-08-07T07:26:19.879030"
+    },
+    {
+      "tmdb_id": "1695",
+      "file": "1695.json",
+      "title": "Monk",
+      "fixed_at": "2026-08-07T07:26:30.865139"
+    },
+    {
+      "tmdb_id": "718930",
+      "file": "718930.json",
+      "title": "قطار فائق السرعة",
+      "fixed_at": "2026-08-07T07:26:40.492769"
+    },
+    {
+      "tmdb_id": "1436",
+      "file": "1436.json",
+      "title": "Justified",
+      "fixed_at": "2026-08-07T07:26:51.360946"
+    },
+    {
+      "tmdb_id": "300126",
+      "file": "300126.json",
+      "title": "لعبة الكذابين",
+      "fixed_at": "2026-08-07T07:27:02.387460"
+    },
+    {
+      "tmdb_id": "60715",
+      "file": "60715.json",
+      "title": "Bref",
+      "fixed_at": "2026-08-07T07:27:12.870806"
     }
   ],
-  "last_updated": "2026-08-07T05:57:18.540966",
-  "total_fixed": 168
+  "last_updated": "2026-08-07T07:27:14.873457",
+  "total_fixed": 181
 }

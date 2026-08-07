@@ -1,46 +1,61 @@
 {
   "id": 1549,
-  "title": "WWE Friday Night SmackDown",
-  "title_ar": "WWE Friday Night SmackDown",
-  "title_en": "WWE Friday Night SmackDown",
-  "slug": "1549-wwe-friday-night-smackdown",
-  "overview": "تعود الإثارة والتشويق مع عرض WWE ليلة الجمعة سماكدوون، حيث يتصارع نجوم المصارعة الترفيهية العالمية في مواجهات ملحمية كل جمعة. استمتع بالإثارة والحماس في WWE Friday Night SmackDown.",
-  "poster_path": "/aECaauQxUz2LBwHh2NQlGD49pRe.jpg",
-  "backdrop_path": "/qD6lxVdmkUNY6Gcc7eRYlxTH79p.jpg",
-  "release_date": "1999-04-29",
-  "vote_average": 7.5,
-  "vote_count": 190,
+  "title": "LEsquive",
+  "title_ar": "LEsquive",
+  "title_en": "Games of Love and Chance",
+  "slug": "1549-games-of-love-and-chance",
+  "overview": "استمتع بمشاهدة فيلم LEsquive مترجم بجودة عالية.",
+  "poster_path": "/qEKHkYrpUKLqdIteCyo1Af2G13U.jpg",
+  "backdrop_path": "/xcC3kBv5RcgmMLp0Xn99fTAhDmz.jpg",
+  "release_date": "2003-11-25",
+  "vote_average": 6.7,
+  "vote_count": 155,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 10749,
+      "name": "رومنسية"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل WWE Friday Night SmackDown (1999) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تعود الإثارة والتشويق مع عرض WWE ليلة الجمعة سماكدوون، حيث يتصارع نجوم المصارعة الترفيهية العالمية في مواجهات ملحمية كل جمعة. استمتع بالإثارة والحماس في WWE Friday Night SmackDown.",
-    "desc_en": "Experience the thrill of WWE Friday Night SmackDown, where World Wrestling Entertainment's superstars collide every Friday. Get ready for an action-packed show!",
-    "seo_title_ar": "مشاهدة مسلسل WWE ليلة الجمعة سماكدوون مترجم - توميتو",
-    "meta_desc": "شاهد WWE ليلة الجمعة سماكدوون، العرض الأسبوعي المثير للمصارعة الترفيهية العالمية WWE Friday Night SmackDown، حيث يتصارع النجوم كل جمعة.",
-    "outro": "شاهد WWE Friday Night SmackDown الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "WWE ليلة الجمعة سماكدوون هو عرض رائع يجمع بين الإثارة والمتعة، حيث يقدم لنا نجوم المصارعة العالمية عروضاً لا تنسى. لا تفوتوا متابعة WWE Friday Night SmackDown.",
-    "opinion_en": "WWE Friday Night SmackDown is an exciting show that delivers thrilling matches and unforgettable moments. A must-watch for all WWE fans!",
+    "intro": "استمتع بمشاهدة فيلم LEsquive (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم LEsquive مترجم بجودة عالية.",
+    "desc_en": "A group of teenagers living in a housing project in the outskirts of Paris rehearse a scene from Marivaux's play of the same name. Krimo is determined not to take part, but after developing feelings for Lydia, he quickly assumes the main role and love interest in the play.",
+    "seo_title_ar": "مشاهدة فيلم Games Love Chance مترجم - توميتو",
+    "meta_desc": "مشاهدة LEsquive مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد LEsquive الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "هل WWE ليلة الجمعة سماكدوون مناسب لجميع الأعمار؟",
-        "a": "نعم، العرض مناسب للعائلات، لكنه قد يحتوي على بعض المشاهد العنيفة التي قد لا تناسب الأطفال الصغار.",
-        "q_en": "Is WWE Friday Night SmackDown suitable for all ages?",
-        "a_en": "Yes, it's family-friendly, but it may contain some violent scenes that might not be suitable for very young children."
+        "q": "كيف يمكنني مشاهدة فيلم LEsquive?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Games of Love and Chance?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم LEsquive?",
+        "a": "يندرج العمل تحت تصنيف رومنسية, دراما.",
+        "q_en": "What is the genre of Games of Love and Chance?",
+        "a_en": "It falls under the genre of , ."
+      },
+      {
+        "q": "ما هي قصة فيلم LEsquive?",
+        "a": "إجابة عن LEsquive",
+        "q_en": "What is the story of Games of Love and Chance?",
+        "a_en": "A group of teenagers living in a housing project in the outskirts of Paris rehearse a scene from Marivaux's play of the same name. Krimo is determined not to take part, but after developing feelings f..."
       }
     ],
-    "keywords": "WWE, ليلة الجمعة سماكدوون, المصارعة الترفيهية, WWE Friday Night SmackDown, واقع, إثارة, حماس"
+    "keywords": "LEsquive مترجم, Games Love Chance مترجم, مشاهدة LEsquive, Games Love Chance"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "",
-  "first_air_date": "1999-04-29"
+  "duration": "124 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Osman Elkharraz Sara Forestier Sabrina Ouazani Nanou Benhamou Hafet Ben-Ahmed Aurélie Ganito Carole Franck Hajar Hamlili"
 }
