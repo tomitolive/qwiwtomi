@@ -4,9 +4,7 @@
   "title_ar": "Kaleido Star",
   "title_en": "Kaleido Star",
   "slug": "12501-kaleido-star",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل كاليدو ستار مترجم بجودة عالية.",
   "poster_path": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
   "backdrop_path": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
   "release_date": "2003-04-03",
@@ -31,33 +29,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متغير، حيث الأبطال والشعوذة والكتابات والشعوذة، تتشابح فيما بينها، وتعيد بناء العالم من جديد. Kaleido Star، سلسلة رسوم متحركة رائعة، تtell قصة حقيقية عن الأبطال الذين يلدغون في عالم متغير، ويحاولون إعادة بناء العالم من جديد.",
-    "desc_en": "In a world of chaos, where heroes and villains, and books and magic, collide and rebuild the world anew. Kaleido Star, a magnificent animated series, tells the real story of heroes who struggle in a changing world, and try to rebuild it anew.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Kaleido Star - رسوم متحركة رائعة!",
-    "seo_title_ar": "مشاهدة فيلم Kaleido Star مترجم اون لاين - توميتو",
-    "keywords": "فيلم Kaleido Star مترجم, مشاهدة فيلم Kaleido Star, أحداث Kaleido Star بالتفصيل, قصة مسلسل Kaleido Star, مشاهدة Kaleido Star 2003, Kaleido Star مترجم كامل, توميتو Kaleido Star",
-    "opinion": " Kaleido Star، سلسلة رسوم متحركة رائعة، تtell قصة حقيقية عن الأبطال الذين يلدغون في عالم متغير، ويحاولون إعادة بناء العالم من جديد. قصة رائعة، تملأ القلب بالحب والرغبة",
+    "intro": "استمتع بمشاهدة مسلسل Kaleido Star (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل كاليدو ستار مترجم بجودة عالية.",
+    "desc_en": "Sora, a young girl from Japan, comes to America in search of her dream. She wants, with all her heart, to be a member of the famous Kaleido Stage, a combination of musicals, acrobatics and magical effects. With the help of her friends, she struggles to make this dream come true.",
+    "seo_title_ar": "مشاهدة مسلسل Kaleido Star مترجم - توميتو",
+    "meta_desc": "مشاهدة كاليدو ستار مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Kaleido Star الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو Kaleido Star؟",
-        "a": " Kaleido Star، سلسلة رسوم متحركة رائعة، تtell قصة حقيقية عن الأبطال الذين يلدغون في عالم متغير، ويحاولون إعادة بناء العالم من جديد."
+        "q": "كيف يمكنني مشاهدة مسلسل كاليدو ستار?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Kaleido Star?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع Kaleido Star؟",
-        "a": " Kaleido Star، سلسلة رسوم متحركة رائعة، من نوع رسوم متحركة"
+        "q": "ما هو تصنيف مسلسل كاليدو ستار?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, دراما, خيال علمي وفانتازيا.",
+        "q_en": "What is the genre of Kaleido Star?",
+        "a_en": "Answer about Kaleido Star"
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه Kaleido Star؟",
-        "a": " Kaleido Star، سلسلة رسوم متحركة رائعة، يحدث فيها عالم متغير"
+        "q": "ما هي قصة مسلسل كاليدو ستار?",
+        "a": "إجابة عن كاليدو ستار",
+        "q_en": "What is the story of Kaleido Star?",
+        "a_en": "Sora, a young girl from Japan, comes to America in search of her dream. She wants, with all her heart, to be a member of the famous Kaleido Stage, a combination of musicals, acrobatics and magical eff..."
       }
-    ]
+    ],
+    "keywords": "كاليدو ستار مترجم, Kaleido Star مترجم, مشاهدة كاليدو ستار, Kaleido Star"
   },
   "fixed": true,
-  "first_air_date": "2003-04-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "167 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Gregory Peck Jean Simmons Carroll Baker Charlton Heston Burl Ives"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Ryo Hirohashi Takehito Koyasu Etsuko Kozakura Kaori Mizuhashi Takahiro Sakurai Hiro Shimono Keiji Fujiwara Aya Hisakawa",
+  "first_air_date": "2003-04-03"
 }

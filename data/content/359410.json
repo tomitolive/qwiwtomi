@@ -9,7 +9,7 @@
   "backdrop_path": "/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
   "release_date": "2024-03-08",
   "vote_average": 6.9,
-  "vote_count": 3031,
+  "vote_count": 3140,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في النسخة الجديدة من فيلم كلاسيكي من الثمانينيات، المقاتل السابق في بطولة القتال النهائي دالتون ، يقبل بوظيفة كحارس في حانة على الطريق في فلوريدا كيز، ليكتشف أن هذه الجنة ليست كما تبدو عليه. يمر دالتون بالعديد من المغامرات والقتالات في هذه الحانة التي يبدو عليها أنها الجنة على الأرض، لكنه يكتشف أن هناك الكثير من الأخطاء والمنازعات والقتال في هذه المدينة الصغيرة.",
-    "desc_en": "In the new version of a classic film from the 80s, the former fighter in the final fight, Dalton, accepts a job as a bouncer in Road House in Florida Keys, only to discover that this paradise is not as it seems. Dalton goes through many adventures and fights in this paradise that appears to be heaven on earth, but he discovers that there are many mistakes, disputes, and fights in this small town.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في حانة على الطريق!",
-    "seo_title_ar": "مشاهدة فيلم حانة على الطريق مترجم اون لاين - توميتو",
-    "keywords": "Road House, فيلم حانة على الطريق مترجم, مشاهدة فيلم حانة على الطريق, قصة فيلم حانة على الطريق, مشاهدة حانة على الطريق 2024, توميتو حانة على الطريق, أحداث حانة على الطريق بالتفصيل, حانة على الطريق مترجم",
-    "opinion": "هذا الفيلم هو مثال رائع لفنون الحرب والقتال، مع قصة رائعة والشخصيات القوية، ويحملك هذا الفيلم إلى عالم من المغامرات والقتال، ويجعلك تريد المزيد.",
+    "intro": "استمتع بمشاهدة فيلم حانة على الطريق (2024) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "في النسخة الجديدة من فيلم كلاسيكي من الثمانينيات، المقاتل السابق في بطولة القتال النهائي دالتون ، يقبل بوظيفة كحارس في حانة على الطريق في فلوريدا كيز، ليكتشف أن هذه الجنة ليست كما تبدو عليه.",
+    "desc_en": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+    "seo_title_ar": "مشاهدة فيلم Road House مترجم - توميتو",
+    "meta_desc": "مشاهدة حانة على الطريق مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد حانة على الطريق الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم حانة على الطريق؟",
-        "a": "هو فيلم حركة إثارة دراما من الثمانينيات يتبع قصة المقاتل السابق دالتون في حانة على الطريق."
+        "q": "كيف يمكنني مشاهدة فيلم حانة على الطريق?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Road House?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم حانة على الطريق؟",
-        "a": "هو فيلم حركة إثارة دراما"
+        "q": "ما هو تصنيف فيلم حانة على الطريق?",
+        "a": "يندرج العمل تحت تصنيف حركة, إثارة, دراما.",
+        "q_en": "What is the genre of Road House?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو أفضل ما في فيلم حانة على الطريق؟",
-        "a": "هو قصة رائعة والشخصيات القوية والقتال وال مغامرات"
+        "q": "ما هي قصة فيلم حانة على الطريق?",
+        "a": "إجابة عن حانة على الطريق",
+        "q_en": "What is the story of Road House?",
+        "a_en": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems."
       }
-    ]
+    ],
+    "keywords": "حانة على الطريق مترجم, Road House مترجم, مشاهدة حانة على الطريق, Road House"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "121 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jake Gyllenhaal Conor McGregor Billy Magnussen Travis Van Winkle Darren Barnet"
+  "cast": "Jake Gyllenhaal Conor McGregor Billy Magnussen Travis Van Winkle Darren Barnet Daniela Melchior Jessica Williams Joaquim de Almeida"
 }
