@@ -4,14 +4,12 @@
   "title_ar": "The Daily Show",
   "title_en": "The Daily Show",
   "slug": "2224-the-daily-show",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل العرض اليومي مترجم بجودة عالية.",
   "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
   "backdrop_path": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
   "release_date": "1996-07-22",
   "vote_average": 6.4,
-  "vote_count": 631,
+  "vote_count": 649,
   "genres": [
     {
       "id": 10763,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في برنامج «الديلي شو»، يلقي المضيف الرئيسي جون ستewart مناقشة الأحداث اليومية مع نجمين من الشهرة، حيث يتعرفون على الأحداث الجارية في العالم ويتناقشونها مع زملائهم في البرنامج، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون.",
-    "desc_en": "In the show 'The Daily Show', the main host John Stewart discusses current events with two celebrities, where they learn about the ongoing events in the world and discuss them with their colleagues, making the show one of the most prominent in television.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في برنامج «الديلي شو»!",
-    "seo_title_ar": "مشاهدة برنامج «الديلي شو» مترجم اون لاين - توميتو",
-    "keywords": "برنامج أخبار كوميديا, مشاهدة برنامج كوميديا مترجم, أحداث The Daily Show بالتفصيل, توميتو The Daily Show, The Daily Show مترجم كامل, مشاهدة The Daily Show 1996, قصة مسلسل The Daily Show",
-    "opinion": "برنامج «الديلي شو» هو برنامج كوميديا رائع يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون.",
+    "intro": "استمتع بمشاهدة مسلسل The Daily Show (1996) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل العرض اليومي مترجم بجودة عالية.",
+    "desc_en": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "seo_title_ar": "مشاهدة مسلسل The Daily Show مترجم - توميتو",
+    "meta_desc": "مشاهدة العرض اليومي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد The Daily Show الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو برنامج «الديلي شو»؟",
-        "a": "برنامج كوميديا يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة."
+        "q": "كيف يمكنني مشاهدة مسلسل العرض اليومي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Daily Show?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "برنامج تلفزيوني"
+        "q": "ما هو تصنيف مسلسل العرض اليومي?",
+        "a": "يندرج العمل تحت تصنيف أخبار, كوميديا.",
+        "q_en": "What is the genre of The Daily Show?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هي أهمية البرنامج؟",
-        "a": "برنامج رائع يلقي مناقشة الأحداث اليومية مع نجمين من الشهرة، مما يجعل البرنامج من أكثر البرامج البارزة في التلفزيون."
+        "q": "ما هي قصة مسلسل العرض اليومي?",
+        "a": "إجابة عن العرض اليومي",
+        "q_en": "What is the story of The Daily Show?",
+        "a_en": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture."
       }
-    ]
+    ],
+    "keywords": "العرض اليومي مترجم, The Daily Show مترجم, مشاهدة العرض اليومي, The Daily Show"
   },
   "fixed": true,
-  "first_air_date": "1996-07-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "",
+  "first_air_date": "1996-07-22"
 }

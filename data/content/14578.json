@@ -4,9 +4,7 @@
   "title_ar": "The Adventures of Peter Pan",
   "title_en": "The Adventures of Peter Pan",
   "slug": "14578-the-adventures-of-peter-pan",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل مغامرات بيتر بان مترجم بجودة عالية.",
   "poster_path": "/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
   "backdrop_path": "/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
   "release_date": "1989-01-15",
@@ -31,33 +29,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال والفانتازيا، يلتقينا ببيتر بان، الفتى الذي لم يเตير مع الزمن. مع صديقه تinker bell، يذهب إلى جزيرة نيمس، حيث يلتقي بباندا، الفتى الذي لم يเตير مع الزمن أيضاً. معًا، يخوضون مغامرة رائعة مليئة بالفخار والمرح، ولكن ما ينتظرهم هو ما يجعلهم يفقدون الارتياح؟",
-    "desc_en": "In a world of fantasy and adventure, we meet Peter Pan, the boy who never grew up. With his friend Tinker Bell, he goes to Neverland, where he meets Banda, the boy who also never grew up. Together, they embark on a thrilling adventure filled with excitement and joy, but what awaits them will make them lose their sense of security?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مغامرة بيتر بان!",
-    "seo_title_ar": "مشاهدة فيلم مغامرة بيتر بان مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم خيال علمي وفانتازيا, رسوم متحركة, حركة ومغامرة, أحداث The Adventures of Peter Pan بالتفصيل, The Adventures of Peter Pan مترجم كامل, قصة مسلسل The Adventures of Peter Pan, توميتو The Adventures of Peter Pan, مشاهدة The Adventures of Peter Pan 1989",
-    "opinion": "هذه المغامرة رائعة، مليئة بالمرح والفخار، ولكنها أيضاً تفتح أبوابنا على العالم الخيالي الذي ينتظرنا",
+    "intro": "استمتع بمشاهدة مسلسل The Adventures of Peter Pan (1989) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل مغامرات بيتر بان مترجم بجودة عالية.",
+    "desc_en": "The anime starts with Wendy having a dream about Peter Pan rescuing her and having a sword fight with Captain Hook. Wendy and her two brothers later on the episode go to Never Never land and Wendy becomes the 'mother' of the Lost boys. Throughout the series a romance blooms between Peter and Wendy as they go on fights with pirates . The last half of the series go to a different direction then the original story line and also introduce a new character ( Princess Luna ) who becomes an important part of the last episodes.",
+    "seo_title_ar": "مشاهدة مسلسل The Adventures Peter Pan مترجم - توميتو",
+    "meta_desc": "مشاهدة مغامرات بيتر بان مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد The Adventures of Peter Pan الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم مغامرة بيتر بان؟",
-        "a": "هو فيلم كوميديا خيال علمي وفانتازيا رسوم متحركة حركة ومغامرة"
+        "q": "كيف يمكنني مشاهدة مسلسل مغامرات بيتر بان?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Adventures of Peter Pan?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو العالم الخيالي في فيلم مغامرة بيتر بان؟",
-        "a": "هو عالم مليء بالمرح والفخار والفانتازيا"
+        "q": "ما هو تصنيف مسلسل مغامرات بيتر بان?",
+        "a": "يندرج العمل تحت تصنيف كوميديا, خيال علمي وفانتازيا, رسوم متحركة, حركة ومغامرة.",
+        "q_en": "What is the genre of The Adventures of Peter Pan?",
+        "a_en": "Answer about The Adventures of Peter Pan"
       },
       {
-        "q": "ما هو فيلم مغامرة بيتر بان مناسب لمن؟",
-        "a": "هو فيلم مناسب لجميع الأعمار، من الصغار إلى الكبار"
+        "q": "ما هي قصة مسلسل مغامرات بيتر بان?",
+        "a": "إجابة عن مغامرات بيتر بان",
+        "q_en": "What is the story of The Adventures of Peter Pan?",
+        "a_en": "The anime starts with Wendy having a dream about Peter Pan rescuing her and having a sword fight with Captain Hook. Wendy and her two brothers later on the episode go to Never Never land and Wendy bec..."
       }
-    ]
+    ],
+    "keywords": "مغامرات بيتر بان مترجم, The Adventures Peter Pan مترجم, مشاهدة مغامرات بيتر بان, The Adventures Peter Pan"
   },
   "fixed": true,
-  "first_air_date": "1989-01-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "96 دقيقة",
-  "language": "الإنجليزية",
+  "duration": "30 دقيقة",
+  "language": "اليابانية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Shawn Hatosy Amy Smart Alec Baldwin Jon Abrahams Richard Jenkins"
+  "cast": "Noriko Hidaka Naoko Matsui Chikao Ohtsuka Sumi Shimamoto Hisako Kyoda Hiroko Emori Maria Kawamura Kazue Ikura",
+  "first_air_date": "1989-01-15"
 }

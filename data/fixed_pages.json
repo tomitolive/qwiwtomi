@@ -1163,8 +1163,86 @@
       "file": "10192.json",
       "title": "شريك 4",
       "fixed_at": "2026-08-07T08:42:01.311274"
+    },
+    {
+      "tmdb_id": "210107",
+      "file": "210107.json",
+      "title": "ما وراء اللمسة",
+      "fixed_at": "2026-08-07T09:43:05.528075"
+    },
+    {
+      "tmdb_id": "318254",
+      "file": "318254.json",
+      "title": "Kaptaan",
+      "fixed_at": "2026-08-07T09:43:16.373528"
+    },
+    {
+      "tmdb_id": "552524",
+      "file": "552524.json",
+      "title": "ليلو وستيتش",
+      "fixed_at": "2026-08-07T09:43:26.039626"
+    },
+    {
+      "tmdb_id": "70796",
+      "file": "70796.json",
+      "title": "The Marvelous Mrs. Maisel",
+      "fixed_at": "2026-08-07T09:43:36.851552"
+    },
+    {
+      "tmdb_id": "14578",
+      "file": "14578.json",
+      "title": "The Adventures of Peter Pan",
+      "fixed_at": "2026-08-07T09:43:47.283994"
+    },
+    {
+      "tmdb_id": "56292",
+      "file": "56292.json",
+      "title": "المهمة المستحيلة: بروتوكول الأشباح",
+      "fixed_at": "2026-08-07T09:43:56.730962"
+    },
+    {
+      "tmdb_id": "107703",
+      "file": "107703.json",
+      "title": "The Big Game",
+      "fixed_at": "2026-08-07T09:44:10.931437"
+    },
+    {
+      "tmdb_id": "3604",
+      "file": "3604.json",
+      "title": "Flash Gordon",
+      "fixed_at": "2026-08-07T09:44:21.625366"
+    },
+    {
+      "tmdb_id": "2224",
+      "file": "2224.json",
+      "title": "The Daily Show",
+      "fixed_at": "2026-08-07T09:44:31.173608"
+    },
+    {
+      "tmdb_id": "1480382",
+      "file": "1480382.json",
+      "title": "صوت هند رجب",
+      "fixed_at": "2026-08-07T09:44:42.534590"
+    },
+    {
+      "tmdb_id": "287973",
+      "file": "287973.json",
+      "title": "Ren Arisugawa Is Actually a Girl",
+      "fixed_at": "2026-08-07T09:44:53.522583"
+    },
+    {
+      "tmdb_id": "774370",
+      "file": "774370.json",
+      "title": "رجل الكلب",
+      "fixed_at": "2026-08-07T09:45:03.040589"
+    },
+    {
+      "tmdb_id": "2832",
+      "file": "2832.json",
+      "title": "Identity",
+      "fixed_at": "2026-08-07T09:45:13.797141"
     }
   ],
-  "last_updated": "2026-08-07T08:42:03.313913",
-  "total_fixed": 194
+  "last_updated": "2026-08-07T09:45:16.016260",
+  "total_fixed": 207
 }
