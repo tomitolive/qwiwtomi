@@ -4,9 +4,7 @@
   "title_ar": "Sydney to the Max",
   "title_en": "Sydney to the Max",
   "slug": "84915-sydney-to-the-max",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل سيدني إلى الحد الأقصى مترجم بجودة عالية.",
   "poster_path": "/8fUg9oTNbf0Wlhv4Ww97JAdAhL4.jpg",
   "backdrop_path": "/cAXMljCbVw0hruBPJYRoIRKfjDN.jpg",
   "release_date": "2019-01-25",
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المدرسة، يوجد الكثير من الأحداث المدهشة والكوميديا، ولكن في هذه الحلقة، نرى كيف يتعامل سيدني مع مشاكله الشخصية، ويحاول أن يجد حلًا لها، بينما يلعب دوراً رئيسياً في حل مشاكل زملائه في المدرسة، ويحصل على إعجابهم جميعاً.",
-    "desc_en": "In the world of school, there are many surprising events and comedies, but in this episode, we see how Sydney deals with her personal problems, trying to find a solution, while playing a leading role in solving her classmates' problems, and getting everyone's admiration.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الحلقة الجديدة من سيدني إلى ماكس!",
-    "seo_title_ar": "مشاهدة فيلم سيدني إلى ماكس مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميدي عائلي, مشاهدة فيلم سيدني إلى ماكس مترجم, توميتو Sydney to the Max, Sydney to the Max مترجم كامل, أحداث Sydney to the Max بالتفصيل, مشاهدة Sydney to the Max 2019, قصة مسلسل Sydney to the Max",
-    "opinion": "هذه الحلقة من سيدني إلى ماكس هي إحدى أفضل الحلقات في السنة، حيث تجمع بين الكوميديا والدراما في أفضل حال، وتحصل على إعجاب الجمهور كل عام.",
+    "intro": "استمتع بمشاهدة مسلسل Sydney to the Max (2019) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل سيدني إلى الحد الأقصى مترجم بجودة عالية.",
+    "desc_en": "Outgoing 13-year-old Sydney is on the fast track to growing up, despite the goodhearted efforts of her protective father, Max. As Sydney attempts to spread her wings and make more decisions for herself, Max does everything he can to rein her in and keep her his little girl. But in so doing, his mother, Judy, is reminded of his own antics at Sydney's age, and the parallels -- illustrated by comical flashback sequences starring a young Max -- are both amusing and enlightening.",
+    "seo_title_ar": "مشاهدة مسلسل Sydney Max مترجم - توميتو",
+    "meta_desc": "مشاهدة سيدني إلى الحد الأقصى مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Sydney to the Max الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو سيدني إلى ماكس؟",
-        "a": "هو مسلسل كوميدي عائلي يروي قصة سيدني وهي فتاة في المدرسة."
+        "q": "كيف يمكنني مشاهدة مسلسل سيدني إلى الحد الأقصى?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Sydney to the Max?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو أفضل جزء من الحلقة؟",
-        "a": "أفضل جزء هو كيف يتعامل سيدني مع مشاكله الشخصية."
+        "q": "ما هو تصنيف مسلسل سيدني إلى الحد الأقصى?",
+        "a": "يندرج العمل تحت تصنيف كوميديا, عائلي.",
+        "q_en": "What is the genre of Sydney to the Max?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو نوع هذا المسلسل؟",
-        "a": "هو مسلسل كوميدي عائلي"
+        "q": "ما هي قصة مسلسل سيدني إلى الحد الأقصى?",
+        "a": "إجابة عن سيدني إلى الحد الأقصى",
+        "q_en": "What is the story of Sydney to the Max?",
+        "a_en": "Outgoing 13-year-old Sydney is on the fast track to growing up, despite the goodhearted efforts of her protective father, Max. As Sydney attempts to spread her wings and make more decisions for hersel..."
       }
-    ]
+    ],
+    "keywords": "سيدني إلى الحد الأقصى مترجم, Sydney Max مترجم, مشاهدة سيدني إلى الحد الأقصى, Sydney Max"
   },
   "fixed": true,
-  "first_air_date": "2019-01-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "85 دقيقة",
+  "duration": "23 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Mia Zottoli Regina Russell Banali Mark Weiler Noah Frank George Saunders"
+  "cast": "Ruth Righi Ava Kolker Ian Reed Kesler Caroline Rhea Jackson Dollinger Christian J. Simon",
+  "first_air_date": "2019-01-25"
 }

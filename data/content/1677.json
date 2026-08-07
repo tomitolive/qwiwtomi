@@ -9,7 +9,7 @@
   "backdrop_path": "/umtxTkop7Ec9UFynjB7Z53lmkX1.jpg",
   "release_date": "2004-10-29",
   "vote_average": 7.5,
-  "vote_count": 2210,
+  "vote_count": 2260,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الموسيقى، يلد راي تشارلز في مزرعة في شمال فلوريدا، ويتصاب بالعمى في السابعة. يتعامل مع هذه الحδήة من خلال موسيقى البيانو، التي تلهمته ليكون مغنياً رائداً في الجمع بين الإنجيل والبلد معاً.",
-    "desc_en": "In the world of music, Ray Charles was born on a farm in northern Florida, and became blind at the age of 7. He deals with this challenge through piano music, which inspires him to become a pioneering musician in combining gospel and secular music.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم راي - توميتو",
-    "seo_title_ar": "مشاهدة فيلم راي مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما موسيقى مترجم, مشاهدة فيلم راي, قصة فيلم Ray, توميتو Ray, أحداث Ray بالتفصيل, Ray مترجم, مشاهدة Ray 2004",
-    "opinion": "فيلم راي هو فيلم رائع يلقي الضوء على حياة راي تشارلز، المغني الرائد في الجمع بين الإنجيل والبلد معاً. فيلم رائع يلقي الضوء على حياة راي تشارلز، المغني الرائد في الجمع بين الإنجيل والبلد معاً.",
+    "intro": "استمتع بمشاهدة فيلم Ray (2004) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "وُلد راي تشارلز في مزرعة للزراعة في شمال فلوريدا ، وأصاب بالعمى في السابعة. مستوحى من أم مستقلة بشدة أصرّت على أن يتخذ طريقه الخاص ، وجد دعوته وهديته وراء لوحة مفاتيح البيانو. خلال جولة في الدائرة الموسيقية الجنوبية ، اكتسب المغني الشغوف سمعة طيبة ثم انفجر بشهرة عالمية عندما كان رائداً في الجمع بين الإنجيل والبلد معًا.",
+    "desc_en": "Born on a sharecropping plantation in Northern Florida, Ray Charles went blind at seven. Inspired by a fiercely independent mom who insisted he make his own way, He found his calling and his gift behind a piano keyboard. Touring across the Southern musical circuit, the soulful singer gained a reputation and then exploded with worldwide fame when he pioneered coupling gospel and country together.",
+    "seo_title_ar": "مشاهدة فيلم Ray مترجم - توميتو",
+    "meta_desc": "مشاهدة راي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Ray الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم راي؟",
-        "a": "فيلم راي هو فيلم دراما موسيقى يلقي الضوء على حياة راي تشارلز، المغني الرائد في الجمع بين الإنجيل والبلد معاً."
+        "q": "كيف يمكنني مشاهدة فيلم راي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Ray?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم راي؟",
-        "a": "فيلم راي هو فيلم دراما موسيقى"
+        "q": "ما هو تصنيف فيلم راي?",
+        "a": "يندرج العمل تحت تصنيف دراما, موسيقى.",
+        "q_en": "What is the genre of Ray?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو سبب ظهور فيلم راي؟",
-        "a": "فيلم راي ظهر ليلقي الضوء على حياة راي تشارلز، المغني الرائد في الجمع بين الإنجيل والبلد معاً"
+        "q": "ما هي قصة فيلم راي?",
+        "a": "إجابة عن راي",
+        "q_en": "What is the story of Ray?",
+        "a_en": "Born on a sharecropping plantation in Northern Florida, Ray Charles went blind at seven. Inspired by a fiercely independent mom who insisted he make his own way, He found his calling and his gift behi..."
       }
-    ]
+    ],
+    "keywords": "راي بان, لانا ديل راي, ستار راي, كول راي, نظارات راي بان, جيلي ستار راي, اشواريا راي, راي اليوم, اكس راي, نظارة راي بان"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +57,5 @@
   "duration": "152 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jamie Foxx Kerry Washington Regina King Harry Lennix Clifton Powell"
+  "cast": "Jamie Foxx Kerry Washington Regina King Harry Lennix Clifton Powell Bokeem Woodbine Sharon Warren C.J. Sanders"
 }
