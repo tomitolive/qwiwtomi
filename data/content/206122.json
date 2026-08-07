@@ -4,14 +4,12 @@
   "title_ar": "20",
   "title_en": "Twinkle Love",
   "slug": "206122-twinkle-love",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل 20 مترجم بجودة عالية.",
   "poster_path": "/eCtD0KAa5rRNMnvB4KvLYD4ntRk.jpg",
   "backdrop_path": "/we0PMkWfv10Sm9BsxxOYRmboEv6.jpg",
   "release_date": "2021-05-05",
-  "vote_average": 7,
-  "vote_count": 10,
+  "vote_average": 7.0,
+  "vote_count": 2,
   "genres": [
     {
       "id": 10764,
@@ -19,33 +17,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالحب والمرحلة، يلتقي اثنان من الأصدقاء القدامى، الذين عانوا من الألم والخوف في الماضي، مع شخص جديد يأتي ل改变 كل شيء. سوف نرى كيف يأخذون قراراتهم ويمارسون حبهم، في عالم مليء بالمرحلة والكذب.",
-    "desc_en": "In a world full of love and drama, two old friends who have suffered from pain and fear in the past meet a new person who comes to change everything. We will see how they take their decisions and practice their love in a world full of drama and lies.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في 20",
-    "seo_title_ar": "مشاهدة فيلم 20 مترجم اون لاين - توميتو",
-    "keywords": "Twinkle Love, فيلم واقع مترجم, مشاهدة فيلم واقع, أحداث 20 بالتفصيل, توميتو 20, 20 مترجم كامل, قصة مسلسل 20, مشاهدة 20 2021",
-    "opinion": "هو فيلم واقع يخلق عالماً مليئاً بالحب والمرحلة، حيث يمكنك أن تتعرف على الأصدقاء القدامى الذين عانوا من الألم والخوف في الماضي.",
+    "intro": "استمتع بمشاهدة مسلسل 20 (2021) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل 20 مترجم بجودة عالية.",
+    "desc_en": "A reality show where 10  youths in their early 20s that recently graduated university will go on a graduation trip together. They have different personalities and different backgrounds but with time spent with each other, they form friendships and relationships.",
+    "seo_title_ar": "مشاهدة مسلسل Twinkle Love مترجم - توميتو",
+    "meta_desc": "مشاهدة 20 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد 20 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم 20؟",
-        "a": "هو فيلم تلفزيوني"
+        "q": "كيف يمكنني مشاهدة مسلسل 20?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Twinkle Love?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع جنس فيلم 20؟",
-        "a": "هو فيلم واقع"
+        "q": "ما هو تصنيف مسلسل 20?",
+        "a": "يندرج العمل تحت تصنيف واقع.",
+        "q_en": "What is the genre of Twinkle Love?",
+        "a_en": "It falls under the genre of ."
       },
       {
-        "q": "ما هو أفضل شيء في فيلم 20؟",
-        "a": "هو عالم مليء بالحب والمرحلة"
+        "q": "ما هي قصة مسلسل 20?",
+        "a": "إجابة عن 20",
+        "q_en": "What is the story of Twinkle Love?",
+        "a_en": "A reality show where 10  youths in their early 20s that recently graduated university will go on a graduation trip together. They have different personalities and different backgrounds but with time s..."
       }
-    ]
+    ],
+    "keywords": "20 مترجم, Twinkle Love مترجم, مشاهدة 20, Twinkle Love"
   },
   "fixed": true,
-  "first_air_date": "2021-05-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "93 دقيقة",
-  "language": "الإيطالية",
-  "country": "إيطاليا",
-  "cast": "Teo Mammucari Paul Sorvino Daniele Liotti Emmanuelle Seigner Anna Valle"
+  "duration": "60 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الصين",
+  "cast": "",
+  "first_air_date": "2021-05-05"
 }

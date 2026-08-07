@@ -1241,8 +1241,98 @@
       "file": "2832.json",
       "title": "Identity",
       "fixed_at": "2026-08-07T09:45:13.797141"
+    },
+    {
+      "tmdb_id": "114068",
+      "file": "114068.json",
+      "title": "The Offer",
+      "fixed_at": "2026-08-07T10:58:35.289337"
+    },
+    {
+      "tmdb_id": "46786",
+      "file": "46786.json",
+      "title": "Bates Motel",
+      "fixed_at": "2026-08-07T10:59:54.017952"
+    },
+    {
+      "tmdb_id": "39351",
+      "file": "39351.json",
+      "title": "جريم",
+      "fixed_at": "2026-08-07T11:00:04.311902"
+    },
+    {
+      "tmdb_id": "79525",
+      "file": "79525.json",
+      "title": "The Last Dance",
+      "fixed_at": "2026-08-07T11:00:15.856836"
+    },
+    {
+      "tmdb_id": "1220",
+      "file": "1220.json",
+      "title": "ذي غراهام نورتون شو",
+      "fixed_at": "2026-08-07T11:00:25.490784"
+    },
+    {
+      "tmdb_id": "345887",
+      "file": "345887.json",
+      "title": "المعادل 2",
+      "fixed_at": "2026-08-07T11:00:35.246927"
+    },
+    {
+      "tmdb_id": "206122",
+      "file": "206122.json",
+      "title": "20",
+      "fixed_at": "2026-08-07T11:00:46.056573"
+    },
+    {
+      "tmdb_id": "575452",
+      "file": "575452.json",
+      "title": "Il traditore",
+      "fixed_at": "2026-08-07T11:00:55.723548"
+    },
+    {
+      "tmdb_id": "4582",
+      "file": "4582.json",
+      "title": "Ironside",
+      "fixed_at": "2026-08-07T11:01:06.488746"
+    },
+    {
+      "tmdb_id": "275",
+      "file": "275.json",
+      "title": "فارغو",
+      "fixed_at": "2026-08-07T11:01:16.115753"
+    },
+    {
+      "tmdb_id": "105971",
+      "file": "105971.json",
+      "title": "حرب النجوم: الدفعة السيئة",
+      "fixed_at": "2026-08-07T11:01:25.739388"
+    },
+    {
+      "tmdb_id": "293660",
+      "file": "293660.json",
+      "title": "ديدبول",
+      "fixed_at": "2026-08-07T11:01:35.076236"
+    },
+    {
+      "tmdb_id": "243206",
+      "file": "243206.json",
+      "title": "Pritam and Pedro",
+      "fixed_at": "2026-08-07T11:01:45.970134"
+    },
+    {
+      "tmdb_id": "1257009",
+      "file": "1257009.json",
+      "title": "الحرب البدائية",
+      "fixed_at": "2026-08-07T11:01:56.166356"
+    },
+    {
+      "tmdb_id": "297",
+      "file": "297.json",
+      "title": "Meet Joe Black",
+      "fixed_at": "2026-08-07T11:02:07.412575"
     }
   ],
-  "last_updated": "2026-08-07T09:45:16.016260",
-  "total_fixed": 207
+  "last_updated": "2026-08-07T11:02:09.415150",
+  "total_fixed": 222
 }

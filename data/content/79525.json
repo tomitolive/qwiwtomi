@@ -4,14 +4,12 @@
   "title_ar": "The Last Dance",
   "title_en": "The Last Dance",
   "slug": "79525-the-last-dance",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يؤرّخ هذا المسلسل الوثائقي صعود النجم \"مايكل جوردن\" ضمن فريق \"شيكاغو بولز\" في التسعينيات، مع لقطات لم تُعرض من موسم 1997-1998 الذي لا يُنسى.",
   "poster_path": "/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
   "backdrop_path": "/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg",
   "release_date": "2020-04-19",
   "vote_average": 8.3,
-  "vote_count": 1473,
+  "vote_count": 1502,
   "genres": [
     {
       "id": 99,
@@ -19,19 +17,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل The Last Dance (2020) مترجم بجودة عالية على توميتو.",
     "desc_ar": "يؤرّخ هذا المسلسل الوثائقي صعود النجم \"مايكل جوردن\" ضمن فريق \"شيكاغو بولز\" في التسعينيات، مع لقطات لم تُعرض من موسم 1997-1998 الذي لا يُنسى.",
-    "desc_en": "يؤرّخ هذا المسلسل الوثائقي صعود النجم \"مايكل جوردن\" ضمن فريق \"شيكاغو بولز\" في التسعينيات، مع لقطات لم تُعرض من موسم 1997-1998 الذي لا يُنسى.",
-    "meta_desc": "مشاهدة The Last Dance مترجم بجودة عالية على توميتو.",
-    "keywords": "The Last Dance مترجم, أحداث The Last Dance بالتفصيل, توميتو The Last Dance, قصة فيلم The Last Dance, مشاهدة The Last Dance 2026",
-    "seo_title_ar": "مشاهدة The Last Dance مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 interviews with famous figures and basketball’s biggest names.",
+    "seo_title_ar": "مشاهدة مسلسل The Last Dance مترجم - توميتو",
+    "meta_desc": "مشاهدة الرقصة الأخيرة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد The Last Dance الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل الرقصة الأخيرة?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Last Dance?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل الرقصة الأخيرة?",
+        "a": "يندرج العمل تحت تصنيف وثائقي.",
+        "q_en": "What is the genre of The Last Dance?",
+        "a_en": "It falls under the genre of ."
+      },
+      {
+        "q": "ما هي قصة مسلسل الرقصة الأخيرة?",
+        "a": "يؤرّخ هذا المسلسل الوثائقي صعود النجم \"مايكل جوردن\" ضمن فريق \"شيكاغو بولز\" في التسعينيات، مع لقطات لم تُعرض من موسم 1997-1998 الذي لا يُنسى.",
+        "q_en": "What is the story of The Last Dance?",
+        "a_en": "A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 i..."
+      }
+    ],
+    "keywords": "فينوم الرقصة الأخيرة, إنديلا الرقصة الأخيرة"
   },
   "fixed": true,
-  "first_air_date": "2020-04-19",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "116 دقيقة",
+  "duration": "50 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Marco Banderas Sammy Cruz Ben English Shay Jordan Karlie Montana"
+  "cast": "Michael Jordan Scottie Pippen Dennis Rodman Phil Jackson Steve Kerr",
+  "first_air_date": "2020-04-19"
 }

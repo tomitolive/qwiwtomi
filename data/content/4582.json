@@ -4,14 +4,12 @@
   "title_ar": "Ironside",
   "title_en": "Ironside",
   "slug": "4582-ironside",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل ايرونسايد مترجم بجودة عالية.",
   "poster_path": "/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg",
   "backdrop_path": "/7lYBvjfgrguOUgnS9NrpysHtaCq.jpg",
   "release_date": "1967-03-28",
   "vote_average": 6.9,
-  "vote_count": 68,
+  "vote_count": 70,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النخبة، يتعقب детектив رويال سكوليك، الذي فقد حركته، قضاياً غامضةً في سان فرانسيسكو. مع مساعدة من معاونته، رويال، يبحث عن حل هذه الأحداث الغامضة، التي تهدد أمن المدينة. في هذه الرحلة، سيدرك سكوليك أن هناك أكثر من ما يبدو على السطح، وأن هناك قوى خفية تتحكم في المدينة.",
-    "desc_en": "In the world of the elite, Detective Royal Scollick, who has lost his mobility, pursues mysterious cases in San Francisco. With the help of his assistant, Royal, he searches for a solution to these mysterious events, which threaten the city's safety. In this journey, Scollick will realize that there is more to what appears on the surface, and that there are hidden forces controlling the city.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سان فرانسيسكو مع детектив رويال سكوليك!",
-    "seo_title_ar": "مشاهدة فيلم إيرسايد مترجم اون لاين - توميتو",
-    "keywords": "فيلم جريمة مترجم, مشاهدة فيلم دراما, أحداث Ironside بالتفصيل, Ironside مترجم كامل, قصة مسلسل Ironside, مشاهدة Ironside 1967, توميتو Ironside",
-    "opinion": "هذا الفيلم هو مثال رائع لدراما الجريمة، حيث يجمع بين الإثارة والغموض والدراما. سوف تتمكن من الارتباط بالشخصيات والقصص، والتي ستجعلك تريد معرفة ما هو الحق.",
+    "intro": "استمتع بمشاهدة مسلسل Ironside (1967) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل ايرونسايد مترجم بجودة عالية.",
+    "desc_en": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown and policewoman Eve Whitfield join with him to crack varied and fascinating cases. Ex-con Mark Sanger is employed by the chief as home help but eventually becomes a fully fledged member of the team also. Officer Whitfield leaves after 4 years service, and is replaced by Officer Fran Belding.",
+    "seo_title_ar": "مشاهدة مسلسل Ironside مترجم - توميتو",
+    "meta_desc": "مشاهدة ايرونسايد مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Ironside الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم جريمة دراما غموض"
+        "q": "كيف يمكنني مشاهدة مسلسل ايرونسايد?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Ironside?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه؟",
-        "a": "يحدث في سان فرانسيسكو"
+        "q": "ما هو تصنيف مسلسل ايرونسايد?",
+        "a": "يندرج العمل تحت تصنيف جريمة, دراما, غموض.",
+        "q_en": "What is the genre of Ironside?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو دور детектиف رويال سكوليك؟",
-        "a": "يحاول حل الأحداث الغامضة في المدينة"
+        "q": "ما هي قصة مسلسل ايرونسايد?",
+        "a": "إجابة عن ايرونسايد",
+        "q_en": "What is the story of Ironside?",
+        "a_en": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown ..."
       }
-    ]
+    ],
+    "keywords": "ايرونسايد مترجم, Ironside مترجم, مشاهدة ايرونسايد, Ironside"
   },
   "fixed": true,
-  "first_air_date": "1967-03-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Raymond Burr Don Galloway Don Mitchell Barbara Anderson Elizabeth Baur",
+  "first_air_date": "1967-03-28"
 }
