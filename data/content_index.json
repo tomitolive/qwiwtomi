@@ -67038,5 +67038,75 @@
     ],
     "timestamp": 1786108110,
     "fixed": true
+  },
+  {
+    "title": "Super Troopers 3 / Super Troopers 3",
+    "title_ar": "Super Troopers 3",
+    "title_en": "Super Troopers 3",
+    "slug": "675871-super-troopers-3",
+    "folder": "movie",
+    "poster": "/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "rating": 5.2,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 675871,
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "genres": [
+      "كوميديا",
+      "جريمة",
+      "غموض"
+    ],
+    "timestamp": 1786129181,
+    "fixed": true
+  },
+  {
+    "title": "الشرطي المتباهي / Flex X Cop",
+    "title_ar": "الشرطي المتباهي",
+    "title_en": "Flex X Cop",
+    "slug": "220074-flex-x-cop",
+    "folder": "tv",
+    "poster": "/t/p/w500/wBsBzdnVwsVOryoXkWb2p2i57rl.jpg",
+    "rating": 8.0,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 220074,
+    "genre_ids": [
+      18,
+      80,
+      9648,
+      10759
+    ],
+    "genres": [
+      "دراما",
+      "جريمة",
+      "غموض",
+      "حركة ومغامرة"
+    ],
+    "timestamp": 1786129190,
+    "fixed": true
+  },
+  {
+    "title": "Muertos S.L. / Death Inc.",
+    "title_ar": "Muertos S.L.",
+    "title_en": "Death Inc.",
+    "slug": "237964-death-inc",
+    "folder": "tv",
+    "poster": "/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+    "rating": 7.2,
+    "year": "2024",
+    "type": "tv",
+    "tmdb_id": 237964,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1786129197,
+    "fixed": true
   }
 ]

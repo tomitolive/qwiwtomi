@@ -1180,6 +1180,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/675871-super-troopers-3</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/676-pearl-harbor</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/iX3Yw6awJlBp48S6chYR6N30Qh5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/940721-godzilla-minus-one</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/hqkOUzMuCdxCDAYRUuoHDPa0qqu.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
