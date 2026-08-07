@@ -4,9 +4,7 @@
   "title_ar": "Elif",
   "title_en": "Elif",
   "slug": "49347-elif",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل إليف مترجم بجودة عالية.",
   "poster_path": "/337YdJG3TUMzpdnbJyP7K9oA72e.jpg",
   "backdrop_path": "/bhim19hZohZRNNs9fzH0FCnu1n6.jpg",
   "release_date": "2014-09-15",
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الغناء والرقص، تظهر إيلف، الفتاة الموهوبة التي تريد أن تصل إلى النجوم، ولكنها ستواجه تحديات كثيرة، منافسة قوية، ومراسيم قاسية، ولكنها ستعلم أن النجاح يأتي من خلال العمل الجاد والانضباط، في هذه الرحلة، ستعلم إيلف أن النجاح يأتي من خلال العمل الجاد والانضباط.",
-    "desc_en": "In the world of singing and dance, Elif, the talented girl, wants to reach the stars, but she will face many challenges, strong competition, and harsh tests, but she will learn that success comes from hard work and discipline, in this journey, Elif will learn that success comes from hard work and discipline.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الدراما والعائلي إيلف",
-    "seo_title_ar": "مشاهدة مسلسل إيلف مترجم اون لاين - توميتو",
-    "keywords": "مسلسل إيلف مترجم, مشاهدة مسلسل إيلف, قصة مسلسل Elif, أحداث Elif بالتفصيل, مشاهدة Elif 2014, توميتو Elif, Elif مترجم كامل",
-    "opinion": "هو مسلسل دراما رائع، مليء بالتension والتشويق، إيلف هي الفتاة التي ستعلمنا أن النجاح يأتي من خلال العمل الجاد والانضباط",
+    "intro": "استمتع بمشاهدة مسلسل Elif (2014) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل إليف مترجم بجودة عالية.",
+    "desc_en": "A kind 6-year-old girl is placed under the protection of her mother's best friend, who keeps a well-hidden secret, and is a maid for a wealthy family, in whose mansion she lives.",
+    "seo_title_ar": "مشاهدة مسلسل Elif مترجم - توميتو",
+    "meta_desc": "مشاهدة إليف مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Elif الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل إيلف؟",
-        "a": "هو مسلسل دراما عائلي"
+        "q": "كيف يمكنني مشاهدة مسلسل إليف?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Elif?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو سبب نجاح إيلف؟",
-        "a": "نجاحها يأتي من خلال العمل الجاد والانضباط"
+        "q": "ما هو تصنيف مسلسل إليف?",
+        "a": "يندرج العمل تحت تصنيف دراما, عائلي, أوبرا صابونية.",
+        "q_en": "What is the genre of Elif?",
+        "a_en": "Answer about Elif"
       },
       {
-        "q": "ما هو نوع الأحداث في مسلسل إيلف؟",
-        "a": "الأحداث فيها تتميز بالتension والتشويق"
+        "q": "ما هي قصة مسلسل إليف?",
+        "a": "إجابة عن إليف",
+        "q_en": "What is the story of Elif?",
+        "a_en": "A kind 6-year-old girl is placed under the protection of her mother's best friend, who keeps a well-hidden secret, and is a maid for a wealthy family, in whose mansion she lives."
       }
-    ]
+    ],
+    "keywords": "مسلسل إليف, إليف إلماس, إليف كارارسلان, إليف دوغان"
   },
   "fixed": true,
-  "first_air_date": "2014-09-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "الإنجليزية",
-  "country": "أستراليا",
-  "cast": "Travis Fimmel Ben Mendelsohn Murray Bartlett Michael Dorman Jane Badler"
+  "duration": "60 دقيقة",
+  "language": "التركية",
+  "country": "تركيا",
+  "cast": "Isabella Damla Güvenilir Selin Sezgin Deniz Irem Morkoç Hasan Balliktas Derya Şen Kıvılcım Kaya Melisa Döngel Ali Atakan Şimşek",
+  "first_air_date": "2014-09-15"
 }

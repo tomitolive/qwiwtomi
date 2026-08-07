@@ -4,14 +4,12 @@
   "title_ar": "Mannix",
   "title_en": "Mannix",
   "slug": "2813-mannix",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل مانيكس مترجم بجودة عالية.",
   "poster_path": "/8Nh2D2dHKJnUbRHqLS5QsKWJuPb.jpg",
   "backdrop_path": "/3k0hao0Nw6JPes4Tvb8CLAkmnXu.jpg",
   "release_date": "1967-09-16",
   "vote_average": 6.8,
-  "vote_count": 53,
+  "vote_count": 54,
   "genres": [
     {
       "id": 10759,
@@ -31,33 +29,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النetworking، يلقي المخترقون في shadows، يلعبون دوراً في-game، ويحاولون أن يخترقوا walls. Mannix، المخترق المخيف، يلعب دوراً في-game، ويحاول أن يخترق walls. في عالم النetworking، يلعب Mannix دوراً في-game، ويحاول أن يخترق walls.",
-    "desc_en": "In the world of networking, hackers lurk in the shadows, playing a game, and trying to break through walls. Mannix, the feared hacker, plays a game, and tries to break through walls. In the world of networking, Mannix plays a game, and tries to break through walls.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Mannix",
-    "seo_title_ar": "مشاهدة فيلم Mannix مترجم اون لاين - توميتو",
-    "keywords": "فيلم Mannix مترجم, مشاهدة فيلم Mannix, Mannix مترجم كامل, مشاهدة Mannix 1967, قصة مسلسل Mannix, أحداث Mannix بالتفصيل, توميتو Mannix",
-    "opinion": "هو فيلم رائع، مليء بالتension والدراما، ويحوي أحداثاً رائعة",
+    "intro": "استمتع بمشاهدة مسلسل Mannix (1967) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل مانيكس مترجم بجودة عالية.",
+    "desc_en": "Mannix is an American television detective series that ran from 1967 through 1975 on CBS. Created by Richard Levinson and William Link and developed by executive producer Bruce Geller, the title character, Joe Mannix, is a private investigator. He is played by Mike Connors. Mannix was the last series produced by Desilu Productions.",
+    "seo_title_ar": "مشاهدة مسلسل Mannix مترجم - توميتو",
+    "meta_desc": "مشاهدة مانيكس مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Mannix الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو Mannix؟",
-        "a": "هو فيلم رائع يلعب دوراً في-game"
+        "q": "كيف يمكنني مشاهدة مسلسل مانيكس?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Mannix?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع Mannix؟",
-        "a": "هو فيلم حركة ومغامرة"
+        "q": "ما هو تصنيف مسلسل مانيكس?",
+        "a": "يندرج العمل تحت تصنيف حركة ومغامرة, جريمة, غموض, دراما.",
+        "q_en": "What is the genre of Mannix?",
+        "a_en": "Answer about Mannix"
       },
       {
-        "q": "ما هو أفضل جزء في Mannix؟",
-        "a": "هو الأحداث الإثارة"
+        "q": "ما هي قصة مسلسل مانيكس?",
+        "a": "إجابة عن مانيكس",
+        "q_en": "What is the story of Mannix?",
+        "a_en": "Mannix is an American television detective series that ran from 1967 through 1975 on CBS. Created by Richard Levinson and William Link and developed by executive producer Bruce Geller, the title chara..."
       }
-    ]
+    ],
+    "keywords": "مانيكس مترجم, Mannix مترجم, مشاهدة مانيكس, Mannix"
   },
   "fixed": true,
-  "first_air_date": "1967-09-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "124 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Isabelle Huppert Stéphane Audran Jean Carmet Jean-François Garreaud Lisa Langlois"
+  "duration": "52 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Mike Connors Gail Fisher Larry Storch Robyn Millan",
+  "first_air_date": "1967-09-16"
 }

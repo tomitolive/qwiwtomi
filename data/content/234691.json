@@ -4,13 +4,11 @@
   "title_ar": "",
   "title_en": "",
   "slug": "234691-tv-234691",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل  مترجم بجودة عالية.",
   "poster_path": "/s0rx4HLeTRM3QwMjTFkw24ruEUv.jpg",
   "backdrop_path": "/vjyK3AH9hzj7iohgrLm3QJGBlcj.jpg",
   "release_date": "2003-01-08",
-  "vote_average": 7,
+  "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالسحال والمرح، يلتقي الأصدقاء القدامى مرة أخرى لما يلقيهم من مغامرات رائعة. من المغامرات في الغابة إلى المطاردات في المدينة، سوف تكتشف معهم الكثير من الأسرار والسرور.",
-    "desc_en": "In a world full of wonder and excitement, old friends reunite for new adventures. From forest escapades to city chases, you'll discover many secrets and joys with them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع الأصدقاء القدامى في عالم مليء بالسحال والمرح!",
-    "seo_title_ar": "مشاهدة فيلم [Title] مترجم اون لاين - توميتو",
-    "keywords": "فيلم أطفال مترجم, مشاهدة فيلم رسوم متحركة, أحداث بالتفصيل, توميتو, قصة مسلسل, مشاهدة 2003, مترجم كامل",
-    "opinion": "هو فيلم رائع يلقي القلوب معاً، مليء بالمرح والفكاهة والتشويق!",
+    "intro": "استمتع بمشاهدة مسلسل  (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل  مترجم بجودة عالية.",
+    "desc_en": "Enjoy watching  in high quality.",
+    "seo_title_ar": "مشاهدة مسلسل مترجم - توميتو",
+    "meta_desc": "مشاهدة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد  الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "كيف يمكنني مشاهدة مسلسل ?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch ?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم أطفال"
+        "q": "ما هو تصنيف مسلسل ?",
+        "a": "يندرج العمل تحت تصنيف أطفال, رسوم متحركة.",
+        "q_en": "What is the genre of ?",
+        "a_en": "Answer about "
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو تلفزيون"
+        "q": "ما هي قصة مسلسل ?",
+        "a": "إجابة عن ",
+        "q_en": "What is the story of ?",
+        "a_en": "Answer about "
       }
-    ]
+    ],
+    "keywords": "ابشر, نور, الطقس, يوتيوب, مترجم, مدرستي, ترجمة, قوقل"
   },
   "fixed": true,
-  "first_air_date": "2003-01-08",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "6 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Mel Blanc Hal Smith Herb Vigran"
+  "cast": "",
+  "first_air_date": "2003-01-08"
 }

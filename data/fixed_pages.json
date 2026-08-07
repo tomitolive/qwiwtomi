@@ -1331,8 +1331,98 @@
       "file": "297.json",
       "title": "Meet Joe Black",
       "fixed_at": "2026-08-07T11:02:07.412575"
+    },
+    {
+      "tmdb_id": "603",
+      "file": "603.json",
+      "title": "الماتريكس",
+      "fixed_at": "2026-08-07T11:52:38.637531"
+    },
+    {
+      "tmdb_id": "71789",
+      "file": "71789.json",
+      "title": "SEAL Team",
+      "fixed_at": "2026-08-07T11:52:48.262973"
+    },
+    {
+      "tmdb_id": "1554",
+      "file": "1554.json",
+      "title": "QI",
+      "fixed_at": "2026-08-07T11:52:59.470316"
+    },
+    {
+      "tmdb_id": "980017",
+      "file": "980017.json",
+      "title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
+      "fixed_at": "2026-08-07T11:53:08.902545"
+    },
+    {
+      "tmdb_id": "154385",
+      "file": "154385.json",
+      "title": "غضب على الطريق",
+      "fixed_at": "2026-08-07T11:53:17.671998"
+    },
+    {
+      "tmdb_id": "1218925",
+      "file": "1218925.json",
+      "title": "رجل المنشار: فصل ريزي",
+      "fixed_at": "2026-08-07T11:53:27.023153"
+    },
+    {
+      "tmdb_id": "90",
+      "file": "90.json",
+      "title": "شرطي بيفرلي هيلز",
+      "fixed_at": "2026-08-07T11:53:36.714432"
+    },
+    {
+      "tmdb_id": "2745",
+      "file": "2745.json",
+      "title": "علاء الدين المسلسل",
+      "fixed_at": "2026-08-07T11:53:46.133770"
+    },
+    {
+      "tmdb_id": "1185806",
+      "file": "1185806.json",
+      "title": "PAW Patrol: The Dino Movie",
+      "fixed_at": "2026-08-07T11:53:56.330901"
+    },
+    {
+      "tmdb_id": "282497",
+      "file": "282497.json",
+      "title": "Wonder Wall",
+      "fixed_at": "2026-08-07T11:54:05.959701"
+    },
+    {
+      "tmdb_id": "234691",
+      "file": "234691.json",
+      "title": "",
+      "fixed_at": "2026-08-07T11:54:16.826520"
+    },
+    {
+      "tmdb_id": "1424965",
+      "file": "1424965.json",
+      "title": "Ice Skater",
+      "fixed_at": "2026-08-07T11:54:27.811958"
+    },
+    {
+      "tmdb_id": "129",
+      "file": "129.json",
+      "title": "المخطوفة",
+      "fixed_at": "2026-08-07T11:54:37.336869"
+    },
+    {
+      "tmdb_id": "49347",
+      "file": "49347.json",
+      "title": "Elif",
+      "fixed_at": "2026-08-07T11:54:47.627163"
+    },
+    {
+      "tmdb_id": "2813",
+      "file": "2813.json",
+      "title": "Mannix",
+      "fixed_at": "2026-08-07T11:54:58.626373"
     }
   ],
-  "last_updated": "2026-08-07T11:02:09.415150",
-  "total_fixed": 222
+  "last_updated": "2026-08-07T11:55:00.628903",
+  "total_fixed": 237
 }

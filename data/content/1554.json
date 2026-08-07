@@ -4,14 +4,12 @@
   "title_ar": "QI",
   "title_en": "QI",
   "slug": "1554-qi",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل تحسين الجودة مترجم بجودة عالية.",
   "poster_path": "/9zWVsauqP7GM9E1N9WDYVf9CWe3.jpg",
   "backdrop_path": "/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
   "release_date": "2003-09-11",
-  "vote_average": 8,
-  "vote_count": 276,
+  "vote_average": 7.9,
+  "vote_count": 286,
   "genres": [
     {
       "id": 35,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الكوميديا، يأتي قصة «QI» لتحويل كل ما كان يعتبره الناس «مستحيل» إلى واقعيات رائعة. في هذه السلسلة، نرى كيف يمكن أن تتحول الأشياء من المستحيل إلى واقعيات رائعة، من خلال قصة رائعة عن أصدقاء يلعبون دوراً في تحويل العالم إلى مكان رائع.",
-    "desc_en": "In the world of comedy, the story of 'QI' comes to turn everything that people considered 'impossible' into wonderful realities. In this series, we see how things can turn from impossible to wonderful realities, through a wonderful story about friends who play a role in turning the world into a wonderful place.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في قصة «QI» - توميتو",
-    "seo_title_ar": "مشاهدة قصة «QI» مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم كوميديا, QI مترجم كامل, قصة مسلسل QI, أحداث QI بالتفصيل, مشاهدة QI 2003, توميتو QI",
-    "opinion": "هذه السلسلة هي واحدة من أفضل ما شاهدناه في العام، مع قصة رائعة عن أصدقاء يلعبون دوراً في تحويل العالم إلى مكان رائع. لقد وجدنا أنفسنا نضحك كثيراً في كل حلقة، مع قصة رائعة عن الأشياء التي يمكن أن تتحول من المستحيل إلى واقعيات رائعة.",
+    "intro": "استمتع بمشاهدة مسلسل QI (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل تحسين الجودة مترجم بجودة عالية.",
+    "desc_en": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+    "seo_title_ar": "مشاهدة مسلسل QI مترجم - توميتو",
+    "meta_desc": "مشاهدة تحسين الجودة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد QI الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو قصة «QI»؟",
-        "a": "هي قصة رائعة عن أصدقاء يلعبون دوراً في تحويل العالم إلى مكان رائع."
+        "q": "كيف يمكنني مشاهدة مسلسل تحسين الجودة?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch QI?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما نوع «QI»؟",
-        "a": "هو نوع كوميديا حوار."
+        "q": "ما هو تصنيف مسلسل تحسين الجودة?",
+        "a": "يندرج العمل تحت تصنيف كوميديا, حوار.",
+        "q_en": "What is the genre of QI?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو أفضل ما في «QI»؟",
-        "a": "هو قصة رائعة عن الأشياء التي يمكن أن تتحول من المستحيل إلى واقعيات رائعة، مع لغة رائعة وتهذيب رائع."
+        "q": "ما هي قصة مسلسل تحسين الجودة?",
+        "a": "إجابة عن تحسين الجودة",
+        "q_en": "What is the story of QI?",
+        "a_en": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'."
       }
-    ]
+    ],
+    "keywords": "تحسين الجودة مترجم, QI مترجم, مشاهدة تحسين الجودة, QI"
   },
   "fixed": true,
-  "first_air_date": "2003-09-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "106 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Waits John Lurie Roberto Benigni Nicoletta Braschi Ellen Barkin"
+  "country": "المملكة المتحدة",
+  "cast": "Sandi Toksvig Alan Davies",
+  "first_air_date": "2003-09-11"
 }
