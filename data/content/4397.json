@@ -4,14 +4,12 @@
   "title_ar": "V.I.P.",
   "title_en": "V.I.P.",
   "slug": "4397-vip",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل ... مترجم بجودة عالية.",
   "poster_path": "/2pHBPVGn2DpYEAHBdT62nc0untt.jpg",
   "backdrop_path": "/axanatjrKAXS34wMOBtwYjXTbAb.jpg",
   "release_date": "1998-09-26",
   "vote_average": 5.3,
-  "vote_count": 68,
+  "vote_count": 69,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المافيا، يلعب الريان رولز، رجل الأعمال الشهير، دوراً مهماً في عالم المافيا. ولكن، عندما يكتشف أن هناك من يريدون قتله، يلزمه أن يلعب دوراً آخر، دوراً من الريان والقوة والشجاعة.",
-    "desc_en": "In the world of mafia, Ryan Riles, a wealthy businessman, plays a crucial role in the world of mafia. However, when he discovers that there are those who want to kill him, he is forced to play another role, a role of Ryan and strength and courage.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم V.I.P. - توميتو",
-    "seo_title_ar": "مشاهدة فيلم V.I.P. مترجم اون لاين - توميتو",
-    "keywords": "فيلم V.I.P. مترجم, مشاهدة فيلم V.I.P., أحداث V.I.P. بالتفصيل, توميتو V.I.P., قصة مسلسل V.I.P., V.I.P. مترجم كامل, مشاهدة V.I.P. 1998",
-    "opinion": "هذا الفيلم هو مزيج من الحركة والكوميديا والجريمة، مما يجعله فيلماً رائعاً لمن يبحث عن الإثارة والمرح",
+    "intro": "استمتع بمشاهدة مسلسل V.I.P. (1998) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل ... مترجم بجودة عالية.",
+    "desc_en": "While attending a Hollywood premiere with a famous action star, a crazed fan pulls a gun—but her movie hunk turns into a coward, and it's Vallery who becomes the hero. Suddenly, she's thrown into a world of action and danger as owner of a Hollywood protection agency, Vallery Irons Protection (V.I.P.), taking risks to protect others at a price few are willing to pay.",
+    "seo_title_ar": "مشاهدة مسلسل ... مترجم - توميتو",
+    "meta_desc": "مشاهدة ... مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد V.I.P. الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم V.I.P.؟",
-        "a": "هو فيلم حركة ومغامرة وكوميديا"
+        "q": "كيف يمكنني مشاهدة مسلسل ...?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch V.I.P.?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو أفضل شيء في فيلم V.I.P.؟",
-        "a": "هو مزيج من الإثارة والمرح والجريمة"
+        "q": "ما هو تصنيف مسلسل ...?",
+        "a": "يندرج العمل تحت تصنيف حركة ومغامرة, كوميديا, جريمة.",
+        "q_en": "What is the genre of V.I.P.?",
+        "a_en": "Answer about V.I.P."
       },
       {
-        "q": "هل فيلم V.I.P. مناسب لجميع ages؟",
-        "a": "نعم، هو فيلم مناسب لجميع ages"
+        "q": "ما هي قصة مسلسل ...?",
+        "a": "إجابة عن V.I.P.",
+        "q_en": "What is the story of V.I.P.?",
+        "a_en": "While attending a Hollywood premiere with a famous action star, a crazed fan pulls a gun—but her movie hunk turns into a coward, and it's Vallery who becomes the hero. Suddenly, she's thrown into a wo..."
       }
-    ]
+    ],
+    "keywords": "... مترجم, ... مترجم, مشاهدة ..., ..."
   },
   "fixed": true,
-  "first_air_date": "1998-09-26",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "104 دقيقة",
-  "language": "الفرنسية",
-  "country": "النمسا",
-  "cast": "Tony Curtis Marisa Berenson Marisa Mell Jean Lefebvre Andréa Ferréol"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Pamela Anderson Molly Culver Shaun Baker Natalie Raitano Leah Lail Angelle Brooks Dustin Nguyen",
+  "first_air_date": "1998-09-26"
 }

@@ -4,14 +4,12 @@
   "title_ar": "السنافر",
   "title_en": "The Smurfs",
   "slug": "5687-the-smurfs",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "السَّنافِر هي مّخلوقات زرقاء صغيرة تعيش في غابة هادئة وتَتَّخِذُ من الفِطرِبُيُوتاً . يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور.",
   "poster_path": "/chv6X5Vnm1KSsVV0ztNSyG1txSU.jpg",
   "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
   "release_date": "1981-09-12",
-  "vote_average": 7,
-  "vote_count": 564,
+  "vote_average": 7.0,
+  "vote_count": 587,
   "genres": [
     {
       "id": 16,
@@ -35,33 +33,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم غابة السنافر، حيث توجد مخلوقات زرقاء صغيرة تَتَّخِذُ من الفِطرِبُيُوتاً، يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور. مع ذلك، يكتشفون أن هناك العديد من الأشياء التي يمكن أن تُحَدِّث عنها، مثل friendships وlove و courage.",
-    "desc_en": "In the world of the Smurfs, where small blue creatures live in a peaceful forest, they try to outsmart the evil and greedy Gargamel. However, they discover that there are many things that can be spoken about, such as friendships, love, and courage.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في غابة السنافر!",
-    "seo_title_ar": "مشاهدة فيلم السنافر مترجم اون لاين - توميتو",
-    "keywords": "The Smurfs, فيلم السنافر مترجم, مشاهدة فيلم السنافر, أحداث السنافر بالتفصيل, قصة مسلسل السنافر, السنافر مترجم كامل, توميتو السنافر, مشاهدة السنافر 1981",
-    "opinion": "هو فيلم رائع يحتوي على الكثير من اللافت والمرح، والشخصيات الرئيسية هي رائعة، ولكن في النهاية، هو فيلم عائلي رائع يحتوي على الكثير من اللافت والمرح.",
+    "intro": "استمتع بمشاهدة مسلسل السنافر (1981) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "السَّنافِر هي مّخلوقات زرقاء صغيرة تعيش في غابة هادئة وتَتَّخِذُ من الفِطرِبُيُوتاً . يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور.",
+    "desc_en": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael.",
+    "seo_title_ar": "مشاهدة مسلسل The Smurfs مترجم - توميتو",
+    "meta_desc": "مشاهدة السنافر مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد السنافر الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو السنافر؟",
-        "a": "هي مخلوقات زرقاء صغيرة تَتَّخِذُ من الفِطرِبُيُوتاً."
+        "q": "كيف يمكنني مشاهدة مسلسل السنافر?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Smurfs?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو هدف السنافر؟",
-        "a": "يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور."
+        "q": "ما هو تصنيف مسلسل السنافر?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, عائلي, خيال علمي وفانتازيا, أطفال, كوميديا.",
+        "q_en": "What is the genre of The Smurfs?",
+        "a_en": "Answer about The Smurfs"
       },
       {
-        "q": "ما هو فيلم السنافر؟",
-        "a": "هو فيلم رائع يحتوي على الكثير من اللافت والمرح، والشخصيات الرئيسية هي رائعة، ولكن في النهاية، هو فيلم عائلي رائع يحتوي على الكثير من اللافت والمرح."
+        "q": "ما هي قصة مسلسل السنافر?",
+        "a": "السَّنافِر هي مّخلوقات زرقاء صغيرة تعيش في غابة هادئة وتَتَّخِذُ من الفِطرِبُيُوتاً . يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور.",
+        "q_en": "What is the story of The Smurfs?",
+        "a_en": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest...."
       }
-    ]
+    ],
+    "keywords": "شرشبيل السنافر, فيلم السنافر, كرتون السنافر, فلم السنافر, السنافر بالعربي, السنافر وشرشبيل, لعبة السنافر, قرية السنافر, اسماء السنافر, السنافر الحقيقيون"
   },
   "fixed": true,
-  "first_air_date": "1981-09-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "11 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Belgium",
+  "cast": "Don Messick Lucille Bliss Frank Welker Michael Bell June Foray Paul Winchell Danny Goldman Hamilton Camp",
+  "first_air_date": "1981-09-12"
 }
