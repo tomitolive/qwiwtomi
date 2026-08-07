@@ -4,12 +4,12 @@
   "title_ar": "Moonwalker",
   "title_en": "Moonwalker",
   "slug": "13192-moonwalker",
-  "overview": "",
+  "overview": "استمتع بمشاهدة فيلم السائر على القمر مترجم بجودة عالية.",
   "poster_path": "/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
   "backdrop_path": "/ihIVjdiuvtVuFUaCqfNJwajIs3i.jpg",
   "release_date": "1988-10-29",
   "vote_average": 7.1,
-  "vote_count": 648,
+  "vote_count": 679,
   "genres": [
     {
       "id": 14,
@@ -21,26 +21,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الfantasy والرماية، يأخذنا فيلم موونواكر إلى رحلة مدهشة إلى القمر، حيث يلتقي البطل الرئيسي بجموعة من الأبطال الذين يملكون القدرة على السفر عبر الفضاء، ويتصارعون مع قوى الظلام التي تهددهم، فيما يأخذنا الفيلم إلى عالم من الإثارة والفантаジア.",
-    "desc_en": "In a world of fantasy and music, the film Moonwalker takes us on a thrilling journey to the moon, where the main hero meets a group of heroes who possess the power to travel through space, and they struggle against the dark forces that threaten them, as the film takes us to a world of excitement and fantasy.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم موونواكر - توميتو",
-    "seo_title_ar": "مشاهدة فيلم موونواكر مترجم اون لاين - توميتو",
-    "keywords": "فيلم موونواكر مترجم, مشاهدة فيلم موونواكر, توميتو Moonwalker, مشاهدة Moonwalker 1988, Moonwalker مترجم, أحداث Moonwalker بالتفصيل, قصة فيلم Moonwalker",
-    "opinion": "فيلم موونواكر هو فيلم رائع يملأ القلب بالحماس والرماية، مع أجواء من الإثارة والفантаジア التي تجعلنا نستمتع بالمرحلة، والبطل الرئيسي هو الشخصية الرئيسية التي تملك القدرة على السفر عبر الفضاء، ويصارع مع قوى الظلام التي تهددهم.",
+    "intro": "استمتع بمشاهدة فيلم Moonwalker (1988) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم السائر على القمر مترجم بجودة عالية.",
+    "desc_en": "This fantastical movie inspired by the music of Michael Jackson features imaginative interpretations of hit tracks from the iconic 1987 album “Bad”.",
+    "seo_title_ar": "مشاهدة فيلم Moonwalker مترجم - توميتو",
+    "meta_desc": "مشاهدة السائر على القمر مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Moonwalker الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم موونواكر؟",
-        "a": "فيلم موونواكر هو فيلم فانتازيا وموسيقي يأخذنا إلى رحلة مدهشة إلى القمر."
+        "q": "كيف يمكنني مشاهدة فيلم السائر على القمر?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Moonwalker?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هي أهم الأحداث في فيلم موونواكر؟",
-        "a": "فيلم موونواكر يملأ القلب بالحماس والرماية، مع أجواء من الإثارة والفантаジア."
+        "q": "ما هو تصنيف فيلم السائر على القمر?",
+        "a": "يندرج العمل تحت تصنيف فانتازيا, موسيقى.",
+        "q_en": "What is the genre of Moonwalker?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو نوع فيلم موونواكر؟",
-        "a": "فيلم موونواكر هو فيلم فانتازيا وموسيقي"
+        "q": "ما هي قصة فيلم السائر على القمر?",
+        "a": "إجابة عن السائر على القمر",
+        "q_en": "What is the story of Moonwalker?",
+        "a_en": "This fantastical movie inspired by the music of Michael Jackson features imaginative interpretations of hit tracks from the iconic 1987 album “Bad”."
       }
-    ]
+    ],
+    "keywords": "السائر على القمر مترجم, Moonwalker مترجم, مشاهدة السائر على القمر, Moonwalker"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +57,5 @@
   "duration": "93 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael Jackson Joe Pesci Sean Ono Lennon Kelley Parker Brandon Quintin Adams"
+  "cast": "Michael Jackson Joe Pesci Sean Ono Lennon Kelley Parker Brandon Quintin Adams Ben Aaron Bilal Brent Kelly"
 }

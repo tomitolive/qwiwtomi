@@ -6,10 +6,10 @@
   "slug": "49013-cars-2",
   "overview": "تدور أحداث الفيلم حول نجم سباق السيارات الامع ماكوين وصديقه ماطر في الخارج للتنافس في سباق الجائزة الكبرى العالمية.",
   "poster_path": "/3IVfHN4xRjJ4InqDPusCgd8kyoQ.jpg",
-  "backdrop_path": "/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+  "backdrop_path": "/robYRZk9LxJTwD7GlZCginji5k.jpg",
   "release_date": "2011-06-11",
   "vote_average": 6.2,
-  "vote_count": 8461,
+  "vote_count": 8595,
   "genres": [
     {
       "id": 16,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم السيارات، يلتقي نجم سباق السيارات الامع ماكوين وصديقه ماطر في الخارج للتنافس في سباق الجائزة الكبرى العالمية. مع وصولهم إلى أوروبا، يتعرضون لخطر كبير من قبل الشرير دكتور فيلد، الذي يريد أن يخترق عالم السيارات والسيطرة عليه. مع ذلك، يتعاون ماكوين وماطر معteam من السيارات لخلق خطة لمنع دكتور فيلد من تحقيق أهدافه.",
-    "desc_en": "In the world of cars, racing star Lightning McQueen and his friend Mater venture out to compete in the World Grand Prix. However, they face a major threat from the evil Dr. Feld, who wants to infiltrate the world of cars and take control of it. With that, McQueen and Mater team up with a group of cars to create a plan to prevent Dr. Feld from achieving his goals.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سيارات 2 - توميتو",
-    "seo_title_ar": "مشاهدة فيلم سيارات 2 مترجم اون لاين - توميتو",
-    "keywords": "Cars 2, فيلم سيارات 2 مترجم, مشاهدة فيلم سيارات 2, أحداث سيارات 2 بالتفصيل, قصة فيلم سيارات 2, سيارات 2 مترجم, توميتو سيارات 2, مشاهدة سيارات 2 2011",
-    "opinion": "هو فيلم ممتاز لجميع العائلات، مع الكوميديا وال مغامرة والرسوم المتحركة الجميلة. سوف تروي قصة ماكوين وماتر معك في رحلة ممتازة",
+    "intro": "استمتع بمشاهدة فيلم سيارات 2 (2011) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تدور أحداث الفيلم حول نجم سباق السيارات الامع ماكوين وصديقه ماطر في الخارج للتنافس في سباق الجائزة الكبرى العالمية.",
+    "desc_en": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+    "seo_title_ar": "مشاهدة فيلم Cars 2 مترجم - توميتو",
+    "meta_desc": "مشاهدة سيارات 2 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد سيارات 2 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم سيارات 2؟",
-        "a": "هو فيلم رسوم متحركة عائلي كوميديا"
+        "q": "كيف يمكنني مشاهدة فيلم سيارات 2?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Cars 2?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو موضوع فيلم سيارات 2؟",
-        "a": "يتناول موضوع سباق السيارات والمنافسة والخطر الذي يتهمه دكتور فيلد"
+        "q": "ما هو تصنيف فيلم سيارات 2?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, عائلي, مغامرة, كوميديا.",
+        "q_en": "What is the genre of Cars 2?",
+        "a_en": "Answer about Cars 2"
       },
       {
-        "q": "ما هو أفضل جزء في فيلم سيارات 2؟",
-        "a": "هو الجزء الذي يحتوي على الكوميديا والرسوم المتحركة الجميلة"
+        "q": "ما هي قصة فيلم سيارات 2?",
+        "a": "تدور أحداث الفيلم حول نجم سباق السيارات الامع ماكوين وصديقه ماطر في الخارج للتنافس في سباق الجائزة الكبرى العالمية.",
+        "q_en": "What is the story of Cars 2?",
+        "a_en": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventu..."
       }
-    ]
+    ],
+    "keywords": "سيارات 2 مترجم, Cars 2 مترجم, مشاهدة سيارات 2, Cars 2"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "106 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Larry the Cable Guy Owen Wilson Michael Caine Emily Mortimer Eddie Izzard"
+  "cast": "Larry the Cable Guy Owen Wilson Michael Caine Emily Mortimer Suzy Eddie Izzard John Turturro Brent Musburger Joe Mantegna"
 }

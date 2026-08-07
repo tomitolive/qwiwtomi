@@ -4,14 +4,12 @@
   "title_ar": "Perry Mason",
   "title_en": "Perry Mason",
   "slug": "4177-perry-mason",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل Perry Mason مترجم بجودة عالية.",
   "poster_path": "/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg",
   "backdrop_path": "/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
   "release_date": "1957-09-21",
   "vote_average": 7.7,
-  "vote_count": 136,
+  "vote_count": 138,
   "genres": [
     {
       "id": 9648,
@@ -27,35 +25,42 @@
     }
   ],
   "ai_content": {
-    "intro": "كم من مرة وجدنا أنفسنا محاصَرين في لغزٍ غير قابل untuk 解، ولا بد لنا من رجل خارق ليفكّ العُقد؟",
-    "desc_ar": "في عالم القانون، يلعب Perry Mason دور المحامي الشهير الذي يلقي الضوء على القضايا الغامضة والشائقة. مع مساعدة من سكسي، معلمه، يلقي Mason الضوء على الأحداث الغامضة والشائقة، ويحقق في الجرائم والقضايا الغامضة. في هذه السلسلة، نرى Mason يلقي الضوء على القضايا الغامضة والشائقة، ويحقق في الجرائم والقضايا الغامضة.",
-    "seo_title_ar": "مشاهدة فيلم Perry Mason مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع Perry Mason!",
-    "outro": "إذا كنت تحب الألغاز والدراما، فلا تفوت هذا المسلسل",
-    "opinion": "هذه السلسلة من Perry Mason هي واحدة من أفضل السلاسل الغامضة والشائقة التي شاهدناها على الإطلاق. مع مساعدة من سكسي، معلمه، يلقي Mason الضوء على الأحداث الغامضة والشائقة، ويحقق في الجرائم والقضايا الغامضة.",
+    "intro": "استمتع بمشاهدة مسلسل Perry Mason (1957) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل Perry Mason مترجم بجودة عالية.",
+    "desc_en": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.",
+    "seo_title_ar": "مشاهدة مسلسل Perry Mason مترجم - توميتو",
+    "meta_desc": "مشاهدة Perry Mason مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Perry Mason الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو غرض Perry Mason؟",
-        "a": "يلقي Mason الضوء على القضايا الغامضة والشائقة، ويحقق في الجرائم والقضايا الغامضة."
+        "q": "كيف يمكنني مشاهدة مسلسل Perry Mason?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Perry Mason?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو دور سكسي في Perry Mason؟",
-        "a": "يساعد سكسي Mason في حل القضايا الغامضة والشائقة."
+        "q": "ما هو تصنيف مسلسل Perry Mason?",
+        "a": "يندرج العمل تحت تصنيف غموض, دراما, جريمة.",
+        "q_en": "What is the genre of Perry Mason?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو نوع Perry Mason؟",
-        "a": "هو سلسلة غموض ودراما وجريمة"
+        "q": "ما هي قصة مسلسل Perry Mason?",
+        "a": "إجابة عن Perry Mason",
+        "q_en": "What is the story of Perry Mason?",
+        "a_en": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent."
       }
     ],
-    "keywords": "فيلم Perry Mason مترجم, مشاهدة فيلم Perry Mason, توميتو Perry Mason, Perry Mason مترجم كامل, أحداث Perry Mason بالتفصيل, مشاهدة Perry Mason 1957, قصة مسلسل Perry Mason",
-    "desc_en": "In the world of law, Perry Mason plays the role of the famous lawyer who sheds light on puzzling and intriguing cases. With the help of Skeet, his mentor, Mason sheds light on puzzling and intriguing events, and investigates crimes and puzzling cases. In this series, we see Mason shedding light on puzzling and intriguing cases, and investigating crimes and puzzling cases."
+    "keywords": "Perry Mason مترجم, Perry Mason مترجم, مشاهدة Perry Mason, Perry Mason"
   },
   "fixed": true,
-  "first_air_date": "1957-09-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "52 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Raymond Burr Barbara Hale William Hopper William Talman Ray Collins",
+  "first_air_date": "1957-09-21"
 }

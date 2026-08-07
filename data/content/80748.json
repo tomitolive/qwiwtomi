@@ -4,14 +4,12 @@
   "title_ar": "FBI",
   "title_en": "FBI",
   "slug": "80748-fbi",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
   "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
   "backdrop_path": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
   "release_date": "2018-09-25",
   "vote_average": 7.9,
-  "vote_count": 901,
+  "vote_count": 927,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة نيويورك، توجد مكتبة التحقيقات الفيدرالية الأمريكية التي تتميز بفريقها الماهر من المحققين والباحثين الذين يتعاملون مع الأحداث الإثارة والجريمة في المدينة، ويستخدمون كل وسائل التفكير والتكنولوجيا الحديثة ل حل القضايا والكشف عن الأسرار.",
-    "desc_en": "In New York City, the FBI's elite team of investigators and researchers tackle thrilling cases and crimes, utilizing cutting-edge technology and innovative thinking to solve mysteries and uncover secrets.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مكتبة التحقيقات الفيدرالية الأمريكية - توميتو",
-    "seo_title_ar": "مشاهدة فيلم FBI مترجم اون لاين - توميتو",
-    "keywords": "فيلم FBI مترجم, مشاهدة فيلم FBI, مشاهدة FBI 2018, FBI مترجم كامل, توميتو FBI, أحداث FBI بالتفصيل, قصة مسلسل FBI",
-    "opinion": "هذا المسلسل هو المثال الأفضل على دراما المغامرات والجريمة، حيث يجمع بين الإثارة والتشويق والتحقيق في القضايا.",
+    "intro": "استمتع بمشاهدة مسلسل FBI (2018) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
+    "desc_en": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+    "seo_title_ar": "مشاهدة مسلسل FBI مترجم - توميتو",
+    "meta_desc": "مشاهدة مكتب التحقيقات الفدرالي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد FBI الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو موضوع المسلسل؟",
-        "a": "المسلسل يركز على دراما المغامرات والجريمة في مكتبة التحقيقات الفيدرالية الأمريكية."
+        "q": "كيف يمكنني مشاهدة مسلسل مكتب التحقيقات الفدرالي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch FBI?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "المسلسل هو نوع من دراما المغامرات والجريمة."
+        "q": "ما هو تصنيف مسلسل مكتب التحقيقات الفدرالي?",
+        "a": "يندرج العمل تحت تصنيف جريمة, حركة ومغامرة, دراما.",
+        "q_en": "What is the genre of FBI?",
+        "a_en": "Answer about FBI"
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه المسلسل؟",
-        "a": "المسلسل يحدث في مدينة نيويورك"
+        "q": "ما هي قصة مسلسل مكتب التحقيقات الفدرالي?",
+        "a": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
+        "q_en": "What is the story of FBI?",
+        "a_en": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe."
       }
-    ]
+    ],
+    "keywords": "مكتب التحقيقات الفدرالي مترجم, FBI مترجم, مشاهدة مكتب التحقيقات الفدرالي, FBI"
   },
   "fixed": true,
-  "first_air_date": "2018-09-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Missy Peregrym Zeeko Zaki Jeremy Sisto",
+  "first_air_date": "2018-09-25"
 }
