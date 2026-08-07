@@ -4,20 +4,20 @@
   "title_ar": "أفاتار",
   "title_en": "Avatar",
   "slug": "19995-avatar",
-  "overview": "عندما يكتشف البشر (القمر الفريد باندورا) الذي يحتوي على معدن فائق الأهمية من الناحية الاقتصادية، يقومون بتنفيذ خطة محكمة لغزوه على الفور. لكن على هذا القمر تعيش كائنات زرقاء البشرة تٌدعى (نافي) يتمتعون بحب جارف لكوكبهم وطبيعته المدهشة، ويتصلون معه جسديًا ونفسيًا.. لذا عندما يبدأ هؤلاء في الدفاع عن كوكبهم، ينضم إليهم بعض البشر ليواجهوا قادة الغزو في معركة طاحنة ستحدد مصير باندورا والبشر إلى الأبد.",
+  "overview": "في القرن الثاني والعشرين، يُرسَل جندي سابق من مشاة البحرية الأمريكية، يعاني من شلل في ساقيه، إلى قمر يُدعى باندورا في مهمة فريدة من نوعها. لكن مع مرور الوقت، يجد نفسه ممزقًا بين تنفيذ الأوامر التي تلقّاها وبين حماية حضارة غريبة أصبحت تعني له الكثير.",
   "poster_path": "/8Zhq0uyk9MLaqJNW3EhDHepAFSP.jpg",
   "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
   "release_date": "2009-12-16",
   "vote_average": 7.6,
-  "vote_count": 33958,
+  "vote_count": 34386,
   "genres": [
-    {
-      "id": 878,
-      "name": "خيال علمي"
-    },
     {
       "id": 28,
       "name": "حركة"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
     },
     {
       "id": 12,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم آخر، يكتشف البشر قمراً فريداً يحتوي على معدن فائق الأهمية، ويقومون بتنفيذ خطة محكمة لغزوه على الفور. لكن على هذا القمر تعيش كائنات زرقاء البشرة تٌدعى نافي، التي تتمتع بحب جارف لكوكبها وطبيعته المدهشة، ويصلون معه جسديًا ونفسيًا. عندما يبدأ هؤلاء في الدفاع عن كوكبهم، ينضم إليهم بعض البشر ليواجهوا قادة الغزو في معركة طاحنة ستحدد مصير باندورا والبشر إلى الأبد.",
-    "desc_en": "In another world, humans discover a unique moon that holds a highly valuable mineral, and they quickly put a plan into action to exploit it. But on this moon, blue-skinned beings called Navi live, who enjoy a deep love for their planet and its wonders, and connect with it physically and spiritually. When these beings start to defend their planet, some humans join them to face the leaders of the invasion in a thrilling battle that will determine the fate of Pandora and humanity forever.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أفاتار - فيلم خيال علمي رائع!",
-    "seo_title_ar": "مشاهدة فيلم أفاتار مترجم اون لاين - توميتو",
-    "keywords": "Avatar, فيلم أفاتار مترجم, مشاهدة فيلم أفاتار, مشاهدة أفاتار 2009, أحداث أفاتار بالتفصيل, أفاتار مترجم, قصة فيلم أفاتار, توميتو أفاتار",
-    "opinion": "أفاتار هو فيلم خيال علمي رائع يجمع بين المغامرة والحركة والخيال العلمي، ويحمل رسالة مهمة عن أهمية المحافظة على الطبيعة والبيئة.",
+    "intro": "استمتع بمشاهدة فيلم أفاتار (2009) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "في القرن الثاني والعشرين، يُرسَل جندي سابق من مشاة البحرية الأمريكية، يعاني من شلل في ساقيه، إلى قمر يُدعى باندورا في مهمة فريدة من نوعها. لكن مع مرور الوقت، يجد نفسه ممزقًا بين تنفيذ الأوامر التي تلقّاها وبين حماية حضارة غريبة أصبحت تعني له الكثير.",
+    "desc_en": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "seo_title_ar": "مشاهدة فيلم Avatar مترجم - توميتو",
+    "meta_desc": "مشاهدة أفاتار مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد أفاتار الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم أفاتار؟",
-        "a": "فيلم أفاتار هو فيلم خيال علمي رائع يروي قصة البشر والكائنات الزرقاء في كوكب باندورا."
+        "q": "كيف يمكنني مشاهدة فيلم أفاتار?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Avatar?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو باندورا؟",
-        "a": "باندورا هو كوكب يتعايش مع البشر والكائنات الزرقاء، ويحمل أسرار وsegrets."
+        "q": "ما هو تصنيف فيلم أفاتار?",
+        "a": "يندرج العمل تحت تصنيف حركة, خيال علمي, مغامرة.",
+        "q_en": "What is the genre of Avatar?",
+        "a_en": "Answer about Avatar"
       },
       {
-        "q": "ما هو فيلم أفاتار مترجم؟",
-        "a": "فيلم أفاتار مترجم هو فيلم أفاتار مترجم إلى اللغة العربية، ويقدم تجربة مشاهدة رائعة لجميع المتابعين"
+        "q": "ما هي قصة فيلم أفاتار?",
+        "a": "في القرن الثاني والعشرين، يُرسَل جندي سابق من مشاة البحرية الأمريكية، يعاني من شلل في ساقيه، إلى قمر يُدعى باندورا في مهمة فريدة من نوعها. لكن مع مرور الوقت، يجد نفسه ممزقًا بين تنفيذ الأوامر التي تلق...",
+        "q_en": "What is the story of Avatar?",
+        "a_en": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
       }
-    ]
+    ],
+    "keywords": "أفاتار مترجم, Avatar مترجم, مشاهدة أفاتار, Avatar"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "162 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Sam Worthington Zoe Saldaña Sigourney Weaver Stephen Lang Michelle Rodriguez"
+  "cast": "Sam Worthington Zoe Saldaña Sigourney Weaver Stephen Lang Michelle Rodriguez Giovanni Ribisi Joel David Moore CCH Pounder"
 }

@@ -2315,8 +2315,80 @@
       "file": "187.json",
       "title": "Sin City",
       "fixed_at": "2026-08-07T23:03:10.089209"
+    },
+    {
+      "tmdb_id": "228091",
+      "file": "228091.json",
+      "title": "HK 80s",
+      "fixed_at": "2026-08-07T23:44:12.698228"
+    },
+    {
+      "tmdb_id": "19995",
+      "file": "19995.json",
+      "title": "أفاتار",
+      "fixed_at": "2026-08-07T23:44:22.526080"
+    },
+    {
+      "tmdb_id": "1328803",
+      "file": "1328803.json",
+      "title": "أسير الحرب",
+      "fixed_at": "2026-08-07T23:44:32.038787"
+    },
+    {
+      "tmdb_id": "7330",
+      "file": "7330.json",
+      "title": "Iron Man: Armored Adventures",
+      "fixed_at": "2026-08-07T23:44:44.544254"
+    },
+    {
+      "tmdb_id": "250596",
+      "file": "250596.json",
+      "title": "My Wife Has No Emotion",
+      "fixed_at": "2026-08-07T23:44:55.137039"
+    },
+    {
+      "tmdb_id": "1421594",
+      "file": "1421594.json",
+      "title": "Inside the Trustor Scandal",
+      "fixed_at": "2026-08-07T23:45:04.583820"
+    },
+    {
+      "tmdb_id": "44953",
+      "file": "44953.json",
+      "title": "El seor de los cielos",
+      "fixed_at": "2026-08-07T23:45:14.201377"
+    },
+    {
+      "tmdb_id": "93120",
+      "file": "93120.json",
+      "title": "",
+      "fixed_at": "2026-08-07T23:45:25.744764"
+    },
+    {
+      "tmdb_id": "994",
+      "file": "994.json",
+      "title": "Kommissar Rex",
+      "fixed_at": "2026-08-07T23:45:35.120131"
+    },
+    {
+      "tmdb_id": "1698575",
+      "file": "1698575.json",
+      "title": "سنوبي يقدم: لا يوجد مكان مثل المنزل يا سنوبي",
+      "fixed_at": "2026-08-07T23:45:44.446298"
+    },
+    {
+      "tmdb_id": "65844",
+      "file": "65844.json",
+      "title": "KONOSUBA - Gods blessing on this wonderful world!",
+      "fixed_at": "2026-08-07T23:45:56.971722"
+    },
+    {
+      "tmdb_id": "1284120",
+      "file": "1284120.json",
+      "title": "Den stygge stessteren",
+      "fixed_at": "2026-08-07T23:46:06.359628"
     }
   ],
-  "last_updated": "2026-08-07T23:03:12.092059",
-  "total_fixed": 386
+  "last_updated": "2026-08-07T23:46:08.362378",
+  "total_fixed": 398
 }
