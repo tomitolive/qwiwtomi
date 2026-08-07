@@ -4,14 +4,12 @@
   "title_ar": "The Monkees",
   "title_en": "The Monkees",
   "slug": "7626-the-monkees",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل القرود مترجم بجودة عالية.",
   "poster_path": "/kNhWFmfVGkNfF3o3kdKUKgvdnaN.jpg",
   "backdrop_path": "/8LkGGqYuoqq64jpZmpEtOoapTys.jpg",
   "release_date": "1966-09-12",
-  "vote_average": 6.6,
-  "vote_count": 51,
+  "vote_average": 6.5,
+  "vote_count": 54,
   "genres": [
     {
       "id": 35,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذا المسلسل الكوميدي، نرى مجموعة من الأصدقاء الذين يلعبون دوراً في مجموعة موسيقية، حيث يتعاملون مع مشاكل الحياة اليومية، ويقومون بالعديد من المغامرات، فيما يتعاملون مع مشاكلهم الشخصية، ويقومون بالعديد من المغامرات.",
-    "desc_en": "In this comedy series, we see a group of friends who play a role in a musical group, where they deal with daily life problems, and they are involved in many adventures, as they deal with their personal problems, and they are involved in many adventures.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الكوميديا \"المنكيز\" - توميتو",
-    "seo_title_ar": "مشاهدة مسلسل المنكيز مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميدي, مشاهدة فيلم كوميدي, مسلسل عائلي, مشاهدة The Monkees 1966, أحداث The Monkees بالتفصيل, قصة مسلسل The Monkees, The Monkees مترجم كامل, توميتو The Monkees",
-    "opinion": "هو مسلسل كوميدي رائع، يحتوي على الكثير من الاثارة والمرح، ويقوم بالتسلية، ويقوم بالتسلية.",
+    "intro": "استمتع بمشاهدة مسلسل The Monkees (1966) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل القرود مترجم بجودة عالية.",
+    "desc_en": "Micky, Mike, Peter, and Davy are four young men in mid-1960s LA, members of a struggling country-folk-rock band looking for their big break amid madcap encounters with a variety of people straight out of TV and movie central casting, with full knowledge that their existence is part of a weekly television series.",
+    "seo_title_ar": "مشاهدة مسلسل The Monkees مترجم - توميتو",
+    "meta_desc": "مشاهدة القرود مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد The Monkees الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل المنكيز؟",
-        "a": "هو مسلسل كوميدي عائلي"
+        "q": "كيف يمكنني مشاهدة مسلسل القرود?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Monkees?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع نوع مسلسل المنكيز؟",
-        "a": "هو مسلسل كوميدي"
+        "q": "ما هو تصنيف مسلسل القرود?",
+        "a": "يندرج العمل تحت تصنيف كوميديا, عائلي.",
+        "q_en": "What is the genre of The Monkees?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو نوع نوع مسلسل المنكيز؟",
-        "a": "هو مسلسل عائلي"
+        "q": "ما هي قصة مسلسل القرود?",
+        "a": "إجابة عن القرود",
+        "q_en": "What is the story of The Monkees?",
+        "a_en": "Micky, Mike, Peter, and Davy are four young men in mid-1960s LA, members of a struggling country-folk-rock band looking for their big break amid madcap encounters with a variety of people straight out..."
       }
-    ]
+    ],
+    "keywords": "القرود مترجم, The Monkees مترجم, مشاهدة القرود, The Monkees"
   },
   "fixed": true,
-  "first_air_date": "1966-09-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "30 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Davy Jones Micky Dolenz Michael Nesmith Peter Tork",
+  "first_air_date": "1966-09-12"
 }

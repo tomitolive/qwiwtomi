@@ -9,7 +9,7 @@
   "backdrop_path": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
   "release_date": "2015-04-01",
   "vote_average": 7.2,
-  "vote_count": 11268,
+  "vote_count": 11402,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد مقتل أهله، يعود دومينيك توريو وبرايان هوبز إلى الولايات المتحدة ليعيشا حياةً طبيعيةً مُجددًا، ولكن إيان هوارد، الأخ الأكبر لأوين، يسعي للإنتقام لمقتل أخيه، ويقوم العصابة بأكملها بتصميمها علي الانتقام من الرجل الذي قام بقتل صديقهم.",
-    "desc_en": "After the death of his family, Dominic Toretto and Brian O'Conner return to the United States to live a normal life, but Ian, the older brother of Owen, seeks revenge for the death of his brother, and the gang, led by him, designs a plan to avenge the man who killed their friend.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في غاضب 7!",
-    "seo_title_ar": "مشاهدة فيلم غاضب 7 مترجم اون لاين - توميتو",
-    "keywords": "Furious 7, فيلم غاضب 7 مترجم, مشاهدة فيلم غاضب, قصة فيلم غاضب 7, مشاهدة غاضب 7 2015, غاضب 7 مترجم, توميتو غاضب 7, أحداث غاضب 7 بالتفصيل",
-    "opinion": "فيلم غاضب 7 هو المونمن في سلسلة غاضب، مع أحداث مثيرة وحركة سريعة، ويبقى في ذاكرة المشاهدين دائماً.",
+    "intro": "استمتع بمشاهدة فيلم غاضب 7 (2015) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استكمالًا لأحداث الأجزاء السابقة، بعد مقتل (أوين شو) وفريقه أصبح بإستطاعة دومينيك (فان ديزيل) وبرايان (بول ووكر) وفريقهما العودة إلي الولايات المتحدة وعيش حياةٍ طبيعيةٍ مُجددًا، ولكن (إيان) الأخ الأكبر لـ(أوين) يسعي للإنتقام لمقتل أخيه من دومينيك، وبالتالي تصمم العصابة بأكملها علي الانتقام من الرجل الذي قام بقتل صديقهم.",
+    "desc_en": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+    "seo_title_ar": "مشاهدة فيلم Furious 7 مترجم - توميتو",
+    "meta_desc": "مشاهدة غاضب 7 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد غاضب 7 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو غاضب 7؟",
-        "a": "فيلم غاضب 7 هو الجزء السابع من سلسلة أفلام غاضب."
+        "q": "كيف يمكنني مشاهدة فيلم غاضب 7?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Furious 7?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم غاضب 7؟",
-        "a": "فيلم غاضب 7 هو فيلم حركة جريمة إثارة."
+        "q": "ما هو تصنيف فيلم غاضب 7?",
+        "a": "يندرج العمل تحت تصنيف حركة, جريمة, إثارة.",
+        "q_en": "What is the genre of Furious 7?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو أفضل جزء في سلسلة غاضب؟",
-        "a": "فيلم غاضب 7 هو أفضل جزء في سلسلة غاضب، مع أحداث مثيرة وحركة سريعة."
+        "q": "ما هي قصة فيلم غاضب 7?",
+        "a": "استكمالًا لأحداث الأجزاء السابقة، بعد مقتل (أوين شو) وفريقه أصبح بإستطاعة دومينيك (فان ديزيل) وبرايان (بول ووكر) وفريقهما العودة إلي الولايات المتحدة وعيش حياةٍ طبيعيةٍ مُجددًا، ولكن (إيان) الأخ الأكب...",
+        "q_en": "What is the story of Furious 7?",
+        "a_en": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother."
       }
-    ]
+    ],
+    "keywords": "غاضب 7 مترجم, Furious 7 مترجم, مشاهدة غاضب 7, Furious 7"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "138 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Vin Diesel Paul Walker Dwayne Johnson Michelle Rodriguez Tyrese Gibson"
+  "cast": "Vin Diesel Paul Walker Dwayne Johnson Michelle Rodriguez Tyrese Gibson Ludacris Jordana Brewster Jason Statham"
 }
