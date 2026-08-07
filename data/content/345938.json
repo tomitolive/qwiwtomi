@@ -9,7 +9,7 @@
   "backdrop_path": "/bAup7FGUlmNVOuhZFlLgmDPo0Eg.jpg",
   "release_date": "2017-03-02",
   "vote_average": 7.5,
-  "vote_count": 2248,
+  "vote_count": 2274,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد معاناة ماك فيليبس من معاناة عائلية، يجد نفسه في اكتئاب عميق، مما جعله يتساءل عن معتقداته العميقة. في مواجهة أزمة إيمان، تلقى رسالة غامضة تحثه على الذهاب إلى كوخ مهجور في عمق برية أوريغون، حيث يصادف ثلاثيًا غامضًا من الغرباء بقيادة امرأة تدعى بابا.",
-    "desc_en": "After struggling with family tragedy, Mack Phillips finds himself in a deep depression, questioning his deep-seated beliefs. In the face of faith crisis, he receives a mysterious message urging him to visit an abandoned shack deep in the Oregon wilderness, where he meets a mysterious trio of strangers led by a woman named Papa.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الدراما والعائلي \"الخيمة\"!",
-    "seo_title_ar": "مشاهدة فيلم الخيمة مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما, فيلم عائلي, مشاهدة فيلم الخيمة مترجم, قصة فيلم The Shack, مشاهدة The Shack 2017, توميتو The Shack, أحداث The Shack بالتفصيل, The Shack مترجم",
-    "opinion": "في هذا الفيلم، نرى كيف يمكن أن يغير الحدثات في حياتنا، ونرى كيف يمكن أن نستكمل رحلتنا مع الله",
+    "intro": "استمتع بمشاهدة فيلم The Shack (2017) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "بعد معاناته من مأساة عائلية ، يدخل ماك فيليبس في اكتئاب عميق مما جعله يتساءل عن معتقداته العميقة. في مواجهة أزمة إيمان ، تلقى رسالة غامضة تحثه على الذهاب إلى كوخ مهجور في عمق برية أوريغون. على الرغم من شكوكه ، يسافر ماك إلى الكوخ ويصادف ثلاثيًا غامضًا من الغرباء بقيادة امرأة تدعى بابا. من خلال هذا الاجتماع ، يجد ماك حقائق مهمة من شأنها أن تغير فهمه لمأساته وتغير حياته إلى الأبد.",
+    "desc_en": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'.",
+    "seo_title_ar": "مشاهدة فيلم The Shack مترجم - توميتو",
+    "meta_desc": "مشاهدة الكوخ مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد The Shack الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم الخيمة؟",
-        "a": "فيلم دراما عائلي يروي قصة رجل يجد نفسه في اكتئاب عميق بعد معاناة عائلية"
+        "q": "كيف يمكنني مشاهدة فيلم الكوخ?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Shack?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو أصل فيلم الخيمة؟",
-        "a": "فيلم الخيمة هو إنتاج سينمائي أمريكي من نوع الدراما والعائلي"
+        "q": "ما هو تصنيف فيلم الكوخ?",
+        "a": "يندرج العمل تحت تصنيف دراما, عائلي.",
+        "q_en": "What is the genre of The Shack?",
+        "a_en": "It falls under the genre of , ."
       },
       {
-        "q": "ما هو المخرج لفيلم الخيمة؟",
-        "a": "المخرج الرئيسي لفيلم الخيمة هو ستيفان سونديم"
+        "q": "ما هي قصة فيلم الكوخ?",
+        "a": "إجابة عن الكوخ",
+        "q_en": "What is the story of The Shack?",
+        "a_en": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'."
       }
-    ]
+    ],
+    "keywords": "الكوخ مترجم, The Shack مترجم, مشاهدة الكوخ, The Shack"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +57,5 @@
   "duration": "132 دقيقة",
   "language": "الإنجليزية",
   "country": "كندا",
-  "cast": "Sam Worthington Octavia Spencer Tim McGraw Aviv Alush Sumire"
+  "cast": "Sam Worthington Octavia Spencer Tim McGraw Aviv Alush Sumire Radha Mitchell Graham Greene Gage Munroe"
 }

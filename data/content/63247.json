@@ -1,50 +1,49 @@
 {
   "id": 63247,
-  "title": "العالم الغربي",
-  "title_ar": "العالم الغربي",
-  "title_en": "Westworld",
-  "slug": "63247-westworld",
-  "overview": "ملحمة مظلمة حول الوعي الاصطناعي وتطور الخطيئة. تقع أحداثه عند تقاطع المستقبل القريب والماضي المعاد تخيله ، وتستكشف عالما يمكن الانغماس فيه بكل شهوة بشرية، نبيلة أم فاسدة.",
-  "poster_path": "/qRnaQNbSrtdlvMR1ZAXnWbsZRmD.jpg",
-  "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
-  "release_date": "2016-10-02",
-  "vote_average": 8.0,
-  "vote_count": 6248,
+  "title": "My Teacher, Mr. Kim",
+  "title_ar": "My Teacher, Mr. Kim",
+  "title_en": "My Teacher, Mr. Kim",
+  "slug": "63247-my-teacher-mr-kim",
+  "overview": "يُعد فيلم \"أستاذي السيد كيم\" من نوع الكوميديا والدراما، حيث يحاول معلم جذب طلابه القلائل في مدرسة ريفية صغيرة إلى سيول لانتقاله إلى مدرسة أفضل، لكن جهوده تنقلب ضده، وتصبح مدرسته واحدة من أعلى المدارس تصنيفًا في البلاد.",
+  "poster_path": "/dKCMFSnUsYE6AM0yrUkzOeYn8Kj.jpg",
+  "backdrop_path": "/asq3J2a1UkxnCixTpntO2mNG7s1.jpg",
+  "release_date": "2003-03-28",
+  "vote_average": 7.4,
+  "vote_count": 16,
   "genres": [
     {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 35,
+      "name": "كوميديا"
     },
     {
-      "id": 37,
-      "name": "غربي"
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل العالم الغربي (2016) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يستكشف مسلسل \"العالم الغربي\" ملحمة مظلمة حول الوعي الاصطناعي وتطور الخطيئة. تدور أحداثه عند تقاطع المستقبل القريب والماضي المعاد تخيله، حيث يغوص في عالم يمكن فيه إشباع كل الشهوات البشرية، سواء كانت نبيلة أو فاسدة. \"Westworld\"، المسلسل الذي يجمع بين الخيال العلمي والفانتازيا والغرب الأمريكي، يقدم تجربة مشاهدة غامرة ومثيرة.",
-    "desc_en": "Westworld is a captivating series that delves into a dark odyssey about artificial consciousness and sin's evolution. Set at the intersection of the near future and reimagined past, it explores a world where every human desire, noble or depraved, can be indulged. This sci-fi and fantasy-western hybrid offers an immersive and thrilling viewing experience.",
-    "seo_title_ar": "مشاهدة مسلسل العالم الغربي Westworld مترجم - توميتو",
-    "meta_desc": "Westworld: ملحمة مظلمة حول الوعي الاصطناعي في مستقبل قريب. مسلسل يجمع الخيال العلمي والفانتازيا والغرب الأمريكي في عالم يمكن فيه إشباع كل الشهوات.",
-    "outro": "شاهد العالم الغربي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"العالم الغربي\" هو رحلة غامضة ومثيرة، حيث يسلط الضوء على تطور الوعي الاصطناعي والخطيئة. إنه تجسيد رائع لعالم خيالي يجمع بين الماضي والمستقبل.",
-    "opinion_en": "Westworld is a captivating and thought-provoking series, showcasing the evolution of artificial consciousness and sin. It's a brilliant portrayal of a fictional world that blends the past and future.",
+    "intro": "استمتع بمشاهدة فيلم My Teacher, Mr. Kim (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يُعد فيلم \"أستاذي السيد كيم\" من نوع الكوميديا والدراما، حيث يحاول معلم جذب طلابه القلائل في مدرسة ريفية صغيرة إلى سيول لانتقاله إلى مدرسة أفضل، لكن جهوده تنقلب ضده، وتصبح مدرسته واحدة من أعلى المدارس تصنيفًا في البلاد.",
+    "desc_en": "In \"My Teacher, Mr. Kim\", a teacher's plan to lure his students to Seoul backfires, leading to an unexpected turn of events and a remarkable transformation for his small, rural school.",
+    "seo_title_ar": "مشاهدة فيلم أستاذي السيد كيم مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم أستاذي السيد كيم الكوميدي الدرامي، حيث يغير معلم حياة طلابه في مدرسة ريفية صغيرة. شاهد الآن!",
+    "outro": "شاهد My Teacher, Mr. Kim الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"أستاذي السيد كيم\" هو مزيج رائع من الكوميديا والدراما، ويحمل رسالة ملهمة عن قوة التعليم والتغيير الإيجابي.",
+    "opinion_en": "\"My Teacher, Mr. Kim\" is a heartwarming comedy-drama that showcases the power of education and the impact of a dedicated teacher.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل العالم الغربي؟",
-        "a": "يستكشف المسلسل موضوع الوعي الاصطناعي وتطور الخطيئة في عالم خيالي يجمع بين المستقبل القريب والماضي المعاد تخيله.",
-        "q_en": "What is the theme of Westworld?",
-        "a_en": "The series delves into the theme of artificial consciousness and the evolution of sin in a fictional world set at the intersection of the near future and reimagined past."
+        "q": "ما هو نوع فيلم \"أستاذي السيد كيم\"؟",
+        "a": "فيلم \"أستاذي السيد كيم\" هو فيلم كوميدي درامي.",
+        "q_en": "What genre is \"My Teacher, Mr. Kim\"?",
+        "a_en": "\"My Teacher, Mr. Kim\" is a comedy-drama film."
       }
     ],
-    "keywords": "العالم الغربي, Westworld, مسلسل, خيال علمي, فانتازيا, غربي, وعي اصطناعي, تطور الخطيئة, مستقبل, ماضي, شهوات بشرية"
+    "keywords": "أستاذي السيد كيم, My Teacher, Mr. Kim, فيلم, كوميديا, دراما, مدرسة, سيول"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Evan Rachel Wood Thandiwe Newton Jeffrey Wright Tessa Thompson Aaron Paul James Marsden Angela Sarafyan Ed Harris",
-  "first_air_date": "2016-10-02"
+  "duration": "117 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Cha Seung-won Byun Hee-bong Sung Ji-ru Lee Jae-eung Lee Young-suk Lee Bom Seo Hui-seung Kim Seok"
 }

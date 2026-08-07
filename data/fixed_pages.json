@@ -1835,8 +1835,98 @@
       "file": "11220.json",
       "title": "Fallen Angels",
       "fixed_at": "2026-08-07T17:35:49.295123"
+    },
+    {
+      "tmdb_id": "63247",
+      "file": "63247.json",
+      "title": "العالم الغربي",
+      "fixed_at": "2026-08-07T18:30:01.845170"
+    },
+    {
+      "tmdb_id": "359724",
+      "file": "359724.json",
+      "title": "فورد ضد فيراري",
+      "fixed_at": "2026-08-07T18:30:11.817402"
+    },
+    {
+      "tmdb_id": "67744",
+      "file": "67744.json",
+      "title": "MINDHUNTER",
+      "fixed_at": "2026-08-07T18:30:22.333032"
+    },
+    {
+      "tmdb_id": "533533",
+      "file": "533533.json",
+      "title": "ترون: آريس",
+      "fixed_at": "2026-08-07T18:30:31.449715"
+    },
+    {
+      "tmdb_id": "345938",
+      "file": "345938.json",
+      "title": "The Shack",
+      "fixed_at": "2026-08-07T18:30:41.777013"
+    },
+    {
+      "tmdb_id": "259693",
+      "file": "259693.json",
+      "title": "الشعوذة 2",
+      "fixed_at": "2026-08-07T18:30:51.096101"
+    },
+    {
+      "tmdb_id": "838209",
+      "file": "838209.json",
+      "title": "المنبوش",
+      "fixed_at": "2026-08-07T18:31:00.575083"
+    },
+    {
+      "tmdb_id": "1058424",
+      "file": "1058424.json",
+      "title": "Hope",
+      "fixed_at": "2026-08-07T18:31:09.851303"
+    },
+    {
+      "tmdb_id": "1402",
+      "file": "1402.json",
+      "title": "البحث عن السعادة",
+      "fixed_at": "2026-08-07T18:31:18.856146"
+    },
+    {
+      "tmdb_id": "67384",
+      "file": "67384.json",
+      "title": "العملاق",
+      "fixed_at": "2026-08-07T18:31:27.786968"
+    },
+    {
+      "tmdb_id": "121513",
+      "file": "121513.json",
+      "title": "Kangs Family",
+      "fixed_at": "2026-08-07T18:31:36.999132"
+    },
+    {
+      "tmdb_id": "69700",
+      "file": "69700.json",
+      "title": "One Mysterious Night",
+      "fixed_at": "2026-08-07T18:31:47.852320"
+    },
+    {
+      "tmdb_id": "1022102",
+      "file": "1022102.json",
+      "title": "BTS: PERMISSION TO DANCE LA",
+      "fixed_at": "2026-08-07T18:31:56.964399"
+    },
+    {
+      "tmdb_id": "395834",
+      "file": "395834.json",
+      "title": "نهر الرياح",
+      "fixed_at": "2026-08-07T18:32:06.399774"
+    },
+    {
+      "tmdb_id": "217993",
+      "file": "217993.json",
+      "title": "Justice League: War",
+      "fixed_at": "2026-08-07T18:32:16.986938"
     }
   ],
-  "last_updated": "2026-08-07T17:35:51.297773",
-  "total_fixed": 306
+  "last_updated": "2026-08-07T18:32:18.989618",
+  "total_fixed": 321
 }

@@ -9,7 +9,7 @@
   "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
   "release_date": "2025-10-08",
   "vote_average": 6.5,
-  "vote_count": 1389,
+  "vote_count": 1546,
   "genres": [
     {
       "id": 878,
@@ -25,12 +25,35 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة فيلم ترون: آريس (2025) مترجم بجودة عالية على توميتو.",
     "desc_ar": "برنامجٌ متطوّرٌ للغاية يُدعى \"آريس\" يُرسَل من العالم الرقمي إلى العالم الحقيقي في مهمةٍ خطيرة، ليمثل أولَ اتصالٍ للبشرية مع كائناتٍ ذكيةٍ اصطناعية.",
-    "desc_en": "برنامجٌ متطوّرٌ للغاية يُدعى \"آريس\" يُرسَل من العالم الرقمي إلى العالم الحقيقي في مهمةٍ خطيرة، ليمثل أولَ اتصالٍ للبشرية مع كائناتٍ ذكيةٍ اصطناعية.",
-    "meta_desc": "مشاهدة ترون: آريس مترجم بجودة عالية على توميتو.",
-    "keywords": "TRON: Ares, توميتو ترون: آريس, أحداث ترون: آريس بالتفصيل, مشاهدة ترون: آريس 2026, ترون: آريس مترجم, lidl near me, مشاهدة فيلم برشامه, فيلم 7 dogs, ايرادات فيلم اسد, فيلم الست, فيلم الكلام على ايه, فيلم برشامة, فيلم برشامه, فيلم اسد, فيلم احمد عز وكريم عبد العزيز الجديد, the sheep detectives فيلم, فيلم باك رومز, backrooms فيلم, فيلم 7 dogs شاهد, فيلم ماروكو, فيلم هوس, فيلم مستر اكس, ايرادات فيلم 7dogs, فيلم سفن دوجز سينما, 7 dogs فيلم, قصة فيلم ترون: آريس",
-    "seo_title_ar": "مشاهدة ترون: آريس مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+    "seo_title_ar": "مشاهدة فيلم TRON: Ares مترجم - توميتو",
+    "meta_desc": "مشاهدة ترون: آريس مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد ترون: آريس الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة فيلم ترون: آريس?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch TRON: Ares?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم ترون: آريس?",
+        "a": "يندرج العمل تحت تصنيف خيال علمي, مغامرة, حركة.",
+        "q_en": "What is the genre of TRON: Ares?",
+        "a_en": "Answer about TRON: Ares"
+      },
+      {
+        "q": "ما هي قصة فيلم ترون: آريس?",
+        "a": "برنامجٌ متطوّرٌ للغاية يُدعى \"آريس\" يُرسَل من العالم الرقمي إلى العالم الحقيقي في مهمةٍ خطيرة، ليمثل أولَ اتصالٍ للبشرية مع كائناتٍ ذكيةٍ اصطناعية.",
+        "q_en": "What is the story of TRON: Ares?",
+        "a_en": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings."
+      }
+    ],
+    "keywords": "ترون: آريس مترجم, TRON: Ares مترجم, مشاهدة ترون: آريس, TRON: Ares"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -38,5 +61,5 @@
   "duration": "119 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jared Leto Greta Lee Evan Peters Gillian Anderson Jodie Turner-Smith"
+  "cast": "Jared Leto Greta Lee Evan Peters Gillian Anderson Jodie Turner-Smith Jeff Bridges Hasan Minhaj Arturo Castro"
 }

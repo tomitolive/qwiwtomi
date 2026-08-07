@@ -8,43 +8,52 @@
   "poster_path": "/i9FUL1B0ComrhEXnsCR3L5SlOJ7.jpg",
   "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
   "release_date": "2019-11-13",
-  "vote_average": 8,
-  "vote_count": 8960,
+  "vote_average": 8.0,
+  "vote_count": 9150,
   "genres": [
     {
       "id": 18,
       "name": "دراما"
     },
     {
-      "id": 28,
-      "name": "حركة"
-    },
-    {
       "id": 36,
       "name": "تاريخ"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم السيارات، يلتقي المصمم كارول شيلبي والسائق كين مايلز في سبيل تصميم سيارة سباق فائقة لصالح شركة فورد من أجل منافسة نظيرتها اﻹيطالية فيراري. في مدينة ليمان الفرنسية عام 1966، يلدغ السائقون من كل من فورد وفيرواري في سباق فائق السرعة. من الذي سيفوز؟",
-    "desc_en": "In the world of cars, designer Carroll Shelby and driver Ken Miles join forces to design a high-performance racing car for Ford to compete against its Italian rival Ferrari. In the 1966 French Grand Prix at Le Mans, the drivers from both Ford and Ferrari engage in a fierce battle of speed. Who will win?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سباق فورد ضد فيراري!",
-    "seo_title_ar": "مشاهدة فيلم فورد ضد فيراري مترجم اون لاين - توميتو",
-    "keywords": "Ford v Ferrari, فيلم فورد ضد فيراري مترجم, مشاهدة فيلم فورد ضد فيراري, أحداث فورد ضد فيراري بالتفصيل, قصة فيلم فورد ضد فيراري, مشاهدة فورد ضد فيراري 2019, فورد ضد فيراري مترجم, توميتو فورد ضد فيراري",
-    "opinion": "هو فيلم رائع يلدغ النفس ويحملك في عالم السيارات. من المؤكد أنك ستحب هذا الفيلم!",
+    "intro": "استمتع بمشاهدة فيلم فورد ضد فيراري (2019) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استنادًا إلى قصة حقيقية، يتعاون كل من مصمم السيارات كارول شيلبي والسائق كين مايلز في سبيل تصميم سيارة سباق فائقة لصالح شركة فورد من أجل منافسة نظيرتها اﻹيطالية فيراري للفوز بالسباق المقام في مدينة ليمان الفرنسية عام 1966.",
+    "desc_en": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+    "seo_title_ar": "مشاهدة فيلم Ford Ferrari مترجم - توميتو",
+    "meta_desc": "مشاهدة فورد ضد فيراري مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد فورد ضد فيراري الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو قصة فيلم فورد ضد فيراري؟",
-        "a": "يتعاون المصمم كارول شيلبي والسائق كين مايلز في سبيل تصميم سيارة سباق فائقة لصالح شركة فورد من أجل منافسة نظيرتها اﻹيطالية فيراري."
+        "q": "كيف يمكنني مشاهدة فيلم فورد ضد فيراري?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Ford v Ferrari?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم فورد ضد فيراري؟",
-        "a": "هو فيلم دراما وحركة تاريخي"
+        "q": "ما هو تصنيف فيلم فورد ضد فيراري?",
+        "a": "يندرج العمل تحت تصنيف دراما, تاريخ, حركة.",
+        "q_en": "What is the genre of Ford v Ferrari?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو أفضل جزء في فيلم فورد ضد فيراري؟",
-        "a": "هو سباق فورد ضد فيراري في مدينة ليمان الفرنسية عام 1966"
+        "q": "ما هي قصة فيلم فورد ضد فيراري?",
+        "a": "استنادًا إلى قصة حقيقية، يتعاون كل من مصمم السيارات كارول شيلبي والسائق كين مايلز في سبيل تصميم سيارة سباق فائقة لصالح شركة فورد من أجل منافسة نظيرتها اﻹيطالية فيراري للفوز بالسباق المقام في مدينة ليم...",
+        "q_en": "What is the story of Ford v Ferrari?",
+        "a_en": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary r..."
       }
-    ]
+    ],
+    "keywords": "فورد ضد فيراري مترجم, Ford Ferrari مترجم, مشاهدة فورد ضد فيراري, Ford Ferrari"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "153 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Matt Damon Christian Bale Jon Bernthal Caitríona Balfe Josh Lucas"
+  "cast": "Matt Damon Christian Bale Jon Bernthal Caitríona Balfe Josh Lucas Noah Jupe Tracy Letts Remo Girone"
 }
