@@ -4,9 +4,7 @@
   "title_ar": "Whos the Murderer",
   "title_en": "Whos the Murderer",
   "slug": "74561-whos-the-murderer",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل من هو القاتل مترجم بجودة عالية.",
   "poster_path": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
   "backdrop_path": "/cakRVxJh1MI8Sj3aJ1f75uvUSze.jpg",
   "release_date": "2016-03-27",
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النوم، يتعثر المحققون بال улиات والشهادات، لكن ما هو الحق؟ في هذه الدراما الجريمة، نرى كيف يتعثر المحققون بال улиات والشهادات، لكن ما هو الحق؟",
-    "desc_en": "In the world of dreams, investigators stumble upon clues and testimonies, but what is the truth? In this crime drama, we see how investigators stumble upon clues and testimonies, but what is the truth?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الدراما الجريمة",
-    "seo_title_ar": "مشاهدة فيلم منقتل من هو المقتلة مترجم اون لاين - توميتو",
-    "keywords": "فيلم جريمة مترجم, مشاهدة فيلم جريمة, أحداث Whos the Murderer بالتفصيل, توميتو Whos the Murderer, قصة مسلسل Whos the Murderer, Whos the Murderer مترجم كامل, مشاهدة Whos the Murderer 2016",
-    "opinion": "هذه الدراما الجريمة هي واحدة من أفضل ما قام به في هذا المجال، حيث تجمع بين الغموض والجريمة والواقعية في نهاية ممتازة",
+    "intro": "استمتع بمشاهدة مسلسل Whos the Murderer (2016) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل من هو القاتل مترجم بجودة عالية.",
+    "desc_en": "The cast is introduced to the settings and suspects of a murder case for the new episode. The cast then chooses their role in the episode, as a particular suspect or the detective.",
+    "seo_title_ar": "مشاهدة مسلسل Whos Murderer مترجم - توميتو",
+    "meta_desc": "مشاهدة من هو القاتل مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Whos the Murderer الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو الحق في هذه الدراما؟",
-        "a": "الحق هو ما يكتشف المحققون من улиات والشهادات"
+        "q": "كيف يمكنني مشاهدة مسلسل من هو القاتل?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Whos the Murderer?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو النوع من الدراما؟",
-        "a": "هذه الدراما جريمة غموض واقع"
+        "q": "ما هو تصنيف مسلسل من هو القاتل?",
+        "a": "يندرج العمل تحت تصنيف جريمة, غموض, واقع.",
+        "q_en": "What is the genre of Whos the Murderer?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو أفضل ما في هذه الدراما؟",
-        "a": "الواقعية والجريمة والغموض في نهاية ممتازة"
+        "q": "ما هي قصة مسلسل من هو القاتل?",
+        "a": "إجابة عن من هو القاتل",
+        "q_en": "What is the story of Whos the Murderer?",
+        "a_en": "The cast is introduced to the settings and suspects of a murder case for the new episode. The cast then chooses their role in the episode, as a particular suspect or the detective."
       }
-    ]
+    ],
+    "keywords": "من هو القاتل مترجم, Whos Murderer مترجم, مشاهدة من هو القاتل, Whos Murderer"
   },
   "fixed": true,
-  "first_air_date": "2016-03-27",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
+  "duration": "75 دقيقة",
   "language": "الإنجليزية",
-  "country": "هولندا",
-  "cast": "Michael Madsen Alison Carroll Rik Sinkeldam Jeroen Post Fajah Lourens"
+  "country": "الصين",
+  "cast": "",
+  "first_air_date": "2016-03-27"
 }
