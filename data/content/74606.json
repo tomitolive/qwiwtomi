@@ -1,58 +1,49 @@
 {
   "id": 74606,
-  "title": "Irmão do Jorel",
-  "title_ar": "Irmão do Jorel",
-  "title_en": "Irmão do Jorel",
-  "slug": "74606-irmao-do-jorel",
-  "overview": "يروي مسلسل \"إيرمو دو جوريل\" قصة حياة \"إيرمو دو جوريل\" اليومية، حيث يتعامل مع عائلته والمدرسة وأصدقائه. هذا المسلسل البرازيلي يعرض مغامرات شقيق جوريل الشاب بطريقة كوميدية وممتعة.",
-  "poster_path": "/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg",
-  "backdrop_path": "/kLDDwZUNRSAbe0WZBDPw7J6SHjm.jpg",
-  "release_date": "2014-09-22",
-  "vote_average": 8.9,
-  "vote_count": 56,
+  "title": "Dis-moi oui...",
+  "title_ar": "Dis-moi oui...",
+  "title_en": "Tell Me Yes...",
+  "slug": "74606-tell-me-yes",
+  "overview": "فيلم \"Dis- ...\" هو دراما رومانسية تدور حول طبيب أطفال وسيم يشعر بالفراغ حتى يجد نفسه منجذبًا عاطفيًا لفتاة تبلغ من العمر 12 عامًا، مما يفتح عينيه على رؤية العالم من منظور رومانسي. عندما تمرض الفتاة، يجد نفسه مضطرًا للاقتراب منها، مما يثير صراعًا بين مصالحه وأخلاقياته المهنية، ويهدد سمعته الطبية.",
+  "poster_path": "/mrnGPW4bDOEbJLIZcphAfHYYQtZ.jpg",
+  "backdrop_path": "/e8QFz2buz8VbXXj4RSXonSUXd4H.jpg",
+  "release_date": "1995-04-19",
+  "vote_average": 5.5,
+  "vote_count": 11,
   "genres": [
-    {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 35,
-      "name": "كوميديا"
-    },
-    {
-      "id": 10762,
-      "name": "أطفال"
-    },
     {
       "id": 18,
       "name": "دراما"
+    },
+    {
+      "id": 10749,
+      "name": "رومنسية"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Irmão do Jorel (2014) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يروي مسلسل \"إيرمو دو جوريل\" قصة حياة \"إيرمو دو جوريل\" اليومية، حيث يتعامل مع عائلته والمدرسة وأصدقائه. هذا المسلسل البرازيلي يعرض مغامرات شقيق جوريل الشاب بطريقة كوميدية وممتعة.",
-    "desc_en": "Irmão do Jorel is a Brazilian TV show that follows the daily life of young Irmão do Jorel. It showcases his adventures with family, school, and friends, offering a comedic and entertaining take on his experiences.",
-    "seo_title_ar": "مشاهدة مسلسل إيرمو دو جوريل مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل إيرمو دو جوريل الكوميدي والممتع، والذي يعرض حياة إيرمو دو جوريل الشاب ومغامراته مع عائلته وأصدقائه. لا تفوت هذا المسلسل البرازيلي المميز.",
-    "outro": "شاهد Irmão do Jorel الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"إيرمو دو جوريل\" يقدم قصة ممتعة ومليئة بالكوميديا، حيث يسلط الضوء على حياة \"إيرمو دو جوريل\" الشاب ومغامراته اليومية. إنه مسلسل رائع وممتع للعائلة.",
-    "opinion_en": "Irmão do Jorel is a delightful and comedic series, showcasing the adventures of young Irmão do Jorel. It's a fun watch for the whole family.",
+    "intro": "استمتع بمشاهدة فيلم Dis-moi oui... (1995) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "فيلم \"Dis- ...\" هو دراما رومانسية تدور حول طبيب أطفال وسيم يشعر بالفراغ حتى يجد نفسه منجذبًا عاطفيًا لفتاة تبلغ من العمر 12 عامًا، مما يفتح عينيه على رؤية العالم من منظور رومانسي. عندما تمرض الفتاة، يجد نفسه مضطرًا للاقتراب منها، مما يثير صراعًا بين مصالحه وأخلاقياته المهنية، ويهدد سمعته الطبية.",
+    "desc_en": "The film \"Tell Me Yes...\" is a romantic drama about a handsome pediatric doctor who feels unfulfilled until his affection for a 12-year-old girl opens him up to a romantic view of the world. As she falls ill, he must get closer to her, leading to a conflict of interests and ethics, putting his medical reputation at stake.",
+    "seo_title_ar": "مشاهدة فيلم Dis- ... مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Tell Me Yes... الدرامي الرومانسي، حيث يجد طبيب أطفال وسيم نفسه في صراع بين مشاعره وأخلاقياته المهنية عندما يتعمق في علاقته مع فتاة صغ",
+    "outro": "شاهد Dis-moi oui... الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"Dis- ...\" يقدم قصة رومانسية مؤثرة مع أداء مميز للممثلين، ويأخذنا في رحلة عاطفية مليئة بالصراعات الأخلاقية.",
+    "opinion_en": "\"Tell Me Yes...\" is a captivating romantic drama with stellar performances, offering a thought-provoking journey through ethical conflicts.",
     "faq": [
       {
-        "q": "هل مسلسل \"إيرمو دو جوريل\" مناسب للأطفال؟",
-        "a": "نعم، فهو مسلسل رسوم متحركة موجه للأطفال والعائلات، ويحتوي على محتوى مناسب لجميع الأعمار.",
-        "q_en": "Is Irmão do Jorel suitable for children?",
-        "a_en": "Yes, it's an animated series aimed at children and families, with content suitable for all ages."
+        "q": "ما هو تصنيف فيلم \"Dis- ...\"؟",
+        "a": "فيلم \"Dis- ...\" هو فيلم دراما رومانسية.",
+        "q_en": "What is the genre of the film \"Tell Me Yes...\"?",
+        "a_en": "The film \"Tell Me Yes...\" is a romantic drama."
       }
     ],
-    "keywords": "إيرمو دو جوريل, Irmão do Jorel, مسلسل, رسوم متحركة, كوميديا, أطفال, دراما, مغامرات, عائلة, مدرسة, أصدقاء"
+    "keywords": "Dis- ..., Tell Me Yes..., فيلم, دراما, رومانسية, طبيب أطفال, صراع أخلاقي, سمعة طبية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "11 دقيقة",
-  "language": "الإنجليزية",
-  "country": "البرازيل",
-  "cast": "Andrei Duarte Juliano Enrico Hugo Picchi Neto César Marchetti Tânia Gaidarji Melissa Garcia Cecília Lemes",
-  "first_air_date": "2014-09-22"
+  "duration": "107 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Jean-Hugues Anglade Julia Maraval Patrick Braoudé Nadia Farès Valérie Kaprisky Claude Rich"
 }

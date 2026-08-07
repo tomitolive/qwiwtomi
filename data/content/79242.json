@@ -4,14 +4,12 @@
   "title_ar": "Chilling Adventures of Sabrina",
   "title_en": "Chilling Adventures of Sabrina",
   "slug": "79242-chilling-adventures-of-sabrina",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتصادم السحر مع الشر في ظل مواكبة \"سابرينا\"، كنصف ساحرة ونصف إنسان، بين عالمين مختلفين: حياتها البشرية كمراهقة وإرث عائلتها: كنيسة \"الظلمة\".",
   "poster_path": "/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
   "backdrop_path": "/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
   "release_date": "2018-10-26",
   "vote_average": 8.2,
-  "vote_count": 3753,
+  "vote_count": 3790,
   "genres": [
     {
       "id": 9648,
@@ -27,19 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يتصادم السحر مع الشر في ظل مواكبة \"سابرينا\"، كنصف ساحرة ونصف إنسان، بين عالمين مختلفين: حياتها البشرية كمراهقة وإرث عائلتها: كنيسة \"الظلمة\".",
-    "desc_en": "يتصادم السحر مع الشر في ظل مواكبة \"سابرينا\"، كنصف ساحرة ونصف إنسان، بين عالمين مختلفين: حياتها البشرية كمراهقة وإرث عائلتها: كنيسة \"الظلمة\".",
-    "meta_desc": "مشاهدة Chilling Adventures of Sabrina مترجم بجودة عالية على توميتو.",
-    "keywords": "توميتو Chilling Adventures of Sabrina, مشاهدة Chilling Adventures of Sabrina 2026, قصة فيلم Chilling Adventures of Sabrina, أحداث Chilling Adventures of Sabrina بالتفصيل, Chilling Adventures of Sabrina مترجم",
-    "seo_title_ar": "مشاهدة Chilling Adventures of Sabrina مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "استمتع بمشاهدة مسلسل Chilling Adventures of Sabrina (2018) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تتعرض سابرينا، نصف ساحرة ونصف إنسان، لصراع بين عالمين في \"مغامرات تقشعر لها الأبدان من سابرينا\". تدور أحداث المسلسل حول حياتها كمراهقة بشرية وإرث عائلتها السحري في كنيسة الظلمة، حيث يصطدم السحر بالشر.",
+    "desc_en": "In Chilling Adventures of Sabrina, magic and darkness collide. The series follows Sabrina, a half-witch, half-human, as she navigates between her mortal life and the supernatural legacy of the Church of Night.",
+    "seo_title_ar": "مشاهدة مسلسل مغامرات تقشعر لها الأبدان من سابرينا مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مغامرات تقشعر لها الأبدان من سابرينا، حيث تتصارع سابرينا بين عالمين: حياتها البشرية وإرث عائلتها السحري. مسلسل غامض ومثير يجمع بين الخيال",
+    "outro": "شاهد Chilling Adventures of Sabrina الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "مغامرات تقشعر لها الأبدان من سابرينا: مسلسل مثير ومليء بالغموض، يبقيك في تشويق دائم. أداء رائع من الممثلين يجسد عالم السحر والشر.",
+    "opinion_en": "Chilling Adventures of Sabrina is a captivating series with a perfect blend of magic and mystery. The cast delivers an exceptional performance, bringing the supernatural world to life.",
+    "faq": [
+      {
+        "q": "هل مسلسل مغامرات تقشعر لها الأبدان من سابرينا مناسب لجميع الأعمار؟",
+        "a": "لا، المسلسل يحتوي على مشاهد عنيفة ومخيفة قد لا تناسب الأطفال الصغار. يُنصح بمشاهدته من قبل المراهقين وما فوق.",
+        "q_en": "Is Chilling Adventures of Sabrina suitable for all ages?",
+        "a_en": "No, the series contains violent and scary scenes that may not be suitable for young children. It is recommended for teenagers and above."
+      }
+    ],
+    "keywords": "مغامرات تقشعر لها الأبدان من سابرينا, Chilling Adventures Sabrina, مسلسل, غموض, خيال علمي, فانتازيا, دراما, سحر, كنيسة الظلمة"
   },
   "fixed": true,
-  "first_air_date": "2018-10-26",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "180 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "John Cena Randy Orton Eve Torres Dwayne Johnson Stephen Farrelly"
+  "cast": "Kiernan Shipka Ross Lynch Lucy Davis Miranda Otto Chance Perdomo Michelle Gomez Jaz Sinclair Richard Coyle",
+  "first_air_date": "2018-10-26"
 }
