@@ -9,7 +9,7 @@
   "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
   "release_date": "1982-06-25",
   "vote_average": 8.1,
-  "vote_count": 7915,
+  "vote_count": 8102,
   "genres": [
     {
       "id": 27,
@@ -25,28 +25,35 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لمواجهة الرعب الذي يختبئ في أعماق القطب الجنوبي؟",
+    "intro": "استمتع بمشاهدة فيلم الشيء (1982) مترجم بجودة عالية على توميتو.",
     "desc_ar": "في شتاء عام 1982، يكتشف فريق بحثي مكون من اثني عشر رجلًا في محطة أبحاث نائية في القطب الجنوبي كائنًا فضائيًا مدفونًا في الثلج لأكثر من 100,000 عام. وسرعان ما ينفصل المخلوق المتغير الشكل عن الجليد، ويعيث فسادًا ويخلق الرعب... ويصبح واحدًا منهم.",
-    "seo_title_ar": "مشاهدة فيلم الشيء مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الرعب والغموض والخيال العلمي «الشيء»",
-    "outro": "الشيء هو فيلم رعب مثير ومليء بالتشويق، سيجعلك تفكر مرتين في الثقة بمن حولك. استعد لرحلة مرعبة في عالم لا تعرف فيه من هو العدو.",
-    "opinion": "فيلم الشيء هو إثارة حقيقية، حيث يخلق الرعب من جديد في كل مشهد، ويجعلك تشعر بأنك جزء من القصة",
+    "desc_en": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "seo_title_ar": "مشاهدة فيلم The Thing مترجم - توميتو",
+    "meta_desc": "مشاهدة الشيء مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد الشيء الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو الشيء؟",
-        "a": "هو كائن فضائي مدفون في الثلج منذ أكثر من 100,000 عام"
+        "q": "كيف يمكنني مشاهدة فيلم الشيء?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Thing?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم الشيء؟",
-        "a": "فيلم رعب وغموض وخيال علمي"
+        "q": "ما هو تصنيف فيلم الشيء?",
+        "a": "يندرج العمل تحت تصنيف رعب, غموض, خيال علمي.",
+        "q_en": "What is the genre of The Thing?",
+        "a_en": "Answer about The Thing"
       },
       {
-        "q": "ما هو أفضل شيء في فيلم الشيء؟",
-        "a": "هو الإثارة والرعب والغموض الذي يخلق في كل مشهد"
+        "q": "ما هي قصة فيلم الشيء?",
+        "a": "في شتاء عام 1982، يكتشف فريق بحثي مكون من اثني عشر رجلًا في محطة أبحاث نائية في القطب الجنوبي كائنًا فضائيًا مدفونًا في الثلج لأكثر من 100,000 عام. وسرعان ما ينفصل المخلوق المتغير الشكل عن الجليد، ويع...",
+        "q_en": "What is the story of The Thing?",
+        "a_en": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
       }
     ],
-    "keywords": "The Thing, فيلم الشيء مترجم, مشاهدة فيلم الشيء, الشيء مترجم, مشاهدة الشيء 1982, توميتو الشيء, أحداث الشيء بالتفصيل, قصة فيلم الشيء",
-    "desc_en": "In the winter of 1982, a research team of 12 men at a remote research station in the southernmost part of the world discovers an alien creature buried in the ice for over 100,000 years. The creature soon separates from the ice, spreading chaos and terror... and becomes one of them."
+    "keywords": "الشيء مترجم, The Thing مترجم, مشاهدة الشيء, The Thing"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +61,5 @@
   "duration": "109 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kurt Russell Wilford Brimley T.K. Carter David Clennon Keith David"
+  "cast": "Kurt Russell Wilford Brimley T.K. Carter David Clennon Keith David Richard Dysart Charles Hallahan Peter Maloney"
 }

@@ -4,14 +4,12 @@
   "title_ar": "Due South",
   "title_en": "Due South",
   "slug": "1527-due-south",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل بسبب الجنوب مترجم بجودة عالية.",
   "poster_path": "/5j0mNks65Py4fW1GeYpGHe7BN3V.jpg",
   "backdrop_path": "/cfpEjMTT3BZxa7ohtK4fY7ETL81.jpg",
   "release_date": "1994-09-22",
   "vote_average": 7.6,
-  "vote_count": 78,
+  "vote_count": 81,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء باللصوص والقاتلين، يأتي رجل واحد يملك القوة والشجاعة ليكون قائدًا لهم جميعًا. يبدأ رحلته من سيدني إلى كوينزلاند، حيث يلتقي باللصوص والقاتلين الذين يملكون القوة والشجاعة، ويبدأ رحلته نحو النجاح والشهرة.",
-    "desc_en": "In a world filled with thieves and killers, one man comes with the power and courage to lead them all. He begins his journey from Sydney to Queensland, where he meets the thieves and killers who possess the power and courage, and starts his journey towards success and fame.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Due South - دراما جريمة كوميديا",
-    "seo_title_ar": "مشاهدة فيلم Due South مترجم اون لاين - توميتو",
-    "keywords": "فيلم Due South مترجم, مشاهدة فيلم Due South, Due South مترجم كامل, أحداث Due South بالتفصيل, توميتو Due South, مشاهدة Due South 1994, قصة مسلسل Due South",
-    "opinion": "هو فيلم دراما جريمة كوميديا رائع، مليء باللصوص والقاتلين الذين يملكون القوة والشجاعة. يبدأ رحلته من سيدني إلى كوينزلاند، حيث يلتقي باللصوص والقاتلين الذين يملكون القوة والشجاعة، ويبدأ رحلته نحو النجاح والشهرة.",
+    "intro": "استمتع بمشاهدة مسلسل Due South (1994) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل بسبب الجنوب مترجم بجودة عالية.",
+    "desc_en": "Constable Benton Fraser, an officer of the Royal Canadian Mounted Police, is attached to the Canadian consulate but works with Chicago Police Department to solve crimes.",
+    "seo_title_ar": "مشاهدة مسلسل Due South مترجم - توميتو",
+    "meta_desc": "مشاهدة بسبب الجنوب مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Due South الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو Due South؟",
-        "a": "هو فيلم دراما جريمة كوميديا رائع، مليء باللصوص والقاتلين الذين يملكون القوة والشجاعة."
+        "q": "كيف يمكنني مشاهدة مسلسل بسبب الجنوب?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Due South?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع Due South؟",
-        "a": "هو نوع دراما جريمة كوميديا"
+        "q": "ما هو تصنيف مسلسل بسبب الجنوب?",
+        "a": "يندرج العمل تحت تصنيف دراما, جريمة, كوميديا.",
+        "q_en": "What is the genre of Due South?",
+        "a_en": "It falls under the genre of , , ."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه Due South؟",
-        "a": "يحدث فيه سيدني إلى كوينزلاند"
+        "q": "ما هي قصة مسلسل بسبب الجنوب?",
+        "a": "إجابة عن بسبب الجنوب",
+        "q_en": "What is the story of Due South?",
+        "a_en": "Constable Benton Fraser, an officer of the Royal Canadian Mounted Police, is attached to the Canadian consulate but works with Chicago Police Department to solve crimes."
       }
-    ]
+    ],
+    "keywords": "بسبب الجنوب مترجم, Due South مترجم, مشاهدة بسبب الجنوب, Due South"
   },
   "fixed": true,
-  "first_air_date": "1994-09-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "كندا",
+  "cast": "Paul Gross Beau Starr Callum Keith Rennie Tony Craig Camilla Scott Ramona Milano Gordon Pinsent Tom Melissis",
+  "first_air_date": "1994-09-22"
 }

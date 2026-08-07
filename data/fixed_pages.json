@@ -1667,8 +1667,92 @@
       "file": "60797.json",
       "title": "العقرب",
       "fixed_at": "2026-08-07T15:37:22.078242"
+    },
+    {
+      "tmdb_id": "283123",
+      "file": "283123.json",
+      "title": "حلم أشرف",
+      "fixed_at": "2026-08-07T16:34:21.867186"
+    },
+    {
+      "tmdb_id": "83524",
+      "file": "83524.json",
+      "title": "Sygeplejeskolen",
+      "fixed_at": "2026-08-07T16:34:31.337094"
+    },
+    {
+      "tmdb_id": "1527",
+      "file": "1527.json",
+      "title": "Due South",
+      "fixed_at": "2026-08-07T16:34:42.111920"
+    },
+    {
+      "tmdb_id": "1116201",
+      "file": "1116201.json",
+      "title": "Iron Lung",
+      "fixed_at": "2026-08-07T16:34:52.761673"
+    },
+    {
+      "tmdb_id": "316294",
+      "file": "316294.json",
+      "title": "Payback",
+      "fixed_at": "2026-08-07T16:35:03.245648"
+    },
+    {
+      "tmdb_id": "9470",
+      "file": "9470.json",
+      "title": "Kung Fu Hustle",
+      "fixed_at": "2026-08-07T16:35:14.044122"
+    },
+    {
+      "tmdb_id": "208569",
+      "file": "208569.json",
+      "title": "ول ترينت",
+      "fixed_at": "2026-08-07T16:35:25.839108"
+    },
+    {
+      "tmdb_id": "45140",
+      "file": "45140.json",
+      "title": "تين تايتنز غو!",
+      "fixed_at": "2026-08-07T16:35:35.134311"
+    },
+    {
+      "tmdb_id": "1613798",
+      "file": "1613798.json",
+      "title": "الانتقام",
+      "fixed_at": "2026-08-07T16:35:44.524930"
+    },
+    {
+      "tmdb_id": "114461",
+      "file": "114461.json",
+      "title": "أسوكا",
+      "fixed_at": "2026-08-07T16:35:53.904920"
+    },
+    {
+      "tmdb_id": "1091",
+      "file": "1091.json",
+      "title": "الشيء",
+      "fixed_at": "2026-08-07T16:36:03.287794"
+    },
+    {
+      "tmdb_id": "617126",
+      "file": "617126.json",
+      "title": "ذا فانتستك ٤: الرحلة الأولى",
+      "fixed_at": "2026-08-07T16:36:12.651157"
+    },
+    {
+      "tmdb_id": "372761",
+      "file": "372761.json",
+      "title": "PERSONA3 THE MOVIE 4 Winter of Rebirth",
+      "fixed_at": "2026-08-07T16:36:22.029168"
+    },
+    {
+      "tmdb_id": "301174",
+      "file": "301174.json",
+      "title": "Corao Acelerado",
+      "fixed_at": "2026-08-07T16:36:32.349314"
     }
   ],
-  "last_updated": "2026-08-07T15:37:24.080926",
-  "total_fixed": 278
+  "last_updated": "2026-08-07T16:36:34.351907",
+  "total_fixed": 292
 }
