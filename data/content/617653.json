@@ -9,19 +9,15 @@
   "backdrop_path": "/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
   "release_date": "2021-10-13",
   "vote_average": 7.4,
-  "vote_count": 3847,
+  "vote_count": 3925,
   "genres": [
-    {
-      "id": 36,
-      "name": "تاريخ"
-    },
     {
       "id": 18,
       "name": "دراما"
     },
     {
-      "id": 28,
-      "name": "حركة"
+      "id": 36,
+      "name": "تاريخ"
     },
     {
       "id": 53,
@@ -29,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في القرن الرابع عشر، يُعلن الملك تشارلز السادس عن مبارزة مميتة ومصيرية بين جان دي كاروج وجاك لو جريس، حيث تنهار صداقة الثنائي عندما يُتهم كاروج باغتصاب زوجة جاك. يصعد المبارزون إلى الميدان، حيث سيفيدهم قتالهم الأقصى لتحقيق النصر أو الموت.",
-    "desc_en": "In the 14th century, King Charles VI announces a mortal and decisive duel between Jean de Carrouges and Jacques Le Gris, where the friendship of the duo falls apart when Carrouges is accused of raping Jack's wife. The duelists rise to the arena, where their ultimate combat will determine victory or death.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المبارزة الأخيرة",
-    "seo_title_ar": "مشاهدة فيلم المبارزة الأخيرة مترجم اون لاين - توميتو",
-    "keywords": "The Last Duel, فيلم المبارزة الأخيرة مترجم, مشاهدة فيلم التاريخي الدرامي, قصة فيلم المبارزة الأخيرة, المبارزة الأخيرة مترجم, أحداث المبارزة الأخيرة بالتفصيل, مشاهدة المبارزة الأخيرة 2021, توميتو المبارزة الأخيرة",
-    "opinion": "مبارزة قوية وملحمة رائعة، المبارزة الأخيرة تتميز بصدقها التاريخي والشعور بالذات، ولكنها تفتقر إلى الإثارة والقوة",
+    "intro": "استمتع بمشاهدة فيلم المبارزة الأخيرة (2021) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تدور أحداث فيلم \"المبارزة الأخيرة\" في القرن الرابع عشر، حيث يصدر الملك تشارلز السادس أمرًا بإقامة مبارزة مميتة بين جان دي كاروج وجاك لو جريس، وتتصاعد الأحداث عندما تنهار صداقة الثنائي بعد اتهام كاروج باغتصاب زوجة جاك. فيلم \"المبارزة الأخيرة\" هو دراما تاريخية مشوقة تسلط الضوء على العدالة والشرف في العصور الوسطى.",
+    "desc_en": "In \"The Last Duel\", King Charles VI orders a deadly duel between Knight Jean de Carrouges and his squire, Jacques Le Gris, as their friendship crumbles amidst accusations of rape. This historical drama explores justice and honor in the 14th century.",
+    "seo_title_ar": "مشاهدة فيلم المبارزة الأخيرة مترجم - توميتو",
+    "meta_desc": "شاهد فيلم المبارزة الأخيرة المثير، حيث تتصارع الصداقة والشرف في القرن الرابع عشر. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "شاهد المبارزة الأخيرة الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "فيلم \"المبارزة الأخيرة\" يقدم تجربة سينمائية غامرة، حيث يسلط الضوء على الصراع بين الصداقة والعدالة في العصور الوسطى. أداء مميز من الممثلين يجعل هذا الفيلم تجربة لا تُنسى.",
+    "opinion_en": "\"The Last Duel\" is a captivating cinematic experience, exploring the clash of friendship and justice in the 14th century. Outstanding performances make this film an unforgettable watch.",
     "faq": [
       {
-        "q": "ما هو موضوع المبارزة الأخيرة؟",
-        "a": "يُدور الفيلم حول مبارزة مميتة ومصيرية بين جان دي كاروج وجاك لو جريس"
-      },
-      {
-        "q": "ما هو نوع المبارزة الأخيرة؟",
-        "a": "الفيلم هو فيلم تاريخي درامي حركة إثارة"
-      },
-      {
-        "q": "ما هو أفضل ما في المبارزة الأخيرة؟",
-        "a": "صدق التاريخي والشعور بالذات والقوة والملحمة"
+        "q": "ما هو موضوع فيلم \"المبارزة الأخيرة\"؟",
+        "a": "يتناول الفيلم موضوع العدالة والشرف في القرن الرابع عشر من خلال مبارزة مميتة بين صديقين.",
+        "q_en": "What is the theme of \"The Last Duel\"?",
+        "a_en": "The film explores justice and honor in the 14th century through a deadly duel between two friends."
       }
-    ]
+    ],
+    "keywords": "المبارزة الأخيرة, The Last Duel, دراما, تاريخ, إثارة, صداقة, عدالة, العصور الوسطى, مبارزة, اغتصاب, شرف"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +49,5 @@
   "duration": "153 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Matt Damon Adam Driver Jodie Comer Ben Affleck Harriet Walter"
+  "cast": "Matt Damon Adam Driver Jodie Comer Ben Affleck Harriet Walter Marton Csokas Alex Lawther William Houston"
 }

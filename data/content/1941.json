@@ -4,14 +4,12 @@
   "title_ar": "GARO",
   "title_en": "GARO",
   "slug": "1941-garo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل جارو مترجم بجودة عالية.",
   "poster_path": "/3IBGi1F4oRlykR0k9beIwygn8YM.jpg",
   "backdrop_path": "/mvi2YbFePpq68xaHEwezpmSEdsv.jpg",
   "release_date": "2005-10-07",
   "vote_average": 7.7,
-  "vote_count": 28,
+  "vote_count": 30,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال والفантаسيا، يأتي GARO، سلسلة تلفزيونية رائعة تجمع بين الحركة والدراما والخيال العلمي. تتبع قصة فريق من المحاربين الذين يخوضون معركة ضد الوحوش والشيطان، في عالم من الخيال والفانتازيا.",
-    "desc_en": "In a world of fantasy and science fiction, comes GARO, a great TV series that combines action, drama, and science fiction. It follows the story of a team of warriors who fight against monsters and demons in a world of fantasy and science fiction.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في GARO - سلسلة تلفزيونية رائعة من الحركة والدراما والخيال العلمي!",
-    "seo_title_ar": "مشاهدة فيلم GARO مترجم اون لاين - توميتو",
-    "keywords": "فيلم GARO مترجم, مشاهدة فيلم GARO, GARO مترجم كامل, توميتو GARO, مشاهدة GARO 2005, أحداث GARO بالتفصيل, قصة مسلسل GARO",
-    "opinion": "هذه السلسلة التلفزيونية هي مزيج رائع من الحركة والدراما والخيال العلمي، مما يجعلها واحدة من أفضل السلاسل التلفزيونية التي شاهدناها في السنوات الأخيرة.",
+    "intro": "استمتع بمشاهدة مسلسل GARO (2005) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل جارو مترجم بجودة عالية.",
+    "desc_en": "The Makai fight a secret war against the demon forces known as Horrors, evil creatures that manifest themselves through darkness to devour Humanity. On the frontlines are the Makai Knights, given the task of watching over a district and eliminating any Horrors that manifest there.\n\nGARO follows the tales of the Knights bearing the title of ‘Golden Knight Garo’, and their duty to vanquish the Horrors and protect Humanity from the darkness.",
+    "seo_title_ar": "مشاهدة مسلسل GARO مترجم - توميتو",
+    "meta_desc": "مشاهدة جارو مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد GARO الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو GARO؟",
-        "a": "هو سلسلة تلفزيونية رائعة تجمع بين الحركة والدراما والخيال العلمي."
+        "q": "كيف يمكنني مشاهدة مسلسل جارو?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch GARO?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو موضوع السلسلة؟",
-        "a": "تتبع قصة فريق من المحاربين الذين يخوضون معركة ضد الوحوش والشيطان في عالم من الخيال والفانتازيا."
+        "q": "ما هو تصنيف مسلسل جارو?",
+        "a": "يندرج العمل تحت تصنيف حركة ومغامرة, خيال علمي وفانتازيا, دراما.",
+        "q_en": "What is the genre of GARO?",
+        "a_en": "Answer about GARO"
       },
       {
-        "q": "ما هو الميزة الرئيسية للسلسلة؟",
-        "a": "الميزة الرئيسية للسلسلة هي مزيجها من الحركة والدراما والخيال العلمي، مما يجعلها واحدة من أكثر السلاسل التلفزيونية إثارة في السنوات الأخيرة."
+        "q": "ما هي قصة مسلسل جارو?",
+        "a": "إجابة عن جارو",
+        "q_en": "What is the story of GARO?",
+        "a_en": "The Makai fight a secret war against the demon forces known as Horrors, evil creatures that manifest themselves through darkness to devour Humanity. On the frontlines are the Makai Knights, given the ..."
       }
-    ]
+    ],
+    "keywords": "جارو مترجم, GARO مترجم, مشاهدة جارو, GARO"
   },
   "fixed": true,
-  "first_air_date": "2005-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "208 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Paul Newman Eva Marie Saint Ralph Richardson Peter Lawford Lee J. Cobb"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Tatsuya Koyanagi Yuhi Tokito Toman Naoya Shimizu Shutaro Kadoshita Reiji Nashiko Momotsuki",
+  "first_air_date": "2005-10-07"
 }

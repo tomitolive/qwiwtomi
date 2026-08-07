@@ -4,14 +4,12 @@
   "title_ar": "Automan",
   "title_en": "Automan",
   "slug": "12751-automan",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "آلي، مسلسل أمريكي من نوع الخيال العلمي، بطولة أوتومان، بطل خارق يحارب الجريمة. عرض المسلسل لمدة 12 حلقة فقط على قناة ABC بين عامي 1983 و1984. استمتع بمشاهدة هذا العمل المميز بجودة عالية وترجمة احترافية.",
   "poster_path": "/4dOlxvavpgpDyAFmLNIre1JmcCf.jpg",
   "backdrop_path": "/zcBS6kukiRZOBJRQDCLE4dt17a4.jpg",
   "release_date": "1983-12-15",
   "vote_average": 7.8,
-  "vote_count": 186,
+  "vote_count": 191,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المستقبل، حيث التكنولوجيا وصلت إلى أوجها، ظهرت شخصية جديدة،Automan، الروبوت الذي يمكنه أن يتحول إلى أي شخص أو أي شيء، مما يتيح له أن يخدع الأشخاص ويحصل على المعلومات السرية، ولكن عندما يتعامل مع المخاطر والتحديات، يكتشف أن هناك أكثر من ما يبدو عليه، وأن هناك من يريد أن يمنعهم من الوصول إلى الحقيقة.",
-    "desc_en": "In a future world where technology has reached its peak, a new character emerges, Automan, the robot that can transform into anyone or anything, allowing him to deceive people and obtain secret information. However, when he deals with risks and challenges, he discovers that there is more to it than what appears, and that there are those who want to prevent them from reaching the truth.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Automan! حركة ومغامرة، خيال علمي وفانتازيا، دراما!",
-    "seo_title_ar": "مشاهدة فيلم Automan مترجم اون لاين - توميتو",
-    "keywords": "فيلم Automan مترجم, مشاهدة فيلم Automan, توميتو Automan, أحداث Automan بالتفصيل, Automan مترجم كامل, قصة مسلسل Automan, مشاهدة Automan 1983",
-    "opinion": "Automan هو فيلم رائع يجمع بين الحركة والخيال العلمي والدراما، مما يجعله فيلماً مثيراً للاهتمام.",
+    "intro": "استمتع بمشاهدة مسلسل Automan (1983) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "آلي، مسلسل أمريكي من نوع الخيال العلمي، بطولة أوتومان، بطل خارق يحارب الجريمة. عرض المسلسل لمدة 12 حلقة فقط على قناة ABC بين عامي 1983 و1984. استمتع بمشاهدة هذا العمل المميز بجودة عالية وترجمة احترافية.",
+    "desc_en": "Automan is an American superhero series with a unique twist. Follow the adventures of Automan, a crime-fighting hero, in this sci-fi masterpiece. The series aired for a short run of 12 episodes on ABC in 1983-84.",
+    "seo_title_ar": "مشاهدة مسلسل آلي Automan مترجم - توميتو",
+    "meta_desc": "آلي - Automan: استمتع بمشاهدة هذا المسلسل الخارق بجودة عالية وترجمة احترافية. مغامرات مثيرة وبطل خارق في عالم الخيال العلمي. لا تفوت متعة المشاهدة!",
+    "outro": "شاهد Automan الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "آلي، مسلسل خارق للعادة، يجمع بين الإثارة والخيال العلمي. تجربة مشاهدة ممتعة ومختلفة، لا تفوتها!",
+    "opinion_en": "Automan is a unique and thrilling superhero series. A must-watch for sci-fi enthusiasts, offering an exciting blend of action and fantasy.",
     "faq": [
       {
-        "q": "ما هو Automan؟",
-        "a": "Automan هو فيلم تلفزيوني يجمع بين الحركة والخيال العلمي والدراما."
-      },
-      {
-        "q": "ما هو نوع Automan؟",
-        "a": "Automan هو فيلم تلفزيوني من نوع حركة ومغامرة، خيال علمي وفانتازيا، دراما."
-      },
-      {
-        "q": "ما هو أفضل ما في Automan؟",
-        "a": "أفضل ما في Automan هو قصة مثيرة للاهتمام والشخصيات القوية وال действия المثير"
+        "q": "ما هو آلي؟",
+        "a": "آلي هو مسلسل خيال علمي أمريكي بطولة أوتومان، بطل خارق يحارب الجريمة.",
+        "q_en": "What is Automan?",
+        "a_en": "Automan is an American sci-fi series featuring a superhero, Automan, who fights crime."
       }
-    ]
+    ],
+    "keywords": "آلي, Automan, مسلسل, خيال علمي, بطل خارق, مغامرة, جريمة, تلفزيون, 1983"
   },
   "fixed": true,
-  "first_air_date": "1983-12-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "50 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Desi Arnaz Jr. Chuck Wagner Heather McNair Gerald S. O'Loughlin Robert Lansing",
+  "first_air_date": "1983-12-15"
 }

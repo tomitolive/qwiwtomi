@@ -845,8 +845,92 @@
       "file": "30801.json",
       "title": "1 2",
       "fixed_at": "2026-08-07T00:37:28.632249"
+    },
+    {
+      "tmdb_id": "310935",
+      "file": "310935.json",
+      "title": "صاحبة اللغز: بداية جديدة",
+      "fixed_at": "2026-08-07T03:55:12.161950"
+    },
+    {
+      "tmdb_id": "32726",
+      "file": "32726.json",
+      "title": "Bobs Burgers",
+      "fixed_at": "2026-08-07T03:55:35.924492"
+    },
+    {
+      "tmdb_id": "466420",
+      "file": "466420.json",
+      "title": "كيلرز اوف ذا فلاور مون",
+      "fixed_at": "2026-08-07T03:55:51.748845"
+    },
+    {
+      "tmdb_id": "617653",
+      "file": "617653.json",
+      "title": "المبارزة الأخيرة",
+      "fixed_at": "2026-08-07T03:56:09.924658"
+    },
+    {
+      "tmdb_id": "12751",
+      "file": "12751.json",
+      "title": "Automan",
+      "fixed_at": "2026-08-07T03:56:24.899962"
+    },
+    {
+      "tmdb_id": "293939",
+      "file": "293939.json",
+      "title": "Terra Forte",
+      "fixed_at": "2026-08-07T03:56:47.962648"
+    },
+    {
+      "tmdb_id": "37165",
+      "file": "37165.json",
+      "title": "عرض ترومان",
+      "fixed_at": "2026-08-07T03:57:11.796874"
+    },
+    {
+      "tmdb_id": "12433",
+      "file": "12433.json",
+      "title": "Ein Fall fr zwei",
+      "fixed_at": "2026-08-07T03:58:00.794325"
+    },
+    {
+      "tmdb_id": "1941",
+      "file": "1941.json",
+      "title": "GARO",
+      "fixed_at": "2026-08-07T03:59:40.839818"
+    },
+    {
+      "tmdb_id": "68073",
+      "file": "68073.json",
+      "title": "The Loud House",
+      "fixed_at": "2026-08-07T03:59:55.218462"
+    },
+    {
+      "tmdb_id": "621304",
+      "file": "621304.json",
+      "title": "Children of Blood and Bone",
+      "fixed_at": "2026-08-07T04:01:35.501272"
+    },
+    {
+      "tmdb_id": "103",
+      "file": "103.json",
+      "title": "سائق التاكسي",
+      "fixed_at": "2026-08-07T04:03:16.803238"
+    },
+    {
+      "tmdb_id": "236534",
+      "file": "236534.json",
+      "title": "Tales of Herding Gods",
+      "fixed_at": "2026-08-07T04:03:47.120896"
+    },
+    {
+      "tmdb_id": "83099",
+      "file": "83099.json",
+      "title": "Wz",
+      "fixed_at": "2026-08-07T04:04:02.243630"
     }
   ],
-  "last_updated": "2026-08-07T00:37:30.634961",
-  "total_fixed": 141
+  "last_updated": "2026-08-07T04:04:04.246282",
+  "total_fixed": 155
 }
