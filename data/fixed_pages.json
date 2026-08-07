@@ -2093,8 +2093,86 @@
       "file": "1007757.json",
       "title": "في كل جسد حكاية",
       "fixed_at": "2026-08-07T20:26:12.493340"
+    },
+    {
+      "tmdb_id": "227430",
+      "file": "227430.json",
+      "title": "Bom Dia Brasil",
+      "fixed_at": "2026-08-07T21:22:40.271638"
+    },
+    {
+      "tmdb_id": "2730",
+      "file": "2730.json",
+      "title": "I Love Lucy",
+      "fixed_at": "2026-08-07T21:22:51.132945"
+    },
+    {
+      "tmdb_id": "11661",
+      "file": "11661.json",
+      "title": "Joyeux Nol",
+      "fixed_at": "2026-08-07T21:23:00.767444"
+    },
+    {
+      "tmdb_id": "263330",
+      "file": "263330.json",
+      "title": "ألعاب الموت من أجل لقمة العيش",
+      "fixed_at": "2026-08-07T21:23:12.149584"
+    },
+    {
+      "tmdb_id": "393",
+      "file": "393.json",
+      "title": "Kill Bill: Vol. 2",
+      "fixed_at": "2026-08-07T21:23:24.239198"
+    },
+    {
+      "tmdb_id": "52",
+      "file": "52.json",
+      "title": "That 70s Show",
+      "fixed_at": "2026-08-07T21:23:34.950798"
+    },
+    {
+      "tmdb_id": "5920",
+      "file": "5920.json",
+      "title": "ذا مينتليست",
+      "fixed_at": "2026-08-07T21:23:44.760878"
+    },
+    {
+      "tmdb_id": "241609",
+      "file": "241609.json",
+      "title": "Your Friends Neighbors",
+      "fixed_at": "2026-08-07T21:23:55.635728"
+    },
+    {
+      "tmdb_id": "4507",
+      "file": "4507.json",
+      "title": "The Thick of It",
+      "fixed_at": "2026-08-07T21:24:07.106547"
+    },
+    {
+      "tmdb_id": "297802",
+      "file": "297802.json",
+      "title": "الرجل المائي",
+      "fixed_at": "2026-08-07T21:24:16.581373"
+    },
+    {
+      "tmdb_id": "2389",
+      "file": "2389.json",
+      "title": "Las Vegas",
+      "fixed_at": "2026-08-07T21:24:27.244112"
+    },
+    {
+      "tmdb_id": "1233413",
+      "file": "1233413.json",
+      "title": "الخطاة",
+      "fixed_at": "2026-08-07T21:24:36.877830"
+    },
+    {
+      "tmdb_id": "38757",
+      "file": "38757.json",
+      "title": "رابونزل",
+      "fixed_at": "2026-08-07T21:24:46.585875"
     }
   ],
-  "last_updated": "2026-08-07T20:26:14.495913",
-  "total_fixed": 349
+  "last_updated": "2026-08-07T21:24:48.588504",
+  "total_fixed": 362
 }

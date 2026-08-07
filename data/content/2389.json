@@ -4,14 +4,12 @@
   "title_ar": "Las Vegas",
   "title_en": "Las Vegas",
   "slug": "2389-las-vegas",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل لاس فيجاس مترجم بجودة عالية.",
   "poster_path": "/AknZ6uDYvswlIrUKDm2Nte32xge.jpg",
   "backdrop_path": "/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
   "release_date": "2003-09-22",
-  "vote_average": 7,
-  "vote_count": 257,
+  "vote_average": 7.0,
+  "vote_count": 266,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة لاس فيغاس، حيث يلتقي الماضي وال будущ، تتمحور قصة هذه الدراما حول مجموعة من الأشخاص الذين يبحثون عن المغامرة والخطر، بينما يلعب الماضي دوراً في تحديد مستقبلهم. من هنا، يبدأون رحلة مليئة بالسuspense والดรاما، حيث يتعاملون مع الأحداث الإثارة والقضايا الاجتماعية.",
-    "desc_en": "In the city of Las Vegas, where the past and future collide, the story of this drama revolves around a group of people who are searching for adventure and danger, while the past plays a role in defining their future. From here, they begin a journey filled with suspense and drama, as they deal with thrilling events and social issues.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة لاس فيغاس!",
-    "seo_title_ar": "مشاهدة مسلسل لاس فيغاس مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة مسلسل حركة ومغامرة, قصة مسلسل Las Vegas, مشاهدة Las Vegas 2003, توميتو Las Vegas, أحداث Las Vegas بالتفصيل, Las Vegas مترجم كامل",
-    "opinion": "هذه الدراما هي واحدة من أفضل ما شاهدناه في السنوات الأخيرة، حيث تجمع بين الدراما والحركة والجريمة في رحلة مليئة بالسuspense والadratica.",
+    "intro": "استمتع بمشاهدة مسلسل Las Vegas (2003) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل لاس فيجاس مترجم بجودة عالية.",
+    "desc_en": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former protégé, becomes the Montecito's new President of Operations.",
+    "seo_title_ar": "مشاهدة مسلسل Las Vegas مترجم - توميتو",
+    "meta_desc": "مشاهدة لاس فيجاس مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Las Vegas الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل لاس فيغاس؟",
-        "a": "هو مسلسل دراما حركة ومغامرة"
+        "q": "كيف يمكنني مشاهدة مسلسل لاس فيجاس?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Las Vegas?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو أفضل ما في مسلسل لاس فيغاس؟",
-        "a": "هو قصة مليئة بالسuspense والadratica والقضايا الاجتماعية"
+        "q": "ما هو تصنيف مسلسل لاس فيجاس?",
+        "a": "يندرج العمل تحت تصنيف دراما, حركة ومغامرة, جريمة.",
+        "q_en": "What is the genre of Las Vegas?",
+        "a_en": "Answer about Las Vegas"
       },
       {
-        "q": "هل مسلسل لاس فيغاس مترجم؟",
-        "a": "نعم، يمكنك مشاهدته مترجم على توميتو"
+        "q": "ما هي قصة مسلسل لاس فيجاس?",
+        "a": "إجابة عن لاس فيجاس",
+        "q_en": "What is the story of Las Vegas?",
+        "a_en": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following h..."
       }
-    ]
+    ],
+    "keywords": "لاس فيجاس مترجم, Las Vegas مترجم, مشاهدة لاس فيجاس, Las Vegas"
   },
   "fixed": true,
-  "first_air_date": "2003-09-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "100 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Paul Barge Claude Jade Anny Duperey Pierre Brasseur Paul Le Person"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Josh Duhamel Vanessa Marcil Molly Sims James Lesure Tom Selleck",
+  "first_air_date": "2003-09-22"
 }
