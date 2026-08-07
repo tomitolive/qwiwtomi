@@ -1,22 +1,16 @@
 {
   "id": 537,
-  "title": "Hey Arnold!",
-  "title_ar": "Hey Arnold!",
+  "title": "مرحبا أرنولد!",
+  "title_ar": "مرحبا أرنولد!",
   "title_en": "Hey Arnold!",
   "slug": "537-hey-arnold",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "الحياة اليومية لأرنولد - تلميذ في الصف الرابع يتمتع بخيال جامح وذكاء فطري ورأس على شكل كرة قدم",
   "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
   "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
   "release_date": "1996-10-07",
-  "vote_average": 8,
-  "vote_count": 977,
+  "vote_average": 8.0,
+  "vote_count": 990,
   "genres": [
-    {
-      "id": 10751,
-      "name": "عائلي"
-    },
     {
       "id": 16,
       "name": "رسوم متحركة"
@@ -28,38 +22,49 @@
     {
       "id": 18,
       "name": "دراما"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
     }
   ],
   "ai_content": {
-    "intro": "هل تذكر أيام الطفولة السعيدة عندما كانت الحياة برمتها مغامرة؟",
-    "desc_ar": "في عالم مدينة نيويورك، يوجد مجموعة من الأصدقاء الذين يعيشون في مبنى سكني في شارع 30، حيث يمررون بأحداث مثيرة مليئة بالكوميديا والدراما، ويحاولون حل المشاكل التي تواجههم في حياتهم اليومية، فيما يتعرفون على أنفسهم وأصدقائهم في هذه المدينة الكبيرة.",
-    "seo_title_ar": "مشاهدة فيلم هاي أورلاند! مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة نيويورك مع أصدقاءك في شارع 30!",
-    "outro": "فليستطيع أرنولد وأصدقاؤه أن يملوا你 أبداً",
-    "opinion": "هو فيلم رائع يلقي بالمسرة، حيث يلقي بالمسرة في قلوبنا، ويحولنا إلى عالم من الكوميديا والدراما، ويجعلنا نتعرف على أنفسنا وأصدقائنا في هذه المدينة الكبيرة.",
+    "intro": "استمتع بمشاهدة مسلسل مرحبا أرنولد! (1996) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "الحياة اليومية لأرنولد - تلميذ في الصف الرابع يتمتع بخيال جامح وذكاء فطري ورأس على شكل كرة قدم",
+    "desc_en": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football.",
+    "seo_title_ar": "مشاهدة مسلسل Hey Arnold! مترجم - توميتو",
+    "meta_desc": "مشاهدة مرحبا أرنولد! مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد مرحبا أرنولد! الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم هاي أورلاند؟",
-        "a": "هو فيلم عائلي رسوم متحركة كوميديا دراما يتبع حياة مجموعة من الأصدقاء في مدينة نيويورك."
+        "q": "كيف يمكنني مشاهدة مسلسل مرحبا أرنولد!?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Hey Arnold!?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم هاي أورلاند؟",
-        "a": "هو فيلم تلفزيوني عائلي رسوم متحركة كوميديا دراما."
+        "q": "ما هو تصنيف مسلسل مرحبا أرنولد!?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, دراما, عائلي.",
+        "q_en": "What is the genre of Hey Arnold!?",
+        "a_en": "Answer about Hey Arnold!"
       },
       {
-        "q": "ما هو أفضل شيء في فيلم هاي أورلاند؟",
-        "a": "هو أنّه يلقي بالمسرة في قلوبنا، ويحولنا إلى عالم من الكوميديا والدراما، ويجعلنا نتعرف على أنفسنا وأصدقائنا في هذه المدينة الكبيرة."
+        "q": "ما هي قصة مسلسل مرحبا أرنولد!?",
+        "a": "الحياة اليومية لأرنولد - تلميذ في الصف الرابع يتمتع بخيال جامح وذكاء فطري ورأس على شكل كرة قدم",
+        "q_en": "What is the story of Hey Arnold!?",
+        "a_en": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football."
       }
     ],
-    "keywords": "فيلم هاي أورلاند مترجم, مشاهدة فيلم هاي أورلاند, Hey Arnold! مترجم كامل, توميتو Hey Arnold!, مشاهدة Hey Arnold! 1996, قصة مسلسل Hey Arnold!, أحداث Hey Arnold! بالتفصيل",
-    "desc_en": "In the world of New York City, a group of friends live in a residential building on 30th Street, where they experience thrilling events filled with comedy and drama, as they try to solve the problems they face in their daily lives, while getting to know themselves and their friends in this big city."
+    "keywords": "مرحبا أرنولد! مترجم, Hey Arnold! مترجم, مشاهدة مرحبا أرنولد!, Hey Arnold!"
   },
   "fixed": true,
-  "first_air_date": "1996-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "93 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Patrick Chesnais Anne Consigny Georges Wilson Lionel Abelanski Cyril Couton"
+  "duration": "12 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Spencer Klein Francesca Marie Smith Jamil Walker Smith Olivia Hack Anndi McAfee Justin Shenkarow Blake McIver Ewing Dan Castellaneta",
+  "first_air_date": "1996-10-07"
 }

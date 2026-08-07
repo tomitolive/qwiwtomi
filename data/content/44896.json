@@ -9,7 +9,7 @@
   "backdrop_path": "/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
   "release_date": "2011-03-02",
   "vote_average": 6.9,
-  "vote_count": 7086,
+  "vote_count": 7229,
   "genres": [
     {
       "id": 16,
@@ -33,26 +33,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في بلدة الوسخ الشجاعة، يجد رانجو، الأليف المفقود، نفسه في وسط معركة بين الحياة وال smrti. يتعامل رانجو، الذي يملك القوة والشجاعة، مع الأهوال والخوفات، ويحاول أن يخلي المدينة من الأخطاء والدمار. في هذه الرحلة، سيتعرف رانجو على نفسه، ويحصل على فرصة لعب دوره الجديد.",
-    "desc_en": "In the dusty town of Dirt, Rango, a lost and forgotten pet, finds himself in the midst of a battle between life and death. Rango, with his wit and courage, faces the challenges and fears, and tries to save the town from mistakes and destruction. In this journey, Rango will discover himself and get a chance to play his new role.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رانجو مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم رانجو مترجم اون لاين - توميتو",
-    "keywords": "Rango, فيلم رانجو مترجم, مشاهدة فيلم رانجو, رسوم متحركة, كوميديا, عائلي, غربي, مغامرة, قصة فيلم رانجو, رانجو مترجم, أحداث رانجو بالتفصيل, مشاهدة رانجو 2011, توميتو رانجو",
-    "opinion": "هو فيلم رانجو فيلم ممتاز، مليء بالكوميديا والفكاهة، ولكن أيضا مليء بالشجاعة والقوة. سوف يجعلك فيلم رانجو تبتسم وتشمتك.",
+    "intro": "استمتع بمشاهدة فيلم رانجو (2011) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "عندما ينتهي الأمر ب رانجو ، وهو أليف عائلي مفقود ، عن طريق الخطأ في بلدة الوسخ الشجاعة التي تقذف بالأسلحة النارية ، تجد السحلية الأقل شجاعة فجأة أنه يبرز. تم الترحيب به باعتباره الأمل الأخير الذي كانت المدينة تنتظره ، يضطر الشريف الجديد رانجو إلى لعب دوره الجديد إلى أقصى حد.",
+    "desc_en": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the last hope the town has been waiting for, Rango is forced to play his new role to the hilt and uncover the truth behind a looming water crisis—before his act catches up with him.",
+    "seo_title_ar": "مشاهدة فيلم Rango مترجم - توميتو",
+    "meta_desc": "مشاهدة رانجو مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد رانجو الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم رانجو؟",
-        "a": "فيلم رانجو هو فيلم رسوم متحركة كوميديا عائلي غربي مغامرة"
+        "q": "كيف يمكنني مشاهدة فيلم رانجو?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Rango?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم رانجو؟",
-        "a": "فيلم رانجو هو فيلم رسوم متحركة"
+        "q": "ما هو تصنيف فيلم رانجو?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, عائلي, غربي, مغامرة.",
+        "q_en": "What is the genre of Rango?",
+        "a_en": "Answer about Rango"
       },
       {
-        "q": "ما هو المخرج من فيلم رانجو؟",
-        "a": "المخرج من فيلم رانجو هو [المخرج]"
+        "q": "ما هي قصة فيلم رانجو?",
+        "a": "إجابة عن رانجو",
+        "q_en": "What is the story of Rango?",
+        "a_en": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the las..."
       }
-    ]
+    ],
+    "keywords": "رانجو مترجم, Rango مترجم, مشاهدة رانجو, Rango"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -60,5 +69,5 @@
   "duration": "107 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Johnny Depp Isla Fisher Ned Beatty Bill Nighy Abigail Breslin"
+  "cast": "Johnny Depp Isla Fisher Ned Beatty Bill Nighy Abigail Breslin Alfred Molina Stephen Root Harry Dean Stanton"
 }

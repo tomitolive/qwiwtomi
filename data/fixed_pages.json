@@ -1925,8 +1925,86 @@
       "file": "217993.json",
       "title": "Justice League: War",
       "fixed_at": "2026-08-07T18:32:16.986938"
+    },
+    {
+      "tmdb_id": "76479",
+      "file": "76479.json",
+      "title": "الرفاق",
+      "fixed_at": "2026-08-07T19:38:47.904997"
+    },
+    {
+      "tmdb_id": "13927",
+      "file": "13927.json",
+      "title": "Wasteland",
+      "fixed_at": "2026-08-07T19:38:58.417852"
+    },
+    {
+      "tmdb_id": "45016",
+      "file": "45016.json",
+      "title": "Bron/Broen",
+      "fixed_at": "2026-08-07T19:39:09.723243"
+    },
+    {
+      "tmdb_id": "70453",
+      "file": "70453.json",
+      "title": "أدوات حادة",
+      "fixed_at": "2026-08-07T19:39:18.965590"
+    },
+    {
+      "tmdb_id": "537",
+      "file": "537.json",
+      "title": "Hey Arnold!",
+      "fixed_at": "2026-08-07T19:39:28.099921"
+    },
+    {
+      "tmdb_id": "313721",
+      "file": "313721.json",
+      "title": "Dear Killer Nannies: Criado por sicarios",
+      "fixed_at": "2026-08-07T19:39:37.329710"
+    },
+    {
+      "tmdb_id": "83314",
+      "file": "83314.json",
+      "title": "Tsurune",
+      "fixed_at": "2026-08-07T19:39:47.119955"
+    },
+    {
+      "tmdb_id": "25376",
+      "file": "25376.json",
+      "title": "El secreto de sus ojos",
+      "fixed_at": "2026-08-07T19:39:56.189800"
+    },
+    {
+      "tmdb_id": "242532",
+      "file": "242532.json",
+      "title": "The Bell System Science Series",
+      "fixed_at": "2026-08-07T19:40:05.977473"
+    },
+    {
+      "tmdb_id": "1307373",
+      "file": "1307373.json",
+      "title": "Wasteman",
+      "fixed_at": "2026-08-07T19:40:16.340790"
+    },
+    {
+      "tmdb_id": "82881",
+      "file": "82881.json",
+      "title": "رابونزل في تبات ونبات",
+      "fixed_at": "2026-08-07T19:40:25.282481"
+    },
+    {
+      "tmdb_id": "49444",
+      "file": "49444.json",
+      "title": "كونغ فو باندا 2",
+      "fixed_at": "2026-08-07T19:40:34.364154"
+    },
+    {
+      "tmdb_id": "44896",
+      "file": "44896.json",
+      "title": "رانجو",
+      "fixed_at": "2026-08-07T19:40:45.791924"
     }
   ],
-  "last_updated": "2026-08-07T18:32:18.989618",
-  "total_fixed": 321
+  "last_updated": "2026-08-07T19:40:47.914829",
+  "total_fixed": 334
 }

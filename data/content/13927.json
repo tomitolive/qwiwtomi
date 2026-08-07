@@ -4,11 +4,9 @@
   "title_ar": "Wasteland",
   "title_en": "Wasteland",
   "slug": "13927-wasteland",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل القفار مترجم بجودة عالية.",
   "poster_path": "/o8MzVs8PMB930lm7W3xkGKxGBbt.jpg",
-  "backdrop_path": "/o8MzVs8PMB930lm7W3xkGKxGBbt.jpg",
+  "backdrop_path": null,
   "release_date": "1999-10-07",
   "vote_average": 7.8,
   "vote_count": 4,
@@ -19,33 +17,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متهالك، حيث يخيم الظلم والفقر، تظهر شخصيات متعددة، كل واحدة منهن تملك قصة خاصة بها، وتحاول أن تنجو من الأزمات التي تواجهها. من بينها، هناك شخصيتان رئيسيتان، تتعاملان مع مشكلاتها الخاصة، وتحاولان أن ينجوا من العالم المتهالك هذا.",
-    "desc_en": "In a world ravaged by darkness and poverty, multiple characters emerge, each with their own unique story, and struggle to survive the crises that surround them. Among them, two main characters face their own personal struggles, and attempt to escape this desolate world.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث دراما الإثارة في وستلاند - توميتو",
-    "seo_title_ar": "مشاهدة فيلم وستلاند دراما مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم دراما, Wasteland مترجم كامل, أحداث Wasteland بالتفصيل, توميتو Wasteland, مشاهدة Wasteland 1999, قصة مسلسل Wasteland",
-    "opinion": "هذا الدراما هو مثال رائع لما يمكن أن يفعله الدراما عندما تتمتع بالكفاءة والشخصية. الشخصيات الرئيسية هي قوية جداً، والقصة هي ممتعة جداً.",
+    "intro": "استمتع بمشاهدة مسلسل Wasteland (1999) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل القفار مترجم بجودة عالية.",
+    "desc_en": "Six post-collegiate professionals in New York City bond as they struggle to make sense of pointless jobs and unrequited love.",
+    "seo_title_ar": "مشاهدة مسلسل Wasteland مترجم - توميتو",
+    "meta_desc": "مشاهدة القفار مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Wasteland الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو وستلاند؟",
-        "a": "هو دراما مترجم اون لاين، حيث تتعامل الشخصيات مع مشكلاتها الخاصة."
+        "q": "كيف يمكنني مشاهدة مسلسل القفار?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Wasteland?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع وستلاند؟",
-        "a": "هو دراما، حيث يخيم الظلم والفقر."
+        "q": "ما هو تصنيف مسلسل القفار?",
+        "a": "يندرج العمل تحت تصنيف دراما.",
+        "q_en": "What is the genre of Wasteland?",
+        "a_en": "It falls under the genre of ."
       },
       {
-        "q": "ما هو أفضل ما في وستلاند؟",
-        "a": "شخصياته الرئيسية هي قوية جداً، والقصة هي ممتعة جداً."
+        "q": "ما هي قصة مسلسل القفار?",
+        "a": "إجابة عن القفار",
+        "q_en": "What is the story of Wasteland?",
+        "a_en": "Six post-collegiate professionals in New York City bond as they struggle to make sense of pointless jobs and unrequited love."
       }
-    ]
+    ],
+    "keywords": "معنى القفار"
   },
   "fixed": true,
-  "first_air_date": "1999-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "5 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Sárközi Olivér"
+  "cast": "Sasha Alexander Marisa Coughlan Rebecca Gayheart Eddie Mills Brad Rowe Jeffrey D. Sams Tisha Campbell Robert Sean Leonard",
+  "first_air_date": "1999-10-07"
 }

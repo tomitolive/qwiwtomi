@@ -4,9 +4,7 @@
   "title_ar": "Tsurune",
   "title_en": "Tsurune",
   "slug": "83314-tsurune",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل تسورون مترجم بجودة عالية.",
   "poster_path": "/3otXVixG8A4w6WE4rgJBESc4S8w.jpg",
   "backdrop_path": "/Aq8mDnF6tSVXCRXmkva5SIOENW1.jpg",
   "release_date": "2018-10-22",
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرسوم المتحركة، تسرونه هو مسلسل دراما يأخذنا إلى عالم المدرسة اليابانية، حيث نرى مجموعة من الأصدقاء الذين يخوضون معركة الحياة والمرحلة الدراسية، بينما يتعاملون مع مشاكلهم الشخصية والاجتماعية، ويحاولون تحقيق حلمهم في أن يكونوا فريقاً قويًا في لعبة كرة القدم، في هذه الرحلة النفسية والاجتماعية، نرى كيف يتعامل الأصدقاء مع الصعوبات التي تواجههم، ويحاولون أن يكونوا أفضل من أنفسهم، ويحصلون على ما يريدون من الحياة.",
-    "desc_en": "In the world of animation, Tsurune is a drama series that takes us to a Japanese high school, where we see a group of friends who are fighting the battle of life and education, while dealing with their personal and social problems, and trying to achieve their dream of becoming a strong team in the sport of football. In this psychological and social journey, we see how friends deal with the challenges they face, and try to be better than themselves, and get what they want from life.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل رسوم متحركة تسرونه - توميتو",
-    "seo_title_ar": "مشاهدة فيلم تسرونه مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة تسرونه, مشاهدة فيلم تسرUNE, مشاهدة Tsurune 2018, أحداث Tsurune بالتفصيل, توميتو Tsurune, Tsurune مترجم كامل, قصة مسلسل Tsurune",
-    "opinion": "هو فيلم رائع يلقي الضوء على مشكلات الشباب والمرحلة الدراسية، ويحاول أن يكون فيلماً قوياً في عالم الرسوم المتحركة، ولكن في النهاية، هو فيلم قوي يلقي الضوء على مشكلات الشباب والمرحلة الدراسية.",
+    "intro": "استمتع بمشاهدة مسلسل Tsurune (2018) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل تسورون مترجم بجودة عالية.",
+    "desc_en": "After target panic drives him from archery in middle school, Minato decides to return to the sport when his friends join the high school kyudo club.",
+    "seo_title_ar": "مشاهدة مسلسل Tsurune مترجم - توميتو",
+    "meta_desc": "مشاهدة تسورون مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
+    "outro": "شاهد Tsurune الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning  worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو تسرونه؟",
-        "a": "هو مسلسل رسوم متحركة يلقي الضوء على مشكلات الشباب والمرحلة الدراسية."
+        "q": "كيف يمكنني مشاهدة مسلسل تسورون?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Tsurune?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع تسرونه؟",
-        "a": "هو نوع رسوم متحركة دراما."
+        "q": "ما هو تصنيف مسلسل تسورون?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, دراما.",
+        "q_en": "What is the genre of Tsurune?",
+        "a_en": "Answer about Tsurune"
       },
       {
-        "q": "ما هو غرض تسرونه؟",
-        "a": "هو فيلم يلقي الضوء على مشكلات الشباب والمرحلة الدراسية، ويحاول أن يكون فيلماً قوياً في عالم الرسوم المتحركة."
+        "q": "ما هي قصة مسلسل تسورون?",
+        "a": "إجابة عن تسورون",
+        "q_en": "What is the story of Tsurune?",
+        "a_en": "After target panic drives him from archery in middle school, Minato decides to return to the sport when his friends join the high school kyudo club."
       }
-    ]
+    ],
+    "keywords": "تسورون مترجم, Tsurune مترجم, مشاهدة تسورون, Tsurune"
   },
   "fixed": true,
-  "first_air_date": "2018-10-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "150 دقيقة",
-  "language": "الهندية",
-  "country": "الهند",
-  "cast": "Nutan Rajendra Kumar Rekha Vinod Mehra Anil Dhawan"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Yuto Uemura Kensho Ono Shogo Yano Kaito Ishikawa Jun Fukuyama Takayuki Kondo Yuya Hirose Yuuichirou Umehara",
+  "first_air_date": "2018-10-22"
 }
