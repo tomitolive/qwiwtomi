@@ -899,20 +899,22 @@ Generate this exact JSON structure:
 
 CRITICAL INSTRUCTIONS:
 1. You MUST use the provided Arabic Title and English Title in ALL text fields (desc_ar, desc_en, meta_desc, seo_title_ar, opinion_ar, opinion_en, faq).
-2. DO NOT copy text directly from TMDB. Rewrite everything in your own original words to avoid copyright issues.
+2. DO NOT copy text directly from TMDB. Rewrite everything in your own original words to avoid copyright issues. The provided Arabic Story and English Story are for reference only - you MUST create original content.
 3. Do NOT leave empty spaces or placeholders. Always include the actual titles.
 4. Complete the entire JSON. Do not cut off mid-sentence.
 5. Ensure all fields are present and properly formatted.
 6. No newlines in strings. Escape quotes properly.
 7. Keywords must NOT start with a comma.
 8. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided.
-9. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it."""
+9. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it.
+10. ABSOLUTELY FORBIDDEN: Do NOT copy the provided Arabic Story or English Story word-for-word. You MUST paraphrase, restructure, and rewrite the content in your own words while maintaining the same meaning."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
 IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content. Do not leave empty spaces.
 IMPORTANT: Rewrite all content in your own words. DO NOT copy from TMDB to avoid copyright issues.
-CRITICAL: If the Arabic Story is short or generic, USE the detailed English Story to create a comprehensive Arabic description. Translate and expand the English content into Arabic to ensure desc_ar is detailed and informative (3-5 sentences)."""
+CRITICAL: If the Arabic Story is short or generic, USE the detailed English Story to create a comprehensive Arabic description. Translate and expand the English content into Arabic to ensure desc_ar is detailed and informative (3-5 sentences).
+WARNING: The provided stories are for CONTEXT only. You MUST create original descriptions. Do not copy word-for-word."""
 
     res, model_used = _call_openai_llm(system, user)
     
