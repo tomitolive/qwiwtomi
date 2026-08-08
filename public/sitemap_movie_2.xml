@@ -1369,6 +1369,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1525963-debtors-wife</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/ouXTrnJBimHIhWIUlHARDJH47no.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1526650-mudborn</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2125,6 +2134,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1719380-no-way-home</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/4vLYv2kHCRRFqqjHFYjxgkK1Ubn.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1723013-hibla-2</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/p25EmvIYLnVaorWVG7Qfb0KMxD7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/22292-the-ghost-and-mrs-muir</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/idoD3cwfwj86BPvVoWVgWhnT2xq.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/226674-the-adolescent</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

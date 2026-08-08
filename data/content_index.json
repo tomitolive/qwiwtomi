@@ -67194,5 +67194,105 @@
     ],
     "timestamp": 1786153448,
     "fixed": true
+  },
+  {
+    "title": "Debtors Wife / Debtors Wife",
+    "title_ar": "Debtors Wife",
+    "title_en": "Debtors Wife",
+    "slug": "1525963-debtors-wife",
+    "folder": "movie",
+    "poster": "/t/p/w500/ouXTrnJBimHIhWIUlHARDJH47no.jpg",
+    "rating": 7.0,
+    "year": "2024",
+    "type": "movie",
+    "tmdb_id": 1525963,
+    "genre_ids": [],
+    "genres": [],
+    "timestamp": 1786158435,
+    "fixed": true
+  },
+  {
+    "title": "No Way Home / No Way Home",
+    "title_ar": "No Way Home",
+    "title_en": "No Way Home",
+    "slug": "1719380-no-way-home",
+    "folder": "movie",
+    "poster": "/t/p/w500/4vLYv2kHCRRFqqjHFYjxgkK1Ubn.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1719380,
+    "genre_ids": [
+      27,
+      12,
+      28
+    ],
+    "genres": [
+      "رعب",
+      "مغامرة",
+      "حركة"
+    ],
+    "timestamp": 1786158438,
+    "fixed": true
+  },
+  {
+    "title": "Mais Voc / Mais Voc",
+    "title_ar": "Mais Voc",
+    "title_en": "Mais Voc",
+    "slug": "45768-mais-voc",
+    "folder": "tv",
+    "poster": "/t/p/w500/d53oOa5dHSu7e7kobxdLyr8ZFdU.jpg",
+    "rating": 6.3,
+    "year": "1999",
+    "type": "tv",
+    "tmdb_id": 45768,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1786158441,
+    "fixed": true
+  },
+  {
+    "title": "Operation Safed Sagar / Operation Safed Sagar",
+    "title_ar": "Operation Safed Sagar",
+    "title_en": "Operation Safed Sagar",
+    "slug": "284753-operation-safed-sagar",
+    "folder": "tv",
+    "poster": "/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 284753,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1786158445,
+    "fixed": true
+  },
+  {
+    "title": "Monsters of God / Monsters of God",
+    "title_ar": "Monsters of God",
+    "title_en": "Monsters of God",
+    "slug": "311731-monsters-of-god",
+    "folder": "tv",
+    "poster": "/t/p/w500/zQSXfv1GiLJW2kszQUNMyrZGoqF.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 311731,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1786158448,
+    "fixed": true
   }
 ]
