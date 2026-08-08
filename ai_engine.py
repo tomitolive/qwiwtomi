@@ -121,6 +121,10 @@ def is_adult_content(title, overview):
     
     return False
 
+def clean_arctic_text(text):
+    # This was a typo in previous plan, renaming properly to clean_arabic_text
+    pass
+
 def clean_arabic_text(text):
     """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
@@ -129,25 +133,39 @@ def clean_arabic_text(text):
     # This keeps titles like "Star City", "For All Mankind" etc.
     proper_names = re.findall(r'\b[A-Z][a-zA-Z]+\b', text)
     
-    # Remove English letters except for proper names
-    cleaned = re.sub(r'\b[a-z]+\b', '', text)  # Remove lowercase English words
-    cleaned = re.sub(r'\b[A-Z](?![a-zA-Z])\b', '', cleaned)  # Remove single uppercase letters
+    # Remove lowercase English words & single uppercase letters
+    cleaned = re.sub(r'\b[a-z]+\b', '', text)
+    cleaned = re.sub(r'\b[A-Z](?![a-zA-Z])\b', '', cleaned)
     
-    # Add back proper names
+    # STRICT RULE: Remove ALL characters that are NOT Arabic, English, Digits, or common punctuation
+    # This blocks Hindi (Devanagari), Chinese, Japanese, Cyrillic, etc.
+    strict_pattern = r'[^a-zA-Z0-9\s\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\.\,!\?؟،:\-\(\)\"\'/\\&%]'
+    cleaned = re.sub(strict_pattern, '', cleaned)
+    
+    # Add back proper names if they were somehow stripped
     for name in proper_names:
         if name not in cleaned:
             cleaned = cleaned + ' ' + name
     
-    return cleaned.strip()
+    return re.sub(r'\s+', ' ', cleaned).strip()
+
+def clean_strict_all(text):
+    """Generic strict filter for ANY field (English or Arabic) to absolutely prevent unexpected scripts."""
+    if not isinstance(text, str):
+        return text
+    strict_pattern = r'[^a-zA-Z0-9\s\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\.\,!\?؟،:\-\(\)\"\'/\\&%]'
+    cleaned = re.sub(strict_pattern, '', text)
+    return re.sub(r'\s+', ' ', cleaned).strip()
 
 def clean_english_text(text):
-    """Remove non-English characters from English text fields."""
+    """Remove non-English characters from English text fields - STRICT VERSION."""
     if not text:
         return text
-    # Keep English letters, numbers, and basic punctuation
-    # Remove Arabic letters and other non-English characters
-    cleaned = re.sub(r'[\u0600-\u06FF]', '', text)
-    return cleaned.strip()
+    # STRICT RULE: Remove ALL characters that are NOT English, Digits, or common punctuation
+    # This blocks Arabic, Hindi (Devanagari), Chinese, Japanese, Cyrillic, Greek, etc.
+    strict_pattern = r'[^a-zA-Z0-9\s\.\,!\?:\-\(\)\"\'/\\&%]'
+    cleaned = re.sub(strict_pattern, '', text)
+    return re.sub(r'\s+', ' ', cleaned).strip()
 
 # Country translation map
 COUNTRIES_MAP = {

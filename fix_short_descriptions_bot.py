@@ -23,6 +23,7 @@ CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
 PAGES_TO_FIX_FILE = os.path.join(BASE_PATH, 'data', 'pages_to_fix.json')
+PRIORITY_PAGES_FILE = os.path.join(BASE_PATH, 'data', 'priority_pages.json')
 BATCH_SIZE = 7
 
 # Logging setup
@@ -56,6 +57,18 @@ def save_fixed_pages(fixed_pages):
             }, f, ensure_ascii=False, indent=2)
     except Exception as e:
         log.error(f"Could not save fixed pages: {e}")
+
+def load_priority_pages():
+    """تحميل قائمة الصفحات ذات الأولوية."""
+    if not os.path.exists(PRIORITY_PAGES_FILE):
+        return []
+    try:
+        with open(PRIORITY_PAGES_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('priority_pages', [])
+    except Exception as e:
+        log.warning(f"Could not load priority pages: {e}")
+        return []
 
 def find_short_descriptions():
     """البحث عن جميع الصفحات ذات الأوصاف القصيرة أو الطويلة - استخدام JSON المعد مسبقاً."""
@@ -125,6 +138,20 @@ def process_batch(short_pages, fixed_pages):
     if not available_pages:
         log.info("✅ All short descriptions have been fixed!")
         return 0, fixed_pages
+    
+    # تحميل الصفحات ذات الأولوية
+    priority_pages = load_priority_pages()
+    priority_ids = {str(p['tmdb_id']) for p in priority_pages}
+    
+    # ترتيب الصفحات: الأولوية أولاً ثم الباقي
+    priority_available = [p for p in available_pages if str(p['tmdb_id']) in priority_ids]
+    regular_available = [p for p in available_pages if str(p['tmdb_id']) not in priority_ids]
+    
+    if priority_available:
+        log.info(f"⭐ Found {len(priority_available)} priority pages to process first")
+    
+    # دمج القوائم: الأولوية أولاً
+    available_pages = priority_available + regular_available
     
     # اختيار دفعة من الصفحات (BATCH_SIZE)
     batch = available_pages[:BATCH_SIZE]
