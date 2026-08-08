@@ -48,6 +48,25 @@ except ImportError:
     def clean_strict(text): return str(text)
     def fetch_related_keywords(title, geo='SA'): return ""
 
+def is_in_sitemap(folder, slug):
+    """Check if page exists in sitemap files."""
+    import glob
+    sitemap_dir = os.path.join(os.path.dirname(__file__), 'public')
+    sitemap_files = glob.glob(os.path.join(sitemap_dir, 'sitemap*.xml'))
+    
+    url_to_check = f"https://tomito.xyz/{folder}/{slug}"
+    
+    for sitemap_file in sitemap_files:
+        try:
+            with open(sitemap_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                if url_to_check in content:
+                    return True
+        except Exception as e:
+            log.warning(f"Error reading sitemap {sitemap_file}: {e}")
+    
+    return False
+
 # Import ai_engine functions
 try:
     from ai_engine import get_rising_seo_tags
@@ -706,6 +725,19 @@ def create_page(item_data, media_type, is_trend=False):
         slug = f"{tmdb_id}-{slug}"
     poster_path = data.get('poster_path') or (en.get('poster_path') if en else None) or (ar.get('poster_path') if ar else None)
     if not poster_path:
+        return None, None
+    
+    # Determine folder
+    if media_type == 'movie':
+        folder = 'movie'
+    elif 'anime' in media_type:
+        folder = 'tv'
+    else:
+        folder = 'tv'
+    
+    # Check if page already exists in sitemap - skip if it does
+    if is_in_sitemap(folder, slug):
+        log.info(f"⏭️  Page already in sitemap: {folder}/{slug} - skipping creation")
         return None, None
     
     # Mirror the image to local storage
