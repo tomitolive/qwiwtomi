@@ -2387,8 +2387,50 @@
       "file": "1284120.json",
       "title": "Den stygge stessteren",
       "fixed_at": "2026-08-07T23:46:06.359628"
+    },
+    {
+      "tmdb_id": "1314481",
+      "file": "1314481.json",
+      "title": "The Devil Wears Prada 2",
+      "fixed_at": "2026-08-08T01:08:05.877066"
+    },
+    {
+      "tmdb_id": "1451344",
+      "file": "1451344.json",
+      "title": "Husbands in Action",
+      "fixed_at": "2026-08-08T01:08:15.280924"
+    },
+    {
+      "tmdb_id": "497",
+      "file": "497.json",
+      "title": "الميل الأخضر",
+      "fixed_at": "2026-08-08T01:08:24.773449"
+    },
+    {
+      "tmdb_id": "9837",
+      "file": "9837.json",
+      "title": "أمير مصر",
+      "fixed_at": "2026-08-08T01:08:34.113998"
+    },
+    {
+      "tmdb_id": "20530",
+      "file": "20530.json",
+      "title": "Late Spring",
+      "fixed_at": "2026-08-08T01:08:44.452941"
+    },
+    {
+      "tmdb_id": "1741109",
+      "file": "1741109.json",
+      "title": "WWE SummerSlam 2026: Saturday",
+      "fixed_at": "2026-08-08T01:08:54.992372"
+    },
+    {
+      "tmdb_id": "10545",
+      "file": "10545.json",
+      "title": "أحدب نوتردام",
+      "fixed_at": "2026-08-08T01:09:05.263881"
     }
   ],
-  "last_updated": "2026-08-07T23:46:08.362378",
-  "total_fixed": 398
+  "last_updated": "2026-08-08T01:09:07.266592",
+  "total_fixed": 405
 }
