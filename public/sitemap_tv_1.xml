@@ -2674,6 +2674,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/tv/19215-baseball</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/qneEtyv9BKgfb7sVmtnvDqTmV4b.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/tv/1930-the-beverly-hillbillies</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/k9DI1iwIxnsjaPm2OhmwzjN3GT1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/tv/194-nypd-blue</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
