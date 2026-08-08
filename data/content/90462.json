@@ -4,14 +4,12 @@
   "title_ar": "تشاكي",
   "title_en": "Chucky",
   "slug": "90462-chucky",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد ظهور دمية تشاكي القديمة في ساحة بيع في إحدى ضواحي المدينة تدخل مدينة أمريكية في حالة من الفوضى مع بدء سلسلة من عمليات القتل المرعبة التي تفضح نفاق المدينة وأسرارها",
   "poster_path": "/pNinTpYIMeRl5lO61UoY6HUwsBn.jpg",
   "backdrop_path": "/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
   "release_date": "2021-10-12",
   "vote_average": 7.8,
-  "vote_count": 4168,
+  "vote_count": 4200,
   "genres": [
     {
       "id": 80,
@@ -27,35 +25,30 @@
     }
   ],
   "ai_content": {
-    "intro": "حسناً هذا المخرج هو من يعرف كيف جعل الكوميديا أكثر قتامة، و تشاكي هو مثالاً جيدًا على ذلك.",
-    "desc_ar": "في مدينة أمريكية، يحدث شيء غريب عندما تظهر دمية تشاكي القديمة في ساحة بيع في إحدى ضواحي المدينة، مما يتدخل في حياة السكان ويدفعهم إلى حالة من الفوضى والارتباك، مع بدء سلسلة من عمليات القتل المرعبة التي تفضح نفاق المدينة وأسرارها.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في تشاكي",
-    "seo_title_ar": "مشاهدة فيلم تشاكي مترجم اون لاين - توميتو",
-    "outro": "إذا لم تُصِلَ أُفناً مُستقلّة، فإن تتابَعها سوف يُجبرك على التفكير في بعض الأمور المخفية.",
-    "opinion": "هو فيلم جريمة كوميديا غموض يلقي بظلاله على المدينة، ويحولها إلى مكان من الفوضى والارتباك، ولكن في النهاية، يظهر أن هناك الكثير من الأسرار والسرائر التي يجب أن تُكشَف.",
+    "intro": "ينتظرنا مسلسل تشاكي، الذي يُحكي قصة دمية شريرة تدخل مدينة أمريكية وتسبب في سلسلة من عمليات القتل المرعبة.",
+    "desc_ar": "بعد ظهور دمية تشاكي القديمة في ساحة بيع في إحدى ضواحي المدينة، اندلعت مدينة أمريكية في حالة من الفوضى بسبب سلسلة من عمليات القتل المرعبة التي استفحش فيها نفاق المدينة وأسرارها. يبدو أن تشاكي، الذي كان يعتبر دمية مألوفة في الماضي، أصبح الآن أداة قتل مؤثرة، مما يعرقل حياة المواطنين. تبدو القضية أكثر تعقيدًا مع وصول أعداء وتحالفات من الماضي تشاكي، الذين يهددون بالكشف عن الحقيقة وراء القتلين، بالإضافة إلى أصول الدُمية الشريرة التي لم تُكشف بعد.",
+    "desc_en": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town's hypocrisies and secrets. It seems that Chucky, once a familiar doll, has now become a deadly instrument, disrupting the lives of its citizens. The case becomes more complex with the arrival of Chucky's past enemies and allies, who threaten to reveal the truth behind the killings, as well as the demon doll's untold origins.",
+    "seo_title_ar": "مشاهدة مسلسل تشاكي مترجم - توميتو",
+    "meta_desc": "تشاكي مسلسل جريمة كوميدي غموض، يتبع سلسلة من عمليات القتل المرعبة التي تتعرض لها مدينة أمريكية، وتعكس نفاق المدينة وأسرارها. يأتي تشاكي، الدمية الشريرة، لك",
+    "outro": "يشكل مسلسل تشاكي تجربة مثيرة وممتعة، حيث يجمع بين الجريمة والكوميديا والغموض في رحلة ملحمية.",
+    "opinion_ar": "هذا المسلسل من أكثر المسلسلات التي شاهدتها، حيث يجمع بين الجريمة والكوميديا والغموض في رحلة مثيرة.",
+    "opinion_en": "This series is one of the most thrilling ones I've seen, combining crime, comedy, and mystery in an exciting journey.",
     "faq": [
       {
-        "q": "ما هو فيلم تشاكي؟",
-        "a": "فيلم جريمة كوميديا غموض يلقي بظلاله على المدينة."
-      },
-      {
-        "q": "ما هو نوع فيلم تشاكي؟",
-        "a": "فيلم تلفزيوني"
-      },
-      {
-        "q": "ما هي أسباب قتل المرعبة في فيلم تشاكي؟",
-        "a": "لإفشال النفاق والسرائر في المدينة"
+        "q": "ما هو سبب ظهور تشاكي في مدينة أمريكية؟",
+        "a": "تمت إحضار تشاكي إلى مدينة أمريكية من خلال ساحة بيع في إحدى ضواحي المدينة، مما أدى إلى سلسلة من عمليات القتل المرعبة.",
+        "q_en": "Why did Chucky appear in an American town?",
+        "a_en": "Chucky was brought to an American town through a suburban yard sale, leading to a series of horrifying murders."
       }
     ],
-    "keywords": "Chucky, فيلم تشاكي مترجم, مشاهدة فيلم تشاكي, مشاهدة تشاكي 2021, تشاكي مترجم كامل, توميتو تشاكي, أحداث تشاكي بالتفصيل, قصة مسلسل تشاكي",
-    "desc_en": "In an American city, something strange happens when the old Chucky doll appears in a market square in one of the city's suburbs, disrupting the lives of the residents and plunging them into chaos, as a series of gruesome murders unfold, revealing the city's secrets and scandals."
+    "keywords": "تشاكي, مسلسل, جريمة, كوميديا, غموض, تشاكي الدمية, تشاكي تشيز, فلم تشاكي, مسلسل تشاكي, دمية تشاكي, زوجة تشاكي, الدميه تشاكي, لعبة تشاكي, دميه تشاكي, لعبه تشاكي"
   },
   "fixed": true,
-  "first_air_date": "2021-10-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Zackary Arthur Björgvin Arnarson Alyvia Alyn Lind Brad Dourif",
+  "first_air_date": "2021-10-12"
 }

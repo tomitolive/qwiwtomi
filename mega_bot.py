@@ -699,7 +699,46 @@ def build_similar_content_html(similar_data, media_type, genre_slug=None):
     return html
 
 
-def create_page(item_data, media_type, is_trend=False):
+def validate_content_data(content_data, media_type):
+    """Strictly validates that content_data and ai_content contain ALL required metadata fields."""
+    if not content_data or not isinstance(content_data, dict):
+        log.error("❌ Validation Failed: content_data is empty or not a dict")
+        return False
+
+    required_fields = ['id', 'title_ar', 'title_en', 'slug', 'overview', 'poster_path', 'genres', 'section', 'quality', 'language', 'country']
+    for field in required_fields:
+        val = content_data.get(field)
+        if val is None or (isinstance(val, (str, list)) and len(val) == 0):
+            log.error(f"❌ Validation Failed: Missing or empty field '{field}' in content_data for ID {content_data.get('id')}")
+            return False
+
+    ai = content_data.get('ai_content')
+    if not ai or not isinstance(ai, dict):
+        log.error(f"❌ Validation Failed: Missing 'ai_content' dictionary for ID {content_data.get('id')}")
+        return False
+
+    required_ai_fields = ['intro', 'desc_ar', 'desc_en', 'seo_title_ar', 'meta_desc', 'outro', 'opinion_ar', 'opinion_en', 'faq', 'keywords']
+    for field in required_ai_fields:
+        val = ai.get(field)
+        if val is None or (isinstance(val, (str, list)) and len(val) == 0):
+            log.error(f"❌ Validation Failed: Missing or empty AI field '{field}' in ai_content for ID {content_data.get('id')}")
+            return False
+
+    meta_desc = ai.get('meta_desc', '')
+    if len(meta_desc) < 140 or len(meta_desc) > 170:
+        log.error(f"❌ Validation Failed: meta_desc length {len(meta_desc)} out of bound (140-170) for ID {content_data.get('id')}")
+        return False
+
+    faq = ai.get('faq', [])
+    if not isinstance(faq, list) or len(faq) == 0:
+        log.error(f"❌ Validation Failed: Empty FAQ list for ID {content_data.get('id')}")
+        return False
+
+    log.info(f"✅ Metadata Validation Passed 100% for ID {content_data.get('id')} ({content_data.get('title_ar')})")
+    return True
+
+
+def create_page(item_data, media_type, is_trend=False, force=False):
     ar, en, credits = item_data['ar'], item_data['en'], item_data['credits']
     if not ar and not en:
         return None, None
@@ -735,8 +774,8 @@ def create_page(item_data, media_type, is_trend=False):
     else:
         folder = 'tv'
     
-    # Check if page already exists in sitemap - skip if it does
-    if is_in_sitemap(folder, slug):
+    # Check if page already exists in sitemap - skip if it does (unless force is True)
+    if not force and is_in_sitemap(folder, slug):
         log.info(f"⏭️  Page already in sitemap: {folder}/{slug} - skipping creation")
         return None, None
     
@@ -1107,8 +1146,15 @@ def create_page(item_data, media_type, is_trend=False):
         "country": country_str,
         "cast": cast_str
     }
+
     if media_type != 'movie':
         content_data["first_air_date"] = data.get('first_air_date')
+
+    # Enforce strict metadata validation - forbid saving incomplete pages
+    if not validate_content_data(content_data, media_type):
+        log.error(f"🚨 REJECTED PAGE: {tmdb_id} ({title_ar}) due to incomplete metadata/tags.")
+        return None, None
+
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(content_data, f, ensure_ascii=False, indent=2)
     log.info(f"✅ JSON store updated: {json_path}")

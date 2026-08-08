@@ -19,6 +19,9 @@ concurrency:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./qwiwtomi
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -32,32 +35,41 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt || pip install requests pytrends google-auth requests-oauthlib
+        run: |
+          pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests pytrends openai googletrans==4.0.0rc1
+          fi
 
       - name: Run Fix Short Descriptions Bot
         env:
-          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NVIDIA_API_KEY_1: ${{ secrets.NVIDIA_API_KEY }}
+          NVIDIA_API_KEY_2: ${{ secrets.NVIDIA_API_KEY }}
+          NVIDIA_API_KEY_3: ${{ secrets.NVIDIA_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 fix_short_descriptions_bot.py
 
       - name: Download missing poster images
-        run: python3 download_all_images.py
+        run: python3 download_all_images.py || true
 
       - name: Submit to Bing Webmaster Tools (IndexNow)
-        run: python3 google_indexer.py
+        run: python3 google_indexer.py || true
 
       - name: Commit and push changes
         run: |
           git config --local user.email "bot-fix@tomito.xyz"
           git config --local user.name "Tomito Fix Bot"
-          
+
           # Add updated JSON files, tracking file, poster images, and indexer progress
           git add data/content/ data/fixed_pages.json public/t/p/ indexer_progress.json || true
-          
+
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "fix-descriptions-bot: fixed short meta descriptions (batch of 15)"
+            git commit -m "fix-descriptions-bot: fixed short meta descriptions (batch of 7)"
             git push
           fi

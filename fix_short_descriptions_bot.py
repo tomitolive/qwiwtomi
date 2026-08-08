@@ -147,7 +147,7 @@ def process_batch(short_pages, fixed_pages):
                 continue
             
             # إعادة إنشاء الصفحة (سيتم توليد وصف جديد مع الحقول الموحدة)
-            page_path, entry = mega_bot.create_page(details, media_type, is_trend=True)
+            page_path, entry = mega_bot.create_page(details, media_type, is_trend=True, force=True)
             
             if entry:
                 success += 1

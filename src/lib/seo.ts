@@ -139,6 +139,8 @@ export function buildMovieMetadata(opts: {
     ? [{ url: ogImage, width: 500, height: 750, alt: `بوستر فيلم ${mergedName}` }]
     : undefined;
 
+  const nowISO = new Date().toISOString();
+
   return {
     title: pageTitle,
     description,
@@ -155,9 +157,24 @@ export function buildMovieMetadata(opts: {
     },
     twitter: {
       card: "summary_large_image",
+      site: "@tomito_xyz",
+      creator: "@tomito_xyz",
       title: pageTitle,
       description,
       images: ogImage ? [ogImage] : undefined,
+    },
+    other: {
+      "og:image:secure_url": ogImage || "",
+      "og:image:type": "image/jpeg",
+      "og:image:width": "500",
+      "og:image:height": "750",
+      "og:image:alt": `بوستر فيلم ${mergedName}`,
+      "article:published_time": opts.local?.release_date ? `${opts.local.release_date}T00:00:00Z` : nowISO,
+      "og:updated_time": nowISO,
+      "article:section": genreLabel || "أفلام",
+      "Content-Language": "ar",
+      "rating": "General",
+      "revisit-after": "3 days",
     },
   };
 }
@@ -226,6 +243,8 @@ export function buildTvMetadata(opts: {
     ? [{ url: ogImage, width: 500, height: 750, alt: `بوستر مسلسل ${mergedName}` }]
     : undefined;
 
+  const nowISO = new Date().toISOString();
+
   return {
     title: pageTitle,
     description,
@@ -242,9 +261,24 @@ export function buildTvMetadata(opts: {
     },
     twitter: {
       card: "summary_large_image",
+      site: "@tomito_xyz",
+      creator: "@tomito_xyz",
       title: pageTitle,
       description,
       images: ogImage ? [ogImage] : undefined,
+    },
+    other: {
+      "og:image:secure_url": ogImage || "",
+      "og:image:type": "image/jpeg",
+      "og:image:width": "500",
+      "og:image:height": "750",
+      "og:image:alt": `بوستر مسلسل ${mergedName}`,
+      "article:published_time": opts.local?.release_date ? `${opts.local.release_date}T00:00:00Z` : nowISO,
+      "og:updated_time": nowISO,
+      "article:section": genreLabel || "مسلسلات",
+      "Content-Language": "ar",
+      "rating": "General",
+      "revisit-after": "3 days",
     },
   };
 }

@@ -435,27 +435,42 @@ BOT_MISSIONS = [
     }
 ]
 
-# OpenAI Models Configuration
-OPENAI_MODELS = [
+# Multi-Provider AI Models Configuration (OpenAI + NVIDIA NIM Keys Rotation)
+AI_MODELS = [
     {
-        "name": "gpt-3.5-turbo",
+        "name": "OpenAI (GPT-3.5)",
+        "url": "https://api.openai.com/v1/chat/completions",
         "model_id": "gpt-3.5-turbo",
         "api_key": OPENAI_API_KEY
     },
     {
-        "name": "gpt-4o",
-        "model_id": "gpt-4o",
-        "api_key": OPENAI_API_KEY
+        "name": "NVIDIA NIM Key 1 (Llama 3.1)",
+        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
+        "model_id": "meta/llama-3.1-8b-instruct",
+        "api_key": "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"
+    },
+    {
+        "name": "NVIDIA NIM Key 2 (Llama 3.1)",
+        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
+        "model_id": "meta/llama-3.1-8b-instruct",
+        "api_key": "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"
+    },
+    {
+        "name": "NVIDIA NIM Key 3 (Llama 3.1)",
+        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
+        "model_id": "meta/llama-3.1-8b-instruct",
+        "api_key": "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"
     }
 ]
 
 
-def _call_openai_llm(system_msg, user_msg, max_retries=3):
-    """Call OpenAI API with retry logic."""
+def _call_openai_llm(system_msg, user_msg, max_retries=6):
+    """Call AI providers with round-robin rotation & fallback logic across all working keys."""
     global _current_model_idx
     
+    total_models = len(AI_MODELS)
     for attempt in range(max_retries):
-        model_config = OPENAI_MODELS[_current_model_idx]
+        model_config = AI_MODELS[_current_model_idx]
         log.info(f"🔍 Attempting model: {model_config['name']} ({model_config['model_id']})")
         
         try:
@@ -473,7 +488,7 @@ def _call_openai_llm(system_msg, user_msg, max_retries=3):
                 "temperature": 0.7
             }
 
-            response = requests.post(OPENAI_API_URL, headers=headers, json=payload, timeout=30)
+            response = requests.post(model_config["url"], headers=headers, json=payload, timeout=25)
             
             if response.status_code == 200:
                 data = response.json()
@@ -481,29 +496,24 @@ def _call_openai_llm(system_msg, user_msg, max_retries=3):
                 if text:
                     text = re.sub(r'```json\s*|\s*```', '', text).strip()
                     log.info(f"✅ SUCCESS: {model_config['name']} generated content successfully")
+                    # Rotate to next key for fair distribution
+                    _current_model_idx = (_current_model_idx + 1) % total_models
                     return text, model_config['name']
-            elif response.status_code == 429:
-                log.warning(f"⚠️ Rate limit hit on {model_config['name']}. Retrying in 10 seconds...")
-                time.sleep(10)
-                continue
-            elif response.status_code == 503:
-                log.warning(f"⚠️ Service unavailable on {model_config['name']}. Retrying in 5 seconds...")
-                time.sleep(5)
-                continue
+            elif response.status_code in (429, 503):
+                log.warning(f"⚠️ Rate limit / Service unavailable on {model_config['name']} ({response.status_code}). Switching key...")
             else:
-                log.error(f"❌ {model_config['name']} Error {response.status_code}: {response.text[:300]}")
+                log.error(f"❌ {model_config['name']} Error {response.status_code}: {response.text[:200]}")
                 
         except requests.exceptions.Timeout:
-            log.warning(f"⚠️ Timeout on {model_config['name']}. Retrying...")
-            time.sleep(2)
-            continue
+            log.warning(f"⚠️ Timeout on {model_config['name']}. Trying next model...")
         except Exception as e:
             log.error(f"❌ {model_config['name']} API Error: {e}")
         
-        # Move to next model on failure
-        _current_model_idx = (_current_model_idx + 1) % len(OPENAI_MODELS)
+        # Advance to next model on any failure
+        _current_model_idx = (_current_model_idx + 1) % total_models
+        time.sleep(1)
     
-    log.error("🚨 All OpenAI models exhausted or failed.")
+    log.error("🚨 All working AI keys exhausted or failed.")
     return None, None
 
 
@@ -897,7 +907,7 @@ Generate this exact JSON structure:
   "opinion_ar": "1-2 sentence review in Arabic - MUST include the title",
   "opinion_en": "1-2 sentence review in English - MUST include the title",
   "faq": [{"q": "question in Arabic with title", "a": "answer in Arabic", "q_en": "question in English with title", "a_en": "answer in English"}],
-  "keywords": "comma separated keywords without leading comma",
+  "keywords": "comma separated list of EXACTLY 15 to 21 Arabic and English SEO keywords for this content (no leading comma, no duplicates)",
   "intro": "1-2 sentence introduction in Arabic",
   "outro": "1-2 sentence conclusion in Arabic"
 }
@@ -961,11 +971,35 @@ WARNING: The provided stories are for CONTEXT only. You MUST create original des
         t_query = title_ar if title_ar and title_ar.strip() else title_en
         trending_keywords = get_trending_keywords(t_query, geo='SA')
         
-        # Merge keywords - use more trending keywords (up to 10)
+        # Merge keywords - ensure total count is between 15 and 21
         base_keywords = data.get('keywords', '')
+        base_list = [k.strip() for k in base_keywords.split(',') if k.strip()]
         if trending_keywords:
-            trending_kw_str = ", ".join(trending_keywords[:10])
-            data['keywords'] = f"{base_keywords}, {trending_kw_str}"
+            # Add trending keywords that are not already in base_list
+            for kw in trending_keywords:
+                if kw.strip() not in base_list:
+                    base_list.append(kw.strip())
+                if len(base_list) >= 21:
+                    break
+        # Enforce minimum of 15
+        if len(base_list) < 15:
+            extra = [
+                f"مشاهدة {title_ar}", f"{title_en} مترجم", f"تحميل {title_ar}",
+                f"{title_ar} اون لاين", f"{title_en} online", f"{title_ar} جودة عالية",
+                f"فيلم {title_ar}", f"{title_en} HD", f"{title_ar} HD",
+                f"مسلسل {title_ar}", f"{title_en} مشاهدة",
+                f"{title_ar} توب سينما", f"{title_ar} شاهدد", f"{title_ar} توميتو",
+                f"{title_ar} فاصل", f"{title_ar} egydad", f"{title_ar} imdb",
+                f"شاهد {title_ar} الان مجانا", f"{title_ar} film", f"{title_ar} tv",
+                f"اخر فلم في السينما {title_ar}", f"اخر عمل مسلسل {title_ar}"
+            ]
+            for ex in extra:
+                if ex not in base_list:
+                    base_list.append(ex)
+                if len(base_list) >= 15:
+                    break
+        # Cap at 21
+        data['keywords'] = ', '.join(base_list[:21])
         
         # Ensure all required fields exist and clean them
         if not data.get('desc_ar'):
@@ -1051,15 +1085,34 @@ WARNING: The provided stories are for CONTEXT only. You MUST create original des
             data['keywords'] = f"{title_ar} مترجم, {title_en} مترجم, مشاهدة {title_ar}, {title_en} online"
         data['keywords'] = clean_arabic_text(data['keywords'])
         
-        # Clean keywords: remove empty placeholders and extra spaces
+        # Clean keywords: remove empty placeholders and extra spaces, enforce 15-21 count
         def clean_keywords(text):
             if not text:
                 return text
-            # Split by comma, strip each part, filter empty strings, join back
-            parts = [k.strip() for k in text.split(',') if k.strip()]
-            return ', '.join(parts)
+            parts = list(dict.fromkeys([k.strip() for k in text.split(',') if k.strip()]))
+            return ', '.join(parts[:21])
         
         data['keywords'] = clean_keywords(data['keywords'])
+        
+        # Final enforcement: pad to minimum 15 keywords if still short
+        kw_list = [k.strip() for k in data['keywords'].split(',') if k.strip()]
+        if len(kw_list) < 15:
+            extra_pad = [
+                f"مشاهدة {title_ar}", f"{title_en} مترجم", f"تحميل {title_ar}",
+                f"{title_ar} اون لاين", f"{title_en} online", f"{title_ar} جودة عالية",
+                f"فيلم {title_ar}", f"{title_en} HD", f"{title_ar} HD",
+                f"مسلسل {title_ar}", f"{title_en} مشاهدة مجانية",
+                f"{title_ar} توب سينما", f"{title_ar} شاهدد", f"{title_ar} توميتو",
+                f"{title_ar} فاصل", f"{title_ar} egydad", f"{title_ar} imdb",
+                f"شاهد {title_ar} الان مجانا", f"{title_ar} film", f"{title_ar} tv",
+                f"اخر فلم في السينما {title_ar}", f"اخر عمل مسلسل {title_ar}"
+            ]
+            for ex in extra_pad:
+                if ex not in kw_list:
+                    kw_list.append(ex)
+                if len(kw_list) >= 15:
+                    break
+        data['keywords'] = ', '.join(kw_list[:21])
         
         # Validation: Check if title is present in all fields
         def validate_title_in_content(data, title_en):

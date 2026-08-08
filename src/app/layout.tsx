@@ -30,10 +30,55 @@ const tajawalStatic = Tajawal({
 });
 
 export const metadata: Metadata = {
-  title: "Tomito |توميتو مشاهدة وتحميل الأفلام والمسلسلات مترجمة بجودة 4K بدون إعلانات",
+  title: "Tomito | توميتو مشاهدة وتحميل الأفلام والمسلسلات مترجمة بجودة 4K بدون إعلانات",
   description: "أفضل موقع لمشاهدة وتحميل الأفلام والمسلسلات الحصرية بجودة عالية وبدون إعلانات.",
   icons: {
     icon: "/favicon.ico",
+    apple: "/favicon.ico",
+    other: [
+      { rel: "msapplication-TileImage", url: "/favicon.ico" },
+    ],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+  alternates: {
+    canonical: "https://tomito.xyz",
+  },
+  openGraph: {
+    siteName: "TOMITO",
+    locale: "ar_SA",
+    type: "website",
+    url: "https://tomito.xyz",
+    title: "Tomito | توميتو – مشاهدة أفلام ومسلسلات مترجمة 4K بدون إعلانات",
+    description: "أفضل موقع لمشاهدة وتحميل الأفلام والمسلسلات الحصرية بجودة عالية وبدون إعلانات.",
+    images: [{ url: "https://tomito.xyz/og-default.jpg", width: 1200, height: 630, alt: "Tomito" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@tomito_xyz",
+    creator: "@tomito_xyz",
+    title: "Tomito | توميتو – مشاهدة أفلام ومسلسلات مترجمة 4K بدون إعلانات",
+    description: "أفضل موقع لمشاهدة وتحميل الأفلام والمسلسلات الحصرية بجودة عالية وبدون إعلانات.",
+    images: ["https://tomito.xyz/og-default.jpg"],
+  },
+  other: {
+    "Content-Language": "ar",
+    "rating": "General",
+    "revisit-after": "3 days",
+    "msapplication-TileColor": "#000000",
+    "apple-mobile-web-app-capable": "yes",
+    "apple-mobile-web-app-status-bar-style": "black-translucent",
+    "apple-mobile-web-app-title": "TOMITO",
+    "resource-type": "document",
+    "Cache-Control": "max-age=3600, must-revalidate",
   },
 };
 
