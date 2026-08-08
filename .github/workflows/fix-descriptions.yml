@@ -4,8 +4,8 @@
 name: Fix Short Descriptions Bot
 
 on:
-  schedule:
-    - cron: '*/20 * * * *'
+  # schedule:
+  #   - cron: '*/20 * * * *'
   workflow_dispatch:
 
 permissions:
