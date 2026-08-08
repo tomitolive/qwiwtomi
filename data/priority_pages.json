@@ -1,46 +1,107 @@
 {
   "priority_pages": [
     {
-      "tmdb_id": 311731,
+      "tmdb_id": 4018,
       "media_type": "tv",
-      "slug": "monsters-of-god"
+      "slug": "quantum-leap"
     },
     {
-      "tmdb_id": 284753,
+      "tmdb_id": 18305,
+      "media_type": "movie",
+      "slug": "2"
+    },
+    {
+      "tmdb_id": 43982,
+      "media_type": "movie",
+      "slug": "line-of-duty"
+    },
+    {
+      "tmdb_id": 1456349,
+      "media_type": "movie",
+      "slug": "un-simple-accident"
+    },
+    {
+      "tmdb_id": 1322752,
+      "media_type": "movie",
+      "slug": "colorful-stage-the-movie-a-miku-who-cant sing"
+    },
+    {
+      "tmdb_id": 19530,
       "media_type": "tv",
-      "slug": "operation-safed-sagar"
+      "slug": "pili"
     },
     {
-      "tmdb_id": 45768,
+      "tmdb_id": 202555,
+      "media_type": "movie",
+      "slug": "the-little-mermaid"
+    },
+    {
+      "tmdb_id": 41727,
       "media_type": "tv",
-      "slug": "mais-voc"
+      "slug": "the-adventures-of-superman"
     },
     {
-      "tmdb_id": 1719380,
+      "tmdb_id": 211387,
       "media_type": "movie",
-      "slug": "no-way-home"
+      "slug": "the-adventures-of-tintin"
     },
     {
-      "tmdb_id": 1525963,
-      "media_type": "movie",
-      "slug": "debtors-wife"
+      "tmdb_id": 514754,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
     },
     {
-      "tmdb_id": 134764,
+      "tmdb_id": 202998,
       "media_type": "movie",
-      "slug": "the-world-of-hammer"
+      "slug": "the-adventures-of-tintin"
     },
     {
-      "tmdb_id": 13436,
+      "tmdb_id": 1396965,
       "media_type": "movie",
-      "slug": "roots-the-next-generations"
+      "slug": "the-adventures-of-tintin"
     },
     {
-      "tmdb_id": 230923,
+      "tmdb_id": 1429348,
       "media_type": "movie",
-      "slug": "lovely-runner"
+      "slug": "the-adventures-of-tintin"
+    },
+    {
+      "tmdb_id": 34891,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
+    },
+    {
+      "tmdb_id": 206559,
+      "media_type": "movie",
+      "slug": "the-adventures-of-tintin"
+    },
+    {
+      "tmdb_id": 605,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
+    },
+    {
+      "tmdb_id": 223397,
+      "media_type": "movie",
+      "slug": "the-adventures-of-tintin"
+    },
+    {
+      "tmdb_id": 2343,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
+    },
+    {
+      "tmdb_id": 67395,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
+    },
+    {
+      "tmdb_id": 47318,
+      "media_type": "tv",
+      "slug": "the-adventures-of-superman"
     }
   ],
-  "created_at": "2026-08-08T23:36:00Z",
-  "total_priority": 8
+  "created_at": "2026-08-09T00:20:00Z",
+  "total_priority": 20,
+  "reason": "Pages with non-Arabic/English characters to be re-processed - batch 3"
 }

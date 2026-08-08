@@ -4,13 +4,22 @@
   "title_ar": "Debtors Wife",
   "title_en": "Debtors Wife",
   "slug": "1525963-debtors-wife",
-  "overview": "استمتع بمشاهدة فيلم Debtors Wife مترجم بجودة عالية.",
+  "overview": "تدور قصة فيلم Debtors Wife حول صديقتين جامعيتين عالقتين في مثلث حب معقد: سو-يونغ تحب تشي-مو، لكن تشي-مو يحب هي-سو. وفي الوقت نفسه، هي-سو تحب داي-إن، لكن داي-إن يحب سو-يونغ. على الرغم من العلاقات المختلطة، يحاول الأصدقاء الثلاثة فهم مشاعرهم الحقيقية والتعامل مع تعقيدات الحب والصداقة في حياتهم الجامعية.",
   "poster_path": "/ouXTrnJBimHIhWIUlHARDJH47no.jpg",
   "backdrop_path": null,
   "release_date": "2024-12-26",
   "vote_average": 7.0,
   "vote_count": 10,
-  "genres": [],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
   "ai_content": {
     "intro": "استمتع بمشاهدة فيلم Debtors Wife (2024) مترجم بجودة عالية على توميتو.",
     "desc_ar": "استمتع بمشاهدة فيلم Debtors Wife مترجم بجودة عالية.",

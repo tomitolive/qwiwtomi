@@ -9,7 +9,7 @@
   "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
   "release_date": "2023-04-05",
   "vote_average": 7.6,
-  "vote_count": 10735,
+  "vote_count": 10987,
   "genres": [
     {
       "id": 10751,
@@ -33,26 +33,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متاهة تحت الأرض، يلتقي ماريو ولو이지 بجموع من الخصومات والمرحلات، في رحلة مليئة بالمرح والفантаジア، حيث يتعاونان لإنقاذ أميرة تم أسرها، في هذه الرحلة الخارقة التي ستغير كل شيء.",
-    "desc_en": "In a world beneath the earth, Mario and Luigi encounter a multitude of challenges and adventures, as they team up to rescue a princess held captive, in this thrilling journey that will change everything.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الأخوان ماريو الخارقان!",
-    "seo_title_ar": "مشاهدة فيلم الأخوان ماريو الخارقان مترجم اون لاين - توميتو",
-    "keywords": "The Super Mario Bros. Movie, فيلم الأخوان ماريو الخارقان مترجم, مشاهدة فيلم الأخوان ماريو الخارقان, رسوم متحركة عائلي كوميديا مغامرة فانتازيا, مشاهدة فيلم الأخوان ماريو الخارقان 2023, توميتو فيلم الأخوان ماريو الخارقان, أحداث فيلم الأخوان ماريو الخارقان بالتفصيل, قصة فيلم فيلم الأخوان ماريو الخارقان",
-    "opinion": "هو فيلم خارق، مليء بالمرح والفантаジア، حيث يتعاون الأخوان ماريو ولو이지 لإنقاذ أميرة تم أسرها، في هذه الرحلة الخارقة التي ستغير كل شيء.",
+    "intro": "استمتع بمشاهدة فيلم فيلم الأخوان ماريو الخارقان (2023) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يسافر سباك يدعى ماريو عبر متاهة تحت الأرض مع شقيقه لويجي ، في محاولة لإنقاذ أميرة تم أسرها.",
+    "desc_en": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "seo_title_ar": "مشاهدة فيلم The Super Mario Bros. Movie مترجم - توميتو",
+    "meta_desc": "مشاهدة فيلم الأخوان ماريو الخارقان مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "شاهد فيلم الأخوان ماريو الخارقان الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم الأخوان ماريو الخارقان؟",
-        "a": "هو فيلم رسوم متحركة عائلي كوميديا مغامرة فانتازيا، يروي قصة الأخوان ماريو ولو이지 في رحلة لإنقاذ أميرة تم أسرها."
+        "q": "كيف يمكنني مشاهدة فيلم فيلم الأخوان ماريو الخارقان?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Super Mario Bros. Movie?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم الأخوان ماريو الخارقان؟",
-        "a": "هو فيلم رسوم متحركة، يحتوي على عناصر عائلي كوميديا مغامرة فانتازيا."
+        "q": "ما هو تصنيف فيلم فيلم الأخوان ماريو الخارقان?",
+        "a": "يندرج العمل تحت تصنيف عائلي, كوميديا, مغامرة, فانتازيا, رسوم متحركة.",
+        "q_en": "What is the genre of The Super Mario Bros. Movie?",
+        "a_en": "It falls under the genre of عائلي, كوميديا, مغامرة, فانتازيا, رسوم متحركة."
       },
       {
-        "q": "ما هو أفضل ما في فيلم الأخوان ماريو الخارقان؟",
-        "a": "هو فيلم مليء بالمرح والفантаジア، حيث يتعاون الأخوان ماريو ولو이지 لإنقاذ أميرة تم أسرها، في هذه الرحلة الخارقة التي ستغير كل شيء."
+        "q": "ما هي قصة فيلم فيلم الأخوان ماريو الخارقان?",
+        "a": "يسافر سباك يدعى ماريو عبر متاهة تحت الأرض مع شقيقه لويجي ، في محاولة لإنقاذ أميرة تم أسرها.",
+        "q_en": "What is the story of The Super Mario Bros. Movie?",
+        "a_en": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are sepa..."
       }
-    ]
+    ],
+    "keywords": "فيلم الأخوان ماريو الخارقان مترجم, The Super Mario Bros. Movie مترجم, مشاهدة فيلم الأخوان ماريو الخارقان,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -60,5 +69,5 @@
   "duration": "93 دقيقة",
   "language": "الإنجليزية",
   "country": "اليابان",
-  "cast": "Chris Pratt Anya Taylor-Joy Charlie Day Jack Black Keegan-Michael Key"
+  "cast": "Chris Pratt Anya Taylor-Joy Charlie Day Jack Black Keegan-Michael Key Seth Rogen Fred Armisen Sebastian Maniscalco"
 }

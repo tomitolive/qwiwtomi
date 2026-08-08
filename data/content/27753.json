@@ -4,9 +4,7 @@
   "title_ar": "Toshiie and Matsu",
   "title_en": "Toshiie and Matsu",
   "slug": "27753-toshiie-and-matsu",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يشكل مسلسل Toshiie Matsu الجزء الأربعين من مسلسلات NHK Taiga Drama. يروي قصة حياة Maeda Toshiie، الذي ترقى إلى ثاني قوة في شوغونات يابانية خلال العصر المتورم للوarring States. مع حكمة سياسية و دعم زوجته المخلصة، بنى Toshiie ملكية كبيرة تغطي إيشيزين، نوتو وكاجا. يعتبر هذا المسلسل من العصور الجريئة، حيث يرتبط حياة Toshiie مع ثلاثة من القادة الكبار في تاريخ اليابان - نوبوناغا، هيدويوشي، وإيياسو.",
   "poster_path": "/kJw06ypEU55G2zJW1uM5m8py8J8.jpg",
   "backdrop_path": "/kaOtpGB73anOzMzlIkVRN0NHq9K.jpg",
   "release_date": "2002-01-06",
@@ -19,35 +17,36 @@
     }
   ],
   "ai_content": {
-    "intro": "ما وراء قصة حب عظيمة، يخفي شتاء حار أسرار وأخطار غير مرئية..",
-    "desc_ar": "يتصلا توشييي الإقطاعي والماцу الرعوي في هذه الدراما التاريخية، حيث يتعاملان مع التحديات والخلافات التي تهددهم في إقليم إيدو في القرن 17. سوف نرى كيف يتعاملون مع الأزمات والصعوبات التي تهددهم في هذه الدراما التاريخية.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث دراما توشييي والماцу التاريخية!",
-    "seo_title_ar": "مشاهدة فيلم توشييي والماцу مترجم اون لاين - توميتو",
-    "outro": "أنيق جداً، وغني بالتوازن بين الحب والقتال. إذا كنت ترى أحد الأفلام اليابانية القديمة، فهذا هو فيلمك.",
-    "opinion": "هذه الدراما التاريخية هي إحدى أفضل ما عرضه التلفزيون الياباني، حيث يتعامل توشييي والماцу مع التحديات والخلافات التي تهددهم في إقليم إيدو في القرن 17. سوف نرى كيف يتعاملون مع الأزمات والصعوبات التي تهددهم في هذه الدراما التاريخية.",
+    "intro": "يروي مسلسل Toshiie and Matsu قصة حياة Maeda Toshiie، الذي ترقى إلى ثاني قوة في شوغونات يابانية خلال العصر المتورم للوarring States.",
+    "desc_ar": "يشكل مسلسل Toshiie Matsu الجزء الأربعين من مسلسلات NHK Taiga Drama. يروي قصة حياة Maeda Toshiie، الذي ترقى إلى ثاني قوة في شوغونات يابانية خلال العصر المتورم للوarring States. مع حكمة سياسية و دعم زوجته المخلصة، بنى Toshiie ملكية كبيرة تغطي إيشيزين، نوتو وكاجا. يعتبر هذا المسلسل من العصور الجريئة، حيث يرتبط حياة Toshiie مع ثلاثة من القادة الكبار في تاريخ اليابان - نوبوناغا، هيدويوشي، وإيياسو.",
+    "desc_en": "Toshiie and Matsu is the 41st NHK Taiga Drama. It tells the story of Maeda Toshiie, who rose to second in power in the shogunate during the turbulent Warring States Era. With political savvy and the support of his fiercely loyal wife, Toshiie built a large fiefdom that encompassed Echizen, Noto, and Kaga. This drama is a gripping portrayal of the Warring States Era, where Toshiie's life was intertwined with the three great generals of Japanese history - Nobunaga, Hideyoshi, and Ieyasu.",
+    "seo_title_ar": "Toshiie Matsu مسلسل درامي ياباني مترجم - توميتو",
+    "meta_desc": "Toshiie Matsu مسلسل درامي ياباني مترجم، تلاقي قصة حياة Maeda Toshiie مع ثلاثة من القادة الكبار في تاريخ اليابان - نوبوناغا، هيدويوشي، وإيياسو. يعتبر هذا ال",
+    "outro": "استمتع بمشاهدة Toshiie and Matsu مسلسل درامي ياباني مترجم، بدون إعلانات مزعجة.",
+    "opinion_ar": "يعد Toshiie Matsu مسلسلًا دراميًا رائعًا يروي قصة حياة Maeda Toshiie مع ثلاثة من القادة الكبار في تاريخ اليابان - نوبوناغا، هيدويوشي، وإيياسو.",
+    "opinion_en": "Toshiie and Matsu is a gripping drama that tells the story of Maeda Toshiie's life and career intertwined with the three great generals of Japanese history - Nobunaga, Hideyoshi, and Ieyasu.",
     "faq": [
       {
-        "q": "ما هو قصة دراما توشييي والماцу؟",
-        "a": "يتصلا توشييي الإقطاعي والماцу الرعوي في هذه الدراما التاريخية، حيث يتعاملان مع التحديات والخلافات التي تهددهم في إقليم إيدو في القرن 17."
+        "q": "ما هو اسم المسلسل؟",
+        "a": "Toshiie Matsu",
+        "q_en": "What is the title of the drama?",
+        "a_en": "Toshiie and Matsu"
       },
       {
-        "q": "ما هو نوع دراما توشييي والماцу؟",
-        "a": "هذه الدراما هي دراما تاريخية يابانية."
-      },
-      {
-        "q": "ما هو أفضل ما في دراما توشييي والماцу؟",
-        "a": "هذه الدراما التاريخية هي إحدى أفضل ما عرضه التلفزيون الياباني، حيث يتعامل توشييي والماцу مع التحديات والخلافات التي تهددهم في إقليم إيدو في القرن 17."
+        "q": "من هو الفيلم؟",
+        "a": "مايدا توشيي",
+        "q_en": "Who is the main character?",
+        "a_en": "Maeda Toshiie"
       }
     ],
-    "keywords": "فيلم دراما توشييي والماцу, مشاهدة فيلم دراما, Toshiie and Matsu مترجم كامل, أحداث Toshiie and Matsu بالتفصيل, مشاهدة Toshiie and Matsu 2002, قصة مسلسل Toshiie and Matsu, توميتو Toshiie and Matsu",
-    "desc_en": "Toshiie and Matsu, two high-ranking samurai, navigate the challenges and conflicts that threaten their domain in 17th-century Edo. We'll see how they cope with the crises and difficulties that beset them in this historical drama."
+    "keywords": "Toshiie Matsu, مسلسل درامي, ياباني, مترجم, توميتو, دراما, قصة حياة, Maeda Toshiie, نوبوناغا, هيدويوشي, إيياسو, مشاهدة Toshiie Matsu, Toshiie Matsu مترجم, تحميل Toshiie Matsu, Toshiie Matsu اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2002-01-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Phoebe Dollar Erica Howard Kaycee Brandon Ellison Brannon Gould"
+  "duration": "60 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Toshiaki Karasawa Nanako Matsushima Yutaka Takenouchi Yuichiro Yamaguchi Takashi Sorimachi Yuki Amami Mitsuhiro Oikawa Noriko Sakai",
+  "first_air_date": "2002-01-06"
 }
