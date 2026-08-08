@@ -2471,8 +2471,50 @@
       "file": "90462.json",
       "title": "تشاكي",
       "fixed_at": "2026-08-08T22:07:01.250711"
+    },
+    {
+      "tmdb_id": "798645",
+      "file": "798645.json",
+      "title": "The Running Man",
+      "fixed_at": "2026-08-08T22:44:47.069887"
+    },
+    {
+      "tmdb_id": "2612",
+      "file": "2612.json",
+      "title": "Deadliest Catch",
+      "fixed_at": "2026-08-08T22:44:58.064351"
+    },
+    {
+      "tmdb_id": "1101412",
+      "file": "1101412.json",
+      "title": "Fall 2: Deadpoint",
+      "fixed_at": "2026-08-08T22:45:09.129788"
+    },
+    {
+      "tmdb_id": "1084187",
+      "file": "1084187.json",
+      "title": "بالغ الخطورة",
+      "fixed_at": "2026-08-08T22:45:44.104321"
+    },
+    {
+      "tmdb_id": "2228",
+      "file": "2228.json",
+      "title": "بينكي وبرين",
+      "fixed_at": "2026-08-08T22:45:51.714861"
+    },
+    {
+      "tmdb_id": "1404604",
+      "file": "1404604.json",
+      "title": "Compostelle",
+      "fixed_at": "2026-08-08T22:46:19.173946"
+    },
+    {
+      "tmdb_id": "297762",
+      "file": "297762.json",
+      "title": "المرأة الأعجوبة",
+      "fixed_at": "2026-08-08T22:46:27.376680"
     }
   ],
-  "last_updated": "2026-08-08T22:07:03.253396",
-  "total_fixed": 412
+  "last_updated": "2026-08-08T22:46:29.379601",
+  "total_fixed": 419
 }
