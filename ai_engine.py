@@ -138,9 +138,13 @@ def clean_arabic_text(text):
     cleaned = re.sub(r'\b[A-Z](?![a-zA-Z])\b', '', cleaned)
     
     # STRICT RULE: Remove ALL characters that are NOT Arabic, English, Digits, or common punctuation
-    # This blocks Hindi (Devanagari), Chinese, Japanese, Cyrillic, etc.
+    # This blocks Hindi (Devanagari), Chinese, Japanese, Cyrillic, Greek, etc.
     strict_pattern = r'[^a-zA-Z0-9\s\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\.\,!\?؟،:\-\(\)\"\'/\\&%]'
     cleaned = re.sub(strict_pattern, '', cleaned)
+    
+    # Additional blocking for Hindi (Devanagari) - U+0900-U+097F
+    hindi_pattern = r'[\u0900-\u097F]'
+    cleaned = re.sub(hindi_pattern, '', cleaned)
     
     # Add back proper names if they were somehow stripped
     for name in proper_names:

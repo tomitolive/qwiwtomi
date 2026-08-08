@@ -4,14 +4,12 @@
   "title_ar": "أبناء الفوضى",
   "title_en": "Sons of Anarchy",
   "slug": "1409-sons-of-anarchy",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "رجل في الثلاثينات يحاول إيجاد نوع من التوازن في حياته، كونه أب جديد وأحد أعضاء نادي الدراجات البخارية (سام كرو).",
-  "poster_path": "/bSgNgqluprEoFezfWgN08bBQ53Y.jpg",
+  "poster_path": "/wvZvkPv1BZW9muE6hIo19JTqGSn.jpg",
   "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
   "release_date": "2008-09-03",
   "vote_average": 8.4,
-  "vote_count": 3252,
+  "vote_count": 3341,
   "genres": [
     {
       "id": 80,
@@ -23,21 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "رجل في الثلاثينات يحاول إيجاد نوع من التوازن في حياته، كونه أب جديد وأحد أعضاء نادي الدراجات البخارية (سام كرو).",
-    "desc_en": "رجل في الثلاثينات يحاول إيجاد نوع من التوازن في حياته، كونه أب جديد وأحد أعضاء نادي الدراجات البخارية (سام كرو).",
-    "meta_desc": "مشاهدة أبناء الفوضى مترجم بجودة عالية على توميتو.",
-    "keywords": "Sons of Anarchy, مشاهدة أبناء الفوضى 2026, أبناء الفوضى مترجم, توميتو أبناء الفوضى, فيلم 7dogs, فيلم السادة الافاضل, مشاهدة فيلم kingsman, فيلم ام كلثوم, ايرادات فيلم برشامه, فيلم ٧ كلاب, فيلم برشامة سينما فوكس, ايرادات فيلم 7 dogs, مونيكا بيلوتشي, ابطال فيلم 7 dogs, فيلم برشامة يانغو بلاي, فيلم اشاعة حب, ابطال فيلم برشامة, فيلم اسد محمد رمضان dailymotion, 7 dogs, 7 dogs فيلم, فيلم سفن دوجز, فيلم درويش, فيلم الكلام علي ايه, فيلم الرسالة, أحداث أبناء الفوضى بالتفصيل, قصة فيلم أبناء الفوضى",
-    "seo_title_ar": "مشاهدة أبناء الفوضى مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة.",
-    "intro": "",
-    "outro": ""
+    "intro": "يحكي مسلسل أبناء الفوضى قصة نادي الدراجات البخارية السرّي SAMCRO، الذي يدير أعمالاً قانونية و غير قانونية في بلدة تشارمينغ، كاليفورنيا.",
+    "desc_ar": "يحكي مسلسل أبناء الفوضى قصة نادي الدراجات البخارية السرّي SAMCRO، الذي يدير أعمالاً قانونية و غير قانونية في بلدة تشارمينغ، كاليفورنيا. يعتبر النادي، الذي يرأسه كلاي، مصدر إزعاج لسلطات القانون، في حين يريد جاكس، نائب الرئيس والابن غير الشرعي لكلاي، تغيير طريقة العمل وتنظيف سمعة النادي. تتشابك مسيرات جاكس ووالده، خاصةً عندما يقرر جاكس القيام برحلة شخصية لتنظيف سمعة SAMCRO وسمعته.",
+    "desc_en": "The Sons of Anarchy are an outlaw motorcycle club with many charters in the United States and overseas. The show focuses on the original and founding charter, Sons of Anarchy Motorcycle Club, Redwood Original, often referred to by the acronym SAMCRO, Sam Crow, or simply Redwood Charter. The charter operates both legal and illegal businesses in the small town of Charming, California. They combine gun-running and a garage, and involvement in porn film industry. Clay, the charter president, likes it old school and violent while Jax, his stepson and the club's VP, has thoughts about changing the way things are done.",
+    "seo_title_ar": "مشاهدة مسلسل أبناء الفوضى مترجم - توميتو",
+    "meta_desc": "أبناء الفوضى مسلسل جريمة ودراما يتبع قصة نادي الدراجات البخارية السري SAMCRO في بلدة تشارمينغ، كاليفورنيا. يتعامل النادي مع أعمال قانونية وغر قانونية، مم",
+    "outro": "يتابع مسلسل أبناء الفوضى قصة النادي و شخصياته الرئيسية، مما يؤدي إلى صراع داخلي بين أعضائه وتصرفاتهم المتعددة.",
+    "opinion_ar": "يُعتبر مسلسل أبناء الفوضى من أفضل المسلسلات الجريمة والدراما، حيث يقدم قصة معقدة وملفتة للمشاهد.",
+    "opinion_en": "The Sons of Anarchy is one of the best crime and drama series, as it offers a complex and engaging story.",
+    "faq": [
+      {
+        "q": "ما هي قصة مسلسل أبناء الفوضى؟",
+        "a": "يحكي مسلسل أبناء الفوضى قصة نادي الدراجات البخارية السرّي SAMCRO، الذي يدير أعمالاً قانونية و غير قانونية في بلدة تشارمينغ، كاليفورنيا.",
+        "q_en": "What is the story of Sons of Anarchy?",
+        "a_en": "The Sons of Anarchy is a story about an outlaw motorcycle club, SAMCRO, that operates both legal and illegal businesses in the small town of Charming, California."
+      },
+      {
+        "q": "من هم الشخصيات الرئيسية في مسلسل أبناء الفوضى؟",
+        "a": "شخصيات الرئيسية في مسلسل أبناء الفوضى هم كلاي و جاكس، حيث يتعاملون مع صراع داخلي نتيجة لتفاعلهما مع أعمال النادي.",
+        "q_en": "Who are the main characters in Sons of Anarchy?",
+        "a_en": "The main characters in Sons of Anarchy are Clay and Jax, as they deal with internal conflict due to their interaction with the club's business."
+      }
+    ],
+    "keywords": "أبناء الفوضى, مسلسل جريمة, دراما, نادي الدراجات البخارية, SAMCRO, كلاي, جاكس, تشارمينغ, كاليفورنيا, مشاهدة أبناء الفوضى, Sons Anarchy مترجم, تحميل أبناء الفوضى, أبناء الفوضى اون لاين, Sons Anarchy, أبناء الفوضى جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2008-09-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Charlie Hunnam Katey Sagal Tommy Flanagan Mark Boone Junior Kim Coates Theo Rossi Dayton Callie David Labrava",
+  "first_air_date": "2008-09-03"
 }

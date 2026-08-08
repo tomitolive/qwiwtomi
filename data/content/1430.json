@@ -1,46 +1,55 @@
 {
   "id": 1430,
-  "title": "Cosmos: A Personal Voyage",
-  "title_ar": "Cosmos: A Personal Voyage",
-  "title_en": "Cosmos: A Personal Voyage",
-  "slug": "1430-cosmos-a-personal-voyage",
-  "overview": "يأخذنا \"الكون: رحلة شخصية\" في رحلة استثنائية مع كارل ساغان لاستكشاف الكون. يغطي المسلسل الوثائقي مجموعة واسعة من المواضيع العلمية، بدءًا من أصل الحياة وحتى منظورنا عن مكاننا في الكون. \"Cosmos:  Personal Voyage\" هو رحلة شخصية ومثيرة للإعجاب.",
-  "poster_path": "/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
-  "backdrop_path": "/hjJ5XDKP7XY2ADUuMdHM5NsC32s.jpg",
-  "release_date": "1980-09-28",
-  "vote_average": 8.7,
-  "vote_count": 443,
+  "title": "Bowling for Columbine",
+  "title_ar": "Bowling for Columbine",
+  "title_en": "Bowling for Columbine",
+  "slug": "1430-bowling-for-columbine",
+  "overview": "يسعدنا أن نقدم لك فيلمًا معقدًا ومثيرًا، يشرح لنا المشهد الفضول والقلق في قلب الولايات المتحدة الأمريكية. يبدأ الفيلم من تلسكوب الأمن في مدرسة كولومبين الثانوية، ويصل إلى منزل الرئيس الحائز على جائزة الأوسكار لمنظمة رابطة الشرطة الوطنية، تشارلتون هيستون. يروي الفيلم قصة شاب يصنع في المنزل باستخدام كتاب أناركي، وينهي بجريمة قتل طفلة عمرها ست سنوات بيد طفل عمره ست سنوات. هذا الفيلم هو رحلة إلى الولايات المتحدة الأمريكية، عبر الماضي، تسعى إلى الكشف عن السبب في حياتنا المليئة بالسعادة ولكنها تتعرض للافعال العنيفة.",
+  "poster_path": "/4XsiTsZcNCRSkee1o0fdr5OqYRT.jpg",
+  "backdrop_path": "/70uUnpfe7en9x011UjpZoub101l.jpg",
+  "release_date": "2002-10-09",
+  "vote_average": 7.5,
+  "vote_count": 1712,
   "genres": [
     {
       "id": 99,
       "name": "وثائقي"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Cosmos: A Personal Voyage (1980) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يأخذنا \"الكون: رحلة شخصية\" في رحلة استثنائية مع كارل ساغان لاستكشاف الكون. يغطي المسلسل الوثائقي مجموعة واسعة من المواضيع العلمية، بدءًا من أصل الحياة وحتى منظورنا عن مكاننا في الكون. \"Cosmos:  Personal Voyage\" هو رحلة شخصية ومثيرة للإعجاب.",
-    "desc_en": "Cosmos: A Personal Voyage is an extraordinary journey with Carl Sagan. The documentary series covers a vast array of scientific subjects, from the origin of life to our perspective of the universe. It's an immersive and captivating personal voyage.",
-    "seo_title_ar": "مشاهدة مسلسل الكون: رحلة شخصية Cosmos: Personal Voyage مترجم - توميتو",
-    "meta_desc": "مشاهدة الكون: رحلة شخصية مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Cosmos: A Personal Voyage الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "\"الكون: رحلة شخصية\" هو عمل رائع يجمع بين العلم والرواية الشيقة. كارل ساغان يقدم لنا رحلة لا تُنسى في الكون.",
-    "opinion_en": "Cosmos: A Personal Voyage is a masterpiece. Carl Sagan's narrative style and scientific expertise make it an immersive and educational experience.",
+    "intro": "يسعدنا أن نقدم لك فيلمًا معقدًا ومثيرًا، يشرح لنا المشهد الفضول والقلق في قلب الولايات المتحدة الأمريكية.",
+    "desc_ar": "يسعدنا أن نقدم لك فيلمًا معقدًا ومثيرًا، يشرح لنا المشهد الفضول والقلق في قلب الولايات المتحدة الأمريكية. يبدأ الفيلم من تلسكوب الأمن في مدرسة كولومبين الثانوية، ويصل إلى منزل الرئيس الحائز على جائزة الأوسكار لمنظمة رابطة الشرطة الوطنية، تشارلتون هيستون. يروي الفيلم قصة شاب يصنع في المنزل باستخدام كتاب أناركي، وينهي بجريمة قتل طفلة عمرها ست سنوات بيد طفل عمره ست سنوات. هذا الفيلم هو رحلة إلى الولايات المتحدة الأمريكية، عبر الماضي، تسعى إلى الكشف عن السبب في حياتنا المليئة بالسعادة ولكنها تتعرض للافعال العنيفة.",
+    "desc_en": "This is not a film about gun control. It is a film about the fearful heart and soul of the United States, and the 280 million Americans lucky enough to have the right to a constitutionally protected Uzi. From a look at the Columbine High School security camera tapes to the home of Oscar-winning NRA President Charlton Heston, from a young man who makes homemade napalm with The Anarchist's Cookbook to the murder of a six-year-old girl by another six-year-old. Bowling for Columbine is a journey through the US, through our past, hoping to discover why our pursuit of happiness is so riddled with violence.",
+    "seo_title_ar": "مشاهدة فيلم Bowling Columbine مترجم - توميتو",
+    "meta_desc": "Bowling Columbine, فيلم وثائقي درامي عن الولايات المتحدة الأمريكية المليئة بالسعادة والعنف, استمتع بمشاهدته بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "نأمل أن تجد هذا الفيلم تجربة فريدة للعيش مع الولايات المتحدة الأمريكية.",
+    "opinion_ar": "فيلم Bowling Columbine هو تجربة فريدة للعيش مع الولايات المتحدة الأمريكية، حيث نجد الحياة المليئة بالسعادة والعنف.",
+    "opinion_en": "Bowling for Columbine is a unique experience of living with the United States, where we find a life full of happiness and violence.",
     "faq": [
       {
-        "q": "ما هو \"الكون: رحلة شخصية\"؟",
-        "a": "مسلسل وثائقي يقدمه كارل ساغان ويستكشف فيه الكون والمواضيع العلمية المختلفة.",
-        "q_en": "What is Cosmos: A Personal Voyage?",
-        "a_en": "It's a documentary series hosted by Carl Sagan, exploring the cosmos and various scientific topics."
+        "q": "ما هو فيلم Bowling Columbine؟",
+        "a": "هو فيلم وثائقي درامي يشرح لنا المشهد الفضول والقلق في قلب الولايات المتحدة الأمريكية.",
+        "q_en": "What is Bowling for Columbine?",
+        "a_en": "It is a documentary drama film that explains to us the fearful heart and soul of the United States."
+      },
+      {
+        "q": "من يرأس منظمة رابطة الشرطة الوطنية؟",
+        "a": "يقع المنزل الرئيسي لمنظمة رابطة الشرطة الوطنية في منزل تشارلتون هيستون.",
+        "q_en": "Who is the president of the NRA?",
+        "a_en": "The home of Charlton Heston is the main office of the NRA."
       }
     ],
-    "keywords": "Cosmos, Personal Voyage, الكون, رحلة شخصية, كارل ساغان, وثائقي, علم, كون, أصل الحياة, الكون, رحلة, شخصي"
+    "keywords": "فيلم Bowling Columbine, وثائقي, دراما, الولايات المتحدة الأمريكية, السعادة, العنف, Charlton Heston, NRA, Columbine High School, مشاهدة Bowling Columbine, Bowling Columbine مترجم, تحميل Bowling Columbine, Bowling Columbine اون لاين, Bowling Columbine, Bowling Columbine جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "60 دقيقة",
+  "duration": "120 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Carl Sagan",
-  "first_air_date": "1980-09-28"
+  "country": "كندا",
+  "cast": "Michael Moore George H. W. Bush George W. Bush Charlton Heston Jacobo Árbenz Mike Bradley Dick Clark Arthur A. Busch"
 }
