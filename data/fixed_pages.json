@@ -2621,8 +2621,50 @@
       "file": "1246049.json",
       "title": "Dracula",
       "fixed_at": "2026-08-09T00:19:47.744827"
+    },
+    {
+      "tmdb_id": "4018",
+      "file": "4018.json",
+      "title": "Quantum Leap",
+      "fixed_at": "2026-08-09T00:29:55.571093"
+    },
+    {
+      "tmdb_id": "18305",
+      "file": "18305.json",
+      "title": "2",
+      "fixed_at": "2026-08-09T00:30:08.720164"
+    },
+    {
+      "tmdb_id": "43982",
+      "file": "43982.json",
+      "title": "خط الواجب",
+      "fixed_at": "2026-08-09T00:30:18.624027"
+    },
+    {
+      "tmdb_id": "1456349",
+      "file": "1456349.json",
+      "title": "Un simple accident",
+      "fixed_at": "2026-08-09T00:30:29.016227"
+    },
+    {
+      "tmdb_id": "1322752",
+      "file": "1322752.json",
+      "title": "COLORFUL STAGE! The Movie: A Miku Who Cant Sing",
+      "fixed_at": "2026-08-09T00:31:10.257987"
+    },
+    {
+      "tmdb_id": "19530",
+      "file": "19530.json",
+      "title": "Pili",
+      "fixed_at": "2026-08-09T00:32:22.111253"
+    },
+    {
+      "tmdb_id": "202555",
+      "file": "202555.json",
+      "title": "ديرديفل: يولد من جديد",
+      "fixed_at": "2026-08-09T00:32:34.785877"
     }
   ],
-  "last_updated": "2026-08-09T00:19:49.749006",
-  "total_fixed": 437
+  "last_updated": "2026-08-09T00:32:36.802957",
+  "total_fixed": 444
 }

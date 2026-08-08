@@ -129,6 +129,13 @@ def clean_arabic_text(text):
     """Remove non-Arabic characters from Arabic text fields, but preserve English proper names."""
     if not text:
         return text
+    # Fix common typos before cleaning
+    typo_corrections = {
+        'ARGIL': 'كارجيل',
+    }
+    for typo, correction in typo_corrections.items():
+        text = text.replace(typo, correction)
+    
     # First, preserve proper names (capitalized English words)
     # This keeps titles like "Star City", "For All Mankind" etc.
     proper_names = re.findall(r'\b[A-Z][a-zA-Z]+\b', text)
@@ -170,6 +177,47 @@ def clean_english_text(text):
     strict_pattern = r'[^a-zA-Z0-9\s\.\,!\?:\-\(\)\"\'/\\&%]'
     cleaned = re.sub(strict_pattern, '', text)
     return re.sub(r'\s+', ' ', cleaned).strip()
+
+def validate_arabic_quality(text):
+    """التحقق من جودة النص العربي المُولد."""
+    if not text or not isinstance(text, str):
+        return []
+    
+    issues = []
+    
+    # التحقق من الأخطاء المطبعية الشائعة في الأسماء الجغرافية والتاريخية
+    common_typos = {
+        'ARGIL': 'كارجيل',
+        'كارجيل': 'Kargil',
+    }
+    
+    for typo, correction in common_typos.items():
+        if typo in text:
+            issues.append(f"خطأ مطبعي: {typo} → {correction}")
+    
+    # التحقق من الصياغات الضعيفة
+    weak_phrases = [
+        'يصعد ... الأراضي',
+        'يأخذت ... مهمة',
+        'تأخذت ... مهمة',
+    ]
+    
+    for phrase in weak_phrases:
+        if phrase in text:
+            issues.append(f"صياغة ضعيفة: {phrase}")
+    
+    # التحقق من التكرار المفرط
+    words = text.split()
+    word_counts = {}
+    for word in words:
+        if len(word) > 3:  # تجاهل الكلمات القصيرة
+            word_counts[word] = word_counts.get(word, 0) + 1
+    
+    for word, count in word_counts.items():
+        if count > 3:
+            issues.append(f"تكرار مفرط: '{word}' ({count} مرات)")
+    
+    return issues
 
 # Country translation map
 COUNTRIES_MAP = {
@@ -944,7 +992,16 @@ CRITICAL INSTRUCTIONS:
 7. Keywords must NOT start with a comma.
 8. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided.
 9. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it.
-10. ABSOLUTELY FORBIDDEN: Do NOT copy the provided Arabic Story or English Story word-for-word. You MUST paraphrase, restructure, and rewrite the content in your own words while maintaining the same meaning."""
+10. ABSOLUTELY FORBIDDEN: Do NOT copy the provided Arabic Story or English Story word-for-word. You MUST paraphrase, restructure, and rewrite the content in your own words while maintaining the same meaning.
+
+QUALITY INSTRUCTIONS FOR ARABIC CONTENT:
+11. HOOK MUST BE STRONG: The first sentence of desc_ar MUST be compelling and grab attention immediately. Use powerful opening phrases like "يحكي هذا العمل قصة...", "تدور أحداث...", "في عالم مليء ب...", etc.
+12. AVOID TYPOS: Double-check all geographical and historical names. Use correct Arabic transliterations (e.g., "كارجيل" not "ARGIL", "الهند" not "India" in Arabic text).
+13. IMPROVE PHRASING: Use eloquent Arabic phrasing. Avoid weak constructions like "يصعد ... الأراضي" - use stronger alternatives like "ينطلق ... نحو الأراضي العدوة" or "تتحرك قوات ...".
+14. AVOID REPETITION: Do not repeat the same meaning multiple times. Each sentence should add new information or perspective.
+15. ADD DRAMATIC DETAILS: Include specific details like character names, equipment types, field challenges, or unique aspects of the story to make content more engaging.
+16. VARY SENTENCE STRUCTURE: Mix short and long sentences for better flow and readability.
+17. USE ACTIVE VOICE: Prefer active voice over passive voice for more engaging storytelling."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
