@@ -67108,5 +67108,45 @@
     ],
     "timestamp": 1786129197,
     "fixed": true
+  },
+  {
+    "title": "The World of Hammer / The World of Hammer",
+    "title_ar": "The World of Hammer",
+    "title_en": "The World of Hammer",
+    "slug": "134764-the-world-of-hammer",
+    "folder": "tv",
+    "poster": "/t/p/w500/hXuCwrKNsOfPzrDoSl8dj3eYw5i.jpg",
+    "rating": 6.8,
+    "year": "1994",
+    "type": "tv",
+    "tmdb_id": 134764,
+    "genre_ids": [
+      99
+    ],
+    "genres": [
+      "وثائقي"
+    ],
+    "timestamp": 1786152805,
+    "fixed": true
+  },
+  {
+    "title": "Roots: The Next Generations / Roots: The Next Generations",
+    "title_ar": "Roots: The Next Generations",
+    "title_en": "Roots: The Next Generations",
+    "slug": "13436-roots-the-next-generations",
+    "folder": "tv",
+    "poster": "/t/p/w500/4yALWSK2sf02pHJvRi0QyFAljEx.jpg",
+    "rating": 7.5,
+    "year": "1979",
+    "type": "tv",
+    "tmdb_id": 13436,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1786152816,
+    "fixed": true
   }
 ]
