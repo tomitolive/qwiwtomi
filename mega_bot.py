@@ -822,6 +822,18 @@ def create_page(item_data, media_type, is_trend=False):
         desc_ar = f"مشاهدة وتحميل {type_label} {title_ar} مترجم بجودة عالية."
         desc_en = f"Watch and download {title_en} translated."
 
+    # Validate meta_desc length - must be 150-160 characters
+    meta_desc = meta_data.get('meta_desc', '')
+    if len(meta_desc) < 150 or len(meta_desc) > 160:
+        log.warning(f"⚠️ meta_desc length {len(meta_desc)} outside 150-160 range for {title_ar}. Adjusting...")
+        if len(meta_desc) < 150:
+            padding = " استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة."
+            meta_desc = meta_desc + padding[:150 - len(meta_desc)]
+        elif len(meta_desc) > 160:
+            meta_desc = meta_desc[:160]
+        meta_data['meta_desc'] = meta_desc
+        log.info(f"✅ Adjusted meta_desc to {len(meta_desc)} characters")
+
     # Fallback for page_intro/outro if AI failed
     if 'page_intro' not in dir():
         page_intro, page_outro = None, None

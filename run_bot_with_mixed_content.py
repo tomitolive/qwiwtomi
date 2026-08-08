@@ -94,6 +94,27 @@ for item in movies:
         if details:
             page_path, entry = create_page(details, 'movie', is_trend=True)
             if entry:
+                # Validate meta_desc length
+                import json
+                import os
+                content_file = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
+                if os.path.exists(content_file):
+                    with open(content_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    meta_desc = data.get('ai_content', {}).get('meta_desc', '')
+                    if len(meta_desc) < 150 or len(meta_desc) > 160:
+                        print(f"  ⚠️  meta_desc length {len(meta_desc)} outside 150-160 range")
+                        # Adjust meta_desc
+                        if len(meta_desc) < 150:
+                            padding = " استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة."
+                            meta_desc = meta_desc + padding[:150 - len(meta_desc)]
+                        else:
+                            meta_desc = meta_desc[:160]
+                        data['ai_content']['meta_desc'] = meta_desc
+                        with open(content_file, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, ensure_ascii=False, indent=2)
+                        print(f"  ✅ Adjusted meta_desc to {len(meta_desc)} characters")
+                
                 all_index.append(entry)
                 existing_ids.add(str(tmdb_id))
                 # Submit new page to Google Indexing API
@@ -120,6 +141,27 @@ for item in tv_shows:
         if details:
             page_path, entry = create_page(details, 'tv', is_trend=True)
             if entry:
+                # Validate meta_desc length
+                import json
+                import os
+                content_file = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
+                if os.path.exists(content_file):
+                    with open(content_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    meta_desc = data.get('ai_content', {}).get('meta_desc', '')
+                    if len(meta_desc) < 150 or len(meta_desc) > 160:
+                        print(f"  ⚠️  meta_desc length {len(meta_desc)} outside 150-160 range")
+                        # Adjust meta_desc
+                        if len(meta_desc) < 150:
+                            padding = " استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة."
+                            meta_desc = meta_desc + padding[:150 - len(meta_desc)]
+                        else:
+                            meta_desc = meta_desc[:160]
+                        data['ai_content']['meta_desc'] = meta_desc
+                        with open(content_file, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, ensure_ascii=False, indent=2)
+                        print(f"  ✅ Adjusted meta_desc to {len(meta_desc)} characters")
+                
                 all_index.append(entry)
                 existing_ids.add(str(tmdb_id))
                 # Submit new page to Google Indexing API

@@ -4,10 +4,11 @@ fix_short_descriptions_bot.py
 ------------------------------
 بوت إصلاح أوصاف Meta Description القصيرة.
 - يفحص جميع ملفات JSON في data/content/
-- يحدد الصفحات ذات meta_desc < 150 حرف
-- يعالج 15 صفحة عشوائية كل تشغيل
-- يعيد توليد الوصف باستخدام AI
+- يحدد الصفحات ذات meta_desc خارج النطاق 150-160 حرف
+- يعالج جميع الصفحات أو دفعة محددة كل تشغيل
+- يعيد توليد الوصف باستخدام AI مع الحقول الموحدة
 - يتتبع الصفحات المعالجة لتجنب التكرار
+- يعمل مع نفس الحقول مثل run_bot_with_mixed_content.py
 """
 
 import os
@@ -21,7 +22,8 @@ BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
-BATCH_SIZE = 15
+PAGES_TO_FIX_FILE = os.path.join(BASE_PATH, 'data', 'pages_to_fix.json')
+BATCH_SIZE = 7
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
@@ -56,7 +58,18 @@ def save_fixed_pages(fixed_pages):
         log.error(f"Could not save fixed pages: {e}")
 
 def find_short_descriptions():
-    """البحث عن جميع الصفحات ذات الأوصاف القصيرة أو الطويلة."""
+    """البحث عن جميع الصفحات ذات الأوصاف القصيرة أو الطويلة - استخدام JSON المعد مسبقاً."""
+    # Use pre-generated pages_to_fix.json if available
+    if os.path.exists(PAGES_TO_FIX_FILE):
+        try:
+            with open(PAGES_TO_FIX_FILE, 'r', encoding='utf-8') as f:
+                pages = json.load(f)
+            log.info(f"📂 Loaded {len(pages)} pages from pages_to_fix.json")
+            return pages
+        except Exception as e:
+            log.warning(f"Could not load pages_to_fix.json: {e}")
+    
+    # Fallback: scan all files
     short_desc_pages = []
     
     if not os.path.exists(CONTENT_DIR):
@@ -104,7 +117,7 @@ def find_short_descriptions():
     return short_desc_pages
 
 def process_batch(short_pages, fixed_pages):
-    """معالجة دفعة من الصفحات."""
+    """معالجة دفعة من الصفحات - مع الحقول الموحدة."""
     # استبعاد الصفحات التي تم معالجتها بالفعل
     fixed_ids = {str(p['tmdb_id']) for p in fixed_pages}
     available_pages = [p for p in short_pages if str(p['tmdb_id']) not in fixed_ids]
@@ -113,8 +126,8 @@ def process_batch(short_pages, fixed_pages):
         log.info("✅ All short descriptions have been fixed!")
         return 0, fixed_pages
     
-    # اختيار 15 صفحة عشوائية
-    batch = random.sample(available_pages, min(len(available_pages), BATCH_SIZE))
+    # اختيار دفعة من الصفحات (BATCH_SIZE)
+    batch = available_pages[:BATCH_SIZE]
     log.info(f"📋 Processing {len(batch)} pages (batch size: {BATCH_SIZE})")
     
     success = 0
@@ -133,7 +146,7 @@ def process_batch(short_pages, fixed_pages):
                 log.warning(f"   ⚠️ Could not fetch TMDB details for {tmdb_id}")
                 continue
             
-            # إعادة إنشاء الصفحة (سيتم توليد وصف جديد)
+            # إعادة إنشاء الصفحة (سيتم توليد وصف جديد مع الحقول الموحدة)
             page_path, entry = mega_bot.create_page(details, media_type, is_trend=True)
             
             if entry:
@@ -149,20 +162,29 @@ def process_batch(short_pages, fixed_pages):
                 
                 log.info(f"   ✅ Fixed: {page_path}")
                 
-                # التحقق من الطول الجديد
+                # التحقق من الطول الجديد والحقول الموحدة
                 try:
                     json_path = os.path.join(CONTENT_DIR, json_file)
                     with open(json_path, 'r', encoding='utf-8') as f:
                         new_data = json.load(f)
                     new_meta_desc = new_data.get('ai_content', {}).get('meta_desc', '')
                     new_length = len(new_meta_desc) if new_meta_desc else 0
-                    log.info(f"   📏 New length: {new_length} chars")
+                    log.info(f"   📏 New meta_desc length: {new_length} chars")
+                    
+                    # التحقق من الحقول الموحدة
+                    ai_content = new_data.get('ai_content', {})
+                    required_fields = ['desc_ar', 'desc_en', 'meta_desc', 'seo_title_ar', 'opinion_ar', 'opinion_en', 'faq', 'keywords', 'intro', 'outro']
+                    missing_fields = [f for f in required_fields if f not in ai_content]
+                    if missing_fields:
+                        log.warning(f"   ⚠️ Missing fields: {missing_fields}")
+                    else:
+                        log.info(f"   ✅ All required fields present")
                     
                     # إذا كان الطول الجديد بين 150-160، احذف الملف من القائمة
                     if 150 <= new_length <= 160:
                         log.info(f"   🗑️  Removing from short description list (length OK)")
-                except:
-                    pass
+                except Exception as e:
+                    log.warning(f"   ⚠️ Could not verify fixed page: {e}")
             else:
                 log.warning(f"   ❌ AI generation failed for {title}")
                 

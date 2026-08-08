@@ -885,34 +885,69 @@ def generate_bilingual_description(title_ar, title_en, overview_ar, overview_en,
 
 Generate this exact JSON structure:
 {
-  "desc_ar": "3-5 sentences summary in Arabic - MUST include the Arabic Title and English Title in the text",
-  "desc_en": "English summary - MUST include the English Title in the text",
-  "meta_desc": "EXACTLY 150-160 characters - MUST include the title - NEVER shorter than 150 characters",
+  "desc_ar": "3-5 sentences summary in Arabic - MUST include the Arabic Title and English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+  "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+  "meta_desc": "EXACTLY 150-160 characters - MUST include the title - NEVER shorter than 150 characters or longer than 160",
   "seo_title_ar": "مشاهدة [TYPE] [TITLE_EN] مترجم - توميتو",
   "opinion_ar": "1-2 sentence review in Arabic - MUST include the title",
   "opinion_en": "1-2 sentence review in English - MUST include the title",
   "faq": [{"q": "question in Arabic with title", "a": "answer in Arabic", "q_en": "question in English with title", "a_en": "answer in English"}],
-  "keywords": "comma separated keywords without leading comma"
+  "keywords": "comma separated keywords without leading comma",
+  "intro": "1-2 sentence introduction in Arabic",
+  "outro": "1-2 sentence conclusion in Arabic"
 }
 
 CRITICAL INSTRUCTIONS:
 1. You MUST use the provided Arabic Title and English Title in ALL text fields (desc_ar, desc_en, meta_desc, seo_title_ar, opinion_ar, opinion_en, faq).
-2. Do NOT leave empty spaces or placeholders. Always include the actual titles.
-3. Complete the entire JSON. Do not cut off mid-sentence.
-4. Ensure all fields are present and properly formatted.
-5. No newlines in strings. Escape quotes properly.
-6. Keywords must NOT start with a comma.
-7. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided.
-8. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it."""
+2. DO NOT copy text directly from TMDB. Rewrite everything in your own original words to avoid copyright issues.
+3. Do NOT leave empty spaces or placeholders. Always include the actual titles.
+4. Complete the entire JSON. Do not cut off mid-sentence.
+5. Ensure all fields are present and properly formatted.
+6. No newlines in strings. Escape quotes properly.
+7. Keywords must NOT start with a comma.
+8. IMPORTANT: Do NOT delete any part of the title, including prepositions like "de", "los", "de los", "la", "el", "las", "en". Always use the FULL title exactly as provided.
+9. CRITICAL: meta_desc MUST be exactly 150-160 characters. If it's shorter, add descriptive text like "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة." to reach the minimum length. If it's longer than 160 characters, truncate it."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
-IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content. Do not leave empty spaces."""
+IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content. Do not leave empty spaces.
+IMPORTANT: Rewrite all content in your own words. DO NOT copy from TMDB to avoid copyright issues."""
 
     res, model_used = _call_cohere_llm(system, user)
     
     try:
         data = json.loads(res or "{}")
+        
+        # Validate meta_desc length - retry if outside 150-160 range
+        meta_desc = data.get('meta_desc', '')
+        retry_count = 0
+        max_retries = 3
+        
+        while retry_count < max_retries and (len(meta_desc) < 150 or len(meta_desc) > 160):
+            retry_count += 1
+            log.warning(f"⚠️ meta_desc length {len(meta_desc)} outside 150-160 range. Retry {retry_count}/{max_retries}")
+            
+            # Adjust meta_desc to fit the range
+            if len(meta_desc) < 150:
+                # Add padding text
+                padding = " استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة."
+                meta_desc = meta_desc + padding[:150 - len(meta_desc)]
+            elif len(meta_desc) > 160:
+                # Truncate to 160
+                meta_desc = meta_desc[:160]
+            
+            data['meta_desc'] = meta_desc
+            log.info(f"✅ Adjusted meta_desc to {len(meta_desc)} characters")
+        
+        # Final validation
+        if len(meta_desc) < 150 or len(meta_desc) > 160:
+            log.error(f"❌ Failed to adjust meta_desc to valid length. Final length: {len(meta_desc)}")
+            # Force set to valid length as fallback
+            if len(meta_desc) < 150:
+                data['meta_desc'] = meta_desc + " استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة."[:150 - len(meta_desc)]
+            else:
+                data['meta_desc'] = meta_desc[:160]
+            log.info(f"🔧 Forced meta_desc to {len(data['meta_desc'])} characters (fallback)")
         
         # Add trending keywords from pytrends
         t_query = title_ar if title_ar and title_ar.strip() else title_en
