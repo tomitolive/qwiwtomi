@@ -34,8 +34,8 @@ def load_env():
 load_env()
 
 # Configuration
-COHERE_API_KEY = os.getenv("COHERE_API_KEY")
-COHERE_API_URL = "https://api.cohere.com/v2/chat"
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY", "882e741f7283dc9ba1654d4692ec30f6")
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
@@ -435,29 +435,28 @@ BOT_MISSIONS = [
     }
 ]
 
-# Cohere Models Configuration
-COHERE_MODELS = [
+# OpenAI Models Configuration
+OPENAI_MODELS = [
     {
-        "name": "command-r-08-2024",
-        "model_id": "command-r-08-2024",
-        "api_key": os.getenv("COHERE_API_KEY")
+        "name": "gpt-4o",
+        "model_id": "gpt-4o",
+        "api_key": OPENAI_API_KEY
     }
 ]
 
 
-def _call_cohere_llm(system_msg, user_msg, max_retries=3):
-    """Call Cohere API with retry logic."""
+def _call_openai_llm(system_msg, user_msg, max_retries=3):
+    """Call OpenAI API with retry logic."""
     global _current_model_idx
     
     for attempt in range(max_retries):
-        model_config = COHERE_MODELS[_current_model_idx]
+        model_config = OPENAI_MODELS[_current_model_idx]
         log.info(f"🔍 Attempting model: {model_config['name']} ({model_config['model_id']})")
         
         try:
             headers = {
                 "Authorization": f"Bearer {model_config['api_key']}",
-                "Content-Type": "application/json",
-                "Accept": "application/json"
+                "Content-Type": "application/json"
             }
             
             payload = {
@@ -465,14 +464,15 @@ def _call_cohere_llm(system_msg, user_msg, max_retries=3):
                 "messages": [
                     {"role": "system", "content": system_msg},
                     {"role": "user", "content": user_msg}
-                ]
+                ],
+                "temperature": 0.7
             }
 
-            response = requests.post(COHERE_API_URL, headers=headers, json=payload, timeout=30)
+            response = requests.post(OPENAI_API_URL, headers=headers, json=payload, timeout=30)
             
             if response.status_code == 200:
                 data = response.json()
-                text = data.get("message", {}).get("content", [{}])[0].get("text", "")
+                text = data.get("choices", [{}])[0].get("message", {}).get("content", "")
                 if text:
                     text = re.sub(r'```json\s*|\s*```', '', text).strip()
                     log.info(f"✅ SUCCESS: {model_config['name']} generated content successfully")
@@ -496,9 +496,9 @@ def _call_cohere_llm(system_msg, user_msg, max_retries=3):
             log.error(f"❌ {model_config['name']} API Error: {e}")
         
         # Move to next model on failure
-        _current_model_idx = (_current_model_idx + 1) % len(COHERE_MODELS)
+        _current_model_idx = (_current_model_idx + 1) % len(OPENAI_MODELS)
     
-    log.error("🚨 All Cohere models exhausted or failed.")
+    log.error("🚨 All OpenAI models exhausted or failed.")
     return None, None
 
 
@@ -911,9 +911,10 @@ CRITICAL INSTRUCTIONS:
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
 IMPORTANT: You MUST use "{title_ar}" and "{title_en}" in your generated content. Do not leave empty spaces.
-IMPORTANT: Rewrite all content in your own words. DO NOT copy from TMDB to avoid copyright issues."""
+IMPORTANT: Rewrite all content in your own words. DO NOT copy from TMDB to avoid copyright issues.
+CRITICAL: If the Arabic Story is short or generic, USE the detailed English Story to create a comprehensive Arabic description. Translate and expand the English content into Arabic to ensure desc_ar is detailed and informative (3-5 sentences)."""
 
-    res, model_used = _call_cohere_llm(system, user)
+    res, model_used = _call_openai_llm(system, user)
     
     try:
         data = json.loads(res or "{}")
