@@ -2663,8 +2663,38 @@
       "file": "202555.json",
       "title": "ديرديفل: يولد من جديد",
       "fixed_at": "2026-08-09T00:32:34.785877"
+    },
+    {
+      "tmdb_id": "41727",
+      "file": "41727.json",
+      "title": "بانشي",
+      "fixed_at": "2026-08-08T23:44:40.762981"
+    },
+    {
+      "tmdb_id": "202998",
+      "file": "202998.json",
+      "title": "Star Wars: Young Jedi Adventures",
+      "fixed_at": "2026-08-08T23:45:01.497933"
+    },
+    {
+      "tmdb_id": "1396965",
+      "file": "1396965.json",
+      "title": "المحقق كونان: فلاش باك ذو العين الواحدة",
+      "fixed_at": "2026-08-08T23:45:20.141585"
+    },
+    {
+      "tmdb_id": "1429348",
+      "file": "1429348.json",
+      "title": "Ltranger",
+      "fixed_at": "2026-08-08T23:45:28.426068"
+    },
+    {
+      "tmdb_id": "34891",
+      "file": "34891.json",
+      "title": "Jake and the Never Land Pirates",
+      "fixed_at": "2026-08-08T23:45:36.773919"
     }
   ],
-  "last_updated": "2026-08-09T00:32:36.802957",
-  "total_fixed": 444
+  "last_updated": "2026-08-08T23:45:38.776671",
+  "total_fixed": 449
 }
