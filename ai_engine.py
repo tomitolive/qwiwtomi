@@ -438,6 +438,11 @@ BOT_MISSIONS = [
 # OpenAI Models Configuration
 OPENAI_MODELS = [
     {
+        "name": "gpt-3.5-turbo",
+        "model_id": "gpt-3.5-turbo",
+        "api_key": OPENAI_API_KEY
+    },
+    {
         "name": "gpt-4o",
         "model_id": "gpt-4o",
         "api_key": OPENAI_API_KEY
@@ -478,8 +483,8 @@ def _call_openai_llm(system_msg, user_msg, max_retries=3):
                     log.info(f"✅ SUCCESS: {model_config['name']} generated content successfully")
                     return text, model_config['name']
             elif response.status_code == 429:
-                log.warning(f"⚠️ Rate limit hit on {model_config['name']}. Retrying in 2 seconds...")
-                time.sleep(2)
+                log.warning(f"⚠️ Rate limit hit on {model_config['name']}. Retrying in 10 seconds...")
+                time.sleep(10)
                 continue
             elif response.status_code == 503:
                 log.warning(f"⚠️ Service unavailable on {model_config['name']}. Retrying in 5 seconds...")
