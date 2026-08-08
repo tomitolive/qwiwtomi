@@ -1001,7 +1001,10 @@ QUALITY INSTRUCTIONS FOR ARABIC CONTENT:
 14. AVOID REPETITION: Do not repeat the same meaning multiple times. Each sentence should add new information or perspective.
 15. ADD DRAMATIC DETAILS: Include specific details like character names, equipment types, field challenges, or unique aspects of the story to make content more engaging.
 16. VARY SENTENCE STRUCTURE: Mix short and long sentences for better flow and readability.
-17. USE ACTIVE VOICE: Prefer active voice over passive voice for more engaging storytelling."""
+17. USE ACTIVE VOICE: Prefer active voice over passive voice for more engaging storytelling.
+18. DEPTH AND THINKING: Create meaningful content with depth and critical thinking. Avoid generic phrases like "استمتع بمشاهدة..." or "شاهد الآن...". Instead, provide substantive analysis, character development, plot progression, and thematic elements.
+19. ORIGINAL INSIGHTS: Add unique perspectives and insights about the story, characters, or themes. Go beyond surface-level description to provide thoughtful analysis.
+20. COMPLETE ANSWERS: Ensure FAQ answers are complete and informative, not empty or generic. Provide detailed responses that add value to the user's understanding."""
 
     user = f"""Arabic Title: {title_ar}. English Title: {title_en}. Type: {media_label_ar}. Genres: {genres_str}. Arabic Story: {overview_ar}. English Story: {overview_en}. Year: {year}.
 
