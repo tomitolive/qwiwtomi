@@ -561,10 +561,9 @@ export default async function TVPage({ params }: Props) {
             <div className="grid grid-cols-6 gap-0">
               {localSimilar.slice(0, 6).map((item, i) => {
                 const showAd = shouldShowAdLink();
-                const cardLink = showAd ? pageSmartLink : `/tv/${item.slug}`;
                 return (
                   <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
-                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                    <a href={`/tv/${item.slug}`}>
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -625,10 +624,9 @@ export default async function TVPage({ params }: Props) {
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
               {localSimilar.slice(0, 10).map((item, i) => {
                 const showAd = shouldShowAdLink();
-                const cardLink = showAd ? pageSmartLink : `/tv/${item.slug}`;
                 return (
                   <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                    <a href={`/tv/${item.slug}`}>
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -680,10 +678,9 @@ export default async function TVPage({ params }: Props) {
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
               {localSimilar.slice(10, 20).map((item, i) => {
                 const showAd = shouldShowAdLink();
-                const cardLink = showAd ? pageSmartLink : `/tv/${item.slug}`;
                 return (
                   <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                    <a href={`/tv/${item.slug}`}>
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -734,10 +731,9 @@ export default async function TVPage({ params }: Props) {
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
               {localSimilar.slice(20, 30).map((item, i) => {
                 const showAd = shouldShowAdLink();
-                const cardLink = showAd ? pageSmartLink : `/tv/${item.slug}`;
                 return (
                   <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                    <a href={`/tv/${item.slug}`}>
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -790,10 +786,9 @@ export default async function TVPage({ params }: Props) {
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
               {localSimilar.slice(30, 40).map((item, i) => {
                 const showAd = shouldShowAdLink();
-                const cardLink = showAd ? pageSmartLink : `/tv/${item.slug}`;
                 return (
                   <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                    <a href={`/tv/${item.slug}`}>
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
