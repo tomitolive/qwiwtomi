@@ -2674,6 +2674,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomito.xyz/movie/1598732-perfect-world-movie-ninefold-the-burning-sky</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomito.xyz/t/p/w500/AuIkNEpyPcuMWl9gr3JpbvUk02g.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomito.xyz/movie/1598766-crayon-shin-chan-the-movie-very-bizarre-my-yokai-vacation</loc>
     <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomito.xyz/t/p/w500/dC0WaoOLkUdFpwHgIXMIJdB1sT1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomito.xyz/movie/1601243-oscar-shaw</loc>
-    <lastmod>2026-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomito.xyz/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
