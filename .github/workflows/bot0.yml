@@ -47,7 +47,7 @@ jobs:
           git config --local user.email "bot0@tomito.xyz"
           git config --local user.name "Tomito Bot0"
           
-                 # Add all JSON items inside data/, sitemap files, and poster images
+          # Add all JSON items inside data/, sitemap files, and poster images
           git add data/content/ data/content_index.json public/sitemap*.xml public/t/p/ || true
 
           
@@ -56,5 +56,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "bot0: generate new mixed content and update sitemap"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tomito/qwiwtomi.git
           fi
