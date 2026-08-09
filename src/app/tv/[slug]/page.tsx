@@ -563,7 +563,16 @@ export default async function TVPage({ params }: Props) {
                 const showAd = shouldShowAdLink();
                 return (
                   <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
-                    <a href={`/tv/${item.slug}`}>
+                    <a 
+                      href={!showAd ? `/tv/${item.slug}` : '#'}
+                      onClick={(e) => {
+                        if (showAd) {
+                          e.preventDefault();
+                          window.open(pageSmartLink, '_blank');
+                          window.location.href = `/tv/${item.slug}`;
+                        }
+                      }}
+                    >
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -583,6 +592,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
                         >
                           مشاهدة
@@ -591,6 +604,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
                         >
                           التحميل
@@ -626,7 +643,16 @@ export default async function TVPage({ params }: Props) {
                 const showAd = shouldShowAdLink();
                 return (
                   <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={`/tv/${item.slug}`}>
+                    <a 
+                      href={!showAd ? `/tv/${item.slug}` : '#'}
+                      onClick={(e) => {
+                        if (showAd) {
+                          e.preventDefault();
+                          window.open(pageSmartLink, '_blank');
+                          window.location.href = `/tv/${item.slug}`;
+                        }
+                      }}
+                    >
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -646,6 +672,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           مشاهدة
@@ -654,6 +684,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           التحميل
@@ -680,7 +714,16 @@ export default async function TVPage({ params }: Props) {
                 const showAd = shouldShowAdLink();
                 return (
                   <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={`/tv/${item.slug}`}>
+                    <a 
+                      href={!showAd ? `/tv/${item.slug}` : '#'}
+                      onClick={(e) => {
+                        if (showAd) {
+                          e.preventDefault();
+                          window.open(pageSmartLink, '_blank');
+                          window.location.href = `/tv/${item.slug}`;
+                        }
+                      }}
+                    >
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -700,6 +743,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           مشاهدة
@@ -708,6 +755,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           التحميل
@@ -733,7 +784,16 @@ export default async function TVPage({ params }: Props) {
                 const showAd = shouldShowAdLink();
                 return (
                   <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={`/tv/${item.slug}`}>
+                    <a 
+                      href={!showAd ? `/tv/${item.slug}` : '#'}
+                      onClick={(e) => {
+                        if (showAd) {
+                          e.preventDefault();
+                          window.open(pageSmartLink, '_blank');
+                          window.location.href = `/tv/${item.slug}`;
+                        }
+                      }}
+                    >
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -753,6 +813,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           مشاهدة
@@ -761,6 +825,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           التحميل
@@ -788,7 +856,16 @@ export default async function TVPage({ params }: Props) {
                 const showAd = shouldShowAdLink();
                 return (
                   <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                    <a href={`/tv/${item.slug}`}>
+                    <a 
+                      href={!showAd ? `/tv/${item.slug}` : '#'}
+                      onClick={(e) => {
+                        if (showAd) {
+                          e.preventDefault();
+                          window.open(pageSmartLink, '_blank');
+                          window.location.href = `/tv/${item.slug}`;
+                        }
+                      }}
+                    >
                       <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                         <img
                           src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
@@ -808,6 +885,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           مشاهدة
@@ -816,6 +897,10 @@ export default async function TVPage({ params }: Props) {
                           href={pageSmartLink}
                           target="_blank"
                           rel="noopener noreferrer"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.open(pageSmartLink, '_blank');
+                          }}
                           className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
                         >
                           التحميل
