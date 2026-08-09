@@ -4,8 +4,8 @@
 name: Fix Short Descriptions Bot
 
 on:
-  # schedule:
-  #   - cron: '*/20 * * * *'
+  schedule:
+    - cron: '*/15 * * * *'  # Run every 15 minutes
   workflow_dispatch:
 
 permissions:
@@ -67,6 +67,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "fix-descriptions-bot: fixed short meta descriptions (batch of 7)"
+            git commit -m "fix-descriptions-bot: fixed short meta descriptions (batch of 25)"
             git push
           fi

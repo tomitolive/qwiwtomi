@@ -24,7 +24,7 @@ INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
 PAGES_TO_FIX_FILE = os.path.join(BASE_PATH, 'data', 'pages_to_fix.json')
 PRIORITY_PAGES_FILE = os.path.join(BASE_PATH, 'data', 'priority_pages.json')
-BATCH_SIZE = 7
+BATCH_SIZE = 25
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
