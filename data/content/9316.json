@@ -4,14 +4,12 @@
   "title_ar": "Ong-Bak",
   "title_en": "Ong-Bak",
   "slug": "9316-ong-bak",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "",
+  "overview": "يتعرض يسكنه الناس العاديون لخسارة إلههم المحترم، حيث يتم سرقة رأس تمثال مقدس، مما يؤدي إلى رحلة للشاب المحارب إلى المدينة الكبيرة، حيث يجد نفسه يتصارع مع العالم السفلي للعودة بتمثالهم المقدس.",
   "poster_path": "/jOsQwJ1x422i33BynRFtFxyK521.jpg",
   "backdrop_path": "/A7WpMBH6N1T0pPIEXsq9w4tu0oB.jpg",
   "release_date": "2003-01-31",
-  "vote_average": 7.1,
-  "vote_count": 1885,
+  "vote_average": 7.2,
+  "vote_count": 1934,
   "genres": [
     {
       "id": 28,
@@ -27,20 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "قصة مشوقة ومثيرة للمتابعة.",
-    "desc_en": "قصة مشوقة ومثيرة للمتابعة.",
-    "meta_desc": "مشاهدة Ong-Bak مترجم بجودة عالية على توميتو.",
-    "keywords": "Ong-Bak مترجم, فيلم 7dogs, فيلم السادة الافاضل, مشاهدة فيلم kingsman, فيلم ام كلثوم, ايرادات فيلم برشامه, فيلم ٧ كلاب, فيلم برشامة سينما فوكس, ايرادات فيلم 7 dogs, مونيكا بيلوتشي, ابطال فيلم 7 dogs, فيلم برشامة يانغو بلاي, فيلم اشاعة حب, ابطال فيلم برشامة, فيلم اسد محمد رمضان dailymotion, 7 dogs, 7 dogs فيلم, فيلم سفن دوجز, فيلم درويش, فيلم الكلام علي ايه, فيلم الرسالة, قصة فيلم Ong-Bak, أحداث Ong-Bak بالتفصيل, مشاهدة Ong-Bak 2026, توميتو Ong-Bak",
-    "seo_title_ar": "مشاهدة Ong-Bak مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة.",
-    "intro": "",
-    "outro": ""
+    "intro": "يحكي فيلم أونج باك قصة شاب محارب يسعى إلى استرجاع تمثال مقدس سرق.",
+    "desc_ar": "يتعرض يسكنه الناس العاديون لخسارة إلههم المحترم، حيث يتم سرقة رأس تمثال مقدس، مما يؤدي إلى رحلة للشاب المحارب إلى المدينة الكبيرة، حيث يجد نفسه يتصارع مع العالم السفلي للعودة بتمثالهم المقدس.",
+    "desc_en": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.",
+    "seo_title_ar": "مشاهدة فيلم أونج باك مترجم - توميتو",
+    "meta_desc": "يحكي فيلم أونج باك قصة شاب محارب يذهب إلى المدينة الكبيرة لاسترجاع تمثال مقدس سرق، في رحلة مليئة بالجريمة والانقلاب على النظام. استمتع بمشاهدة هذا الع",
+    "outro": "يعد فيلم أونج باك تجربة رائعة للاستمتاع بمشاهدة فيلم حركة مع تمثيل رائع وتصاميم رائعة.",
+    "opinion_ar": "يعد فيلم أونج باك تجربة رائعة للاستمتاع بمشاهدة فيلم حركة مع تمثيل رائع وتصاميم رائعة.",
+    "opinion_en": "Ong-Bak is a thrilling martial arts film with impressive performances and stunning visuals.",
+    "faq": [
+      {
+        "q": "ما هو فيلم أونج باك؟",
+        "a": "هو فيلم حركة يروي قصة شاب محارب يسعى إلى استرجاع تمثال مقدس سرق.",
+        "q_en": "What is Ong-Bak?",
+        "a_en": "It is a martial arts film that tells the story of a young martial artist who seeks to retrieve a sacred statue stolen."
+      }
+    ],
+    "keywords": "أونج باك, فيلم, حركة, جريمة, إثارة, تمثال مقدس, فيلم رائع, تمثيل رائع, تصاميم رائعة, مشاهدة أونج باك, Ong-Bak مترجم, تحميل أونج باك, أونج باك اون لاين, Ong-Bak, أونج باك جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "105 دقيقة",
-  "language": "التايلاندية",
-  "country": "تايلاند",
-  "cast": "Tony Jaa Petchtai Wongkamlao Patrarin Punyanutatam Suchao Pongwilai Choomporn Theppitak"
+  "language": "الإنجليزية",
+  "country": "Thailand",
+  "cast": "Tony Jaa Petchtai Wongkamlao Patrarin Punyanutatam Suchao Pongwilai Choomporn Theppitak Cheathavuth Watcharakhun Wannakit Siriput Rungrawee Barijindakul"
 }
