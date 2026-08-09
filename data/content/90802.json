@@ -4,14 +4,12 @@
   "title_ar": "رجل الرمل",
   "title_en": "The Sandman",
   "slug": "90802-the-sandman",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "ينطلق \"مورفيوس\"، ملك الأحلام، بعد سنوات من الحبس في رحلة عبر العوالم للعثور على ما سُرق منه واستعادة قوّته.",
   "poster_path": "/cqLnWvMKLSwwsz9wevEErrH5jYV.jpg",
   "backdrop_path": "/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
   "release_date": "2022-08-05",
   "vote_average": 7.9,
-  "vote_count": 2595,
+  "vote_count": 2681,
   "genres": [
     {
       "id": 10765,
@@ -27,21 +25,42 @@
     }
   ],
   "ai_content": {
-    "intro": "ما الذي يجهد ملك الأحلام؟",
+    "intro": "استمتع بمشاهدة مسلسل رجل الرمل (2022) مترجم بجودة عالية على توميتو.",
     "desc_ar": "ينطلق \"مورفيوس\"، ملك الأحلام، بعد سنوات من الحبس في رحلة عبر العوالم للعثور على ما سُرق منه واستعادة قوّته.",
-    "meta_desc": "مشاهدة رجل الرمل مترجم بجودة عالية على توميتو.",
-    "seo_title_ar": "مشاهدة رجل الرمل مترجم اون لاين - توميتو",
-    "outro": "أنا متحمس لرحلة مرفيوس، ومغامراته في كل عوالم الخيال، وبالتأكيد يجب عليك رؤيته.",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة.",
-    "keywords": "The Sandman, مشاهدة رجل الرمل 2026, رجل الرمل مترجم, توميتو رجل الرمل, قصة فيلم رجل الرمل, أحداث رجل الرمل بالتفصيل",
-    "desc_en": "ينطلق \"مورفيوس\"، ملك الأحلام، بعد سنوات من الحبس في رحلة عبر العوالم للعثور على ما سُرق منه واستعادة قوّته."
+    "desc_en": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "seo_title_ar": "مشاهدة مسلسل The Sandman مترجم - توميتو",
+    "meta_desc": "مشاهدة رجل الرمل مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد رجل الرمل الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل رجل الرمل?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Sandman?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل رجل الرمل?",
+        "a": "يندرج العمل تحت تصنيف خيال علمي وفانتازيا, دراما, حركة ومغامرة.",
+        "q_en": "What is the genre of The Sandman?",
+        "a_en": "It falls under the genre of خيال علمي وفانتازيا, دراما, حركة ومغامرة."
+      },
+      {
+        "q": "ما هي قصة مسلسل رجل الرمل?",
+        "a": "ينطلق \"مورفيوس\"، ملك الأحلام، بعد سنوات من الحبس في رحلة عبر العوالم للعثور على ما سُرق منه واستعادة قوّته.",
+        "q_en": "What is the story of The Sandman?",
+        "a_en": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power."
+      }
+    ],
+    "keywords": "رجل الرمل مترجم, The Sandman مترجم, مشاهدة رجل الرمل, مسلسل رجل الرمل"
   },
   "fixed": true,
-  "first_air_date": "2022-08-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "95 دقيقة",
-  "language": "الإيطالية",
-  "country": "الأرجنتين",
-  "cast": "Luc Merenda Carlos Monzón Mariangela Giordano Gianni Dei Luisa Maneri"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Tom Sturridge Vivienne Acheampong Patton Oswalt",
+  "first_air_date": "2022-08-05"
 }

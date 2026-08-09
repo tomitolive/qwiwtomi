@@ -1,15 +1,15 @@
 {
   "id": 1413976,
-  "title": "Citizen Vigilante",
-  "title_ar": "Citizen Vigilante",
+  "title": "المواطن المنتقم",
+  "title_ar": "المواطن المنتقم",
   "title_en": "Citizen Vigilante",
   "slug": "1413976-citizen-vigilante",
-  "overview": "فيلم المواطن اليقظة: يسلط الضوء على قصة سانديرز الذي يشعر بالإحباط من غياب العدالة العامة، فيقرر أن يأخذ الأمور بنفسه ويتحول إلى حارس للعدالة. يبدأ في معاقبة المجرمين والمسؤولين الفاسدين، ومع تزايد نشاطه، يكتسب شهرة واسعة بين الناس كبطل، مما يجذب انتباه هنري، رئيس الإنتربول، الذي يراه تهديدًا للمجتمع. المواطن اليقظة، فيلم إثارة وتشويق مترجم.",
-  "poster_path": "/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
-  "backdrop_path": "/uHONwBKXLRIT8hxZlAdiLbHVsWv.jpg",
+  "overview": "يأخذ رجل العدالة بيده، ويبدأ في مطاردة المجرمين بنفسه. وسرعان ما تُحوله حملته ضد الجريمة إلى نجم على وسائل التواصل الاجتماعي، لكنها تضعه في مواجهة مباشرة مع قائد الشرطة المحلي.",
+  "poster_path": "/71DkzxDe6hcCe5io5TJpGliEmQv.jpg",
+  "backdrop_path": "/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
   "release_date": "2026-06-19",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "vote_average": 6.3,
+  "vote_count": 307,
   "genres": [
     {
       "id": 53,
@@ -22,36 +22,38 @@
     {
       "id": 80,
       "name": "جريمة"
-    },
-    {
-      "id": 9648,
-      "name": "غموض"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Citizen Vigilante (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "فيلم المواطن اليقظة: يسلط الضوء على قصة سانديرز الذي يشعر بالإحباط من غياب العدالة العامة، فيقرر أن يأخذ الأمور بنفسه ويتحول إلى حارس للعدالة. يبدأ في معاقبة المجرمين والمسؤولين الفاسدين، ومع تزايد نشاطه، يكتسب شهرة واسعة بين الناس كبطل، مما يجذب انتباه هنري، رئيس الإنتربول، الذي يراه تهديدًا للمجتمع. المواطن اليقظة، فيلم إثارة وتشويق مترجم.",
-    "desc_en": "Citizen Vigilante: Sanders, frustrated by the lack of public justice, becomes a vigilante. He punishes criminals and corrupt officials, gaining public support as a hero. Henry, an Interpol chief, views him as a threat. Citizen Vigilante, an action-packed thriller.",
-    "seo_title_ar": "مشاهدة فيلم المواطن اليقظة Citizen Vigilante مترجم - توميتو",
-    "meta_desc": "المواطن اليقظة - فيلم إثارة مترجم - سانديرز يصبح حارسا للعدالة، معاقبا المجرمين والمسؤولين الفاسدين، بينما يلاحقه رئيس الإنتربول هنري.",
-    "outro": "شاهد Citizen Vigilante الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "المواطن اليقظة فيلم مثير ومشوق، يسلط الضوء على قضية العدالة العامة من خلال قصة سانديرز البطل الذي يتحدى النظام. أداء رائع ومؤثرات بصرية مبهرة.",
-    "opinion_en": "Citizen Vigilante is an intense and thrilling ride, exploring the theme of public justice through Sanders' vigilante journey. Powerful performances and stunning visuals.",
+    "intro": "يحمل المواطن المنتقم مسؤولية العدالة في يده، حيث يبدأ في قضاء العدالة بنفسه من خلال مطاردة المجرمين وتسليمهم إلى السلطات.",
+    "desc_ar": "يحمل المواطن المنتقم مسؤولية العدالة في يده، حيث يبدأ في قضاء العدالة بنفسه من خلال مطاردة المجرمين وتسليمهم إلى السلطات. لكن مسيرته الجديدة كمراقب يثير إعجاب الجمهور، مما يجعل منه نجمًا على وسائل التواصل الاجتماعي. ومع ذلك، يجد نفسه في مواجهة مباشرة مع قائد الشرطة المحلي، الذي يرأى في مواقفه تصعيدًا في مشاكل المجتمع.",
+    "desc_en": "A man takes justice into his own hands, hunting down criminals and turning them in to the authorities. His new role as a vigilante earns him a following on social media, making him a social media star. However, he finds himself at odds with the local police chief, who sees his actions as escalating community problems.",
+    "seo_title_ar": "مشاهدة المواطن المنتقم مترجم - Citizen Vigilante - فيلم إثارة وحركة 2026",
+    "meta_desc": "المواطن المنتقم: فيلم إثارة وحركة يتبع قصة رجل يحمل مسؤولية العدالة في يده. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. ا",
+    "outro": "فيلم المواطن المنتقم هو تجربة مثيرة وممتعة، يُظهر بوضوح أهمية العدالة والقانون في المجتمع.",
+    "opinion_ar": "فيلم المواطن المنتقم هو تجربة مثيرة وممتعة، يُظهر بوضوح أهمية العدالة والقانون في المجتمع. يُقدم الفيلم صورًا واقعية للصراع بين الفرد والمجتمع.",
+    "opinion_en": "Citizen Vigilante is an exciting and engaging film that highlights the importance of justice and the law in society. The film offers a realistic portrayal of the conflict between the individual and the community.",
     "faq": [
       {
-        "q": "هل المواطن اليقظة فيلم واقعي؟",
-        "a": "لا، المواطن اليقظة فيلم خيالي يتناول موضوع العدالة العامة من منظور مختلف.",
-        "q_en": "Is Citizen Vigilante a realistic film?",
-        "a_en": "No, Citizen Vigilante is a fictional film that explores the theme of public justice from a unique perspective."
+        "q": "ما هو المواطن المنتقم؟",
+        "a": "المواطن المنتقم هو فيلم إثارة وحركة يتبع قصة رجل يحمل مسؤولية العدالة في يده.",
+        "q_en": "What is Citizen Vigilante?",
+        "a_en": "Citizen Vigilante is an action and thriller film that follows the story of a man who takes justice into his own hands."
+      },
+      {
+        "q": "لماذا يجد المواطن المنتقم نفسه في مواجهة مع قائد الشرطة؟",
+        "a": "المواطن المنتقم يجد نفسه في مواجهة مع قائد الشرطة بسبب تصعيد مشاكل المجتمع، الذي يرى في مواقعه خطرًا على الأمن العام.",
+        "q_en": "Why does Citizen Vigilante find himself at odds with the police chief?",
+        "a_en": "Citizen Vigilante finds himself at odds with the police chief because his actions are seen as escalating community problems and posing a threat to public safety."
       }
     ],
-    "keywords": "المواطن اليقظة, Citizen Vigilante, فيلم, إثارة, حركة, جريمة, غموض, 2026"
+    "keywords": "المواطن المنتقم, فيلم إثارة, حركة, جريمة, عدالة, قانون, مجتمع, سير ذاتية, مشاهدة المواطن المنتقم, Citizen Vigilante مترجم, تحميل المواطن المنتقم, المواطن المنتقم اون لاين, Citizen Vigilante, المواطن المنتقم جودة عالية, فيلم المواطن المنتقم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "89 دقيقة",
   "language": "الإنجليزية",
-  "country": "Croatia",
-  "cast": "Armie Hammer Costas Mandylor Dora Dimić Rakar Vjekoslav Katušin Neb Chupin Elizabeth Zacero Dunja Sepčić Bogner Lennart Betzgen"
+  "country": "ألمانيا",
+  "cast": "Armie Hammer Costas Mandylor Désirée Giorgetti Steffen Mennekes Neb Chupin Mukit Abdul Hamid Fares Mongi Hila Harush"
 }

@@ -1,58 +1,49 @@
 {
   "id": 19215,
-  "title": "Baseball",
-  "title_ar": "Baseball",
-  "title_en": "Baseball",
-  "slug": "19215-baseball",
-  "overview": "استمتع بمشاهدة مسلسل البيسبول مترجم بجودة عالية.",
-  "poster_path": "/qneEtyv9BKgfb7sVmtnvDqTmV4b.jpg",
-  "backdrop_path": "/wdFi5VudQdkhnII5SQim8J7rAFe.jpg",
-  "release_date": "1994-09-18",
-  "vote_average": 7.5,
-  "vote_count": 44,
+  "title": "After Innocence",
+  "title_ar": "After Innocence",
+  "title_en": "After Innocence",
+  "slug": "19215-after-innocence",
+  "overview": "يحكي فيلم 'After Innocence' قصة رجلين قد خضعما لعقوبة السجن لفترة طويلة، ولكنهم وجدوا النجاح وحريةهم من جديد بعد اكتشاف أدلة الحمض النووي الجديدة. يُظهر هذا العمل العواقب الكبيرة للنظام العدلي في مجتمعنا، حيث يتعرض الأشخاص لمسئمتهم الخطيرة بسبب تقييم غير دقيق للقضايا. مع مرور الوقت، يبدأ الرجال في استعادة حياتهم بعد خروجهم من السجن، ويجدون فرصاً جديدة للبناء والمساهمة في المجتمع. يتناول هذا الفيلم تجارب الرجال الذين عانوا من ظلم العدالة، ويتساءل عن مستقبلهم وفرصهم بعد خروجهم من السجن.",
+  "poster_path": "/gBqj0wE6ERzIHGC85cnEIDlDb7O.jpg",
+  "backdrop_path": null,
+  "release_date": "2005-10-23",
+  "vote_average": 6.9,
+  "vote_count": 15,
   "genres": [
     {
       "id": 99,
       "name": "وثائقي"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Baseball (1994) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "استمتع بمشاهدة مسلسل البيسبول مترجم بجودة عالية.",
-    "desc_en": "The history of the sport of baseball in America, told through archival photos, film footage, and the words of those who contributed to the game in each era. Writers, historians, players, baseball personnel, and fans review key events and the significance of the game in America's history.",
-    "seo_title_ar": "مشاهدة مسلسل Baseball مترجم - توميتو",
-    "meta_desc": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. است ",
-    "outro": "شاهد Baseball الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
-    "opinion_en": "A stunning  worth watching and exploring.",
+    "intro": "يحظى فيلم 'After Innocence' بالاهتمام الكبير في مجتمعنا بسبب موضوعه الحساس والمثير للجدل.",
+    "desc_ar": "يحكي فيلم 'After Innocence' قصة رجلين قد خضعما لعقوبة السجن لفترة طويلة، ولكنهم وجدوا النجاح وحريةهم من جديد بعد اكتشاف أدلة الحمض النووي الجديدة. يُظهر هذا العمل العواقب الكبيرة للنظام العدلي في مجتمعنا، حيث يتعرض الأشخاص لمسئمتهم الخطيرة بسبب تقييم غير دقيق للقضايا. مع مرور الوقت، يبدأ الرجال في استعادة حياتهم بعد خروجهم من السجن، ويجدون فرصاً جديدة للبناء والمساهمة في المجتمع. يتناول هذا الفيلم تجارب الرجال الذين عانوا من ظلم العدالة، ويتساءل عن مستقبلهم وفرصهم بعد خروجهم من السجن.",
+    "desc_en": "A moving account of the experiences of men exonerated after years, and sometimes decades, in prison following newly found DNA evidence.",
+    "seo_title_ar": "مشاهدة فيلم After Innocence مترجم - توميتو",
+    "meta_desc": "يحكي فيلم After Innocence قصة رجلين قد خضعما لعقوبة السجن لفترة طويلة، ولكنهم وجدوا النجاح وحريةهم من جديد بعد اكتشاف أدلة الحمض النووي الجديدة. استمتع ب",
+    "outro": "ينتهي فيلم 'After Innocence' بتوضيح أهمية أدلة الحمض النووي في تحقيق العدالة والمسئمات الخطيرة في مجتمعنا.",
+    "opinion_ar": "يعد فيلم 'After Innocence' تجربة عظيمة في التحليل العدلي وتحقيق العدالة، ويحفزنا على التفكير في مسألة المسئمات الخطيرة في مجتمعنا.",
+    "opinion_en": "After Innocence is a powerful film that highlights the importance of DNA evidence in exonerating the wrongly accused.",
     "faq": [
       {
-        "q": "كيف يمكنني مشاهدة مسلسل البيسبول?",
-        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
-        "q_en": "How can I watch Baseball?",
-        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
-      },
-      {
-        "q": "ما هو تصنيف مسلسل البيسبول?",
-        "a": "يندرج العمل تحت تصنيف وثائقي.",
-        "q_en": "What is the genre of Baseball?",
-        "a_en": "It falls under the genre of ."
-      },
-      {
-        "q": "ما هي قصة مسلسل البيسبول?",
-        "a": "إجابة عن البيسبول",
-        "q_en": "What is the story of Baseball?",
-        "a_en": "The history of the sport of baseball in America, told through archival photos, film footage, and the words of those who contributed to the game in each era. Writers, historians, players, baseball pers..."
+        "q": "ما هي قصة فيلم 'After Innocence'؟",
+        "a": "يحكي فيلم 'After Innocence' قصة رجلين قد خضعما لعقوبة السجن لفترة طويلة، ولكنهم وجدوا النجاح وحريةهم من جديد بعد اكتشاف أدلة الحمض النووي الجديدة.",
+        "q_en": "What is the story of After Innocence?",
+        "a_en": "After Innocence tells the story of two men who spent years in prison, but were later exonerated after new DNA evidence was discovered."
       }
     ],
-    "keywords": "مضرب البيسبول, كرة البيسبول, لعبة البيسبول, عصا البيسبول, رياضة البيسبول, هل مضرب البيسبول الة بسيطة, دوري البيسبول الرئيسي لموسم الخريف 2025, مضرب البيسبول من الالات البسيطه"
+    "keywords": "After Innocence, فيلم وثائقي, جريمة, عدالة, DNA, حماية الحقوق, مشاهدة After Innocence, After Innocence مترجم, تحميل After Innocence, After Innocence اون لاين, After Innocence جودة عالية, فيلم After Innocence, After Innocence HD, مسلسل After Innocence, After Innocence online"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "103 دقيقة",
+  "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "John Chancellor Daniel Okrent Buck O'Neil Studs Terkel",
-  "first_air_date": "1994-09-18"
+  "cast": ""
 }
