@@ -4,14 +4,12 @@
   "title_ar": "American Dad!",
   "title_en": "American Dad!",
   "slug": "1433-american-dad",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتناول المسلسل قصة أسرة من الطبقة المتوسطة، مكونة من الأب (ستان سميث) والذي يعمل كوكيل وكالة المخابرات المركزية، وزوجته ربة المنزل (فرانسين)، وابنتهما المراهقة التي تدرس بالجامعة (هايلي)، وابنهما في سن المدرسة الثانوية (ستيف)، وما يتعرضون له في حياتهم اليومية.",
   "poster_path": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
   "backdrop_path": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
   "release_date": "2005-02-06",
-  "vote_average": 7,
-  "vote_count": 2362,
+  "vote_average": 7.0,
+  "vote_count": 2420,
   "genres": [
     {
       "id": 16,
@@ -23,35 +21,36 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تتخيل أسرة من الطبقة المتوسطة في الولايات المتحدة الأمريكية؟",
-    "desc_ar": "يتناول المسلسل قصة أسرة من الطبقة المتوسطة، مكونة من الأب الذي يعمل كوكيل وكالة المخابرات المركزية، وزوجته ربة المنزل، وابنتهما المراهقة التي تدرس بالجامعة، وابنهما في سن المدرسة الثانوية، وما يتعرضون له في حياتهم اليومية. من خلال قصة هذه الأسرة، نرى كيف تتعامل الأسرة مع الأزمات والتحديات التي تواجهها في حياتها اليومية، من خلال الكوميديا والرسوم المتحركة.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل American Dad! رسوم متحركة كوميديا",
-    "seo_title_ar": "مشاهدة مسلسل American Dad! مترجم اون لاين - توميتو",
-    "outro": "نُصيح لكم: شاهد هذا الرسوم المتحركة للكبار لمعرفة المزيد عن حياة عائلتك",
-    "opinion": "هو مسلسل كوميديا رائع يلقي الضوء على الحياة اليومية لأسرة أمريكية، ويحولها إلى قصة ممتعة ومرهقة.",
+    "intro": "يحكي أبي أمريكي! قصة أسرة غير عادية، حيث يتولى الأب ستان سميث دور وكيل وكالة المخابرات المركزية، فيما يجد زوجته فرانسين نفسها ربة المنزل، بينما تدرّب ابنتهم هيليز على حياتها الجامعية، ويتغذى ابنه ستيف على الخبرات في المدرسة الثانوية.",
+    "desc_ar": "يحكي أبي أمريكي! قصة أسرة غير عادية، حيث يتولى الأب ستان سميث دور وكيل وكالة المخابرات المركزية، فيما يجد زوجته فرانسين نفسها ربة المنزل، بينما تدرّب ابنتهم هيليز على حياتها الجامعية، ويتغذى ابنه ستيف على الخبرات في المدرسة الثانوية، ويتناقشون مع بعضهم في مواضيع الحياة اليومية، وتتعرض الأسرة لدرجات من الغموض والضحك، مع ظهور شخصيات رئيسية أخرى مثل صديق هيليز جيف فر، والأسد الذهبي كلاوس، والكائن الأجنبي المتحرك روجر، الذي يمتلك العديد من الوجوه ويتكلم بلسان مختلف.",
+    "desc_en": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith his better half housewife, Francine Smith their college-aged daughter, Hayley Smith and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer the family's man-in-a-goldfish-body pet, Klaus and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "seo_title_ar": "مشاهدة أبي أمريكي! مترجم - توميتو",
+    "meta_desc": "أبي أمريكي! مسلسل رسوم متحركة كوميدي عن أسرة غير عادية في أمريكا، يتناول قصة ستان سميث وكالة المخابرات المركزية وزوجته فرانسين وابنته هيليز وابنه ستيف مع ظ",
+    "outro": "ينتهي مسلسل أبي أمريكي! بدرجة من الغموض والضحك، مع ظهور شخصيات رئيسية أخرى مثل صديق هيليز جيف فيشر، والأسد الذهبي كلاوس، والكائن الأجنبي المتحرك روجر، الذي يمتلك العديد من الوجوه ويتكلم بلسان مختلف.",
+    "opinion_ar": "يعد أبي أمريكي! من الأعمال الكوميدية التي تجعلك تتعلم من أسرة غير عادية، وتتعرف على شخصيات غريبة ومحظوظة، وتتعرف على عالم كوميدي يمتلك الكثير من العمق.",
+    "opinion_en": "American Dad! is a comedy series that makes you learn from an unusual family, get to know strange and fortunate characters, and get to know a comedic world that has a lot of depth.",
     "faq": [
       {
-        "q": "ما هو مسلسل American Dad?",
-        "a": "هو مسلسل رسوم متحركة كوميديا يتبع قصة أسرة أمريكية."
+        "q": "ما هي قصة أبي أمريكي؟",
+        "a": "يحكي المسلسل قصة أسرة غير عادية، يتولى الأب دور وكيل وكالة المخابرات المركزية، بينما يجد زوجته دور ربة المنزل، ويتدرّب ابنه على حياته الجامعية، ويتغذى ابنه على الخبرات في المدرسة الثانوية.",
+        "q_en": "What is the story of American Dad?",
+        "a_en": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith his better half housewife, Francine Smith their college-aged daughter, Hayley Smith and their high-school-aged son, Steve Smith."
       },
       {
-        "q": "ما هو نوع مسلسل American Dad?",
-        "a": "هو مسلسل رسوم متحركة كوميديا."
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه مسلسل American Dad?",
-        "a": "يحدث فيه مسلسل American Dad! في الولايات المتحدة الأمريكية."
+        "q": "من شخصيات أبي أمريكي؟",
+        "a": "يوجد شخصيات رئيسية مثل صديق هيليز جيف فيشر، والأسد الذهبي كلاوس، والكائن الأجنبي المتحرك روجر، الذي يمتلك العديد من الوجوه ويتكلم بلسان مختلف.",
+        "q_en": "Who are the characters of American Dad?",
+        "a_en": "There are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer the family's man-in-a-goldfish-body pet, Klaus and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\""
       }
     ],
-    "keywords": "فيلم كوميديا مترجم, مشاهدة مسلسل كوميديا, قصة مسلسل American Dad!, توميتو American Dad!, American Dad! مترجم كامل, أحداث American Dad! بالتفصيل, مشاهدة American Dad! 2005",
-    "desc_en": "The series follows the story of a middle-class family, consisting of the father who works as a CIA agent, his wife, their university-studying daughter, and their high school son, and the challenges they face in their daily life. Through the story of this family, we see how the family deals with the crises and challenges it faces in its daily life, through comedy and animated series."
+    "keywords": "أبي أمريكي!, مسلسل رسوم متحركة كوميدي, أسرة غير عادية, وكالة المخابرات المركزية, ستان سميث, فرانسين, هيليز, ستيف, جيف فيشر, كلاوس, روجر, كوميديا, رسوم متحركة, مشاهدة أبي أمريكي!, American Dad! مترجم"
   },
   "fixed": true,
-  "first_air_date": "2005-02-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "108 دقيقة",
-  "language": "الإسبانية",
-  "country": "إسبانيا",
-  "cast": "Marisa Paredes Eduardo Noriega Federico Luppi Fernando Tielve Íñigo Garcés"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Seth MacFarlane Wendy Schaal Rachael MacFarlane Scott Grimes Dee Bradley Baker",
+  "first_air_date": "2005-02-06"
 }

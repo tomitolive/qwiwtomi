@@ -4,14 +4,12 @@
   "title_ar": "القناص",
   "title_en": "Hunter x Hunter",
   "slug": "46298-hunter-x-hunter",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "تبدأ القصة باكتشاف غون أن والده لا يزال حياً من قبل صياد غريب قدم إلى قريته، فانطلق في رحلة للبحث عن أبيه والحصول على رخصة الصيد عبر دخوله لامتحان الصيادين، متجاوزاً الصعاب العديدة التي كانت تواجهه بمساعدة أصدقائه الذين التقى بهم خلال رحلته. تتميز القصة بحبكة فريدة من نوعها، وباعتمادها على بعضاً من الأخلاقيات كأساس لها، مثل الشجاعة والصداقة. كذلك، تنقسم القصة إلى عدة أجزاء، كل منها يمثل مرحلة معينة، تتميز باختلافها عن باقي الأجزاء، وبارتباطها معاً في الآن نفسه",
-  "poster_path": "/r8qfs8dBQnhSgym9onnmVlnm3zd.jpg",
+  "overview": "لتحقيق أحلامه في أن يصبح صيّادًا أسطوريًّا مثل والده، يتعيّن على فتًى صغير اجتياز اختبار صعب وقاسٍ والعثور على أبيه المفقود.",
+  "poster_path": "/uTP81XMRbAIRY3wH3w1r8NpR2wq.jpg",
   "backdrop_path": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
   "release_date": "2011-10-02",
   "vote_average": 8.7,
-  "vote_count": 2097,
+  "vote_count": 2169,
   "genres": [
     {
       "id": 16,
@@ -27,35 +25,30 @@
     }
   ],
   "ai_content": {
-    "intro": "ماذا لو وضعت حياتك في خطر لتحسين وضع عائلتك؟",
-    "desc_ar": "في عالم مليء بالغموض والخطر، يبحث غون أن عن أبيه بعد أن اكتشف أن والده لا يزال حياً من قبل صياد غريب قدم إلى قريته. من هنا، يبدأ رحلة غون أن لاكتشاف الحقيقة والبحث عن أبيه، معاً مع أصدقائه الذين التقى بهم خلال رحلته، الذين ساعدوه في مواجهة الصعاب العديدة التي تواجهه.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رسوم متحركة «hunter x hunter» - توميتو",
-    "seo_title_ar": "مشاهدة فيلم القناص مترجم اون لاين - توميتو",
-    "outro": "فيلم ممتع للبالغين والصغيرين على حد سواء",
-    "opinion": "القناص هو فيلم رسوم متحركة رائع، يحتوي على أحداث إثارة وملحمة، ويبرز قوة الصداقة والشجاعة.",
+    "intro": "في عالم مليء بالتحديات والمغامرات، يتعين على فتًى صغير أن يثبت نفسه وموهبته لتحقيق حلمه في أن يصبح صيّادًا أسطوريًّا.",
+    "desc_ar": "يحلم فتًى صغير على جزيرة الحوت في أن يصبح صيّادًا أسطوريًّا مثل والده، الذي رحل عن حياته عندما كان صغيرًا. يتعيّن على هذا الفتى الصغير اجتياز اختبار صعب وقاسٍ لتحقيق حلمه، والبحث عن أبيه المفقود الذي كان يشكل رمزًا للغاية بالنسبة له. يبدو أن رحلته ستكون مليئة بالمغامرات والتحديات، ولكن هذا الفتى الصغير لا يهاب من NOTHING. مع كل ما يجد، يتعين عليه أن يثبت نفسه وموهبته، ويحافظ على إرادة القوة التي يملكها. ما هي مصيره؟",
+    "desc_en": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young. To achieve his dream, Gon must pass a difficult and challenging test and find his missing father, who was a symbol of great importance to him. Gon's journey seems to be full of adventures and challenges, but this young boy is not afraid of anything. As he faces various obstacles, he must prove himself and his abilities, and maintain the strong willpower he possesses. What will be his fate?",
+    "seo_title_ar": "مشاهدة مسلسل القناص - Hunter Hunter مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل القناص مترجم - Hunter Hunter 2011 - رسوم متحركة - حركة ومغامرة - خيال علمي وفانتازيا - بدون إعلانات مزعجة. استمتع بمشاهدة هذا ا ا",
+    "outro": "ما هي مصير الفتى الصغير؟ سيستمر مسلسل القناص في إثارة فضولك وتركيزك على كل ما يحدث في حياته.",
+    "opinion_ar": "قصة المسلسل مليئة بالمغامرات والتحديات، والتي تجعل من اللازم إحضار رأسك إلى الكراسي.",
+    "opinion_en": "The story of the series is full of adventures and challenges, which makes it necessary to bring your head to the table.",
     "faq": [
       {
-        "q": "ما هو القناص؟",
-        "a": "القناص هو فيلم رسوم متحركة رائع يحتوي على أحداث إثارة وملحمة."
-      },
-      {
-        "q": "ما هو نوع القناص؟",
-        "a": "القناص هو فيلم رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا."
-      },
-      {
-        "q": "ما هو هدف غون أن في القناص؟",
-        "a": "هدف غون أن في القناص هو البحث عن أبيه بعد أن اكتشف أن والده لا يزال حياً"
+        "q": "ما هو مسلسل القناص؟",
+        "a": "هو مسلسل رسوم متحركة ياباني يصدر عام 2011، يتناول قصة فتًى صغير يريد أن يصبح صيّادًا أسطوريًّا.",
+        "q_en": "What is the Hunter x Hunter series?",
+        "a_en": "It is a Japanese animated series released in 2011, which tells the story of a young boy who wants to become a legendary Hunter."
       }
     ],
-    "keywords": "Hunter x Hunter, فيلم القناص مترجم, مشاهدة فيلم القناص, قصة مسلسل القناص, توميتو القناص, القناص مترجم كامل, مشاهدة القناص 2011, أحداث القناص بالتفصيل",
-    "desc_en": "In a world full of mystery and danger, Gon Freecss searches for his father after discovering that his father is still alive, thanks to a strange hunter who appeared in his hometown. From here, Gon's journey begins to uncover the truth and search for his father, along with his friends he met during his journey, who helped him face the many challenges he encountered."
+    "keywords": "رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, القناص, Hunter Hunter, مسلسل, زاد القناص, ركن القناص, متجر القناص, انمي القناص, مسلسل القناص, القناص العربي, القناص فيلم, القناص مدبلج, القناص الملعون, القناص للرحلات, القناص الملعون انتقام لا يرحم, مسلسل فراشة القناص, سليمان القناص امارة الرياض, فيلم القناص الملعون"
   },
   "fixed": true,
-  "first_air_date": "2011-10-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "37 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Roseanne Barr"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Megumi Han Mariya Ise Issei Futamata Keiji Fujiwara",
+  "first_air_date": "2011-10-02"
 }

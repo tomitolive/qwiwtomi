@@ -2777,8 +2777,110 @@
       "file": "766507.json",
       "title": "فريسة",
       "fixed_at": "2026-08-09T19:30:56.908108"
+    },
+    {
+      "tmdb_id": "1228710",
+      "file": "1228710.json",
+      "title": "The Mandalorian and Grogu",
+      "fixed_at": "2026-08-09T20:59:18.853414"
+    },
+    {
+      "tmdb_id": "1051",
+      "file": "1051.json",
+      "title": "The French Connection",
+      "fixed_at": "2026-08-09T20:59:34.746618"
+    },
+    {
+      "tmdb_id": "93405",
+      "file": "93405.json",
+      "title": "لعبة الحبار",
+      "fixed_at": "2026-08-09T20:59:44.951327"
+    },
+    {
+      "tmdb_id": "82702",
+      "file": "82702.json",
+      "title": "كيف تروض تنينك 2",
+      "fixed_at": "2026-08-09T20:59:56.569539"
+    },
+    {
+      "tmdb_id": "4313",
+      "file": "4313.json",
+      "title": "Full House",
+      "fixed_at": "2026-08-09T21:00:33.989428"
+    },
+    {
+      "tmdb_id": "207250",
+      "file": "207250.json",
+      "title": "The Dangers in My Heart",
+      "fixed_at": "2026-08-09T21:00:43.392861"
+    },
+    {
+      "tmdb_id": "754",
+      "file": "754.json",
+      "title": "الوجه المخلوع",
+      "fixed_at": "2026-08-09T21:00:56.410902"
+    },
+    {
+      "tmdb_id": "1592",
+      "file": "1592.json",
+      "title": "Primal Fear",
+      "fixed_at": "2026-08-09T21:01:04.863391"
+    },
+    {
+      "tmdb_id": "24",
+      "file": "24.json",
+      "title": "Kill Bill: Vol. 1",
+      "fixed_at": "2026-08-09T21:01:28.709919"
+    },
+    {
+      "tmdb_id": "2355",
+      "file": "2355.json",
+      "title": "ليلو وستيتش المسلسل",
+      "fixed_at": "2026-08-09T21:01:38.436099"
+    },
+    {
+      "tmdb_id": "4610",
+      "file": "4610.json",
+      "title": "Hannah Montana",
+      "fixed_at": "2026-08-09T21:01:48.077335"
+    },
+    {
+      "tmdb_id": "1433",
+      "file": "1433.json",
+      "title": "American Dad!",
+      "fixed_at": "2026-08-09T21:01:59.282698"
+    },
+    {
+      "tmdb_id": "4057",
+      "file": "4057.json",
+      "title": "عقول اجرامية",
+      "fixed_at": "2026-08-09T21:02:06.755723"
+    },
+    {
+      "tmdb_id": "90877",
+      "file": "90877.json",
+      "title": "A Black Lady Sketch Show",
+      "fixed_at": "2026-08-09T21:02:19.394509"
+    },
+    {
+      "tmdb_id": "69541",
+      "file": "69541.json",
+      "title": "Harlots",
+      "fixed_at": "2026-08-09T21:02:28.947052"
+    },
+    {
+      "tmdb_id": "46298",
+      "file": "46298.json",
+      "title": "القناص",
+      "fixed_at": "2026-08-09T21:02:36.845305"
+    },
+    {
+      "tmdb_id": "603692",
+      "file": "603692.json",
+      "title": "جون ويك: الفصل ٤",
+      "fixed_at": "2026-08-09T21:02:44.918154"
     }
   ],
-  "last_updated": "2026-08-09T19:30:58.910970",
-  "total_fixed": 463
+  "last_updated": "2026-08-09T21:02:46.920878",
+  "total_fixed": 480
 }
