@@ -903,6 +903,11 @@ def fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, 
                     
                     title = item.get('title') or item.get('name')
                     overview = item.get('overview', '')
+                    rating = round(item.get('vote_average', 0), 1)
+                    
+                    # Filter by rating: only include items with rating >= 7.5
+                    if rating < 7.5:
+                        continue
                     
                     # Check for adult content
                     if is_adult_content(title, overview):
