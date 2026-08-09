@@ -555,14 +555,24 @@ export default async function MoviePage({ params }: Props) {
                       </div>
                     </div>
                   </a>
-                  <a
-                    href={getRandomAdLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block w-full mt-1 bg-orange-600 hover:bg-orange-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
-                  >
-                    مشاهدة
-                  </a>
+                  <div className="flex gap-1 mt-1">
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
+                    >
+                      مشاهدة
+                    </a>
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
+                    >
+                      التحميل
+                    </a>
+                  </div>
                 </div>
               ))}
             </div>
@@ -603,14 +613,24 @@ export default async function MoviePage({ params }: Props) {
                       </div>
                     </div>
                   </a>
-                  <a
-                    href={getRandomAdLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block w-full mt-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                  >
-                    مشاهدة
-                  </a>
+                  <div className="flex gap-1 mt-1">
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      مشاهدة
+                    </a>
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      التحميل
+                    </a>
+                  </div>
                 </div>
               ))}
             </div>
@@ -642,14 +662,24 @@ export default async function MoviePage({ params }: Props) {
                       </div>
                     </div>
                   </a>
-                  <a
-                    href={getRandomAdLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block w-full mt-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                  >
-                    مشاهدة
-                  </a>
+                  <div className="flex gap-1 mt-1">
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      مشاهدة
+                    </a>
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      التحميل
+                    </a>
+                  </div>
                 </div>
               ))}
             </div>
@@ -680,14 +710,24 @@ export default async function MoviePage({ params }: Props) {
                       </div>
                     </div>
                   </a>
-                  <a
-                    href={getRandomAdLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block w-full mt-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                  >
-                    مشاهدة
-                  </a>
+                  <div className="flex gap-1 mt-1">
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      مشاهدة
+                    </a>
+                    <a
+                      href={getRandomAdLink()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                    >
+                      التحميل
+                    </a>
+                  </div>
                 </div>
               ))}
             </div>
