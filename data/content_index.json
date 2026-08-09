@@ -67386,22 +67386,6 @@
     "fixed": true
   },
   {
-    "title": "Debtors Wife / Debtors Wife",
-    "title_ar": "Debtors Wife",
-    "title_en": "Debtors Wife",
-    "slug": "1525963-debtors-wife",
-    "folder": "movie",
-    "poster": "/t/p/w500/ouXTrnJBimHIhWIUlHARDJH47no.jpg",
-    "rating": 7.0,
-    "year": "2024",
-    "type": "movie",
-    "tmdb_id": 1525963,
-    "genre_ids": [],
-    "genres": [],
-    "timestamp": 1786158435,
-    "fixed": true
-  },
-  {
     "title": "No Way Home / No Way Home",
     "title_ar": "No Way Home",
     "title_en": "No Way Home",
@@ -67483,6 +67467,54 @@
       "وثائقي"
     ],
     "timestamp": 1786158448,
+    "fixed": true
+  },
+  {
+    "title": "البطلة ذات الربطة الحمراء / THE RIBBON HERO",
+    "title_ar": "البطلة ذات الربطة الحمراء",
+    "title_en": "THE RIBBON HERO",
+    "slug": "1679730-the-ribbon-hero",
+    "folder": "movie",
+    "poster": "/t/p/w500/sV2HxWbEn4J0Y9CKyZqG4pLmjOP.jpg",
+    "rating": 6.8,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1679730,
+    "genre_ids": [
+      16,
+      14,
+      18,
+      28
+    ],
+    "genres": [
+      "رسوم متحركة",
+      "فانتازيا",
+      "دراما",
+      "حركة"
+    ],
+    "timestamp": 1786310761,
+    "fixed": true
+  },
+  {
+    "title": "Die Fallers Eine Schwarzwaldfamilie / Die Fallers Eine Schwarzwaldfamilie",
+    "title_ar": "Die Fallers Eine Schwarzwaldfamilie",
+    "title_en": "Die Fallers Eine Schwarzwaldfamilie",
+    "slug": "40712-die-fallers-eine-schwarzwaldfamilie",
+    "folder": "tv",
+    "poster": "/t/p/w500/fqgY8LyVaSwS3UTxwqRXB9UJ2MI.jpg",
+    "rating": 6.2,
+    "year": "1994",
+    "type": "tv",
+    "tmdb_id": 40712,
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "genres": [
+      "عائلي",
+      "دراما"
+    ],
+    "timestamp": 1786310770,
     "fixed": true
   }
 ]
