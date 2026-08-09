@@ -4,14 +4,12 @@
   "title_ar": "Andor",
   "title_en": "Andor",
   "slug": "83867-andor",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في عالم النجوم، يستكشف العمل رحلة كاسيان أندور وسط التمرد المتزايد ضد الإمبراطورية، وانتشار الخطر والخداع والمكائد في المجرة بأكملها.",
   "poster_path": "/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
-  "backdrop_path": "/AmUhBqsxcenA75T9hV49G6ouO9c.jpg",
+  "backdrop_path": "/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
   "release_date": "2022-09-21",
   "vote_average": 8.3,
-  "vote_count": 2019,
+  "vote_count": 2132,
   "genres": [
     {
       "id": 10765,
@@ -27,35 +25,42 @@
     }
   ],
   "ai_content": {
-    "intro": "ما إذا كنت تحلم بقطع الأشراك مع الإمبراطورية والانضمام إلى ثورة الكواكب؟",
-    "desc_ar": "في عالم النجوم، يستكشف كاسيان أندور، قائد الفريق، رحلة ممتدة وسط التمرد المتزايد ضد الإمبراطورية، حيث يتعامل مع الخطر والخداع والمكائد التي تنتشر في المجرة بأكملها، ويحاول أن يجد حلًا لمشكل الإمبراطورية، الذي يهدد أمن كل من في المجرة.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم النجوم مع كاسيان أندور!",
-    "seo_title_ar": "مشاهدة فيلم أندور مترجم اون لاين - توميتو",
-    "outro": "عش هذه المغامرة الفضائية الرائعة مع كاسيان أندور، وتعرف على الأزمات المحدقة التي يواجهها، وفي النهاية سوف تنجو أو تندم.",
-    "opinion": "عمل رائع يجمع بين الخيال العلمي والفانتازيا، مع قصة ممتدة مليئة بالتension والتشويق، ويحصل على 9/10 مني.",
+    "intro": "يحكي مسلسل أندور قصة كاسيان أندور، الرجل الذي يكتشف موقفه في عالم مليء بالخطر والخداع، حيث ينتشر التمرد ضد الإمبراطورية الغاليكية.",
+    "desc_ar": "يحكي مسلسل أندور قصة كاسيان أندور، الرجل الذي يكتشف موقفه في عالم مليء بالخطر والخداع، حيث ينتشر التمرد ضد الإمبراطورية الغاليكية، ويبدأ رحلة كاسيان في الدفاع عن حقوق الشعب، ويستعد لتحول إلى بطل ثوري يتحول مجريات التاريخ. في عالم مليء بالمغامرات والمكائد، سيستكشف كاسيان أندور حدود نفسه، ويخوض معاركًا ضد القوى الظالمة، ويحمي أصدقائه، ويحمي المجتمع من التخريب. هذا العمل الفني يأخذنا في رحلة متقلبة، مليئة بالتحديات، والتحولات، والكفاح. وهو ما يجعل كاسيان أندور بطلًا معاصرًا، يلهم الناس، ويحفزهم على العمل لتحقيق تغيير إيجابي.",
+    "desc_en": "In a world filled with danger, deception, and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero, who fights for justice, freedom, and the rights of the people. As he navigates through the complex web of alliances and rivalries, Cassian will confront his own demons, and the harsh realities of the galaxy. His journey will be marked by courage, sacrifice, and the unwavering commitment to his cause. Andor is a story of self-discovery, of growth, and of the power of the human spirit to shape the course of history.",
+    "seo_title_ar": "مشاهدة أندور مسلسل خيال علمي وفانتازيا مترجم - توميتو",
+    "meta_desc": "شاهد أندور مسلسل خيال علمي وفانتازيا متأثر بالحركة والمغامرة والدراما، يستكشف رحلة كاسيان أندور في عالم مليء بالخطر والخداع، واستمتع بمشاهدة هذا العمل بجود",
+    "outro": "هذا العمل الفني يأخذنا في رحلة متقلبة، مليئة بالتحديات، والتحولات، والكفاح، وهو ما يجعل كاسيان أندور بطلًا معاصرًا، يلهم الناس، ويحفزهم على العمل لتحقيق تغيير إيجابي.",
+    "opinion_ar": "يحقق مسلسل أندور نجاحًا كبيرًا في تصوير عالم مليء بالخطر والخداع، ويكون بطلًا معاصرًا يلهم الناس ويحفزهم على العمل لتحقيق تغيير إيجابي.",
+    "opinion_en": "Andor is a compelling and thought-provoking series that explores the complexities of the human condition in a galaxy filled with danger and deception. The show's protagonist, Cassian Andor, is a complex and nuanced character who embodies the spirit of rebellion and resistance.",
     "faq": [
       {
-        "q": "ما هو أندور؟",
-        "a": "أندور هو عمل خيال علمي وفانتازيا يتبع قصة كاسيان أندور، قائد الفريق."
+        "q": "ما هو نوع مسلسل أندور؟",
+        "a": "مسلسل خيال علمي وفانتازيا",
+        "q_en": "What type of series is Andor?",
+        "a_en": "A science fiction and fantasy series"
       },
       {
-        "q": "ما هو نوع أندور؟",
-        "a": "أندور هو نوع تلفزيوني."
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي مسلسل أندور قصة كاسيان أندور في عالم مليء بالخطر والخداع.",
+        "q_en": "What is the series about?",
+        "a_en": "The series follows the story of Cassian Andor in a world filled with danger and deception."
       },
       {
-        "q": "ما هو أهم ما في أندور؟",
-        "a": "أهم ما في أندور هو قصة المaverick والaction والدراما، التي تجعلك تشعر بالتension والتشويق."
+        "q": "ما هي مواعيد عرض المسلسل؟",
+        "a": "عام 2022.",
+        "q_en": "When was the series released?",
+        "a_en": "In the year 2022."
       }
     ],
-    "keywords": "فيلم أندور مترجم, مشاهدة فيلم أندور, مشاهدة Andor 2022, توميتو Andor, قصة مسلسل Andor, Andor مترجم كامل, أحداث Andor بالتفصيل",
-    "desc_en": "In a galaxy far, far away, Cassian Andor, the leader of the team, embarks on a perilous journey amidst the growing rebellion against the Empire, as he navigates the dangers, deceptions, and machinations that spread throughout the galaxy, and tries to find a solution to the Empire's problem that threatens the safety of everyone in the galaxy."
+    "keywords": "أندور, مسلسل خيال علمي وفانتازيا, حركة ومغامرة, دراما, كاسيان أندور, الإمبراطورية الغاليكية, الثورة, المجريات, الفن, التاريخ, المجتمع, الشعب, الحقوق, العدالة, الحرية"
   },
   "fixed": true,
-  "first_air_date": "2022-09-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Diego Luna Anton Lesser Muhannad Bhaier",
+  "first_air_date": "2022-09-21"
 }

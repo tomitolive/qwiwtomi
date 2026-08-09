@@ -1,46 +1,59 @@
 {
   "id": 1900,
-  "title": "LIVE with Kelly and Mark",
-  "title_ar": "LIVE with Kelly and Mark",
-  "title_en": "LIVE with Kelly and Mark",
-  "slug": "1900-live-with-kelly-and-mark",
-  "overview": "يعد \"العيش مع كيلي ومارك\" برنامج حوار صباحي مميز، يستضيف نجومًا من الصف الأول، ويتميز بعروض رائعة وفقرات فريدة لا مثيل لها على شاشة التلفزيون النهاري، بالإضافة إلى محادثات عفوية ومضحكة وغير متوقعة. عنوان هذا المسلسل هو \"LIVE  Kelly  Mark\"، وهو برنامج ترفيهي ممتع.",
-  "poster_path": "/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
-  "backdrop_path": "/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
-  "release_date": "1988-09-05",
-  "vote_average": 5.6,
-  "vote_count": 49,
+  "title": "Traffic",
+  "title_ar": "Traffic",
+  "title_en": "Traffic",
+  "slug": "1900-traffic",
+  "overview": "استكشافٌ لحرب الولايات المتحدة الأمريكية على المخدرات من زوايا متعددة. بالنسبة لرئيس مكتب سياسة مكافحة المخدرات الوطنية الجديد، تصبح الحرب مسألة شخصية عندما يكتشف أن ابنته المتعلمة تتعاطى الكوكايين في منزلهما المريح في الضواحي. في المكسيك، يوافق شرطي نبيل، وإن كان به عيوب، على الشهادة ضد جنرال نافذ متواطئ مع عصابة مخدرات. وفي سان دييغو، تضطر زوجة زعيم عصابة مخدرات، التي تعيش حياة مترفة، إلى التعرف على أعمال زوجها الوحشية بعد اعتقاله، مما يُهدد نمط حياتها الفاخر",
+  "poster_path": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+  "backdrop_path": "/nkMgY1XFLWr91najzfvwie8LyYF.jpg",
+  "release_date": "2000-12-27",
+  "vote_average": 7.1,
+  "vote_count": 2461,
   "genres": [
     {
-      "id": 10767,
-      "name": "حوار"
+      "id": 53,
+      "name": "إثارة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل LIVE with Kelly and Mark (1988) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يعد \"العيش مع كيلي ومارك\" برنامج حوار صباحي مميز، يستضيف نجومًا من الصف الأول، ويتميز بعروض رائعة وفقرات فريدة لا مثيل لها على شاشة التلفزيون النهاري، بالإضافة إلى محادثات عفوية ومضحكة وغير متوقعة. عنوان هذا المسلسل هو \"LIVE  Kelly  Mark\"، وهو برنامج ترفيهي ممتع.",
-    "desc_en": "LIVE with Kelly and Mark is a captivating morning talk show that features A-list celebrity guests, top-notch performances, and unique segments that are unparalleled in daytime television. The show offers spontaneous, hilarious, and unpredictable conversations, making it an entertaining watch.",
-    "seo_title_ar": "مشاهدة مسلسل العيش مع كيلي ومارك مترجم - توميتو",
-    "meta_desc": "العيش مع كيلي ومارك: برنامج حوار صباحي ممتع مع ضيوف من المشاهير، وعروض رائعة، وفقرات فريدة لا مثيل لها. LIVE Kelly Mark هو برنامج ترفيهي ممتع.",
-    "outro": "شاهد LIVE with Kelly and Mark الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "العيش مع كيلي ومارك هو برنامج حوار صباحي ممتع، يجمع بين الضيوف المشاهير والعروض الرائعة، مما يجعله تجربة ترفيهية لا تنسى.",
-    "opinion_en": "LIVE with Kelly and Mark is an engaging morning talk show that combines celebrity guests and top-notch performances, creating an unforgettable entertainment experience.",
+    "intro": "يحكي فيلم مرور قصة حرب الولايات المتحدة الأمريكية على المخدرات من زوايا مختلفة، حيث يتعامل characters مع تأثيرات الحرب على حياتهم الشخصية.",
+    "desc_ar": "يحكي فيلم مرور قصة حرب الولايات المتحدة الأمريكية على المخدرات من زوايا مختلفة، حيث يتعامل مع تأثيرات الحرب على حياتهم الشخصية. في إطار مثير وجريئ، يُظهر الفيلم كيف يمكن أن تؤثر الحرب على الأفراد من جميع الأطياف، خاصةً عندما يتعرف على أعمال مخدرات زوجهم أو أبنائهم، مما يهدد نمط حياتهم الفاخر. يسلط الفيلم الضوء على الأخطاء في سياسات مكافحة المخدرات ويتعامل مع المواضيع الجدية من خلال قصة ملحمية ومليئة بالتحديات.",
+    "desc_en": "An exploration of the United States of America's war on drugs from multiple perspectives, where characters face the personal consequences of the war. In a thrilling and gripping narrative, the film shows how the war can affect individuals from all walks of life, particularly when characters discover their spouses or children are involved in the drug trade, threatening their luxurious lifestyles. The film sheds light on the flaws in drug policy and tackles serious issues through a epic and challenging story.",
+    "seo_title_ar": "مشاهدة فيلم مرور مترجم - توميتو",
+    "meta_desc": "مرور فيلم إثارة وجريمة يبهر بصوره الملحمية للجريمة المخدرة، استمتع بمشاهدة مرور فيلم Traffic مترجم - توميتو استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "يُظهر فيلم مرور كيف يمكن أن تؤثر الحرب على الأفراد من جميع الأطياف، خاصةً عندما يتعرف characters على أعمال مخدرات زوجهم أو أبنائهم، مما يهدد نمط حياتهم الفاخر.",
+    "opinion_ar": "يعتبر فيلم مرور تجربة روائية رائعة لتعامل الفيلم مع المواضيع الجدية من خلال قصة ملحمية.",
+    "opinion_en": "Traffic is a remarkable cinematic experience that effectively handles serious issues through an epic story.",
     "faq": [
       {
-        "q": "ما هو العيش مع كيلي ومارك؟",
-        "a": "برنامج حوار صباحي يستضيف المشاهير ويقدم فقرات فريدة وممتعة.",
-        "q_en": "What is LIVE with Kelly and Mark?",
-        "a_en": "A captivating morning talk show with celebrity guests and unique, entertaining segments."
+        "q": "ما هو عنوان فيلم مرور؟",
+        "a": "عنوان فيلم مرور هو مرور.",
+        "q_en": "What is the title of the film Traffic?",
+        "a_en": "The title of the film Traffic is Traffic."
+      },
+      {
+        "q": "متى تم إنتاج فيلم مرور؟",
+        "a": "تم إنتاج فيلم مرور في عام 2000.",
+        "q_en": "When was the film Traffic produced?",
+        "a_en": "The film Traffic was produced in 2000."
       }
     ],
-    "keywords": "العيش مع كيلي ومارك, LIVE Kelly Mark, برنامج حوار, برنامج صباحي, ضيوف مشاهير, فقرات فريدة, تلفزيون نهاري, ترفيه"
+    "keywords": "مرور فيلم إثارة, مرور فيلم جريمة, مرور فيلم دراما, مرور فيلم أمريكي, مرور فيلم 2000, مرور فيلم Traffic, كلمة مرور, ابشر مرور, كلمه مرور, كلمة مرور نفاذ, رقم مرور, المرور, مرور الرياض, موعد مرور, حجز موعد مرور, نسيت كلمة مرور نفاذ, كيف يحسن الشبكة العصبية في التعلم العميق تنبؤاتها مع مرور الوقت؟, ايفاء مخالفات مرور, يستخدم المنصهر الكهربائي لقطع الدائرة الكهربائية بانصهار الفلز المكون له عند مرور تيار كبير صواب خطأ, حادث مرور الرياض, تغير كلمة مرور نفاذ"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "44 دقيقة",
+  "duration": "147 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kelly Ripa Mark Consuelos",
-  "first_air_date": "1988-09-05"
+  "cast": "Michael Douglas Benicio del Toro Catherine Zeta-Jones Erika Christensen Don Cheadle Jacob Vargas Miguel Ferrer Luis Guzmán"
 }
