@@ -1,58 +1,45 @@
 {
   "id": 232230,
-  "title": "لورد الغوامض",
-  "title_ar": "لورد الغوامض",
-  "title_en": "Lord of Mysteries",
-  "slug": "232230-lord-of-mysteries",
-  "overview": "لورد الغوامض: في عالم فيكتوري مليء بالبخار والسفن الحربية وأهوال الخوارق، يستيقظ زو مينغروي كـ كلاين موريتي. يسير على حافة سكين بين النور والظلام، متورطًا مع الكنائس المتصارعة. هذه هي أسطورة الإمكانات غير المحدودة... والخطر الذي لا يوصف.",
-  "poster_path": "/7Bi0B7PqKiSmc5C3ASgJIEo7t6Z.jpg",
-  "backdrop_path": "/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
-  "release_date": "2025-06-28",
-  "vote_average": 8.7,
-  "vote_count": 133,
+  "title": "Au loin des villages",
+  "title_ar": "Au loin des villages",
+  "title_en": "Far from the Villages",
+  "slug": "232230-far-from-the-villages",
+  "overview": "يحكي فيلم \"Au \" قصة بعض المهاجرين الذين فروا من منطقة دارفور إلى مخيم Gouroukoun بعد اندلاع النزاع في 2005. يعيش هؤلاء اللاجئون حياة غير مؤكدة، بدون طعام، بدون عمل، ولا أمل في العودة إلى ديارهم. يروي الفيلم قصة الحياة الصعبة التي يعيشها هؤلاء اللاجئون، مع القليل من الطعام، وعدم وجود عمل، ولا أمل في العودة إلى ديارهم.",
+  "poster_path": "/uWDtpewt4PrwzCBkffaw9fMENZZ.jpg",
+  "backdrop_path": "/weanMzu1Gufj1dzOPCXljONZhRX.jpg",
+  "release_date": "2008-07-07",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 9648,
-      "name": "غموض"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل لورد الغوامض (2025) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "لورد الغوامض: في عالم فيكتوري مليء بالبخار والسفن الحربية وأهوال الخوارق، يستيقظ زو مينغروي كـ كلاين موريتي. يسير على حافة سكين بين النور والظلام، متورطًا مع الكنائس المتصارعة. هذه هي أسطورة الإمكانات غير المحدودة... والخطر الذي لا يوصف.",
-    "desc_en": "Lord of Mysteries: In a Victorian era filled with steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a fine line between light and darkness, entangled with warring Churches. This is a legend of unlimited potential and unspeakable danger.",
-    "seo_title_ar": "مشاهدة مسلسل لورد الغوامض Lord Mysteries مترجم - توميتو",
-    "meta_desc": "لورد الغوامض - مسلسل رسوم متحركة يجمع بين الغموض والخيال العلمي والفانتازيا، حيث يستيقظ زو مينغروي في عالم فيكتوري مليء بالأحداث المثيرة.",
-    "outro": "شاهد لورد الغوامض الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "لورد الغوامض هو مسلسل رسوم متحركة مثير يغوص في عالم من الغموض والخيال العلمي، مع قصة مشوقة ومليئة بالتشويق والإثارة.",
-    "opinion_en": "Lord of Mysteries is an animated series that offers a captivating blend of mystery and science fiction, with a story that keeps viewers on the edge of their seats.",
+    "intro": "يحكي فيلم \"Au loin des villages\" قصة بعض المهاجرين الذين فروا من منطقة دارفور إلى مخيم refugee camp near the village of Gouroukoun.",
+    "desc_ar": "يحكي فيلم \"Au \" قصة بعض المهاجرين الذين فروا من منطقة دارفور إلى مخيم Gouroukoun بعد اندلاع النزاع في 2005. يعيش هؤلاء اللاجئون حياة غير مؤكدة، بدون طعام، بدون عمل، ولا أمل في العودة إلى ديارهم. يروي الفيلم قصة الحياة الصعبة التي يعيشها هؤلاء اللاجئون، مع القليل من الطعام، وعدم وجود عمل، ولا أمل في العودة إلى ديارهم.",
+    "desc_en": "Far from the Villages tells the story of some refugees who fled from the Darfur region to the refugee camp near the village of Gouroukoun after the conflict spread to the eastern border regions of Chad in 2005. These refugees live an uncertain life, with little food, no work, and no prospect of returning home. The film captures their arduous daily life in long shots, often from a single angle, and reveals their stories of how they ended up in this camp, saw their families and fellow-villagers perish, and no longer have any work, cattle, or land.",
+    "seo_title_ar": "مشاهدة فيلم Au مترجم - توميتو",
+    "meta_desc": "فيلم Au يروي قصة المهاجرين الذين فروا من دارفور إلى مخيم Gouroukoun. يعيش هؤلاء اللاجئون حياة غير مؤكدة، بد استمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "فيلم \"Au loin des villages\" هو تجربة رائعة في سرد قصة المهاجرين الذين فروا من دارفور إلى مخيم refugee camp near the village of Gouroukoun.",
+    "opinion_ar": "فيلم \"Au \" هو تجربة رائعة في سرد قصة المهاجرين الذين فروا من دارفور إلى مخيم Gouroukoun. يعكس الفيلم حياة غير مؤكدة، ومحاولة اللاجئين للبقاء على قيد الحياة.",
+    "opinion_en": "Far from the Villages is a powerful film that tells the story of refugees who fled from Darfur to the refugee camp near the village of Gouroukoun. The film captures their uncertain lives and their struggles to survive.",
     "faq": [
       {
-        "q": "هل لورد الغوامض مناسب لجميع الأعمار؟",
-        "a": "قد لا يكون لورد الغوامض مناسبًا للأطفال الصغار بسبب بعض المشاهد المخيفة والعنيفة. يُنصح بمشاهدته من قبل المراهقين وما فوق.",
-        "q_en": "Is Lord of Mysteries suitable for all ages?",
-        "a_en": "Lord of Mysteries may not be suitable for very young children due to some scary and violent scenes. It is recommended for teenagers and above."
+        "q": "ما هو قصة فيلم \"Au \"؟",
+        "a": "يحكي فيلم \"Au \" قصة بعض المهاجرين الذين فروا من منطقة دارفور إلى مخيم Gouroukoun بعد اندلاع النزاع في 2005.",
+        "q_en": "What is the story of Far from the Villages?",
+        "a_en": "Far from the Villages tells the story of some refugees who fled from the Darfur region to the refugee camp near the village of Gouroukoun after the conflict spread to the eastern border regions of Chad in 2005."
       }
     ],
-    "keywords": "لورد الغوامض, Lord Mysteries, رسوم متحركة, غموض, خيال علمي, فانتازيا, مغامرة, فيكتوري, كنائس, أسطورة, لورد الغوامض انمي, لورد الغوامض رواية, مانهوا لورد الغوامض, انمي لورد الغوامض الحلقة 1, لورد الغوامض ملوك الروايات"
+    "keywords": "فيلم, وثائقي, دارفور, مخيم, Gouroukoun, قصة المهاجرين, حياة غير مؤكدة, نزاع, سينما, أفلام, توميتو, مشاهدة Au, Far Villages مترجم, تحميل Au, Au اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "35 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "",
-  "first_air_date": "2025-06-28"
+  "duration": "75 دقيقة",
+  "language": "الفرنسية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

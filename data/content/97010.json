@@ -4,13 +4,11 @@
   "title_ar": "Living Among the Rich",
   "title_en": "Living Among the Rich",
   "slug": "97010-living-among-the-rich",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"العيش بين الأغنياء\" قصة عائلة يه-جا التي تشغلها فكرة الانتقال إلى حي تشونغدام، وتتغير حياة بنية-يون بشكل كبير مع هذه الخطوة. يتصور بنية-يون أن حياة الغنياء سيكون لها تجربة فريدة، لكن الواقع يختلف عن الخيال، حيث يجدون أنفسهم يعيشون في بناية متساقطة، بينما توجد بجوارهما ملهى لافتراضات وبيت للعقار. يبدو الحي الذي انتقلوا إليه كأنه بوابة إلى عالم الغنى، حيث يحيط بهم منازل فاخرة ومريحة.",
   "poster_path": "/7d4HhXb0B9UGnEKWqF8aTHBYZ3Y.jpg",
   "backdrop_path": "/nEXXXzCAcploF1Xe1aoQkxKuROw.jpg",
   "release_date": "2011-12-05",
-  "vote_average": 9,
+  "vote_average": 9.0,
   "vote_count": 2,
   "genres": [
     {
@@ -19,35 +17,36 @@
     }
   ],
   "ai_content": {
-    "intro": "أيها المتابع، هل تتخيل بأنك تقضي أيامك في مجتمع يعتبر الأغنياء كأقوياء؟",
-    "desc_ar": "في عالم مليء بمعجزات الثروة، يتعين على رجل يعيش بين الأغنياء ألا يفوت فرصة للتحدي، لكن ماذا لو كان التحدي يأتي من داخل المجتمع نفسه؟",
-    "meta_desc": "تحدي الحياة بين الأغنياء، هل يستطيع رجل واحد أن يدعو للاهتمام من داخل المجتمع؟",
-    "seo_title_ar": "حياة بين الأغنياء: التحدي المثير",
-    "outro": "إذا كنت من محبي القصص ذات الطابع المتسارع، فأنا حزين في أن لا أجد حبك لمتابعة هذا الفيلم..",
-    "opinion": "حسنا، حزين في عدم مواعدة هذا الفيلم. حاول تابعته..",
+    "intro": "يحكي مسلسل \"العيش بين الأغنياء\" قصة عائلة يه-جا التي تشغلها فكرة الانتقال إلى حي تشونغدام، وتتغير حياة بنية-يون بشكل كبير مع هذه الخطوة.",
+    "desc_ar": "يحكي مسلسل \"العيش بين الأغنياء\" قصة عائلة يه-جا التي تشغلها فكرة الانتقال إلى حي تشونغدام، وتتغير حياة بنية-يون بشكل كبير مع هذه الخطوة. يتصور بنية-يون أن حياة الغنياء سيكون لها تجربة فريدة، لكن الواقع يختلف عن الخيال، حيث يجدون أنفسهم يعيشون في بناية متساقطة، بينما توجد بجوارهما ملهى لافتراضات وبيت للعقار. يبدو الحي الذي انتقلوا إليه كأنه بوابة إلى عالم الغنى، حيث يحيط بهم منازل فاخرة ومريحة.",
+    "desc_en": "Ji-Eun is thrilled to hear that her mother Hye-Ja is moving to Cheongdam neighborhood, but her excitement quickly turns to disappointment as she realizes that their new home is a far cry from the luxurious lifestyle she had envisioned. The family's old suburban home is replaced with a dilapidated building, which is sandwiched between high-end apartments in the upscale neighborhood. Ji-Eun's dreams of living a life of opulence are shattered as she navigates the harsh realities of their new surroundings.",
+    "seo_title_ar": "مشاهدة العيش بين الأغنياء مترجم - مسلسل عائلي",
+    "meta_desc": "عيش بين الأغنياء، مسلسل عائلي عن عائلة يه-جا التي تحلم بالحياة الفاخرة في حي تشونغدام، لكن الواقع يختلف عن الخيال. استمتع بمشاهدة هذا العمل بجودة عالية وتر",
+    "outro": "يعد \"العيش بين الأغنياء\" تجربة روائية فريدة، حيث يتعرف المشاهد على العالم الغني من منظور مختلف، ويتعرف على عائلة يه-جا التي تعيش في واقع يختلف عن الخيال.",
+    "opinion_ar": "يعد \"العيش بين الأغنياء\" تجربة روائية فريدة، حيث يتعرف المشاهد على العالم الغني من منظور مختلف، ويتعرف على عائلة يه-جا التي تعيش في واقع يختلف عن الخيال.",
+    "opinion_en": "Living Among the Rich is a poignant and thought-provoking drama that offers a unique perspective on the world of the wealthy, and the struggles of a family who find themselves living in a reality that is far removed from their dreams.",
     "faq": [
       {
-        "q": "هل هذا الفيلم للعائلات؟",
-        "a": "نعم، يعتبر الفيلم مناسبا لقصة عائلية رائعة ومثيرة"
+        "q": "ما هي قصة مسلسل \"العيش بين الأغنياء\"؟",
+        "a": "يحكي المسلسل قصة عائلة يه-جا التي تشغلها فكرة الانتقال إلى حي تشونغدام، وتتغير حياة بنية-يون بشكل كبير مع هذه الخطوة.",
+        "q_en": "What is the story of the drama \"Living Among the Rich\"?",
+        "a_en": "The drama follows the story of the Hye-Ja family, who move to the upscale Cheongdam neighborhood, and Ji-Eun's life is drastically changed as a result."
       },
       {
-        "q": "ماذا يتضمن الفيلم؟",
-        "a": "يتضمن الفيلم عناصر رائعة مثل الإثارة والمغامرة والفكاهة"
-      },
-      {
-        "q": "هل الفيلم حقيقي؟",
-        "a": "لا، الفيلم هو إنتاج سينمائي متصاعد، وليس مقتبس من واقع حقيقي"
+        "q": "ما هي نوعية المسلسل؟",
+        "a": "يعد المسلسل عائليًا، حيث يركز على تجربة عائلة في حي تشونغدام.",
+        "q_en": "What type of drama is Living Among the Rich?",
+        "a_en": "The drama is a family drama, focusing on the experiences of a family in the Cheongdam neighborhood."
       }
     ],
-    "keywords": "قصة مسلسل Living Among the Rich, مشاهدة Living Among the Rich 2011, توميتو Living Among the Rich, أحداث Living Among the Rich بالتفصيل, Living Among the Rich مترجم كامل",
-    "desc_en": "In a world full of wealth miracles, a man living among the rich must not miss an opportunity for a challenge, but what if the challenge comes from within the community itself?"
+    "keywords": "العيش بين الأغنياء, مسلسل عائلي, حي تشونغدام, عائلة يه-جا, بنية-يون, قصة درامية, تجربة فريدة, مشاهدة العيش بين الأغنياء, Living Among Rich مترجم, تحميل العيش بين الأغنياء, العيش بين الأغنياء اون لاين, Living Among Rich, العيش بين الأغنياء جودة عالية, فيلم العيش بين الأغنياء, Living Among Rich HD"
   },
   "fixed": true,
-  "first_air_date": "2011-12-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "92 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Joyce Carlin Nancy Carlin Poni Chesser Reef Karim Pooja Kumar"
+  "duration": "30 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Kim Hye-ja Oh Ji-eun Hyun Woo Lee Sang-yeob Lee Bo-hee Seo Seung-hyeon Woo Hyeon Choi Mu-sung",
+  "first_air_date": "2011-12-05"
 }

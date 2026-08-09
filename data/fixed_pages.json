@@ -2879,8 +2879,86 @@
       "file": "603692.json",
       "title": "جون ويك: الفصل ٤",
       "fixed_at": "2026-08-09T21:02:44.918154"
+    },
+    {
+      "tmdb_id": "4607",
+      "file": "4607.json",
+      "title": "الضياع",
+      "fixed_at": "2026-08-09T21:20:40.733093"
+    },
+    {
+      "tmdb_id": "232230",
+      "file": "232230.json",
+      "title": "لورد الغوامض",
+      "fixed_at": "2026-08-09T21:21:01.292982"
+    },
+    {
+      "tmdb_id": "332562",
+      "file": "332562.json",
+      "title": "ولادة نجمة",
+      "fixed_at": "2026-08-09T21:21:08.919011"
+    },
+    {
+      "tmdb_id": "45790",
+      "file": "45790.json",
+      "title": "مغامرات جوجو العجيبة",
+      "fixed_at": "2026-08-09T21:21:21.681858"
+    },
+    {
+      "tmdb_id": "97010",
+      "file": "97010.json",
+      "title": "Living Among the Rich",
+      "fixed_at": "2026-08-09T21:21:39.665396"
+    },
+    {
+      "tmdb_id": "259837",
+      "file": "259837.json",
+      "title": "الحمقى الخارقون",
+      "fixed_at": "2026-08-09T21:21:47.504670"
+    },
+    {
+      "tmdb_id": "1219926",
+      "file": "1219926.json",
+      "title": "South Park (Not Suitable for Children)",
+      "fixed_at": "2026-08-09T21:21:55.625077"
+    },
+    {
+      "tmdb_id": "4297",
+      "file": "4297.json",
+      "title": "The Equalizer",
+      "fixed_at": "2026-08-09T21:22:06.317803"
+    },
+    {
+      "tmdb_id": "1620682",
+      "file": "1620682.json",
+      "title": "أحبك من زمان",
+      "fixed_at": "2026-08-09T21:22:16.575042"
+    },
+    {
+      "tmdb_id": "1305672",
+      "file": "1305672.json",
+      "title": "I Know Who You Are",
+      "fixed_at": "2026-08-09T21:22:27.809328"
+    },
+    {
+      "tmdb_id": "2517",
+      "file": "2517.json",
+      "title": "Nobody Knows",
+      "fixed_at": "2026-08-09T21:22:36.445609"
+    },
+    {
+      "tmdb_id": "10775",
+      "file": "10775.json",
+      "title": "Infernal Affairs",
+      "fixed_at": "2026-08-09T21:22:48.308687"
+    },
+    {
+      "tmdb_id": "102651",
+      "file": "102651.json",
+      "title": "ماليفسنت",
+      "fixed_at": "2026-08-09T21:23:04.612742"
     }
   ],
-  "last_updated": "2026-08-09T21:02:46.920878",
-  "total_fixed": 480
+  "last_updated": "2026-08-09T21:23:08.814693",
+  "total_fixed": 493
 }

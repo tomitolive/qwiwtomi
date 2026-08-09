@@ -4,14 +4,12 @@
   "title_ar": "مغامرات جوجو العجيبة",
   "title_en": "JoJos Bizarre Adventure",
   "slug": "45790-jojos-bizarre-adventure",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
   "poster_path": "/k8iHQ2IU7j5FprP4oWrp03ClqJ9.jpg",
-  "backdrop_path": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+  "backdrop_path": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
   "release_date": "2012-10-06",
   "vote_average": 8.6,
-  "vote_count": 1590,
+  "vote_count": 1632,
   "genres": [
     {
       "id": 16,
@@ -27,19 +25,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل مغامرات جوجو العجيبة (2012) مترجم بجودة عالية على توميتو.",
     "desc_ar": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
-    "desc_en": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
-    "meta_desc": "مشاهدة مغامرات جوجو العجيبة مترجم بجودة عالية على توميتو.",
-    "keywords": "JoJos Bizarre Adventure, أحداث مغامرات جوجو العجيبة بالتفصيل, مغامرات جوجو العجيبة مترجم, توميتو مغامرات جوجو العجيبة, قصة فيلم مغامرات جوجو العجيبة, مشاهدة مغامرات جوجو العجيبة 2026",
-    "seo_title_ar": "مشاهدة مغامرات جوجو العجيبة مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "seo_title_ar": "مشاهدة مسلسل JoJos Bizarre Adventure مترجم - توميتو",
+    "meta_desc": "مشاهدة مغامرات جوجو العجيبة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "شاهد مغامرات جوجو العجيبة الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل مغامرات جوجو العجيبة?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch JoJos Bizarre Adventure?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل مغامرات جوجو العجيبة?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا.",
+        "q_en": "What is the genre of JoJos Bizarre Adventure?",
+        "a_en": "It falls under the genre of رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا."
+      },
+      {
+        "q": "ما هي قصة مسلسل مغامرات جوجو العجيبة?",
+        "a": "تواجه أجيال عديدة من عائلة \"جوستار\"، يحمل جميع أفرادها اللقب نفسه، أشرارًا قواهم خارقة للطبيعة على فترات من الزمن.",
+        "q_en": "What is the story of JoJos Bizarre Adventure?",
+        "a_en": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers."
+      }
+    ],
+    "keywords": "مغامرات جوجو العجيبة مترجم, JoJos Bizarre Adventure مترجم, مشاهدة مغامرات جوجو العجيبة,"
   },
   "fixed": true,
-  "first_air_date": "2012-10-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "nl",
-  "country": "هولندا",
-  "cast": "Cees Geel Tygo Gernandt Camilla Siegertsz Tjeerd Melchers Jasmin Pasteuning"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Shogo Sakata Yohei Azakami Kaito Ishikawa Rie Takahashi Kenta Miyake",
+  "first_air_date": "2012-10-06"
 }
