@@ -4,14 +4,12 @@
   "title_ar": "Sabrina, the Teenage Witch",
   "title_en": "Sabrina, the Teenage Witch",
   "slug": "605-sabrina-the-teenage-witch",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "حسناً هذا العمل الرائع يسرد قصة حياة سابرينا، الساحرة المراهقة، وهي فتاة تعيش مع أسرتها الباهرة في القرية الخيالية في ويستبريدج، ماساتشوستس. في ذاكرة طويلة المدى، تكتشف سابرينا أنها تتمتع بالقدرة على السحر، وتصبح خليفة للقوى السحرية. مع أسرتها، التي تتضمن أختين خليفتين هيلدا وزيلدا، بالإضافة إلى كلبها المتكلم سالم، تتعلم سابرينا كيفية التحكم في قواها وتحقيق النجاح في حياتها.",
   "poster_path": "/nNhj3coHNVVJPVM7fm5PEYVTCMO.jpg",
   "backdrop_path": "/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
   "release_date": "1996-09-27",
   "vote_average": 7.8,
-  "vote_count": 1218,
+  "vote_count": 1237,
   "genres": [
     {
       "id": 35,
@@ -27,35 +25,30 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تتخيل жизнь كمراهقة ساحرة تقطعت بهم الصيل بين عالم السحر وعالم البشر؟",
-    "desc_ar": "في عالم السحر والفантаسيا، تظهر سبرينا، الفتاة السابعة عشرة، التي تكتشف أنها ورثة سحرية قوية، وتقوم بالعديد من المغامرات والمرحلة مع صديقها جاكي، في هذه السلسلة الكوميدية والعائليّة والخيالية، التي تجمع بين المغامرة والكوميديا والفانتازيا.",
-    "seo_title_ar": "مشاهدة فيلم سبرينا، الفتاة السابعة عشرة، مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سلسلة سبرينا، الفتاة السابعة عشرة، التي تكتشف سحرها!",
-    "outro": "إذا كنت تبحث عن مسلسل خيال مغامرات ومليء بالكوميديا، فـ سابرينا هو اختيار رائع",
-    "opinion": "هذه السلسلة الكوميدية والعائليّة والخيالية هي إضافة رائعة إلى عالم السحر والفانتازيا، مع مغامرات رائعة وكوميدياً ساخرة، سبرينا، الفتاة السابعة عشرة، تكتشف سحرها وتقوم بالعديد من المغامرات والمرحلة مع صديقها جاكي.",
+    "intro": "في هذا العمل الرائع، يسرد مسلسل سابرينا، الساحرة المراهقة قصة حياة سابرينا، التي تكتشف قوتها السحرية وتصبح خليفة للقوى السحرية في قرية ويستبريدج، ماساتشوستس.",
+    "desc_ar": "حسناً هذا العمل الرائع يسرد قصة حياة سابرينا، الساحرة المراهقة، وهي فتاة تعيش مع أسرتها الباهرة في القرية الخيالية في ويستبريدج، ماساتشوستس. في ذاكرة طويلة المدى، تكتشف سابرينا أنها تتمتع بالقدرة على السحر، وتصبح خليفة للقوى السحرية. مع أسرتها، التي تتضمن أختين خليفتين هيلدا وزيلدا، بالإضافة إلى كلبها المتكلم سالم، تتعلم سابرينا كيفية التحكم في قواها وتحقيق النجاح في حياتها.",
+    "desc_en": "On her sixteenth birthday, Sabrina Spellman discovers she has magical powers. She lives with her 600-year-old aunts Hilda and Zelda as well as talking cat Salem in the fictional town of Westbridge, Massachusetts. As she navigates her teenage years, Sabrina learns to harness her powers and balance her magical life with her everyday world.",
+    "seo_title_ar": "مشاهدة مسلسل سابرينا، الساحرة المراهقة مترجم - توميتو",
+    "meta_desc": "عرض مسلسل سابرينا، الساحرة المراهقة مترجم، خيال علمي وفانتازيا كوميديا عائلي، يروي قصة حياة سابرينا، التي تكتشف قوتها السحرية على عيد ميلادها السادس عشر، و",
+    "outro": "بإمكانك الاستمتاع بمشاهدة مسلسل سابرينا، الساحرة المراهقة مترجم، الذي يروي قصة حياة سابرينا، التي تكتشف قوتها السحرية وتصبح خليفة للقوى السحرية في قرية ويستبريدج، ماساتشوستس.",
+    "opinion_ar": "هذا العمل الرائع يسرد قصة حياة سابرينا، الساحرة المراهقة، التي تكتشف قوتها السحرية وتصبح خليفة للقوى السحرية في قرية ويستبريدج، ماساتشوستس.",
+    "opinion_en": "This show is a great representation of Sabrina's journey as she discovers her magical powers and becomes a witch in the fictional town of Westbridge, Massachusetts.",
     "faq": [
       {
-        "q": "ما هو سبرينا، الفتاة السابعة عشرة؟",
-        "a": "هي سلسلة كوميدية عائليّة خيال علمي فانتازيا تتبع مغامرات الفتاة السابعة عشرة سبرينا، التي تكتشف سحرها."
-      },
-      {
-        "q": "ما هو نوع السلسلة؟",
-        "a": "هي سلسلة تلفزيونية كوميدية عائليّة خيال علمي فانتازيا."
-      },
-      {
-        "q": "ما هو المكان الذي تเกي السلسلة؟",
-        "a": "تเกي السلسلة في عالم السحر والفانتازيا، مع مغامرات رائعة وكوميدياً ساخرة"
+        "q": "ما هو موضوع مسلسل سابرينا، الساحرة المراهقة؟",
+        "a": "هذا العمل يروي قصة حياة سابرينا، الساحرة المراهقة، التي تكتشف قوتها السحرية وتصبح خليفة للقوى السحرية في قرية ويستبريدج، ماساتشوستس.",
+        "q_en": "What is the subject of the Sabrina, the Teenage Witch show?",
+        "a_en": "This show tells the story of Sabrina, a teenage girl who discovers her magical powers and becomes a witch in the fictional town of Westbridge, Massachusetts."
       }
     ],
-    "keywords": "فيلم سبرينا مترجم, مشاهدة فيلم سبرينا, سحر الفتاة السابعة عشرة, كوميديا عائلي خيال علمي فانتازيا, قصة مسلسل Sabrina, the Teenage Witch, توميتو Sabrina, مشاهدة Sabrina, the Teenage Witch 1996, Sabrina, the Teenage Witch مترجم كامل, أحداث Sabrina, the Teenage Witch بالتفصيل",
-    "desc_en": "In a world of magic and fantasy, Sabrina, the 17-year-old, discovers she is a powerful witch, and embarks on many adventures and misadventures with her friend Jackie, in this comedic, family-friendly, and fantastical series that combines adventure, comedy, and fantasy."
+    "keywords": "سابرينا، الساحرة المراهقة, مسلسل, خيال علمي وفانتازيا, كوميديا, عائلي, سحر, عيد ميلاد, ويستبريدج, ماساتشوستس, هيلدا, زيلدا, سالم, مشاهدة سابرينا، الساحرة المراهقة, Sabrina, Teenage Witch مترجم, تحميل سابرينا، الساحرة المراهقة"
   },
   "fixed": true,
-  "first_air_date": "1996-09-27",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "129 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Keanu Reeves Laurence Fishburne Carrie-Anne Moss Hugo Weaving Jada Pinkett Smith"
+  "cast": "Melissa Joan Hart Elisa Donovan Soleil Moon Frye Nick Bakay",
+  "first_air_date": "1996-09-27"
 }

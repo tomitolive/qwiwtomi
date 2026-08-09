@@ -2693,8 +2693,38 @@
       "file": "34891.json",
       "title": "Jake and the Never Land Pirates",
       "fixed_at": "2026-08-08T23:45:36.773919"
+    },
+    {
+      "tmdb_id": "514754",
+      "file": "514754.json",
+      "title": "Bao",
+      "fixed_at": "2026-08-09T12:29:40.036247"
+    },
+    {
+      "tmdb_id": "206559",
+      "file": "206559.json",
+      "title": "Binnelanders",
+      "fixed_at": "2026-08-09T12:29:48.818307"
+    },
+    {
+      "tmdb_id": "605",
+      "file": "605.json",
+      "title": "Sabrina, the Teenage Witch",
+      "fixed_at": "2026-08-09T12:29:57.958682"
+    },
+    {
+      "tmdb_id": "223397",
+      "file": "223397.json",
+      "title": "Cidade de Deus: A Luta No Para",
+      "fixed_at": "2026-08-09T12:30:05.267316"
+    },
+    {
+      "tmdb_id": "2343",
+      "file": "2343.json",
+      "title": "Lewis",
+      "fixed_at": "2026-08-09T12:30:15.062550"
     }
   ],
-  "last_updated": "2026-08-08T23:45:38.776671",
-  "total_fixed": 449
+  "last_updated": "2026-08-09T12:30:17.291069",
+  "total_fixed": 454
 }
