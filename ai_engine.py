@@ -799,45 +799,17 @@ def get_available_ids():
 
 
 def fetch_mixed_content(media_type, tmdb_api_key=TMDB_API_KEY):
-    """Fetch content using rotating TMDB endpoints (now_playing, top_rated, popular, trending, etc.)."""
+    """Fetch content using only trending endpoints (trending/day and trending/week)."""
     available_ids = get_available_ids()
     log.info(f"📊 Found {len(available_ids)} existing items in local data")
     
-    # Define endpoints for rotation
-    if media_type == 'movie':
-        endpoints_group1 = [
-            ('now_playing', 'now_playing'),
-            ('top_rated', 'top_rated'),
-            ('popular', 'popular'),
-            ('trending', 'trending/day')
-        ]
-        endpoints_group2 = [
-            ('trending', 'trending/week'),
-            ('upcoming', 'upcoming'),
-            ('popular', 'popular'),
-            ('top_rated', 'top_rated')
-        ]
-    else:  # tv
-        endpoints_group1 = [
-            ('airing_today', 'airing_today'),
-            ('top_rated', 'top_rated'),
-            ('popular', 'popular'),
-            ('trending', 'trending/day')
-        ]
-        endpoints_group2 = [
-            ('on_the_air', 'on_the_air'),
-            ('trending', 'trending/week'),
-            ('popular', 'popular'),
-            ('top_rated', 'top_rated')
-        ]
+    # Use only trending endpoints
+    endpoints = [
+        ('trending', 'trending/day'),
+        ('trending', 'trending/week')
+    ]
     
-    # Rotate between groups based on time (every 30 minutes)
-    import time
-    current_time = int(time.time())
-    use_group1 = (current_time // 1800) % 2 == 0  # Switch every 30 minutes
-    
-    endpoints = endpoints_group1 if use_group1 else endpoints_group2
-    log.info(f"🔄 Using endpoint group: {'Group 1' if use_group1 else 'Group 2'}")
+    log.info(f"🔄 Using trending endpoints only")
     
     result = []
     
