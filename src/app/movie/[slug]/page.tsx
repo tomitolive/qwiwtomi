@@ -131,9 +131,11 @@ export default async function MoviePage({ params }: Props) {
     "https://www.effectivecpmnetwork.com/yyfyhe2mhu?key=5c6adf2e336c9ff9cc1082a52dad7beb"
   ];
 
-  const getRandomAdLink = () => {
-    return adLinks[Math.floor(Math.random() * adLinks.length)];
-  };
+  // Select one smart link for the entire page
+  const pageSmartLink = adLinks[Math.floor(Math.random() * adLinks.length)];
+
+  // Function to check if card should show ad link (70% chance)
+  const shouldShowAdLink = () => Math.random() < 0.7;
 
   const movieSchema = {
     "@context": "https://schema.org",
@@ -539,42 +541,48 @@ export default async function MoviePage({ params }: Props) {
               أفلام مقترحة
             </h2>
             <div className="grid grid-cols-6 gap-0">
-              {localSimilar.slice(0, 6).map((item, i) => (
-                <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
-                  <a href={getRandomAdLink()} target="_blank" rel="noopener noreferrer">
-                    <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
-                        src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
-                        loading="lazy"
-                        className="w-full aspect-[2/3] object-cover"
-                      />
-                      <div className="p-2">
-                        <h3 className="text-white text-xs font-bold truncate">{item.title_ar || item.title}</h3>
-                        <p className="text-gray-500 text-[10px]">{item.year} ⭐ {item.rating}</p>
+              {localSimilar.slice(0, 6).map((item, i) => {
+                const showAd = shouldShowAdLink();
+                const cardLink = showAd ? pageSmartLink : `/movie/${item.slug}`;
+                return (
+                  <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
+                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                      <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
+                        <img
+                          src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
+                          alt={item.title_ar || item.title}
+                          loading="lazy"
+                          className="w-full aspect-[2/3] object-cover"
+                        />
+                        <div className="p-2">
+                          <h3 className="text-white text-xs font-bold truncate">{item.title_ar || item.title}</h3>
+                          <p className="text-gray-500 text-[10px]">{item.year} ⭐ {item.rating}</p>
+                        </div>
                       </div>
-                    </div>
-                  </a>
-                  <div className="flex gap-1 mt-1">
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
-                    >
-                      مشاهدة
                     </a>
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
-                    >
-                      التحميل
-                    </a>
+                    {showAd && (
+                      <div className="flex gap-1 mt-1">
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
+                        >
+                          مشاهدة
+                        </a>
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold py-1 text-center transition-colors"
+                        >
+                          التحميل
+                        </a>
+                      </div>
+                    )}
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         )}
@@ -597,42 +605,48 @@ export default async function MoviePage({ params }: Props) {
               الأحدث
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(0, 10).map((item, i) => (
-                <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                  <a href={getRandomAdLink()} target="_blank" rel="noopener noreferrer">
-                    <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
-                        src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
-                        loading="lazy"
-                        className="w-full aspect-[2/3] object-cover"
-                      />
-                      <div className="p-2">
-                        <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
-                        <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+              {localSimilar.slice(0, 10).map((item, i) => {
+                const showAd = shouldShowAdLink();
+                const cardLink = showAd ? pageSmartLink : `/movie/${item.slug}`;
+                return (
+                  <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
+                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                      <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
+                        <img
+                          src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
+                          alt={item.title_ar || item.title}
+                          loading="lazy"
+                          className="w-full aspect-[2/3] object-cover"
+                        />
+                        <div className="p-2">
+                          <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
+                          <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+                        </div>
                       </div>
-                    </div>
-                  </a>
-                  <div className="flex gap-1 mt-1">
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      مشاهدة
                     </a>
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      التحميل
-                    </a>
+                    {showAd && (
+                      <div className="flex gap-1 mt-1">
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          مشاهدة
+                        </a>
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          التحميل
+                        </a>
+                      </div>
+                    )}
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
 
@@ -646,42 +660,48 @@ export default async function MoviePage({ params }: Props) {
               الأكثر مشاهدة
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(10, 20).map((item, i) => (
-                <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                  <a href={getRandomAdLink()} target="_blank" rel="noopener noreferrer">
-                    <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
-                        src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
-                        loading="lazy"
-                        className="w-full aspect-[2/3] object-cover"
-                      />
-                      <div className="p-2">
-                        <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
-                        <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+              {localSimilar.slice(10, 20).map((item, i) => {
+                const showAd = shouldShowAdLink();
+                const cardLink = showAd ? pageSmartLink : `/movie/${item.slug}`;
+                return (
+                  <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
+                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                      <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
+                        <img
+                          src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
+                          alt={item.title_ar || item.title}
+                          loading="lazy"
+                          className="w-full aspect-[2/3] object-cover"
+                        />
+                        <div className="p-2">
+                          <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
+                          <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+                        </div>
                       </div>
-                    </div>
-                  </a>
-                  <div className="flex gap-1 mt-1">
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      مشاهدة
                     </a>
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      التحميل
-                    </a>
+                    {showAd && (
+                      <div className="flex gap-1 mt-1">
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          مشاهدة
+                        </a>
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          التحميل
+                        </a>
+                      </div>
+                    )}
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
 
@@ -694,42 +714,48 @@ export default async function MoviePage({ params }: Props) {
               الأعلى تقييماً
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(20, 30).map((item, i) => (
-                <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                  <a href={getRandomAdLink()} target="_blank" rel="noopener noreferrer">
-                    <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
-                        src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
-                        loading="lazy"
-                        className="w-full aspect-[2/3] object-cover"
-                      />
-                      <div className="p-2">
-                        <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
-                        <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+              {localSimilar.slice(20, 30).map((item, i) => {
+                const showAd = shouldShowAdLink();
+                const cardLink = showAd ? pageSmartLink : `/movie/${item.slug}`;
+                return (
+                  <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
+                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                      <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
+                        <img
+                          src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
+                          alt={item.title_ar || item.title}
+                          loading="lazy"
+                          className="w-full aspect-[2/3] object-cover"
+                        />
+                        <div className="p-2">
+                          <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
+                          <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+                        </div>
                       </div>
-                    </div>
-                  </a>
-                  <div className="flex gap-1 mt-1">
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      مشاهدة
                     </a>
-                    <a
-                      href={getRandomAdLink()}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                    >
-                      التحميل
-                    </a>
+                    {showAd && (
+                      <div className="flex gap-1 mt-1">
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          مشاهدة
+                        </a>
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          التحميل
+                        </a>
+                      </div>
+                    )}
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
 
@@ -744,32 +770,48 @@ export default async function MoviePage({ params }: Props) {
               عشوائي
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(30, 40).map((item, i) => (
-                <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
-                  <a href={getRandomAdLink()} target="_blank" rel="noopener noreferrer">
-                    <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
-                        src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
-                        loading="lazy"
-                        className="w-full aspect-[2/3] object-cover"
-                      />
-                      <div className="p-2">
-                        <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
-                        <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+              {localSimilar.slice(30, 40).map((item, i) => {
+                const showAd = shouldShowAdLink();
+                const cardLink = showAd ? pageSmartLink : `/movie/${item.slug}`;
+                return (
+                  <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
+                    <a href={cardLink} target={showAd ? "_blank" : undefined} rel={showAd ? "noopener noreferrer" : undefined}>
+                      <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
+                        <img
+                          src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
+                          alt={item.title_ar || item.title}
+                          loading="lazy"
+                          className="w-full aspect-[2/3] object-cover"
+                        />
+                        <div className="p-2">
+                          <h3 className="text-white text-[10px] font-bold truncate">{item.title_ar || item.title}</h3>
+                          <p className="text-gray-500 text-[9px]">{item.year} ⭐ {item.rating}</p>
+                        </div>
                       </div>
-                    </div>
-                  </a>
-                  <a
-                    href={getRandomAdLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block w-full mt-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
-                  >
-                    مشاهدة
-                  </a>
-                </div>
-              ))}
+                    </a>
+                    {showAd && (
+                      <div className="flex gap-1 mt-1">
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-orange-600 hover:bg-orange-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          مشاهدة
+                        </a>
+                        <a
+                          href={pageSmartLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 bg-green-600 hover:bg-green-700 text-white text-[9px] font-bold py-1 text-center transition-colors"
+                        >
+                          التحميل
+                        </a>
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </div>
         </div>
