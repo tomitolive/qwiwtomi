@@ -102,6 +102,18 @@ export default async function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="fbd3e913244fb343" />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PRCQVS90BX');
+          `}
+        </Script>
       </head>
       <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
         <main className="min-h-screen">
