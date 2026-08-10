@@ -3557,8 +3557,56 @@
       "file": "226637.json",
       "title": "قدرات استثنائية",
       "fixed_at": "2026-08-10T09:50:11.337597"
+    },
+    {
+      "tmdb_id": "46952",
+      "file": "46952.json",
+      "title": "القائمة السوداء",
+      "fixed_at": "2026-08-10T11:03:46.167692"
+    },
+    {
+      "tmdb_id": "17893",
+      "file": "17893.json",
+      "title": "Camino",
+      "fixed_at": "2026-08-10T11:03:57.277310"
+    },
+    {
+      "tmdb_id": "122194",
+      "file": "122194.json",
+      "title": "CSI: Vegas",
+      "fixed_at": "2026-08-10T11:04:11.237323"
+    },
+    {
+      "tmdb_id": "1601797",
+      "file": "1601797.json",
+      "title": "Quieres ser mi novia",
+      "fixed_at": "2026-08-10T11:04:25.493761"
+    },
+    {
+      "tmdb_id": "1010819",
+      "file": "1010819.json",
+      "title": "The Little Guy",
+      "fixed_at": "2026-08-10T11:04:40.440094"
+    },
+    {
+      "tmdb_id": "1497970",
+      "file": "1497970.json",
+      "title": "Tom and Jerry: Forbidden Compass",
+      "fixed_at": "2026-08-10T11:04:54.088436"
+    },
+    {
+      "tmdb_id": "38559",
+      "file": "38559.json",
+      "title": "E",
+      "fixed_at": "2026-08-10T11:05:10.218715"
+    },
+    {
+      "tmdb_id": "504",
+      "file": "504.json",
+      "title": "The Ren Stimpy Show",
+      "fixed_at": "2026-08-10T11:05:25.087950"
     }
   ],
-  "last_updated": "2026-08-10T09:50:13.340377",
-  "total_fixed": 593
+  "last_updated": "2026-08-10T11:05:27.090667",
+  "total_fixed": 601
 }

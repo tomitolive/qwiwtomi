@@ -1,17 +1,15 @@
 {
   "id": 504,
-  "title": "The Ren Stimpy Show",
-  "title_ar": "The Ren Stimpy Show",
+  "title": "عرض رين وستيمبي",
+  "title_ar": "عرض رين وستيمبي",
   "title_en": "The Ren Stimpy Show",
   "slug": "504-the-ren-stimpy-show",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
-  "poster_path": "/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
+  "overview": "رين وستيمبي ثنائيٌّ غير متجانس، مثاليٌّ لعالم الرسوم المتحركة، لا يجمعهما شيءٌ سوى صداقةٍ متينةٍ وميلٍ فطريٍّ للوقوع في المشاكل. انضمّ إليهما في عالمهما الغريب والمثير للاشمئزاز، وشاهد مواقفَ شاذّةً مصحوبةً بنكاتٍ مضحكة",
+  "poster_path": "/u4YZhMms48mgP756hniUcw6PQPU.jpg",
   "backdrop_path": "/c8m4NAE774Vsn5AZvn2bFarUtDX.jpg",
   "release_date": "1991-08-11",
   "vote_average": 7.6,
-  "vote_count": 521,
+  "vote_count": 530,
   "genres": [
     {
       "id": 16,
@@ -26,44 +24,47 @@
       "name": "كوميديا"
     },
     {
-      "id": 10762,
-      "name": "أطفال"
-    },
-    {
       "id": 10751,
       "name": "عائلي"
     }
   ],
   "ai_content": {
-    "intro": "هل تذكر يومًا ما وجدت نفسك أمام عالمًا غريبًا ومسلية لدرجة أنك لا تريد الخروج منه؟",
-    "desc_ar": "يتصلا بنا عالم من اللاعبين النفساءين، حيث يلعب رين ستيمبي، الوعاء، دوراً رئيسياً في هذه المغامرة، حيث يلعب دوراً رئيسياً في هذه المغامرة، حيث يلعب دوراً رئيسياً في هذه المغامرة، حيث يلعب دوراً رئيسياً في هذه المغامرة، حيث يلعب دوراً رئيسياً في هذه المغامرة، حيث يلعب دوراً رئيسياً في هذه المغامرة.",
-    "seo_title_ar": "مشاهدة فيلم الرين ستيمبي شو مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في رسوم متحركة، خيال علمي وفانتازيا، كوميديا، أطفال, عائلي!",
-    "outro": "إذا كنت تبحث عن وقت مسلٍ وملهم، فلا تفوت فرصة مشاهدة هذا العرض الكرتوني الكلاسيكي",
-    "opinion": "هو فيلم رائع يلعب دوراً رئيسياً في عالم رسوم متحركة، خيال علمي وفانتازيا، كوميديا، أطفال, عائلي!",
+    "intro": "استمتع بمشاهدة مسلسل عرض رين وستيمبي (1991) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "رين وستيمبي ثنائيٌّ غير متجانس، مثاليٌّ لعالم الرسوم المتحركة، لا يجمعهما شيءٌ سوى صداقةٍ متينةٍ وميلٍ فطريٍّ للوقوع في المشاكل. انضمّ إليهما في عالمهما الغريب والمثير للاشمئزاز، وشاهد مواقفَ شاذّةً مصحوبةً بنكاتٍ مضحكة",
+    "desc_en": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
+    "seo_title_ar": "مشاهدة مسلسل The Ren Stimpy Show مترجم - توميتو",
+    "meta_desc": "مشاهدة عرض رين وستيمبي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد عرض رين وستيمبي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "كيف يمكنني مشاهدة مسلسل عرض رين وستيمبي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Ren Stimpy Show?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هو تصنيف مسلسل عرض رين وستيمبي?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, خيال علمي وفانتازيا, كوميديا, عائلي.",
+        "q_en": "What is the genre of The Ren Stimpy Show?",
+        "a_en": "It falls under the genre of رسوم متحركة, خيال علمي وفانتازيا, كوميديا, عائلي."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هي قصة مسلسل عرض رين وستيمبي?",
+        "a": "رين وستيمبي ثنائيٌّ غير متجانس، مثاليٌّ لعالم الرسوم المتحركة، لا يجمعهما شيءٌ سوى صداقةٍ متينةٍ وميلٍ فطريٍّ للوقوع في المشاكل. انضمّ إليهما في عالمهما الغريب والمثير للاشمئزاز، وشاهد مواقفَ شاذّةً م...",
+        "q_en": "What is the story of The Ren Stimpy Show?",
+        "a_en": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world fo..."
       }
     ],
-    "keywords": "فيلم الرين ستيمبي شو مترجم, مشاهدة فيلم الرين ستيمبي شو, مشاهدة The Ren Stimpy Show 1991, توميتو The Ren Stimpy Show, قصة مسلسل The Ren Stimpy Show, The Ren Stimpy Show مترجم كامل, أحداث The Ren Stimpy Show بالتفصيل",
-    "desc_en": "We are transported to a world of eccentric characters, where Ren Stimpy, the lovable, plays a leading role in this adventure, where Ren Stimpy, the lovable, plays a leading role in this adventure, where Ren Stimpy, the lovable, plays a leading role in this adventure, where Ren Stimpy, the lovable, plays a leading role in this adventure, where Ren Stimpy, the lovable, plays a leading role in this adventure."
+    "keywords": "عرض رين وستيمبي مترجم, The Ren Stimpy Show مترجم, مشاهدة عرض رين وستيمبي,"
   },
   "fixed": true,
-  "first_air_date": "1991-08-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "109 دقيقة",
+  "duration": "11 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Charlize Theron Christina Ricci Bruce Dern Lee Tergesen Annie Corley"
+  "cast": "Billy West",
+  "first_air_date": "1991-08-11"
 }
