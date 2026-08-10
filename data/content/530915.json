@@ -8,37 +8,46 @@
   "poster_path": "/jRPa10ooxCEdIpoRfMq9pfmdsry.jpg",
   "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
   "release_date": "2019-12-25",
-  "vote_average": 8,
-  "vote_count": 13526,
+  "vote_average": 8.0,
+  "vote_count": 13744,
   "genres": [
     {
       "id": 10752,
       "name": "حرب"
     },
     {
-      "id": 36,
-      "name": "تاريخ"
-    },
-    {
       "id": 18,
       "name": "دراما"
+    },
+    {
+      "id": 36,
+      "name": "تاريخ"
     }
   ],
   "ai_content": {
-    "desc_ar": "خلال الحرب العالمية الأولى، يغامر شابان في الجيش البريطاني بالتوغل خلف خطوط العدو لإيصال رسالة حاسمة يمكن أن تمنع مذبحة كتيبة بريطانية وقعت في فخ نصبه لها العدو.",
-    "desc_en": "خلال الحرب العالمية الأولى، يغامر شابان في الجيش البريطاني بالتوغل خلف خطوط العدو لإيصال رسالة حاسمة يمكن أن تمنع مذبحة كتيبة بريطانية وقعت في فخ نصبه لها العدو.",
-    "meta_desc": "مشاهدة 1917 مترجم بجودة عالية على توميتو.",
-    "keywords": "مشاهدة 1917 2026, فيلم 7dogs, فيلم السادة الافاضل, مشاهدة فيلم kingsman, فيلم ام كلثوم, ايرادات فيلم برشامه, فيلم ٧ كلاب, فيلم برشامة سينما فوكس, ايرادات فيلم 7 dogs, مونيكا بيلوتشي, ابطال فيلم 7 dogs, فيلم برشامة يانغو بلاي, فيلم اشاعة حب, ابطال فيلم برشامة, فيلم اسد محمد رمضان dailymotion, 7 dogs, 7 dogs فيلم, فيلم سفن دوجز, فيلم درويش, فيلم الكلام علي ايه, فيلم الرسالة, توميتو 1917, قصة فيلم 1917, أحداث 1917 بالتفصيل, 1917 مترجم",
-    "seo_title_ar": "مشاهدة 1917 مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة.",
-    "intro": "",
-    "outro": ""
+    "intro": "يحكى هذا العمل قصة عن جنود بريطانيين شابان يُصادِفون نفسهم في فترة الحرب العالمية الأولى، حيث يتعين عليهم عبور أرض العدو ووصول رسالة حاسمة لتجنب مذبحة بريطانية كبيرة.",
+    "desc_ar": "يحكى هذا العمل قصة عن جنود بريطانيين شابان يُصادِفون نفسهم في فترة الحرب العالمية الأولى، حيث يتعين عليهم عبور أرض العدو ووصول رسالة حاسمة لتجنب مذبحة بريطانية كبيرة، وقع فيها جنود بريطانيون في فخ نصبه لهم العدو. يجد الشابان أنفسهم في مواجهة معاهدة خطيرة، حيث يجب عليهم إنجاح مهمتهم وتقديم الرسالة في الوقت المناسب لمنع المذبحة. خلال رحلتهم، تواجهان صعوبات كثيرة وهم في مواجهة العدو، لكنهم يظلا معتمدين على بعضهم البعض لنجاح مهمتهم.",
+    "desc_en": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers. The two soldiers find themselves in a critical situation, where they must succeed in their mission and deliver the message in time to prevent the massacre. During their journey, they face many challenges as they face the enemy, but they remain dependent on each other for the success of their mission.",
+    "seo_title_ar": "مشاهدة 1917 فيلم حرب مترجم - توميتو",
+    "meta_desc": "1917 فيلم حرب دراما تاريخي يروي قصة عن جنود بريطانيين يغامرون في الحرب العالمية الأولى، يصادفون نفسهم في مواجهة معاهدة خطيرة، حيث يجب عليهم عبور أرض العدو",
+    "outro": "يُعد فيلم 1917 من أفضل الأفلام التي تم إنتاجها في القرن الحادي والعشرين، حيث يُظهر القدرة على إخبار القصص بتفاصيلها وأحداثها بشكل مصدق.",
+    "opinion_ar": "1917 فيلم حرب دراما تاريخي يُعد من أهم الأفلام التي تم إنتاجها في القرن الحادي والعشرين، حيث يُظهر فيلم 1917 القدرة على إخبار القصص بتفاصيلها وأحداثها بشكل مصدق.",
+    "opinion_en": "1917 is a war drama film that is considered one of the most important films of the 21st century, as it shows the ability to tell stories in detail and events in a believable way.",
+    "faq": [
+      {
+        "q": "ما هو فيلم 1917؟",
+        "a": "فيلم 1917 هو فيلم حرب دراما تاريخي يروي قصة عن جنود بريطانيين يغامرون في الحرب العالمية الأولى.",
+        "q_en": "What is 1917?",
+        "a_en": "1917 is a war drama film that tells the story of two British soldiers who embark on a mission during World War I."
+      }
+    ],
+    "keywords": "فيلم 1917, حرب, دراما, تاريخ, الحرب العالمية الأولى, جنود بريطانيين, رسالة حاسمة, مذبحة بريطانية, عبور أرض العدو, مشاهدة 1917, 1917 مترجم, تحميل 1917, 1917 اون لاين, 1917, 1917 جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "119 دقيقة",
+  "duration": "118 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "George MacKay Dean-Charles Chapman Mark Strong Andrew Scott Richard Madden"
+  "cast": "George MacKay Dean-Charles Chapman Mark Strong Andrew Scott Richard Madden Claire Duburcq Colin Firth Benedict Cumberbatch"
 }

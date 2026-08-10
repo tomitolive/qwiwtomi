@@ -5,11 +5,11 @@
   "title_en": "Star Wars",
   "slug": "11-star-wars",
   "overview": "تم القبض على الأميرة ليا واحتجازها كرهينة من قبل القوات الإمبراطورية الشريرة في جهودها للسيطرة على الإمبراطورية المجرية. فريق المغامر Luke Skywalker والقبطان المبهر Han Solo مع الثنائي الروبوت المحبوب R2-D2 و C-3PO لإنقاذ الأميرة الجميلة واستعادة السلام والعدالة في الإمبراطورية.",
-  "poster_path": "/558iEtKniO3PhawQqNKu96R5utf.jpg",
+  "poster_path": "/pPtO9WhTVvF65LBMjthYJkXqI40.jpg",
   "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
   "release_date": "1977-05-25",
   "vote_average": 8.2,
-  "vote_count": 22309,
+  "vote_count": 22624,
   "genres": [
     {
       "id": 12,
@@ -25,28 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لرحلة ملحمية عبر المجرة؟ دعنا نغوص في عالم حرب النجوم، حيث تتصارع القوى الخيرة والشريرة في ملحمة خالدة.",
-    "desc_ar": "في عالم مليء بالسحال والشعوذة، يلتقي Luke Skywalker مع القبطان Han Solo في رحلة من المغامرة والخطر، حيث يهدفون إلى إنقاذ الأميرة الجميلة ليا من قبضة القوات الإمبراطورية الشريرة. مع رفيقيه الروبوتين R2-D2 و C-3PO، سيركبون في رحلة ممتدة من المغامرة والقتال، حيث سيتعرفون على الأسرار والسرائر والشعوذة في عالم النجوم.",
-    "seo_title_ar": "مشاهدة فيلم حرب النجوم مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في حرب النجوم!",
-    "outro": "حرب النجوم هي تجربة سينمائية لا تنسى، حيث يمتزج الخيال العلمي مع المغامرة والدراما. استعد لرحلة مليئة بالإثارة والتشويق مع هذه الملحمة الخالدة.",
-    "opinion": "هو فيلم من أهم الأفلام في التاريخ، حيث يجمع بين المغامرة والقتال والخيال العلمي في عالم النجوم، مما يجعله فيلماً لا ينسى أبداً.",
+    "intro": "يحكي فيلم حرب النجوم قصة إنقاذ الأميرة ليا من قبل لوك سكاي وكرر وهان سولو، مع الثنائي الروبوت C-3PO و R2-D2، في عالم مليء بالحروب والصراعات.",
+    "desc_ar": "في عالم مليء بالحروب والصراعات، يتم القبض على الأميرة ليا وحجزها كرهينة من قبل القوات الإمبراطورية الشريرة في محاولة لسيطرة الإمبراطورية المجرية. يتركز الاهتمام حول فريق المغامر المكون من لوك سكاي وكرر و القبطان هان سولو، مع الثنائي الروبوت المحب -3PO و R2-D2، في إنقاذ الأميرة الجميلة واستعادة السلام والعدالة في الإمبراطورية. يتعرض الفريق للعديد من التحديات والخدع، ولكنهم يبقون ثابتين في هدفهم، ويستخدمون مهاراتهم الفريدة في مواجهة القوات الإمبراطورية.",
+    "desc_en": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "seo_title_ar": "مشاهدة فيلم حرب النجوم مترجم - توميتو",
+    "meta_desc": "حرب النجوم: فيلم مغامرة وحركة وخيال علمي يتبع قصة إنقاذ الأميرة ليا من قبل لوك سكاي وكرر وهان سولو، مع الثنائي الروبوت -3PO و R2-D2، في عالم مليء بالحروب و",
+    "outro": "يعد فيلم حرب النجوم فيلمًا رائعًا ومثيرًا، يجمع بين المغامرة والحركة والخيال العلمي، مع أعمال فنية رائعة ومواقف درامية، يجعله فيلمًا لا يمكن الاستغناء عنه.",
+    "opinion_ar": "حرب النجوم فيلم رائع ومثير، يجمع بين المغامرة والحركة والخيال العلمي، مع أعمال فنية رائعة ومواقف درامية، يجعله فيلمًا لا يمكن الاستغناء عنه.",
+    "opinion_en": "Star Wars is a thrilling and captivating film, combining adventure, action, and science fiction, with outstanding visual effects and dramatic moments, making it a must-see film.",
     "faq": [
       {
-        "q": "ما هو حرب النجوم؟",
-        "a": "هو فيلم مغامرة خيال علمي يروي قصة Luke Skywalker والقبطان Han Solo في رحلة إنقاذ الأميرة الجميلة ليا من القوات الإمبراطورية."
+        "q": "ما هو فيلم حرب النجوم؟",
+        "a": "فيلم حرب النجوم هو فيلم مغامرة وحركة وخيال علمي يتبع قصة إنقاذ الأميرة ليا من قبل لوك سكاي وكرر وهان سولو، مع الثنائي الروبوت -3PO و R2-D2، في عالم مليء بالحروب والصراعات.",
+        "q_en": "What is Star Wars?",
+        "a_en": "Star Wars is a science fiction film that follows the story of Princess Leia's rescue by Luke Skywalker and Han Solo, along with the robot duo C-3PO and R2-D2, in a world filled with wars and conflicts."
       },
       {
-        "q": "ما هو أهم ما في حرب النجوم؟",
-        "a": "أهم ما في هذا الفيلم هو المغامرة والقتال والخيال العلمي، مما يجعله فيلماً لا ينسى أبداً."
-      },
-      {
-        "q": "ما هو أفضل جزء في حرب النجوم؟",
-        "a": "أفضل جزء في هذا الفيلم هو قصة Luke Skywalker والقبطان Han Solo في رحلة إنقاذ الأميرة الجميلة ليا من القوات الإمبراطورية، والتي تتميز بال مغامرة والقتال والخيال العلمي"
+        "q": "متى صدر فيلم حرب النجوم؟",
+        "a": "صدر فيلم حرب النجوم في عام 1977.",
+        "q_en": "When was Star Wars released?",
+        "a_en": "Star Wars was released in 1977."
       }
     ],
-    "keywords": "Star Wars, فيلم حرب النجوم مترجم, مشاهدة فيلم حرب النجوم, توميتو حرب النجوم, مشاهدة حرب النجوم 1977, قصة فيلم حرب النجوم, أحداث حرب النجوم بالتفصيل, حرب النجوم مترجم",
-    "desc_en": "In a galaxy filled with danger and mystery, Luke Skywalker meets Captain Han Solo on a thrilling adventure to rescue the beautiful Princess Leia from the clutches of the evil Imperial forces. With his robot friends R2-D2 and C-3PO, they embark on a long journey of adventure and battle, uncovering secrets and surprises in a galaxy far, far away."
+    "keywords": "فيلم حرب النجوم, مغامرة, حركة, خيال علمي, لوك سكاي وكرر, هان سولو, -3PO, R2-D2, الأميرة ليا, الإمبراطورية المجرية, مشاهدة حرب النجوم, Star Wars مترجم, تحميل حرب النجوم, حرب النجوم اون لاين, Star Wars"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "121 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Mark Hamill Harrison Ford Carrie Fisher Peter Cushing Alec Guinness"
+  "cast": "Mark Hamill Harrison Ford Carrie Fisher Peter Cushing Alec Guinness Anthony Daniels Kenny Baker Peter Mayhew"
 }

@@ -3725,8 +3725,44 @@
       "file": "18398.json",
       "title": "Conspiracy in the Court",
       "fixed_at": "2026-08-10T14:36:03.129031"
+    },
+    {
+      "tmdb_id": "1723460",
+      "file": "1723460.json",
+      "title": "A Toxic Love Story",
+      "fixed_at": "2026-08-10T15:42:16.070425"
+    },
+    {
+      "tmdb_id": "530915",
+      "file": "530915.json",
+      "title": "1917",
+      "fixed_at": "2026-08-10T15:42:24.723438"
+    },
+    {
+      "tmdb_id": "23483",
+      "file": "23483.json",
+      "title": "كيك-آس",
+      "fixed_at": "2026-08-10T15:42:32.181240"
+    },
+    {
+      "tmdb_id": "11",
+      "file": "11.json",
+      "title": "حرب النجوم",
+      "fixed_at": "2026-08-10T15:42:42.843311"
+    },
+    {
+      "tmdb_id": "32798",
+      "file": "32798.json",
+      "title": "Hawaii Five-0",
+      "fixed_at": "2026-08-10T15:42:52.506675"
+    },
+    {
+      "tmdb_id": "63351",
+      "file": "63351.json",
+      "title": "ناركوس",
+      "fixed_at": "2026-08-10T15:43:12.575984"
     }
   ],
-  "last_updated": "2026-08-10T14:36:05.131782",
-  "total_fixed": 621
+  "last_updated": "2026-08-10T15:43:14.578737",
+  "total_fixed": 627
 }
