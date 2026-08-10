@@ -3905,8 +3905,26 @@
       "file": "1269.json",
       "title": "Spider-Man and His Amazing Friends",
       "fixed_at": "2026-08-10T21:59:01.821970"
+    },
+    {
+      "tmdb_id": "258901",
+      "file": "258901.json",
+      "title": "SANDA",
+      "fixed_at": "2026-08-10T22:37:14.650354"
+    },
+    {
+      "tmdb_id": "1911",
+      "file": "1911.json",
+      "title": "عظام",
+      "fixed_at": "2026-08-10T22:37:26.672935"
+    },
+    {
+      "tmdb_id": "103863",
+      "file": "103863.json",
+      "title": "The Rap of China",
+      "fixed_at": "2026-08-10T22:37:36.596642"
     }
   ],
-  "last_updated": "2026-08-10T21:59:03.824710",
-  "total_fixed": 651
+  "last_updated": "2026-08-10T22:37:38.599370",
+  "total_fixed": 654
 }
