@@ -3761,8 +3761,38 @@
       "file": "63351.json",
       "title": "ناركوس",
       "fixed_at": "2026-08-10T15:43:12.575984"
+    },
+    {
+      "tmdb_id": "94404",
+      "file": "94404.json",
+      "title": "دوروهيدورو",
+      "fixed_at": "2026-08-10T16:32:08.957440"
+    },
+    {
+      "tmdb_id": "361743",
+      "file": "361743.json",
+      "title": "السلاح الأمثل: مافريك",
+      "fixed_at": "2026-08-10T16:32:20.847634"
+    },
+    {
+      "tmdb_id": "760",
+      "file": "760.json",
+      "title": "Les Aventures de Rabbi Jacob",
+      "fixed_at": "2026-08-10T16:32:31.484065"
+    },
+    {
+      "tmdb_id": "223249",
+      "file": "223249.json",
+      "title": "100 Years of Warner Bros.",
+      "fixed_at": "2026-08-10T16:32:40.061701"
+    },
+    {
+      "tmdb_id": "210272",
+      "file": "210272.json",
+      "title": "One Day Off",
+      "fixed_at": "2026-08-10T16:32:48.710391"
     }
   ],
-  "last_updated": "2026-08-10T15:43:14.578737",
-  "total_fixed": 627
+  "last_updated": "2026-08-10T16:32:50.713196",
+  "total_fixed": 632
 }

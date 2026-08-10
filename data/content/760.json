@@ -4,12 +4,12 @@
   "title_ar": "Les Aventures de Rabbi Jacob",
   "title_en": "The Mad Adventures of Rabbi Jacob",
   "slug": "760-the-mad-adventures-of-rabbi-jacob",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة رائعًا عن رجل فرنسي متعصب، يجد نفسه في مواجهة رجل إسلامي ثوري، ويحاولان الهرب من المستشديدين من بلدهم وشرطة فرنسا، التي تعتقد أن الرجل الفرنسي هو مجرم. يتحول الرجلان إلى رجلين أحياء، ويتخذان هويات ربانين، حيث يغيب الرجل الفرنسي عن زوجته، التي تعتقد أن زوجها يغادرها للرجل الآخر، ويصادف أيضًا عيد زواج ابنته، ويجد نفسه في أزمة كبيرة، حيث يظل غير متأكد مما يحدث حوله.",
   "poster_path": "/uVOMfKqiXSGIeuXrXomi98H1JVr.jpg",
   "backdrop_path": "/4VgyburZo88ocO1aSRFm0i5H5VX.jpg",
   "release_date": "1973-10-17",
   "vote_average": 7.4,
-  "vote_count": 1055,
+  "vote_count": 1070,
   "genres": [
     {
       "id": 35,
@@ -17,28 +17,35 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن أن تتحول الحياة الدوّلية لشخص ما إلى مغامرة حقيقية؟",
-    "desc_ar": "في هذا الفيلم الكوميدي، يلقي ربي جاكوب، رجل الدين اليهودي، في مغامرة ممتعة مع ابنه، حيث يلعب دور امرأة في حفلة زفاف، مما يسبب الكثير من الاضطراب والهزيمة. سوف نرى كيف يتعامل ربي جاكوب مع هذه الحالة، التي تثير الكثير من اللاعبة والمرح،",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مغامرة ربي جاكوب!",
-    "seo_title_ar": "مشاهدة فيلم لاس أونفيرز دي ربي جاكوب مترجم اون لاين - توميتو",
-    "outro": "إليك هذه مغامرة رائعة تحكي قصة متابعة ومثيرة لا تمفوك..",
-    "opinion": "هذا الفيلم الكوميدي هو واحد من أفضل الأفلام الكوميديا التي شاهدناها، حيث يلعب ربي جاكوب دوراً رائعاً في مغامرة ممتعة، مما يثير الكثير من اللاعبة والمرح.",
+    "intro": "يحكي هذا العمل قصة رائعًا عن رجل فرنسي متعصب، يجد نفسه في مواجهة رجل إسلامي ثوري، ويحاولان الهرب من المستشديدين من بلدهم وشرطة فرنسا.",
+    "desc_ar": "يحكي هذا العمل قصة رائعًا عن رجل فرنسي متعصب، يجد نفسه في مواجهة رجل إسلامي ثوري، ويحاولان الهرب من المستشديدين من بلدهم وشرطة فرنسا، التي تعتقد أن الرجل الفرنسي هو مجرم. يتحول الرجلان إلى رجلين أحياء، ويتخذان هويات ربانين، حيث يغيب الرجل الفرنسي عن زوجته، التي تعتقد أن زوجها يغادرها للرجل الآخر، ويصادف أيضًا عيد زواج ابنته، ويجد نفسه في أزمة كبيرة، حيث يظل غير متأكد مما يحدث حوله.",
+    "desc_en": "In this hilarious and action-packed film, a bigoted French factory owner finds himself taken hostage by an Arab rebel leader. The two men disguise themselves as rabbis, leading to a series of chaotic events as they try to evade assassins from the rebel leader's country and the French police, who think the factory owner is a murderer. The situation becomes even more complicated as the factory owner's wife thinks he is leaving her for another woman, their daughter is about to get married, and the Parisian neighborhood is eager to celebrate the return of Rabbi Jacob.",
+    "seo_title_ar": "مشاهدة فيلم Les Aventures Rabbi Jacob مترجم - توميتو",
+    "meta_desc": "Les Aventures Rabbi Jacob, فيلم كوميدي، The Mad Adventures Rabbi Jacob, 1973, France, France, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إع",
+    "outro": "يعد هذا العمل من أفضل الأفلام الكوميدية التي شاهدتها، حيث يجمع بين الفكاهة والتشويق والغموض، ويقدم تجربة مشاهدة ممتعة للقارئ.",
+    "opinion_ar": "يعد هذا العمل من أفضل الأفلام الكوميدية التي شاهدتها، حيث يجمع بين الفكاهة والتشويق والغموض، ويقدم تجربة مشاهدة ممتعة للقارئ.",
+    "opinion_en": "This film is one of the best comedies I have ever seen, combining humor, suspense, and intrigue, and providing an enjoyable viewing experience.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم لاس أونفيرز دي ربي جاكوب؟",
-        "a": "هو فيلم كوميدي"
+        "q": "ما هو اسم الفيلم؟",
+        "a": "Les Aventures Rabbi Jacob",
+        "q_en": "What is the title of the film?",
+        "a_en": "The Mad Adventures of Rabbi Jacob"
       },
       {
-        "q": "ما هو موضوع فيلم لاس أونفيرز دي ربي جاكوب؟",
-        "a": "يحكي قصة ربي جاكوب الذي يلعب دور امرأة في حفلة زفاف"
+        "q": "من أخرج الفيلم؟",
+        "a": "جورج لاك",
+        "q_en": "Who directed the film?",
+        "a_en": "Grard Oury"
       },
       {
-        "q": "ما هو نوع الم Mood في فيلم لاس أونفيرز دي ربي جاكوب؟",
-        "a": "هو فيلم كوميدي ممتع يثير الكثير من اللاعبة والمرح"
+        "q": "ما هو تاريخ إصدار الفيلم؟",
+        "a": "1973",
+        "q_en": "When was the film released?",
+        "a_en": "1973"
       }
     ],
-    "keywords": "The Mad Adventures of Rabbi Jacob, فيلم كوميدي مترجم, مشاهدة فيلم كوميدي, أحداث Les Aventures de Rabbi Jacob بالتفصيل, توميتو Les Aventures de Rabbi Jacob, Les Aventures de Rabbi Jacob مترجم, مشاهدة Les Aventures de Rabbi Jacob 1973, قصة فيلم Les Aventures de Rabbi Jacob",
-    "desc_en": "In this comedy film, Rabbi Jacob, a Jewish clergyman, embarks on a thrilling adventure with his son, where he plays a woman's role at a wedding party, causing a lot of chaos and defeat. We will see how Rabbi Jacob handles this situation, which raises a lot of laughter and fun,"
+    "keywords": "Les Aventures Rabbi Jacob, The Mad Adventures Rabbi Jacob, كوميديا, فيلم, فرنسا, 1973, جودي إيمز, بيير فيشيه, مشاهدة Les Aventures Rabbi Jacob, The Mad Adventures Rabbi Jacob مترجم, تحميل Les Aventures Rabbi Jacob, Les Aventures Rabbi Jacob اون لاين, Les Aventures Rabbi Jacob جودة عالية, فيلم Les Aventures Rabbi Jacob, مشاهدة Les Aventures de Rabbi Jacob"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +53,5 @@
   "duration": "100 دقيقة",
   "language": "الفرنسية",
   "country": "فرنسا",
-  "cast": "Louis de Funès Suzy Delair Marcel Dalio Claude Giraud Renzo Montagnani"
+  "cast": "Louis de Funès Suzy Delair Marcel Dalio Claude Giraud Renzo Montagnani Janet Brandt André Falcon Xavier Gélin"
 }
