@@ -3857,8 +3857,26 @@
       "file": "2004.json",
       "title": "Malcolm in the Middle",
       "fixed_at": "2026-08-10T20:24:25.760722"
+    },
+    {
+      "tmdb_id": "89456",
+      "file": "89456.json",
+      "title": "البدائي",
+      "fixed_at": "2026-08-10T20:52:41.568016"
+    },
+    {
+      "tmdb_id": "1716513",
+      "file": "1716513.json",
+      "title": "Extreme Makeover: Homer Edition",
+      "fixed_at": "2026-08-10T20:52:55.237472"
+    },
+    {
+      "tmdb_id": "1317448",
+      "file": "1317448.json",
+      "title": "لا مكان للعزوبية",
+      "fixed_at": "2026-08-10T20:53:04.895997"
     }
   ],
-  "last_updated": "2026-08-10T20:24:27.763494",
-  "total_fixed": 643
+  "last_updated": "2026-08-10T20:53:06.898622",
+  "total_fixed": 646
 }
