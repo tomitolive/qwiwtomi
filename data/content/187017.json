@@ -9,7 +9,7 @@
   "backdrop_path": "/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
   "release_date": "2014-06-05",
   "vote_average": 6.8,
-  "vote_count": 8515,
+  "vote_count": 8638,
   "genres": [
     {
       "id": 80,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في جو الكوميديا الممزوج بالحركة، يرصد الفيلم حياة الضابط شميدت، حيث يتخفى ويتسلل لكلية محلية من أجل كشف حلقة إجرامية داخل دار أخوية، بمصاحبة شريكه جينكو. تتعقد الأحداث عندما تخبو روحه لفريق كرة القدم وتصبو روح شميدت للفن البوهيمي، حتى يصل بهم الأمر بالتشكيك في علاقتهما وشراكتهما.",
-    "desc_en": "In a world of comedy mixed with action, the film follows the life of Officer Schmidt, where he goes undercover and infiltrates a local college to uncover a criminal case within a fraternity, accompanied by his partner Jenko. The events unfold when the spirit of the soccer team's team and Schmidt's desire for bohemian art, until they reach a point where they doubt their relationship and partnership.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم 22 Jump Street!",
-    "seo_title_ar": "مشاهدة فيلم 22 Jump Street مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم كوميديا, توميتو 22 Jump Street, قصة فيلم 22 Jump Street, 22 Jump Street مترجم, مشاهدة 22 Jump Street 2014, أحداث 22 Jump Street بالتفصيل",
-    "opinion": "هو فيلم كوميديا رائع يلقي بالمرحلة، ولكن في النهاية، يبقى فيلماً رائعاً يلقي بالمرحلة!",
+    "intro": "يحكي فيلم 22 Jump Street قصة حياة الضابط شميدت، الذي يتسلل إلى كلية محلية من أجل كشف حلقة إجرامية.",
+    "desc_ar": "يحكي فيلم 22 Jump Street قصة حياة الضابط شميدت، الذي يتسلل إلى كلية محلية من أجل كشف حلقة إجرامية داخل دار أخوية، بمصاحبة شريكه جينكو. يتعقد الأحداث عندما تخبو روحه لفريق كرة القدم وتصبو روح شميدت للفن البوهيمي، مما يؤدي إلى تشكيكه في علاقتهما وشراكتهما. يصل الفيلم إلى نقطة مهمة في حياتهم، حيث يُواجَه الضابطان بفرصة لتغيير حياتهم وتحقيق علاقة ناضجة.",
+    "desc_en": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+    "seo_title_ar": "مشاهدة فيلم 22 Jump Street مترجم - توميتو",
+    "meta_desc": "22 Jump Street فيلم كوميدي درامي يتبع حياة الضابط شميدت، الذي يتسلل إلى كلية محلية من أجل كشف حلقة إجرامية. يتعقد الأحداث عندما تخبو روحه لفريق كرة القدم و",
+    "outro": "يعد فيلم 22 Jump Street تجربة رائعة للكشف عن عالم الكلية، حيث يتعامل المشاهد مع شخصيات غريبة وواقعية.",
+    "opinion_ar": "يعد فيلم 22 Jump Street تجربة رائعة للكشف عن عالم الكلية، حيث يتعامل المشاهد مع شخصيات غريبة وواقعية. يُظهر الفيلم كيف يمكن للشخصين المتطوعين أن يصبحوا أفضل من خلال تجربتهم في الكلية.",
+    "opinion_en": "This film is a great experience for those who want to explore the college world, where the viewer gets to see unusual and realistic characters. It shows how two volunteers can become better through their college experience.",
     "faq": [
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم كوميديا"
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم حركة"
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم جريمة"
+        "q": "ما هو فيلم 22 Jump Street؟",
+        "a": "فيلم كوميدي درامي يتبع حياة الضابط شميدت، الذي يتسلل إلى كلية محلية من أجل كشف حلقة إجرامية.",
+        "q_en": "What is 22 Jump Street?",
+        "a_en": "A comedy-drama film that follows the life of Officer Schmidt, who goes undercover at a local college to uncover a crime."
       }
-    ]
+    ],
+    "keywords": "22 Jump Street, فيلم كوميدي, دراما, حركة, جريمة, 2014, الكلية, تجربة, عالم, شخصيات, مشاهدة 22 Jump Street, 22 Jump Street مترجم, تحميل 22 Jump Street, 22 Jump Street اون لاين, 22 Jump Street online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "112 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jonah Hill Channing Tatum Peter Stormare Wyatt Russell Amber Stevens West"
+  "cast": "Jonah Hill Channing Tatum Peter Stormare Wyatt Russell Amber Stevens West Jillian Bell Ice Cube Keith Lucas"
 }
