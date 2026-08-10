@@ -3923,8 +3923,26 @@
       "file": "103863.json",
       "title": "The Rap of China",
       "fixed_at": "2026-08-10T22:37:36.596642"
+    },
+    {
+      "tmdb_id": "283995",
+      "file": "283995.json",
+      "title": "حراس المجرة المجلد 2",
+      "fixed_at": "2026-08-10T23:18:55.533622"
+    },
+    {
+      "tmdb_id": "112738",
+      "file": "112738.json",
+      "title": "HPI : Haut Potentiel Intellectuel",
+      "fixed_at": "2026-08-10T23:19:04.945640"
+    },
+    {
+      "tmdb_id": "254002",
+      "file": "254002.json",
+      "title": "Critical Role",
+      "fixed_at": "2026-08-10T23:19:12.371017"
     }
   ],
-  "last_updated": "2026-08-10T22:37:38.599370",
-  "total_fixed": 654
+  "last_updated": "2026-08-10T23:19:14.373773",
+  "total_fixed": 657
 }
