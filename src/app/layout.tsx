@@ -111,6 +111,10 @@ export default async function RootLayout({
           <div className="footer-logo" style={{ fontFamily: 'var(--font-outfit)' }}>TOMITO</div>
           <p>© 2026 جميع الحقوق محفوظة — أفلام ومسلسلات بجودة عالية</p>
         </footer>
+        <Script
+          src="https://pl30597544.effectivecpmnetwork.com/c3/e8/93/c3e893c4344bbee9205294b8e255c444.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
