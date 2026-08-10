@@ -1,15 +1,15 @@
 {
   "id": 1265,
-  "title": "Bridge to Terabithia",
-  "title_ar": "Bridge to Terabithia",
+  "title": "جسر إلى تيرابيثيا",
+  "title_ar": "جسر إلى تيرابيثيا",
   "title_en": "Bridge to Terabithia",
   "slug": "1265-bridge-to-terabithia",
-  "overview": "",
+  "overview": "تدرب جيسي آرونز طوال الصيف ليصبح أسرع عداء في المدرسة. لذا شعر بخيبة أمل كبيرة عندما تفوقت عليه ليزلي بيرك، الوافدة الجديدة، وعلى الجميع. ورغم هذا الاختلاف، بالإضافة إلى اختلافات أخرى كغنى ليزلي وفقره، وكونها فتاة مدينة وهو فتى ريفي، سرعان ما أصبحا صديقين حميمين. معًا، أسسا تيرابيثيا، أرض الوحوش والمتصيدين والغيلان والعمالقة، حيث حكما كملك وملكة",
   "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
   "backdrop_path": "/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
   "release_date": "2007-02-15",
   "vote_average": 7.3,
-  "vote_count": 5232,
+  "vote_count": 5392,
   "genres": [
     {
       "id": 12,
@@ -25,28 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لرحلة إلى عالم خيالي حيث تتحدى الصداقة حدود الواقع؟",
-    "desc_ar": "في عالم من الخيال والواقع، يلتقي اثنان من الأطفال، جESSICA وBRUSH، في معركة حماية حبيبةما من الضياع والخوف. معركة قوية بين النجاح والفشل، بين الحياة والموت، بين الخيال والواقع.",
-    "seo_title_ar": "مشاهدة فيلم جسر تيرابيثيا مترجم اون لاين - توميتو",
-    "meta_desc": "مشاهدة فيلم مغامرة دراما عائلي - واش غيفلت؟ اكتشف أحداث الإثارة",
-    "outro": "إنها قصة رائعة ستأخذك إلى عالم مليء بالخيال والصداقة الحقيقية. استعد لرحلة مليئة بالمرح والمشاعر، حيث ستكتشف قوة الصداقة التي يمكن أن تغير كل شيء.",
-    "opinion": "فيلم رائع يلقي بظلاله على قلوبنا، يخلق احساساً من الوعي والشعور بالمسئية.",
+    "intro": "يحكي فيلم جسر إلى تيرابيثيا قصة عن الصداقة والتحديات التي تواجهها في رحلة رومانسية ومغامرة.",
+    "desc_ar": "يحكي فيلم جسر إلى تيرابيثيا قصة شاب يُدعى جيسي آرونز، الذي يجد نفسه محبطًا بسبب تفوقه على الجميع في السباق، مع ذلك يجد في الوافدة الجديدة ليزلي بيرك صديقة حميمة، ومعًا يؤسسان مملكة تيرابيثيا، حيث ي ان كملك وملكة، لكنهم يجدون أنفسهم مواجهين لتحديات الحياة، مما يهيئ لرحلة رومانسية ومغامرة.",
+    "desc_en": "Bridge to Terabithia tells the story of Jesse Aarons, a young boy who feels defeated when he's outrun by everyone, including the newcomer Leslie Burke. However, he finds a true friend in Leslie, and together they create a magical kingdom called Terabithia, where they rule as king and queen. But as they navigate the challenges of life, they must also confront the harsh realities that threaten to tear them apart.",
+    "seo_title_ar": "مشاهدة فيلم جسر إلى تيرابيثيا مترجم - توميتو",
+    "meta_desc": "فيلم جسر إلى تيرابيثيا، حكاية عن الصداقة والتحديات التي تواجهها في رحلة رومانسية ومغامرة، بين جيسي آرونز ولي بيرك، استمتع بمشاهدة هذا العمل بجودة عالية وتر",
+    "outro": "فيلم جسر إلى تيرابيثيا هو تجربة رائعة للصبر والتفاؤل، حيث يُظهر كيف يمكن للصداقة أن تتحول إلى شيء أكبر من مجرد علاقة بين اثنين.",
+    "opinion_ar": "فيلم جسر إلى تيرابيثيا هو تجربة رائعة للصبر والتفاؤل، حيث يُظهر كيف يمكن للصداقة أن تتحول إلى شيء أكبر من مجرد علاقة بين اثنين.",
+    "opinion_en": "Bridge to Terabithia is a wonderful experience of perseverance and hope, as it shows how friendship can evolve into something greater than just a relationship between two people.",
     "faq": [
       {
-        "q": "ما هو فيلم جسر تيرابيثيا؟",
-        "a": "فيلم رائع يلقي بظلاله على قلوبنا، يخلق احساساً من الوعي والشعور بالمسئية."
+        "q": "ما هو فيلم جسر إلى تيرابيثيا؟",
+        "a": "فيلم جسر إلى تيرابيثيا هو فيلم درامي مغامر عن الصداقة والتحديات التي تواجهها في رحلة رومانسية ومغامرة.",
+        "q_en": "What is Bridge to Terabithia?",
+        "a_en": "Bridge to Terabithia is a dramatic adventure film about friendship and the challenges that come with it in a romantic and thrilling journey."
       },
       {
-        "q": "ما هو نوع فيلم جسر تيرابيثيا؟",
-        "a": "فيلم مغامرة دراما عائلي"
-      },
-      {
-        "q": "ما هو المخرج لفيلم جسر تيرابيثيا؟",
-        "a": "لم يذكر المخرج في الفيلم"
+        "q": "من بطولة فيلم جسر إلى تيرابيثيا؟",
+        "a": "بطولة الفيلم تشمل جيسي آرونز ولي بيرك، حيث يلعبون دور الصديقين الحميمين.",
+        "q_en": "Who stars in Bridge to Terabithia?",
+        "a_en": "The film stars Jesse Aarons and Leslie Burke, who play the roles of the two close friends."
       }
     ],
-    "keywords": "فيلم مغامرة مترجم, مشاهدة فيلم دراما عائلي, أحداث Bridge to Terabithia بالتفصيل, مشاهدة Bridge to Terabithia 2007, قصة فيلم Bridge to Terabithia, توميتو Bridge to Terabithia, Bridge to Terabithia مترجم",
-    "desc_en": "In a world of fantasy and reality, two children, JESSICA and BRUSH, meet in a battle to protect their loved one from loss and fear. A strong battle between success and failure, between life and death, between fantasy and reality."
+    "keywords": "جسر إلى تيرابيثيا, فيلم درامي مغامر, الصداقة, التحديات, رحلة رومانسية, مغامرة, جيسي آرونز, ليزلي بيرك, فيلم 2007, مشاهدة جسر إلى تيرابيثيا, Bridge Terabithia مترجم, تحميل جسر إلى تيرابيثيا, جسر إلى تيرابيثيا اون لاين, Bridge Terabithia, جسر إلى تيرابيثيا جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Josh Hutcherson AnnaSophia Robb Zooey Deschanel Robert Patrick Bailee Madison"
+  "cast": "Josh Hutcherson AnnaSophia Robb Zooey Deschanel Robert Patrick Bailee Madison Kate Butler Devon Wood Emma Fenton"
 }
