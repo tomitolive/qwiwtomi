@@ -102,72 +102,15 @@ export default async function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="fbd3e913244fb343" />
-        
-        {/* Preconnect to ad networks for faster loading */}
-        <link rel="preconnect" href="https://pl30597637.effectivecpmnetwork.com" />
-        <link rel="preconnect" href="https://pl30598106.effectivecpmnetwork.com" />
-        <link rel="preconnect" href="https://pl30598123.effectivecpmnetwork.com" />
-        <link rel="preconnect" href="https://pl30597533.effectivecpmnetwork.com" />
-        
-        {/* Google Analytics */}
-        <Script 
-          src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-PRCQVS90BX');
-          `}
-        </Script>
-        
-        {/* Ad Scripts - Preload for faster loading */}
-        <Script 
-          src="https://pl30597637.effectivecpmnetwork.com/08370281e563742f6dcb56530f5e8082/invoke.js"
-          strategy="afterInteractive"
-          data-cfasync="false"
-        />
-        <Script 
-          src="https://pl30598106.effectivecpmnetwork.com/7853b06f071ef8a725aee4957098eae1/invoke.js"
-          strategy="afterInteractive"
-          data-cfasync="false"
-        />
-        <Script 
-          src="https://pl30598123.effectivecpmnetwork.com/74473a481e12f32fea68225a3cc97eed/invoke.js"
-          strategy="afterInteractive"
-          data-cfasync="false"
-        />
-        <Script 
-          src="https://pl30597533.effectivecpmnetwork.com/b6/9d/a7/b69da7c3ee677ac42178f0d30e42047b.js"
-          strategy="afterInteractive"
-          data-cfasync="false"
-        />
       </head>
       <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
-        <ThemeProvider>
-
-          {/* ───── ADBLOCK DETECTOR ───── */}
-          <AdblockDetector />
-
-          {/* ───── SOCIAL BAR ───── */}
-          <SocialBar />
-
-          {/* ───── NAVBAR ───── */}
-          {!isDetailPage && <Navbar />}
-
-          {/* ───── MAIN ───── */}
-          <main className="min-h-screen">
-            {children}
-          </main>
-
-          {/* ───── FOOTER ───── */}
-          <footer className="premium-footer">
-            <div className="footer-logo" style={{ fontFamily: 'var(--font-outfit)' }}>TOMITO</div>
-            <p>© 2026 جميع الحقوق محفوظة — أفلام ومسلسلات بجودة عالية</p>
-          </footer>
-        </ThemeProvider>
+        <main className="min-h-screen">
+          {children}
+        </main>
+        <footer className="premium-footer">
+          <div className="footer-logo" style={{ fontFamily: 'var(--font-outfit)' }}>TOMITO</div>
+          <p>© 2026 جميع الحقوق محفوظة — أفلام ومسلسلات بجودة عالية</p>
+        </footer>
       </body>
     </html>
   );
