@@ -1,17 +1,15 @@
 {
   "id": 63926,
-  "title": "One Punch Man",
-  "title_ar": "One Punch Man",
+  "title": "رجل اللكمة الواحدة",
+  "title_ar": "رجل اللكمة الواحدة",
   "title_en": "One-Punch Man",
   "slug": "63926-one-punch-man",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "بدأ سايتاما كبطل من أجل المتعة فحسب. وبعد ثلاثة سنوات من التّداريب \"الخاصّة\"، أصبح قويًّا لدرجة أنّ بإمكانه هزيمة خصومه بلكمة واحدة. والآن، سايتاما جاهز ليبدأ واجباته الرّسميّة كبطل محترف مع منظمة الأبطال رفقة جينوس، تلميذه السّايبورغ المخلص. ولكن، وتيرة ظهور الوحوش تتصاعد كما جاء في نبوءة العرّافة العظيمة شيباباوا الّتي تحكي عن دمار الأرض الوشيك. ووسط هذه الأزمة، يظهر غارو الّذي يدعو نفسه بـ\"صائد الأبطال\".",
+  "overview": "بدأ \"سايتاما\" كبطل من أجل المتعة فحسب. وبعد ثلاثة سنوات من التّداريب 'الخاصّة'، أصبح قويًّا لدرجة أنّ بإمكانه هزيمة خصومه بلكمة واحدة. والآن، \"سايتاما\" جاهز ليبدأ واجباته الرّسميّة كبطل محترف مع منظمة الأبطال رفقة 'جينوس'، تلميذه السّايبورغ المخلص. ولكن، وتيرة ظهور الوحوش تتصاعد كما جاء في نبوءة العرّافة العظيمة \"شيباباوا\" الّتي تحكي عن دمار الأرض الوشيك. ووسط هذه الأزمة، يظهر 'غارو' الّذي يدعو نفسه بـ'صائد الأبطال'.",
   "poster_path": "/lOZPihjld1phA9WI5YiWn6Yu23Y.jpg",
   "backdrop_path": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
   "release_date": "2015-10-05",
   "vote_average": 8.4,
-  "vote_count": 4106,
+  "vote_count": 4186,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بدأ سايتاما كبطل من أجل المتعة فحسب، ولكن سرعان ما اكتشف أن قوتهما يفوق قوتهما، فبدأ رحلة لاكتشاف سر قوتهما، والوقوف ضد الوحوش الذين يهددون الأرض، مع جينوس تلميذه السايبورغ المخلص.",
-    "desc_en": "Saitama started as a hero for fun, but soon discovered that his strength exceeded that of his enemies, so he began a journey to uncover the secret of his power, and stand against the monsters that threaten the earth, with Genos, his loyal cyborg disciple.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في رسوم متحركة One Punch Man!",
-    "seo_title_ar": "مشاهدة فيلم One Punch Man مترجم اون لاين - توميتو",
-    "keywords": "One-Punch Man, فيلم One Punch Man مترجم, مشاهدة فيلم One Punch Man, أحداث One Punch Man بالتفصيل, قصة مسلسل One Punch Man, مشاهدة One Punch Man 2015, توميتو One Punch Man, One Punch Man مترجم كامل",
-    "opinion": "هو فيلم رائع يجمع بين الكوميديا والحركة والخيال العلمي، ويحاكي قصة سايتاما البطل الذي يلقي ضربة واحدة ليفوز بالقتال.",
+    "intro": "تدور أحداث مسلسل 'رجل اللكمة الواحدة' في عالم مليء بالبطلين القويين",
+    "desc_ar": "يحكي مسلسل 'رجل اللكمة الواحدة' قصة بطل يصبح قوياً جداً بعد ثلاث سنوات من التدريب، حيث يصبح قويًّا لدرجة أنه يمكنه هزيمة خصومه بلكمة واحدة. ومع ذلك، يجد البطل نفسه يهزع من قوته ويفقد شغفه بكونة البطل، بينما يواجه جديدة كل يوم. ومع ازدياد عدد الأعداء، كيف سيكون باستطاعته مواصلة كونته البطل؟",
+    "desc_en": "Saitama is a hero who only became a hero for fun. After three years of special training, though, hes become so strong that hes practically invincible. In fact, hes too strongeven his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+    "seo_title_ar": "مشاهدة مسلسل رجل اللكمة الواحدة مترجم - توميتو",
+    "meta_desc": "رجل اللكمة الواحدة مسلسل رسوم متحركة كوميدي يتداخل مع الحركة والمغامرة والخيال العلمي. يحكى قصة بطل قوي يجد نفسه يهزع من قوته استمتع بمشاهدة هذا الع",
+    "outro": "يتميز مسلسل 'رجل اللكمة الواحدة' بعناصره الكوميدية والحركية التي تجعل المشاهدة مثيرة",
+    "opinion_ar": "حسناً بالطبع، هذا المسلسل يحتوي على عناصر كوميدية وحركية، ويستحق المشاهدة",
+    "opinion_en": "Yes, it's a great show with a mix of comedy and action that's worth watching",
     "faq": [
       {
-        "q": "ما هو نوع فيلم One Punch Man؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هي قصة مسلسل رجل اللكمة الواحدة؟",
+        "a": "يحكي المسلسل قصة بطل يصبح قوياً جداً بعد ثلاث سنوات من التدريب",
+        "q_en": "What's the story of One-Punch Man?",
+        "a_en": "The show follows the story of a hero who becomes incredibly strong after three years of training"
       },
       {
-        "q": "ما هو نوع فيلم One Punch Man؟",
-        "a": "هو فيلم كوميديا"
-      },
-      {
-        "q": "ما هو نوع فيلم One Punch Man؟",
-        "a": "هو فيلم حركة ومغامرة"
+        "q": "ما هي الأجناس التي يتضمنها مسلسل رجل اللكمة الواحدة؟",
+        "a": "يتضمن المسلسل رسوم متحركة وكوميديا وحركة ومغامرة وخيال علمي وفانتازيا",
+        "q_en": "What genres does One-Punch Man include?",
+        "a_en": "The show includes animation, comedy, action, adventure, and science fiction/fantasy genres"
       }
-    ]
+    ],
+    "keywords": "رجل اللكمة الواحدة, مسلسل رسوم متحركة, كوميديا, حركة ومغامرة, خيال علمي وفانتازيا, مشاهدة رجل اللكمة الواحدة, One-Punch Man مترجم, تحميل رجل اللكمة الواحدة, رجل اللكمة الواحدة اون لاين, One-Punch Man, رجل اللكمة الواحدة جودة عالية, فيلم رجل اللكمة الواحدة, One-Punch Man HD, رجل اللكمة الواحدة HD, مسلسل رجل اللكمة الواحدة"
   },
   "fixed": true,
-  "first_air_date": "2015-10-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "60 دقيقة",
-  "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Jeremy Clarkson Sam Beattie Micky Burn Eric de la Torre"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Makoto Furukawa",
+  "first_air_date": "2015-10-05"
 }

@@ -3809,8 +3809,26 @@
       "file": "1087891.json",
       "title": "الهاوي",
       "fixed_at": "2026-08-10T17:36:57.506191"
+    },
+    {
+      "tmdb_id": "63926",
+      "file": "63926.json",
+      "title": "One Punch Man",
+      "fixed_at": "2026-08-10T18:34:15.178342"
+    },
+    {
+      "tmdb_id": "62710",
+      "file": "62710.json",
+      "title": "Blindspot",
+      "fixed_at": "2026-08-10T18:34:26.773318"
+    },
+    {
+      "tmdb_id": "262848",
+      "file": "262848.json",
+      "title": "خارج الدائرة",
+      "fixed_at": "2026-08-10T18:34:34.898321"
     }
   ],
-  "last_updated": "2026-08-10T17:36:59.508909",
-  "total_fixed": 635
+  "last_updated": "2026-08-10T18:34:36.899925",
+  "total_fixed": 638
 }
