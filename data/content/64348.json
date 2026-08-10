@@ -4,11 +4,11 @@
   "title_ar": "Robotrix",
   "title_en": "Robotrix",
   "slug": "64348-robotrix",
-  "overview": "",
+  "overview": "يحكي روبوتريكس قصة زعيم شرير يُدعى ريويتشي ياماموتو، الذي ينقل عقله إلى جسم روبوت قوي، لتصبح كارهة للعيش ومجرمًا. ولكن عندما تتحول ضحيتاه، وهي ضابطة شرطة، إلى روبوت قوي يُدعى إيڤ-إي آر ٢٧، تتشكل مع روبوت صديقها الذكوري أن يتعاونا فيما بينهما لقتال الجاني المُتخلف عن عقله. فيما يتبع سعي روبوت إيڤ-إي آر ٢٧ ومعاها أن يضربا على ظهر الجاني، ويحققا العدالة في بلدتهم.",
   "poster_path": "/9gBDWLdiSwgypFEKrxXsBnkUcXT.jpg",
   "backdrop_path": "/4w6KujcSnUaaxV9lztg5Tedwe05.jpg",
   "release_date": "1991-05-31",
-  "vote_average": 6,
+  "vote_average": 6.0,
   "vote_count": 48,
   "genres": [
     {
@@ -37,34 +37,29 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن للفضول أن تكون حكاية، عندما يعيش البشر في عالم يعاني من الفساد وعدم الشراكة؟",
-    "desc_ar": "في عالم المستقبل، حيث التقنيات المتقدمة تسيطر على كل شيء، يظهر روبوتكس، روبوت رائع يملك القدرة على التحكم في كل شيء، ولكن عندما يكتشف أن هناك من يريدون استغلاقه للاستخدامات الخبيثة، يقرر أن يخدعهم ويقوم بالعديد من الأعمال الخارقة، مما يثير دهشة كل من يشاهده.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم روبوتكس!",
-    "seo_title_ar": "مشاهدة فيلم روبوتكس مترجم اون لاين - توميتو",
-    "outro": "Robotrix هو فيلم خيال علمي غامض، مثير للغاية، يمنحك رؤية مبدعة للعالم. لا تتردد في مشاهدة هذا العرض الإثارة الخيالية!",
-    "opinion": "هو فيلم رائع يجمع بين الحركة والكوميديا والجريمة والرومنسية والخيال العلمي والإثارة، مما يجعله فيلماً فريداً في نوعه.",
-    "keywords": "فيلم روبوتكس مترجم, مشاهدة فيلم روبوتكس, أحداث Robotrix بالتفصيل, مشاهدة Robotrix 1991, قصة فيلم Robotrix, Robotrix مترجم, توميتو Robotrix",
-    "desc_en": "In a world where advanced technologies dominate everything, Robotrix, a remarkable robot, possesses the ability to control everything. However, when it discovers that some want to exploit it for their nefarious purposes, it decides to deceive them and performs many extraordinary works, leaving everyone who sees it in awe.",
+    "intro": "في عالم مليء بالجريمة والعنف، تتمتع روبوتات القوة بمكانة خاصة، حيث تتحول بعضها إلى مجرمين، فيما يتعاون روبوت قوي مع روبوت ذكوري آخر لقتال الجاني.",
+    "desc_ar": "يحكي روبوتريكس قصة زعيم شرير يُدعى ريويتشي ياماموتو، الذي ينقل عقله إلى جسم روبوت قوي، لتصبح كارهة للعيش ومجرمًا. ولكن عندما تتحول ضحيتاه، وهي ضابطة شرطة، إلى روبوت قوي يُدعى إيڤ-إي آر ٢٧، تتشكل مع روبوت صديقها الذكوري أن يتعاونا فيما بينهما لقتال الجاني المُتخلف عن عقله. فيما يتبع سعي روبوت إيڤ-إي آر ٢٧ ومعاها أن يضربا على ظهر الجاني، ويحققا العدالة في بلدتهم.",
+    "desc_en": "Robotrix is a story about an evil inventor named Ryuichi Yamamoto, who transfers his mind into a powerful cyborg, becoming a murderer and rapist. However, when one of his victims, a police officer, becomes a super robot named Eve-R27, she teams up with an android sidekick, Ann, to bring the criminally insane scientist to justice.",
+    "seo_title_ar": "مشاهدة فيلم روبوتريكس مترجم - روبوتريكس 1991 - توميتو",
+    "meta_desc": "روبوتريكس فيلم حركة كوميدي جريمة رومنسية خيال علمي إثارة من إخراج المخرج الياباني، يحاول روبوت قوي إيقاع الجاني المتخلف عن عقله، واستعادة العدالة في بلدته",
+    "outro": "في نهاية المطاف، يتحول الجاني إلى مجرم، ويحارب روبوت قوي آخر لقتاله، في هذه القصة الإثارة التي تدور حول روبوت قوي يتحول إلى مجرم، ويحارك معه روبوت قوي آخر لقتاله.",
+    "opinion_ar": "روبوتريكس فيلم إثارة يحتوي على جريمة وحركة ورومانسية، ويتناول قصة روبوت قوي يتحول إلى مجرم، ويحارك معه روبوت قوي أخرى لقتاله.",
+    "opinion_en": "Robotrix is an exciting film that combines action, crime, romance, and science fiction, following the story of a powerful cyborg who becomes a murderer and a super robot who teams up with an android sidekick to bring him to justice.",
     "faq": [
       {
-        "q": "ما هو فيلم روبوتكس؟",
-        "a": "هو فيلم رائع يجمع بين الحركة والكوميديا والجريمة والرومنسية والخيال العلمي والإثارة."
-      },
-      {
-        "q": "ما هو نوع فيلم روبوتكس؟",
-        "a": "هو فيلم حركة كوميديا جريمة رومنسية خيال علمي إثارة."
-      },
-      {
-        "q": "ما هو المطلوب من فيلم روبوتكس؟",
-        "a": "المطلوب من هذا الفيلم هو أن يشاهده كل من يريد مشاهدة فيلم رائع يجمع بين مختلف أنواع الأفلام."
+        "q": "ما هو روبوتريكس؟",
+        "a": "روبوتريكس فيلم إثارة يُصنع من قبل المخرج الياباني، ويحكي قصة روبوت قوي يتحول إلى مجرم، ويحارك معه روبوت قوي أخرى لقتاله.",
+        "q_en": "What is Robotrix?",
+        "a_en": "Robotrix is a 1991 Hong Kong science fiction action film directed by Kirk Wong, and it tells the story of a powerful cyborg who becomes a murderer and a super robot who teams up with an android sidekick to bring him to justice."
       }
-    ]
+    ],
+    "keywords": "روبوتريكس, فيلم روبوتريكس, روبوتريكس مترجم, روبوتريكس 1991, روبوتريكس فيلم إثارة, روبوتريكس حركة, روبوتريكس كوميديا, روبوتريكس جريمة, روبوتريكس رومنسية, روبوتريكس خيال علمي, روبوتريكس إثارة, مشاهدة روبوتريكس, Robotrix مترجم, تحميل روبوتريكس, روبوتريكس اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "98 دقيقة",
-  "language": "cn",
-  "country": "هونغ كونغ",
-  "cast": "Amy Yip Chi-Mei Chikako Aoyama Hui Hiu-Daan David Wu Billy Chow Bei-Lei"
+  "language": "الإنجليزية",
+  "country": "Hong Kong",
+  "cast": "Amy Yip Chi-Mei Chikako Aoyama Hui Hiu-Daan David Wu Billy Chow Bei-Lei Woo Fung Stuart Yung Sai-Kit Lam Chung"
 }
