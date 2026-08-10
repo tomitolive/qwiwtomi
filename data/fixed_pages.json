@@ -3893,8 +3893,20 @@
       "file": "1566481.json",
       "title": "Marave",
       "fixed_at": "2026-08-10T21:12:44.598561"
+    },
+    {
+      "tmdb_id": "60735",
+      "file": "60735.json",
+      "title": "فلاش",
+      "fixed_at": "2026-08-10T21:58:45.290996"
+    },
+    {
+      "tmdb_id": "1269",
+      "file": "1269.json",
+      "title": "Spider-Man and His Amazing Friends",
+      "fixed_at": "2026-08-10T21:59:01.821970"
     }
   ],
-  "last_updated": "2026-08-10T21:12:46.601185",
-  "total_fixed": 649
+  "last_updated": "2026-08-10T21:59:03.824710",
+  "total_fixed": 651
 }

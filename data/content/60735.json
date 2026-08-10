@@ -4,14 +4,12 @@
   "title_ar": "فلاش",
   "title_en": "The Flash",
   "slug": "60735-the-flash",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد أن شاهد والدته تقتل على يد شيء خارق للطبيعة وإدانة والده بالجريمة  التي لم يرتكبها، يذهب باري ألين للعيش مع المحقق جو ويست وعائلته. يكبر ألين ويصبح محقق جرائم ذكي لكن غريب الاطوار في دائرة شرطة سنترال سيتي. في  يوم من الأيام تضرب عاصفة غامضة باري ألين وتعطيه سرعة خارقه. يستغل باري  قدرته الجديدة في محاربة الجريمة وآخرين يمتلكون قدرات خارقة بمساعدة  أصدقائه في مختبرات ستار وفي نفس الوقت يحاول معرفة من قتل والدته عندما  كان صغيراً.",
-  "poster_path": "/hEcQbmuu6PaEZL7AeGbEkNbtaFF.jpg",
+  "poster_path": "/on67BDRo1P6LrsYpnmviCfXN6kR.jpg",
   "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
   "release_date": "2014-10-07",
   "vote_average": 7.8,
-  "vote_count": 11603,
+  "vote_count": 11720,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن شاهد والدته تقتل على يد شيء خارق للطبيعة وإدانة والده بالجريمة التي لم يرتكبها، يذهب باري ألين للعيش مع المحقق جو ويست وعائلته. يكبر ألين ويصبح محقق جرائم ذكي لكن غريب الاطوار في دائرة شرطة سنترال سيتي. في يوم من الأيام تضرب عاصفة غامضة باري ألين وتعطيه سرعة خارقة. يستغل باري قدرته الجديدة في محاربة الجريمة وآخرين يمتلكون قدرات خارقة بمساعدة أصدقائه في مختبرات ستار.",
-    "desc_en": "After witnessing his mother's murder at the hands of a supernatural force and his father's wrongful accusation of the crime, Barry Allen moves in with Detective Joe West and his family. As he grows up, Barry becomes a brilliant and eccentric crime solver in the Central City Police Department. One day, a mysterious storm strikes Barry, giving him superhuman speed. Barry uses his new powers to fight crime and others with extraordinary abilities, with the help of his friends in Star Labs.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل فلاش!",
-    "seo_title_ar": "مشاهدة مسلسل فلاش مترجم اون لاين - توميتو",
-    "keywords": "The Flash, فيلم دراما, مشاهدة فيلم خيال علمي, فيلم فانتازيا, قصة مسلسل فلاش, مشاهدة فلاش 2014, أحداث فلاش بالتفصيل, فلاش مترجم كامل, توميتو فلاش, مسلسل دراما كوين",
-    "opinion": "هو مسلسل رائع يجمع بين الدراما والخيال العلمي والفانتازيا، ويحوي أحداث إثارة وملذقة.",
+    "intro": "يحكي مسلسل فلاش قصة بطل من مدينة سنترال سيتي، باري ألين، الذي يكتشف بعد أن يصاب برعد صاعقة قدرة خارقة على السرعة.",
+    "desc_ar": "يحكي مسلسل فلاش قصة بطل من مدينة سنترال سيتي، باري ألين، الذي يكتشف بعد أن يصاب برعد صاعقة قدرة خارقة على السرعة. يبدأ باري رحلته ك Flash، الشخص الأسرع على الأرض، لمحاربة الجريمة في مدينة سنترال سيتي مع مساعدة أصدقائه في مختبرات ستار. في الوقت نفسه، يحاول باري سر قتل والدته عندما كان صغيراً، وهو ما يجعله يبحث عن الحقيقة بكل عزم.",
+    "desc_en": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been granted the gift of super speed. Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest Man Alive, to protect his city. As he navigates his new life as a superhero, Barry also seeks to uncover the truth behind his mother's murder when he was a child.",
+    "seo_title_ar": "مشاهدة مسلسل فلاش مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل فلاش مترجم، الذي يعتبر من أفضل المسلسلات الفانتازيا والدراماتيكية، مع ترجمة احترافية ومجانية. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "من خلال رحلة باري ك Flash، نستمتع بمشاهدة أروع القصص الخيالية والدراماتيكية في مسلسل فلاش.",
+    "opinion_ar": "يعد مسلسل فلاش من أكثر المسلسلات إثارة وتنوعًا، مما يجعل من الصعب إيقافك.",
+    "opinion_en": "The Flash is a thrilling and diverse series that will keep you hooked.",
     "faq": [
       {
-        "q": "ما هو فلاش؟",
-        "a": "هو مسلسل تلفزيوني يروي قصة باري ألين، المحقق ذكي والرائع."
+        "q": "ما هو قصة مسلسل فلاش؟",
+        "a": "يحكي مسلسل فلاش قصة بطل من مدينة سنترال سيتي، باري ألين، الذي يكتشف بعد أن يصاب برعد صاعقة قدرة خارقة على السرعة.",
+        "q_en": "What is the story of The Flash?",
+        "a_en": "The Flash tells the story of Barry Allen, a hero from Central City, who discovers after being struck by lightning that he has the superpower of super speed."
       },
       {
-        "q": "ما هو نوع فلاش؟",
-        "a": "هو مسلسل دراما وخيال علمي وفانتازيا."
+        "q": "من هو بطل مسلسل فلاش؟",
+        "a": "باري ألين هو بطل مسلسل فلاش.",
+        "q_en": "Who is the hero of The Flash?",
+        "a_en": "Barry Allen is the hero of The Flash."
       },
       {
-        "q": "ما هو أفضل جزء في فلاش؟",
-        "a": "هو أحداث الإثارة والملذقة والقصص الإنسانية"
+        "q": "ما هي مختبرات ستار؟",
+        "a": "مختبرات ستار هي مجموعة من العلماء والباحثين الذين يساعدون باري في محاربة الجريمة.",
+        "q_en": "What are S.T.A.R. Labs?",
+        "a_en": "S.T.A.R. Labs is a group of scientists and researchers who help Barry in fighting crime."
       }
-    ]
+    ],
+    "keywords": "فلاش, مسلسل, دراما, خيال علمي وفانتازيا, مترجم, فلاش العاب, فلاش ميموري, فلاش مشروب, فلاش باك, منظف فلاش, لعبة فلاش, فلاش ايفون, مسلسل فلاش, فلاش للايفون, فلاش برق, مسلسل فلاش باك, فلاش وردي, فلاش موب, فلاش ازرق"
   },
   "fixed": true,
-  "first_air_date": "2014-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Grant Gustin Candice Patton Danielle Panabaker Danielle Nicolet Kayla Compton Brandon McKnight Jon Cor",
+  "first_air_date": "2014-10-07"
 }

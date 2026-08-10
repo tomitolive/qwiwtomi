@@ -1,58 +1,49 @@
 {
   "id": 1269,
-  "title": "Spider-Man and His Amazing Friends",
-  "title_ar": "Spider-Man and His Amazing Friends",
-  "title_en": "Spider-Man and His Amazing Friends",
-  "slug": "1269-spider-man-and-his-amazing-friends",
-  "overview": "الرجل العنكبوت وأصدقائه المذهلين هو مسلسل رسوم متحركة أمريكي من إنتاج مارفل برودكشنز، ويضم شخصيات معروفة من قصص مارفل المصورة مثل سبايدر مان وآيس مان، بالإضافة إلى شخصية أصلية وهي فاير ستار. يجتمع الأبطال الثلاثة تحت اسم سبايدر فرينز لمحاربة الأشرار. تدور أحداث المسلسل في عام 1981.",
-  "poster_path": "/fG5wT0tJ8HIqGBSHe47uQJhmI1A.jpg",
-  "backdrop_path": "/hF2Dnx9g6pm87UJ6RJ58PrpdMWQ.jpg",
-  "release_date": "1981-09-12",
-  "vote_average": 7.5,
-  "vote_count": 262,
+  "title": "Neues vom Wixxer",
+  "title_ar": "Neues vom Wixxer",
+  "title_en": "The Vexxer",
+  "slug": "1269-the-vexxer",
+  "overview": "يحكي فيلم Neues Wixxer قصة غامضة وملحّة حول سيدة تتمكن من البقاء على قيد الحياة بعد ظهور اسمها على قائمة من الموتى، ويحاول شرطة لندن تحديد هوية الشخص الذي كتب القائمة والأسباب وراء ذلك. يظهر الفيلم قصة معقدة ومليئة بالتحديات التي تواجه شرطة لندن في مهمتها لمنع مقتل السيدة ديسمان، وتوفر القصة أيضاً فرصة للعلماء والباحثين لتحليل الأحداث والوصول إلى الحقيقة.",
+  "poster_path": "/miD6UUIcikgDHWHhS9HxySDcS92.jpg",
+  "backdrop_path": "/jebknLWJIkB652DqNWaGEUdXbbY.jpg",
+  "release_date": "2007-03-10",
+  "vote_average": 6.5,
+  "vote_count": 152,
   "genres": [
     {
-      "id": 10759,
-      "name": "حركة ومغامرة"
+      "id": 35,
+      "name": "كوميديا"
     },
     {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
-    },
-    {
-      "id": 10762,
-      "name": "أطفال"
+      "id": 80,
+      "name": "جريمة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Spider-Man and His Amazing Friends (1981) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "الرجل العنكبوت وأصدقائه المذهلين هو مسلسل رسوم متحركة أمريكي من إنتاج مارفل برودكشنز، ويضم شخصيات معروفة من قصص مارفل المصورة مثل سبايدر مان وآيس مان، بالإضافة إلى شخصية أصلية وهي فاير ستار. يجتمع الأبطال الثلاثة تحت اسم سبايدر فرينز لمحاربة الأشرار. تدور أحداث المسلسل في عام 1981.",
-    "desc_en": "Spider-Man and His Amazing Friends is an action-packed animated series featuring Spider-Man, Iceman, and the original character Firestar. Together, they form the Spider-Friends and battle various villains. This American show, produced by Marvel Productions, premiered in 1981.",
-    "seo_title_ar": "مشاهدة مسلسل الرجل العنكبوت وأصدقائه المذهلين مترجم - توميتو",
-    "meta_desc": "Spider-Man His Amazing Friends: شاهد مغامرات سبايدر مان ورفاقه في مسلسل الرسوم المتحركة الأمريكي المليء بالإثارة والتشويق.",
-    "outro": "شاهد Spider-Man and His Amazing Friends الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "الرجل العنكبوت وأصدقائه المذهلين: مسلسل رسوم متحركة ممتع ومليء بالمغامرات، يجمع بين شخصيات مارفل المحبوبة في فريق واحد.",
-    "opinion_en": "Spider-Man and His Amazing Friends is an entertaining animated series that brings together beloved Marvel characters in a thrilling team-up.",
+    "intro": "يحكي فيلم Neues vom Wixxer قصة غامضة وملحّة حول سيدة تتمكن من البقاء على قيد الحياة بعد ظهور اسمها على قائمة من الموتى.",
+    "desc_ar": "يحكي فيلم Neues Wixxer قصة غامضة وملحّة حول سيدة تتمكن من البقاء على قيد الحياة بعد ظهور اسمها على قائمة من الموتى، ويحاول شرطة لندن تحديد هوية الشخص الذي كتب القائمة والأسباب وراء ذلك. يظهر الفيلم قصة معقدة ومليئة بالتحديات التي تواجه شرطة لندن في مهمتها لمنع مقتل السيدة ديسمان، وتوفر القصة أيضاً فرصة للعلماء والباحثين لتحليل الأحداث والوصول إلى الحقيقة.",
+    "desc_en": "Scotland Yard investigators have to prevent the murder of Victoria Dickman when her name is found on a death list, and they must uncover the identity of the person who wrote the list and the reasons behind it.",
+    "seo_title_ar": "مشاهدة فيلم Neues Wixxer مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Neues Wixxer مترجم - فيلم كوميدي جريمة 2007 - إستمتع بمشاهدة Neues Wixxer بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمش استمتع",
+    "outro": "يُعد فيلم Neues vom Wixxer تجربة مثيرة ومليئة بالتحديات، حيث تتعامل الشرطة مع قضية غامضة ومليئة بالأحداث المتراكمة.",
+    "opinion_ar": "فيلم Neues Wixxer يُعد تجربة مثيرة ومليئة بالتحديات، حيث تتعامل الشرطة مع قضية غامضة ومليئة بالأحداث المتراكمة.",
+    "opinion_en": "The Vexxer is a thrilling and challenging film that follows Scotland Yard investigators as they try to uncover the truth behind a mysterious death list.",
     "faq": [
       {
-        "q": "هل الرجل العنكبوت وأصدقائه المذهلين مسلسل قديم؟",
-        "a": "نعم، تم إنتاجه في عام 1981.",
-        "q_en": "Is Spider-Man and His Amazing Friends an old series?",
-        "a_en": "Yes, it was produced in 1981."
+        "q": "ما هو فيلم Neues Wixxer؟",
+        "a": "فيلم كوميدي جريمة من إخراج هيرمان فيلبيرغ، يروي قصة شرطة لندن في مهمتها لمنع مقتل سيدة تظهر اسمها على قائمة من الموتى.",
+        "q_en": "What is The Vexxer?",
+        "a_en": "A 2007 German comedy-crime film directed by Herman F. Ebeling, following Scotland Yard investigators as they try to prevent the murder of Victoria Dickman."
       }
     ],
-    "keywords": "الرجل العنكبوت وأصدقائه المذهلين, Spider-Man His Amazing Friends, مسلسل, رسوم متحركة, مغامرة, خيال علمي, فانتازيا, أطفال, سبايدر مان, آيس مان, فاير ستار"
+    "keywords": "Neues Wixxer, فيلم, كوميديا, جريمة, Scotland Yard, Victoria Dickman, شرطة لندن, فيلم ألماني, 2007, مترجم, مشاهدة Neues Wixxer, The Vexxer مترجم, تحميل Neues Wixxer, Neues Wixxer اون لاين, The Vexxer"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "25 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dan Gilvezan Kathy Garver Frank Welker",
-  "first_air_date": "1981-09-12"
+  "duration": "98 دقيقة",
+  "language": "الألمانية",
+  "country": "ألمانيا",
+  "cast": "Oliver Kalkofe Bastian Pastewka Joachim Fuchsberger Christiane Paul Christoph Maria Herbst Martin Semmelrogge Wolfgang Völz Achim Mentzel"
 }
