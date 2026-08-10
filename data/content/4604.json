@@ -4,14 +4,12 @@
   "title_ar": "سمولفيل",
   "title_en": "Smallville",
   "slug": "4604-smallville",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يرصد المسلسل القدرات العبقرية والعديدة لدي كلارك كينت (طوم ويلنج) حيث يقوم بعمليات إنقاذ واسعة تثير الشكوك حوله في بلدة سمولفيل. كلارك كينت سريع للغاية ويقال أنه يعرف طريقه للمشاكل جيدًا. كلارك كينت وُجد من قبل مارثا كينت (أنيت أوتول) وجوناثان كينت (جون شنايدر) في يوم لا يُنسى وتم تبنيه من قبل مارثا وجوناثان. ولكن هناك من ينبش وراء أصل كلارك كينت ويسعى بكل ما أوتي من قوة من أجل كشف سره.",
-  "poster_path": "/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+  "poster_path": "/74UmeevNyZYR1kyIAwkoIQ1EzCw.jpg",
   "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
   "release_date": "2001-10-16",
   "vote_average": 8.2,
-  "vote_count": 4452,
+  "vote_count": 4551,
   "genres": [
     {
       "id": 10765,
@@ -27,35 +25,36 @@
     }
   ],
   "ai_content": {
-    "intro": "إستعدوا لمغامرة خيالية ملئية بالإثارة والغموض مع أحد أبطال الخيال العلمي الأكثر شعبية!",
-    "desc_ar": "في بلدة سمولفيل، يرصد كلارك كينت (طوم ويلنج) قوته العبقرية والقوة التي تتيح له عمليات إنقاذ واسعة، مما يثير الشكوك حوله. يتعامل كلارك مع مشاكل بلدته جيدًا، لكن هناك من ينبش وراء أصل كلارك ويسعى بكل ما أوتي من قوة من أجل كشف سره.",
-    "seo_title_ar": "مشاهدة فيلم سمولفيل مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سمولفيل",
-    "outro": "لا تفوتوا الفرصة لاستكشاف مغامرات كلارك كينت وفرصة رؤية كيف يصبح بطلا من الدرجة الأولى!",
-    "opinion": "هو فيلم رائع يجمع بين الخيال العلمي والفانتازيا والحركة والمغامرة، مما يجعله فيلمًا رائعًا يجب مشاهدته",
+    "intro": "يحكي مسلسل سمولفيل قصة كلارك كينت، المولود من كوكب كريبتون، الذي يصل إلى الأرض في وقت مبكر من حياته.",
+    "desc_ar": "يحكي مسلسل سمولفيل قصة كلارك كينت، المولود من كوكب كريبتون، الذي يصل إلى الأرض في وقت مبكر من حياته ويشهد تجربة فريدة في بلدة سمولفيل. يتم اكتشاف كلارك من قبل والداه العوام، مارثا وكينت، ويتم تبنيه من قبلهم. ومع مرور الوقت، يتعلم كلارك كيف يستخدم قدراته الفائقة لخدمة بلدته، بينما يتعامل مع التحديات التي تواجهه في طريقه نحو استكشاف هوية كريبتوني الخاصة",
+    "desc_en": "The origins of the worlds greatest herofrom Krypton refugee Kal-els arrival on Earth through his tumultuous teen years to Clark Kents final steps toward embracing his destiny as the Man of Steel.",
+    "seo_title_ar": "مشاهدة مسلسل سمولفيل Smallville مترجم - توتومتو",
+    "meta_desc": "شاهد مسلسل سمولفيل Smallville مترجم على توتومتو، مسلسل خيال علمي وفانتازيا حركة ومغامرة دراما يروي قصة كلارك كينت، المولود من كوكب كريبتون، واستكشاف هوية ك",
+    "outro": "مع استكشاف هوية كريبتوني الخاصة وخدمة بلدته من خلال قدراته الفائقة، يتعامل كلارك مع التحديات التي تواجهه في طريقه نحو استكشاف هوية كريبتوني الخاصة.",
+    "opinion_ar": "مسلسل سمولفيل Smallville هو تجربة مشاهدة فريدة، يروي قصة كلارك كينت، المولود من كوكب كريبتون، مع استكشاف هوية كريبتوني الخاصة وخدمة بلدته من خلال قدراته الفائقة.",
+    "opinion_en": "Smallville is a unique viewing experience, telling the story of Clark Kent, born from the planet Krypton, as he explores his Kryptonian identity and serves his town through his exceptional abilities.",
     "faq": [
       {
-        "q": "ما هو سمولفيل؟",
-        "a": "هو مسلسل تلفزيوني خيال علمي وفانتازيا يرصد قوته العبقرية والقوة التي تتيح له عمليات إنقاذ واسعة"
+        "q": "ما هي قصة مسلسل سمولفيل؟",
+        "a": "يحكي مسلسل سمولفيل قصة كلارك كينت، المولود من كوكب كريبتون، الذي يصل إلى الأرض في وقت مبكر من حياته ويشهد تجربة فريدة في بلدة سمولفيل.",
+        "q_en": "What is the story of Smallville?",
+        "a_en": "The show follows the story of Clark Kent, born from the planet Krypton, who arrives on Earth early in his life and experiences a unique journey in Smallville."
       },
       {
-        "q": "ما هو أصل كلارك كينت؟",
-        "a": "هناك من ينبش وراء أصل كلارك ويسعى بكل ما أوتي من قوة من أجل كشف سره"
-      },
-      {
-        "q": "ما هو نوع سمولفيل؟",
-        "a": "هو فيلم خيال علمي وفانتازيا وحركة ومغامرة ودراما"
+        "q": "من يلعب دور كلارك كينت في مسلسل سمولفيل؟",
+        "a": "تجول الشخصية الرئيسية كلارك كينت، التي لعبها الممثل طوم ويلنج، في مسلسل سمولفيل.",
+        "q_en": "Who plays the role of Clark Kent in Smallville?",
+        "a_en": "The lead character Clark Kent, played by Tom Welling, navigates through Smallville."
       }
     ],
-    "keywords": "Smallville, فيلم سمولفيل مترجم, مشاهدة فيلم سمولفيل, قصة مسلسل سمولفيل, أحداث سمولفيل بالتفصيل, توميتو سمولفيل, سمولفيل مترجم كامل, مشاهدة سمولفيل 2001",
-    "desc_en": "In the town of Smallville, Clark Kent (Tom Welling) is observed to possess extraordinary powers and abilities, allowing him to perform wide-ranging rescues, which sparks suspicion around him. Clark deals with the problems of his hometown well, but there are those who dig into Clark's past and seek to uncover his secrets with all their might."
+    "keywords": "سمولفيل, Smallville, خيال علمي وفانتازيا, حركة ومغامرة, دراما, كريبتون, كلارك كينت, مسلسل, مشاهدة سمولفيل, Smallville مترجم, تحميل سمولفيل, سمولفيل اون لاين, سمولفيل جودة عالية, فيلم سمولفيل, Smallville online"
   },
   "fixed": true,
-  "first_air_date": "2001-10-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "43 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Tom Welling Erica Durance Cassidy Freeman Justin Hartley",
+  "first_air_date": "2001-10-16"
 }
