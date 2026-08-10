@@ -3335,8 +3335,74 @@
       "file": "229915.json",
       "title": "لقد حل الليل",
       "fixed_at": "2026-08-10T03:20:01.014019"
+    },
+    {
+      "tmdb_id": "67195",
+      "file": "67195.json",
+      "title": "ليجون",
+      "fixed_at": "2026-08-10T04:42:19.593489"
+    },
+    {
+      "tmdb_id": "27205",
+      "file": "27205.json",
+      "title": "استهلال",
+      "fixed_at": "2026-08-10T04:42:26.675890"
+    },
+    {
+      "tmdb_id": "71914",
+      "file": "71914.json",
+      "title": "عجلة الزمن",
+      "fixed_at": "2026-08-10T04:42:36.609733"
+    },
+    {
+      "tmdb_id": "661539",
+      "file": "661539.json",
+      "title": "مجهول تماما",
+      "fixed_at": "2026-08-10T04:42:44.327837"
+    },
+    {
+      "tmdb_id": "40075",
+      "file": "40075.json",
+      "title": "Gravity Falls",
+      "fixed_at": "2026-08-10T04:43:19.548505"
+    },
+    {
+      "tmdb_id": "323411",
+      "file": "323411.json",
+      "title": "The Vampire Lestat",
+      "fixed_at": "2026-08-10T04:43:27.872947"
+    },
+    {
+      "tmdb_id": "87917",
+      "file": "87917.json",
+      "title": "For All Mankind",
+      "fixed_at": "2026-08-10T04:43:36.251096"
+    },
+    {
+      "tmdb_id": "11130",
+      "file": "11130.json",
+      "title": "مذكرات الأميرة ٢: خطبة ملكية",
+      "fixed_at": "2026-08-10T04:43:45.283075"
+    },
+    {
+      "tmdb_id": "10439",
+      "file": "10439.json",
+      "title": "Hocus Pocus",
+      "fixed_at": "2026-08-10T04:43:52.505828"
+    },
+    {
+      "tmdb_id": "498248",
+      "file": "498248.json",
+      "title": "Mia et le lion blanc",
+      "fixed_at": "2026-08-10T04:44:07.014180"
+    },
+    {
+      "tmdb_id": "10195",
+      "file": "10195.json",
+      "title": "ثور",
+      "fixed_at": "2026-08-10T04:44:18.620634"
     }
   ],
-  "last_updated": "2026-08-10T03:20:03.064168",
-  "total_fixed": 556
+  "last_updated": "2026-08-10T04:44:20.710719",
+  "total_fixed": 567
 }

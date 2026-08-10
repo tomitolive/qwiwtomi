@@ -4,12 +4,12 @@
   "title_ar": "استهلال",
   "title_en": "Inception",
   "slug": "27205-inception",
-  "overview": "تدور احداث الفيلم حول كوب (ليوناردو دي كابريو) هو عميل من طراز خاص جدًا ومستوى رفيع للغاية، في الواقع هو متسلل أحلام! يقوم بتجنيده رجل أعمال فاحش الثراء يدعى (سايتو) كي يقوم بالتسلل إلى عقل أحد منافسيه يدعى (روبرت فيشر) بمساعدة جهاز خاص، بزرع فكرة داخل عقل الرجل تبدو وكأنها تأتي من داخله هو نفسه، وليست من الخارج. الفكرة هي أن يفكك الرجل شركات أبيه التي سيورثها عنه.",
+  "overview": "يُعرض على (كوب)، وهو لصٌ بارع يتخصص في سرقة أسرار الشركات عبر التسلل إلى العقل الباطن لأهدافه، فرصة لاستعادة حياته السابقة مقابل تنفيذ مهمة يُعتقد أنها مستحيلة: \"الاستهلال\"، وهي زرع فكرة في العقل الباطن لشخص آخر بحيث يظن أنها فكرته هو.",
   "poster_path": "/okXrvv9kCNrYTpjMQTpmzXV9JCi.jpg",
   "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
   "release_date": "2010-07-15",
   "vote_average": 8.4,
-  "vote_count": 39243,
+  "vote_count": 39819,
   "genres": [
     {
       "id": 28,
@@ -25,28 +25,23 @@
     }
   ],
   "ai_content": {
-    "intro": "ما هو الحد الأدنى من الذكاء الإنساني ليتسلل البشر إلى أحلام الأخرين؟",
-    "desc_ar": "في عالم الأحلام، يجد كوب، المتسلل الأحلام، نفسه في معركة ضد سايتو، الرجل الأعمال الفاحش الثراء، الذي يريد أن يفكك شركات أبيه التي سيورثها عنه. مع مساعدة جهاز خاص، يزرع فكرة داخل عقل روبرت فيشر، الرجل الذي يريد أن يفكك شركات أبيه، تبدو كأنها تأتي من داخله هو نفسه، وليست من الخارج.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم استهلال مترجم اون لاين!",
-    "seo_title_ar": "مشاهدة فيلم استهلال مترجم اون لاين - توميتو",
-    "outro": "إلى متى يستطيع البشر التسلل إلى أحلام الأخرين؟",
-    "opinion": "هو فيلم مدهش، مليء بالتension والغموض، يخدعك بكل لحظة، ويجعلك تสงع فيما إذا كان ما ترى هو واقع أم لا.",
+    "intro": "يحكي فيلم 'استهلال' قصة خيالية تجمع بين عالم الحركة والخيال العلمي، حيث يتعامل البطل كوب مع تحديات مستعصية في عالم العقل الباطن.",
+    "desc_ar": "يحكي فيلم 'استهلال' قصة خيالية تجمع بين عالم الحركة والخيال العلمي، حيث يتعامل البطل كوب، وهو لص بارع، مع تحديات مستعصية في عالم العقل الباطن، حيث يقوم بزرع فكرة في عقول أهدافِه بحيث يظنون أنها فكريتهم، فيما يبحث عن استعادة حياته السابقة، ويحاول تجاوز الأخطاء الماضية لاستعادة أمانه.",
+    "desc_en": "Inception, a mind-bending action-sci-fi film, tells the story of Cobb, a skilled thief, who specializes in corporate espionage by infiltrating the subconscious of his targets. He is offered a chance to regain his old life as payment for a task considered to be impossible: implanting another person's idea into a target's subconscious.",
+    "seo_title_ar": "مشاهدة فيلم استهلال مترجم - فيلم الحركة والخيال العلمي Inception 2010 على توماتو",
+    "meta_desc": "استمتع بمشاهدة فيلم استهلال لفيلم الحركة والخيال العلمي Inception 2010، حيث يتعامل البطل كوب مع تحديات العقل الباطن، واستعادة حياته السابقة، وزرع الفكر",
+    "outro": "يعتبر فيلم 'استهلال' تجربة مشاهدة مثيرة وممتعة، حيث يقدم تحديات فنية ومشهدًا لابد من رؤيته على الشاشات.",
+    "opinion_ar": "يعد فيلم 'استهلال' تجربة مشاهدة مثيرة وممتعة، حيث يقدم تحديات فنية ومشهدًا لابد من رؤيته على الشاشات.",
+    "opinion_en": "Inception is a must-see film that offers a thrilling and engaging experience, with impressive visuals and a scene that needs to be seen on the big screen.",
     "faq": [
       {
-        "q": "ما هو فيلم استهلال؟",
-        "a": "هو فيلم حركة خيال علمي مغامرة يروي قصة كوب، المتسلل الأحلام، في معركة ضد سايتو، الرجل الأعمال الفاحش الثراء."
-      },
-      {
-        "q": "ما هو هدف سايتو في فيلم استهلال؟",
-        "a": "هدف سايتو هو أن يفكك شركات أبيه التي سيورثها عنه."
-      },
-      {
-        "q": "ما هو دور جهاز خاص في فيلم استهلال؟",
-        "a": "يخدم جهاز خاص كأداة لزرع الفكرة داخل عقل روبرت فيشر، الرجل الذي يريد أن يفكك شركات أبيه."
+        "q": "ما هو فيلم 'استهلال'؟",
+        "a": "فيلم حركة خيال علمي يتبع قصة البطل كوب، وهو لص بارع، في عالم العقل الباطن.",
+        "q_en": "What is Inception?",
+        "a_en": "Inception is a mind-bending action-sci-fi film that follows the story of Cobb, a skilled thief, in the world of the subconscious."
       }
     ],
-    "keywords": "Inception, فيلم استهلال مترجم, مشاهدة فيلم استهلال, أحداث استهلال بالتفصيل, استهلال مترجم, قصة فيلم استهلال, توميتو استهلال, مشاهدة استهلال 2010",
-    "desc_en": "In a world of dreams, Cobb, the dream thief, finds himself in a battle against Saito, the wealthy businessman, who wants to break his father's companies that he will inherit. With the help of a special device, he plants an idea in Robert Fischer's mind, the man who wants to break his father's companies, which appears to come from within himself, not from outside."
+    "keywords": "استهلال, فيلم الحركة والخيال العلمي, Inception, كوب, لص بارع, العقل الباطن, زرع الفكرة, استعادة حياة سابقة, تحديات العقل الباطن, فيلم 2010, استهلال القطيف, معنى استهلال, لجنة استهلال الاحساء, مشاهدة استهلال, Inception مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "148 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Leonardo DiCaprio Joseph Gordon-Levitt Ken Watanabe Tom Hardy Elliot Page"
+  "cast": "Leonardo DiCaprio Joseph Gordon-Levitt Ken Watanabe Tom Hardy Elliot Page Dileep Rao Cillian Murphy Tom Berenger"
 }
