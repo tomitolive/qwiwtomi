@@ -135,11 +135,12 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 function CardItem({ item, getLink, getAlt, getPoster }: any) {
+  const posterUrl = getPoster(item);
   return (
     <div className="tc-small-box">
       <a href={getLink(item)} title={getAlt(item)}>
         <div className="tc-poster">
-          <img src={getPoster(item)} alt={getAlt(item)} loading="lazy" />
+          {posterUrl && <img src={posterUrl} alt={getAlt(item)} loading="lazy" />}
         </div>
         <ul className="tc-li-list">
           {item.genres?.[0] && <li>{item.genres[0]}</li>}
@@ -157,11 +158,12 @@ function CardItem({ item, getLink, getAlt, getPoster }: any) {
 }
 
 function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
+  const posterUrl = getPoster(item);
   return (
     <div className="tc-aside-post">
       <a href={getLink(item)}>
         <div className="tc-aside-poster">
-          <img src={getPoster(item)} alt={getAlt(item)} loading="lazy" />
+          {posterUrl && <img src={posterUrl} alt={getAlt(item)} loading="lazy" />}
         </div>
         <div className="tc-aside-info">
           <h3>{item.title || item.title_ar}</h3>
@@ -195,6 +197,10 @@ export default async function Home() {
   const series = sortedAll.filter((item: any) => item.folder === 'tv');
 
   const carouselItems = sortedAll.slice(0, 20);
+
+  // Hero carousel with specific IDs
+  const heroIds = [1719380, 969681, 1368337, 1081003, 1212763, 30984, 1263532, 300480];
+  const heroItems = sortedAll.filter((item: any) => heroIds.includes(item.tmdb_id));
 
   const getDynamicNewsText = (items: any[], loc: string) => {
     return items.slice(0, 10).map((item: any) => {
@@ -242,9 +248,9 @@ export default async function Home() {
 
   // Helpers
   const getPoster = (item: any) => {
-    if (item.poster) return item.poster.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500');
+    if (item.poster && item.poster !== '') return item.poster.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500');
     if (item.poster_path) return `/t/p/w500${item.poster_path}`;
-    return '';
+    return null;
   };
   const getAlt = (item: any) => {
     const prefix = item.folder === 'tv' ? 'مسلسل' : 'فيلم';
@@ -303,6 +309,50 @@ export default async function Home() {
         </div>
       </div>
 
+      {/* ═══════ HERO CAROUSEL (Featured) ═══════ */}
+      <section className="hero-carousel">
+        <div className="hero-carousel-container">
+          <div className="hero-carousel-track">
+            {heroItems.map((item: any, i: number) => (
+              <div key={`hero-${item.tmdb_id}-${i}`} className="hero-slide">
+                <a href={getLink(item)} title={getAlt(item)} className="hero-slide-card">
+                  <div className="hero-slide-poster">
+                    {getPoster(item) && (
+                      <img 
+                        src={getPoster(item)} 
+                        alt={getAlt(item)} 
+                        loading="eager"
+                        className="hero-slide-image"
+                      />
+                    )}
+                    <div className="hero-slide-overlay">
+                      <div className="hero-slide-content">
+                        {item.rating && (
+                          <div className="hero-slide-rating">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                            </svg>
+                            <span>{item.rating?.toFixed?.(1) || item.rating}</span>
+                          </div>
+                        )}
+                        <h2 className="hero-slide-title">{item.title || item.title_ar}</h2>
+                        {item.genres && item.genres.length > 0 && (
+                          <div className="hero-slide-genres">
+                            {item.genres.slice(0, 2).map((g: string, gi: number) => (
+                              <span key={gi} className="hero-genre-tag">{g}</span>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ═══════ POSTER CAROUSEL SLIDER ═══════ */}
       <section className="tc-slider-outer">
         <div className="tc-slider-inner">
@@ -314,7 +364,7 @@ export default async function Home() {
                     <div className="tc-ribbon">HD</div>
                   )}
                   <div className="tc-slide-poster">
-                    <img src={getPoster(item)} alt={getAlt(item)} loading={i < 5 ? "eager" : "lazy"} />
+                    {getPoster(item) && <img src={getPoster(item)} alt={getAlt(item)} loading={i < 5 ? "eager" : "lazy"} />}
                   </div>
                   <div className="tc-slide-info">
                     {item.genres && item.genres.length > 0 && (

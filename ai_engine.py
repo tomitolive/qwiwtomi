@@ -705,9 +705,9 @@ def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
 
 
 def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
-    """Fetch one random movie/tv with rating >= 7, excluding existing content, LGBTQ+, and adult content."""
+    """Fetch one random movie/tv with rating >= 7.5 from US region, excluding existing content, LGBTQ+, and adult content."""
     available_ids = available_ids or set()
-    log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7)...")
+    log.info(f"🎲 Fetching random high-rated {media_type} (rating >= 7.5, US region)...")
     
     endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
     
@@ -722,10 +722,11 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
     for page in pages_to_try:
         params = {
             'api_key': tmdb_api_key,
-            'vote_average.gte': 7,
+            'vote_average.gte': 7.5,
             'vote_count.gte': 200,
             'sort_by': 'vote_average.desc',
             'page': page,
+            'region': 'US',
             'without_keywords': lgbt_keywords,
             'without_genres': adult_genres,
             'include_adult': 'false'
@@ -799,38 +800,87 @@ def get_available_ids():
 
 
 def fetch_mixed_content(media_type, tmdb_api_key=TMDB_API_KEY):
-    """Fetch content using only trending endpoints (trending/day and trending/week)."""
+    """Fetch content using discover endpoint with US region and rating >= 7.5 filter."""
     available_ids = get_available_ids()
     log.info(f"📊 Found {len(available_ids)} existing items in local data")
     
-    # Use only trending endpoints
-    endpoints = [
-        ('trending', 'trending/day'),
-        ('trending', 'trending/week')
-    ]
+    # Use discover endpoint with US region and high rating filter
+    endpoint = "discover/movie" if media_type == 'movie' else "discover/tv"
     
-    log.info(f"🔄 Using trending endpoints only")
+    log.info(f"🔄 Using discover endpoint with US region and rating >= 7.5 filter")
     
     result = []
     
-    # Fetch from each endpoint in the group
-    for endpoint_type, endpoint_path in endpoints:
-        items = fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, available_ids)
-        if items:
-            result.extend(items)
-            if len(result) >= 3:  # Get up to 3 items per media type
-                break
+    # Try multiple pages to find new high-rated US content
+    for page in range(1, 6):
+        params = {
+            'api_key': tmdb_api_key,
+            'vote_average.gte': 7.5,
+            'vote_count.gte': 200,
+            'sort_by': 'popularity.desc',
+            'page': page,
+            'region': 'US',
+            'without_keywords': "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330",
+            'without_genres': "299697,299696",
+            'include_adult': 'false'
+        }
+        
+        try:
+            response = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                results = data.get('results', [])
+                
+                for item in results:
+                    tid = item.get('id')
+                    if tid in available_ids:
+                        continue
+                    
+                    title = item.get('title') or item.get('name')
+                    overview = item.get('overview', '')
+                    rating = round(item.get('vote_average', 0), 1)
+                    
+                    # Filter by rating: only include items with rating >= 7.5
+                    if rating < 7.5:
+                        continue
+                    
+                    # Check for adult content
+                    if is_adult_content(title, overview):
+                        log.warning(f"🚫 Skipping adult content: {title} (ID: {tid})")
+                        continue
+                    
+                    poster = item.get('poster_path')
+                    year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                    
+                    folder = 'movie' if media_type == 'movie' else 'tv'
+                    
+                    def clean_slug(text):
+                        res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                        res = re.sub(r'[-\s_]+', '-', res)
+                        return res
+                    
+                    slug = f"{tid}-{clean_slug(title)}"
+                    
+                    result.append({
+                        'tmdb_id': tid,
+                        'title': title,
+                        'poster': poster,
+                        'year': year,
+                        'rating': rating,
+                        'folder': folder,
+                        'slug': slug
+                    })
+                    
+                    if len(result) >= 3:
+                        break
+                
+                if len(result) >= 3:
+                    break
+        except Exception as e:
+            log.error(f"Error fetching from discover endpoint page {page}: {e}")
     
-    # Deduplicate by tmdb_id
-    seen_ids = set()
-    unique_result = []
-    for item in result:
-        if item['tmdb_id'] not in seen_ids:
-            seen_ids.add(item['tmdb_id'])
-            unique_result.append(item)
-    
-    log.info(f"✅ Returning {len(unique_result)} new {media_type} items")
-    return unique_result
+    log.info(f"✅ Returning {len(result)} new {media_type} items (US region, rating >= 7.5)")
+    return result
 
 
 def fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, available_ids):
@@ -850,13 +900,15 @@ def fetch_from_endpoint(media_type, endpoint_type, endpoint_path, tmdb_api_key, 
             url = f"{TMDB_BASE_URL}/trending/{media_type}/{endpoint_path.split('/')[1]}"
             params = {
                 'api_key': tmdb_api_key,
-                'page': page
+                'page': page,
+                'region': 'US'
             }
         else:
             url = f"{TMDB_BASE_URL}/{media_type}/{endpoint_type}"
             params = {
                 'api_key': tmdb_api_key,
                 'page': page,
+                'region': 'US',
                 'without_keywords': lgbt_keywords,
                 'without_genres': adult_genres,
                 'include_adult': 'false'

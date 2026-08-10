@@ -9,19 +9,11 @@
   "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
   "release_date": "2021-06-17",
   "vote_average": 7.8,
-  "vote_count": 8943,
+  "vote_count": 9043,
   "genres": [
     {
       "id": 16,
       "name": "رسوم متحركة"
-    },
-    {
-      "id": 35,
-      "name": "كوميديا"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
     },
     {
       "id": 10751,
@@ -30,31 +22,40 @@
     {
       "id": 14,
       "name": "فانتازيا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
     }
   ],
   "ai_content": {
-    "intro": "هل تعلم أن بين السحاب والبحار، يختبئون وحوش سرية؟",
-    "desc_ar": "في إطار من المغامرة والخيال، يلتقي فتى إيطالي مع وحش بحري يتنكر في هيئة إنسان، فتنشأ بينهما علاقة صداقة قوية تتحدى كل الظروف على الشواطئ الإيطالية الساحره في لوكا، حيث يتعرفنا على أصدقاء يلعبون دوراً رئيسياً في حياة الفتى، ويقودنا إلى عالم من المغامرة والفانتازيا، ويبرز القيم مثل الصداقة والبراءة والانفتاح على الآخرين.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في لوكا - رسوم متحركة كوميديا دراما عائلي فانتازيا",
-    "seo_title_ar": "مشاهدة فيلم لوكا مترجم اون لاين - توميتو",
-    "outro": "إذا كنت ترغب في مشاهدة مسلسل رسوم متحركة مبهج، متضمن مغامرات فريدة وقصص غريبة، فستجد في لوكا تجربة مشاهدة رائعة",
-    "opinion": "لوكا فيلم فантаستيك يلفت نظرنا إلى عالم من المغامرة والفانتازيا، حيث يتعرفنا على أصدقاء يلعبون دوراً رئيسياً في حياة الفتى، ويبرز القيم مثل الصداقة والبراءة والانفتاح على الآخرين.",
+    "intro": "يحكي فيلم لوكا قصة فتى إيطالي يلتقي بحش بحري يتنكر في هيئة إنسان، وتنتج عن ذلك علاقة صداقة قوية تتحدى كل الظروف على الشواطئ الإيطالية الساحرة في لوكا.",
+    "desc_ar": "يحكي فيلم لوكا قصة فتى إيطالي يلتقي بحش بحري يتنكر في هيئة إنسان، وتنتج عن ذلك علاقة صداقة قوية تتحدى كل الظروف على الشواطئ الإيطالية الساحرة في لوكا، وتعكس هذه القصة إطلالة رائعة على عالم خيالي مليء بالعجائب والجمال.",
+    "desc_en": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera, but their fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water's surface.",
+    "seo_title_ar": "مشاهدة لوكا 2021 مترجم اون لاين - توميتو",
+    "meta_desc": "شاهد فيلم Luca 2021 مترجم اون لاين بدون اعلانات، فيلم رسوم متحركة و دراما عن فتى إيطالي يلتقي بحش بحري في لوكا، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة",
+    "outro": "فيلم لوكا هو تجربة مشاهدة فريدة في عالم الرسوم المتحركة، يجمع بين المغامرة والخيال في عالم إيطالي ساحر.",
+    "opinion_ar": "فيلم لوكا هو تجربة مشاهدة فريدة في عالم الرسوم المتحركة، يجمع بين المغامرة والخيال في عالم إيطالي ساحر.",
+    "opinion_en": "Luca is a unique viewing experience in the world of animated films, combining adventure and fantasy in a beautiful Italian setting.",
     "faq": [
       {
-        "q": "ما هو فيلم لوكا؟",
-        "a": "فيلم رسوم متحركة كوميديا دراما عائلي فانتازيا يلفت نظرنا إلى عالم من المغامرة والفانتازيا"
+        "q": "ما هي قصة فيلم لوكا؟",
+        "a": "يحكي فيلم لوكا قصة فتى إيطالي يلتقي بحش بحري يتنكر في هيئة إنسان، وتنتج عن ذلك علاقة صداقة قوية تتحدى كل الظروف على الشواطئ الإيطالية الساحرة في لوكا."
       },
       {
-        "q": "ما هو إطار فيلم لوكا؟",
-        "a": "إطار من المغامرة والخيال، حيث يلتقي فتى إيطالي مع وحش بحري يتنكر في هيئة إنسان"
+        "q_en": "What is the story of Luca?",
+        "a_en": "Luca tells the story of an Italian boy who befriends a sea monster that disguises itself as a human, leading to a strong friendship that defies all odds on the beautiful Italian coast of Luca."
       },
       {
-        "q": "ما هي قيم فيلم لوكا؟",
-        "a": "القيم مثل الصداقة والبراءة والانفتاح على الآخرين، حيث يبرز فيلم لوكا أهمية هذه القيم في حياة الفتى"
+        "q": "متى صدر فيلم لوكا؟",
+        "a": "صدر فيلم لوكا في عام 2021."
       }
     ],
-    "keywords": "Luca, فيلم لوكا مترجم, مشاهدة فيلم كوميديا رسوم متحركة, لوكا مترجم, قصة فيلم لوكا, مشاهدة لوكا 2021, توميتو لوكا, أحداث لوكا بالتفصيل",
-    "desc_en": "In a framework of adventure and fantasy, an Italian boy meets a sea monster that disguises itself as a human, and a strong friendship develops between them, defying all circumstances on the stunning Italian coast in Luca, where we meet friends who play a key role in the boy's life, leading us to a world of adventure and fantasy, highlighting values such as friendship, innocence, and openness to others."
+    "keywords": "لوكا, فيلم, رسوم متحركة, عائلي, فانتازيا, دراما, كوميديا, متجر لوكا, لوكا ميكب, لوكا مودريتش, لوكا فاشن, لوكا زيدان, عيديات لوكا, مكياج لوكا, لوكا قلوس, لوكا بيوتي, اظافر لوكا, عيدية لوكا, لوكا دين, توزيعات لوكا للعيد, لوكا فوسكوفيتش"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -62,5 +63,5 @@
   "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jacob Tremblay Jack Dylan Grazer Emma Berman Saverio Raimondo Maya Rudolph"
+  "cast": "Jacob Tremblay Jack Dylan Grazer Emma Berman Saverio Raimondo Maya Rudolph Marco Barricelli Jim Gaffigan Peter Sohn"
 }

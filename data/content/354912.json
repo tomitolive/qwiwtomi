@@ -9,7 +9,7 @@
   "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
   "release_date": "2017-10-27",
   "vote_average": 8.2,
-  "vote_count": 21217,
+  "vote_count": 21215,
   "genres": [
     {
       "id": 10751,
@@ -29,29 +29,35 @@
     }
   ],
   "ai_content": {
-    "intro": "يحلم ميغيل بأن يصبح موسيقياً مشهوراً في عالم مليء بالعواطف والتراث العائلي.",
-    "desc_ar": "يحلم ميغيل بأن يصبح موسيقياً مشهوراً مثل إرنستو دي لا كروز، ولكن عائلته منذ أجيال مضى قد حظروا الموسيقى، مما جعل ميغيل يبحث عن طريقة لبرهنة موهبته، فيما يتجلى تأثير الموسيقى في حياته وتراث عائلته.",
-    "desc_en": "Despite his family's ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "seo_title_ar": "مشاهدة كوكو 2017 فيلم عائلي, رسوم متحركة, موسيقى, مغامرة مترجم على توماتو",
-    "meta_desc": "شاهد فيلم كوكو 2017 مترجم، حكاية عائلة ميغيل التي تعاني من حظر على الموسيقى، ولكن ميغيل يرغب في أن يصبح موسيقيا مشهورا. استمتع بمشاهدة هذا العمل بجو",
-    "outro": "في النهاية، يكتشف ميغيل الحقيقة الحقيقية عن تاريخ عائلته وعن نفسه.",
-    "opinion_ar": "كوكو هو فيلم عائلي رائع يجمع بين الموسيقى والرسوم المتحركة، وهو فيلم يلفت انتباهك وتحفزك للاستمتاع",
-    "opinion_en": "Coco is a wonderful family film that combines music and animation, a film that will capture your attention and encourage you to enjoy",
+    "intro": "في عالم مليء بالأحلام والغموض، يحلم ميغيل بالحصول على مواهبه في الموسيقى.",
+    "desc_ar": "في عالم مليء بالأحلام والغموض، يحلم ميغيل بالحصول على مواهبه في الموسيقى، على الرغم من حظر عائلته على الموسيقى منذ أجيال. يجد ميغيل نفسه في عالم مدهش ومليء باللون، حيث يلتقي بالساحر هيكتور، وينطلقان معا في رحلة غير عادية لفتح الأبواب على أسرار عائلة ميغيل. هذه القصة المذهلة تحكي عن الحلم والتحدي والاجتذاب إلى عالم غامض ومليء باللون، حيث يكتشف ميغيل أسرار عائلته ويفهم أهمية الموسيقى في حياته.",
+    "desc_en": "Despite his familys baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "seo_title_ar": "مشاهدة كوكو فيلم 2017 مترجم - توميتو",
+    "meta_desc": "كوكو فيلم عائلي روعة، يجمع بين الموسيقى والغموض والرحلات. شاهد كوكو 2017 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عال",
+    "outro": "هذه القصة المذهلة تحكي عن الحلم والتحدي والاجتذاب إلى عالم غامض ومليء باللون، حيث يكتشف ميغيل أسرار عائلته ويفهم أهمية الموسيقى في حياته.",
+    "opinion_ar": "كوكو فيلم عظيم يحكي قصة حلم وتحدي، مع إخراج فني ممتاز وتصميم شخصيات رائع.",
+    "opinion_en": "Coco is an extraordinary film that tells the story of a dream and a challenge, with outstanding visual direction and incredible character design.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم كوكو؟",
-        "a": "فيلم عائلي, رسوم متحركة, موسيقى, مغامرة",
-        "q_en": "What is the type of film Coco?",
-        "a_en": "Family film, Animation, Music, Adventure"
+        "q": "ما هو الفيلم كوكو؟",
+        "a": "كوكو فيلم عائلي روعة يحكي قصة حلم وتحدي ومغامرة في عالم غامض ومليء باللون.",
+        "q_en": "What is the film Coco?",
+        "a_en": "Coco is an extraordinary film that tells the story of a dream and a challenge, with outstanding visual direction and incredible character design."
       },
       {
-        "q": "ما هو تاريخ إصدار فيلم كوكو؟",
-        "a": "2017",
-        "q_en": "What is the release year of Coco?",
-        "a_en": "2017"
+        "q": "من هو مؤلف الفيلم كوكو؟",
+        "a": "مؤلف الفيلم كوكو هو ليوناردو ماتريس، والفيلم من إخراج أديل هولمز وبرونو كونزي.",
+        "q_en": "Who is the author of the film Coco?",
+        "a_en": "The author of the film Coco is Lee Unkrich and Adrian Molina, and the film is directed by Lee Unkrich and Adrian Molina."
+      },
+      {
+        "q": "ما هي نوع الفيلم كوكو؟",
+        "a": "الفيلم كوكو من نوع فيلم عائلي، رسوم متحركة، موسيقى، مغامرة.",
+        "q_en": "What type of film is Coco?",
+        "a_en": "Coco is a type of animated film, music, adventure."
       }
     ],
-    "keywords": "كوكو, فيلم, عائلي, رسوم متحركة, موسيقى, مغامرة, 2017, ميغيل, إرنستو دي لا كروز, هيكتور, العائلة, مشاهدة كوكو, Coco مترجم, تحميل كوكو, كوكو اون لاين"
+    "keywords": "كوكو, فيلم, عائلي, رسوم متحركة, موسيقى, مغامرة, 2017, ليوناردو ماتريس, أديل هولمز, برونو كونزي, مشاهدة كوكو, Coco مترجم, تحميل كوكو, كوكو اون لاين, Coco"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

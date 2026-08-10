@@ -1,7 +1,7 @@
 # GitHub Actions Workflow `bot0`
-# Runs the mixed content bot (1 trending, 1 random per region) automatically.
+# Runs the comprehensive bot (fix descriptions + generate new US content with rating >= 7.5)
 
-name: bot0 - Mixed Content Bot
+name: bot0 - Comprehensive Bot
 
 on:
   schedule:
@@ -33,11 +33,11 @@ jobs:
         run: |
           echo '${{ secrets.GCP_INDEXING_KEY }}' > mythical-module-493722-n6-e2da3325c496.json
 
-      - name: Run Mixed Content Bot
+      - name: Run Comprehensive Bot
         env:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python3 run_bot_with_mixed_content.py
+        run: python3 fix_short_descriptions_bot.py
 
       - name: Download missing poster images
         run: python3 download_all_images.py
@@ -55,6 +55,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "bot0: generate new mixed content and update sitemap"
+            git commit -m "bot0: fix descriptions and generate new US content (rating >= 7.5)"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tomito/qwiwtomi.git
           fi

@@ -4,7 +4,7 @@
   "title_ar": "9",
   "title_en": "DEAW 9 Stand Up Comedy Show",
   "slug": "81329-deaw-9-stand-up-comedy-show",
-  "overview": "يحكي هذا العمل قصة أستاذة في المدرسة، يروي أستاذنا قصته عن طفولته وتجربته في الفقر والضغوط الاجتماعية، ويعطي نظرة عميقة على تأثير وسائل التواصل الاجتماعي على حياة الناس، يصور أستاذنا حياته وطموحاته في هذا العمل الكوميدي الملهم.",
+  "overview": "يحكي هذا العمل قصة الريادة والتحدي في عالم الكوميديا، حيث يعتبر الفنان أودوم تيبانيتش من أشهر الممثلين في هذا المجال. يسلط الضوء على تجربته في الطفولة والغموض الذي عاشه، وكيف استطاع التغلب على الصعاب والتحديات التي واجهته. يبحث في الآثار السلبية للفقر والتمييز الاجتماعي، كما يتناول مواضيع الوسائل الحديثة مثل وسائل التواصل الاجتماعي والimpact الذي لها على حياة الشباب. هذا العمل يعكس تجربة حقيقية وواقعية تسلط الضوء على أهمية التغلب على الصعاب والتحديات في الحياة.",
   "poster_path": "/jMGf2rNYzPmUKT3LlGQ2mdB7tte.jpg",
   "backdrop_path": "/e21wG9ySsoGexudI85GICnqWrFy.jpg",
   "release_date": "2011-08-05",
@@ -17,23 +17,29 @@
     }
   ],
   "ai_content": {
-    "intro": "في هذا العمل الكوميدي الملهم، يروي أستاذنا قصته عن طفولته وتجربته في الفقر والضغوط الاجتماعية.",
-    "desc_ar": "يحكي هذا العمل قصة أستاذة في المدرسة، يروي أستاذنا قصته عن طفولته وتجربته في الفقر والضغوط الاجتماعية، ويعطي نظرة عميقة على تأثير وسائل التواصل الاجتماعي على حياة الناس، يصور أستاذنا حياته وطموحاته في هذا العمل الكوميدي الملهم.",
-    "desc_en": "In his popular solo show, Udom Taephanich reflects on his childhood and offers insights on poverty, bullying and social media. He shares his life experiences and ambitions in this inspiring comedic work.",
-    "seo_title_ar": "مشاهدة فيلم 9 DEAW 9 Stand Up Comedy Show مترجم - توميتو",
-    "meta_desc": "استمتع بمشاهدة فيلم DEAW 9 Stand Up Comedy Show بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، يروي أستاذنا قصته عن طفولته وتجربته في الفقر والضغوط الاجتم",
-    "outro": "يعد هذا العمل الكوميدي الملهم تجربة فنية رائعة، يظهر فيه أستاذنا شخصيته وطموحاته بفارغ الصبر.",
-    "opinion_ar": "هذا العمل الكوميدي الملهم هو تجربة فنية رائعة، يظهر فيه أستاذنا شخصيته وطموحاته بفارغ الصبر.",
-    "opinion_en": "This inspiring comedic work is a great artistic experience, showcasing the teacher's personality and ambitions with great enthusiasm.",
+    "intro": "يحكي هذا العمل قصة الريادة والتحدي في عالم الكوميديا، حيث يعتبر الفنان أودوم تيبانيتش من أشهر الممثلين في هذا المجال.",
+    "desc_ar": "يحكي هذا العمل قصة الريادة والتحدي في عالم الكوميديا، حيث يعتبر الفنان أودوم تيبانيتش من أشهر الممثلين في هذا المجال. يسلط الضوء على تجربته في الطفولة والغموض الذي عاشه، وكيف استطاع التغلب على الصعاب والتحديات التي واجهته. يبحث في الآثار السلبية للفقر والتمييز الاجتماعي، كما يتناول مواضيع الوسائل الحديثة مثل وسائل التواصل الاجتماعي والimpact الذي لها على حياة الشباب. هذا العمل يعكس تجربة حقيقية وواقعية تسلط الضوء على أهمية التغلب على الصعاب والتحديات في الحياة.",
+    "desc_en": "In his popular solo show, Udom Taephanich reflects on his childhood and offers insights on poverty, bullying and social media. He sheds light on the challenges he faced and how he overcame them, highlighting the importance of perseverance in the face of adversity. Through his story, he encourages the audience to think critically about the impact of social media on their lives and the importance of empathy and understanding in breaking down social barriers.",
+    "seo_title_ar": "مشاهدة فيلم DEAW 9 Stand Up Comedy Show مترجم - توميتو",
+    "meta_desc": "DEAW 9 Stand Up Comedy Show فيلم كوميدي 2011 - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "هذا العمل يعد تجربة فنية فريدة وملهمة، حيث يعكس تجربة حقيقية للفنان في عالم الكوميديا.",
+    "opinion_ar": "هذا العمل يعد تجربة فنية فريدة وملهمة، حيث يعكس تجربة حقيقية للفنان في عالم الكوميديا. يسلط الضوء على أهمية التغلب على الصعاب والتحديات في الحياة.",
+    "opinion_en": "This show is a unique and inspiring work of art, reflecting the real-life experiences of the artist in the world of comedy. It highlights the importance of overcoming obstacles and challenges in life.",
     "faq": [
       {
-        "q": "ما هو فيلم DEAW 9 Stand Up Comedy Show؟",
-        "a": "هو فيلم كوميدي يروي قصة أستاذ في المدرسة عن طفولته وتجربته في الفقر والضغوط الاجتماعية.",
-        "q_en": "What is DEAW 9 Stand Up Comedy Show?",
-        "a_en": "It is a comedy film that tells the story of a teacher about his childhood and experience of poverty and social pressures."
+        "q": "ما هي قصة هذا العمل؟",
+        "a": "يحكي هذا العمل قصة الريادة والتحدي في عالم الكوميديا، حيث يعتبر الفنان أودوم تيبانيتش من أشهر الممثلين في هذا المجال.",
+        "q_en": "What is the story of this show?",
+        "a_en": "The show tells the story of leadership and challenge in the world of comedy, where the artist Udom Taephanich is one of the most famous comedians in this field."
+      },
+      {
+        "q": "ما هي مواضيع هذا العمل؟",
+        "a": "يتناول هذا العمل مواضيع الفقر والتمييز الاجتماعي، وكذلك وسائل التواصل الاجتماعي والimpact الذي لها على حياة الشباب.",
+        "q_en": "What are the topics of this show?",
+        "a_en": "The show discusses topics such as poverty, social discrimination, as well as social media and their impact on the lives of young people."
       }
     ],
-    "keywords": "فيلم كوميدي, DEAW 9 Stand Up Comedy Show, أستاذ مدرسة, طفولة, فقر, وسائل التواصل الاجتماعي, 9 11, شهر 9, 9, هونر 9, رزدنت ايفل 9, هونر اكس 9, لعبة رزدنت ايفل 9, رزدنت ايفل 9 ستيم, هدير عبد الرازق الجديد 9 دقائق"
+    "keywords": "فيلم كوميدي, DEAW 9 Stand Up Comedy Show, أودوم تيبانيتش, عالم الكوميديا, الفقر, التمييز الاجتماعي, وسائل التواصل الاجتماعي, مشاهدة 9, DEAW 9 Stand Up Comedy Show مترجم, تحميل 9, 9 اون لاين, 9 جودة عالية, فيلم 9, DEAW 9 Stand Up Comedy Show HD, DEAW 9 Stand Up Comedy Show online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

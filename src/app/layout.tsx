@@ -116,6 +116,7 @@ export default async function RootLayout({
         </Script>
       </head>
       <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
+        <Navbar />
         <main className="min-h-screen">
           {children}
         </main>
