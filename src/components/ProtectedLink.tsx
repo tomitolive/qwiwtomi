@@ -25,17 +25,30 @@ export default function ProtectedLink({ encodedUrl, className = "", children }: 
     }
   };
 
-  return (
-    <div
-      role="button"
-      tabIndex={0}
-      onClick={handleClick}
-      onKeyDown={(e) => { if (e.key === 'Enter') handleClick(e as any); }}
-      className={className}
-      data-ref={mounted ? encodedUrl : undefined}
-      aria-label="رابط آمن"
-    >
-      {children}
-    </div>
-  );
+  try {
+    const url = atob(encodedUrl);
+    return (
+      <a
+        href={url}
+        className={className}
+        aria-label="رابط آمن"
+      >
+        {children}
+      </a>
+    );
+  } catch (err) {
+    return (
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={handleClick}
+        onKeyDown={(e) => { if (e.key === 'Enter') handleClick(e as any); }}
+        className={className}
+        data-ref={mounted ? encodedUrl : undefined}
+        aria-label="رابط آمن"
+      >
+        {children}
+      </div>
+    );
+  }
 }
