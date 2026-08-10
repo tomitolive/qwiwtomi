@@ -6,11 +6,15 @@
   "slug": "279-amadeus",
   "overview": "يروي الموسيقار أنتونيو ساليري (إف موري إبراهام) من داخل إحدى المصحات العقلية وعلى مسامع أحد القساوسة عن علاقته بالموسيقار الراحل وولفجانج أماديوس موتسارت (توم هولس)، حاكيًا عن مسيرته الموسيقية المذهلة التي أبهرت الجميع من حوله، وغيرة (ساليري) الشديدة منه، بجانب رغبته الدائمة في أن يكون في مثل عبقريته وألمعيته .",
   "poster_path": "/mOTQybv6QNfjlyiDKvqOmQnbqQX.jpg",
-  "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+  "backdrop_path": "/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
   "release_date": "1984-09-19",
-  "vote_average": 8,
-  "vote_count": 4747,
+  "vote_average": 8.0,
+  "vote_count": 4843,
   "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
     {
       "id": 36,
       "name": "تاريخ"
@@ -18,35 +22,26 @@
     {
       "id": 10402,
       "name": "موسيقى"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "ما أدرك أن الموسيقى يمكن أن تكون سلاحًا قاتلًا؟",
-    "desc_ar": "يروي الموسيقار أنتونيو ساليري من داخل إحدى المصحات العقلية عن علاقته بالموسيقار الراحل وولفجانج أماديوس موتسارت، الذي أبهر الجميع من حوله، وغيرة (ساليري) الشديدة منه، بجانب رغبته الدائمة في أن يكون في مثل عبقريته وألمعيته.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم أماديوس مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم أماديوس مترجم اون لاين - توميتو",
-    "outro": "إذا كانت لديك أي شايء فكر فيما قد يكون سارع أحداث هذا الفيلم بالخروج من مسارك",
-    "opinion": "فيلم أماديوس هو فيلم رائع يروي قصة الموسيقار أنتونيو ساليري، الذي يتعامل مع مشاعر الغيرة والشغف، في إطار من الدراما والهيستريا.",
+    "intro": "يحكي هذا العمل قصة حياة موتسارت، الذي ألهم الجميع بمهاراته الموسيقية المتقنة.",
+    "desc_ar": "يحكي هذا العمل قصة الحياة المذهلة للموسيقار الراحل أماديوس موتسارت، الذي ألهم الجميع بمهاراته الموسيقية المتقنة، لكنه أيضًا كان باعثًا على الفتن والغيرة لبعض أصحابه، ويعرض أيضًا حياة الموسيقار أنتونيو ساليري، الذي أصبحت شغفه بالهيبة والجمال يأخذ شكل الريبة والغيرة تجاه موتسارت، وفي النهاية، يبحث ساليري عن التميز والجمال، لكنه يجد نفسه محاطًا بالغموض والخداع، في هذه القصة التي تسلط الضوء على العالم الموسيقي في القرن الثامن عشر، وتعكس أيضًا حياة الكائن البشري، ووجوده بين الخير والشر.",
+    "desc_en": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+    "seo_title_ar": "مشاهدة فيلم أماديوس مترجم - توميتو",
+    "meta_desc": "أماديوس - فيلم درامي تاريخي موسيقي عن حياة موتسارت، مع شغف وغيرة في العالم الموسيقي في القرن الثامن عشر، واستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترا",
+    "outro": "في النهاية، يبحث ساليري عن التميز والجمال، لكنه يجد نفسه محاطًا بالغموض والخداع.",
+    "opinion_ar": "يحكي هذا العمل قصة حياة موتسارت، الذي ألهم الجميع بمهاراته الموسيقية المتقنة، لكنه أيضًا كان باعثًا على الفتن والغيرة لبعض أصحابه.",
+    "opinion_en": "This film is a fascinating story about the life of Mozart, who inspired everyone with his remarkable musical talents, but also caused envy and resentment among some of his contemporaries.",
     "faq": [
       {
         "q": "ما هو فيلم أماديوس؟",
-        "a": "فيلم أماديوس هو فيلم دراما تاريخي يروي قصة الموسيقار أنتونيو ساليري"
-      },
-      {
-        "q": "ما هو موضوع فيلم أماديوس؟",
-        "a": "يروي الفيلم قصة علاقات الموسيقار أنتونيو ساليري بالموسيقار الراحل وولفجانج أماديوس موتسارت"
-      },
-      {
-        "q": "ما هو نوع فيلم أماديوس؟",
-        "a": "فيلم أماديوس هو فيلم دراما تاريخي موسيقى"
+        "a": "فيلم درامي تاريخي موسيقي عن حياة موتسارت.",
+        "q_en": "What is the movie Amadeus?",
+        "a_en": "A biographical drama film about the life of Wolfgang Amadeus Mozart."
       }
     ],
-    "keywords": "Amadeus, فيلم أماديوس مترجم, مشاهدة فيلم أماديوس, توميتو أماديوس, أماديوس مترجم, قصة فيلم أماديوس, مشاهدة أماديوس 1984, أحداث أماديوس بالتفصيل",
-    "desc_en": "The film tells the story of Antonio Salieri, a musician who is haunted by his own jealousy and ambition, as he recounts his relationship with the late Wolfgang Amadeus Mozart, who amazed everyone around him."
+    "keywords": "أماديوس, موتسارت, ساليري, دراما, تاريخ, موسيقى, فيلم, مسيرة, كلاسيكية, مشاهدة أماديوس, Amadeus مترجم, تحميل أماديوس, أماديوس اون لاين, Amadeus, Amadeus online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "160 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "F. Murray Abraham Tom Hulce Elizabeth Berridge Simon Callow Roy Dotrice"
+  "cast": "F. Murray Abraham Tom Hulce Elizabeth Berridge Simon Callow Roy Dotrice Christine Ebersole Jeffrey Jones Charles Kay"
 }
