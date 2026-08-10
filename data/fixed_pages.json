@@ -3401,8 +3401,68 @@
       "file": "10195.json",
       "title": "ثور",
       "fixed_at": "2026-08-10T04:44:18.620634"
+    },
+    {
+      "tmdb_id": "646315",
+      "file": "646315.json",
+      "title": "The Legendary Lighter",
+      "fixed_at": "2026-08-10T06:03:19.350256"
+    },
+    {
+      "tmdb_id": "42410",
+      "file": "42410.json",
+      "title": "دورارارا !!",
+      "fixed_at": "2026-08-10T06:03:27.636602"
+    },
+    {
+      "tmdb_id": "91602",
+      "file": "91602.json",
+      "title": "Modern Love",
+      "fixed_at": "2026-08-10T06:03:35.590208"
+    },
+    {
+      "tmdb_id": "9820",
+      "file": "9820.json",
+      "title": "The Parent Trap",
+      "fixed_at": "2026-08-10T06:03:46.890603"
+    },
+    {
+      "tmdb_id": "315162",
+      "file": "315162.json",
+      "title": "القط ذو الحذاء: الأمنية الأخيرة",
+      "fixed_at": "2026-08-10T06:03:56.900318"
+    },
+    {
+      "tmdb_id": "109526",
+      "file": "109526.json",
+      "title": "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+      "fixed_at": "2026-08-10T06:04:10.248953"
+    },
+    {
+      "tmdb_id": "4464",
+      "file": "4464.json",
+      "title": "Homicide: Life on the Street",
+      "fixed_at": "2026-08-10T06:04:20.617614"
+    },
+    {
+      "tmdb_id": "48866",
+      "file": "48866.json",
+      "title": "The 100",
+      "fixed_at": "2026-08-10T06:04:31.190886"
+    },
+    {
+      "tmdb_id": "253296",
+      "file": "253296.json",
+      "title": "Century of Love",
+      "fixed_at": "2026-08-10T06:04:42.670673"
+    },
+    {
+      "tmdb_id": "652837",
+      "file": "652837.json",
+      "title": "جوسي، النمر والسمكة",
+      "fixed_at": "2026-08-10T06:04:53.002760"
     }
   ],
-  "last_updated": "2026-08-10T04:44:20.710719",
-  "total_fixed": 567
+  "last_updated": "2026-08-10T06:04:57.572608",
+  "total_fixed": 577
 }

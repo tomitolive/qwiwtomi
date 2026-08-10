@@ -1,54 +1,45 @@
 {
   "id": 253296,
-  "title": "Century of Love",
-  "title_ar": "Century of Love",
-  "title_en": "Century of Love",
-  "slug": "253296-century-of-love",
-  "overview": "في مسلسل \"قرن الحب\"، يلجأ رجل إلى سر غامض لتمديد حياته حتى يعيد تجسيد حبه الذي فارق الحياة منذ زمن طويل، ولكن سرعان ما يكتشف أن تجسدها الجديد هو شاب صغير. قصة رومانسية خيالية تدور في أجواء من المغامرة والحركة.",
-  "poster_path": "/A6jHAGINcgdeyC8Nmwpa18Ws8U8.jpg",
-  "backdrop_path": "/rTpw6JjsS4WIRSQ7xJoaqjIxS4b.jpg",
-  "release_date": "2024-07-10",
-  "vote_average": 9.3,
-  "vote_count": 50,
+  "title": "Seeds of Time",
+  "title_ar": "Seeds of Time",
+  "title_en": "Seeds of Time",
+  "slug": "253296-seeds-of-time",
+  "overview": "يحكي فيلم \"بذور الزمن\" قصة رائد في الزراعة، كاري فاولر، الذي يخوض رحلة عالمية لإنقاذ أساس غذائنا المتدهور في عهد تغير المناخ الجدير بالاهتمام. يُظهر الفيلم كيف يمكن أن يتحول الزراعة إلى أداة حيوية للاستجابة لتحديات المناخ، ويبرز أهمية الحفاظ على تنوع الأشجار الناضجة والتنوع البيولوجي. في رحلته، يلتقي فاولر بالعديد من الأشخاص الذين يعملون بجد لضمان مستقبل الغذاء العالمي.",
+  "poster_path": "/90grxEeIwWLUhmDHceTCfgPnzA6.jpg",
+  "backdrop_path": null,
+  "release_date": "2013-11-10",
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Century of Love (2024) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "في مسلسل \"قرن الحب\"، يلجأ رجل إلى سر غامض لتمديد حياته حتى يعيد تجسيد حبه الذي فارق الحياة منذ زمن طويل، ولكن سرعان ما يكتشف أن تجسدها الجديد هو شاب صغير. قصة رومانسية خيالية تدور في أجواء من المغامرة والحركة.",
-    "desc_en": "Century of Love follows a man's quest to reunite with his long-lost love. Using a mystical secret, he extends his life until her reincarnation, only to find that she has been reborn as a young man. A romantic fantasy adventure.",
-    "seo_title_ar": "مشاهدة مسلسل Century of Love مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل Century of Love (2024) مترجم بجودة عالية على توميتو. مسلسل رومانسي خيالي عن الحب الأبدي وإعادة التجسيد.",
-    "outro": "شاهد Century of Love الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل Century of Love يقدم قصة رومانسية فريدة ومثيرة، مع لمسة من الخيال العلمي والمغامرة. أداء مميز ومؤثرات بصرية مبهرة.",
-    "opinion_en": "Century of Love offers a unique and captivating romantic fantasy adventure. Impressive performances and stunning visual effects.",
+    "intro": "يُحظى فيلم \"بذور الزمن\" بمكانة خاصة في عالم السينما الوثائقية، حيث يُظهر الفيلم كيف يمكن أن يصبح الزراعة أداة حيوية للاستجابة لتحديات المناخ.",
+    "desc_ar": "يحكي فيلم \"بذور الزمن\" قصة رائد في الزراعة، كاري فاولر، الذي يخوض رحلة عالمية لإنقاذ أساس غذائنا المتدهور في عهد تغير المناخ الجدير بالاهتمام. يُظهر الفيلم كيف يمكن أن يتحول الزراعة إلى أداة حيوية للاستجابة لتحديات المناخ، ويبرز أهمية الحفاظ على تنوع الأشجار الناضجة والتنوع البيولوجي. في رحلته، يلتقي فاولر بالعديد من الأشخاص الذين يعملون بجد لضمان مستقبل الغذاء العالمي.",
+    "desc_en": "Seeds of Time follows agriculture pioneer Cary Fowler's global journey to save the eroding foundation of our food supply in a new era of climate change. The film shows how agriculture can become a vital tool to respond to the challenges of climate change, highlighting the importance of preserving mature tree diversity and biological diversity. In his journey, Fowler meets many people working hard to ensure the future of the global food supply.",
+    "seo_title_ar": "مشاهدة فيلم بذور الزمن مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم بذور الزمن بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، وهو فيلم وثائقي يتناول تحديات تغير المناخ والزراعة في عهد المناخ الجديد.",
+    "outro": "يُعد فيلم \"بذور الزمن\" تجربة فنية رائعة تعكس أهمية الزراعة في عهد المناخ الجديد، ويبرز قدرة الفيلم على إلهام الجمهور للاستجابة لتحديات المناخ.",
+    "opinion_ar": "يُعد فيلم \"بذور الزمن\" تجربة فنية رائعة تعكس أهمية الزراعة في عهد المناخ الجديد، ويبرز قدرة الفيلم على إلهام الجمهور للاستجابة لتحديات المناخ.",
+    "opinion_en": "Seeds of Time is a fantastic film experience that highlights the importance of agriculture in the new era of climate change, and showcases the film's ability to inspire the audience to respond to the challenges of the climate.",
     "faq": [
       {
-        "q": "هل مسلسل Century of Love مبني على رواية؟",
-        "a": "لا، مسلسل Century of Love هو عمل أصلي تم إنشاؤه خصيصًا للتلفزيون.",
-        "q_en": "Is Century of Love based on a novel?",
-        "a_en": "No, Century of Love is an original television series."
+        "q": "ما هو موضوع فيلم \"بذور الزمن\"؟",
+        "a": "يحكي فيلم \"بذور الزمن\" قصة رائد في الزراعة، كاري فاولر، الذي يخوض رحلة عالمية لإنقاذ أساس غذائنا المتدهور في عهد تغير المناخ.",
+        "q_en": "What is the subject of the film \"Seeds of Time\"?",
+        "a_en": "The film \"Seeds of Time\" tells the story of agriculture pioneer Cary Fowler, who embarks on a global journey to save the eroding foundation of our food supply in a new era of climate change."
       }
     ],
-    "keywords": "Century of Love, قرن الحب, دراما, خيال علمي, فانتازيا, مغامرة, رومانسية, حياة أبدية, إعادة تجسيد, حب, سر غامض"
+    "keywords": "فيلم وثائقي, تغير المناخ, الزراعة, بذور الزمن, Seeds Time, Cary Fowler, رحلة عالمية, أساس غذائي, مشاهدة بذور الزمن, Seeds Time مترجم, تحميل بذور الزمن, بذور الزمن اون لاين, بذور الزمن جودة عالية, فيلم بذور الزمن, Seeds of Time مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "55 دقيقة",
+  "duration": "77 دقيقة",
   "language": "الإنجليزية",
-  "country": "تايلاند",
-  "cast": "Pittaya Saechua Kantapon Jindataweephol Yada Suwanpattana Ponlawit Ketprapakorn Pornsroung Rouyruen Koravich Sarasin Deuntem Salitul Jirawat Wachirasarunpat",
-  "first_air_date": "2024-07-10"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }
