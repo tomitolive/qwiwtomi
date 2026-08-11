@@ -94,8 +94,8 @@ export function buildMovieMetadata(opts: {
   const mergedName = formatBilingualTitle(title, titleEn);
 
   const defaultTitle = genreLabel
-    ? `مشاهدة وتحميل فيلم ${genreLabel} ${mergedName} ${year} مترجم اون لاين`
-    : `مشاهدة وتحميل فيلم ${mergedName} ${year} مترجم اون لاين`;
+    ? `مشاهدة فيلم ${genreLabel} ${mergedName} ${year} مترجم`
+    : `مشاهدة فيلم ${mergedName} ${year} مترجم`;
 
   const pageTitle = ai?.seo_title_ar?.trim()
     ? injectEnglishIntoSeoTitle(ai.seo_title_ar.trim(), title, titleEn)
@@ -196,8 +196,8 @@ export function buildTvMetadata(opts: {
   const mergedName = formatBilingualTitle(title, titleEn);
 
   const defaultTitle = genreLabel
-    ? `مشاهدة وتحميل مسلسل ${genreLabel} ${mergedName} ${year} مترجم اون لاين`
-    : `مشاهدة وتحميل مسلسل ${mergedName} ${year} مترجم اون لاين`;
+    ? `مشاهدة مسلسل ${genreLabel} ${mergedName} ${year} مترجم`
+    : `مشاهدة مسلسل ${mergedName} ${year} مترجم`;
 
   const pageTitle = ai?.seo_title_ar?.trim()
     ? injectEnglishIntoSeoTitle(ai.seo_title_ar.trim(), title, titleEn)

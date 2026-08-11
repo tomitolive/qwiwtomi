@@ -62,9 +62,9 @@ export default function Navbar() {
       <div className="flex items-center justify-between w-full gap-3">
         <div className="flex items-center gap-3 md:gap-6">
           <Link href="/" className="logo-link" style={{ fontFamily: 'var(--font-outfit)' }}>
-            <h1 className="logo-text-wrapper m-0">
+            <div className="logo-text-wrapper m-0">
               <span className="logo-text">TOMITO</span>
-            </h1>
+            </div>
           </Link>
           <nav className={`items-center gap-5 text-[13px] font-semibold ${mobileMenuOpen ? 'flex flex-col absolute top-full left-0 right-0 bg-[#000] p-4 z-50' : 'hidden md:flex'}`}>
             <Link href="/" className="nav-link-active" onClick={() => setMobileMenuOpen(false)}>{t.home}</Link>
