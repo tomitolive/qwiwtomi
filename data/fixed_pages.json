@@ -4121,8 +4121,20 @@
       "file": "67707.json",
       "title": "Paradise Hotel",
       "fixed_at": "2026-08-11T12:12:50.675560"
+    },
+    {
+      "tmdb_id": "1128650",
+      "file": "1128650.json",
+      "title": "The Prosecutor",
+      "fixed_at": "2026-08-11T13:43:47.465604"
+    },
+    {
+      "tmdb_id": "260609",
+      "file": "260609.json",
+      "title": "Com si fos ahir",
+      "fixed_at": "2026-08-11T13:43:58.319691"
     }
   ],
-  "last_updated": "2026-08-11T12:12:52.678330",
-  "total_fixed": 687
+  "last_updated": "2026-08-11T13:44:00.322319",
+  "total_fixed": 689
 }

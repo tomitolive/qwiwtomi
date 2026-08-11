@@ -1,50 +1,61 @@
 {
   "id": 260609,
-  "title": "Com si fos ahir",
-  "title_ar": "Com si fos ahir",
-  "title_en": "Com si fos ahir",
-  "slug": "260609-com-si-fos-ahir",
-  "overview": "كوم سي فوس أهير: مسلسل درامي مثير يجمع أصدقاء المدرسة الثانوية بعد 25 عامًا لحضور جنازة صديق مشترك، ومنذ ذلك الحين يحاولون استعادة صداقتهم. Com    مسلسل دراما وأوبرا صابونية مشوق.",
-  "poster_path": "/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
-  "backdrop_path": "/2ofetIR5RQmK3oWrFrHarFDFDnC.jpg",
-  "release_date": "2017-09-11",
-  "vote_average": 5.5,
-  "vote_count": 2,
+  "title": "Cary Grant: A Class Apart",
+  "title_ar": "Cary Grant: A Class Apart",
+  "title_en": "Cary Grant: A Class Apart",
+  "slug": "260609-cary-grant-a-class-apart",
+  "overview": "يحكي هذا العمل قصة حياة وتطور السينمائي المتميز كاري غرانت من خلال مقاطع من الأفلام وأدلة من المقابلات. يُعد هذا العمل جزءًا من سلسلة معاصري أمريكي، الذي يُبث على الشاشات التلفزيونية. يسلط الضوء على أحدث وأروع أعمال كاري غرانت، وتعرض حياته الشخصية والمهنية من خلال إضافات حصرية.",
+  "poster_path": "/tz8dGnaHJw722Nru8Moypld7SIA.jpg",
+  "backdrop_path": "/4Wxif4QDbaU2mEY67KxTitt5vzZ.jpg",
+  "release_date": "2004-06-01",
+  "vote_average": 7.1,
+  "vote_count": 10,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 99,
+      "name": "وثائقي"
     },
     {
-      "id": 10766,
-      "name": "أوبرا صابونية"
+      "id": 10770,
+      "name": "فيلم تلفازي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Com si fos ahir (2017) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "كوم سي فوس أهير: مسلسل درامي مثير يجمع أصدقاء المدرسة الثانوية بعد 25 عامًا لحضور جنازة صديق مشترك، ومنذ ذلك الحين يحاولون استعادة صداقتهم. Com    مسلسل دراما وأوبرا صابونية مشوق.",
-    "desc_en": "Com si fos ahir is a captivating drama series that reunites a group of high school friends after 25 years for a mutual friend's funeral. The series follows their journey as they attempt to rekindle their friendship.",
-    "seo_title_ar": "مشاهدة مسلسل كوم سي فوس أهير Com مترجم - توميتو",
-    "meta_desc": "كوم سي فوس أهير - مسلسل دراما وأوبرا صابونية يجمع أصدقاء المدرسة الثانوية بعد 25 عاما، حيث يحاولون استعادة صداقتهم بعد جنازة صديقهم المشترك.",
-    "outro": "شاهد Com si fos ahir الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "كوم سي فوس أهير مسلسل دراما ممتع، يسلط الضوء على العلاقات الإنسانية المعقدة، ويأخذنا في رحلة مؤثرة لاستكشاف الصداقة والذكريات.",
-    "opinion_en": "Com si fos ahir is a captivating drama that explores complex human relationships and takes viewers on an emotional journey through friendship and memories.",
+    "intro": "يحظى هذا العمل بشهرة واسعة لتعرض حياة وتطور السينمائي المتميز كاري غرانت.",
+    "desc_ar": "يحكي هذا العمل قصة حياة وتطور السينمائي المتميز كاري غرانت من خلال مقاطع من الأفلام وأدلة من المقابلات. يُعد هذا العمل جزءًا من سلسلة معاصري أمريكي، الذي يُبث على الشاشات التلفزيونية. يسلط الضوء على أحدث وأروع أعمال كاري غرانت، وتعرض حياته الشخصية والمهنية من خلال إضافات حصرية.",
+    "desc_en": "This documentary explores the life and career of leading man Cary Grant through film clips and interviews. Produced as S18E03 of the long running series American Masters, this work sheds light on Cary Grant's latest and greatest works, and delves into his personal and professional life through exclusive additions.",
+    "seo_title_ar": "مشاهدة كاري غرانت: فصل دراسي مترجم - توميتو",
+    "meta_desc": "كاري غرانت: فصل دراسي فيلم وثائقي يسلط الضوء على حياة وتطور السينمائي المتميز كاري غرانت من خلال مقاطع من الأفلام وأدلة من المقابلات. استمتع بمشاهدة هذا ال",
+    "outro": "يعتبر هذا العمل من أعظم الأفلام الوثائقية التي شاهدتها، حيث يقدم إضافات حصرية عن حياة وتطور كاري غرانت.",
+    "opinion_ar": "يعتبر هذا العمل من أعظم الأفلام الوثائقية التي شاهدتها، حيث يقدم إضافات حصرية عن حياة وتطور كاري غرانت.",
+    "opinion_en": "This documentary is one of the best I've seen, as it offers exclusive additions about Cary Grant's life and career.",
     "faq": [
       {
-        "q": "ما هو كوم سي فوس أهير؟",
-        "a": "كوم سي فوس أهير مسلسل دراما وأوبرا صابونية إسباني.",
-        "q_en": "What is Com si fos ahir?",
-        "a_en": "Com si fos ahir is a Spanish drama series with soap opera elements."
+        "q": "ما هي قصة هذا العمل؟",
+        "a": "يحكي هذا العمل قصة حياة وتطور السينمائي المتميز كاري غرانت من خلال مقاطع من الأفلام وأدلة من المقابلات.",
+        "q_en": "What is the story of this work?",
+        "a_en": "This work tells the story of the life and career of leading man Cary Grant through film clips and interviews."
+      },
+      {
+        "q": "من إنتاج سلسلة معاصري أمريكي؟",
+        "a": "نعم، هذا العمل جزء من سلسلة معاصري أمريكي، التي يُبث على الشاشات التلفزيونية.",
+        "q_en": "Is this work produced as part of the American Masters series?",
+        "a_en": "Yes, this work is part of the American Masters series, which is broadcast on television."
+      },
+      {
+        "q": "ما هي أهمية هذا العمل؟",
+        "a": "يعتبر هذا العمل من أهم الأفلام الوثائقية التي تعرض حياة وتطور كاري غرانت.",
+        "q_en": "What is the importance of this work?",
+        "a_en": "This work is one of the most important documentaries that showcase Cary Grant's life and career."
       }
     ],
-    "keywords": "كوم سي فوس أهير, Com, مسلسل, دراما, أوبرا صابونية, صداقة, علاقات إنسانية, جنازة"
+    "keywords": "كاري غرانت, فصل دراسي, فيلم وثائقي, سينما, تاريخ السينما, Cary Grant: Class Apart, American Masters, فيلم تلفازي, مشاهدة كاري غرانت: فصل دراسي, Cary Grant: Class Apart مترجم, تحميل كاري غرانت: فصل دراسي, كاري غرانت: فصل دراسي اون لاين, كاري غرانت: فصل دراسي جودة عالية, فيلم كاري غرانت: فصل دراسي, Cary Grant: A Class Apart مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "35 دقيقة",
+  "duration": "87 دقيقة",
   "language": "الإنجليزية",
-  "country": "إسبانيا",
-  "cast": "",
-  "first_air_date": "2017-09-11"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Helen Mirren Jeremy Northam Cary Grant Barbara Harris Jeanine Basinger Roderick Mann Nancy Nelson Betsy Drake"
 }
