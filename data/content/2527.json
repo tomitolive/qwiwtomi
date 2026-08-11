@@ -1,50 +1,53 @@
 {
   "id": 2527,
-  "title": "Emmerdale",
-  "title_ar": "Emmerdale",
-  "title_en": "Emmerdale",
-  "slug": "2527-emmerdale",
-  "overview": "تدور أحداث مسلسل \"إيميرديل\" حول حياة العديد من العائلات في منطقة يوركشاير ديلز، والتي تدور أحداثها حول مزرعة وقرية مجاورة. مع جرائم القتل، والعلاقات العاطفية، والأكاذيب، والخداع، والضحك والدموع، كل ذلك موجود في هذه القرية. \"إيميرديل\"، مسلسل بريطاني شهير من نوعية الأوبرا الصابونية، يسلط الضوء على الدراما اليومية في حياة سكان القرية.",
-  "poster_path": "/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-  "backdrop_path": "/x3p42ab2Bx0HqCvofUtB8d0cEEd.jpg",
-  "release_date": "1972-10-16",
-  "vote_average": 4.3,
-  "vote_count": 100,
+  "title": "Que la bte meure",
+  "title_ar": "Que la bte meure",
+  "title_en": "This Man Must Die",
+  "slug": "2527-this-man-must-die",
+  "overview": "يحكي هذا العمل قصة عن الرجل الذي يقرر أن يغتال الشخص المسؤول عن وفاة ابنه في حادث سير، يتعرف الرجل على ممثلة في الحادث ويلتقي بزوجها وأخيه، وهو شخص منكر للعفة، يبدأ الرجل في تحقيق استخلاصا للقصة ويتضح أن هناك العديد من الحقائق المتراكمة حول الحادث.",
+  "poster_path": "/u6EJONPP7zbzFSQwV598sg52MM5.jpg",
+  "backdrop_path": "/p5iunm7nC06KjmGdnRxadCIhjzi.jpg",
+  "release_date": "1969-09-04",
+  "vote_average": 7.3,
+  "vote_count": 189,
   "genres": [
     {
-      "id": 10766,
-      "name": "أوبرا صابونية"
+      "id": 53,
+      "name": "إثارة"
     },
     {
       "id": 18,
       "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Emmerdale (1972) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"إيميرديل\" حول حياة العديد من العائلات في منطقة يوركشاير ديلز، والتي تدور أحداثها حول مزرعة وقرية مجاورة. مع جرائم القتل، والعلاقات العاطفية، والأكاذيب، والخداع، والضحك والدموع، كل ذلك موجود في هذه القرية. \"إيميرديل\"، مسلسل بريطاني شهير من نوعية الأوبرا الصابونية، يسلط الضوء على الدراما اليومية في حياة سكان القرية.",
-    "desc_en": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village in the long-running British soap opera \"Emmerdale.\" With a mix of murder, affairs, lies, deceit, laughter, and tears, the show offers a compelling look at the daily dramas of village life.",
-    "seo_title_ar": "مشاهدة مسلسل إيميرديل Emmerdale مترجم - توميتو",
-    "meta_desc": "مشاهدة إيميرديل مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Emmerdale الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"إيميرديل\" هو تجسيد رائع للحياة الريفية بكل ما تحمله من دراما وتشويق. إنه يسلط الضوء على العلاقات المعقدة بين سكان القرية، ويجعل المشاهد يعيش تجربة فريدة من نوعها.",
-    "opinion_en": "\"Emmerdale\" is a brilliant portrayal of rural life, capturing the complexities of village relationships and offering a unique viewing experience.",
+    "intro": "يحكي هذا العمل قصة عن الرجل الذي يغتال الشخص المسؤول عن وفاة ابنه في حادث سير.",
+    "desc_ar": "يحكي هذا العمل قصة عن الرجل الذي يقرر أن يغتال الشخص المسؤول عن وفاة ابنه في حادث سير، يتعرف الرجل على ممثلة في الحادث ويلتقي بزوجها وأخيه، وهو شخص منكر للعفة، يبدأ الرجل في تحقيق استخلاصا للقصة ويتضح أن هناك العديد من الحقائق المتراكمة حول الحادث.",
+    "desc_en": "This Man Must Die follows the story of a man who is driven by vengeance after his young son is killed in a hit-and-run accident, leading him to hunt down the killer, while forming an unlikely bond with an actress who was in the car at the time, and her husband's brother, a man notorious for his lack of morals.",
+    "seo_title_ar": "مشاهدة فيلم Que مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، قصة عن الرجل الذي يغتال الشخص المسؤول عن وفاة ابنه في حادث سير. استمتع بمشاهد",
+    "outro": "يُظهر هذا العمل قوة الحب والغضب، ويُظهر بطل العمل قوة رغبته في الحصول على العدالة.",
+    "opinion_ar": "يعد هذا العمل من الأعمال الفنية الرائعة التي تجمع بين الجريمة والدراما، يُظهر بطل العمل قوة الحب والغضب.",
+    "opinion_en": "This Man Must Die is a gripping film that masterfully blends elements of crime and drama, showcasing a protagonist driven by a complex mix of love and vengeance.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل إيميرديل؟",
-        "a": "إيميرديل هو مسلسل أوبرا صابونية درامي.",
-        "q_en": "What type of show is Emmerdale?",
-        "a_en": "Emmerdale is a soap opera drama series."
+        "q": "ما هو تاريخ إصدار فيلم Que ؟",
+        "a": "تم إصدار فيلم Que في عام 1969.",
+        "q_en": "When was the film This Man Must Die released?",
+        "a_en": "The film This Man Must Die was released in 1969."
       }
     ],
-    "keywords": "إيميرديل, Emmerdale, مسلسل, أوبرا صابونية, دراما, يوركشاير, قرية, حياة ريفية, علاقات معقدة"
+    "keywords": "فيلم, إثارة, دراما, جريمة, قصة رومانسية, إحساس, غضب, قتل, انتقام, مشاهدة Que, This Man Must Die مترجم, تحميل Que, Que اون لاين, This Man Must Die, Que جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "",
-  "first_air_date": "1972-10-16"
+  "duration": "113 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Michel Duchaussoy Caroline Cellier Jean Yanne Marc Di Napoli Anouk Ferjac Louise Chevalier Guy Marly Lorraine Rainer"
 }
