@@ -3977,8 +3977,26 @@
       "file": "315610.json",
       "title": "Proud",
       "fixed_at": "2026-08-11T01:20:16.367556"
+    },
+    {
+      "tmdb_id": "675871",
+      "file": "675871.json",
+      "title": "Super Troopers 3",
+      "fixed_at": "2026-08-11T02:09:18.137364"
+    },
+    {
+      "tmdb_id": "95479",
+      "file": "95479.json",
+      "title": "JUJUTSU KAISEN",
+      "fixed_at": "2026-08-11T02:09:29.015613"
+    },
+    {
+      "tmdb_id": "4429",
+      "file": "4429.json",
+      "title": "تيمون وبومبا",
+      "fixed_at": "2026-08-11T02:09:39.399922"
     }
   ],
-  "last_updated": "2026-08-11T01:20:18.370352",
-  "total_fixed": 663
+  "last_updated": "2026-08-11T02:09:41.402668",
+  "total_fixed": 666
 }
