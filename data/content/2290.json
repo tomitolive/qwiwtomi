@@ -4,14 +4,12 @@
   "title_ar": "Stargate Atlantis",
   "title_en": "Stargate Atlantis",
   "slug": "2290-stargate-atlantis",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة اكتشاف مدينة قديمة من قبل قوات ستارجيت، حيث يصبح الفريق بقيادة الدكتورة إليزابيث وير ولواء شيبورد في مهمة علمية إلى المدينة القديمة المكتشفة في كوكبة بيغاسوس. تكتشف الفريق أنفسهم غير قادرين على الاتصال بالعالم، وتكتشف الفريق أيضا أنهم استيقظوا عدوا قديما قتلوا في الماضي. يستعين الفريق بمن كانوا منهم في الكوكبة لاكتشاف سراتهم واكتشاف مخاوفهم في معركة حياتهم.",
   "poster_path": "/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
   "backdrop_path": "/SLAPI1h9SWBMLTCO8ULvTGiP9G.jpg",
   "release_date": "2004-07-15",
-  "vote_average": 8,
-  "vote_count": 1164,
+  "vote_average": 8.0,
+  "vote_count": 1204,
   "genres": [
     {
       "id": 10765,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرياح والغيوم، يلتقي فريق من البحارة والشعايا والمدنيين لإنقاذ مدينة أطلس، التي تمتد إلى القمر، من الضياع والخسارة. مع وجود قوة عظيمة من الخصوم، يجب على الفريق أن يتعاون ويكون قويًا لإنقاذ المدينة والقمر من الدمار.",
-    "desc_en": "In a world of wind and fog, a team of sailors, scientists, and civilians meet to rescue the city of Atlantis, which stretches to the moon, from loss and destruction. With a powerful force of enemies, the team must work together and be strong to rescue the city and the moon from destruction.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ستار جيت أتلانتس - توميتو",
-    "keywords": "فيلم ستار جيت أتلانتس مترجم, مشاهدة فيلم ستار جيت أتلانتس, قصة مسلسل Stargate Atlantis, Stargate Atlantis مترجم كامل, توميتو Stargate Atlantis, مشاهدة Stargate Atlantis 2004, أحداث Stargate Atlantis بالتفصيل",
-    "seo_title_ar": "مشاهدة فيلم ستار جيت أتلانتس مترجم اون لاين - توميتو",
-    "opinion": "هذا المسلسل التلفزيوني هو مزيج من الخيال العلمي والفانتازيا والحركة والمغامرة، مما يجعله مثالاً رائعًا لما يمكن أن يفعله الخيال العلمي في عالم التلفزيون.",
+    "intro": "ستار جيت أتلانتس هو مسلسل خيال علمي وفانتازيا يُحكي قصة اكتشاف مدينة قديمة في كوكبة بيغاسوس.",
+    "desc_ar": "يحكي هذا العمل قصة اكتشاف مدينة قديمة من قبل قوات ستارجيت، حيث يصبح الفريق بقيادة الدكتورة إليزابيث وير ولواء شيبورد في مهمة علمية إلى المدينة القديمة المكتشفة في كوكبة بيغاسوس. تكتشف الفريق أنفسهم غير قادرين على الاتصال بالعالم، وتكتشف الفريق أيضا أنهم استيقظوا عدوا قديما قتلوا في الماضي. يستعين الفريق بمن كانوا منهم في الكوكبة لاكتشاف سراتهم واكتشاف مخاوفهم في معركة حياتهم.",
+    "desc_en": "With the discovery of the Ancient city of Atlantis in the Pegasus Galaxy by Stargate Command, Dr. Elizabeth Weir and Major Sheppard lead a scientific expedition to the ancient abandoned city. Once there, the team not only find themselves unable to contact Earth, but their explorations unexpectedly reawaken the Ancients' deadly enemies, The Wraith, who hunger for this new prey. Now with the help of newfound local allies like Teyla Emmagan, the Atlantis Team sets about to uncover their new home's secrets even as their war of survival against the Wraith begins.",
+    "seo_title_ar": "مشاهدة مسلسل ستارجيت أتلانتس مترجم - توميتو",
+    "meta_desc": "ستارجيت أتلانتس: مسلسل خيال علمي وفانتازيا يحكي قصة اكتشاف مدينة قديمة واكتشاف سراتهم في كوكبة بيغاسوس. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احتراف",
+    "outro": "ستار جيت أتلانتس هو مسلسل خيال علمي وفانتازيا يُحكي قصة اكتشاف مدينة قديمة في كوكبة بيغاسوس، يُعد هذا العمل من أهم العلامات في تاريخ التلفزيون الأمريكي.",
+    "opinion_ar": "لا يوجد",
+    "opinion_en": "A stunning worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو ستار جيت أتلانتس؟",
-        "a": "هو مسلسل تلفزيوني خيال علمي وفانتازيا يتبع فريق من البحارة والشعايا والمدنيين لإنقاذ مدينة أتلانتس."
-      },
-      {
-        "q": "ما هو أتلانتس؟",
-        "a": "أتلانتس هي مدينة تمتد إلى القمر، والتي يتعاون فريق من البحارة والشعايا والمدنيين لإنقاذها."
-      },
-      {
-        "q": "ما هو خيال علمي؟",
-        "a": "خيال علمي هو نوع من الخيال الذي يلعب دور العلم والفантаستيك في القصة، مما يجعله مثالاً رائعًا لما يمكن أن يفعله الخيال العلمي في عالم التلفزيون."
+        "q": "ما هي قصة مسلسل ستارجيت أتلانتس؟",
+        "a": "يحكي مسلسل ستارجيت أتلانتس قصة اكتشاف مدينة قديمة من قبل قوات ستارجيت في كوكبة بيغاسوس.",
+        "q_en": "What is the story of Stargate Atlantis?",
+        "a_en": "Stargate Atlantis tells the story of the discovery of an ancient city by Stargate Command in the Pegasus Galaxy."
       }
-    ]
+    ],
+    "keywords": "ستارجيت أتلانتس, مسلسل, خيال علمي وفانتازيا, حركة ومغامرة, دراما, مدينة قديمة, اكتشاف سراتهم, كوكبة بيغاسوس, المغامرة والخيال, مشاهدة ستارجيت أتلانتس, Stargate Atlantis مترجم, تحميل ستارجيت أتلانتس, ستارجيت أتلانتس اون لاين, Stargate Atlantis, ستارجيت أتلانتس جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2004-07-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "120 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "فرنسا",
-  "cast": "Robin Williams Liev Schreiber Hannah Taylor-Gordon Alan Arkin Michael Jeter"
+  "country": "كندا",
+  "cast": "Joe Flanigan David Hewlett Rachel Luttrell Jewel Staite Robert Picardo Jason Momoa",
+  "first_air_date": "2004-07-15"
 }

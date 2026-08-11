@@ -3995,8 +3995,26 @@
       "file": "4429.json",
       "title": "تيمون وبومبا",
       "fixed_at": "2026-08-11T02:09:39.399922"
+    },
+    {
+      "tmdb_id": "2290",
+      "file": "2290.json",
+      "title": "Stargate Atlantis",
+      "fixed_at": "2026-08-11T02:51:19.788251"
+    },
+    {
+      "tmdb_id": "1040148",
+      "file": "1040148.json",
+      "title": "Ruby Gillman, Teenage Kraken",
+      "fixed_at": "2026-08-11T02:51:28.878419"
+    },
+    {
+      "tmdb_id": "3034",
+      "file": "3034.json",
+      "title": "Tatort",
+      "fixed_at": "2026-08-11T02:51:50.069647"
     }
   ],
-  "last_updated": "2026-08-11T02:09:41.402668",
-  "total_fixed": 666
+  "last_updated": "2026-08-11T02:51:52.072395",
+  "total_fixed": 669
 }
