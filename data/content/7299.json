@@ -8,8 +8,8 @@
   "poster_path": "/q6VzUsHs4Z3myBHkrPAA3avfGwn.jpg",
   "backdrop_path": "/dQutbCXdvcoRORJTcnakrICCkDb.jpg",
   "release_date": "2002-12-06",
-  "vote_average": 7,
-  "vote_count": 5011,
+  "vote_average": 7.1,
+  "vote_count": 5125,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مستقبل بائس، يحافظ نظام استبدادي على السلام عن طريق إخضاع الشعب بمخدر، وتصبح مظاهر العاطفة عقابها الموت. رجل مكلف بتنفيذ القانون ينهض للإطاحة بالنظام. في هذه المعركة، سوف نرى كيف يتصارع الرجال والنساء ضد النظام الاستبدادي، والكيفية التي سوف ينتصرون بها.",
-    "desc_en": "In a dystopian future, a totalitarian system maintains peace by controlling the population with a drug, and emotions become a capital offense. A man tasked with enforcing the law rises up against the system. In this battle, we will see how men and women fight against the totalitarian system, and how they will triumph.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم إكويليبريوم - مشاهدة فيلم حركة خيال علمي إثارة مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم إكويليبريوم مترجم اون لاين - توميتو",
-    "keywords": "Equilibrium, فيلم إكويليبريوم مترجم, مشاهدة فيلم إكويليبريوم, أحداث إكويليبريوم بالتفصيل, توميتو إكويليبريوم, إكويليبريوم مترجم, قصة فيلم إكويليبريوم, مشاهدة إكويليبريوم 2002",
-    "opinion": "هو فيلم إثارة يثير الإعجاب، حيث يصور مستقبل بائس، ويحافظ على السلام عن طريق إخضاع الشعب بمخدر، ويبرز مظاهر العاطفة عقابها الموت.",
+    "intro": "في عالم يُحرم الشعوب من أي تمثيل عاطفي، يظهر رجل من بين مليون يحلم بالحرية والعدالة.",
+    "desc_ar": "في مستقبل يُقسى بالرعب، يحكم نظام استبدادي يُحمي السلام من خلال تعبئة الشعب بمخدرٍ قوي، ويُحرم العاطفة ويعاقب عليها بالموت. يُستخدم هذا المخدر لخنق الحركة والتفكير، ويُحرم الأشخاص من أي تمثيل عاطفي، مما يخلق ظروفًا من عدم المساواة والرعب. لكن في هذا الوضع السيئ، يظهر رجل من بين مليون، يحاول أن يردع النظام ويُحقق العدالة. هذا هو إكويليبريوم، قصة رجل يحلم بالحرية والعدالة في عالم يُحرمهما من الأساس.",
+    "desc_en": "In the bleak future of Equilibrium, a totalitarian regime maintains peace by controlling the population with a powerful drug that suppresses emotions. This regime prohibits any form of emotional expression, forcing people to live in a state of numbness and stagnation. But amidst this oppressive environment, a lone individual emerges, determined to challenge the system and bring about justice. This is the story of Equilibrium, a film that explores the human desire for freedom and justice in a world that seeks to suppress them.",
+    "seo_title_ar": "مشاهدة فيلم إكويليبريوم مترجم - توميتو",
+    "meta_desc": "إكويليبريوم فيلم حركة خيال علمي إثارة يروي قصة رجل يحلم بالحرية في عالم يحرمها، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "إكويليبريوم هو فيلم يُحاول أن يُبرز قوة الإنسان في مواجهة النظام الاستبدادي.",
+    "opinion_ar": "إكويليبريوم هو فيلم فريد يُستغل فيه عناصر الخيال العلمي لتحسين التحليلات الاجتماعية والسياسية، مما يخلق قصة مثيرة ومليئة بالتحديات.",
+    "opinion_en": "Equilibrium is a unique film that uses science fiction elements to enhance social and political commentary, creating a thought-provoking and challenging story.",
     "faq": [
       {
-        "q": "ما هو فيلم إكويليبريوم؟",
-        "a": "هو فيلم حركة خيال علمي إثارة يصور مستقبل بائس"
-      },
-      {
-        "q": "ما هو الموقف من النظام الاستبدادي في الفيلم؟",
-        "a": "يصور الفيلم النظام الاستبدادي على أنه يحافظ على السلام عن طريق إخضاع الشعب بمخدر"
-      },
-      {
-        "q": "ما هو الموقف من الرجال والنساء في الفيلم؟",
-        "a": "يصور الفيلم الرجال والنساء الذين يتصارعون ضد النظام الاستبدادي"
+        "q": "ما هو نظام استبدادي في إكويليبريوم؟",
+        "a": "يحكم نظام استبدادي في إكويليبريوم بالكامل، حيث يُحرم الشعب من أي تمثيل عاطفي ويُخضعهم لمخدر قوي يُحرمهم من الحركة والتفكير.",
+        "q_en": "What is the totalitarian regime in Equilibrium?",
+        "a_en": "The totalitarian regime in Equilibrium controls everything, suppressing emotions and forcing people to live in a state of numbness and stagnation."
       }
-    ]
+    ],
+    "keywords": "إكويليبريوم, فيلم, حركة, خيال علمي, إثارة, ثقافة, سياسة, حرية, عدالة, مشاهدة إكويليبريوم, Equilibrium مترجم, تحميل إكويليبريوم, إكويليبريوم اون لاين, Equilibrium, إكويليبريوم جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "107 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Christian Bale Taye Diggs Angus Macfadyen Emily Watson Matthew Harbour"
+  "cast": "Christian Bale Emily Watson Taye Diggs Angus Macfadyen Sean Bean Sean Pertwee Matthew Harbour William Fichtner"
 }
