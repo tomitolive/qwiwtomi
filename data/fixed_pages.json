@@ -4133,8 +4133,20 @@
       "file": "260609.json",
       "title": "Com si fos ahir",
       "fixed_at": "2026-08-11T13:43:58.319691"
+    },
+    {
+      "tmdb_id": "1292415",
+      "file": "1292415.json",
+      "title": "Beast",
+      "fixed_at": "2026-08-11T14:45:58.621203"
+    },
+    {
+      "tmdb_id": "668",
+      "file": "668.json",
+      "title": "إكس مان: التطور",
+      "fixed_at": "2026-08-11T14:46:06.569264"
     }
   ],
-  "last_updated": "2026-08-11T13:44:00.322319",
-  "total_fixed": 689
+  "last_updated": "2026-08-11T14:46:08.572068",
+  "total_fixed": 691
 }
