@@ -4013,8 +4013,26 @@
       "file": "3034.json",
       "title": "Tatort",
       "fixed_at": "2026-08-11T02:51:50.069647"
+    },
+    {
+      "tmdb_id": "224839",
+      "file": "224839.json",
+      "title": "Shrouding the Heavens",
+      "fixed_at": "2026-08-11T03:55:52.212970"
+    },
+    {
+      "tmdb_id": "299167",
+      "file": "299167.json",
+      "title": "مزرعة دوتون",
+      "fixed_at": "2026-08-11T03:55:58.988558"
+    },
+    {
+      "tmdb_id": "1267319",
+      "file": "1267319.json",
+      "title": "مانتيس",
+      "fixed_at": "2026-08-11T03:56:06.223896"
     }
   ],
-  "last_updated": "2026-08-11T02:51:52.072395",
-  "total_fixed": 669
+  "last_updated": "2026-08-11T03:56:08.226665",
+  "total_fixed": 672
 }
