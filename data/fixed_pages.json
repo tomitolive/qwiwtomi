@@ -4079,8 +4079,20 @@
       "file": "98031.json",
       "title": "Keep Running",
       "fixed_at": "2026-08-11T08:38:27.732422"
+    },
+    {
+      "tmdb_id": "1127384",
+      "file": "1127384.json",
+      "title": "Deep Water",
+      "fixed_at": "2026-08-11T09:41:46.627144"
+    },
+    {
+      "tmdb_id": "652",
+      "file": "652.json",
+      "title": "طروادة",
+      "fixed_at": "2026-08-11T09:41:57.300025"
     }
   ],
-  "last_updated": "2026-08-11T08:38:29.735162",
-  "total_fixed": 680
+  "last_updated": "2026-08-11T09:41:59.302875",
+  "total_fixed": 682
 }
