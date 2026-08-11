@@ -4103,8 +4103,14 @@
       "file": "35007.json",
       "title": "De Fabeltjeskrant",
       "fixed_at": "2026-08-11T10:35:04.670656"
+    },
+    {
+      "tmdb_id": "455502",
+      "file": "455502.json",
+      "title": "Mi socio",
+      "fixed_at": "2026-08-11T11:31:04.038448"
     }
   ],
-  "last_updated": "2026-08-11T10:35:06.672348",
-  "total_fixed": 684
+  "last_updated": "2026-08-11T11:31:06.041200",
+  "total_fixed": 685
 }
