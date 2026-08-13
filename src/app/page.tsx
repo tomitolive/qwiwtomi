@@ -4,6 +4,9 @@ import { getHomeContent } from "@/lib/home-content";
 import NewAd from "@/components/NewAd";
 import { Metadata } from "next";
 import Script from "next/script";
+import fs from "fs";
+import path from "path";
+import HeroCarouselWrapper from "@/components/HeroCarouselWrapper";
 
 
 const pageTranslations: Record<string, any> = {
@@ -179,12 +182,27 @@ function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
   );
 }
 
+function getCarouselData() {
+  try {
+    const carouselFilePath = path.join(process.cwd(), "data", "carousel_data.json");
+    if (fs.existsSync(carouselFilePath)) {
+      const rawData = fs.readFileSync(carouselFilePath, "utf-8");
+      return JSON.parse(rawData);
+    }
+    return [];
+  } catch (error) {
+    console.error("Error loading carousel data:", error);
+    return [];
+  }
+}
+
 export default async function Home() {
   const cookieStore = await cookies();
   const locale = cookieStore.get("NEXT_LOCALE")?.value || "ar";
   const t = pageTranslations[locale] || pageTranslations.ar;
 
   const localContent = getHomeContent();
+  const carouselData = getCarouselData();
 
   console.log("First 5 carousel items in page.tsx:");
   localContent.slice(0, 5).forEach((item, i) => {
@@ -260,10 +278,6 @@ export default async function Home() {
 
   return (
     <div className="bg-background text-foreground min-h-screen" style={{ paddingTop: '64px' }}>
-      {/* SEO H1 - Hidden visually but accessible for screen readers and SEO */}
-      <h1 className="sr-only" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0, 0, 0, 0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
-        توميتو — مشاهدة أفلام ومسلسلات أون لاين بجودة HD
-      </h1>
 
       {/* Schema.org JSON-LD for WebSite */}
       <Script
@@ -289,6 +303,12 @@ export default async function Home() {
         }}
       />
 
+     
+      {/* ═══════ HERO CAROUSEL (New Full-Screen with YouTube Trailer) ═══════ */}
+      {carouselData.length > 0 && (
+        <HeroCarouselWrapper items={carouselData} locale={locale} />
+      )}
+
       {/* ═══════ NEWS BAR ═══════ */}
       <div className="tc-news-bar">
         <div className="tc-news-bar-inner">
@@ -309,79 +329,6 @@ export default async function Home() {
         </div>
       </div>
 
-      {/* ═══════ HERO CAROUSEL (Featured) ═══════ */}
-      <section className="hero-carousel">
-        <div className="hero-carousel-container">
-          <div className="hero-carousel-track">
-            {heroItems.map((item: any, i: number) => (
-              <div key={`hero-${item.tmdb_id}-${i}`} className="hero-slide">
-                <a href={getLink(item)} title={getAlt(item)} className="hero-slide-card">
-                  <div className="hero-slide-poster">
-                    {getPoster(item) && (
-                      <img 
-                        src={getPoster(item)} 
-                        alt={getAlt(item)} 
-                        loading="eager"
-                        className="hero-slide-image"
-                      />
-                    )}
-                    <div className="hero-slide-overlay">
-                      <div className="hero-slide-content">
-                        {item.rating && (
-                          <div className="hero-slide-rating">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-                            </svg>
-                            <span>{item.rating?.toFixed?.(1) || item.rating}</span>
-                          </div>
-                        )}
-                        <h2 className="hero-slide-title">{item.title || item.title_ar}</h2>
-                        {item.genres && item.genres.length > 0 && (
-                          <div className="hero-slide-genres">
-                            {item.genres.slice(0, 2).map((g: string, gi: number) => (
-                              <span key={gi} className="hero-genre-tag">{g}</span>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ═══════ POSTER CAROUSEL SLIDER ═══════ */}
-      <section className="tc-slider-outer">
-        <div className="tc-slider-inner">
-          <div className="tc-slider-track">
-            {carouselItems.map((item: any, i: number) => (
-              <div key={`${item.slug || 'item'}-${i}`} className="tc-slide-item">
-                <a href={getLink(item)} title={getAlt(item)} className="tc-slide-card">
-                  {item.rating && item.rating >= 7 && (
-                    <div className="tc-ribbon">HD</div>
-                  )}
-                  <div className="tc-slide-poster">
-                    {getPoster(item) && <img src={getPoster(item)} alt={getAlt(item)} loading={i < 5 ? "eager" : "lazy"} />}
-                  </div>
-                  <div className="tc-slide-info">
-                    {item.genres && item.genres.length > 0 && (
-                      <ul className="tc-genres">
-                        {item.genres.slice(0, 3).map((g: string, gi: number) => (
-                          <li key={gi}>{g}</li>
-                        ))}
-                      </ul>
-                    )}
-                    <h3>{item.title || item.title_ar}</h3>
-                  </div>
-                </a>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* ═══════ SECTION 1: جميع الأفلام + جميع المسلسلات (Sidebar) ═══════ */}
       <section className="tc-two-section">
