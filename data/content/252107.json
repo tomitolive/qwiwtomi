@@ -5,7 +5,7 @@
   "title_en": "Star City",
   "slug": "252107-star-city",
   "overview": "اختبروا هذا الفصل المثير المستلهم من مسلسل For All Mankind. في الكون نفسه والتاريخ البديل نفسه، لكن من منظور مختلف: منظور \"الاتحاد السوفيتي\". اذهبوا وراء \"الستار الحديدي\" مع رواد الفضاء والمهندسين وضباط الاستخبارات الذين خاطروا بكل شيء في السباق نحو القمر.",
-  "poster_path": "/jjJZyBCDgyYylGdtctuqEYcO7Lc.jpg",
+  "poster_path": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
   "backdrop_path": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
   "release_date": "2026-05-28",
   "vote_average": 6.6,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Rhys Ifans Anna Maxwell Martin Agnes O'Casey Alice Englert Solly McLeod Adam Nagaitis Ruby Ashbourne Serkis Josef Davies",
-  "first_air_date": "2026-05-28"
+  "first_air_date": "2026-05-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

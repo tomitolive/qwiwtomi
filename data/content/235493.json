@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Netherlands",
   "cast": "Jan Versteegh Bastiaan Ragas",
-  "first_air_date": "2023-10-22"
+  "first_air_date": "2023-10-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

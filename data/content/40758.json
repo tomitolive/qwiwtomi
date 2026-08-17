@@ -52,5 +52,8 @@
   "language": "الألمانية",
   "country": "ألمانيا",
   "cast": "",
-  "first_air_date": "1986-12-16"
+  "first_air_date": "1986-12-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

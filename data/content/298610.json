@@ -5,7 +5,7 @@
   "title_en": "Spooky in Love",
   "slug": "298610-spooky-in-love",
   "overview": "مسلسل \"مخيف في الحب\" أو \"Spooky  Love\" هو مزيج مثير من الكوميديا والخيال العلمي والفانتازيا والدراما. تدور أحداث المسلسل حول وريث قادر على رؤية الأشباح ومحامية بارعة يكتشفان أن لمسة واحدة بينهما تجعلهما ثنائيًا غريبًا وفعالًا، فيقرران توحيد قواهما لحل جرائم القتل الغامضة.",
-  "poster_path": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
+  "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
   "backdrop_path": "/w7Q53AmbEvrbpR2nRE8qBHJcbi2.jpg",
   "release_date": "2026-07-18",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Park Eun-bin Yang Se-jong Ong Seong-wu Jo Hye-joo Kim Do-wan Ye Su-jeong Cha Mi-kyeong Lee Chang-hoon",
-  "first_air_date": "2026-07-18"
+  "first_air_date": "2026-07-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

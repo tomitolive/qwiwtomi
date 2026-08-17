@@ -5,7 +5,7 @@
   "title_en": "Beyond Times Gaze",
   "slug": "281233-beyond-times-gaze",
   "overview": "ما وراء النظرة تايمز: في عالم حيث الضعفاء فريسة الأقوياء، يخوض زو كينغ معركة يومية من أجل البقاء. تلوثت موارد العالم بأكمله، بما في ذلك الموارد اللازمة لممارسة الزراعة، بسبب هالة إلهية. ونتيجة لذلك، يواجه المزارعون خطر الطفرات والموت عند محاولتهم اكتساب المزيد من القوة. يسعى زو كينغ ببساطة إلى البقاء وإيجاد عائلته المفقودة. إنه يعيش في ظروف قاسية ووحشية، لكنه يلتقي بأناس طيبين يصبحون أصدقاء مقربين له. إنه ليس ماكراً وجباناً مثل باي شياوشون، وليس ذكياً وطماعاً مثل مينغ هاو، إنه شخص بحد ذاته. (Beyond Times Gaze)",
-  "poster_path": "/ap2kHJAwQWpGC6g9W53O4ipoFq4.jpg",
+  "poster_path": "/bBK32swltcUfNeWLTDnCqBipRKs.jpg",
   "backdrop_path": "/4p0eH4F2jGnN5N4CwiIQeWTkaOR.jpg",
   "release_date": "2025-12-28",
   "vote_average": 9.4,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Chen Zhangtaikang Ling Zhenhe Chang Wentao Shuxin Wan Liu Sicen Xu Xu",
-  "first_air_date": "2025-12-28"
+  "first_air_date": "2025-12-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Vivant",
   "slug": "218038-vivant",
   "overview": "مسلسل \"VIVANT\" هو دراما مثيرة تدور أحداثها حول يوسوكي نوغي من قسم تطوير الطاقة في شركة ريوشو، والذي يكتشف خطأً في تحويل الأموال إلى شركة GFL المحلية المتورطة في مشروع محطة طاقة شمسية في جمهورية البلقان بآسيا الوسطى. مع اتهامه بالتورط في الأمر، يسافر نوغي إلى جمهورية البلقان لاسترداد مبلغ 90 مليون دولار. وبمساعدة صديقه في وكالة المخابرات المركزية، سام، يحصل نوغي على معلومات تفيد بأن الإرهابي أل-زاير قد غسل كامل مبلغ عقد الطاقة في شكل ألماس. \"Vivant\"، مسلسل مشوق مليء بالغموض والإثارة.",
-  "poster_path": "/31iHlDe30pudzLfPaAg20H5gJmE.jpg",
+  "poster_path": "/aut8zs5YypvT5chQUuFhActLkHF.jpg",
   "backdrop_path": "/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
   "release_date": "2023-07-16",
   "vote_average": 7.4,
@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Masato Sakai Hiroshi Abe Fumi Nikaido Fumiyo Kohinata",
-  "first_air_date": "2023-07-16"
+  "first_air_date": "2023-07-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

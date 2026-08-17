@@ -5,7 +5,7 @@
   "title_en": "Vadhandhi",
   "slug": "200881-vadhandhi",
   "overview": "استمتع بمشاهدة مسلسل فاداندي مترجم بجودة عالية.",
-  "poster_path": "/yMlWD4vMzJzJbME8ghTP9a7cVZx.jpg",
+  "poster_path": "/2EgR5kgv4yHbJpR3GutxzbGd4rw.jpg",
   "backdrop_path": "/mRq7ZKtXp2eI52iQ2tLF2jWelLX.jpg",
   "release_date": "2022-12-02",
   "vote_average": 6.9,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الهند",
   "cast": "M. Sasikumar Anagha Aparna Das Vivek Prasanna Revathy Sharma Arjun Nandhakumar",
-  "first_air_date": "2022-12-02"
+  "first_air_date": "2022-12-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

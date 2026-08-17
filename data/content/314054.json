@@ -5,7 +5,7 @@
   "title_en": "Red River",
   "slug": "314054-red-river",
   "overview": "تستيقظ المراهقة اليابانية يوري في إمبراطورية الحثيين في القرن الرابع عشر قبل الميلاد بعد أن سحبتها يد غامضة تحت بركة ماء. تنضم يوري إلى الأمير كايل في معركة شرسة على العرش، حيث تواجه الاغتيالات والمؤامرات الملكية وتكافح من أجل البقاء في عالم مزقته الحرب. ومع اكتسابها شهرة كإلهة عشتار، يجب على يوري الاختيار بين حياتها القديمة ومستقبل مجهول. \"النهر الأحمر\" و\"Red River\" مسلسل رسوم متحركة مليء بالحركة والمغامرة والدراما.",
-  "poster_path": "/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
+  "poster_path": "/oD8VpMBVPorNso6y4TEKZBnfn92.jpg",
   "backdrop_path": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
   "release_date": "2026-07-08",
   "vote_average": 8.3,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Mirai Tachibana Wataru Katoh Hiroki Nanami Aya Uchida Shoya Chiba Tomoaki Maeno Koji Yusa Kohsuke Toriumi",
-  "first_air_date": "2026-07-08"
+  "first_air_date": "2026-07-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

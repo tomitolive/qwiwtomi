@@ -5,7 +5,7 @@
   "title_en": "GARO",
   "slug": "1941-garo",
   "overview": "استمتع بمشاهدة مسلسل جارو مترجم بجودة عالية.",
-  "poster_path": "/3IBGi1F4oRlykR0k9beIwygn8YM.jpg",
+  "poster_path": "/g6nqzHYne4bEzjxIssjAPHvtMzs.jpg",
   "backdrop_path": "/mvi2YbFePpq68xaHEwezpmSEdsv.jpg",
   "release_date": "2005-10-07",
   "vote_average": 7.7,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Tatsuya Koyanagi Yuhi Tokito Toman Naoya Shimizu Shutaro Kadoshita Reiji Nashiko Momotsuki",
-  "first_air_date": "2005-10-07"
+  "first_air_date": "2005-10-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

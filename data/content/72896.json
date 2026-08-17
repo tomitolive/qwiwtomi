@@ -5,7 +5,7 @@
   "title_en": "My Little Old Boy",
   "slug": "72896-my-little-old-boy",
   "overview": "تابعوا مسلسل \"ابني الصغير القديم\"، وهو برنامج واقعي مميز بعنوان \"My Little Old Boy\"، حيث تكشف الأمهات عن حياة أبنائهن المشاهير الكبار. هل تعرف لماذا يشرب ابنك كثيرًا هذه الأيام؟ ما مدى معرفتك بفلسفة ابنك في أسلوب حياته؟ شاهدوا اللحظات الدافئة والمؤثرة للتواصل المراقب بين الأم وابنها في \"مذكرات الأم\".",
-  "poster_path": "/eFxC1aItvr2xGfG2Z7lXQt6CfnB.jpg",
+  "poster_path": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
   "backdrop_path": "/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
   "release_date": "2016-08-26",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Shin Dong-yup Seo Jang-hoon",
-  "first_air_date": "2016-08-26"
+  "first_air_date": "2016-08-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

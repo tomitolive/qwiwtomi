@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "",
-  "first_air_date": "1995-10-23"
+  "first_air_date": "1995-10-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

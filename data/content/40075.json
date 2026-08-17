@@ -5,7 +5,7 @@
   "title_en": "Gravity Falls",
   "slug": "40075-gravity-falls",
   "overview": "يخوض التوأمان ديبر وميبل باينز مغامرة غير متوقعة عندما يقضيان الصيف في مساعدة عمهما الأكبر ستان في إدارة مصيدة سياحية في بلدة جرافيتي فولز الغامضة بولاية أوريغون",
-  "poster_path": "/56RefW3pLAslW2x6oiPq4njaCkd.jpg",
+  "poster_path": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
   "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
   "release_date": "2012-06-15",
   "vote_average": 8.6,
@@ -74,5 +74,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jason Ritter Kristen Schaal Alex Hirsch Linda Cardellini",
-  "first_air_date": "2012-06-15"
+  "first_air_date": "2012-06-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

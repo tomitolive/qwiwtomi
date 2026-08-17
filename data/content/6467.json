@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Adam Arkin Mark Harmon Héctor Elizondo Rocky Carroll Lauren Holly Barbara Hershey Mandy Patinkin Carla Gugino",
-  "first_air_date": "1994-09-18"
+  "first_air_date": "1994-09-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

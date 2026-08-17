@@ -5,7 +5,7 @@
   "title_en": "The Adventures of Peter Pan",
   "slug": "14578-the-adventures-of-peter-pan",
   "overview": "استمتع بمشاهدة مسلسل مغامرات بيتر بان مترجم بجودة عالية.",
-  "poster_path": "/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
+  "poster_path": "/cPeTO5cvRdhgXCFCVo7wbn52qtn.jpg",
   "backdrop_path": "/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
   "release_date": "1989-01-15",
   "vote_average": 8.5,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Noriko Hidaka Naoko Matsui Chikao Ohtsuka Sumi Shimamoto Hisako Kyoda Hiroko Emori Maria Kawamura Kazue Ikura",
-  "first_air_date": "1989-01-15"
+  "first_air_date": "1989-01-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

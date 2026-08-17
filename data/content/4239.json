@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ed O'Neill Katey Sagal Amanda Bearse Christina Applegate David Faustino Ted McGinley",
-  "first_air_date": "1987-04-05"
+  "first_air_date": "1987-04-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

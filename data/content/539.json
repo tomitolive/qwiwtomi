@@ -5,7 +5,7 @@
   "title_en": "Psycho",
   "slug": "539-psycho",
   "overview": "تدور أحداث المسلسل الدرامي الاجتماعي / الرعب الكوميدي الاستعاري حول سكرتيرة فينيكس اختلس أربعين ألف دولار من موكلها صاحب العمل ، وذهبت هاربة ، ودخلت فندقًا بعيدًا يديره شاب تحت سيطرة والدته.",
-  "poster_path": "/b91TUdpfuRWSrkQbsNtBDQkCLcP.jpg",
+  "poster_path": "/ffXx3qq4eopQMof6M26tZ2yiiT3.jpg",
   "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
   "release_date": "1960-06-22",
   "vote_average": 8.4,
@@ -52,5 +52,8 @@
   "duration": "109 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Anthony Perkins Janet Leigh Vera Miles John Gavin Martin Balsam"
+  "cast": "Anthony Perkins Janet Leigh Vera Miles John Gavin Martin Balsam",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

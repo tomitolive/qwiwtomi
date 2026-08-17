@@ -5,7 +5,7 @@
   "title_en": "Lilo Stitch: The Series",
   "slug": "2355-lilo-stitch-the-series",
   "overview": "يروي هذا المسلسل الكرتوني مغامرات التجربة 626 المحبوبة للعالم المتمرد الدكتور جامبا جوكيبا، والتي تعيش الآن حياة سعيدة كصديق ليلو الفضائي ستيتش. هبطت تجارب جامبا المتبقية في جميع أنحاء هاواي على شكل كبسولات مجففة. مهمة ليلو وستيتش هي الإمساك بـ\"أبناء عمومة\" ستيتش قبل أن يقعوا في قبضة الدكتور جاك فون هامسترفيل الشرير!",
-  "poster_path": "/slMXpfK4SCEQVHLCYWo8NqFoPbA.jpg",
+  "poster_path": "/hmNpwSKZzStqO4bfOFeYNTn2B7.jpg",
   "backdrop_path": "/e3F1DhLs90kk1hWZhoTUanrxjMu.jpg",
   "release_date": "2003-09-20",
   "vote_average": 7.4,
@@ -64,5 +64,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Daveigh Chase Chris Sanders David Ogden Stiers Kevin McDonald Tia Carrere Kevin Michael Richardson",
-  "first_air_date": "2003-09-20"
+  "first_air_date": "2003-09-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "اليابان",
   "cast": "David Attenborough",
-  "first_air_date": "2006-03-05"
+  "first_air_date": "2006-03-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

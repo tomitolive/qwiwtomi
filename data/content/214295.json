@@ -5,7 +5,7 @@
   "title_en": "Please Love Me",
   "slug": "214295-please-love-me",
   "overview": "مسلسل \"من فضلك أحبني\"، أو \"Please Love Me\"، هو دراما كوميدية رومانسية تدور حول قصة حب غير متوقعة. يصور المسلسل قصة عارض الأزياء تشين ييتشوان الذي يقع في حب ماي تونغ القوية منذ اللحظة الأولى. وعلى الرغم من تجاهلها له، إلا أنه يصر على مواصلة سعيه لكسب قلبها. هل سيتمكن من الفوز بقلبها؟",
-  "poster_path": "/cj7iPJxiMUosrOoQUpn3i3yrU8s.jpg",
+  "poster_path": "/hfwBbECuhglSwCPzizCsPQ3GzSj.jpg",
   "backdrop_path": null,
   "release_date": "2022-10-22",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Lai Xilong Kuang Xiaotong Wang Nannan Nuo Mina Cui Boran",
-  "first_air_date": "2022-10-22"
+  "first_air_date": "2022-10-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

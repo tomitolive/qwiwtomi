@@ -5,7 +5,7 @@
   "title_en": "Mayor of Kingstown",
   "slug": "97951-mayor-of-kingstown",
   "overview": "تحكي قصة المسلسل عن عائلة (McLusky) وهم صناع قرار في مدينة (Kingstown)، ويتناول المسلسل مواضيع العنصرية المنهجية والفساد وعدم المساواة، ويقدم نظرة فاحصة على محاولتهم إحلال النظام والعدالة إلى المدينة التي لا تملك أيًا منهما.",
-  "poster_path": "/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+  "poster_path": "/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
   "backdrop_path": "/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
   "release_date": "2021-11-14",
   "vote_average": 8.0,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jeremy Renner Hugh Dillon Tobi Bamtefa Taylor Handley Necar Zadegan Derek Webster Hamish Allan-Headley Nishi Munshi",
-  "first_air_date": "2021-11-14"
+  "first_air_date": "2021-11-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

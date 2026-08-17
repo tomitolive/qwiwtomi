@@ -5,7 +5,7 @@
   "title_en": "Daemons of the Shadow Realm",
   "slug": "260463-daemons-of-the-shadow-realm",
   "overview": "يعيش يورو، وهو صياد شاب، في قرية صغيرة في أعماق الجبال، يصطاد الطرائد البرية ويعيش حياة متواضعة مع آسا، شقيقته التوأم الصغرى. تنقلب حياتهم الهادئة رأسًا على عقب عندما يهاجمهم تنين.",
-  "poster_path": "/nfGf70m4irGQaHmsfotAnGdQOgC.jpg",
+  "poster_path": "/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
   "backdrop_path": "/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
   "release_date": "2026-04-04",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kensho Ono Yume Miyamoto Yuichi Nakamura Misaki Kuno Takako Honda Rikiya Koyama Miyuri Shimabukuro Junichi Suwabe",
-  "first_air_date": "2026-04-04"
+  "first_air_date": "2026-04-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

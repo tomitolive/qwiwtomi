@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Guo Degang",
-  "first_air_date": "2013-01-01"
+  "first_air_date": "2013-01-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

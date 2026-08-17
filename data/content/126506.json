@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Michael Cusack Zach Hadel Marc Moceri",
-  "first_air_date": "2020-04-01"
+  "first_air_date": "2020-04-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

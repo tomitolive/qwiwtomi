@@ -5,7 +5,7 @@
   "title_en": "Soy Luna: Lets Roll Again",
   "slug": "324434-soy-luna-lets-roll-again",
   "overview": "تعود لونا إلى حلبة التزلج المفضلة لديها، جام آند رولر، بعد حادث أبعدها عنها. لن يكون ارتداء أحذية التزلج مرة أخرى سهلاً، خاصةً مع بدء خطة شريرة خفية في تعقيد حياتها. ستواجه لونا أيضاً معضلة، حيث تجد نفسها بين نيران صديقين قدامى. وسط الأغاني والمغامرات ولقاءات الأصدقاء، سيتعين على لونا التغلب على العديد من العقبات لتحقيق حلمها. \"Soy Luna: Volver  \" و\"Soy Luna: Lets Roll Again\" مسلسل عائلي كوميدي درامي ممتع.",
-  "poster_path": "/3gzwiyE7jHHvjWS8WBEqztCqxD9.jpg",
+  "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
   "backdrop_path": "/sKW1g98CFyb0bzRgefFtsAKtlwQ.jpg",
   "release_date": "2026-07-24",
   "vote_average": 6.2,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "الأرجنتين",
   "cast": "Karol Sevilla Michael Ronda Ruggero Pasquarelli Carolina Kopelioff Malena Ratner Gastón Vietto Agustín Bernasconi Lucila Gandolfo",
-  "first_air_date": "2026-07-24"
+  "first_air_date": "2026-07-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

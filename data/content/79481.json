@@ -5,7 +5,7 @@
   "title_en": "Fights Break Sphere",
   "slug": "79481-fights-break-sphere",
   "overview": "تدور أحداث مسلسل \"معارك كسر المجال\" في عالم خالٍ من السحر، حيث يسود الأقوياء ويخضع الضعفاء. في أرض مليئة بالكنوز الساحرة والجمال، لكنها مليئة أيضًا بالأخطار غير المتوقعة. قبل ثلاث سنوات، فقد شياو يان، الذي أظهر مواهب لم يشهدها أحد منذ عقود، كل شيء فجأة. قوته، سمعته، ووعد أمه. ما هي السحرية التي تسببت في فقدان كل قوته؟ ولماذا ظهرت خطيبته فجأة؟",
-  "poster_path": "/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
+  "poster_path": "/1MuLuVaDajtTajyV3xIk707bAEx.jpg",
   "backdrop_path": "/cTCn2EO69SERNfhaezJMoqBom4G.jpg",
   "release_date": "2017-01-07",
   "vote_average": 7.9,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Bu Yi Liu Yuxuan Chen Yiwen Feng Junhua Wen Yixiao Zhu Jun Yang Menglu Meme Yan",
-  "first_air_date": "2017-01-07"
+  "first_air_date": "2017-01-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

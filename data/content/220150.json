@@ -5,7 +5,7 @@
   "title_en": "Pokmon Horizons",
   "slug": "220150-pokmon-horizons",
   "overview": "يخوض مغامران شابّان مهمة مثيرة تتمثل في زيارة أراضٍ جديدة، ويكشفان أسرارًا قديمة ويواجهان البوكيمون... و\"كرات البوكيمون\" التي لم يروها من قبل!",
-  "poster_path": "/qCRLHvSmjAzZlgtKBB2tMibYcxM.jpg",
+  "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
   "backdrop_path": "/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
   "release_date": "2023-04-14",
   "vote_average": 8.7,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Minori Suzuki Yuka Terasaki Yoshino Aoyama",
-  "first_air_date": "2023-04-14"
+  "first_air_date": "2023-04-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

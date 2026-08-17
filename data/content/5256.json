@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "ألمانيا",
   "cast": "Joan Allen Julianna Margulies Anjelica Huston Samantha Mathis Caroline Goodall Klára Issová Edward Atterton Michael Vartan",
-  "first_air_date": "2001-07-14"
+  "first_air_date": "2001-07-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

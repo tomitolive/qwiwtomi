@@ -5,7 +5,7 @@
   "title_en": "BEEF",
   "slug": "154385-beef",
   "overview": "يتورط مقاول فاشل ورائدة أعمال غير ناجحة في حادثة غضب على الطريق، فتشتعل شرارة عدائية بين هذين الغريبين اللذين يُطلقان العنان لأحلك مكنونات نفسيهما.",
-  "poster_path": "/1FlSLYSMgthlTdzZAKZxRWlvUCA.jpg",
+  "poster_path": "/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
   "backdrop_path": "/2VHbof9yaNhovEnaancBkXEULCT.jpg",
   "release_date": "2023-04-06",
   "vote_average": 7.7,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Oscar Isaac Carey Mulligan Cailee Spaeny Charles Melton Youn Yuh-jung Song Kang-ho Seoyeon Jang William Fichtner",
-  "first_air_date": "2023-04-06"
+  "first_air_date": "2023-04-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

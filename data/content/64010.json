@@ -5,7 +5,7 @@
   "title_en": "Reply 1988",
   "slug": "64010-reply-1988",
   "overview": "تدور احداث المسلسل في عام ١٩٨٨، عندما كانت الأزمنة أبسط قليلاً، وأقل تقنية نتابع خمسة أصدقاء في مرحلة المراهقة يعيشون جميعا في نفس الحي في مدينة سيول، يستند بعضهم على بعض من أجل تجاوز سنوات المراهقة الصعبة ووضع مسار لمستقبلهم.",
-  "poster_path": "/lZo7G1kEU70PHP1dCe46I0cUKiF.jpg",
+  "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
   "backdrop_path": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
   "release_date": "2015-11-06",
   "vote_average": 8.8,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Lee Hye-ri Ryu Jun-yeol Park Bo-gum Go Kyung-pyo Lee Dong-hwi Ryu Hye-young Choi Seong-won Ahn Jae-hong",
-  "first_air_date": "2015-11-06"
+  "first_air_date": "2015-11-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

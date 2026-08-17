@@ -5,7 +5,7 @@
   "title_en": "Titans",
   "slug": "75450-titans",
   "overview": "يتشكل فريق التايتنز من أبطال خارقين شباب، بقيادة نايت وينق (روبن سابقا) لمحاربة الشر والمخاطر الأخرى.",
-  "poster_path": "/oUSnGxC06ptTw9YQfTnEFNxFEWI.jpg",
+  "poster_path": "/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
   "backdrop_path": "/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
   "release_date": "2018-10-12",
   "vote_average": 7.9,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Brenton Thwaites Anna Diop Teagan Croft Ryan Potter Joshua Orpin Jay Lycurgo Franka Potente Joseph Morgan",
-  "first_air_date": "2018-10-12"
+  "first_air_date": "2018-10-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

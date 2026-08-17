@@ -5,7 +5,7 @@
   "title_en": "The Forbidden Land",
   "slug": "280735-the-forbidden-land",
   "overview": "مسلسل \"الأرض المحرمة\" أو \"The Forbidden Land\" هو دراما غامضة تدور حول طالب خجول يدعى تشانغ تشاو، والذي يجد نفسه في مواجهة مع أحد زملائه المتنمرين بينما يسعى لكشف الحقيقة وراء وفاة غامضة لزميله في الغرفة. أثناء بحثه، يكتشف سرًا مخفيًا عن ماضيه، مما يدفعه في رحلة تحولية من الصداقة والفداء والاكتشاف الذاتي.",
-  "poster_path": "/rFJ7COrfj6P7ryrOzmC0Lt9VZDy.jpg",
+  "poster_path": "/vVZqsGzunlHcTrGKPu2XCLbL7XW.jpg",
   "backdrop_path": "/1OIpjsitqdawBjZu99xsMJHHUXp.jpg",
   "release_date": "2026-07-21",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Zhao Renjie Yuan Shanshan Qi Yuchen Wang Runze Liang Sen Zhai Xiaoxing Ding Jiayi Kang Qixuan",
-  "first_air_date": "2026-07-21"
+  "first_air_date": "2026-07-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

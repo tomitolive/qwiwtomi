@@ -5,7 +5,7 @@
   "title_en": "Fear the Walking Dead",
   "slug": "62286-fear-the-walking-dead",
   "overview": "يصور المسلسل تحول العالم قبل بداية أحداث مسلسل \"الموتى السائرون\" أي قبل انتشار الفيروسو لكن بعيون شخصيات جديدة بمدينة \"لوس انجلوس \" حيث اتجه الجميع للهروب من هذا المصير المفزع و المؤلم",
-  "poster_path": "/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
+  "poster_path": "/jIqSBIgmzV1ocbzfBVcJPjrOTBg.jpg",
   "backdrop_path": "/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg",
   "release_date": "2015-08-23",
   "vote_average": 7.6,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Lennie James Kim Dickens Colman Domingo Danay García Austin Amelio Karen David Christine Evangelista Daniel Sharman",
-  "first_air_date": "2015-08-23"
+  "first_air_date": "2015-08-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

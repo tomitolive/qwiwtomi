@@ -5,7 +5,7 @@
   "title_en": "Show! Music Core",
   "slug": "35024-show-music-core",
   "overview": "يعرض! جوهر الموسيقى. مسلسل واقعي يعرض منذ عام 2005، ويتميز بأسلوبه الفريد بعيدًا عن قوائم الترتيب والجوائز. يتضمن عدة فقرات مثل \"أفضل 3 لهذا الأسبوع\" و\"صعود في الرسم البياني\" و\"نجوم صاعدة في الكور\".",
-  "poster_path": "/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
+  "poster_path": "/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
   "backdrop_path": "/c1FQPgXZjQ1AmX2v0v3W59PjwKT.jpg",
   "release_date": "2005-10-29",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Younghoon Lee Jung-ha Sullyoon Jungwoo Lee Know Kim Min-ju",
-  "first_air_date": "2005-10-29"
+  "first_air_date": "2005-10-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "MobLand",
   "slug": "247718-mobland",
   "overview": "السلطة على المحكّ، إذ تتصادم عائلتان إجراميتان متحاربتان في معركة تُهدّد بإسقاط إمبراطوريتين. في مرمى النيران، يقف هاري دا سوزا، \"المُدبّر\" البارع، الذي يعرف جيدًا أين تكمن الولاءات عند تصادم القوى المتعارضة.",
-  "poster_path": "/6aoqFqaxhJJbdFb8yGgsXenlEf1.jpg",
+  "poster_path": "/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
   "backdrop_path": "/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
   "release_date": "2025-03-30",
   "vote_average": 8.4,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Hardy Pierce Brosnan Paddy Considine Joanne Froggatt Lara Pulver Anson Boon Jasmine Jobson Mandeep Dhillon",
-  "first_air_date": "2025-03-30"
+  "first_air_date": "2025-03-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

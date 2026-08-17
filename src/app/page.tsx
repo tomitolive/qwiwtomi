@@ -6,7 +6,7 @@ import { Metadata } from "next";
 import Script from "next/script";
 import fs from "fs";
 import path from "path";
-import HeroCarouselWrapper from "@/components/HeroCarouselWrapper";
+import HeroCarousel from "@/components/HeroCarousel";
 
 
 const pageTranslations: Record<string, any> = {
@@ -149,7 +149,7 @@ function CardItem({ item, getLink, getAlt, getPoster }: any) {
           {item.genres?.[0] && <li>{item.genres[0]}</li>}
           {item.rating && (
             <li className="tc-imdb-rating">
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" /></svg>
               {item.rating?.toFixed?.(1) || item.rating}
             </li>
           )}
@@ -172,7 +172,7 @@ function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
           <h3>{item.title || item.title_ar}</h3>
           {item.rating && (
             <span className="tc-aside-rating">
-              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" /></svg>
               {item.rating?.toFixed?.(1) || item.rating}
             </span>
           )}
@@ -206,7 +206,7 @@ export default async function Home() {
 
   console.log("First 5 carousel items in page.tsx:");
   localContent.slice(0, 5).forEach((item, i) => {
-    console.log(`${i+1}. ${item.title} - timestamp: ${item.timestamp}`);
+    console.log(`${i + 1}. ${item.title} - timestamp: ${item.timestamp}`);
   });
 
   const sortedAll = localContent; // Already sorted by timestamp in getHomeContent()
@@ -250,18 +250,18 @@ export default async function Home() {
   const horrorMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('رعب') || m.genre_ids?.includes(27));
 
   const fullSections = [
-    { title: "خيال علمي ومغامرة",  items: movies.filter((m: any) => m.genres?.includes('خيال علمي') || m.genre_ids?.includes(878) || m.genre_ids?.includes(12)), link: "/movie" },
-    { title: "دراما",              items: movies.filter((m: any) => m.genres?.includes('دراما') || m.genre_ids?.includes(18)), link: "/movie" },
-    { title: "كوميديا",            items: movies.filter((m: any) => m.genres?.includes('كوميديا') || m.genre_ids?.includes(35)), link: "/movie" },
-    { title: "عائلي",              items: movies.filter((m: any) => m.genres?.includes('عائلي') || m.genre_ids?.includes(10751)), link: "/movie" },
-    { title: "جريمة",              items: movies.filter((m: any) => m.genres?.includes('جريمة') || m.genre_ids?.includes(80)), link: "/movie" },
-    { title: "مغامرة",             items: movies.filter((m: any) => m.genres?.includes('مغامرة') || m.genre_ids?.includes(12)), link: "/movie" },
-    { title: "فانتازيا",           items: movies.filter((m: any) => m.genres?.includes('فانتازيا') || m.genre_ids?.includes(14)), link: "/movie" },
-    { title: "رسوم متحركة",        items: movies.filter((m: any) => m.genres?.includes('رسوم متحركة') || m.genre_ids?.includes(16)), link: "/movie" },
-    { title: "إثارة",              items: [...movies, ...series].filter((m: any) => m.genres?.includes('إثارة') || m.genre_ids?.includes(53)), link: "/" },
-    { title: "غموض",               items: movies.filter((m: any) => m.genres?.includes('غموض') || m.genre_ids?.includes(9648)), link: "/movie" },
-    { title: "رومنسية",            items: movies.filter((m: any) => m.genres?.includes('رومنسية') || m.genre_ids?.includes(10749)), link: "/movie" },
-    { title: "تاريخ وحرب",         items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)), link: "/movie" },
+    { title: "خيال علمي ومغامرة", items: movies.filter((m: any) => m.genres?.includes('خيال علمي') || m.genre_ids?.includes(878) || m.genre_ids?.includes(12)), link: "/movie" },
+    { title: "دراما", items: movies.filter((m: any) => m.genres?.includes('دراما') || m.genre_ids?.includes(18)), link: "/movie" },
+    { title: "كوميديا", items: movies.filter((m: any) => m.genres?.includes('كوميديا') || m.genre_ids?.includes(35)), link: "/movie" },
+    { title: "عائلي", items: movies.filter((m: any) => m.genres?.includes('عائلي') || m.genre_ids?.includes(10751)), link: "/movie" },
+    { title: "جريمة", items: movies.filter((m: any) => m.genres?.includes('جريمة') || m.genre_ids?.includes(80)), link: "/movie" },
+    { title: "مغامرة", items: movies.filter((m: any) => m.genres?.includes('مغامرة') || m.genre_ids?.includes(12)), link: "/movie" },
+    { title: "فانتازيا", items: movies.filter((m: any) => m.genres?.includes('فانتازيا') || m.genre_ids?.includes(14)), link: "/movie" },
+    { title: "رسوم متحركة", items: movies.filter((m: any) => m.genres?.includes('رسوم متحركة') || m.genre_ids?.includes(16)), link: "/movie" },
+    { title: "إثارة", items: [...movies, ...series].filter((m: any) => m.genres?.includes('إثارة') || m.genre_ids?.includes(53)), link: "/" },
+    { title: "غموض", items: movies.filter((m: any) => m.genres?.includes('غموض') || m.genre_ids?.includes(9648)), link: "/movie" },
+    { title: "رومنسية", items: movies.filter((m: any) => m.genres?.includes('رومنسية') || m.genre_ids?.includes(10749)), link: "/movie" },
+    { title: "تاريخ وحرب", items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)), link: "/movie" },
   ].filter(s => s.items.length > 0);
 
   // Helpers
@@ -303,10 +303,10 @@ export default async function Home() {
         }}
       />
 
-     
+
       {/* ═══════ HERO CAROUSEL (New Full-Screen with YouTube Trailer) ═══════ */}
       {carouselData.length > 0 && (
-        <HeroCarouselWrapper items={carouselData} locale={locale} />
+        <HeroCarousel items={carouselData} locale={locale} />
       )}
 
       {/* ═══════ NEWS BAR ═══════ */}
@@ -322,7 +322,7 @@ export default async function Home() {
           </div>
           <div className="tc-news-links">
             <a href="/movie" className="tc-explore-btn">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg>
               {t.exploreBtn}
             </a>
           </div>

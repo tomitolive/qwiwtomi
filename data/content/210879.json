@@ -5,7 +5,7 @@
   "title_en": "Rurouni Kenshin",
   "slug": "210879-rurouni-kenshin",
   "overview": "مرّت عشر سنوات على نهاية باكوماتسو، حقبة الحرب التي شهدت انتفاضة المواطنين ضد شوغونية توكوغاوا. أراد الثوار إرساء السلام وبناء دولة مزدهرة خالية من الظلم. حلّ عصر ميجي الجديد، لكن السلام لم يتحقق بعد. حُظرت السيوف، لكن لا يزال الناس يُقتلون في الشوارع. تُرك أيتام المحاربين القدامى بلا مأوى، بينما يبدو أن الحكومة راضية بتكديس الأموال في جيوبها.",
-  "poster_path": "/mCafSOuO3PqgoxaweNCo45KpctE.jpg",
+  "poster_path": "/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
   "backdrop_path": "/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
   "release_date": "2023-07-07",
   "vote_average": 8.3,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Soma Saito Rie Takahashi Taku Yashiro Makoto Koichi Saori Onishi",
-  "first_air_date": "2023-07-07"
+  "first_air_date": "2023-07-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -48,5 +48,8 @@
   "language": "الإنجليزية",
   "country": "Poland",
   "cast": "Aleksandra Śląska Zdzisław Kozień Jerzy Zelnik Anna Dymna Barbara Bursztynowicz Zdzisław Wardejn Piotr Garlicki Jan Machulski",
-  "first_air_date": "1980-12-24"
+  "first_air_date": "1980-12-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

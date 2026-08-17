@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "David Attenborough",
-  "first_air_date": "2017-10-29"
+  "first_air_date": "2017-10-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

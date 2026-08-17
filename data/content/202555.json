@@ -5,7 +5,7 @@
   "title_en": "Daredevil: Born Again",
   "slug": "202555-daredevil-born-again",
   "overview": "يتجه المحامي الأعمى \"مات ميردوك\" وزعيم المافيا الأسبق \"ويلسون فيسك\" نحو صدام حتمي.",
-  "poster_path": "/gBYwH0psbqxzan8kqplkfrCgdwC.jpg",
+  "poster_path": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
   "backdrop_path": "/m291MEBjhuRqb0nh9ojnm9gzScq.jpg",
   "release_date": "2025-03-04",
   "vote_average": 8.2,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Charlie Cox Vincent D'Onofrio Wilson Bethel Deborah Ann Woll Margarita Levieva Matthew Lillard Lili Taylor Michael Gandolfini",
-  "first_air_date": "2025-03-04"
+  "first_air_date": "2025-03-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Lucille Ball Desi Arnaz Vivian Vance William Frawley",
-  "first_air_date": "1951-10-15"
+  "first_air_date": "1951-10-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

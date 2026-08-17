@@ -5,7 +5,7 @@
   "title_en": "Anne with an E",
   "slug": "70785-anne-with-an-e",
   "overview": "تجد يتيمة شجاعة تحمل عواطف جياشة موطنًا غير متوقع بصحبة امرأة عزباء وشقيقها الأعزب عذب اللسان. مقتبس عن رواية \"Anne of Green Gables\".",
-  "poster_path": "/fvLQrLIdcIn80laWrcLtYCSagBn.jpg",
+  "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
   "backdrop_path": "/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
   "release_date": "2017-03-19",
   "vote_average": 8.7,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "Amybeth McNulty Geraldine James R.H. Thomson Lucas Jade Zumann Joanna Douglas",
-  "first_air_date": "2017-03-19"
+  "first_air_date": "2017-03-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

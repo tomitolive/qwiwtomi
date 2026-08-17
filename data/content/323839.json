@@ -5,7 +5,7 @@
   "title_en": "Oriental Martial Academy",
   "slug": "323839-oriental-martial-academy",
   "overview": "تابعوا أحداث مسلسل \"الأكاديمية القتالية الشرقية\"، حيث يغوص العالم في عالم الفنون القتالية الشرقية الساحرة. تدور القصة حول مجموعة من الطلاب الموهوبين الذين يلتحقون بالأكاديمية لتعلم فنون القتال، وتتطور الأحداث لتصبح مغامرة ملحمية. \"Oriental Martial Academy\" مسلسل رسوم متحركة مليء بالإثارة والتشويق.",
-  "poster_path": "/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+  "poster_path": "/h7HTwjNKQAUAw1RqkaBJe6XgMX5.jpg",
   "backdrop_path": "/yRppVL3fuooqvimAr5q5lr8sdxZ.jpg",
   "release_date": "2026-07-16",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "",
-  "first_air_date": "2026-07-16"
+  "first_air_date": "2026-07-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

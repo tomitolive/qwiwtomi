@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Mark Chapman",
-  "first_air_date": "1964-08-22"
+  "first_air_date": "1964-08-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

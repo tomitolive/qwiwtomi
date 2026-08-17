@@ -5,7 +5,7 @@
   "title_en": "Chainsaw Man - The Compilation",
   "slug": "299555-chainsaw-man-the-compilation",
   "overview": "رجل المنشار - التجميع: ملخص الموسم الأول من الأنمي الشهير. يعيد هذا العمل تجميع اللحظات المهمة من الموسم الأول من أنمي رجل المنشار، ويستعرض رحلة دنجي منذ بداياته المتواضعة كصياد شياطين مثقل بالديون وحتى تحوله إلى رجل المنشار. كما يتضمن أجزاءً جديدة بعنوان أيام رجل المنشار، مقتبسة من فصول إضافية من المانغا الأصلية.",
-  "poster_path": "/a4XqQQ9Hx6O8BsQzkCyLaD43GJY.jpg",
+  "poster_path": "/1ErNyXf0hm9HeQXjHRz1X0hffpe.jpg",
   "backdrop_path": "/q5DjMk4rmZuTWRBkXRpjYKQX9ZQ.jpg",
   "release_date": "2025-09-05",
   "vote_average": 9.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kikunosuke Toya Tomori Kusunoki Shogo Sakata Fairouz Ai",
-  "first_air_date": "2025-09-05"
+  "first_air_date": "2025-09-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

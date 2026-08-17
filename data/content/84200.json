@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Kevin Conroy George Newbern Susan Eisenberg Carl Lumbly Phil LaMarr",
-  "first_air_date": "2004-07-31"
+  "first_air_date": "2004-07-31",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

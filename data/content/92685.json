@@ -5,7 +5,7 @@
   "title_en": "The Owl House",
   "slug": "92685-the-owl-house",
   "overview": "مسلسل رسوم متحركة خيالي كوميدي يتبع لوز ، وهي فتاة مراهقة واثقة من نفسها تتعثر عن طريق الخطأ على بوابة إلى عالم سحري حيث تصادق ساحرة متمردة ، إيدا ، ومحارب صغير بشكل رائع ، الملك. على الرغم من عدم امتلاكها قدرات سحرية ، إلا أن لوز تسعى لتحقيق حلمها في أن تصبح ساحرة من خلال العمل كمتدرب لدى إيدا في بيت البومة وتجد في النهاية عائلة جديدة في بيئة غير محتملة.",
-  "poster_path": "/u2zifApZLS6KWOrjhDb46QwmAFZ.jpg",
+  "poster_path": "/rhzwpJBhi2WkfihXndS1xUdQlzB.jpg",
   "backdrop_path": "/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
   "release_date": "2020-01-10",
   "vote_average": 8.7,
@@ -70,5 +70,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Sarah-Nicole Robles Issac Ryan Brown Wendie Malick Tati Gabrielle Mae Whitman Zeno Robinson Alex Hirsch",
-  "first_air_date": "2020-01-10"
+  "first_air_date": "2020-01-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

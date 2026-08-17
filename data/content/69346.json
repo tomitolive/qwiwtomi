@@ -5,7 +5,7 @@
   "title_en": "Saga of Tanya the Evil",
   "slug": "69346-saga-of-tanya-the-evil",
   "overview": "تدور القصة حول (تانيا دوغريف) وهي فتاة شقراء ذات عينين زرقاوتين وبشرة بيضاء صافية كالخزف الصيني تُدعى (تانيا) (دِغورِتشاف) ومهمتها هي قيادة الجيش وعليها أن تُقاتل بضراوة  لتغدو الأعتى  بين المقاتلين والسحرة، تملك روح هذه الفتاة ماضٍ مختلف عن واقعها الحالي.",
-  "poster_path": "/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg",
+  "poster_path": "/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
   "backdrop_path": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
   "release_date": "2017-01-06",
   "vote_average": 8.2,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Aoi Yuuki Saori Hayami Shin-ichiro Miki Tessyo Genda Hochu Otsuka",
-  "first_air_date": "2017-01-06"
+  "first_air_date": "2017-01-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

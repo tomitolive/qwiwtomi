@@ -5,7 +5,7 @@
   "title_en": "My Royal Nemesis",
   "slug": "303143-my-royal-nemesis",
   "overview": "تصطدم شريرة جوسون الأسطورية التي تتجسد من جديد في جسد ممثلة حديثة مع وريث عائلة ثرية بدم بارد، مما يثير قصة حب فوضوية وكراهية عبر القرون.",
-  "poster_path": "/cFcdgMci1klBjDRluoakeJ9Q2n3.jpg",
+  "poster_path": "/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
   "backdrop_path": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
   "release_date": "2026-05-08",
   "vote_average": 8.5,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Lim Ji-yeon Heo Nam-jun Jang Seung-jo Kim Min-seok Lee Se-hee Yoon Byung-hee Yun Ju-sang Chae Seo-an",
-  "first_air_date": "2026-05-08"
+  "first_air_date": "2026-05-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

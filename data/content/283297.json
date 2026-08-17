@@ -5,7 +5,7 @@
   "title_en": "Sterling Point",
   "slug": "283297-sterling-point",
   "overview": "تدور أحداث مسلسل \"نقطة الجنيه الاسترليني\" حول قصة آني وشقيقها التوأم اللذين نشآ في نيويورك مع والدهما الوحيد، قبل أن يكتشفا أن جدهما المنفصل عنهما ترك لهما جزيرة على بحيرة في وصيته. المسلسل مليء بالغموض والدراما، ويكشف عن أسرار العائلة المخفية. \"Sterling Point\" مسلسل مثير يجذب المشاهدين ويبقيهم في حالة ترقب.",
-  "poster_path": "/3ri5Rdi8pHYtajZ1IiumDaul0TL.jpg",
+  "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
   "backdrop_path": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
   "release_date": "2026-08-05",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ella Rubin Amélie Hoeferle Jacob Whiteduck-Lavoie Nikko Angelo Hinayo Keen Ruffalo Daniel Quinn-Toye Bo Bragason",
-  "first_air_date": "2026-08-05"
+  "first_air_date": "2026-08-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

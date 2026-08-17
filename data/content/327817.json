@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Harry Jowsey",
-  "first_air_date": "2026-08-05"
+  "first_air_date": "2026-08-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Burning Kabaddi",
   "slug": "105721-burning-kabaddi",
   "overview": "لاعب كرة قدم أطلق عليه لقب تاتسويا الخالد، يفقد شغفه بالرياضة ويلتحق بالمدرسة الثانوية إلى أن يتلقى دعوة للإنضمام إلى نادي رياضة شعبية عنيفة تدعى الكابادي.",
-  "poster_path": "/nHaTQoEyLJSkMBUASWr3PynbUss.jpg",
+  "poster_path": "/I1WPv4syO2X8lyOhH29oVH1zrI.jpg",
   "backdrop_path": "/nN4OVdex64ZeNV1DWmpfqC8MPGu.jpg",
   "release_date": "2021-04-03",
   "vote_average": 7.7,
@@ -58,5 +58,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Shuichi Uchida Nobuhiko Okamoto Yuma Uchida Gen Sato Makoto Furukawa Tatsuhisa Suzuki Shunsuke Takeuchi Shinichiro Kamio",
-  "first_air_date": "2021-04-03"
+  "first_air_date": "2021-04-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

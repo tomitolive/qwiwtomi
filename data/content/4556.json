@@ -48,5 +48,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Zach Braff Donald Faison John C. McGinley Eliza Coupe Kerry Bishé Michael Mosley Dave Franco",
-  "first_air_date": "2001-10-02"
+  "first_air_date": "2001-10-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Re:ZERO -Starting Life in Another World-",
   "slug": "65942-rezero-starting-life-in-another-world-",
   "overview": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي، بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا، يقوم الأعداء بمهاجمتهما و يتقلانهما، بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة، لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين.",
-  "poster_path": "/x221LECWojgDTnXhWsaMIVmgM5h.jpg",
+  "poster_path": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
   "backdrop_path": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
   "release_date": "2016-04-04",
   "vote_average": 8.0,
@@ -70,5 +70,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yusuke Kobayashi Rie Takahashi Yumi Uchiyama Rie Murakawa Inori Minase Satomi Arai",
-  "first_air_date": "2016-04-04"
+  "first_air_date": "2016-04-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Oasis",
   "slug": "296285-oasis",
   "overview": "واحة. مسلسل جريمة وغموض ودراما، يدور حول منتجع فاخر في بلد ما، حيث يتم التحقيق في اختفاء غامض، مما يضع الجميع تحت الشبهة. \"واحة\"، المسلسل الذي يسلط الضوء على عالم الأثرياء، ويكشف عن أسرار وخفايا لا يمكن تصورها. \"Oasis\"، عنوان المسلسل الذي سيأخذك في رحلة مشوقة ومثيرة.",
-  "poster_path": "/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+  "poster_path": "/mPnA4rmPF1gCU2scc3mQo4vO488.jpg",
   "backdrop_path": "/n4B2dVVScH4L4Scvy7mTboYcfGQ.jpg",
   "release_date": "2026-06-19",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Ana Garcés Tomy Aguilera Victoria Kantch Berta Castañé Manel Duarte Ada Molina Alex Mola Cande Méndez",
-  "first_air_date": "2026-06-19"
+  "first_air_date": "2026-06-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

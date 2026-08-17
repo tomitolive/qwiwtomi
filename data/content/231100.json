@@ -5,7 +5,7 @@
   "title_en": "Boundless Love",
   "slug": "231100-boundless-love",
   "overview": "عندما كان خليل إبراهيم طفلاً صغيراً، فقد والده بسبب ثأر وتم نفيه إلى اسطنبول. وبعد عشرين عامًا، يعود إلى موطنه في منطقة كارادينيز كشاب وسيم وقوي. يخطط للزواج من الفتاة التي يحبها، ياسمين، وبدء حياة جديدة. لكن الأحداث لا تسمح بذلك. ينطلق خليل إبراهيم في رحلة انتقامية، وتتغير حياته تمامًا عندما يقابل زينب من عائلة ليتو.",
-  "poster_path": "/n371aYjgVsm0CfYC3poK3jHpmml.jpg",
+  "poster_path": "/7fUiUlwbZ6gfDfHnD5ZhxpvhWBl.jpg",
   "backdrop_path": "/vV5GFJtp8DgAysY1F0WfIwedi81.jpg",
   "release_date": "2023-09-21",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Deniz Can Aktaş Miray Daner Mehmet Korhan Fırat Naz Çağla Irmak Burak Sevinç Cansın Şenel Emre Bulut Yaren Yapici",
-  "first_air_date": "2023-09-21"
+  "first_air_date": "2023-09-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

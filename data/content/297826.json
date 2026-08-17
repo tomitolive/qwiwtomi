@@ -5,7 +5,7 @@
   "title_en": "Tomb Raider King",
   "slug": "297826-tomb-raider-king",
   "overview": "تومب رايدر الملك: ظهرت مقابر غامضة في جميع أنحاء العالم في يوم واحد، وتحتوي كل منها على قطعة أثرية تمنح مالكها قدرات خارقة. جوو هيون سو هو مستكشف للمقابر، وحفار، ومتسلل. بعد أن تم خيانته من قبل رئيسه، كان على وشك الموت على يد قطعة أثرية قوية عندما وجد نفسه فجأة قبل 15 عامًا، قبل ظهور أي قطع أثرية أو مقابر. مدفوعًا بمشاعر الانتقام، كيف سيستخدم جوو هيون معرفته بالمستقبل ليصبح ملك المتسللين؟",
-  "poster_path": "/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+  "poster_path": "/xDW6cor12UD0b2IqboQWnrIn0UO.jpg",
   "backdrop_path": "/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
   "release_date": "2026-07-09",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Hwang Chang-yung Lee Yu-ri Min Eung-sik Shim Kyu-hyuck",
-  "first_air_date": "2026-07-09"
+  "first_air_date": "2026-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

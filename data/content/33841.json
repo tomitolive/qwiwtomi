@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "",
-  "first_air_date": "2010-10-29"
+  "first_air_date": "2010-10-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

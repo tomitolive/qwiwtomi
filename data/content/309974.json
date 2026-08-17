@@ -5,7 +5,7 @@
   "title_en": "Love Unseen Beneath the Clear Night Sky",
   "slug": "309974-love-unseen-beneath-the-clear-night-sky",
   "overview": "مسلسل \"الحب غير المرئي تحت سماء الليل الصافية\" هو دراما رومانسية مؤثرة تدور أحداثها حول كاكيرو سورانو، الطالب الجامعي الخجول الذي يتجنب الآخرين، واجتماعه مع كوهارو فويوتسكي، الفتاة المكفوفة التي تواجه العالم بهدوء وإشراقة. عندما تقول كوهارو \"أتمنى أن أرى الألعاب النارية يومًا ما\"، يتغير شيء ما داخل كاكيرو. ومع اقترابهم من بعضهما البعض من خلال لحظات صغيرة ووحدة مشتركة، يبحث كاكيرو عن طريقة لتحقيق أمنيتها. \"الحب غير المرئي تحت سماء الليل الصافية\"، مسلسل رسوم متحركة ودراما رومانسية رائع.",
-  "poster_path": "/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
+  "poster_path": "/orV0LKMAjKZzY1NJVEIwUFjLvWq.jpg",
   "backdrop_path": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
   "release_date": "2026-07-06",
   "vote_average": 8.0,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Miyu Irino Saori Hayami Konomi Kohara Yohei Azakami",
-  "first_air_date": "2026-07-06"
+  "first_air_date": "2026-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

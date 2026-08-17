@@ -5,7 +5,7 @@
   "title_en": "SSSS.GRIDMAN",
   "slug": "82895-ssssgridman",
   "overview": "استمتع بمشاهدة مسلسل SSSS.GRIDMAN مترجم بجودة عالية.",
-  "poster_path": "/mV3AOQptdjJDPhmnZN0rUBtutlt.jpg",
+  "poster_path": "/4l9EA3CCn9BQi95Rj2xlj5PSZB.jpg",
   "backdrop_path": "/daqQkmsrwwO3W8RV5hsmMaGU0bx.jpg",
   "release_date": "2018-10-07",
   "vote_average": 7.2,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Hikaru Midorikawa Yuya Hirose Reina Ueda Yume Miyamoto Soma Saito Tetsu Inada Kenichi Suzumura Aoi Yuuki",
-  "first_air_date": "2018-10-07"
+  "first_air_date": "2018-10-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

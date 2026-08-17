@@ -5,7 +5,7 @@
   "title_en": "The Walking Dead: Dead City",
   "slug": "194583-the-walking-dead-dead-city",
   "overview": "مشتق من مسلسل The Walking Dead، بعد أن تم اختطاف ابن “ماغي” تنطلق “ماغي” رفقة “نيغان” في رحلة محفوفة بالمخاطر إلى جزيرة “مانهاتن” لاستعادة ابنها.",
-  "poster_path": "/88ZAgQ9fH3x7PRhQjtkFHE30Fpo.jpg",
+  "poster_path": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
   "backdrop_path": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
   "release_date": "2023-06-18",
   "vote_average": 7.9,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Lauren Cohan Jeffrey Dean Morgan Aimee Garcia Jimmi Simpson Raúl Castillo",
-  "first_air_date": "2023-06-18"
+  "first_air_date": "2023-06-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

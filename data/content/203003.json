@@ -5,7 +5,7 @@
   "title_en": "The Truth",
   "slug": "203003-the-truth",
   "overview": "مسلسل \"الحقيقة\" أو \"The Truth\" هو برنامج واقعي مثير يجمع ستة مقيمين جدد في شقة واحدة. يتعاونون معًا لكشف الحقيقة الكاملة حول شقة 11، حيث يخوضون في قضية غامضة ومثيرة للاهتمام. تابعوا هذا المسلسل المشوق لمعرفة ما سيحدث.",
-  "poster_path": "/64xFi1olZzxBFFX93fIVGa6tU7h.jpg",
+  "poster_path": "/duDtQ7FJFqCNpzEeZqKCTdZe46B.jpg",
   "backdrop_path": "/wJygv7NrIH30GVhG14r5A9WwwxV.jpg",
   "release_date": "2022-06-03",
   "vote_average": 7.9,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Liu Yuning Daniel Zhou Zhang Linghe Jolin Jin Ding Chengxin",
-  "first_air_date": "2022-06-03"
+  "first_air_date": "2022-06-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

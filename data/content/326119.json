@@ -5,7 +5,7 @@
   "title_en": "Thunder 3",
   "slug": "326119-thunder-3",
   "overview": "تدور أحداث مسلسل \"الرعد 3\" حول مغامرة استثنائية يعيشها طلاب مدرسة متوسطة عاديين، وهم بيونتارو وهيروشي وتسوبامي، عندما تختفي شقيقة بيونتارو الصغرى. وتتطور الأحداث بشكل غير متوقع في عالم الخيال العلمي والفانتازيا. \"Thunder 3\" هو مسلسل رسوم متحركة ممتع ومشوق.",
-  "poster_path": "/EwgegTmDUuf71tjZCswhJGo79F.jpg",
+  "poster_path": "/sAWjEgblLSXWHMKJCKC0UYjK5AN.jpg",
   "backdrop_path": "/ho6FHjF1JlzAJ8YGdbqwuxaElDj.jpg",
   "release_date": "2026-07-09",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Sayumi Suzushiro Natsumi Kawaida Eri Akiyama",
-  "first_air_date": "2026-07-09"
+  "first_air_date": "2026-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

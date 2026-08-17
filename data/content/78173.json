@@ -5,7 +5,7 @@
   "title_en": "Dragons: Race to the Edge",
   "slug": "78173-dragons-race-to-the-edge",
   "overview": "من صُنّاع سلسلة \"كيف تروض تنّينك\"، يأتيكم مسلسل جديد ينطلق فيه \"حازوقة\" و \"أبوسن\" في مغامرات حابسة للأنفاس!",
-  "poster_path": "/rDhzvxMHNJtvPB5xynXFoIo5oEy.jpg",
+  "poster_path": "/y5sNfaTvWR3ObILyf9uV6deAcKT.jpg",
   "backdrop_path": "/yVcuoQNo36FlZTavqjjjpsaUJyL.jpg",
   "release_date": "2015-06-26",
   "vote_average": 8.4,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jay Baruchel America Ferrera Zack Pearlman Christopher Mintz-Plasse",
-  "first_air_date": "2015-06-26"
+  "first_air_date": "2015-06-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

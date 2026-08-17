@@ -5,7 +5,7 @@
   "title_en": "The Vacation Principle",
   "slug": "319077-the-vacation-principle",
   "overview": "تتحدث قصة مسلسل \"مبدأ الإجازة\" عن امرأة تفقد وظيفتها وتقرر الهروب إلى فيلا جدة المتوفاة على شاطئ البحر، حيث تلتقي هناك بحارس الفيلا الغامض الذي يساعدها في شفاء جروحها وبدء حياة جديدة. \"مبدأ الإجازة\"، مسلسل دراما قادم في عام 2026، يسلط الضوء على قوة الصداقة غير المتوقعة.",
-  "poster_path": "/jh3ia7esrJcZhQSzDVXIsBivYIS.jpg",
+  "poster_path": "/wc9IbG1FkxzGGSkrP3kxUDpt2Ls.jpg",
   "backdrop_path": "/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
   "release_date": "2026-07-27",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kanna Hashimoto Chae Jong-hyeop Mizuki Yamashita 加納愛子 Dori Sakurada Ryo Katsuji",
-  "first_air_date": "2026-07-27"
+  "first_air_date": "2026-07-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

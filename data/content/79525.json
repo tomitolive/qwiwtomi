@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Michael Jordan Scottie Pippen Dennis Rodman Phil Jackson Steve Kerr",
-  "first_air_date": "2020-04-19"
+  "first_air_date": "2020-04-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

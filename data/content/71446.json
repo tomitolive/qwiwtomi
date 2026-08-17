@@ -5,7 +5,7 @@
   "title_en": "Money Heist",
   "slug": "71446-money-heist",
   "overview": "يتّخذ ثمانية لصوص بعض الرهائن ويحبسون أنفسهم في \"دار السكّ الملكيّة\" في إسبانيا، فيما يتلاعب أحد العقول الإجرامية بالشرطة لتنفيذ مُخططه.",
-  "poster_path": "/rl99DVtn7gs1mg5tpJLxuFUN9xG.jpg",
+  "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
   "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
   "release_date": "2017-05-02",
   "vote_average": 8.2,
@@ -58,5 +58,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Úrsula Corberó Itziar Ituño Álvaro Morte Pedro Alonso Miguel Herrán Esther Acebo Jaime Lorente Najwa Nimri",
-  "first_air_date": "2017-05-02"
+  "first_air_date": "2017-05-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

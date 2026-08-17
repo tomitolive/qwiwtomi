@@ -5,7 +5,7 @@
   "title_en": "Law Order: Special Victims Unit",
   "slug": "2734-law-order-special-victims-unit",
   "overview": "في نظام العدالة الجنائية، تعتبر الجرائم الجنسية شنيعة بشكل خاص. في مدينة نيويورك، المحققون المتخصصون الذين يحققون في هذه الجنايات الشريرة هم أعضاء فريق من النخبة يعرف باسم وحدة الضحايا الخاصة. هذه قصصهم.",
-  "poster_path": "/uzfP3ILGEXhSbhfCOsgCDZW7ojk.jpg",
+  "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
   "backdrop_path": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
   "release_date": "1999-09-20",
   "vote_average": 7.9,
@@ -51,5 +51,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Mariska Hargitay Ice-T Kelli Giddish Peter Scanavino Aimé Donna Kelly Kevin Kane Corey Cott",
-  "first_air_date": "1999-09-20"
+  "first_air_date": "1999-09-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

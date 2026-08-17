@@ -5,7 +5,7 @@
   "title_en": "Big Brother",
   "slug": "100128-big-brother",
   "overview": "استمتع بمشاهدة مسلسل الأخ الأكبر مترجم بجودة عالية.",
-  "poster_path": "/7Lp5sg13ohIpsUp6YTCYJEsy8yp.jpg",
+  "poster_path": "/9Gkcvdz89Q7w0glDDga1c8m5vaW.jpg",
   "backdrop_path": "/AhoPrGyrdsnJ7SoSPPV84dONnqa.jpg",
   "release_date": "2000-09-03",
   "vote_average": 2.5,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "Portugal",
   "cast": "Maria Botelho Moniz",
-  "first_air_date": "2000-09-03"
+  "first_air_date": "2000-09-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

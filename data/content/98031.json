@@ -5,7 +5,7 @@
   "title_en": "Keep Running",
   "slug": "98031-keep-running",
   "overview": "يحكي مسلسل استمر في الجري قصة مجموعة من المضيفين والضيوف الذين يتعاونون معًا لتنفيذ مهام وافضلها في معلم بارز، بهدف الفوز بالسباق. هذا البرنامج يعد عبارة عن تلفزيون متغير يُعتبر من أشهر البرامج في الصين، حيث يتنافس المضيفون والضيوف في مهمات ومسابقات مختلفة، ويتم تخصيص الجائزة للفائز. بالتأكيد، هذا البرنامج يعطي الفرصة للضيوف لمعرفة قدراتهم وخبراتهم في تنفيذ المهام والمنافسة في المسابقات، مما يجعل البرنامج مميزًا ومتعة.",
-  "poster_path": "/jOl12DTFiMcp9ga2KaEKwt5H8oo.jpg",
+  "poster_path": "/lr4er9w2jHqFx8VFyASN8Q1LWzB.jpg",
   "backdrop_path": "/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg",
   "release_date": "2014-10-10",
   "vote_average": 5.7,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Jerry Lee Ryan Zheng Kai Sha Yi Fan Chengcheng Bai Lu",
-  "first_air_date": "2014-10-10"
+  "first_air_date": "2014-10-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

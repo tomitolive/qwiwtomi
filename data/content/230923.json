@@ -5,7 +5,7 @@
   "title_en": "Lovely Runner",
   "slug": "230923-lovely-runner",
   "overview": "النجم الكبير سون جاي هو الأمل الوحيد لإيم سول في ظل يأسها. ومع ذلك، في يوم من الأيام، تسمع أخبارًا صادمة بأن سون جاي توفي بوفاة مأساوية. ينقلب عالمها رأسًا على عقب وتستيقظ وهي تبكي، لتجد نفسها في الماضي، قبل ١٥ عامًا عندما كان سون جاي لا يزال على قيد الحياة. تأخذ سول هذه الفرصة وتصمم على بذل قصارى جهدها لإنقاذ سون جاي. وفي الوقت نفسه، في الماضي، كان سون جاي طالبًا مُخلصًا للسباحة فقط. ولكن كيف علمت سول، التي لم تكن تعرف عن وجوده حتى الأمس، اسمه؟",
-  "poster_path": "/7q0arCMNzgJBCsfEkLpe8MY4TUW.jpg",
+  "poster_path": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
   "backdrop_path": "/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
   "release_date": "2024-04-08",
   "vote_average": 8.6,
@@ -66,5 +66,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Byeon Woo-seok Kim Hye-yoon Song Geon-hee Lee Seung-hyub Jeong Young-joo Seong Byeong-suk Song Ji-ho Seo Hye-won",
-  "first_air_date": "2024-04-08"
+  "first_air_date": "2024-04-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

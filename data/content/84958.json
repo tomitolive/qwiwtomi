@@ -5,7 +5,7 @@
   "title_en": "Loki",
   "slug": "84958-loki",
   "overview": "بعد سرقة الـ\"تيسراكت\" خلال أحداث“المنتقمون: نهاية اللعبة” ، يتم نقل نسخة بديلة من لوكي إلى هيئة التباين الزمني، وهي منظمة بيروقراطية غامضة تقع خارج الزمان والمكان وتراقب الخط الزمني. تعرض عليه الهيئة خيارًا: إما مواجهة الإزالة من الوجود باعتباره “متغيرًا زمنيًا”، أو المساعدة في إصلاح الخط الزمني والتصدي لتهديد أكبر.",
-  "poster_path": "/yKsCXibdrkB9NOE7urQ1f3HEvHe.jpg",
+  "poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
   "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
   "release_date": "2021-06-09",
   "vote_average": 8.2,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Hiddleston Sophia Di Martino Wunmi Mosaku Eugene Cordero Ke Huy Quan Owen Wilson Gugu Mbatha-Raw",
-  "first_air_date": "2021-06-09"
+  "first_air_date": "2021-06-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Star Wars: Visions",
   "slug": "114478-star-wars-visions",
   "overview": "تحتفي هذه المختارات من أفلام الرسوم المتحركة القصيرة من مختلف أنحاء العالم بأساطير \"حرب النجوم\".",
-  "poster_path": "/nnNTGRo7bIDq75NRE9ukBEgYOKA.jpg",
+  "poster_path": "/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
   "backdrop_path": "/m2QTmJhe36uKrkQjC1MsNV7Dcqp.jpg",
   "release_date": "2021-09-22",
   "vote_average": 7.1,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "تشيلي",
   "cast": "",
-  "first_air_date": "2021-09-22"
+  "first_air_date": "2021-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

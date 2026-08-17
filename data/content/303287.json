@@ -5,7 +5,7 @@
   "title_en": "GuAn",
   "slug": "303287-guan",
   "overview": "غوان، مسلسل رسوم متحركة مليء بالحركة والمغامرة والدراما. تدور أحداثه في عالم خيالي حيث يخوض البطل غوان مغامرات مثيرة. غوان مسلسل ممتع ومشوق، لا تفوتوا مشاهدته.",
-  "poster_path": "/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
+  "poster_path": "/hizh0OcUTNFJzSxPH0jtHyWNDCi.jpg",
   "backdrop_path": "/17JE6Hv19f7uzsCmICXluAQERWm.jpg",
   "release_date": "2026-07-28",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Li Hanlin Meme Yan 黑特 Sheng Feng Jiang Yingjun Tang Mingdong Chang Rongshan Tong Yin",
-  "first_air_date": "2026-07-28"
+  "first_air_date": "2026-07-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

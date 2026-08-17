@@ -5,7 +5,7 @@
   "title_en": "Heart Signal",
   "slug": "103147-heart-signal",
   "overview": "تابعوا مسلسل \"إشارة القلب\"، وهو برنامج واقعي رومانسي مثير، حيث يلتقي ثمانية غرباء، أربعة رجال وأربع نساء، في منزل واحد، \"Signal House\". تدور أحداث المسلسل حول مواعدة المشاركين، واكتشافهم للحب والصداقة. \"Heart Signal\"، تجربة فريدة من نوعها، مليئة باللحظات العاطفية والمفاجآت.",
-  "poster_path": "/5rFY9y60evb8qdJdoEYeIgQkIwQ.jpg",
+  "poster_path": "/goGRtZKhPhLGgtxVA5gBdDfFcDe.jpg",
   "backdrop_path": "/eoky4vypEBIWCoY3lMLvEOShVLy.jpg",
   "release_date": "2018-08-26",
   "vote_average": 6.1,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yang Chaoyue Du Haitao Chunye Zhang Dai Xu Fiona Sit Hoi-Kei",
-  "first_air_date": "2018-08-26"
+  "first_air_date": "2018-08-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

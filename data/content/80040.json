@@ -5,7 +5,7 @@
   "title_en": "Desafo Champions Sendokai",
   "slug": "80040-desafo-champions-sendokai",
   "overview": "أربعة أطفــال من كـوكـب الأرض، لم يحظـوا بالشهرة بين الآخـرين، ولم يكونوا متمتّعين بمواهب رياضية مميّزة، ولكن حياتهم تنقلب تمامًا، عندما يعثرون ذات يوم على أساور تغيّر أحجام أجسامهم، وتمنحهم قدرات خاصة",
-  "poster_path": "/qNqQm1xFJd44PVtW7BanoafhgnM.jpg",
+  "poster_path": "/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg",
   "backdrop_path": "/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
   "release_date": "2013-04-09",
   "vote_average": 8.6,
@@ -54,5 +54,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Alex de Porrata Carme Calvell David Jenner Ariadna Jiménez",
-  "first_air_date": "2013-04-09"
+  "first_air_date": "2013-04-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Behind Your Touch",
   "slug": "210107-behind-your-touch",
   "overview": "تتعاون طبيبة بيطرية تتمتع بقدرات روحية مع محقق لحل القضايا المحلية في بلدة صغيرة... لكن مهاراتهما تصبح على المحك عندما يكتشفان لغزًا مرعبًا يرتبط بجرائم قتل متسلسلة.",
-  "poster_path": "/2rIponPNCeiWkAoEkz4MHJCFRdo.jpg",
+  "poster_path": "/rmGfPwRBOr8i8zxS0P0XCFJE21W.jpg",
   "backdrop_path": "/sZvkElBCWiYNpVk3PsFlW64xkBh.jpg",
   "release_date": "2023-08-12",
   "vote_average": 8.1,
@@ -66,5 +66,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Han Ji-min Lee Min-ki Suho Joo Min-kyung Yang Jae-seong Park Seong-yeon Kim Hie-won Jung Yi-rang",
-  "first_air_date": "2023-08-12"
+  "first_air_date": "2023-08-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Josh Duhamel Vanessa Marcil Molly Sims James Lesure Tom Selleck",
-  "first_air_date": "2003-09-22"
+  "first_air_date": "2003-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Agent Kim Reactivated",
   "slug": "296206-agent-kim-reactivated",
   "overview": "تم إعادة تنشيط العميل كيم، مسلسل مليء بالإثارة والحركة، حيث يضطر أب بسيط إلى استخدام مهاراته القديمة في العمليات السرية للعثور على ابنته المفقودة. هذه المغامرة تجذب انتباه الأشخاص الخطأ، مما يضع الأب في موقف خطير. تم إعادة تنشيط العميل كيم. Agent Kim Reactivated.",
-  "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+  "poster_path": "/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
   "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
   "release_date": "2026-06-26",
   "vote_average": 10.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "So Ji-sub Choi Dae-hoon Yoon Kyung-ho Ju Sang-uk Son Na-eun Lee Dong-ha Jo Bok-rae Kim Sung-kyu",
-  "first_air_date": "2026-06-26"
+  "first_air_date": "2026-06-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

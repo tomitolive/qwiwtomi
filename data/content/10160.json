@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Julie Chen Clayton Halsey",
-  "first_air_date": "2000-07-05"
+  "first_air_date": "2000-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

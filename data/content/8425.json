@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Victoria Coren Mitchell",
-  "first_air_date": "2008-09-15"
+  "first_air_date": "2008-09-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

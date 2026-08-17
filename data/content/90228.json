@@ -5,7 +5,7 @@
   "title_en": "Dune: Prophecy",
   "slug": "90228-dune-prophecy",
   "overview": "قبل 10,000 سنة من ولادة بول أتريدس. تدور أحداث المسلسل حول شقيقتين من عائلة هاركونين وهما تحاربان القوى التي تهدد مستقبل البشرية.",
-  "poster_path": "/k74582cs4J7RHae8QFNsbq4ibVy.jpg",
+  "poster_path": "/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
   "backdrop_path": "/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
   "release_date": "2024-11-17",
   "vote_average": 7.2,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Emily Watson Olivia Williams Travis Fimmel Jodhi May Sarah-Sofie Boussnina Chloe Lea Chris Mason Mark Strong",
-  "first_air_date": "2024-11-17"
+  "first_air_date": "2024-11-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

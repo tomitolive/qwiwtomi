@@ -5,7 +5,7 @@
   "title_en": "56 Days",
   "slug": "241372-56-days",
   "overview": "حين تُعثر على جثة مجهولة في شقة فارهة مرتبطة بأوليفر كينيدي وحبيبته سيارا وايز، يعيد المحققان لي ريردون وكارل كونولي بناء أحداث قصة الحب القاتلة بينهما على مدار الأيام الـ56 المنصرمة.",
-  "poster_path": "/jC88I5wlLNEWuQvhE4RtlGr9Zs2.jpg",
+  "poster_path": "/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
   "backdrop_path": "/dnEljhBkw53ra7tEl2JNKGrI0wk.jpg",
   "release_date": "2026-02-18",
   "vote_average": 7.3,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Dove Cameron Avan Jogia Dorian Missick Karla Souza Kingston Rumi Southwick Patch Darragh Kira Guloien",
-  "first_air_date": "2026-02-18"
+  "first_air_date": "2026-02-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

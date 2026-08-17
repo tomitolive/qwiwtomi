@@ -5,7 +5,7 @@
   "title_en": "JUJUTSU KAISEN",
   "slug": "95479-jujutsu-kaisen",
   "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة، لكنّه يعيش حياة مدرسية عادية تمامًا. في أحد الأيّام، ومن أجل إنقاذ صديق هاجمته لعنة، يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة. وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو، غوجو ساتورو.",
-  "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+  "poster_path": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
   "backdrop_path": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
   "release_date": "2020-10-03",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "2020-10-03"
+  "first_air_date": "2020-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

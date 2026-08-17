@@ -5,7 +5,7 @@
   "title_en": "I Will Find You",
   "slug": "278178-i-will-find-you",
   "overview": "مسلسل \"سأجدك\"، دراما مشوقة من نوع الجريمة والغموض. تدور أحداثه حول أب سجن ظلماً بتهمة قتل ابنه، لكن الأمل يتجدد عندما يكتشف أن ابنه قد يكون على قيد الحياة، فيبدأ رحلة إنقاذ محفوفة بالمخاطر. \"سأجدك\"، مسلسل مثير ومليء بالتشويق والإثارة.",
-  "poster_path": "/7WJJucDKypqoF27vfvErMPigP3P.jpg",
+  "poster_path": "/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
   "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
   "release_date": "2026-06-18",
   "vote_average": 10.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Sam Worthington Britt Lower Logan Browning Erin Richards Milo Ventimiglia Jonathan Tucker Chi McBride",
-  "first_air_date": "2026-06-18"
+  "first_air_date": "2026-06-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

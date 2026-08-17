@@ -5,7 +5,7 @@
   "title_en": "The Shards",
   "slug": "298168-the-shards",
   "overview": "تدور أحداث مسلسل \"الشظايا\" في لوس أنجلوس عام 1981، حيث يروي قصة بريت إيستون إليس في سن السابعة عشرة خلال عامه الأخير في مدرسة باكللي الإعدادية المرموقة. وتقلب وصول طالب جديد غامض يدعى روبرت ماليوري عالمه رأساً على عقب، ويتزامن وجوده المقلق مع أنشطة قاتل متسلسل يُعرف باسم \"The Trawler\".",
-  "poster_path": "/876V23IJpddyLcO1wvJUdSft585.jpg",
+  "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
   "backdrop_path": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
   "release_date": "2026-08-05",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Igby Rigney Kaia Gerber Homer Gere Hayes Warner Graham Campbell Evan Rachel Wood Wes Bentley",
-  "first_air_date": "2026-08-05"
+  "first_air_date": "2026-08-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

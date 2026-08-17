@@ -5,7 +5,7 @@
   "title_en": "My Tiny Senpai",
   "slug": "217390-my-tiny-senpai",
   "overview": "تدور أحداث مسلسل \"سنباي الصغير\" أو \"My Tiny Senpai\" حول شينوزاكي الذي بدأ وظيفة جديدة، ليكتشف أن رئيسه في العمل لطيف للغاية! يكافح شينوزاكي للتأقلم حتى تأخذ كاتاسي، سنبايه الصغيرة واللطيفة، بيده. ومع اقترابهم من بعضهما البعض، يأمل أن اهتمامها قد يعني شيئًا أكثر من ذلك.",
-  "poster_path": "/2dA5Hhh2GIZPudcp4gRRV2RZl7o.jpg",
+  "poster_path": "/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
   "backdrop_path": "/b6EoiUpO8tx0Bzhkd8dxXEupDvj.jpg",
   "release_date": "2023-07-02",
   "vote_average": 7.1,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Hina Tachibana Yuuki Shin Yumiri Hanamori Nobunaga Shimazaki Mikako Komatsu",
-  "first_air_date": "2023-07-02"
+  "first_air_date": "2023-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

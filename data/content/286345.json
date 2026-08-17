@@ -5,7 +5,7 @@
   "title_en": "Though I Am an Inept Villainess",
   "slug": "286345-though-i-am-an-inept-villainess",
   "overview": "على الرغم من أنني شريرة غير كفؤة، تدور أحداث المسلسل حول كيجيتسو، التي تستخدم سحرًا محظورًا لتبادل الأجساد مع ريرين، مما يؤدي إلى عواقب غير متوقعة. في حين أن كيجيتسو تكافح مع صحتها المتدهورة، يجب على ريرين مواجهة جرائم كيجيتسو في محاكمة خطيرة. وتتشابك حياتهم بشكل متزايد، ويكتشفون مؤامرات مظلمة تحت السطح الودي للقصر.",
-  "poster_path": "/sdWNqtcPJpudPItPG3zBdyGyzTH.jpg",
+  "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
   "backdrop_path": "/iw8bfqec8so9QPqnd4XMaYFJFet.jpg",
   "release_date": "2026-07-12",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Manaka Iwami Natsumi Kawaida Makoto Furukawa Yuuichirou Umehara Hana Hishikawa Farahnaz Nikray Rei Igarashi Ai Kayano",
-  "first_air_date": "2026-07-12"
+  "first_air_date": "2026-07-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإسبانية",
   "country": "الأرجنتين",
   "cast": "Santiago del Moro Gastón Trezeguet Ceferino Reato Maria Sol Perez",
-  "first_air_date": "2001-03-10"
+  "first_air_date": "2001-03-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

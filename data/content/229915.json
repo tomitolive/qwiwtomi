@@ -5,7 +5,7 @@
   "title_en": "Night Has Come",
   "slug": "229915-night-has-come",
   "overview": "يجب على طلاب مدرسة Yoo-il High، المحاصرين في \"لعبة المافيا\" الملعونة القاتلة، أن يلعبوا اللعبة من أجل البقاء على قيد الحياة، بينما يقومون بكشف الألغاز وراء اللعنة.",
-  "poster_path": "/6xVRIsBzUllak3hmaYJDhymQfAy.jpg",
+  "poster_path": "/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
   "backdrop_path": "/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
   "release_date": "2023-12-04",
   "vote_average": 7.9,
@@ -52,5 +52,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Song Byeong-geun Lee Jae-in Kim Woo-seok Choi Ye-bin Park Yoon-ho Cha Woo-min Ahn Ji-ho Jeong So-ri",
-  "first_air_date": "2023-12-04"
+  "first_air_date": "2023-12-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

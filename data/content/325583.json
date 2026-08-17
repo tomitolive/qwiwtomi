@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "",
-  "first_air_date": "2026-06-17"
+  "first_air_date": "2026-06-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

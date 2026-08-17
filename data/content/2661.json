@@ -5,7 +5,7 @@
   "title_en": "Kamen Rider",
   "slug": "2661-kamen-rider",
   "overview": "تدور أحداث المسلسل حول عالم يسمى \"عالم المرآة\"، حيث تظهر وحوش تأكل البشر. يقوم شخص يدعى \"جين\" بصنع بطاقات خاصة تمكن 13 مقاتلاً من التحول إلى دراجين لحماية الناس أو القتال فيما بينهم.",
-  "poster_path": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+  "poster_path": "/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
   "backdrop_path": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
   "release_date": "1971-04-03",
   "vote_average": 6.4,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ryutaro Imai Maho Horiguchi Kenta Mishima Rina Onuki Miki Yagi Yuki Furukawa Jay Kabira Koichi Yamadera",
-  "first_air_date": "1971-04-03"
+  "first_air_date": "1971-04-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

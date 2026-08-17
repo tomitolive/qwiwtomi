@@ -5,7 +5,7 @@
   "title_en": "Trying",
   "slug": "98177-trying",
   "overview": "لطالما أرادَ كلّ من Nikki وJason إنجاب طفل، الحلم الذي لم يتمكّنا من تحقيقه. لذا، فقد قرّرا التبنّي. ولكن مع أصدقاء غريبي الأطوار وحياة تسودها الفوضى، هل سيتمكّن هذان الزوجان من بناء عائلة الأحلام؟",
-  "poster_path": "/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg",
+  "poster_path": "/3zsnWBpxBWpcvmFP7ueHM5sGC80.jpg",
   "backdrop_path": "/g3zOfRXWCEm8kZACHqLsbz3W5Qa.jpg",
   "release_date": "2020-05-01",
   "vote_average": 7.6,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Rafe Spall Esther Smith",
-  "first_air_date": "2020-05-01"
+  "first_air_date": "2020-05-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

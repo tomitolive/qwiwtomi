@@ -5,7 +5,7 @@
   "title_en": "Island",
   "slug": "211747-island",
   "overview": "استمتع بمشاهدة مسلسل جزيرة مترجم بجودة عالية.",
-  "poster_path": "/ge49OZww8kYdchAj38gA6z8ts5y.jpg",
+  "poster_path": "/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
   "backdrop_path": "/vtdpgm0QR4RDB3tQFIdpYG4QE16.jpg",
   "release_date": "2022-12-30",
   "vote_average": 8.0,
@@ -62,5 +62,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Nam-gil Lee Da-hee Cha Eun-woo Sung Joon Heo Jung-hee Goh Doo-shim Oh Kwang-rok Chung Su-bin",
-  "first_air_date": "2022-12-30"
+  "first_air_date": "2022-12-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

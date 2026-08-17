@@ -5,7 +5,7 @@
   "title_en": "Weak Hero",
   "slug": "200709-weak-hero",
   "overview": "طالب نموذجي ، يحتل المرتبة الأولى في مدرسته الثانوية.  جسديًا ، يبدو  كصبي ضعيف ، ولكن باستخدام ذكائه وأدواته وعلم النفس ، يحارب العنف الذي يحدث داخل مدرسته وخارجها.",
-  "poster_path": "/A3YM7LilUhEh19A4RI5QkXrwLXP.jpg",
+  "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
   "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
   "release_date": "2022-11-18",
   "vote_average": 8.7,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Park Ji-hoon Choi Hyun-wook Hong Kyung Ryeoun Choi Min-yeong Yoo Su-bin Cha Woo-min Bae Na-ra",
-  "first_air_date": "2022-11-18"
+  "first_air_date": "2022-11-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

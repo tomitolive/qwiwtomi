@@ -5,7 +5,7 @@
   "title_en": "Dear Killer Nannies",
   "slug": "313721-dear-killer-nannies",
   "overview": "استمتع بمشاهدة مسلسل Dear Killer Nannies: Criado   مترجم بجودة عالية.",
-  "poster_path": "/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+  "poster_path": "/bGRezoCqNtiKwNDB9hszImOs6ut.jpg",
   "backdrop_path": "/xvxSV4J28kgFaDMbaDnmAlV2YmB.jpg",
   "release_date": "2026-04-01",
   "vote_average": 7.8,
@@ -58,5 +58,8 @@
   "language": "الإسبانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Janer Villareal Miguel Tamayo Miguel Ángel García Sebastian Marroquin John Leguizamo",
-  "first_air_date": "2026-04-01"
+  "first_air_date": "2026-04-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

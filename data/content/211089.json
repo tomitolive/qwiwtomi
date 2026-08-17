@@ -5,7 +5,7 @@
   "title_en": "Strange Tales of Tang Dynasty",
   "slug": "211089-strange-tales-of-tang-dynasty",
   "overview": "وهو مسلسل تشويق وفانتازيا تاريخي يدور حول قضايا جنائية غامضة وحوادث خارقة للطبيعة تقع في عهد أسرة تانغ، ويقوم بحلها ثنائي يجمع بين الذكاء والمهارة القتالية.",
-  "poster_path": "/sgv6nwj1TlDDKqxbcUEuds8fqoz.jpg",
+  "poster_path": "/nyhBueT07zQS7wWLYFDNO8LdO3N.jpg",
   "backdrop_path": "/8b5yXvmWSOl64Abk1wMYhzs4OnP.jpg",
   "release_date": "2022-09-27",
   "vote_average": 8.3,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yang Zhigang Yang Xuwen Gao Siwen Chen Chuang Sun Xuening Yue Lina",
-  "first_air_date": "2022-09-27"
+  "first_air_date": "2022-09-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

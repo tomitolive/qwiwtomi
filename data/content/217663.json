@@ -46,5 +46,8 @@
   "language": "الإسبانية",
   "country": "Venezuela",
   "cast": "Emma Rabbe Guillermo Dávila Belén Marrero Mirla Castellanos Olga Castillo Marita Capote Sandra Bruzón Rolando Barral",
-  "first_air_date": "1990-10-24"
+  "first_air_date": "1990-10-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

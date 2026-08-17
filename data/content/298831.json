@@ -5,7 +5,7 @@
   "title_en": "A Livid Ladys Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
   "slug": "298831-a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
   "overview": "تدور أحداث مسلسل \"دليل سيدة غاضبة لتحقيق التعادل: كيف سحقت وطني مع جريمويري الأقوياء\" حول النبيلة إليزابيث التي تتعرض للخيانة علناً على يد ولي العهد وتُسجن، فتهرب من مملكتها مع الأساطير السبعة للجريموير. ومع مساعدة من فيكونت من دولة مجاورة، تعيد بناء حياتها وتخطط للانتقام من المملكة التي نبذتها. مسلسل رسوم متحركة مليء بالخيال العلمي والفانتازيا والمغامرة.",
-  "poster_path": "/61TfKgUhwJLpsEOsWQXu3ClKPNI.jpg",
+  "poster_path": "/qKICBVfmdC1M9A4NdzQrUabUBtW.jpg",
   "backdrop_path": "/pEv1seclJF9zSDbz0uVBkra1m1f.jpg",
   "release_date": "2026-07-06",
   "vote_average": 8.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Saori Onishi Ikumi Hasegawa Marika Kouno Shizuka Ishigami Yu Serizawa Masaaki Mizunaka Yohei Azakami Yui Ogura",
-  "first_air_date": "2026-07-06"
+  "first_air_date": "2026-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

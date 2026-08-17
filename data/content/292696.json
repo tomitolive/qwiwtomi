@@ -5,7 +5,7 @@
   "title_en": "The First Jasmine",
   "slug": "292696-the-first-jasmine",
   "overview": "تدور أحداث مسلسل \"الياسمين الأول\" حول ابنة يي لي الكبرى التي تتزوج من الأمير المعاق مو شياوياو، بينما تتزوج شقيقتها يي يينغ من الأمير مو جينغلي في نفس اليوم. تنتمي يي لي إلى سلالة ليشان، وتسعى سراً للانتقام ممن ظلم عشيرتها. يشك زوجها، الذي يخفي أيضاً خطة انتقام، في أمرها، لكنهما يتحدان تدريجياً. وفي الوقت نفسه، يدبر الأمير جينغلي مؤامرة للاستيلاء على العرش. وفي النهاية، تتحد يي لي مع مو شياوياو لهزيمة أعدائهما وإعادة السلام إلى الإمبراطورية. \"The First Jasmine\"، دراما صينية مشوقة.",
-  "poster_path": "/ulZWyKjqf0mFDrgo6vbV6Ax81fd.jpg",
+  "poster_path": "/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
   "backdrop_path": "/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
   "release_date": "2026-06-09",
   "vote_average": 9.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Bai Lu Ryan Cheng Cai Zhengjie Yang Shuyi Lin Muran Dong Jie",
-  "first_air_date": "2026-06-09"
+  "first_air_date": "2026-06-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

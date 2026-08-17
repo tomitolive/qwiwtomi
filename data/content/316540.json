@@ -5,7 +5,7 @@
   "title_en": "Bittersweet Love",
   "slug": "316540-bittersweet-love",
   "overview": "تدور أحداث مسلسل \"الحب الحلو والمر\" حول قصة حب ممنوعة ومؤثرة. يجد شاب فقير نفسه في زواج صوري، لكنه يقع في حب شقيق زوجته الأكبر، مخاطرًا بكل شيء من أجل الحب الممنوع. مسلسل \"Bittersweet Love\" يسلط الضوء على التحديات التي يواجهها الحب في ظل الظروف الصعبة.",
-  "poster_path": "/8cp0T45VlImvWqnuJXxTEoDwKjG.jpg",
+  "poster_path": "/ppKQOwGqFyuqgkzrrIZezsE2h6l.jpg",
   "backdrop_path": "/h8mYDKw3auZdTzEcDTRlQ7XQKQy.jpg",
   "release_date": "2026-07-03",
   "vote_average": 10.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Guan Yue Yan Ruihao Li Juexuan Han Minglin Zhao Yang Liu Yakun Wei Mingjia Ai Yi",
-  "first_air_date": "2026-07-03"
+  "first_air_date": "2026-07-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

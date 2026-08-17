@@ -5,7 +5,7 @@
   "title_en": "Mobile Suit Gundam SEED",
   "slug": "20111-mobile-suit-gundam-seed",
   "overview": "العصر الكوني 71. تطورت البشرية إلى نوعين فرعيين: السكان الأصليون، الذين يعيشون على الأرض، والمنسقون، وهم بشر مُحسَّنون جينيًا قادرون على تحمل قسوة الفضاء ويسكنون المدارات الفضائية.",
-  "poster_path": "/et7TAbuD2bF6QCdOyzv7Fxu15Aq.jpg",
+  "poster_path": "/rWgdDIq4JeaI36KdmLPkYcQjBQ3.jpg",
   "backdrop_path": "/otE9DjFrKMOv0Mkz1o7HfJGCvNF.jpg",
   "release_date": "2002-10-05",
   "vote_average": 7.5,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kenichi Suzumura Maaya Sakamoto Toshihiko Seki Fumiko Orikasa Mami Koyama Hiroki Takahashi Akira Ishida Soichiro Hoshi",
-  "first_air_date": "2002-10-05"
+  "first_air_date": "2002-10-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

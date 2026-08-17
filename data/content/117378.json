@@ -5,7 +5,7 @@
   "title_en": "Mouse",
   "slug": "117378-mouse",
   "overview": "لقد تركت جرائم القتل المتسلسلة الوحشية التي يرتكبها مريض نفسي الأمة بأكملها في حالة من الخوف والفوضى. ضابط شرطة مبتدئ نزيه يسعى لتحقيق العدالة ومحقق مخضرم له ماض مأساوي، يواجهان القاتل. بعد اللقاء مع المريض النفسي، تغيرت حياتهم تمامًا.",
-  "poster_path": "/w8ewfFKDTtZjPOIKlQ2lRYknG4D.jpg",
+  "poster_path": "/nU9egcLr002U23IPBqoCWqXkdwf.jpg",
   "backdrop_path": "/ikU9een11dr6UFy0XzQMJv3YJQq.jpg",
   "release_date": "2021-03-03",
   "vote_average": 8.4,
@@ -62,5 +62,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Lee Seung-gi Lee Hee-jun Park Ju-hyun Kwon Hwa-woon Kyung Soo-jin Woo Ji-hyun Jo Jae-yun Kim Young-jae",
-  "first_air_date": "2021-03-03"
+  "first_air_date": "2021-03-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

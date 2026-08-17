@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Charlie Day Glenn Howerton Rob Mac Kaitlin Olson",
-  "first_air_date": "2005-08-04"
+  "first_air_date": "2005-08-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

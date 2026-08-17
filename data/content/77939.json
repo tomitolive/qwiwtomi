@@ -5,7 +5,7 @@
   "title_en": "MEGALOBOX",
   "slug": "77939-megalobox",
   "overview": "في الأحياء العشوائية لمدينة مستقبلية، الملاكم المعروف فقط باسم \"جنك دوغ\" - ليس لديه اسم ولا ماض - يقوم بحملات قتال - ميقالوبوكس- مع شريكه - نانبو - في الساحات تحت الأرض. كل هذا يتغيير عندما تكون لديه الفرصة للقاء البطل يوري.",
-  "poster_path": "/uXdCzwsA4pWI8J5mohaJqsVFFn0.jpg",
+  "poster_path": "/mfXCEFdiMMWEUCGcCbdEo7bfhKK.jpg",
   "backdrop_path": "/l3uSouoBpxN3aanoD5PiiBz1DBm.jpg",
   "release_date": "2018-04-06",
   "vote_average": 7.9,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yoshimasa Hosoya Hiroki Yasumoto Michiyo Murase Nanako Mori Tatsuhisa Suzuki",
-  "first_air_date": "2018-04-06"
+  "first_air_date": "2018-04-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Chucky",
   "slug": "90462-chucky",
   "overview": "بعد ظهور دمية تشاكي القديمة في ساحة بيع في إحدى ضواحي المدينة تدخل مدينة أمريكية في حالة من الفوضى مع بدء سلسلة من عمليات القتل المرعبة التي تفضح نفاق المدينة وأسرارها",
-  "poster_path": "/pNinTpYIMeRl5lO61UoY6HUwsBn.jpg",
+  "poster_path": "/sdCJbGkvnIsIKLxaFQrviriODVq.jpg",
   "backdrop_path": "/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
   "release_date": "2021-10-12",
   "vote_average": 7.8,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Zackary Arthur Björgvin Arnarson Alyvia Alyn Lind Brad Dourif",
-  "first_air_date": "2021-10-12"
+  "first_air_date": "2021-10-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

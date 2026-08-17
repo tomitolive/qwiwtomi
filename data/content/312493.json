@@ -5,7 +5,7 @@
   "title_en": "Viral Hit",
   "slug": "312493-viral-hit",
   "overview": "تتحول حياة المراهق الذي يتعرض للتنمر إلى شهرة بين ليلة وضحاها بعد انتشار فيديو له على الإنترنت. لكن عندما تنقلب شهرته الجديدة إلى تجربة مريرة، يتعين عليه تعلم كيفية الدفاع عن نفسه. \"ضرب الفيروسية\" مسلسل درامي ومغامرات مثير يسلط الضوء على رحلة بطلنا الشاب.",
-  "poster_path": "/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+  "poster_path": "/kllmJ1DdzuRszNNwFFu0M7V55Fg.jpg",
   "backdrop_path": "/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
   "release_date": "2026-06-11",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ouji Suzuka Ai Mikami Araki Sugou Meru Nukumi Noritaka Hamao Mieko Harada Takuro Osada Nana Asakawa",
-  "first_air_date": "2026-06-11"
+  "first_air_date": "2026-06-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

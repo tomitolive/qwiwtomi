@@ -5,7 +5,7 @@
   "title_en": "The Hawk",
   "slug": "254528-the-hawk",
   "overview": "في الفصل الأخير من مسيرته المهنية، يسعى أسطورة الغولف \" لوني هوكينز\" الملقب بـ\"الصقر\" للفوز بآخر بطولة كبرى... ويورّط كل من يحبهم معه وسط دوامة من الفوضى.",
-  "poster_path": "/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg",
+  "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
   "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg",
   "release_date": "2026-07-16",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Will Ferrell Molly Shannon Jimmy Tatro Fortune Feimster Luke Wilson Chris Parnell Katelyn Tarver David Hornsby",
-  "first_air_date": "2026-07-16"
+  "first_air_date": "2026-07-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

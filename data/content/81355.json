@@ -5,7 +5,7 @@
   "title_en": "When They See Us",
   "slug": "81355-when-they-see-us",
   "overview": "يعلق خمسة مراهقين من \"هارلم\" داخل كابوس سلبهم حرّيتهم حين يُتّهمون زورًا بارتكاب اعتداء وحشي في \"سنترال بارك\"...",
-  "poster_path": "/K1nwVAAJgbBdfNSXm5S1GezBMz.jpg",
+  "poster_path": "/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg",
   "backdrop_path": "/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
   "release_date": "2019-05-31",
   "vote_average": 8.2,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Asante Blackk Jharrel Jerome Ethan Herisse Marquis Rodriguez Caleel Harris Marsha Stephanie Blake Michael Kenneth Williams John Leguizamo",
-  "first_air_date": "2019-05-31"
+  "first_air_date": "2019-05-31",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

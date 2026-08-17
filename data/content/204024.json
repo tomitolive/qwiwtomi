@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ron Funches Thomas Lennon Carlos Alazraqui",
-  "first_air_date": "2024-02-12"
+  "first_air_date": "2024-02-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

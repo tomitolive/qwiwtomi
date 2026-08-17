@@ -5,7 +5,7 @@
   "title_en": "Inspector Rex",
   "slug": "994-inspector-rex",
   "overview": "استمتع بمشاهدة مسلسل Kommissar Rex مترجم بجودة عالية.",
-  "poster_path": "/flrXP1FMoXqZGwENQ5dZQ2ZADla.jpg",
+  "poster_path": "/tCzMaMoOdA1cPzV3Ll32ftg3EVO.jpg",
   "backdrop_path": "/6x0qhCN23KE2NMOvMLVxFWYlsDd.jpg",
   "release_date": "1994-11-10",
   "vote_average": 7.2,
@@ -62,5 +62,8 @@
   "language": "الألمانية",
   "country": "Austria",
   "cast": "Alexander Pschill Elke Winkens Martin Weinek Gerhard Zemann",
-  "first_air_date": "1994-11-10"
+  "first_air_date": "1994-11-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

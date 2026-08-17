@@ -50,5 +50,8 @@
   "language": "الفرنسية",
   "country": "فرنسا",
   "cast": "Cyril Féraud Yann Le Gac Willy Rovelli André Bouchet Anthony Laborde Delphine Wespiser Monique Angeon Amadou Konez",
-  "first_air_date": "1990-07-07"
+  "first_air_date": "1990-07-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

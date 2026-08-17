@@ -5,7 +5,7 @@
   "title_en": "Notes from the Last Row",
   "slug": "286360-notes-from-the-last-row",
   "overview": "حين يكتشف أستاذ أدب موهبة استثنائية لدى أحد طلابه، يعرض عليه مساعدته في الكتابة، لكن هوسه المتزايد بالقصة يدفع الأمور إلى منحى خطير.",
-  "poster_path": "/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+  "poster_path": "/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
   "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
   "release_date": "2026-06-26",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Choi Min-sik Choi Hyun-wook Huh Joon-ho Yunjin Kim Jin Kyung Lee Jin-woo Han Ji-eun",
-  "first_air_date": "2026-06-26"
+  "first_air_date": "2026-06-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

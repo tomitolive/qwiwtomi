@@ -5,7 +5,7 @@
   "title_en": "The Loyal Pin",
   "slug": "238754-the-loyal-pin",
   "overview": "تتبع هذه الدراما الرائعة قصة الليدي دبوس، السيدة المهذبة، والأميرة أنيلافات المشاكسة ولكنها ساحرة الجمال. تجمعهما الأقدار معًا وينموان معًا منذ ذلك الحين. \"الدبوس المخلص\"، مسلسل درامي ممتع يسلط الضوء على الصداقة الفريدة بينهما. لا تفوتوا متابعة هذا المسلسل الشيق!",
-  "poster_path": "/Afop0GW5UNjpVgo1UofebMF2EbQ.jpg",
+  "poster_path": "/N6S8OSnihCpuDWMpeaT9gAo7SJ.jpg",
   "backdrop_path": "/atnFseGbEI9nIRK9SDk3hHQVYQi.jpg",
   "release_date": "2024-08-04",
   "vote_average": 9.5,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Thailand",
   "cast": "Becky Armstrong Sarocha Chankimha Irvin Osathanond Alicia Laisuthruklai Apinun Prasertwattanakul Orntara Poolsak Kanin Stanley Danny Luciano",
-  "first_air_date": "2024-08-04"
+  "first_air_date": "2024-08-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

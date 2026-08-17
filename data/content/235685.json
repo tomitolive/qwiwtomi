@@ -5,7 +5,7 @@
   "title_en": "The Pendragon Cycle: Rise of the Merlin",
   "slug": "235685-the-pendragon-cycle-rise-of-the-merlin",
   "overview": "تدور أحداث \"دورة Pendragon: صعود ميرلين\" حول حياة ميرلين، ابن الشاعر تاليسين والأميرة الأطلنطية شاريس، منذ نشأته المأساوية وحتى اختفائه المفاجئ الذي أدى إلى نشوء الأساطير حوله. تسبق الأحداث ولادة الملك آرثر، حيث يعود ميرلين، الذي كان يُفترض أنه ميت أو أسطورة، إلى بريطانيا الفرعية لتوحيد الممالك الممزقة تحت تهديد الغزاة الساكسونيين. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
-  "poster_path": "/gUooqhhzLVwDuyUZpZlscT9IzXY.jpg",
+  "poster_path": "/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
   "backdrop_path": "/lDmFwAaHL1kXnAfZeUTieAdUTko.jpg",
   "release_date": "2026-01-22",
   "vote_average": 7.9,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "Hungary",
   "cast": "Tom Sharp Rose Reid",
-  "first_air_date": "2026-01-22"
+  "first_air_date": "2026-01-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

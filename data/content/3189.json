@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Andy Richter Rebecca Creskoff Jake McDorman Johnny Lewis April Matson Sarah Wright Ryan Pinkston",
-  "first_air_date": "2004-06-16"
+  "first_air_date": "2004-06-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

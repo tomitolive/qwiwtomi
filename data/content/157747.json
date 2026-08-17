@@ -5,7 +5,7 @@
   "title_en": "Transformers: EarthSpark",
   "slug": "157747-transformers-earthspark",
   "overview": "استمتع بمشاهدة مسلسل المحولات: إيرث سبارك مترجم بجودة عالية.",
-  "poster_path": "/vf21EdFr2C6Fq2aT5RWhfFHbK6S.jpg",
+  "poster_path": "/jLwU37QusZDkkOuFNb1TA6NQZNT.jpg",
   "backdrop_path": "/gzVkLZOM0er10OwEUJyhl9G7oE7.jpg",
   "release_date": "2022-11-11",
   "vote_average": 7.2,
@@ -70,5 +70,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "Danny Pudi Kathreen Khavari Zeno Robinson Sydney Mikayla Zion Broadnax Jon Jon Briones Alan Tudyk Rory McCann",
-  "first_air_date": "2022-11-11"
+  "first_air_date": "2022-11-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

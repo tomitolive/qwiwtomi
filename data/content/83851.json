@@ -5,7 +5,7 @@
   "title_en": "The Undoing",
   "slug": "83851-the-undoing",
   "overview": "تركز هذه السلسلة المحدودة المؤثرة على جريس وجوناثان فريزر ، اللذين بدأت حياتهما في الانهيار بعد موت عنيف وسلسلة من الإكتشافات الرهيبة.",
-  "poster_path": "/mILplbs04vVro4RUh4bmr8Poh8v.jpg",
+  "poster_path": "/3tDbJxobPN3EI2bBebL6zmusmw5.jpg",
   "backdrop_path": "/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg",
   "release_date": "2020-10-25",
   "vote_average": 7.4,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Nicole Kidman Hugh Grant Edgar Ramírez Noah Jupe Lily Rabe Matilda De Angelis Ismael Cruz Cordova Edan Alexander",
-  "first_air_date": "2020-10-25"
+  "first_air_date": "2020-10-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

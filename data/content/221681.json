@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Caprice Coleman Ian Riccaboni",
-  "first_air_date": "2023-03-02"
+  "first_air_date": "2023-03-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

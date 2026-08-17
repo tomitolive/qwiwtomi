@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "Hong Kong",
   "cast": "Wong San Leung Bo-Ching Lee Ngo Lucia Leung Bik-Ling Lee Shing-Cheong Leung Chung-Fun Johnny Ngan Kwok-Leung Felton Law Gwan-Joh",
-  "first_air_date": "1981-06-08"
+  "first_air_date": "1981-06-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

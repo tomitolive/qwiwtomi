@@ -5,7 +5,7 @@
   "title_en": "The Big Game",
   "slug": "107703-the-big-game",
   "overview": "استمتع بمشاهدة مسلسل اللعبة الكبيرة مترجم بجودة عالية.",
-  "poster_path": "/aSbxUTqy0TRRBIXrdgFzsSLvvtU.jpg",
+  "poster_path": "/chLNbjo3QV6Sw47dH5W8ZxArBYb.jpg",
   "backdrop_path": "/z095rHEgB5T91bw19WN849xTr5u.jpg",
   "release_date": "2020-08-31",
   "vote_average": 7.4,
@@ -54,5 +54,8 @@
   "language": "الروسية",
   "country": "روسيا",
   "cast": "Igor Vernik Vladimir Verevochkin Andrey Chadov Linda Lapinsh Elena Andreeva Denis Kotov Aleksey Chadov Anastasiya Todorescu",
-  "first_air_date": "2020-08-31"
+  "first_air_date": "2020-08-31",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Malaysia",
   "cast": "",
-  "first_air_date": "1960-12-09"
+  "first_air_date": "1960-12-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

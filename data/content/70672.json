@@ -5,7 +5,7 @@
   "title_en": "Men on a Mission",
   "slug": "70672-men-on-a-mission",
   "overview": "يلعب المشاهير الذكور دورا خياليا كطلاب في المدارس الثانوية، ويرحبون بطلاب نقل النجوم كل أسبوع وينخرطون في معارك من الفكاهة البارعة والتهريج.",
-  "poster_path": "/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+  "poster_path": "/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
   "backdrop_path": "/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
   "release_date": "2015-12-05",
   "vote_average": 7.4,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Young-cheol Min Kyung-hoon Kang Ho-dong Lee Su-geun Kim Hee-chul Seo Jang-hoon Lee Sang-min",
-  "first_air_date": "2015-12-05"
+  "first_air_date": "2015-12-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Ride or Die",
   "slug": "241882-ride-or-die",
   "overview": "مسلسل \"ركوب أو يموت\"، أو \"Ride  Die\"، هو دراما مليئة بالإثارة والتشويق. تدور أحداثه حول الصديقتين المقربتين جوديث وديببي، اللتين تكتشفان أسراراً صادمة عن بعضهما البعض. فجوديث تعيش حياة مزدوجة كقاتلة محترفة، وعندما تسوء الأمور، تجد الصديقتان نفسيهما في رحلة هروب محفوفة بالمخاطر، بينما يسعى عدو غامض للقضاء عليهما. هل ستتمكنان من حل اللغز المعقد وإصلاح صداقتهما؟",
-  "poster_path": "/6HxyIZbnynMz18BzFesxn54Pfkw.jpg",
+  "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
   "backdrop_path": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
   "release_date": "2026-07-15",
   "vote_average": 3.5,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Hannah Waddingham Octavia Spencer Bill Nighy Ed Skrein",
-  "first_air_date": "2026-07-15"
+  "first_air_date": "2026-07-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

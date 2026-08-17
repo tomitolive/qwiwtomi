@@ -5,7 +5,7 @@
   "title_en": "The Map of Longing",
   "slug": "288671-the-map-of-longing",
   "overview": "تابع مسلسل \"El    \" (خريطة الأماني)، حيث تدور أحداثه حول رحلة اكتشاف الذات التي تخوضها غريدا بعد أن تترك لها أختها لوسي لعبة قبل وفاتها، مما يدفعها نحو ويل تاكر الساحر. لا تفوت مشاهدة هذا المسلسل الدرامي الشيق.",
-  "poster_path": "/x3nXE77C7DpPA8172UDEm5bBFJe.jpg",
+  "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
   "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
   "release_date": "2026-07-17",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Alícia Falcó Pablo Álvarez Georgina Amorós Laia Marull Mario de la Rosa Ramón Barea",
-  "first_air_date": "2026-07-17"
+  "first_air_date": "2026-07-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

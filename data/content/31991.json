@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "",
-  "first_air_date": "2010-02-23"
+  "first_air_date": "2010-02-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

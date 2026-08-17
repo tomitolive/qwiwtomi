@@ -42,5 +42,8 @@
   "language": "الإسبانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Moe Howard Larry Fine Curly Howard",
-  "first_air_date": ""
+  "first_air_date": "",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

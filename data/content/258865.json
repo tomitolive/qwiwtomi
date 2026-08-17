@@ -5,7 +5,7 @@
   "title_en": "Love Beyond the Grave",
   "slug": "258865-love-beyond-the-grave",
   "overview": "تدور أحداث مسلسل \"الحب وراء القبر\" حول لقاء غير متوقع بين الملك الشبح الموهوب بشكل استثنائي، هه سيميو، والجنرال الشاب، دوآن زو، أثناء استراحة الأول للبحث عن الطعام. يبدو أن هذا الجنرال الشاب، الذي يحمل شيئًا ينتمي إلى شخص من ماضي هه سيميو، ليس دوآن زو الحقيقي. وبينما يختبر كل منهما الآخر من خلال تبادل خفي، يكشف هه سيميو تدريجيًا عن الماضي المظلم والطموحات المخبأة في قلب دوآن زو. وفي المقابل، يكتشف دوآن زو الثبات والوحدة التي تحملها هه سيميو. وعلى الرغم من قصر عمر البشر، الذي لا يتجاوز المائة عام، والملك الشبح الذي يبلغ من العمر أربعمائة عام ولا يزال يحتفظ بمظهر الفتاة الصغيرة، إلا أن حبهما يقاوم مرور الزمن.",
-  "poster_path": "/Av5Bpf3nAMPDQFx3iVAy4m6bntY.jpg",
+  "poster_path": "/ygnrFg8oXpFFVDnb2u0xkWfxjbC.jpg",
   "backdrop_path": "/rDQjoxB9RssdpcAysGhorjtTA6i.jpg",
   "release_date": "2026-03-28",
   "vote_average": 8.1,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Dilraba Dilmurat Arthur Chen Miles Wei Zhang Li Gao Han Yang Xizi",
-  "first_air_date": "2026-03-28"
+  "first_air_date": "2026-03-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

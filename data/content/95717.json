@@ -5,7 +5,7 @@
   "title_en": "Someday or One Day",
   "slug": "95717-someday-or-one-day",
   "overview": "مسلسل \"يومًا ما أو يومًا ما\" هو دراما غامضة ومليئة بالخيال العلمي والفانتازيا. تدور أحداثه حول يوهسوان التي فقدت حبيبها تشوان شينغ في حادث طائرة، لتكتشف لاحقًا وجود صورة له مع فتاة تشبهها التقطت في عام 1998. وبشكل غير متوقع، تعود يوهسوان إلى عام 1998 وتلتقي بشاب يشبه تشوان شينغ. هل يمكن أن يكون هناك تفسير خارق للطبيعة وراء هذا التشابه؟",
-  "poster_path": "/i7mnRRCpjEgTeh7zpaIwliQWSDI.jpg",
+  "poster_path": "/tZF4fNtVSeTPSp0k2jp4qrupgbb.jpg",
   "backdrop_path": "/7lAXqljndcY4SI62W3YT06Men0M.jpg",
   "release_date": "2019-11-17",
   "vote_average": 9.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "Hong Kong",
   "cast": "Ko Chia-Yen Greg Hsu Patrick Shih Kenny Yen Yen Yi-wen Chang Han Lin He-hsuan Jacqueline Zhu",
-  "first_air_date": "2019-11-17"
+  "first_air_date": "2019-11-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Ferry: The Series",
   "slug": "196857-ferry-the-series",
   "overview": "في خضم بحثه اليائس عن تمويل، يحظى \"فيري بومان\" بفرصة ذهبية مصادفةً حين تُخلّف عملية اعتقال رفيعة المستوى مكانًا شاغرًا بين أكبر مروجي المخدرات في \"برابانت\" .",
-  "poster_path": "/nrshB9iOHCzxvqA9O9nZLMW8Yw.jpg",
+  "poster_path": "/sDh60bk0gh4VQKtvfWPOW9YsTcu.jpg",
   "backdrop_path": "/dTOm3ubAVOCgtY6OffXwSYruFS1.jpg",
   "release_date": "2023-11-03",
   "vote_average": 7.2,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "Belgium",
   "cast": "Frank Lammers Elise Schaap Raymond Thiry Yannick van de Velde Tim Haars Huub Smit Tygo Gernandt Poal Cairo",
-  "first_air_date": "2023-11-03"
+  "first_air_date": "2023-11-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Stand-up Comedy",
   "slug": "261471-stand-up-comedy",
   "overview": "مسلسل \"Ta\" هو برنامج مسابقة كوميدية احترافية، حيث يدعو فنانين متميزين في مجال الستاند أب كوميدي من مختلف أنحاء العالم لمشاركة لحظات السعادة ونشر روح الفكاهة والإيجابية. يسلط البرنامج الضوء على مواهب كوميدية رائعة في \"Stand- Comedy\".",
-  "poster_path": "/j0HNHpQzWZPVUjjmBULIvG6oCWq.jpg",
+  "poster_path": "/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
   "backdrop_path": "/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
   "release_date": "2024-08-20",
   "vote_average": 5.8,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Wowkie Zhang Wei Chen Luyu Zhou Shen Niao Niao Zhang Shaogang 贾耗 张骏 步惊云",
-  "first_air_date": "2024-08-20"
+  "first_air_date": "2024-08-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "The East Palace",
   "slug": "279323-the-east-palace",
   "overview": "يدخل خبير في عالم الأرواح وشابّة من البلاط تستطيع سماع أصوات الموتى إلى \"القصر الشرقي\" بأمر من الملك... فهل يتمكّنان من كشف أسراره المظلمة؟",
-  "poster_path": "/gLMzMmN9sfxggkA3Xamuti7GjGK.jpg",
+  "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
   "backdrop_path": "/vmbCoMrDtIo4LLW38WsNWJUyOhu.jpg",
   "release_date": "2026-07-17",
   "vote_average": 10.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Nam Joo-hyuk Roh Yoon-seo Cho Seung-woo Park Soo-yeon Jang Young-nam",
-  "first_air_date": "2026-07-17"
+  "first_air_date": "2026-07-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

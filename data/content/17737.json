@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "البرازيل",
   "cast": "Roberto Kovalick",
-  "first_air_date": "1971-04-21"
+  "first_air_date": "1971-04-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

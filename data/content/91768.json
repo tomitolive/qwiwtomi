@@ -5,7 +5,7 @@
   "title_en": "Ascendance of a Bookworm",
   "slug": "91768-ascendance-of-a-bookworm",
   "overview": "تتوفّى عثّة كتُب نهِمة وطالبة الكلّية موتوسو أورانو على إثر حادِث قد وقع معها مباشرة بعد وصول خبر تعيينها كأمينة مكتبة وهو ما كانت تحلم به طوال حياتها. ما إن استعادت وعيها، حتّى وجدتْ نفسها باسم ماين وابنة لجنديّ فقير وتعيش في بلدة تتّبع نظاماً طبقياً قاسياً. لكن ما دامت ماين تمتلك كتباً، فإنّها لا تحتاج لأي شيء آخر. غير أنّ الكتُب في هذا العالم كانت نادرة ولا يشتريها إلّا النبلاء. لم يمنعها ذلك من اتّخاذها قراراً ألا وهو \"إن لم يكن هناك أي كتاب، فسأصنع كتباً بنفسي\"",
-  "poster_path": "/nDHyBwYBoBkHMj4oWKEW9H1LKVQ.jpg",
+  "poster_path": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
   "backdrop_path": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
   "release_date": "2019-10-03",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuka Iguchi Show Hayami Mutsumi Tamura Takehito Koyasu Megumi Nakajima Tsuyoshi Koyama Fumiko Orikasa Tomoaki Maeno",
-  "first_air_date": "2019-10-03"
+  "first_air_date": "2019-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

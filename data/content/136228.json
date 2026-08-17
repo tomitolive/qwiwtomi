@@ -5,7 +5,7 @@
   "title_en": "Pa Quererte",
   "slug": "136228-pa-quererte",
   "overview": "با كويرتي، مسلسل درامي كوميدي عائلي، يسلط الضوء على قصص الحب والعلاقات المعقدة. تدور أحداث المسلسل حول عائلة واحدة وصراعاتها اليومية، مع لمسة من الرومانسية والدراما. با كويرتي Pa Quererte، هو مسلسل ممتع ومشوق، يجمع بين عناصر الدراما والأوبرا الصابونية، ويحظى بشعبية واسعة بين المشاهدين.",
-  "poster_path": "/yVq9cbegB2Ft9o8VDMiHcc0BnkV.jpg",
+  "poster_path": "/nIRGpLrNZnrwVzujj8DSayZpeOk.jpg",
   "backdrop_path": "/va8cLePI0khniYu6luIHcdXrzMg.jpg",
   "release_date": "2020-01-07",
   "vote_average": 9.0,
@@ -54,5 +54,8 @@
   "language": "الإسبانية",
   "country": "كولومبيا",
   "cast": "Sebastián Martínez Juliette Pardau Hanny Vizcaino Carlos Camacho Luis Eduardo Arango Manuel Sarmiento Laura de León Diana Wiswell",
-  "first_air_date": "2020-01-07"
+  "first_air_date": "2020-01-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

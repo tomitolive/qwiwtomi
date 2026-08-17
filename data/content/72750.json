@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Sandra Oh Jodie Comer Fiona Shaw Kim Bodnia Camille Cottin Robert Gilbert Anjana Vasan",
-  "first_air_date": "2018-04-08"
+  "first_air_date": "2018-04-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

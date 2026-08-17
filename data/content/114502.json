@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Owen Wilson Larry the Cable Guy",
-  "first_air_date": "2022-09-08"
+  "first_air_date": "2022-09-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

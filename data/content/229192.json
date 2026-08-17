@@ -5,7 +5,7 @@
   "title_en": "The Demon Hunter",
   "slug": "229192-the-demon-hunter",
   "overview": "شهد مينغ تشوان مقتل والدته أمام عينيه، فتدرب بجدٍّ على أمل أن ينتقم لموتها يومًا ما. لكن أيامه الهادئة لم تدم طويلًا، إذ أُلغيت خطوبته، وهو أمرٌ غير متوقع.",
-  "poster_path": "/oF48FTeSqd1AIUVsMVXTAGriObV.jpg",
+  "poster_path": "/vbbWp3NKWQ02djYWLE0KBmbNUch.jpg",
   "backdrop_path": "/7LzHgJ0OZJeG3eljeISJ09BdaaF.jpg",
   "release_date": "2023-06-22",
   "vote_average": 9.2,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Sanshi Duan Yixuan Liangwei Hu Ma Zhengyang Ma Haifeng Xia Michen Liu Qianhan Zhengjian Hu",
-  "first_air_date": "2023-06-22"
+  "first_air_date": "2023-06-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

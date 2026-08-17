@@ -5,7 +5,7 @@
   "title_en": "Kill la Kill",
   "slug": "60728-kill-la-kill",
   "overview": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
-  "poster_path": "/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+  "poster_path": "/4F1WtP3dFIwLPOfa3u29VEVnNkf.jpg",
   "backdrop_path": "/hsmYzDPyfiv3IlkxZsbeO92C7mP.jpg",
   "release_date": "2013-10-04",
   "vote_average": 8.2,
@@ -60,5 +60,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ami Koshimizu Ryoka Yuzuki Aya Suzaki Akio Nojima Katsuyuki Konishi Hiroyuki Yoshino Tetsu Inada Romi Park",
-  "first_air_date": "2013-10-04"
+  "first_air_date": "2013-10-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

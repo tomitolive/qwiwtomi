@@ -5,7 +5,7 @@
   "title_en": "Adventure Time: Side Quests",
   "slug": "256694-adventure-time-side-quests",
   "overview": "تابع مغامرات البطل الشاب فين وكلبة السحري جيك في أرض أوو الخيالية في مسلسل \"وقت المغامرة: المهام الجانبية\"، حيث يخوضان مغامرات شيقة ويواجهان الأشرار في كل حلقة. استمتع بمشاهدة هذا المسلسل الممتع والمليء بالتشويق.",
-  "poster_path": "/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg",
+  "poster_path": "/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
   "backdrop_path": "/t340OwPGWrAftuGwfcekWJeqpKk.jpg",
   "release_date": "2026-06-29",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "John DiMaggio Sasha Knight Tom Kenny Hynden Walch Olivia Olson Niki Yang",
-  "first_air_date": "2026-06-29"
+  "first_air_date": "2026-06-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "The Ferry Man 10th Anniversary",
   "slug": "289147-the-ferry-man-10th-anniversary",
   "overview": "استمتع بمشاهدة مسلسل The Ferry Man 10th Anniversary مترجم بجودة عالية.",
-  "poster_path": "/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+  "poster_path": "/9ilVMG2ueA0xrviD0A9WoluAcnF.jpg",
   "backdrop_path": "/a84FbktGASmCKmbvEVBD3U0x3LH.jpg",
   "release_date": "2026-06-02",
   "vote_average": 9.5,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yu Yi Liu Zhiyang Xiao Yin",
-  "first_air_date": "2026-06-02"
+  "first_air_date": "2026-06-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

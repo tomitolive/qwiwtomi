@@ -5,7 +5,7 @@
   "title_en": "Paradise Hotel",
   "slug": "36109-paradise-hotel",
   "overview": "مسلسل \"فندق بارادايس\" أو \"Paradise Hotel\" هو برنامج واقع نرويجي مثير. يصور حياة الفتيات والفتيان النرويجيين في فندق فاخر في المكسيك، حيث تديره تريانا إيغليسياس. مع إطلالات رائعة ومسبح مذهل، تروي الكاميرات قصص ما يحدث عندما يلتقي العزاب في أجواء الفندق الحارة. المهمة بسيطة: إيجاد شريك أو المغادرة.",
-  "poster_path": "/awiU67ZYSwEOwWnIbjyQ5x9Dmyv.jpg",
+  "poster_path": "/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
   "backdrop_path": "/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
   "release_date": "2009-03-09",
   "vote_average": 5.2,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المكسيك",
   "cast": "Triana Iglesias",
-  "first_air_date": "2009-03-09"
+  "first_air_date": "2009-03-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

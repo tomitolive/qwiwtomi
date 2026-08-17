@@ -27,7 +27,6 @@
   "ai_content": {
     "intro": "استمتع بمشاهدة مسلسل The Gumball Chronicles (2020) مترجم بجودة عالية على توميتو.",
     "desc_ar": "مسلسل The Gumball Chronicles هو سلسلة قصيرة مشتقة من المسلسل الشهير The Amazing World of Gumball، حيث يعرض مقاطع من حلقات سابقة مع بعض المحتوى الجديد.",
-
     "seo_title_ar": "مشاهدة مسلسل The Gumball Chronicles مترجم - توميتو",
     "meta_desc": "The Gumball Chronicles is a fun mini-series for kids, featuring beloved characters from The Amazing World of Gumball.",
     "outro": "شاهد The Gumball Chronicles الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
@@ -48,5 +47,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Duke Cutler Christian J. Simon Kyla Kowalewski Teresa Gallagher Dan Russell Logan Grove Jacob Hopkins Nicolas Cantu",
-  "first_air_date": "2020-10-05"
+  "first_air_date": "2020-10-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

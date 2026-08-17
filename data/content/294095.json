@@ -5,7 +5,7 @@
   "title_en": "A Bona Fide Killer",
   "slug": "294095-a-bona-fide-killer",
   "overview": "تعود قاتلة مأجورة تعمل لصالح منظمة سرية بعد إجازة أمومة دامت ثلاث سنوات. يزداد شك زوجها الصحفي ويسعى لكشف حياتها السرية.",
-  "poster_path": "/eG7xO1Ac7k7sTxRcS34XScWUyui.jpg",
+  "poster_path": "/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
   "backdrop_path": "/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
   "release_date": "2026-07-31",
   "vote_average": 10.0,
@@ -54,5 +54,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Gong Hyo-jin Jung Jun-won Lee Sang-yi Sung Dong-il Moo Jin-sung Lee Eun-saem Choi Woo-sung",
-  "first_air_date": "2026-07-31"
+  "first_air_date": "2026-07-31",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

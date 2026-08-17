@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Selleck Donnie Wahlberg Bridget Moynahan Will Estes Len Cariou Gregory Jbara Abigail Hawk",
-  "first_air_date": "2010-09-24"
+  "first_air_date": "2010-09-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Jamai Raja",
   "slug": "100780-jamai-raja",
   "overview": "يُعد مسلسل \"جامع رجا\" دراما عائلية مشوقة، حيث يتناول قصة سيدارث، صاحب الفندق، الذي يتولى مسؤولية إصلاح العلاقة بين زوجته المستقلة، روشني، ووالدتها الطموحة، دورجا ديفي. تدور أحداث المسلسل حول الصراعات العائلية والتحديات التي يواجهها سيدارث في رحلته لإعادة بناء الروابط الأسرية. \"جامع رجا: Jamai Raja\"، مسلسل درامي ممتع يسلط الضوء على العلاقات المعقدة بين الأجيال المختلفة.",
-  "poster_path": "/nO0Fuq4xdraqgHVSXk1pEPq9JM2.jpg",
+  "poster_path": "/7TDfSot51AFRK8aFs2kO3snM4um.jpg",
   "backdrop_path": "/aSxmk7crbJKSwRXagAN1uvvc80i.jpg",
   "release_date": "2014-08-04",
   "vote_average": 5.5,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الهند",
   "cast": "Ravi Dubey Nia Sharma Achint Kaur",
-  "first_air_date": "2014-08-04"
+  "first_air_date": "2014-08-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

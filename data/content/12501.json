@@ -5,7 +5,7 @@
   "title_en": "Kaleido Star",
   "slug": "12501-kaleido-star",
   "overview": "استمتع بمشاهدة مسلسل كاليدو ستار مترجم بجودة عالية.",
-  "poster_path": "/i9YETMIFiuV0rFcyOdsmysRXrri.jpg",
+  "poster_path": "/1ihfBrym5DL1kRX3dPmORkiQGWN.jpg",
   "backdrop_path": "/bEtJQnmMkSd4GPewIv1yC9lDudf.jpg",
   "release_date": "2003-04-03",
   "vote_average": 7.6,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ryo Hirohashi Takehito Koyasu Etsuko Kozakura Kaori Mizuhashi Takahiro Sakurai Hiro Shimono Keiji Fujiwara Aya Hisakawa",
-  "first_air_date": "2003-04-03"
+  "first_air_date": "2003-04-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

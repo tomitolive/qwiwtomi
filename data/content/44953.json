@@ -5,7 +5,7 @@
   "title_en": "El Seor de los Cielos",
   "slug": "44953-el-seor-de-los-cielos",
   "overview": "استمتع بمشاهدة مسلسل El     مترجم بجودة عالية.",
-  "poster_path": "/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+  "poster_path": "/zK0NpiPjnWVDvJ9grYuIAiVIonX.jpg",
   "backdrop_path": "/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
   "release_date": "2013-04-15",
   "vote_average": 8.0,
@@ -62,5 +62,8 @@
   "language": "الإسبانية",
   "country": "المكسيك",
   "cast": "Rafael Amaya Isabella Castillo Carmen Aub Denia Agalianou Wendy de los Cobos Carlos Corona Roberto Sosa Robinson Díaz",
-  "first_air_date": "2013-04-15"
+  "first_air_date": "2013-04-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

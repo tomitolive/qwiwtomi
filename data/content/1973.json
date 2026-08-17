@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Kiefer Sutherland Mary Lynn Rajskub Kim Raver Yvonne Strahovski Tate Donovan William Devane",
-  "first_air_date": "2001-11-06"
+  "first_air_date": "2001-11-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

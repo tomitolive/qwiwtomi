@@ -5,7 +5,7 @@
   "title_en": "You and I Are Polar Opposites",
   "slug": "278043-you-and-i-are-polar-opposites",
   "overview": "أنت وأنا قطبان متضادان، مسلسل رسوم متحركة كوميدي. تدور أحداث القصة حول سوزوكي، الفتاة المراهقة العاشقة، التي وقعت في حب شخص يختلف عنها تمامًا! فبينما هي مرحة ومنفتحة وتحاول دائمًا التكيف مع الآخرين، فإن زميلها في الفصل يوسوكي تاني شخص منطوٍ وهادئ ولا يبدو أنه يهتم برأي الناس فيه. هل ستتمكن سوزوكي من التغلب على مخاوفها وطلب مواعدته، أم ستكتشف أن المتناقضات لا تجذب بعضها البعض حقًا؟",
-  "poster_path": "/lLjcMT7fwuO5fgswb2drlbFwoTJ.jpg",
+  "poster_path": "/9hRuMU33DBz4z1vaYBRqLLuFFbQ.jpg",
   "backdrop_path": "/5p423VlhPXf7681XyZCL4khIJLl.jpg",
   "release_date": "2026-01-11",
   "vote_average": 8.4,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Sayumi Suzushiro Shogo Sakata Yuna Taniguchi Konatsu Hirabayashi Anji Iwata Miyuri Shimabukuro Wataru Katoh Cocoro Omori",
-  "first_air_date": "2026-01-11"
+  "first_air_date": "2026-01-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

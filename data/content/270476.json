@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Matthew Rhys Kate O'Flynn Kevin Carroll Dale Dickey Kingston Rumi Southwick Stephen Root",
-  "first_air_date": "2026-04-28"
+  "first_air_date": "2026-04-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

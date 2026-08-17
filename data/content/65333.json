@@ -5,7 +5,7 @@
   "title_en": "Myriad Colors Phantom World",
   "slug": "65333-myriad-colors-phantom-world",
   "overview": "استمتع بمشاهدة مسلسل عدد لا يحصى من الألوان الوهمية العالم مترجم بجودة عالية.",
-  "poster_path": "/rBYiCmtJFfR1lBjqwDUk37a3AK0.jpg",
+  "poster_path": "/qHeXtLAshmzGVx759rnCWRW2iz7.jpg",
   "backdrop_path": "/6Tt8634C2yn9x84ZIifubTqiEQD.jpg",
   "release_date": "2016-01-07",
   "vote_average": 7.7,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Hiro Shimono Sumire Uesaka Saori Hayami Azusa Tadokoro Maaya Uchida Misaki Kuno Kikuko Inoue Daisuke Sakaguchi",
-  "first_air_date": "2016-01-07"
+  "first_air_date": "2016-01-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

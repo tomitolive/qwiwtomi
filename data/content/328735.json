@@ -5,7 +5,7 @@
   "title_en": "The Idaho Murders: College Nightmare",
   "slug": "328735-the-idaho-murders-college-nightmare",
   "overview": "تستكشف سلسلة \"جرائم القتل في أيداهو: كابوس الكلية\" واحدة من أكثر قضايا القتل إثارة للرعب في الذاكرة الحديثة، حيث تكريم حياة أربعة شباب أُخذت حياتهم، وتتبع كل خطوة من ليلة القتل إلى اعتقال المشتبه به في النهاية. \"جرائم القتل في أيداهو: كابوس الكلية\"، مسلسل وثائقي مثير يغوص في أعماق هذه القضية الصادمة.",
-  "poster_path": "/zdZ9Hx7Fra5mIxJzYSzqyhlHmbL.jpg",
+  "poster_path": "/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
   "backdrop_path": "/1BosXOwTUudCrE77ayEJSROW8sL.jpg",
   "release_date": "2026-07-29",
   "vote_average": 5.8,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "",
-  "first_air_date": "2026-07-29"
+  "first_air_date": "2026-07-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

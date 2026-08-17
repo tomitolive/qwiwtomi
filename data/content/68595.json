@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "David Attenborough",
-  "first_air_date": "2016-11-06"
+  "first_air_date": "2016-11-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

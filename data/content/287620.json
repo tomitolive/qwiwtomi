@@ -5,7 +5,7 @@
   "title_en": "Stuart Fails to Save the Universe",
   "slug": "287620-stuart-fails-to-save-the-universe",
   "overview": "في المسلسل الكوميدي الخيالي \"ستيوارت يفشل في إنقاذ الكون\"، يجد ستيوارت بلوم، صاحب متجر القصص المصورة، نفسه في مهمة مستحيلة بعد أن خلق عن طريق الخطأ متعدد أكوان جديد. عليه الآن العثور على جهاز تداخل كمومي لاستعادة الواقع كما نعرفه.",
-  "poster_path": "/iQbTbwmLX5Nh1nlH21YUJPWt3Zo.jpg",
+  "poster_path": "/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
   "backdrop_path": "/2ngdvUiEKW8Q37ta8BBdydE2cuq.jpg",
   "release_date": "2026-07-23",
   "vote_average": 8.8,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Kevin Sussman Lauren Lapkus Brian Posehn John Ross Bowie",
-  "first_air_date": "2026-07-23"
+  "first_air_date": "2026-07-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

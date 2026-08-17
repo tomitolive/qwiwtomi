@@ -5,7 +5,7 @@
   "title_en": "Cardcaptor Sakura",
   "slug": "35790-cardcaptor-sakura",
   "overview": "تابعي مغامرات ساكورا كينو موتو في مسلسل \"كاردكابتور ساكورا\"، حيث تكتشف الطالبة الابتدائية امتلاكها لقوى سحرية بعد تحريرها بطريق الخطأ مجموعة من البطاقات السحرية من الكتاب الذي كانت محبوسة فيه لسنوات. تبدأ ساكورا مهمة استعادة البطاقات لتجنب كارثة مجهولة قد تحل بالعالم. مسلسل رسوم متحركة ممتع ومليء بالمغامرات.",
-  "poster_path": "/uYauKEioj5v3riLOBEZsxccBsC6.jpg",
+  "poster_path": "/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
   "backdrop_path": "/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
   "release_date": "1998-04-07",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Sakura Tange Junko Iwao Motoko Kumai Aya Hisakawa Emi Shinohara Hideyuki Tanaka Masaya Onosaka Megumi Ogata",
-  "first_air_date": "1998-04-07"
+  "first_air_date": "1998-04-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

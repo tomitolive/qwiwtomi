@@ -5,7 +5,7 @@
   "title_en": "The Shadow Sovereign",
   "slug": "313642-the-shadow-sovereign",
   "overview": "مسلسل \"صاحب الظل السيادي\" أو \"The Shadow Sovereign\" هو ملحمة ملهمة عن صعود عالم متواضع إلى السلطة. يسعى البطل للانتقام من والده، لكن القدر يجمعه بالأميرة المتمردة التي كان ينوي تدميرها، ليجد نفسه في تحالف غير متوقع وحب عميق.",
-  "poster_path": "/4NTEELjCYu8rqdIEafe2hAfF3em.jpg",
+  "poster_path": "/5fOClIVHXMgHmYAe5BV8G6rnjII.jpg",
   "backdrop_path": "/lnp1FbxMwAzFte0B9DBWV3btUOT.jpg",
   "release_date": "2026-07-23",
   "vote_average": 8.0,
@@ -37,5 +37,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Li Hongyi Kong Xue'er Liu Xuwei Hana Lin",
-  "first_air_date": "2026-07-23"
+  "first_air_date": "2026-07-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

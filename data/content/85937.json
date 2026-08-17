@@ -5,7 +5,7 @@
   "title_en": "Demon Slayer: Kimetsu no Yaiba",
   "slug": "85937-demon-slayer-kimetsu-no-yaiba",
   "overview": "تقع أحداث القصة باليابان في فترة تايشو (مِن عام 1912 إلى 1926) حول صبي يدعى “كامادو تانجيرو” وهو الإبن الأكبر في عائلته ومعيلها بعد وفاة والدهفي أحد الأيام يذهب “تانجيرو” لبيع الفحم في إحدى البلدات لكنه يضطر لقضاء الليلة عند أحد هناك بدلاً مِن العودة للمنزل بسبب الإشاعات حول الشياطين الآكلة للبشر التي تجوب الأرجاء ليلاً لكن في اليوم الذي يليه عند عودته للمنزل يجد فاجعة بإنتظاره",
-  "poster_path": "/n6yfmEJV7XHmQZMpdla1b7S6cMi.jpg",
+  "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
   "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
   "release_date": "2019-04-06",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Natsuki Hanae Akari Kito Hiro Shimono Yoshitsugu Matsuoka",
-  "first_air_date": "2019-04-06"
+  "first_air_date": "2019-04-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

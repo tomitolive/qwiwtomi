@@ -5,7 +5,7 @@
   "title_en": "SpongeBob SquarePants",
   "slug": "387-spongebob-squarepants",
   "overview": "في أعماق المحيط الهادئ في مدينة قاع الهامور يعيش اسفنجة مربعة صفراء اسمها سبونج بوب سكوير بانتس. سبونج بوب يعيش في أناناس مع حلزون حيوانه الأليف ، غاري ، يحب وظيفته كطاهي قلي في مقرمشات سلطع ، ولديه موهبة في الوقوع في جميع أنواع المشاكل دون أن يحاول حقًا. عندما لا يثير أعصاب جاره شفيع الغريب في الجوار ، يمكن أن تجد سبونج بوب عادة في وسط كل أنواع المواقف الغريبة مع صديقه المفضل ، نجم البحر بسيط ، أو راكبة الامواج تبحث عن الإثارة- الفتاة السنجاب بال ، ساندي تشيكس.",
-  "poster_path": "/ft0OsFXGjkmDETpncOqrFrRaxff.jpg",
+  "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
   "backdrop_path": "/aasp5EmwclAQbwfGABWLTNLhjwB.jpg",
   "release_date": "1999-05-01",
   "vote_average": 7.7,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Kenny Bill Fagerbakke Rodger Bumpass Clancy Brown Carolyn Lawrence Mary Jo Catlett Mr. Lawrence",
-  "first_air_date": "1999-05-01"
+  "first_air_date": "1999-05-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

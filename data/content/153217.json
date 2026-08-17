@@ -5,7 +5,7 @@
   "title_en": "Sparks of Tomorrow",
   "slug": "153217-sparks-of-tomorrow",
   "overview": "في ماضٍ بديل، يشكّل شاب وفتاة من عالمين مختلفين ثنائيًا غير متوقع، وينطلقان للبحث عن سجلٍّ مفقود لأفكار كهربائية جريئة قد يضيء شوارع \"كيوتو\" الملبّدة ببخار الآلات.",
-  "poster_path": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+  "poster_path": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
   "backdrop_path": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
   "release_date": "2026-07-05",
   "vote_average": 8.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuma Uchida Sora Amamiya Koki Uchiyama Daisuke Ono Shunsuke Takeuchi Minako Kotobuki You Taichi Natsumi Kawaida",
-  "first_air_date": "2026-07-05"
+  "first_air_date": "2026-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

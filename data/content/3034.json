@@ -5,7 +5,7 @@
   "title_en": "Scene of the Crime",
   "slug": "3034-scene-of-the-crime",
   "overview": "يحكي مسلسل \"تاتورت\" قصة التحقيق في جرائم مختلفة في مختلف أنحاء ألمانيا وأustria وSwitzerland، حيث يعمل الشرطة على حل الأحداث الخطيرة والمعقدة. يعد المسلسل من أطول المسلسلات الكرائية في ألمانيا وأustria وSwitzerland، ويتم بثه على قناة ARD في ألمانيا وقناة ORF في Austria و SF1 في Switzerland.",
-  "poster_path": "/j73WOp6ArCy8vK4vreIdSunoXAr.jpg",
+  "poster_path": "/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
   "backdrop_path": "/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
   "release_date": "1970-11-29",
   "vote_average": 6.2,
@@ -46,5 +46,8 @@
   "language": "الألمانية",
   "country": "Austria",
   "cast": "",
-  "first_air_date": "1970-11-29"
+  "first_air_date": "1970-11-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

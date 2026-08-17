@@ -5,7 +5,7 @@
   "title_en": "Guardin de mi vida",
   "slug": "320315-guardin-de-mi-vida",
   "overview": "مسلسل \"حارس حياتي\" أو \"Guardin   \" هو دراما مشوقة تدور حول حياة صوفيا بيرالتا-أفيتيا فيلاسيور، المرأة الناجحة في عملها والأم الرائعة التي تشعر بالوحدة في زواجها من غونزالو بالموري-ريتشي نافا. في الوقت نفسه، ابنتها باربرا بالموري-ريتشي بيرالتا-أفيتيا وحارسها الشخصي الشاب سلفادور \"شافا\" رييس إنسينو، سيتحول تمردهما إلى شغف. لكن لا أحد منهم يدرك أن الأشخاص الشريرين والطموحين المحيطين بهم سيحاولون التدخل في مساراتهم على طريق الحب.",
-  "poster_path": "/ppdrvfUyukqtFkl1HY7x6qHd7st.jpg",
+  "poster_path": "/3u2e6ruC48vKDvuj7dibZowLazC.jpg",
   "backdrop_path": "/wy3dhydGawctPp3S9mVqb1ONFBR.jpg",
   "release_date": "2026-05-18",
   "vote_average": 9.7,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Silvia Navarro Daniel Arenas Paulina Goto Diego Klein Sergio Sendel Rodolfo Salas Alejandro Camacho Kimberly Dos Ramos",
-  "first_air_date": "2026-05-18"
+  "first_air_date": "2026-05-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Narcos",
   "slug": "63351-narcos",
   "overview": "تضفي القصة الحقيقية لعصابات تجّار المخدرات الأقوياء في كولومبيا جوًا من الإثارة على هذا المسلسل الدرامي الذي يتناول حياة العصابات.",
-  "poster_path": "/c7KdaiueiA4QpTE1VGJmRHRN4Cd.jpg",
+  "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
   "backdrop_path": "/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
   "release_date": "2015-08-28",
   "vote_average": 8.1,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Pedro Pascal Matias Varela Damián Alcázar Francisco Denis Alberto Ammann Pêpê Rapazote Arturo Castro Michael Stahl-David",
-  "first_air_date": "2015-08-28"
+  "first_air_date": "2015-08-28",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Marvel Zombies",
   "slug": "138505-marvel-zombies",
   "overview": "تخاطر مجموعة يائسة من الناجين بكل ما لديهم لإنقاذ عالمهم من الموتى الأحياء ذوي القدرات الخارقة.",
-  "poster_path": "/omicwLisUB1tEXZPRMyPE60g2av.jpg",
+  "poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
   "backdrop_path": "/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
   "release_date": "2025-09-24",
   "vote_average": 7.3,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Iman Vellani Todd Williams David Harbour Simu Liu Awkwafina Elizabeth Olsen",
-  "first_air_date": "2025-09-24"
+  "first_air_date": "2025-09-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

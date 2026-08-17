@@ -5,7 +5,7 @@
   "title_en": "The World of David the Gnome",
   "slug": "2849-the-world-of-david-the-gnome",
   "overview": "حكيم الأقزام هو مسلسل رسوم متحركة يتبع مغامرات حكيم، العمدة للقزم، في عالم مليء بالمعجزة والخيال. يقدم المسلسل تجربة فريدة للشباب، حيث يتعلمون عن أهمية الحماية للبيئة والتعاون بين البشر والحيوانات. كما يظهر المسلسل ثقافة أوروبا الغنية والجميلة، مما يجعل من الصعب على المشاهدين أن يرفضوا تجربة هذا العمل الفني. إنه مسلسل رسوم متحركة فريد، يجمع بين الخيال العلمي والفانتازيا في عالم مليء بالمعجزة.",
-  "poster_path": "/wbk24KPWMcwTQE9LmYkiQcBE9k4.jpg",
+  "poster_path": "/lowqkmV525TOvlOCXjtMyUtyPda.jpg",
   "backdrop_path": "/zRMZKPSz9ZboQkp5okd6vK7fmui.jpg",
   "release_date": "1985-10-26",
   "vote_average": 7.3,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "José María Cordero Matilde Conesa Teófilo Martínez Ramón Langa Manuel Peiró Paco Hernández",
-  "first_air_date": "1985-10-26"
+  "first_air_date": "1985-10-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

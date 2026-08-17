@@ -5,7 +5,7 @@
   "title_en": "Jack Joker: U Steal My Heart!",
   "slug": "240692-jack-joker-u-steal-my-heart",
   "overview": "مسلسل \"Jack Joker: U Steal My Heart!\" يجمع بين الدراما والجريمة والإثارة. يصبح بطل التايكوندو الموهوب شريكًا غير متوقع لسارق أسطوري وساحر، وذلك في محاولة لسداد ديون عائلته. قصة مشوقة ومليئة بالمغامرات.",
-  "poster_path": "/iDN6krI6FivvUudyvlvQflYrG5p.jpg",
+  "poster_path": "/X3bmROVCGZUI2HFCwOWySS6ji1.jpg",
   "backdrop_path": "/5HnwImVAdKNZTllozH2WEtFmAwI.jpg",
   "release_date": "2024-09-09",
   "vote_average": 9.5,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "تايلاند",
   "cast": "Anan Wong Wanarat Ratsameerat Ratchapat Worrasarn Nadol Lamprasert Siwat Jumlongkul Nathanan Akkharakitwattanakul Sarunyoo Prachakit Netipat Luksanavisis",
-  "first_air_date": "2024-09-09"
+  "first_air_date": "2024-09-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

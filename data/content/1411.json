@@ -5,7 +5,7 @@
   "title_en": "Person of Interest",
   "slug": "1411-person-of-interest",
   "overview": "تدور الأحداث في إطار من التشويق والإثارة، حول (جون ريس) عميل سابق في الاستخبارات الأمريكية يعيش في ظلال مدينة نيويورك اضطرارياً بعد إيعاز مدراءه لشريكته بقتله أثناء تنفيذهم لأحد المهام الجاسوسية في ما وراء البحار. عقب عدة أشهر من العيش متخفياً عن أنظار الحكومة، يتواصل معه المليونير (هارولد فينش) أحد العباقرة التقنيين طالباً مساعدته في مكافحة الجريمة في المدينة عن طريق آلة اخترعها سابقاً.",
-  "poster_path": "/f7Y2qEMjIIVTwhxG8PnbRViphHl.jpg",
+  "poster_path": "/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
   "backdrop_path": "/1UkDX6CK8hJ0oUtUycDTp5Vh9wO.jpg",
   "release_date": "2011-09-22",
   "vote_average": 8.1,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jim Caviezel Michael Emerson Kevin Chapman Amy Acker Sarah Shahi",
-  "first_air_date": "2011-09-22"
+  "first_air_date": "2011-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

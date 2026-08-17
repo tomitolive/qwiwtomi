@@ -5,7 +5,7 @@
   "title_en": "Human Vapor",
   "slug": "253960-human-vapor",
   "overview": "موت مفاجئ على الهواء مباشرة، والجاني يتحوّل إلى غاز، ومشروع سرّي وراء كل ذلك يستغلّ المستضعفين ويتخلص منهم... لكن محققًا يعتزم الكشف عن هذه الحقيقة القاتمة.",
-  "poster_path": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
+  "poster_path": "/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
   "backdrop_path": "/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
   "release_date": "2026-07-02",
   "vote_average": 8.0,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "كوريا الجنوبية",
   "cast": "Shun Oguri Yu Aoi Suzu Hirose Kento Hayashi UTA Yutaka Takenouchi Motoki Kobayashi Pierre Taki",
-  "first_air_date": "2026-07-02"
+  "first_air_date": "2026-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

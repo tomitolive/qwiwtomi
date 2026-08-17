@@ -5,7 +5,7 @@
   "title_en": "The Polygamist",
   "slug": "322430-the-polygamist",
   "overview": "تعدد الزوجات. مسلسل دراما وأوبرا صابونية مثير، يسلط الضوء على حياة جوي، نجمة وسائل التواصل الاجتماعي، التي تبدو مثالية حتى يكشف زوجها الخائن عن علاقاته المتعددة، مما يؤدي إلى انهيارها العاطفي. The Polygamist يغوص في عواقب الخيانة الزوجية.",
-  "poster_path": "/3Pn9CrJAYfkRTHmsO0MayrXninl.jpg",
+  "poster_path": "/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
   "backdrop_path": "/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
   "release_date": "2026-06-12",
   "vote_average": 9.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "South Africa",
   "cast": "Gugu Gumede S'Dumo Mtshali Kwanele Mthethwa",
-  "first_air_date": "2026-06-12"
+  "first_air_date": "2026-06-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

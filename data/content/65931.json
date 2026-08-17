@@ -5,7 +5,7 @@
   "title_en": "Bungo Stray Dogs",
   "slug": "65931-bungo-stray-dogs",
   "overview": "حينما يأتي على المسامع اسم مدينة يوكاهاما يخطر في الأذهان عصابات المافيا الشهيرة، و لكن يجب أن لا يتم نسيان وكالة التحري اتسوشي التي تتصدى لها، فتى طُرد من دار الأيتام الذي كان يعيش فيه بسبب ملاحقة ” النمر الآكل للبشر ” له ومن ثم يلتقي مصادفة بـدازاي أحد أعضاء وكالة التحري ليساعده في حل قضيته تلك، و بطريقة ما تُحل تلك المشكلة و يتورط اتسوشي بالانضمام لتلك الوكالة ليجد نفسه بين مجموعة من غريبي الأطوار ذو قدرات خاصة و ملزم بالتصدي لعصابات المافيا!! ما الذي سيفعله يا ترى؟؟",
-  "poster_path": "/4WlY8Wflsa4ySLxwQzBSLORBQPy.jpg",
+  "poster_path": "/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
   "backdrop_path": "/79lc4Rocfnn9RIv1YlHC0jeBsqf.jpg",
   "release_date": "2016-04-07",
   "vote_average": 8.2,
@@ -64,5 +64,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Mamoru Miyano Yuto Uemura Masaaki Mizunaka Hiroyuki Yoshino Sumire Morohoshi Junichi Suwabe Shunsuke Takeuchi Takayuki Sugo",
-  "first_air_date": "2016-04-07"
+  "first_air_date": "2016-04-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

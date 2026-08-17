@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Poland",
   "cast": "Kaja Paschalska Tomasz Bednarek Barbara Bursztynowicz Andrzej Grabarczyk Paulina Holtz Małgorzata Ostrowska Laura Łącz Jacek Borkowski",
-  "first_air_date": "1997-09-22"
+  "first_air_date": "1997-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

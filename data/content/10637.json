@@ -5,7 +5,7 @@
   "title_en": "Remember the Titans",
   "slug": "10637-remember-the-titans",
   "overview": "التاريخ يكتبه الفائزون.\r بعد أن قاد فريقه لكرة القدم إلى 15 موسما فائزا ، تم تخفيض رتبة المدرب بيل يوست واستبداله بهيرمان بون - قوي وذو رأي ومختلف عن يوست المحبوب قدر الإمكان. يتعلم الرجلان التغلب على خلافاتهما وتحويل مجموعة من الشباب المعادين إلى أبطال.",
-  "poster_path": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+  "poster_path": "/ewYCdVb0O29gf74vftUZwv6urqu.jpg",
   "backdrop_path": "/7lwo8VLHD8Va49DKuszabpm41V9.jpg",
   "release_date": "2000-09-29",
   "vote_average": 7.6,
@@ -44,5 +44,8 @@
   "duration": "113 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Denzel Washington Will Patton Wood Harris Ryan Hurst Donald Faison"
+  "cast": "Denzel Washington Will Patton Wood Harris Ryan Hurst Donald Faison",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

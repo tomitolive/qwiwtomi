@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Joy Behar Sunny Hostin Sara Haines Whoopi Goldberg Alyssa Farah Griffin Ana Navarro",
-  "first_air_date": "1997-08-11"
+  "first_air_date": "1997-08-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

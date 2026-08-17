@@ -5,7 +5,7 @@
   "title_en": "Road to Success",
   "slug": "285143-road-to-success",
   "overview": "مسلسل \"الطريق إلى النجاح\" أو \"Road  Success\" هو دراما ملهمة تدور حول عودة لين وانكسينج إلى مسقط رأسها، حيث تتولى مهمة إعادة إحياء فريق كرة القدم في مدرستها الثانوية بعد انقطاع طويل. بمساعدة مستأجرها الغامض، المدرب السابق وانج فا، يعملان معًا على إعادة بناء الفريق، وتوجيه الطلاب نحو تحقيق أحلامهم، ومواجهة ظلال ماضيهم في الوقت نفسه. إنها قصة ملهمة عن الصداقة والتصميم.",
-  "poster_path": "/jE6xuxwLUojZ2k80rKbv73frWsv.jpg",
+  "poster_path": "/b5nQBfeAQA9lEINrYFWXBh8PENr.jpg",
   "backdrop_path": "/kuqNk0XSnIsxPedLpJ3U9AOAm2R.jpg",
   "release_date": "2026-07-05",
   "vote_average": 8.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yu Shuxin Chen Jingke Victor Ma Chloe Xie",
-  "first_air_date": "2026-07-05"
+  "first_air_date": "2026-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

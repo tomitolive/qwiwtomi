@@ -5,7 +5,7 @@
   "title_en": "Wind-Born Warriors",
   "slug": "283780-wind-born-warriors",
   "overview": "المحاربون المولودون بالرياح: مسلسل دراما ملحمي، حيث يتصدى قائد اللواء شيه لينغجون لتحديات قيادة برنامج تجريبي لتحويل الجيش. يثق في قائد الكتيبة غو زيجيان، الذي يثبت جدارته بعد حادث تدريب سابق. وفي مواجهة خصم لا يُقهر، يقلبون الموازين بتكتيكاتهم المبتكرة.",
-  "poster_path": "/ybE61R0h8r7lLVppxThPKmOsICO.jpg",
+  "poster_path": "/hr12kzoC8d6gGnPHWcXSDu1xCK2.jpg",
   "backdrop_path": "/sgC8hgeZl1ZEjn2xAXGyFC86U6N.jpg",
   "release_date": "2026-07-23",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Ou Hao Lyric Lan Liu Yijun Xu Honghao Fu Chengpeng Zhao Xun Xia Houbin Guan Yajun",
-  "first_air_date": "2026-07-23"
+  "first_air_date": "2026-07-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

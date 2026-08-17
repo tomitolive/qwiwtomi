@@ -5,7 +5,7 @@
   "title_en": "American Horror Story",
   "slug": "1413-american-horror-story",
   "overview": "سلسلة من القصص الدرامية المختارة التي تركز على شخصيات ومواقع مختلفة، بما في ذلك منزل له ماضٍ قاتل، ملجأ، ساحرة ، عرض غريب، فندق، مزرعة في روانوك وطائفة دينية.",
-  "poster_path": "/g2Wik3j3jIQYtvpiXHAWJBTqSig.jpg",
+  "poster_path": "/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
   "backdrop_path": "/6fQSEUfV3eDUS5AGhwJK8CAWt0b.jpg",
   "release_date": "2011-10-05",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Sarah Paulson",
-  "first_air_date": "2011-10-05"
+  "first_air_date": "2011-10-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

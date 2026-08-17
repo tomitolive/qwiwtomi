@@ -5,7 +5,7 @@
   "title_en": "Wrath",
   "slug": "292533-wrath",
   "overview": "يجد رجل جريح فقد ذاكرته ملاذًا لدى مدرب فنون قتالية مختلطة، ويخوض غمار الحلبة ممزَقًا بين أمل بحياة جديدة وماضٍ خطير يواصل مطاردته.",
-  "poster_path": "/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+  "poster_path": "/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
   "backdrop_path": "/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
   "release_date": "2026-07-29",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "البرازيل",
   "cast": "Vinícius Neri Fábio Lago Alice Carvalho MC Cabelinho Bianca Comparato Babu Santana Eduardo Moscovis Cláudia Raia",
-  "first_air_date": "2026-07-29"
+  "first_air_date": "2026-07-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

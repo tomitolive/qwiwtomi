@@ -5,7 +5,7 @@
   "title_en": "Prison Break",
   "slug": "2288-prison-break",
   "overview": "بسبب مؤامرة سياسية ، يُحكم على رجل بريء بالإعدام وأمله الوحيد هو شقيقه ، الذي يجعل مهمته إرسال نفسه عمدًا إلى نفس السجن من أجل كسر كلاهما ، من الداخل إلى الخارج.",
-  "poster_path": "/mj4keOCfUYLjpHITYMZ3pd0hz4W.jpg",
+  "poster_path": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
   "backdrop_path": "/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
   "release_date": "2005-08-29",
   "vote_average": 8.1,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Wentworth Miller Dominic Purcell Sarah Wayne Callies Paul Adelstein Rockmond Dunbar Robert Knepper Amaury Nolasco Inbar Lavi",
-  "first_air_date": "2005-08-29"
+  "first_air_date": "2005-08-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Common Side Effects",
   "slug": "228878-common-side-effects",
   "overview": "مارشال وفرانسيس، شريكا المختبر السابقان في المدرسة الثانوية، يكتشفان مؤامرة كبيرة تشمل شركات الأدوية والحكومة الفيدرالية تهدف إلى إخفاء سر فطر نادر قد يحمل مفتاح علاج جميع أمراض العالم.",
-  "poster_path": "/wAqkmNEV3oLLEmE7mzDa0bmxEqV.jpg",
+  "poster_path": "/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg",
   "backdrop_path": "/4drV6iluttgjZmU1Q0xDqjrBQ1.jpg",
   "release_date": "2025-02-02",
   "vote_average": 8.4,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Dave King Emily Pendergast Mike Judge Martha Kelly Joseph Lee Anderson",
-  "first_air_date": "2025-02-02"
+  "first_air_date": "2025-02-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

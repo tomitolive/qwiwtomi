@@ -5,7 +5,7 @@
   "title_en": "The Smurfs",
   "slug": "5687-the-smurfs",
   "overview": "السَّنافِر هي مّخلوقات زرقاء صغيرة تعيش في غابة هادئة وتَتَّخِذُ من الفِطرِبُيُوتاً . يحاولون مرارًا التَّفَوَُق على شَرشَبيل المُشَعوِذُ البَغيض وَقِطِّهِ الأَجرَب هَرهور.",
-  "poster_path": "/chv6X5Vnm1KSsVV0ztNSyG1txSU.jpg",
+  "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
   "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
   "release_date": "1981-09-12",
   "vote_average": 7.0,
@@ -70,5 +70,8 @@
   "language": "الإنجليزية",
   "country": "Belgium",
   "cast": "Don Messick Lucille Bliss Frank Welker Michael Bell June Foray Paul Winchell Danny Goldman Hamilton Camp",
-  "first_air_date": "1981-09-12"
+  "first_air_date": "1981-09-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

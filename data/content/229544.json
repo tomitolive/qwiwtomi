@@ -5,7 +5,7 @@
   "title_en": "Among Us",
   "slug": "229544-among-us",
   "overview": "مسلسل رسوم متحركة غامض وممتع، يدور حول طاقم سفينة فضائية غريب الأطوار يقوم بنقل النفايات عبر المجرة، ويجب عليهم كشف هوية المحتال بينهم قبل أن يقعوا ضحية لمخططاته الشريرة.",
-  "poster_path": "/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
+  "poster_path": "/4gPHraAEFpTIHWFTXArOsf05wNM.jpg",
   "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
   "release_date": "2026-06-05",
   "vote_average": 10.0,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Yvette Nicole Brown Kimiko Glenn Liv Hewson Ashley Johnson Wayne Knight Phil LaMarr Randall Park Dan Stevens",
-  "first_air_date": "2026-06-05"
+  "first_air_date": "2026-06-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

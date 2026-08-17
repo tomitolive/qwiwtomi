@@ -5,7 +5,7 @@
   "title_en": "The Sandman",
   "slug": "90802-the-sandman",
   "overview": "ينطلق \"مورفيوس\"، ملك الأحلام، بعد سنوات من الحبس في رحلة عبر العوالم للعثور على ما سُرق منه واستعادة قوّته.",
-  "poster_path": "/cqLnWvMKLSwwsz9wevEErrH5jYV.jpg",
+  "poster_path": "/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
   "backdrop_path": "/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
   "release_date": "2022-08-05",
   "vote_average": 7.9,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Sturridge Vivienne Acheampong Patton Oswalt",
-  "first_air_date": "2022-08-05"
+  "first_air_date": "2022-08-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

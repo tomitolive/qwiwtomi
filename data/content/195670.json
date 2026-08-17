@@ -5,7 +5,7 @@
   "title_en": "XO, Kitty",
   "slug": "195670-xo-kitty",
   "overview": "تنطلق وسيطة العلاقات المراهقة \"كيتي\" لتشقّ طريقها وتتبع قلبها إلى مدرسة ثانوية مرموقة في \"سيول\"، وتكتشف أنّ الحياة والحب والعائلة أكثر تعقيدًا ممّا توقعت.",
-  "poster_path": "/2NiNDgVQHvw9qzGWtZwxRKy1FsO.jpg",
+  "poster_path": "/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
   "backdrop_path": "/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
   "release_date": "2023-05-18",
   "vote_average": 8.1,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Anna Cathcart Choi Min-yeong Gia Kim Sang Heon Lee Anthony Keyvan Regan Aliyah Peter Thurnwald Philippe Lee",
-  "first_air_date": "2023-05-18"
+  "first_air_date": "2023-05-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

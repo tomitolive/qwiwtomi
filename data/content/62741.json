@@ -5,7 +5,7 @@
   "title_en": "Kamisama Kiss",
   "slug": "62741-kamisama-kiss",
   "overview": "تتحول حياة نانامي، الفتاة المراهقة العادية التي تعاني من سوء الحظ، رأسًا على عقب عندما تُقبل من قبل غريب، مما يجعلها الإلهة الجديدة للأرض. تبدأ في تعلم واجبات الإلهة بمساعدة توموي، وهو ثعلب مارد تم إصلاحه يصبح مرافقها على مضض في عقد تم إبرامه بقبلة. يجب عليها التعامل مع مسؤولياتها الجديدة، بالإضافة إلى الأولاد، مثل شيطان الغراب المتظاهر بأنه مغني بوب وساحر، وروح الثعبان اللطيفة التي اختارت الإلهة الجديدة لتكون عروسها. وبينما يحاول توموي العنيد جعلها في شكل مناسب، تكتشف نانامي أن الحب قد يكون له آذان ثعلب لطيفة. هل ستتمكن الإلهة البشرية من إثبات جدارتها بلقبها الجديد؟ قبلة كاميساما. Kamisama Kiss.",
-  "poster_path": "/8nfyyLqcAbEocNvPXj26uIflThp.jpg",
+  "poster_path": "/cRama3S1CMYXFu1LmUkMMPoC99O.jpg",
   "backdrop_path": "/cttisz5q4LHwyRYlIj9S7oQa27v.jpg",
   "release_date": "2012-10-02",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yui Horie Suzuko Mimori Daisuke Namikawa Daisuke Kishio Satomi Sato Vanilla Yamazaki Yu Kobayashi Shuta Morishima",
-  "first_air_date": "2012-10-02"
+  "first_air_date": "2012-10-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

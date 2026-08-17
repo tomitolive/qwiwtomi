@@ -5,7 +5,7 @@
   "title_en": "Spider-Noir",
   "slug": "220102-spider-noir",
   "overview": "يجري توظيف المحقق الخاص بين رايلي في قضيتين بسيطتين... إلى أن ينسج رجال العصابات والوحوش وامرأة فاتنة غامضة شبكة تجعله يواجه حياته السابقة كبطل نيويورك الخارق الوحيد: سبايدر.",
-  "poster_path": "/mA9XrZsAk8YCkYUhmHPgKUKI2KA.jpg",
+  "poster_path": "/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
   "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
   "release_date": "2026-05-25",
   "vote_average": 8.8,
@@ -51,5 +51,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Nicolas Cage Lamorne Morris Li Jun Li Karen Rodriguez Abraham Popoola Jack Huston Brendan Gleeson",
-  "first_air_date": "2026-05-25"
+  "first_air_date": "2026-05-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

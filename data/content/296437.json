@@ -5,7 +5,7 @@
   "title_en": "The Frontier Lord Begins with Zero Subjects",
   "slug": "296437-the-frontier-lord-begins-with-zero-subjects",
   "overview": "انتهت الحرب، وكوفئ البطل دياس أخيرًا بأرضٍ خاصة به، ليكتشف أنها أرضٌ قاحلةٌ جرداء، لا بشر فيها ولا قرى ولا أثر للحضارة. أمامه سهولٌ شاسعةٌ مترامية الأطراف، يشرع دياس في بناء إمبراطوريةٍ من الصفر. لكن بعد لقائه بآلنا، الفتاة الغامضة ذات القرن الأزرق، تبدأ أرضه القاحلة بالنبض بالحياة",
-  "poster_path": "/sFMfJnehzGh9lSvULJBEp8Pr0zV.jpg",
+  "poster_path": "/vHTHQZy3JhgoVMkbXlOot5gOUzZ.jpg",
   "backdrop_path": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
   "release_date": "2026-07-10",
   "vote_average": 6.9,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kenichirou Matsuda Shion Wakayama Taito Ban Miku Ito Haruka Shiraishi Jun Fukuyama Rikuya Yasuda Maria Abo",
-  "first_air_date": "2026-07-10"
+  "first_air_date": "2026-07-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

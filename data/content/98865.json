@@ -5,7 +5,7 @@
   "title_en": "MEBIUS DUST",
   "slug": "98865-mebius-dust",
   "overview": "غبار ميبيوس، مسلسل رسوم متحركة مثير يجمع بين الحركة والمغامرة والخيال العلمي. تدور أحداثه حول حياة المراهقين العاديين أراكي وستيلا وأولغا في مدينة غامضة محاطة بغبار ميبيوس. وبينما يعيشون حياتهم اليومية بسلام، من لعب الألعاب إلى زيارة الحمامات العامة والمشي الهادئ، تبدأ التكنولوجيا الغريبة والاضطرابات في تشويه حياتهم بشكل خفي. MEBIUS DUST، مسلسل مشوق لا يجب تفويته.",
-  "poster_path": "/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+  "poster_path": "/s0IKZTAn9sbGToaim12YEOTyWde.jpg",
   "backdrop_path": "/zWXRjJFEfwQnMqqeyvjTLWkRenH.jpg",
   "release_date": "2026-07-09",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuto Takenaka Nene Hieda Haruka Sato Taito Ban Aoi Ichikawa Souhei Horikane Satsumi Matsuda Shiori Mikami",
-  "first_air_date": "2026-07-09"
+  "first_air_date": "2026-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

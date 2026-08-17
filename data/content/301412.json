@@ -5,7 +5,7 @@
   "title_en": "Dream to You",
   "slug": "301412-dream-to-you",
   "overview": "مسلسل \"حلم لك\" أو \"Dream  You\" هو دراما رومانسية كوميدية تدور حول شغف صناعة الأفلام. تروي القصة حكاية طالب ثانوي متحمس يترك كل التزاماته جانبًا لصنع أفلام قصيرة، مما يلهم زميلته المجتهدة ولكنها تفتقر إلى الشغف. ومع تطور علاقتهما العميقة، يتحول الحب بينهما، لكنهما يفترقان فجأة عندما يضطر إلى الانتقال إلى الخارج. وبعد سنوات، في الثلاثينيات من عمرهما، تنقلب حياتهما رأسًا على عقب، فهي أصبحت مراسلة تلفزيونية محبطة وتواجه صعوبات، بينما أصبح هو مخرجًا حائزًا على جوائز. عند لقائهما المفاجئ، يقرر مساعدتها على استعادة شغفها المفقود، لكنها لا تزال تحمل في قلبها مرارة بسبب اختفائه المفاجئ في الماضي.",
-  "poster_path": "/6Xo53LDGp8QYc8gqEFyoAvnwciX.jpg",
+  "poster_path": "/cBiwrUwUNNYXTc5xrDEQWcMqftd.jpg",
   "backdrop_path": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
   "release_date": "2026-07-13",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Hwang In-youp Lee Hye-ri Baek Sung-chul Lee Yul-eum Lee Sang-yeob Park Ji-young Lee Ji-min",
-  "first_air_date": "2026-07-13"
+  "first_air_date": "2026-07-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

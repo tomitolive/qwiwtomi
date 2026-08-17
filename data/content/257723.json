@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "Ireland",
   "cast": "Bonnie O'Meara Aidan O'Donovan Colm Tobin Maura Foley Siobhán McSweeney",
-  "first_air_date": "2024-10-21"
+  "first_air_date": "2024-10-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

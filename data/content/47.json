@@ -5,7 +5,7 @@
   "title_en": "El Chavo del Ocho",
   "slug": "47-el-chavo-del-ocho",
   "overview": "استمتع بمشاهدة مسلسل El Chavo del Ocho مترجم بجودة عالية.",
-  "poster_path": "/1TdBpVOASafzfWlnecwW17UL6a5.jpg",
+  "poster_path": "/tL5zsmFtjHJTvKVIQfx9pg7IOrs.jpg",
   "backdrop_path": "/6zzyWTu3p2Diztotbnb0kf128uo.jpg",
   "release_date": "1973-02-26",
   "vote_average": 8.1,
@@ -62,5 +62,8 @@
   "language": "الإسبانية",
   "country": "المكسيك",
   "cast": "Roberto Gómez Bolaños Ramón Valdés Carlos Villagrán María Antonieta de las Nieves Florinda Meza García Rubén Aguirre Edgar Vivar Angelines Fernández",
-  "first_air_date": "1973-02-26"
+  "first_air_date": "1973-02-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

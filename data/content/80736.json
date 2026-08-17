@@ -5,7 +5,7 @@
   "title_en": "The Manager",
   "slug": "80736-the-manager",
   "overview": "يأخذنا مسلسل \"المدير\" إلى عالم النجوم من خلال كشف تفاصيل حياتهم اليومية. حيث يشارك المديرون المقربون من المشاهير في الكشف عن جوانب حياتهم العادية، ثم يدعو البرنامج خبراء من مجالات مختلفة للتعليق على أدق التفاصيل. يشارك في البرنامج لي يونغ جا، وجون هيون مو، وسونغ أون إي، وكيم سانغ مين، ويانغ سي هيونغ، ويو بيونغ جاي، بالإضافة إلى خبراء آخرين.",
-  "poster_path": "/oRoGuuYiyQmxc1fU5oV5dPKlnAz.jpg",
+  "poster_path": "/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
   "backdrop_path": "/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
   "release_date": "2018-03-10",
   "vote_average": 5.5,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Jeon Hyun-moo Song Eun-yi Yoo Byung-jae Yang Se-hyung Lee Young-ja",
-  "first_air_date": "2018-03-10"
+  "first_air_date": "2018-03-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

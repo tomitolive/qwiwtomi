@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Harvey Levin",
-  "first_air_date": "2007-09-10"
+  "first_air_date": "2007-09-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

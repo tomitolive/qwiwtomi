@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Sandra Lee",
-  "first_air_date": "2003-10-11"
+  "first_air_date": "2003-10-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

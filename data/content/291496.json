@@ -5,7 +5,7 @@
   "title_en": "Our Sticky Love",
   "slug": "291496-our-sticky-love",
   "overview": "تفقد مدّعية عامة طموحة ذاكرتها، وتنتقل للعيش مع مدرب ملاكمة يدّعي أنه حبيبها. فهل يمكن أن يتحول هذا الوضع الحرج إلى حب حقيقي؟",
-  "poster_path": "/s4QHevjGTGN3qfnA4TjkRVMGq8n.jpg",
+  "poster_path": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
   "backdrop_path": "/oUOytQ13F1vVKXK8cYCYB5Pt5ez.jpg",
   "release_date": "2026-08-07",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Jung Hae-in Ahn Ha-young Heo Sung-tae Jeon Bae-soo Seo Jeong-yeon Jang Hye-jin Kim Mi-hwa Cha Chung-hwa",
-  "first_air_date": "2026-08-07"
+  "first_air_date": "2026-08-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

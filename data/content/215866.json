@@ -5,7 +5,7 @@
   "title_en": "American Primeval",
   "slug": "215866-american-primeval",
   "overview": "تُكوّن أمّ وابنها الهاربان من ماضيهما عائلة جديدة فيما يواجهان وضعًا قاسيًا للحرية والوحشية في الغرب الأمريكي.",
-  "poster_path": "/8Eh2IFoWxTVnl9ju01nOcxFczZo.jpg",
+  "poster_path": "/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
   "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
   "release_date": "2025-01-09",
   "vote_average": 7.7,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Taylor Kitsch Betty Gilpin Dane DeHaan Saura Lightfoot-Leon Derek Hinkey Joe Tippett Jai Courtney Preston Mota",
-  "first_air_date": "2025-01-09"
+  "first_air_date": "2025-01-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Martin Sheen Allison Janney John Spencer Bradley Whitford Joshua Malina Alan Alda Jimmy Smits Kristin Chenoweth",
-  "first_air_date": "1999-09-22"
+  "first_air_date": "1999-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

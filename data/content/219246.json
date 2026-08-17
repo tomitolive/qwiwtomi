@@ -5,7 +5,7 @@
   "title_en": "When Life Gives You Tangerines",
   "slug": "219246-when-life-gives-you-tangerines",
   "overview": "في \"جيجو\"، تزدهر علاقة محتومة لا مفر منها بين فتاة مفعمة بالحياة وصبي مخلص وتتحول إلى قصة طويلة الأمد مليئة بالشدائد والانتصارات... مما يثبت أن الحب يصمد عبر الزمن.",
-  "poster_path": "/vtncx2AmW9ajahOsKVxsRrG56qd.jpg",
+  "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
   "backdrop_path": "/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
   "release_date": "2025-03-07",
   "vote_average": 8.8,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "IU Park Bo-gum Moon So-ri Park Hae-joon",
-  "first_air_date": "2025-03-07"
+  "first_air_date": "2025-03-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

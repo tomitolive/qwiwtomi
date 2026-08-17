@@ -5,7 +5,7 @@
   "title_en": "Hanaori-san Still Wants to Fight in the Next Life",
   "slug": "312266-hanaori-san-still-wants-to-fight-in-the-next-life",
   "overview": "لا تزال Hanaori- ترغب في القتال في الحياة القادمة. تدور أحداث المسلسل حول ريوشي ناروكامي، ملك الشياطين السابق الذي يعيش الآن حياة منعزلة كعاطل عن العمل. تعود هاناوري، البطلة التي هزمت ريوشي ذات يوم، إلى الحياة كفتاة مراهقة عادية، مما يقلب عالم ريوشي رأساً على عقب. يقرر ريوشي تغيير حياته ويعود إلى المجتمع كمدرس، ويجد نفسه يدرس في نفس مدرسة هاناوري! يعيد لقاؤهما المتفجر إحياء الماضي، ويشعل شرارة حب غير متوقع.",
-  "poster_path": "/MtHcMTVjuIPta3pQJtCc9LqYdT.jpg",
+  "poster_path": "/h2JZRLaFXWWhh61vAjqgHXeiZd8.jpg",
   "backdrop_path": "/uwDbJwDrzM6Xqx1yh4lkh8xUsbp.jpg",
   "release_date": "2026-07-12",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Akira Sekine Jun Fukuyama Seena Hoshiki Hitomi Ueda Sora Tokui Nene Hieda Rie Takahashi Hiromi Igarashi",
-  "first_air_date": "2026-07-12"
+  "first_air_date": "2026-07-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

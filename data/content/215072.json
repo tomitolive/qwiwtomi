@@ -5,7 +5,7 @@
   "title_en": "A Shop for Killers",
   "slug": "215072-a-shop-for-killers",
   "overview": "تضحى حياتها متاهة من الغموض غداة الانتحار المزعوم لعمّها، إذ ينهال عليها وابل من الرصاص تارة وتُحاصر بطائرات مُسيّرة للقتل تارّة، وللنجاة يتعين عليها كشف طلاسم وفاة عمّها وسبب استهدافها بلا رحمة من كلّ جانب.",
-  "poster_path": "/wLCwduomyQ9bMLBJ9btbrRG7JUD.jpg",
+  "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
   "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
   "release_date": "2024-01-17",
   "vote_average": 8.3,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Lee Dong-wook Kim Hye-jun Geum Hannah Min Kim Lee Tae-young Jo Han-sun Seo Hyun-woo Park Ji-bin",
-  "first_air_date": "2024-01-17"
+  "first_air_date": "2024-01-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

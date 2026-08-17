@@ -5,7 +5,7 @@
   "title_en": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
   "slug": "6060-kyunki-saas-bhi-kabhi-bahu-thi",
   "overview": "مسلسل \"كيونكي... ساس بهي كابهي باهو ثي...\" هو دراما عائلية مشوقة تدور حول صراع حماة مع ثلاث كناتها. حيث أن أبناء الكنات الثلاثة كبروا وأصبحوا شباباً، وبدأوا في الارتباط بفتيات، مما دفع الكنات لمحاولة تخريب علاقاتهم. عنوان المسلسل: \"كيونكي... ساس بهي كابهي باهو ثي...\" (Kyunki... Saas Bhi Kabhi Bahu Thi...)",
-  "poster_path": "/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+  "poster_path": "/dfthWcPV9G4zMjAWUhyVZXlXN2.jpg",
   "backdrop_path": "/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
   "release_date": "2000-07-03",
   "vote_average": 3.4,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الهند",
   "cast": "Smriti Irani Amar Upadhyay Tanisha Mehta Rohit Suchanti Shagun Sharma Aman Gandhi Shakti Anand Gauri Pradhan Tejwani",
-  "first_air_date": "2000-07-03"
+  "first_air_date": "2000-07-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

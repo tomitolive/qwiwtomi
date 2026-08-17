@@ -5,7 +5,7 @@
   "title_en": "Smallville",
   "slug": "4604-smallville",
   "overview": "يرصد المسلسل القدرات العبقرية والعديدة لدي كلارك كينت (طوم ويلنج) حيث يقوم بعمليات إنقاذ واسعة تثير الشكوك حوله في بلدة سمولفيل. كلارك كينت سريع للغاية ويقال أنه يعرف طريقه للمشاكل جيدًا. كلارك كينت وُجد من قبل مارثا كينت (أنيت أوتول) وجوناثان كينت (جون شنايدر) في يوم لا يُنسى وتم تبنيه من قبل مارثا وجوناثان. ولكن هناك من ينبش وراء أصل كلارك كينت ويسعى بكل ما أوتي من قوة من أجل كشف سره.",
-  "poster_path": "/74UmeevNyZYR1kyIAwkoIQ1EzCw.jpg",
+  "poster_path": "/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
   "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
   "release_date": "2001-10-16",
   "vote_average": 8.2,
@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tom Welling Erica Durance Cassidy Freeman Justin Hartley",
-  "first_air_date": "2001-10-16"
+  "first_air_date": "2001-10-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

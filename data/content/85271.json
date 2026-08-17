@@ -5,7 +5,7 @@
   "title_en": "WandaVision",
   "slug": "85271-wandavision",
   "overview": "بدأ واندا ماكسيموف وفيجن - وهما مخلوقان يتمتعان بقوة فائقة يعيشان حياة مثالية في الضواحي - في الشك في أن كل شيء ليس كما يبدو.",
-  "poster_path": "/hOYG106lFAcB1TB53T4HoPcTEya.jpg",
+  "poster_path": "/ijWWwINc8h71NQ8j1LTJMFSj5wr.jpg",
   "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
   "release_date": "2021-01-15",
   "vote_average": 8.2,
@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Elizabeth Olsen Paul Bettany Kathryn Hahn Teyonah Parris Randall Park Kat Dennings",
-  "first_air_date": "2021-01-15"
+  "first_air_date": "2021-01-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

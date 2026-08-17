@@ -5,7 +5,7 @@
   "title_en": "Interview with the Vampire",
   "slug": "128098-interview-with-the-vampire",
   "overview": "مقابلة مع مصاص الدماء: مسلسل دراما وفانتازيا يسلط الضوء على حياة مصاص دماء عريق من نيو أورلينز، حيث يلتقي بصحفي مريض ليروي له قصته التي تملؤها الرغبة في الدم وعلاقته المضطربة مع الفرنسي المستهتر الذي حوله إلى مصاص دماء. مقابلة مع مصاص الدماء، مسلسل مثير يجمع بين الدراما والخيال العلمي.",
-  "poster_path": "/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg",
+  "poster_path": "/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
   "backdrop_path": "/1tADVruLbywl7P3TOVQmNza3aAO.jpg",
   "release_date": "2022-10-02",
   "vote_average": 7.5,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jacob Anderson Sam Reid Assad Zaman Delainey Hayles Ben Daniels Eric Bogosian",
-  "first_air_date": "2022-10-02"
+  "first_air_date": "2022-10-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

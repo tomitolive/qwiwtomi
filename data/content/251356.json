@@ -5,7 +5,7 @@
   "title_en": "Zdrada",
   "slug": "251356-zdrada",
   "overview": "مسلسل \"زدرادا\" هو دراما مشوقة مليئة بالغموض والجريمة. تدور أحداثه حول قصة مثيرة للفضول، حيث يكشف المسلسل أسرارًا خفية ويجمع بين عناصر التشويق والإثارة. \"زدرادا\"، المسلسل البولندي الذي سيأخذك في رحلة مليئة بالمفاجآت.",
-  "poster_path": "/2RQIXdCkQzRgWB5KOKtLgxryK7a.jpg",
+  "poster_path": "/amsHR0nvsTzKHgQy7INq2MPBhkS.jpg",
   "backdrop_path": "/2vXp0hLA6AOdSXiAXKXdq6VH1LX.jpg",
   "release_date": "2024-05-10",
   "vote_average": 8.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Anna Karczmarczyk Paweł Małaszyński Dawid Ogrodnik Marieta Żukowska Piotr Polk Dobromir Dymecki Karolina Matej Maciej Kucharski",
-  "first_air_date": "2024-05-10"
+  "first_air_date": "2024-05-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

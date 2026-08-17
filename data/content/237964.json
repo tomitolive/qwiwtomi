@@ -5,7 +5,7 @@
   "title_en": "Death Inc.",
   "slug": "237964-death-inc",
   "overview": "استمتع بمشاهدة مسلسل Muertos .. مترجم بجودة عالية.",
-  "poster_path": "/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+  "poster_path": "/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg",
   "backdrop_path": "/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
   "release_date": "2024-04-04",
   "vote_average": 7.2,
@@ -54,5 +54,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Carlos Areces Gerald B. Fillmore Aitziber Garmendia Ascen López Diego Martín Salva Reina Roque Ruiz Amaia Salamanca",
-  "first_air_date": "2024-04-04"
+  "first_air_date": "2024-04-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

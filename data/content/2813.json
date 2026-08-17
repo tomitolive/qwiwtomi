@@ -66,5 +66,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Mike Connors Gail Fisher Larry Storch Robyn Millan",
-  "first_air_date": "1967-09-16"
+  "first_air_date": "1967-09-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

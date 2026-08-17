@@ -5,7 +5,7 @@
   "title_en": "Shoujo Commando IZUMI",
   "slug": "91791-shoujo-commando-izumi",
   "overview": "تدور أحداث مسلسل \"IZUMI\" أو \"شوجو كوماندو IZUMI\" حول الفتاة إيزومي غوجو، التي تُتهم بالقتل وتختفي في البحر أثناء هروبها من الشرطة. ثم تقوم مجموعة غامضة بإنقاذها وتدريبها لتحويلها إلى قاتلة محترفة. وبعد سنوات، تسعى إيزومي للهروب من هذه المجموعة. مسلسل مليء بالإثارة والحركة.",
-  "poster_path": "/k8AN7L35uA6eEhVZZ1QlvXLWXsI.jpg",
+  "poster_path": "/6TvFAqk2LxU2p0Y9cs3q70aLrnw.jpg",
   "backdrop_path": "/oPHQhWAjtdO8KYbudediQRhAnu2.jpg",
   "release_date": "1987-11-05",
   "vote_average": 6.7,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Izumi Igarashi Mari Kato Takeo Chii Hiroyuki Watanabe Takeyuki Yue Masami Katsuragawa Yuki Sukegawa Hitomi Sugawara",
-  "first_air_date": "1987-11-05"
+  "first_air_date": "1987-11-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

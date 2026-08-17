@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Netherlands",
   "cast": "",
-  "first_air_date": "1990-10-01"
+  "first_air_date": "1990-10-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

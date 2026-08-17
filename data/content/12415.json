@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "South Africa",
   "cast": "",
-  "first_air_date": "1992-04-06"
+  "first_air_date": "1992-04-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

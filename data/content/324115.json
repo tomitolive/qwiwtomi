@@ -5,7 +5,7 @@
   "title_en": "The Evil Lawyer",
   "slug": "324115-the-evil-lawyer",
   "overview": "تدور أحداث مسلسل \"المحامي الشر\" حول محامٍ شاب يجد نفسه متهماً بجريمة وحشية لم يرتكبها، فيلجأ إلى محامية دفاع قاسية لتبرئته وإثبات براءته وكشف الحقيقة. مسلسل جريمة ودراما مشوق.",
-  "poster_path": "/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+  "poster_path": "/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
   "backdrop_path": "/gC6NyZkkyxwzip33k6XJ5ngP0dy.jpg",
   "release_date": "2026-06-11",
   "vote_average": 8.5,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "Thailand",
   "cast": "Rhatha Phongam Nat Kitcharit Atchareeya Potipipittanakorn Songsit Roongnophakunsri",
-  "first_air_date": "2026-06-11"
+  "first_air_date": "2026-06-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

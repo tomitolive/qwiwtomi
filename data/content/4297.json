@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "Edward Woodward",
-  "first_air_date": "1985-09-18"
+  "first_air_date": "1985-09-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

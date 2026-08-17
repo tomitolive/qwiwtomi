@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Selena Gomez David Henrie Jake T. Austin Jennifer Stone David DeLuise Maria Canals-Barrera",
-  "first_air_date": "2007-10-12"
+  "first_air_date": "2007-10-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

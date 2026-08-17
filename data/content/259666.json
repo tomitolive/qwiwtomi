@@ -5,7 +5,7 @@
   "title_en": "No One Will Miss Us",
   "slug": "259666-no-one-will-miss-us",
   "overview": "مسلسل \"Nadie    \" أو \"لا أحد سيشتاق لنا\" هو دراما كوميدية تدور أحداثها في التسعينيات، حيث يدير خمسة من الطلاب الخاسرين عملاً غير قانوني في مدرستهم الثانوية. يقومون ببيع الواجبات المنزلية والمهام الدراسية لزملائهم، مستغلين عدم شك أحد في كونهم من المتفوقين. يجلب لهم هذا العمل المال والشهرة، لكن الهرمونات والموت المفاجئ لشخص ما يهددان بتدمير كل شيء. إذا انهار عملهم، فستكون مستقبلاتهم وصداقاتهم في خطر.",
-  "poster_path": "/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+  "poster_path": "/5U3WiAz67fJn5gnvFk4zOJAx9Sc.jpg",
   "backdrop_path": "/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
   "release_date": "2024-08-09",
   "vote_average": 8.6,
@@ -46,5 +46,8 @@
   "language": "الإسبانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Axel Madrazo Nicolás Haza Virgilio Delgado Camila Calónico Macarena Oz Eduardo Maruri Alejandro Puente Ernesto Laguardia",
-  "first_air_date": "2024-08-09"
+  "first_air_date": "2024-08-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

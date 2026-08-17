@@ -5,7 +5,7 @@
   "title_en": "The Five Star Weekend",
   "slug": "283151-the-five-star-weekend",
   "overview": "تستضيف الشيف الشهيرة هوليس أصدقاءها المقربين في عطلة نهاية أسبوع فاخرة في نانتوكيت، بعد وفاة زوجها المفاجئة وانهيارها العلني. تدور أحداث مسلسل \"عطلة نهاية الأسبوع الخمس نجوم\" في عام 2026، وهو دراما مشوقة تسلط الضوء على حياة هوليس وأصدقائها.",
-  "poster_path": "/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+  "poster_path": "/l9z65nDVteL88PmwDqyiTFmxCtF.jpg",
   "backdrop_path": "/iXp8NomUApw6JVyXssPHLvqkHWC.jpg",
   "release_date": "2026-07-09",
   "vote_average": 2.5,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jennifer Garner D'Arcy Carden Gemma Chan Regina Hall Chloë Sevigny Harlow Jane Timothy Olyphant",
-  "first_air_date": "2026-07-09"
+  "first_air_date": "2026-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

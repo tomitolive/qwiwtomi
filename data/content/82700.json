@@ -5,7 +5,7 @@
   "title_en": "Baby",
   "slug": "82700-baby",
   "overview": "مسلسل \"طفل\" هو دراما إيطالية مشوقة تدور أحداثها حول فتاتين مراهقتين من الطبقة الغنية في روما، حيث يدفعهما الملل من عائلتيهما وزملائهما في المدرسة إلى استكشاف عالم المدينة السفلي وبدء حياة مزدوجة. تتعمق القصة في الصداقة القوية بين الفتاتين وتكشف عن التحديات التي يواجهانها في عالم الجريمة.",
-  "poster_path": "/kSKgyS5ZwiMj97VQ2lD9IBtg1Wd.jpg",
+  "poster_path": "/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg",
   "backdrop_path": "/hcS061TTRke127eJtrbWWPIjUZe.jpg",
   "release_date": "2018-11-30",
   "vote_average": 7.9,
@@ -42,5 +42,8 @@
   "language": "الإيطالية",
   "country": "إيطاليا",
   "cast": "Benedetta Porcaroli Alice Pagani Riccardo Mandolini Chabeli Sastre González Brando Pacitto Lorenzo Zurzolo Massimo Poggio Galatea Ranzi",
-  "first_air_date": "2018-11-30"
+  "first_air_date": "2018-11-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Home Alone",
   "slug": "65282-home-alone",
   "overview": "وحيدا في المنزل، مسلسل واقعي من كوريا الجنوبية، يسلط الضوء على حياة مجموعة من المشاهير الذين يعيشون بمفردهم. يصاحبنا هذا المسلسل الوثائقي الأسلوب في رحلة مع أعضاء نادي قوس قزح، وهو نادي شُكل ذاتيًا يضم المشاهير العزاب الذين اختاروا العيش بمفردهم. استكشف قصصهم واكتشف كيف يجدون السعادة والرضا في حياتهم المستقلة.",
-  "poster_path": "/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+  "poster_path": "/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
   "backdrop_path": "/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
   "release_date": "2013-03-22",
   "vote_average": 7.5,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Park Na-rae Jeon Hyun-moo Key Hwasa Code Kunst Kian84 Lee Jang-woo Lee Ju-seung",
-  "first_air_date": "2013-03-22"
+  "first_air_date": "2013-03-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

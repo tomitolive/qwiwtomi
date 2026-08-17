@@ -5,7 +5,7 @@
   "title_en": "The Young Pope",
   "slug": "62699-the-young-pope",
   "overview": "مسلسل \"البابا الشاب\" أو \"The Young Pope\" هو دراما مشوقة تدور حول ليني بيلاردو، البابا الأمريكي الأصغر سناً والأول في تاريخ الكنيسة، والذي يجب عليه تأسيس بابويته الجديدة والتعامل مع الصراعات على السلطة في الفاتيكان المغلق والغامض. تدور أحداث المسلسل في عام 2016.",
-  "poster_path": "/iaGH4pRNRFo7dTkvHmWJ9C4uPLM.jpg",
+  "poster_path": "/pH3u38DXGoeGUU86ZwJrFGBEPiQ.jpg",
   "backdrop_path": "/v4aq45tW8LNxfLc5fm2j9kNswp4.jpg",
   "release_date": "2016-10-21",
   "vote_average": 7.7,
@@ -42,5 +42,8 @@
   "language": "الإيطالية",
   "country": "فرنسا",
   "cast": "Jude Law Diane Keaton Silvio Orlando Javier Cámara Scott Shepherd Cécile de France Ludivine Sagnier Toni Bertorelli",
-  "first_air_date": "2016-10-21"
+  "first_air_date": "2016-10-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

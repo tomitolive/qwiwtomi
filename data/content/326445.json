@@ -5,7 +5,7 @@
   "title_en": "Peach and Me",
   "slug": "326445-peach-and-me",
   "overview": "تدور أحداث مسلسل \"الخوخ وأنا\" حول الزوجين ثي والخوخ اللذين يخوضان مغامرة الحياة الزوجية بعد زفافهما، حيث يكتشفان معًا أفراح الحياة الزوجية والفوضى التي تأتي معها، بينما يبحثان عن إيقاعهما الخاص. هذا المسلسل الكوميدي الدرامي يسلط الضوء على رحلة الزوجين الفريدة من نوعها. \"Peach  Me\" مسلسل ممتع ومليء باللحظات العاطفية.",
-  "poster_path": "/mPXlYxZyAwggX2E5qMgOQpcB8CX.jpg",
+  "poster_path": "/af9uPoollWKPT7L4uv4mnaopXgb.jpg",
   "backdrop_path": "/4LV2UcsHXxJXjjp8ryeP0qijrl2.jpg",
   "release_date": "2026-07-11",
   "vote_average": 0.5,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Naravit Lertratkosum Phuwin Tangsakyuen Jakrapatr Kaewpanpong Supha Sangaworawong Tanapon Sukumpantanasan Pongsapak Udomphoch Thasorn Klinnium Pattraphus Borattasuwan",
-  "first_air_date": "2026-07-11"
+  "first_air_date": "2026-07-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

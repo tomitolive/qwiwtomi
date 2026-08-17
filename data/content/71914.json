@@ -5,7 +5,7 @@
   "title_en": "The Wheel of Time",
   "slug": "71914-the-wheel-of-time",
   "overview": "تتغير حياة خمسة قرويين للأبد بوصول امرأة غريبة وقوية، تدّعي أن أحدهم هو ولد نبوءة قديمة يملك القوة لترجيح كفة \"النور\" أو \"الظلام\" للأبد. يجب أن يختاروا إن كانوا سيضعون ثقتهم في هذه الغريبة - وفي أحدهم الآخر- لتحديد مصير العالم قبل أن يتحرر \"الأظلم\" من سجنه، وتنشب \"المعركة الأخيرة\".",
-  "poster_path": "/g2YiaizNJi0SY0qHnRdSFz6xoDn.jpg",
+  "poster_path": "/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
   "backdrop_path": "/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
   "release_date": "2021-11-18",
   "vote_average": 7.6,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Rosamund Pike Daniel Henney Josha Stradowski Zoë Robins Madeleine Madden Marcus Rutherford Dónal Finn Ceara Coveney",
-  "first_air_date": "2021-11-18"
+  "first_air_date": "2021-11-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

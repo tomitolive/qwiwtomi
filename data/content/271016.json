@@ -5,7 +5,7 @@
   "title_en": "Mystic Nine",
   "slug": "271016-mystic-nine",
   "overview": "تتبع أحداث مسلسل \"الصوفي تسعة\" مغامرات زانج تشيانج وهو ينضم إلى وو لاوجو، إلى جانب هوو شيانجو وأعضاء آخرين من الصوفي تسعة، عندما تعود الاضطرابات إلى تشانجشا. يكشف الاختفاء الغامض للوحدة 401 سرًا عمره قرن. يواجهون خيارات حياة أو موت، ملتزمين بالصداقة، ومسؤولياتهم تجاه طوائفهم، وتفانيهم لوطنهم، ويواجهون المخاطر لحماية وطنهم والتغلب على الأزمة. (Mystic Nine)",
-  "poster_path": "/8jb87VHtwuViVNdYBvmniiy9OES.jpg",
+  "poster_path": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
   "backdrop_path": "/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
   "release_date": "2026-07-30",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "William Chan Wai-Ting Joseph Zeng Chen Yao Ying Haoming Wang Yiting",
-  "first_air_date": "2026-07-30"
+  "first_air_date": "2026-07-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

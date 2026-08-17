@@ -5,7 +5,7 @@
   "title_en": "The Flash",
   "slug": "60735-the-flash",
   "overview": "بعد أن شاهد والدته تقتل على يد شيء خارق للطبيعة وإدانة والده بالجريمة  التي لم يرتكبها، يذهب باري ألين للعيش مع المحقق جو ويست وعائلته. يكبر ألين ويصبح محقق جرائم ذكي لكن غريب الاطوار في دائرة شرطة سنترال سيتي. في  يوم من الأيام تضرب عاصفة غامضة باري ألين وتعطيه سرعة خارقه. يستغل باري  قدرته الجديدة في محاربة الجريمة وآخرين يمتلكون قدرات خارقة بمساعدة  أصدقائه في مختبرات ستار وفي نفس الوقت يحاول معرفة من قتل والدته عندما  كان صغيراً.",
-  "poster_path": "/on67BDRo1P6LrsYpnmviCfXN6kR.jpg",
+  "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
   "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
   "release_date": "2014-10-07",
   "vote_average": 7.8,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Grant Gustin Candice Patton Danielle Panabaker Danielle Nicolet Kayla Compton Brandon McKnight Jon Cor",
-  "first_air_date": "2014-10-07"
+  "first_air_date": "2014-10-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

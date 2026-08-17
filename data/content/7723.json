@@ -5,7 +5,7 @@
   "title_en": "The Promise",
   "slug": "7723-the-promise",
   "overview": "يتبع مسلسل \"يَمِين\" قصة فتاة ريفية لطيفة تدعى \"ريهان\" توافق على الزواج من شاب ثري من إسطنبول يدعى \"إمير\" كخدمة أخيرة لوالد إمير المحتضر. يخطط إمير لجعل حياتها صعبة لدرجة تجعلها تتركه، لكنه لم يتوقع أن يقع في حبها. إنه مسلسل كلاسيكي عن العدو الذي يتحول إلى حبيب، يجمع بين الدراما العائلية والمؤامرات العائلية، مع الكثير من المفاجآت التي ستجعلك تواصل المشاهدة حتى وقت متأخر من الليل. \"The Promise\" مسلسل تركي مكون من مئات الحلقات المشوقة.",
-  "poster_path": "/nJ5BqrUwTdiqTn2ip2qC3sp6uAz.jpg",
+  "poster_path": "/AoBclUt4U7xlNQODEydakdW7fKu.jpg",
   "backdrop_path": "/4HI2EyNjULY3v75N1a1yAgMRRO3.jpg",
   "release_date": "2019-02-18",
   "vote_average": 5.8,
@@ -50,5 +50,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Gökberk Demirci Can Verel Esra Çoban Setenay Süer Gül Arcan Yagmur Sahbazova Derya Kurtuluş Oktar Gozde Gunduzlu",
-  "first_air_date": "2019-02-18"
+  "first_air_date": "2019-02-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

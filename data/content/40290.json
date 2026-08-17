@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Gordon Ramsay Joe Bastianich Tiffany Derry",
-  "first_air_date": "2010-07-27"
+  "first_air_date": "2010-07-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

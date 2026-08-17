@@ -5,7 +5,7 @@
   "title_en": "The Lord of the Rings: The Fellowship of the Ring",
   "slug": "120-the-lord-of-the-rings-the-fellowship-of-the-ring",
   "overview": "يجب على الهوبيت الصغير فرودو باجينز ، بعد أن ورث خاتمًا غامضًا من عمه بيلبو ، مغادرة منزله لمنعه من الوقوع في أيدي خالقه الشرير. على طول الطريق ، يتم تشكيل زمالة لحماية حامل الحلقة والتأكد من وصول الحلقة إلى وجهتها النهائية: جبل. الموت المكان الوحيد الذي يمكن تدميره فيه.",
-  "poster_path": "/dmWSRqxdz3KPM4SsgVBhXIGxJEf.jpg",
+  "poster_path": "/ubfXgkWqerFUiuEz7oSyy6PlpCo.jpg",
   "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
   "release_date": "2001-12-18",
   "vote_average": 8.4,
@@ -54,5 +54,8 @@
   "duration": "179 دقيقة",
   "language": "الإنجليزية",
   "country": "نيوزيلندا",
-  "cast": "Elijah Wood Ian McKellen Viggo Mortensen Sean Astin Ian Holm"
+  "cast": "Elijah Wood Ian McKellen Viggo Mortensen Sean Astin Ian Holm",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

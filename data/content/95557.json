@@ -5,7 +5,7 @@
   "title_en": "INVINCIBLE",
   "slug": "95557-invincible",
   "overview": "عندما يرث \"مارك غرايسون\" قوى خارقة في السابعة عشر من عمره، ينضم إلى والده كواحد من أعظم أبطال الأرض. هذا يحقق جميع أحلامه - إلى أن يغير حدث مروع كل شيء",
-  "poster_path": "/pKf7GfJcuU4ypEUjGnts2D83oqL.jpg",
+  "poster_path": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
   "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
   "release_date": "2021-03-25",
   "vote_average": 8.6,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "Steven Yeun Sandra Oh J.K. Simmons",
-  "first_air_date": "2021-03-25"
+  "first_air_date": "2021-03-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

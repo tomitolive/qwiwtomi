@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "David Letterman Paul Shaffer Alan Kalter",
-  "first_air_date": "1993-08-30"
+  "first_air_date": "1993-08-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

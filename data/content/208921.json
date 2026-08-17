@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "David Tennant Aidan Turner Danny Dyer Alex Hassell Nafessa Williams Bella Maclean Katherine Parkinson Victoria Smurfit",
-  "first_air_date": "2024-10-18"
+  "first_air_date": "2024-10-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

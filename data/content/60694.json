@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "John Oliver",
-  "first_air_date": "2014-04-27"
+  "first_air_date": "2014-04-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

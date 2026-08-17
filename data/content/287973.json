@@ -5,7 +5,7 @@
   "title_en": "Ren Arisugawa Is Actually a Girl",
   "slug": "287973-ren-arisugawa-is-actually-a-girl",
   "overview": "استمتع بمشاهدة مسلسل رن أريسوجاوا هي في الواقع فتاة مترجم بجودة عالية.",
-  "poster_path": "/m9d3D1U9bdzV4vCHvr2PkdCW92z.jpg",
+  "poster_path": "/g2bhjJwPuAfOuxc5GpQsiY0MXJW.jpg",
   "backdrop_path": "/eu87J5S0N8YpcdL3sl0ltxpXfog.jpg",
   "release_date": "2026-01-05",
   "vote_average": 5.0,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuki Nishiyama Amai Miruku Natsue Sasamoto Noel Kanzaki Miho Hayashi Konbu Ariake",
-  "first_air_date": "2026-01-05"
+  "first_air_date": "2026-01-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

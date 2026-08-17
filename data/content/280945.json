@@ -5,7 +5,7 @@
   "title_en": "Bon Apptit, Your Majesty",
   "slug": "280945-bon-apptit-your-majesty",
   "overview": "بعد السفر عبر الزمن إلى عصر مملكة \"جوسون\"، تلتقي طاهية ماهرة بملك طاغية وتسحر ذوقه بأطباقها العصرية... لكن ثمة تحديات مَلَكية تترقبها.",
-  "poster_path": "/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
+  "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
   "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
   "release_date": "2025-08-23",
   "vote_average": 8.7,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Yoona Lee Chae-min Kang Han-na Choi Gwi-hwa Oh Eui-sik Seo Yi-sook Park Young-woon Yoon Seo-ah",
-  "first_air_date": "2025-08-23"
+  "first_air_date": "2025-08-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

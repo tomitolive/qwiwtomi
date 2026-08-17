@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jason Momoa Sylvia Hoeks Hera Hilmar Christian Camargo Archie Madekwe Nesta Cooper Eden Epstein Olivia Cheng",
-  "first_air_date": "2019-11-01"
+  "first_air_date": "2019-11-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

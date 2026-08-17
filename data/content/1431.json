@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ted Danson George Eads Jorja Fox Eric Szmanda Robert David Hall Wallace Langham Jon Wellner Elisabeth Harnois",
-  "first_air_date": "2000-10-06"
+  "first_air_date": "2000-10-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

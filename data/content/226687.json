@@ -5,7 +5,7 @@
   "title_en": "All Elite Wrestling: Collision",
   "slug": "226687-all-elite-wrestling-collision",
   "overview": "استمتع بمشاهدة مسلسل جميع مصارعة النخبة: الاصطدام مترجم بجودة عالية.",
-  "poster_path": "/85ZKXqPiZHjPPxeoR26dyodqHVZ.jpg",
+  "poster_path": "/1fpieJeuOpA9Q44s77zEnB03xqS.jpg",
   "backdrop_path": "/6fbzFk1fTE8I8UEYn9hG9dUo8jh.jpg",
   "release_date": "2023-06-17",
   "vote_average": 7.7,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Steven Haworth Tony Schiavone",
-  "first_air_date": "2023-06-17"
+  "first_air_date": "2023-06-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

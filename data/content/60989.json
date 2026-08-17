@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Pepper Schwartz",
-  "first_air_date": "2014-07-08"
+  "first_air_date": "2014-07-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

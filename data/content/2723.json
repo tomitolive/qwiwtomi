@@ -5,7 +5,7 @@
   "title_en": "Samurai Jack",
   "slug": "2723-samurai-jack",
   "overview": "يُنفى محارب عظيم إلى مستقبل بعيد بواسطة الساحر الشرير متغير الشكل \"آكو\". تحت حكم آكو، أصبح العالم مكاناً قاتماً، مقسماً إلى قبائل غريبة ويحكمه أمراء حرب آليون. يجوب جاك هذا العالم الغريب بحثاً عن بوابة زمنية تعيده إلى زمنه الأصلي كي \"يمحو المستقبل الذي صنعه آكو!\".",
-  "poster_path": "/zBdtvNog9I1C9SNLxom0WauNMSF.jpg",
+  "poster_path": "/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
   "backdrop_path": "/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
   "release_date": "2001-08-10",
   "vote_average": 8.4,
@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Phil LaMarr Greg Baldwin Tara Strong Grey DeLisle",
-  "first_air_date": "2001-08-10"
+  "first_air_date": "2001-08-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Haikyu!!",
   "slug": "60863-haikyu",
   "overview": "تدور قصة هذا الأنمي حول \"هيناتا شويو\" الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه الامر وبدأ يتعلم هذه الرياضة ليدخل نادي للكرة الطائرة ويبدأ بطلنا قصته مع فريقه الشبه منسي الملقب بالغربان التي لا تطير (كراسنو) ويبدأ مع فريقه قصة السعي نحو البطولة والإنتر هاي في محاولة لإستعادة المجد.",
-  "poster_path": "/qfbSf3EBBeGx3wkOe3AsCe5dmvo.jpg",
+  "poster_path": "/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
   "backdrop_path": "/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "release_date": "2014-04-06",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ayumu Murase Kaito Ishikawa",
-  "first_air_date": "2014-04-06"
+  "first_air_date": "2014-04-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

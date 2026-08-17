@@ -5,7 +5,7 @@
   "title_en": "One Hundred Years of Solitude",
   "slug": "207333-one-hundred-years-of-solitude",
   "overview": "في بلدة \"ماكوندو\" الخالدة، تخوض سبعة أجيال من عائلة \"بوينديا\" غمار الحب والنسيان في ظل عجز أفرادها عن تخطي ماضيهم... والهروب من مصيرهم.",
-  "poster_path": "/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg",
+  "poster_path": "/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
   "backdrop_path": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
   "release_date": "2024-12-11",
   "vote_average": 7.9,
@@ -46,5 +46,8 @@
   "language": "الإسبانية",
   "country": "كولومبيا",
   "cast": "",
-  "first_air_date": "2024-12-11"
+  "first_air_date": "2024-12-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

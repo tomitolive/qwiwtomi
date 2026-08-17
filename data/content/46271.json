@@ -5,7 +5,7 @@
   "title_en": "Secret Story",
   "slug": "46271-secret-story",
   "overview": "تستكشف قصة سرية، المسلسل الواقعي الشيق، حياة مجموعة من المتسابقين الذين ينفصلون عن العالم الخارجي لمدة تتراوح بين عشرة وخمسة عشر أسبوعًا في \"بيت الأسرار\"، حيث يتم تجهيز كل غرفة بكاميرات فيديو، باستثناء الحمام. الهدف هو الحفاظ على السر ومحاولة اكتشاف أسرار المتسابقين الآخرين. \"قصة سرية\"، أو \"Secret Story\"، هي رحلة مثيرة في عالم الأسرار والغموض.",
-  "poster_path": "/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+  "poster_path": "/WMrPHcfm29AIItYLNJKM4YItwZ.jpg",
   "backdrop_path": "/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
   "release_date": "2007-06-23",
   "vote_average": 3.5,
@@ -42,5 +42,8 @@
   "language": "الفرنسية",
   "country": "فرنسا",
   "cast": "Dominique Duforest Christophe Beaugrand Arwen Malo Maguette Léonie Greta Lou",
-  "first_air_date": "2007-06-23"
+  "first_air_date": "2007-06-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "La Casa de los Famosos",
   "slug": "137228-la-casa-de-los-famosos",
   "overview": "انضم إلى نجومك المفضلين في \"La Casa de los Famosos\"، المسلسل الواقعي الذي يسلط الضوء على حياة المشاهير داخل منزل واحد. تابع الأحداث المثيرة واللحظات العاطفية في هذا الموسم المليء بالتشويق. لا تفوت فرصة مشاهدة \"La Casa de los Famosos\"، المسلسل الذي سيأخذك في رحلة داخل عالم الشهرة.",
-  "poster_path": "/os706RrUUFdW8sWuo1qmmCDv6OE.jpg",
+  "poster_path": "/e9lsyKetO6Ndji4OlYxL8PNC6W.jpg",
   "backdrop_path": "/qNT2VZqK3ZQsXr5wBBXqO4kdVtk.jpg",
   "release_date": "2021-08-24",
   "vote_average": 8.9,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المكسيك",
   "cast": "Javier Poza Jimena Gallego",
-  "first_air_date": "2021-08-24"
+  "first_air_date": "2021-08-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

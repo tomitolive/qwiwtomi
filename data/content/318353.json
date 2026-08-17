@@ -5,7 +5,7 @@
   "title_en": "Story of His Maid",
   "slug": "318353-story-of-his-maid",
   "overview": "تدور أحداث مسلسل \"قصة خادمته\" في موسكو بالقرن التاسع عشر، حيث الحفلات الباذخة والقصور البراقة والمؤامرات الخفية. يعود الشاب الأعزب المرغوب، الكونت نيكولاي شيريميتيف، إلى مجتمع الطبقة الراقية بعد الحرب. وصوله يثير دوائر المجتمع الراقي: حيث تحيك الأمهات وبناتهن المؤامرات، ويحلمين بالحصول على عريس ثري. لكن بالنسبة لنيكولاي نفسه، الأمور أكثر تعقيدًا - وفقًا لوصية والدته، يجب عليه الزواج خلال عام وإلا سيفقد ميراثه. في هذه الأثناء، توشك عائلة أفيرين على الانهيار بسبب ديون القمار لرئيس العائلة. تقرر ابنتهم آنا، وهي نبيلة عنيدة وذكية، مقابلة الكونت شخصيًا، آملة في أن يسامحها في الديون. \"قصة خادمته\"، مسلسل درامي مثير يسلط الضوء على عالم النبلاء الروسي.",
-  "poster_path": "/685mzbWfglvHVwS9eKft0EpsWId.jpg",
+  "poster_path": "/7mRwEmCXt0VRF4dK6qliiy500dZ.jpg",
   "backdrop_path": "/aS7frx5uKSY9yNRCnMeBm3IDaVS.jpg",
   "release_date": "2026-06-02",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الروسية",
   "country": "روسيا",
   "cast": "Milana Bru Matvey Lykov Михаил Сотников Veronika Zhuravleva Ekaterina Guseva Viktor Vasilyev Olga Lomonosova Vyacheslav Chepurchenko",
-  "first_air_date": "2026-06-02"
+  "first_air_date": "2026-06-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Chainsmoker Cat",
   "slug": "312949-chainsmoker-cat",
   "overview": "تكافح ياني، الفتاة القطة، لتسديد إيجارها والحفاظ على وظيفتها، بينما تنفق أموالها على تدخين السجائر. ومع تزايد قلق أحبائها، عليها أن تعيد التفكير في مستقبلها.",
-  "poster_path": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+  "poster_path": "/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
   "backdrop_path": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
   "release_date": "2026-07-03",
   "vote_average": 8.4,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuko Natsuyoshi Misato Matsuoka Yurie Funato Ayaka Shimizu Shiori Izawa Riko Akechi Tetsu Inada Rina Honnizumi",
-  "first_air_date": "2026-07-03"
+  "first_air_date": "2026-07-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

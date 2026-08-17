@@ -5,7 +5,7 @@
   "title_en": "The Kapil Sharma Show",
   "slug": "66465-the-kapil-sharma-show",
   "overview": "استمتع بمشاهدة مسلسل عرض كابيل شارما مترجم بجودة عالية.",
-  "poster_path": "/bUlgDjaxYkBrbOxjJef2qkFBAjb.jpg",
+  "poster_path": "/fBPNBNFmcwhYXUpkW2Kb6jbeJOR.jpg",
   "backdrop_path": "/xV0JOheZzmemwdpq1fahTnfAUoU.jpg",
   "release_date": "2016-04-23",
   "vote_average": 7.0,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الهند",
   "cast": "Kapil Sharma Archana Puran Singh Krishna Abhishek Kiku Sharda Sumona Chakravarti",
-  "first_air_date": "2016-04-23"
+  "first_air_date": "2016-04-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "31 Minutes",
   "slug": "43-31-minutes",
   "overview": "31 Minutos هو مسلسل كوميدي عائلي ممتع، يروي مغامرات فريق نشرة إخبارية منخفضة المستوى، حيث تحدث دائمًا أمور غير متوقعة. تتناول الحلقات مواضيع متنوعة، بعضها مضحك للغاية وبعضها الآخر تعليمي، ويحمل رسائل ضمنية وصريحة. يستضيف البرنامج الإخباري توليو تريفينو.",
-  "poster_path": "/rI0hXEJFcgRaigCWGEuqEXQvOjY.jpg",
+  "poster_path": "/gmcPitg67n22lm39vxbmX8U9eof.jpg",
   "backdrop_path": "/ooFdkopLCwPp42zymuM9syg8M22.jpg",
   "release_date": "2003-03-15",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "تشيلي",
   "cast": "Pedro Peirano Álvaro Díaz González Daniel Castro Rodrigo Salinas Jani Dueñas Guillermo Silva Felipe Godoy Héctor Velozo",
-  "first_air_date": "2003-03-15"
+  "first_air_date": "2003-03-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ben McKenzie Michael Cudlitz Regina King Shawn Hatosy C. Thomas Howell",
-  "first_air_date": "2009-04-09"
+  "first_air_date": "2009-04-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

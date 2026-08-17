@@ -5,7 +5,7 @@
   "title_en": "Girl from Nowhere: The Reset",
   "slug": "310935-girl-from-nowhere-the-reset",
   "overview": "في عالم جديد، تتنكر الفتاة الغامضة \"نانو\" كطالبة منقولة، فتُسقط قناع القسوة وتقلب موازين السُّلطة والشعور بالذنب والرغبة في وجه مَن يؤذون الآخرين باستغلالهم.",
-  "poster_path": "/wlqM6zg6tI177njuc7f82wx34Nd.jpg",
+  "poster_path": "/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
   "backdrop_path": "/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
   "release_date": "2026-03-07",
   "vote_average": 7.7,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "Thailand",
   "cast": "Becky Armstrong",
-  "first_air_date": "2026-03-07"
+  "first_air_date": "2026-03-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

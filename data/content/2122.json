@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Mike Judge Kathy Najimy Pamela Adlon Stephen Root Lauren Tom",
-  "first_air_date": "1997-01-12"
+  "first_air_date": "1997-01-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

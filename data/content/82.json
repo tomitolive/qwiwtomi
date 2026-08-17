@@ -5,7 +5,7 @@
   "title_en": "Animaniacs",
   "slug": "82-animaniacs",
   "overview": "يحكي مسلسل الضاحكون قصة ثلاثة أخوة «واكو، ياكو، دوت» فروا من المرسم في عام 1929 وأخذوا يقومون بأعمال شغب كثيرة وفي كل مكان، مطاردات، إزعاج.",
-  "poster_path": "/zXKhRLTRoVd8M94K4ilnUubwaip.jpg",
+  "poster_path": "/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg",
   "backdrop_path": "/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
   "release_date": "1993-09-13",
   "vote_average": 8.0,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Rob Paulsen Jess Harnell Tress MacNeille Maurice LaMarche Sherri Stoner Chick Vennera John Mariano Nathan Ruegger",
-  "first_air_date": "1993-09-13"
+  "first_air_date": "1993-09-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

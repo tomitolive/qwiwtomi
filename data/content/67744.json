@@ -5,7 +5,7 @@
   "title_en": "MINDHUNTER",
   "slug": "67744-mindhunter",
   "overview": "يوسّع عميلان من مكتب التحقيقات الفيدرالي علوم البحث الجنائي عن طريق الغوص في الدوافع النفسية خلف القتل والتقرّب بارتياب من وحوش حقيقية.",
-  "poster_path": "/27EO9cHirq9j6TGQBPkNJ63r3gy.jpg",
+  "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
   "backdrop_path": "/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
   "release_date": "2017-10-13",
   "vote_average": 8.1,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jonathan Groff Holt McCallany Anna Torv Stacey Roca",
-  "first_air_date": "2017-10-13"
+  "first_air_date": "2017-10-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

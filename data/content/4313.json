@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "John Stamos Bob Saget Dave Coulier Candace Cameron Bure Jodie Sweetin Lori Loughlin Blake Tuomy-Wilhoit Dylan Tuomy-Wilhoit",
-  "first_air_date": "1987-09-22"
+  "first_air_date": "1987-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

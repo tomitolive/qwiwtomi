@@ -5,7 +5,7 @@
   "title_en": "The Bridge",
   "slug": "45016-the-bridge",
   "overview": "استمتع بمشاهدة مسلسل الجسر مترجم بجودة عالية.",
-  "poster_path": "/ieZK3u4tumJB7KJsWN0nzdofvn8.jpg",
+  "poster_path": "/v8V9hLWArWhoIdmZ1ujmWrJZL6J.jpg",
   "backdrop_path": "/7nX2uLLaVnFUR6azLDXQsjQBQvI.jpg",
   "release_date": "2011-09-21",
   "vote_average": 8.1,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "Denmark",
   "cast": "Sofia Helin Thure Lindhardt Mikael Birkkjær Sarah Boberg Rafael Pettersson Julie Carlsen Maria Kulle Anders Mossling",
-  "first_air_date": "2011-09-21"
+  "first_air_date": "2011-09-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

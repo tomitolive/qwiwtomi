@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Baker Mayfield Jayden Daniels Joe Flacco Cam Ward",
-  "first_air_date": "2023-07-12"
+  "first_air_date": "2023-07-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

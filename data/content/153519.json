@@ -5,7 +5,7 @@
   "title_en": "Neymar: The Perfect Chaos",
   "slug": "153519-neymar-the-perfect-chaos",
   "overview": "يستعرض مسلسل \"نيمار: الفوضى المثالية\" حياة نيمار الشخصية والمهنية المثيرة للجدل. يشارك نيمار، المحبوب عالميًا والذي يتعرض أيضًا لانتقادات لاذعة، ذكريات من حياته الشخصية ومسيرته الكروية المذهلة. \"نيمار: The Perfect Chaos\"، مسلسل وثائقي مثير لعام 2022.",
-  "poster_path": "/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+  "poster_path": "/nZNd2kJMNg2qz89pQ0gVvPP064z.jpg",
   "backdrop_path": "/n5sd00C93RHi8qxvcFntCVpR1D8.jpg",
   "release_date": "2022-01-25",
   "vote_average": 7.3,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "البرازيل",
   "cast": "Neymar Lionel Messi Kylian Mbappé Thiago Silva Dani Alves David Beckham Marconi De Morais Marquinhos",
-  "first_air_date": "2022-01-25"
+  "first_air_date": "2022-01-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

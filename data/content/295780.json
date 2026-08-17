@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Larry David",
-  "first_air_date": "2026-06-26"
+  "first_air_date": "2026-06-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

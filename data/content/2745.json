@@ -5,7 +5,7 @@
   "title_en": "Aladdin",
   "slug": "2745-aladdin",
   "overview": "تبدأ القصة مع السلطان الذي يبحث عن زوج لابنته بدر البدور، فيخطر في بال الوزير فكرة، فيفكر أن تتزوج بدر البدور من ابن الوزير. وفي مكان آخر اقشر واقيشر الذين يبحثون عن المصباح العجيب، ولكن يجب على شاب تنطبق عليه المواصفات أن يأخذه. وفي مكان آخر، قرر علاء الدين أن يخرج في سفر للتجارة، فباع دكان أبوه، وحاولت أمه أن تمنعه، ولكن التجار الذي اتفق معهم سرقوه وضاع في الغابة. وفي نفس الوقت هربت بدر البدور من القصر خوفا من مراسم الزواج من ابن الوزير.",
-  "poster_path": "/7uHmsNOPfAKm8bQA89RIk1afReN.jpg",
+  "poster_path": "/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
   "backdrop_path": "/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
   "release_date": "1994-02-06",
   "vote_average": 7.0,
@@ -70,5 +70,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Scott Weinger Linda Larkin Dan Castellaneta Gilbert Gottfried Frank Welker Val Bettin",
-  "first_air_date": "1994-02-06"
+  "first_air_date": "1994-02-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Teach You a Lesson",
   "slug": "276161-teach-you-a-lesson",
   "overview": "تنهار قواعد الاحترام في المدارس، فيصل مفتشون غير تقليديين لإعادة الأمور إلى نصابها، بدروس حازمة لا هوادة فيها لن تجدها في الكتب.",
-  "poster_path": "/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
+  "poster_path": "/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
   "backdrop_path": "/vAlyMWbVUWImy0SFsDdROjy23mK.jpg",
   "release_date": "2026-06-05",
   "vote_average": 7.6,
@@ -48,5 +48,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Moo-yul Lee Sung-min Jin Ki-joo Pyo Ji-hoon Song Young-gyu Kim Jong-soo Lee Chan-yong Lee Tae-hwan",
-  "first_air_date": "2026-06-05"
+  "first_air_date": "2026-06-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

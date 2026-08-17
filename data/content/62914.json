@@ -5,7 +5,7 @@
   "title_en": "Merl",
   "slug": "62914-merl",
   "overview": "ميرل، مسلسل كوميدي درامي، يسلط الضوء على الأستاذ الفلسفي الجديد ميرلي، الذي سيغير حياة طلابه للأبد. إنه شخص صعب المراس، وغير تقليدي، وصريح للغاية، وسيقدم لهم نظرة جديدة للعالم داخل وخارج الفصل الدراسي. \"ميرل\"، مسلسل إسباني ممتع ومثير للاهتمام.",
-  "poster_path": "/wQaGnuwIHhmB1jgY6CM3rJgScYR.jpg",
+  "poster_path": "/9vgRQG0lFpqgcWg3KsS6UcQBW4U.jpg",
   "backdrop_path": "/1p7cUZ0X9YXX4FZ4aTdLYLdH64S.jpg",
   "release_date": "2015-09-14",
   "vote_average": 8.6,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "إسبانيا",
   "cast": "Francesc Orella Carlos Cuevas David Solans Elisabet Casanovas Adrian Grösser Marcos Franz Júlia Creus Albert Baró",
-  "first_air_date": "2015-09-14"
+  "first_air_date": "2015-09-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Elite Force",
   "slug": "281281-elite-force",
   "overview": "مسلسل \"GIGN\" أو \"Elite Force\" هو عمل درامي مليء بالحركة والمغامرة، حيث يتعرض فريق GIGN لهجوم غير مسبوق، وفي خضم ذلك، يجد أحد الضباط نفسه في مهمة خطيرة بعد تقاعده مباشرة، مما يضيف مزيدًا من الإثارة والتشويق إلى القصة. تدور أحداث المسلسل في عام 2026.",
-  "poster_path": "/uQaXsUheuuV0pnHoCuNk9hyrwKF.jpg",
+  "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
   "backdrop_path": "/yqavGt058YB6o2SOJunH0ZJYn6h.jpg",
   "release_date": "2026-07-22",
   "vote_average": 6.0,
@@ -50,5 +50,8 @@
   "language": "الفرنسية",
   "country": "فرنسا",
   "cast": "Tomer Sisley Guillaume Gouix Philip Schurer Nicolas Wanczycki Leanna Chea Géraldine Pailhas Tristan Zanchi Thierry Neuvic",
-  "first_air_date": "2026-07-22"
+  "first_air_date": "2026-07-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

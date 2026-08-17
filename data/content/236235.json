@@ -5,7 +5,7 @@
   "title_en": "The Gentlemen",
   "slug": "236235-the-gentlemen",
   "overview": "عندما يرث \"إيدي\" الأرستقراطي عقار العائلة، يكتشف أنه يحتضن إمبراطورية عملاقة لتجارة الحشيش... والتي لن يتحرك أصحابها من مكانهم.",
-  "poster_path": "/mnEsDOlBKnvJu5CL6sBoYwa1aGG.jpg",
+  "poster_path": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
   "backdrop_path": "/iJMSvEENvkgIEImhBSKmGCev15w.jpg",
   "release_date": "2024-03-07",
   "vote_average": 7.8,
@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Theo James Kaya Scodelario Daniel Ings Joely Richardson Vinnie Jones Giancarlo Esposito",
-  "first_air_date": "2024-03-07"
+  "first_air_date": "2024-03-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

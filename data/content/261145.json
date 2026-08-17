@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "أستراليا",
   "cast": "Lizzie Freeman Alex Rochon Michael Kovach Amanda Hufford Marissa Lenti Sean Chiplock Ashley Nichols Gooseworx",
-  "first_air_date": "2023-10-13"
+  "first_air_date": "2023-10-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

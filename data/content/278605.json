@@ -5,7 +5,7 @@
   "title_en": "Archives: The Nanyang Mystery",
   "slug": "278605-archives-the-nanyang-mystery",
   "overview": "استمتع بمشاهدة مسلسل المحفوظات: لغز نانيانغ مترجم بجودة عالية.",
-  "poster_path": "/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+  "poster_path": "/nb3bRhhopMxZYLMKIVilKV6PgqN.jpg",
   "backdrop_path": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
   "release_date": "2026-06-11",
   "vote_average": 7.0,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Zhang Xincheng Ding Yuxi Jiang Peiyao Fu Dalong Liu Lingzi Zhang Chenxiao Li Huan Jiang Zhuojun",
-  "first_air_date": "2026-06-11"
+  "first_air_date": "2026-06-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

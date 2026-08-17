@@ -5,7 +5,7 @@
   "title_en": "Never-Ending Summer",
   "slug": "288603-never-ending-summer",
   "overview": "مسلسل \"الصيف الذي لا ينتهي\" أو \"Never-Ending Summer\" هو دراما رومانسية مؤثرة. تدور أحداث المسلسل حول الطالبة المتفوقة زهو وان التي تلجأ إلى ابن زوجة والدتها، لو سيسياو، لمساعدتها في علاج جدتها المريضة. يقع الاثنان في الحب خلال صيف تخرجهما، لكنهما يفترقان بسبب سوء فهم. وبعد مرور عشر سنوات، يلتقيان مجددًا في العمل، حيث يكتشفان الحقيقة وراء \"حادث المصنع\"، ويقرران تصفية خلافاتهما والعودة معًا.",
-  "poster_path": "/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+  "poster_path": "/9bB4tJbjViEsQCMJ0qth7wuzpNA.jpg",
   "backdrop_path": "/80vo7eYhAXPJltu32lG5JGrGPzG.jpg",
   "release_date": "2026-06-16",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Bao Shangen Daniel Zhou Zhao Yingbo Fu Weilun Xu Yuanyina Ke Chun Yang Qiyuan",
-  "first_air_date": "2026-06-16"
+  "first_air_date": "2026-06-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

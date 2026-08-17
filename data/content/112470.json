@@ -46,5 +46,8 @@
   "language": "الفرنسية",
   "country": "فرنسا",
   "cast": "Pierre Hurel Sabine Perraud Mikael Mittelstadt Fabian Wolfrom",
-  "first_air_date": "2020-11-02"
+  "first_air_date": "2020-11-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

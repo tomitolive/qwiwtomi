@@ -5,7 +5,7 @@
   "title_en": "Star Trek: Strange New Worlds",
   "slug": "103516-star-trek-strange-new-worlds",
   "overview": "تابع قصة Christopher Pike و Spock و Number One قبل سنوات من وصول الكابتن Kirk إلى U.S.S. Enterprise ، وهم يستكشفون عوالم جديدة حول المجرة.  تقع أحداث القصة قبل مسلسل Star Trek: The Original Series و Star Trek: Discovery.",
-  "poster_path": "/twnZzawRaodWcjw6yBCzhXCnfK5.jpg",
+  "poster_path": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
   "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
   "release_date": "2022-05-05",
   "vote_average": 8.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Anson Mount Ethan Peck Jess Bush Christina Chong Celia Rose Gooding Melissa Navia Babs Olusanmokun Rebecca Romijn",
-  "first_air_date": "2022-05-05"
+  "first_air_date": "2022-05-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

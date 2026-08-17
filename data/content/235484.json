@@ -5,7 +5,7 @@
   "title_en": "Suidooster",
   "slug": "235484-suidooster",
   "overview": "مسلسل \"سويدوستر\" هو أوبرا صابونية جنوب أفريقية تدور أحداثها حول سيدة عظيمة، وعائلتها، وأصدقائها، وسكان \"سويدوستر\"، وهو مركز تسوق ومركز أعمال صغير في ضاحية خيالية في كيب تاون تسمى رويتربوش. تسلط هذه السلسلة الضوء على العلاقات المعقدة والدراما اليومية في حياة الشخصيات.",
-  "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+  "poster_path": "/u4tPY6df9atOne5soyW7vUyRgvD.jpg",
   "backdrop_path": "/ynd225o8GuCahYGjHtFdEt8Xizm.jpg",
   "release_date": "2015-11-16",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "South Africa",
   "cast": "Portia Joel Denise Newman Jill Levenberg Simone Biscombe Irshaad Ally Eden Classens Gantane Gwane Kusch Lauren Joseph",
-  "first_air_date": "2015-11-16"
+  "first_air_date": "2015-11-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

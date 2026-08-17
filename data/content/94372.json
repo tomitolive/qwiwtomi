@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Dylan McDermott Shantel VanSanten Roxy Sternberg Keisha Castle-Hughes Edwin Hodge",
-  "first_air_date": "2020-01-07"
+  "first_air_date": "2020-01-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

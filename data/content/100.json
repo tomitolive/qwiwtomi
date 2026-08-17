@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Steve Coogan Julia Davis Simon Pegg Kevin Eldon Amelia Bullmore Arthur Mathews John Shrapnel",
-  "first_air_date": "2004-05-10"
+  "first_air_date": "2004-05-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

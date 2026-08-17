@@ -48,5 +48,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Dana White",
-  "first_air_date": "2005-01-17"
+  "first_air_date": "2005-01-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

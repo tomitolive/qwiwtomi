@@ -5,7 +5,7 @@
   "title_en": "Yellowstone",
   "slug": "73586-yellowstone",
   "overview": "تعيش عائلة (دوتون) كأكبر عائلة في الولايات المتحدة تدير أراضي زراعية، ولكنهم دائمًا يتعرضون لمضايقات من تجار الأراضي، حيث يتعين على العائلة التصدي لتعدي جديد على أرضهم.",
-  "poster_path": "/oroqsEu9qKeYE1lS4Y7FXTiffb2.jpg",
+  "poster_path": "/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
   "backdrop_path": "/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
   "release_date": "2018-06-20",
   "vote_average": 8.3,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Luke Grimes Kelly Reilly Wes Bentley Cole Hauser Kelsey Asbille Brecken Merrill Ryan Bingham Finn Little",
-  "first_air_date": "2018-06-20"
+  "first_air_date": "2018-06-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

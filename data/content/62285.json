@@ -5,7 +5,7 @@
   "title_en": "Marvels The Defenders",
   "slug": "62285-marvels-the-defenders",
   "overview": "يتّحد \"ديرديفيل\" و\"جيسيكا جونز\" و\"لوك كيج\" و\"القبضة الحديدية\" لمحاربة عصبة من الأعداء المشتركين بينما تهدّد مؤامرة شريرة مدينة نيويورك.",
-  "poster_path": "/jHmxoaC1SP7Wlc3HEYGEBvw05v7.jpg",
+  "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
   "backdrop_path": "/ycAWXhAhyaE7g3JBAaierK4LgNg.jpg",
   "release_date": "2017-08-18",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Charlie Cox Krysten Ritter Mike Colter Finn Jones Élodie Yung",
-  "first_air_date": "2017-08-18"
+  "first_air_date": "2017-08-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

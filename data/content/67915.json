@@ -5,7 +5,7 @@
   "title_en": "Guardian: The Lonely and Great God",
   "slug": "67915-guardian-the-lonely-and-great-god",
   "overview": "أثناء بحثه عن عروس ليُبطل لعنته الأبدية، يلتقي حارس الأرواح البالغ 939 عامًا بحاصد الأرواح، وبطالبة مفعمة بالحيوية تعاني من ماضٍ مأساوي.",
-  "poster_path": "/py2GkXY5GjuL83mgypDFJ5z081g.jpg",
+  "poster_path": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
   "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
   "release_date": "2016-12-02",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Gong Yoo Kim Go-eun Lee Dong-wook Yoo In-na Yook Sung-jae Lee El Kim Seong-gyeom Kim Byong-chul",
-  "first_air_date": "2016-12-02"
+  "first_air_date": "2016-12-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Scott Bakula Dean Stockwell",
-  "first_air_date": "1989-03-26"
+  "first_air_date": "1989-03-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

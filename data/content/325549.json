@@ -5,7 +5,7 @@
   "title_en": "The F Ward",
   "slug": "325549-the-f-ward",
   "overview": "مسلسل \"جناح \" أو \"The  Ward\" هو دراما مشوقة تدور أحداثها في مستشفى باينز بمدينة سيدني، حيث يحصل المتدربون الطبيون الفاشلون على فرصتهم الأخيرة. يكافح هؤلاء المتدربون للتغلب على نقاط الضعف الشخصية والأخطاء السابقة، آملين في النهاية أن يصبحوا أطباءً ناجحين. تدور أحداث المسلسل في عام 2026.",
-  "poster_path": "/piWo0Sal5TjkrbBDxB6VWMDcrVN.jpg",
+  "poster_path": "/fxAGqcJMyN5vy9dINUtRDQxPKdU.jpg",
   "backdrop_path": "/ry0zCzpTo8qrI7uwhkE4gyKQBI4.jpg",
   "release_date": "2026-07-17",
   "vote_average": 4.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Anna Friel Ioane Sa'ula Alex Fitzalan Dan Wyllie Lola Bond",
-  "first_air_date": "2026-07-17"
+  "first_air_date": "2026-07-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

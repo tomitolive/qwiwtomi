@@ -5,7 +5,7 @@
   "title_en": "Jogada de Risco",
   "slug": "299188-jogada-de-risco",
   "overview": "مسلسل \"جوجادا دي ريسكو\" هو دراما مشوقة تدور أحداثها حول ماوريسيو، اللاعب السابق الذي يسعى لإثبات نفسه كوكيل في عالم كرة القدم المربح. يواجه ماوريسيو شبح فشله في مسيرته الكروية وعلاقته المضطربة مع والده في مساره المهني الجديد. \"Jogada  Risco\"، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
-  "poster_path": "/iEcju8TBN5jmZswIpQXV5YTJB9L.jpg",
+  "poster_path": "/v37HijsLVwpmW5JuSNGpDNz6BM2.jpg",
   "backdrop_path": "/swmZEoWpW7tBhaIszLtIE8rgQkO.jpg",
   "release_date": "2026-07-23",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "البرازيل",
   "cast": "Cauã Reymond Letícia Colin Mariana Sena Marcos Frota Juan Paiva Breno Ferreira Cauê Campos Marcelo Adnet",
-  "first_air_date": "2026-07-23"
+  "first_air_date": "2026-07-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

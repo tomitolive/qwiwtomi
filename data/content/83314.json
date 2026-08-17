@@ -5,7 +5,7 @@
   "title_en": "Tsurune",
   "slug": "83314-tsurune",
   "overview": "استمتع بمشاهدة مسلسل تسورون مترجم بجودة عالية.",
-  "poster_path": "/3otXVixG8A4w6WE4rgJBESc4S8w.jpg",
+  "poster_path": "/mBy83RcCCm7d1fqQZDrlnr30ZEx.jpg",
   "backdrop_path": "/Aq8mDnF6tSVXCRXmkva5SIOENW1.jpg",
   "release_date": "2018-10-22",
   "vote_average": 7.1,
@@ -58,5 +58,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yuto Uemura Kensho Ono Shogo Yano Kaito Ishikawa Jun Fukuyama Takayuki Kondo Yuya Hirose Yuuichirou Umehara",
-  "first_air_date": "2018-10-22"
+  "first_air_date": "2018-10-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

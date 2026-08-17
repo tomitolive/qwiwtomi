@@ -5,7 +5,7 @@
   "title_en": "Hidden Love",
   "slug": "210733-hidden-love",
   "overview": "مسلسل \"الحب الخفي\" أو \"Hidden Love\" هو دراما رومانسية رائعة تروي قصة الحب الخفي بين سانغ تشي ودوان جياكسو منذ المدرسة الثانوية. عندما جمعتهما الأقدار مرة أخرى، وجدا الفرصة لبدء علاقة حلوة ومثيرة. هذا المسلسل يسلط الضوء على مشاعر الحب الخفية والصداقة القوية.",
-  "poster_path": "/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg",
+  "poster_path": "/riGzESa9N9toumP9OhMmg0QvFPD.jpg",
   "backdrop_path": "/wQlJJJ50gKphCci0SmoetUXmJN4.jpg",
   "release_date": "2023-06-20",
   "vote_average": 8.5,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Zhao Lusi Chen Zheyuan Victor Ma Zeng Li Qiu Xinzhi Guan Zijing Wang Yang Zhang Haolun",
-  "first_air_date": "2023-06-20"
+  "first_air_date": "2023-06-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

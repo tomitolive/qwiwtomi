@@ -5,7 +5,7 @@
   "title_en": "The Elusive Samurai",
   "slug": "222623-the-elusive-samurai",
   "overview": "توكيوكي هوجو، نبلاء في الثامنة من عمره، يعيش حياة هادئة في كاماكورا ولا يهتم كثيرًا بالمسؤوليات الجدية التي تنتظره عندما يخلف والده كشوغون القادم. بدلاً من تكريس نفسه لتدريبات صارمة في المبارزة أو الرماية، يتقن توكيوكي فن التهرب، حيث يتهرب ببراعة من مستشاريه ويكتشف أماكن إخفاء مثالية. لكن حياته السلمية تنهار فجأة عندما يداهم انقلاب عنيف عشيرته ويقضي عليها تمامًا.",
-  "poster_path": "/8T3QsGzRvvAPUUw9Z1UjLNCQZlH.jpg",
+  "poster_path": "/wVJjyUbns2USXo1bolF2vGanvf6.jpg",
   "backdrop_path": "/cN8u7s6vaQezheTy2mGOzEmF7Hg.jpg",
   "release_date": "2024-07-06",
   "vote_average": 7.8,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "2024-07-06"
+  "first_air_date": "2024-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

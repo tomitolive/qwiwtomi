@@ -5,7 +5,7 @@
   "title_en": "His Dark Materials",
   "slug": "68507-his-dark-materials",
   "overview": "ليرة هي يتيمة تعيش في عالم موازٍ تتشابك فيه العلوم واللاهوت والسحر. يكشف بحثها  لصديق مختطف عن مؤامرة شريرة تضم أطفالًا مسروقين، وتتحول إلى سعي لفهم ظاهرة غامضة تسمى الغبار.",
-  "poster_path": "/y7Iid1n9NjXvMW9RiUPqPw17NFy.jpg",
+  "poster_path": "/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
   "backdrop_path": "/t8KjRqfOqNx14cHLwARjR08bjeb.jpg",
   "release_date": "2019-11-03",
   "vote_average": 7.8,
@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Dafne Keen Amir Wilson Ruth Wilson Adewale Akinnuoye-Agbaje Simone Kirby Will Keen Jonathan Aris Chipo Chung",
-  "first_air_date": "2019-11-03"
+  "first_air_date": "2019-11-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

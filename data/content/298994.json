@@ -5,7 +5,7 @@
   "title_en": "The Villager of Level 999",
   "slug": "298994-the-villager-of-level-999",
   "overview": "LV999. مسلسل رسوم متحركة يجمع بين الحركة والمغامرة والخيال العلمي والفانتازيا. في عالم Earthclear، يولد الجميع في أدوار ثابتة، والفلاحون هم الأضعف على الإطلاق. ومعظمهم لا يرتقون أبدًا إلى ما فوق المستوى 5، باستثناء كوجي كاغامي، الذي هو في المستوى... 999؟! أثناء صيد الوحوش، يلتقي كوجي بأليس، ابنة ملك الشياطين، ويكتشفان أنهما يتشاركان حلمًا مستحيلًا: التعايش بين البشر والشياطين. في عالم محكوم عليه بالصراع، يخوضان معركة ضد القدر لتحدي المصير وكسر القواعد. The Villager  Level 999. مسلسل مشوق لا يمكن تفويته.",
-  "poster_path": "/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+  "poster_path": "/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
   "backdrop_path": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
   "release_date": "2026-07-02",
   "vote_average": 6.8,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Satoshi Inomata Nao Toyama Hiroya Egashira Manaka Iwami Nobunaga Shimazaki Aoi Koga Lynn",
-  "first_air_date": "2026-07-02"
+  "first_air_date": "2026-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

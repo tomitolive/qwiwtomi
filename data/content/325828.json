@@ -5,7 +5,7 @@
   "title_en": "Guardian: The Lonely and Great God 10th Anniversary",
   "slug": "325828-guardian-the-lonely-and-great-god-10th-anniversary",
   "overview": "بعد مرور 10 سنوات على عرض مسلسل \"Guardian: The Lonely  Great God\"، يعود كل من غونغ يو، ولي دونغ ووك، وكيم غو-إين، وييو إن-نا في رحلة خاصة، حيث يزورون مواقع أيقونية من المسلسل، ويستعيدون الذكريات، ويتبادلون القصص، ويعكسون آراءهم حول إحدى أكثر المسلسلات الكورية المحبوبة. \"10\" هو احتفال بالذكرى السنوية العاشرة لهذا العمل الدرامي الذي لا ينسى.",
-  "poster_path": "/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg",
+  "poster_path": "/dJGjOMZUFSKtn4MZjscWMvvkaKv.jpg",
   "backdrop_path": "/gadfd2JM9gMnHLEk2HhxJS3zMKQ.jpg",
   "release_date": "2026-07-04",
   "vote_average": 9.5,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Gong Yoo Kim Go-eun Lee Dong-wook Yoo In-na",
-  "first_air_date": "2026-07-04"
+  "first_air_date": "2026-07-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

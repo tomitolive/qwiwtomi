@@ -5,7 +5,7 @@
   "title_en": "Dr. STONE",
   "slug": "86031-dr-stone",
   "overview": "في أحد الأيام المشؤومة، تحطمت البشرية بأسرها بوميض غامض. بعد عدة آلاف السنين، يستيقظ طالب الثانوية “تايجو” ويجد نفسه ضائعًا في عالم من التماثيل. لاكن ليس وحده! كان صديقه المحب للعلوم “سينكو” يعمل منذ عدة أشهر وقد وضع خطة كبرى – لإعادة الحضارة بقوة العلم!",
-  "poster_path": "/fxmigTNZHRfBQ7h13vs8K5H5f77.jpg",
+  "poster_path": "/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
   "backdrop_path": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
   "release_date": "2019-07-05",
   "vote_average": 8.5,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yusuke Kobayashi Makoto Furukawa Kana Ichinose Manami Numakura Gen Sato Kengo Kawanishi Ryota Suzuki Karin Takahashi",
-  "first_air_date": "2019-07-05"
+  "first_air_date": "2019-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

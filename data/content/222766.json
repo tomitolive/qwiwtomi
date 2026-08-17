@@ -5,7 +5,7 @@
   "title_en": "The Day of the Jackal",
   "slug": "222766-the-day-of-the-jackal",
   "overview": "يكسب \"ابن آوى\" (إيدي ريدماين) القاتل الوحيد الذي لا مثيل له والمراوغ للغاية رزقه من تنفيذ عمليات الاغتيال مقابل أعلى أجر. ولكن بعد آخر عملية قتل قام بها، يلتقي بضابطة مخابرات بريطانية عنيدة (لاشانا لينش) التي تبدأ في تعقب ابن آوى في مطاردة مثيرة عبر أوروبا مخلفةً الدمار في أعقابها.",
-  "poster_path": "/OzLVl2ZSkOGHKPD0cEol0oUYfT.jpg",
+  "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
   "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
   "release_date": "2024-11-07",
   "vote_average": 8.2,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Eddie Redmayne Lashana Lynch Eleanor Matsuura Chukwudi Iwuji Úrsula Corberó Adoney Díaz Barajas David Gojković",
-  "first_air_date": "2024-11-07"
+  "first_air_date": "2024-11-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

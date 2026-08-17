@@ -5,7 +5,7 @@
   "title_en": "Yano-kuns Ordinary Days",
   "slug": "276349-yano-kuns-ordinary-days",
   "overview": "يحكي مسلسل أيام يانو-كونس العادية قصة خيال رومانسي تجمع بين الشخصيات العابقة والعناصر الكوميدية. يتعرض يانوي Tsuyoshi, وهو طالب ذو سمعة مرعبة, لتساقطات متكررة من أضواء المسرح, مما يؤدي إلى ظهور آثار على جسده. تستغل كيوكو Kiyoko, التي تعمل كمنسقة للفريق, فرصتها في إسعاف Tsuyoshi يوميا, مما يجعلها أكثر وعيا بمشاعره, وبالتالي تزداد تقربا بينهم. سوف يأخذ مشاعر كيوكو في مسار ما؟ وسوف يتحول حياة Tsuyoshi إلى شيء طبيعي يوما ما؟",
-  "poster_path": "/igEZvMvb060v6LhGvIrSwJG7nyA.jpg",
+  "poster_path": "/kExjEL79wXEn8v4nk8iQp9s9T53.jpg",
   "backdrop_path": "/sHXIR3lAWZFIm1h70OFAFcdBXmN.jpg",
   "release_date": "2025-10-01",
   "vote_average": 7.3,
@@ -52,5 +52,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kohei Amasaki Yuka Nukui",
-  "first_air_date": "2025-10-01"
+  "first_air_date": "2025-10-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

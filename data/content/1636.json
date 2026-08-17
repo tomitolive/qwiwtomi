@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Richard Bacon Fearne Cotton Reggie Yates Edith Bowman Rufus Hound",
-  "first_air_date": "1964-01-01"
+  "first_air_date": "1964-01-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

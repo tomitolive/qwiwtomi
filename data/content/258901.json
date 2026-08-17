@@ -5,7 +5,7 @@
   "title_en": "SANDA",
   "slug": "258901-sanda",
   "overview": "في اليابان المستقبلية القريبة، حيث معدلات المواليد منخفضة للغاية، يُعتز بالأطفال لكنهم يخضعون للمراقبة. يُحظر بابا نويل لخطورته. في ليلة ثلجية من ليالي ديسمبر، وتحديدًا في الخامس والعشرين منه، يتعرض كازوشيغي ساندا، وهو طالب في المرحلة الإعدادية ومن سلالة بابا نويل، لهجوم من زميلته فويومورا التي تطلب منه العثور على صديقتها المفقودة، أونو. \"بابا نويل، أرجوك اعثر على صديقتي.\" لحماية الأطفال من الكبار، يقرر ساندا أن يصبح بابا نويل ويحارب الكبار.",
-  "poster_path": "/mIA684Vy3CpNXpQihHYYWP1lzAM.jpg",
+  "poster_path": "/ab36zMKFexfl3ROR48UcJQ8AuY4.jpg",
   "backdrop_path": "/ybdN4cyWBlfgamgYca2XwYL2Kqn.jpg",
   "release_date": "2025-10-04",
   "vote_average": 7.5,
@@ -56,5 +56,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ayumu Murase Hiroki Touchi Umeka Shouji Anna Nagase Yuuki Shin Misato Matsuoka Toshihiko Seki Hiroaki Hirata",
-  "first_air_date": "2025-10-04"
+  "first_air_date": "2025-10-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

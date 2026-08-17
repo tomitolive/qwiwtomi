@@ -5,7 +5,7 @@
   "title_en": "Better Late Than Single",
   "slug": "288912-better-late-than-single",
   "overview": "يتلقى \"العزّاب الأبديون\"، البالغون الذين لم يسبق لهم خوض أي علاقة عاطفية، تدريبات على يد خبراء لمساعدتهم في العثور الحب، في برنامج مواعدة واقعي جديد كليًا وزاخر بالحيوية.",
-  "poster_path": "/x2tCHrVmmxj4GXxZC7McsDMfNJr.jpg",
+  "poster_path": "/101Sutn63Tx2DO7ml7hX7epAzzV.jpg",
   "backdrop_path": "/lab2qf035EglheuvFcHCTI3wkRe.jpg",
   "release_date": "2025-07-08",
   "vote_average": 8.4,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Seo In-guk Kang Han-na Lee Eun-ji Car, the garden",
-  "first_air_date": "2025-07-08"
+  "first_air_date": "2025-07-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "See You at Work Tomorrow!",
   "slug": "289763-see-you-at-work-tomorrow",
   "overview": "تابعوا المسلسل الكوميدي الدرامي \"نراكم في العمل غدا!\"، حيث تدور الأحداث حول تشا جي يون، الموظفة المتعبة من العمل والمواعدة، والتي تقابل الرئيس القاسي ذو السمعة المرعبة، كانغ سي وو. ومع تعرفها على الجانب الطيب خلف كلماته الجافة، تستعيد تشا جي يون بريق حياتها. وبين التنقلات المتكررة والحوادث في العمل والعلاقات الفاشلة، يصبح كل منهما بمثابة المرساة التي لا غنى عنها للآخر. \"نراكم في العمل غدا!\"، مسلسل كوري جنوبي ممتع ينتظركم في عام 2026.",
-  "poster_path": "/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg",
+  "poster_path": "/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg",
   "backdrop_path": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
   "release_date": "2026-06-22",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Seo In-guk Park Ji-hyun Kang Mi-na Won Gyu-bin Choi Kyung-hoon Park Ye-yeong 한태하 Kim Jung-young",
-  "first_air_date": "2026-06-22"
+  "first_air_date": "2026-06-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

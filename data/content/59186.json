@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Brian Quinn James Murray Sal Vulcano",
-  "first_air_date": "2011-12-15"
+  "first_air_date": "2011-12-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

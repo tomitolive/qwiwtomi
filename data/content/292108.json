@@ -5,7 +5,7 @@
   "title_en": "Ann Droid",
   "slug": "292108-ann-droid",
   "overview": "آن درويد. كوميديا بريطانية فريدة من نوعها، تدور حول سيو التي تجد نفسها مع رفيق غير عادي، وهو روبوت رعاية مستعمل ومهووس. هل يمكن أن يكون لهذا الدرويد فائدة؟ بطولة ديان مورغان وسو جونستون. مسلسل آن درويد، تجربة مشاهدة فريدة.",
-  "poster_path": "/toUy4s6yK8OyfQ9Rjj7R3l9rhyU.jpg",
+  "poster_path": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
   "backdrop_path": "/cJBLZUD3Dw1tuMydpC8bEDT69G2.jpg",
   "release_date": "2026-07-17",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Diane Morgan Sue Johnston Paul Ready",
-  "first_air_date": "2026-07-17"
+  "first_air_date": "2026-07-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

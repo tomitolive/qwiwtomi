@@ -5,7 +5,7 @@
   "title_en": "Shark Week",
   "slug": "15871-shark-week",
   "overview": "أسبوع القرش، أو Shark Week، هو حدث سنوي يقدمه Discovery Channel منذ عام 1987. وهو عبارة عن سلسلة من البرامج التلفزيونية التي تستمر لمدة أسبوع وتسلط الضوء على أسماك القرش. تهدف هذه السلسلة إلى زيادة الوعي والاحترام لأسماك القرش، وقد أصبحت أطول حدث برمجة على التلفزيون الكبلي في التاريخ. يتم بثها الآن في أكثر من 72 دولة، وتلقى اهتمامًا كبيرًا عبر وسائل التواصل الاجتماعي مثل فيسبوك وتويتر.",
-  "poster_path": "/wRAOmmAVxpYKHRT1ZIbcWz4pUTe.jpg",
+  "poster_path": "/mvFyMXZwoHKUfnXyAQNrolGvePv.jpg",
   "backdrop_path": "/i0SR6e1nuGmC8X2FvZFAnEnf1G8.jpg",
   "release_date": "1988-07-17",
   "vote_average": 7.6,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "",
-  "first_air_date": "1988-07-17"
+  "first_air_date": "1988-07-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

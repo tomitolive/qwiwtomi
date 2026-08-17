@@ -5,7 +5,7 @@
   "title_en": "Ranma1/2",
   "slug": "259140-ranma12",
   "overview": "تلتقي \"أكاني تيندو\" بخطيبها الجديد \"رانما ساوتومي\"، وهو لاعب فنون قتالية موهوب بمفارقة واحدة... إنه يتحول سحريًّا إلى فتاة عندما يلامس الماء البارد.",
-  "poster_path": "/x6NCiVv8ik6llOZT7ECBSxn9FaY.jpg",
+  "poster_path": "/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
   "backdrop_path": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
   "release_date": "2024-10-06",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kappei Yamaguchi Megumi Hayashibara Noriko Hidaka",
-  "first_air_date": "2024-10-06"
+  "first_air_date": "2024-10-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

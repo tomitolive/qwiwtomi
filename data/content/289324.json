@@ -5,7 +5,7 @@
   "title_en": "Star Wars: Visions Presents - The Ninth Jedi",
   "slug": "289324-star-wars-visions-presents-the-ninth-jedi",
   "overview": "تستكشف حرب النجوم: رؤى تقدم - الجيداي التاسع، وهو مسلسل رسوم متحركة، مغامرات كارا وطاقمها من الجيداي غير التقليديين في بحثهم عن فرسان جيداي أقوياء لمحاربة زعيم حرب قوي بشكل متزايد. تدور أحداث القصة في عام 2026، وتجمع بين الخيال العلمي والفانتازيا في مغامرة مشوقة.",
-  "poster_path": "/eebJOli5IJtneDrqM85tSVZ9uTA.jpg",
+  "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
   "backdrop_path": "/tyv8Gnv2ncXOEjLp6HbeLTtXwjl.jpg",
   "release_date": "2026-08-05",
   "vote_average": 7.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Chinatsu Akasaki Tetsuo Kanao Hiromu Mineta Hinata Tadokoro Cho Shin-ichiro Miki Akio Otsuka",
-  "first_air_date": "2026-08-05"
+  "first_air_date": "2026-08-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

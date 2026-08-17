@@ -5,7 +5,7 @@
   "title_en": "2.5 Dimensional Seduction",
   "slug": "216074-25-dimensional-seduction",
   "overview": "تحكي قصة مسلسل 2.5 عن عالم رسوم متحركة يتحول إلى حقيقة حقيقية عندما يلتقي ريسا المصوّر بمجموعة أوفيسية للمانغا بقيادة أوكومورا، ويطلب منها أن تكون مصوّرة له، مما يؤدي إلى تبادل المعاني بين العالمين الثنائي والثلاثي الأبعاد.",
-  "poster_path": "/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
+  "poster_path": "/clrEz6ad3cFEae5q08iWsbnhhCW.jpg",
   "backdrop_path": "/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
   "release_date": "2024-07-05",
   "vote_average": 8.1,
@@ -70,5 +70,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Junya Enoki Kaori Maeda Akari Kito Sayumi Suzushiro Sayumi Watabe Mao Ichimichi",
-  "first_air_date": "2024-07-05"
+  "first_air_date": "2024-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

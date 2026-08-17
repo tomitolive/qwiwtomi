@@ -5,7 +5,7 @@
   "title_en": "Toshiie and Matsu",
   "slug": "27753-toshiie-and-matsu",
   "overview": "يشكل مسلسل Toshiie Matsu الجزء الأربعين من مسلسلات NHK Taiga Drama. يروي قصة حياة Maeda Toshiie، الذي ترقى إلى ثاني قوة في شوغونات يابانية خلال العصر المتورم للوarring States. مع حكمة سياسية و دعم زوجته المخلصة، بنى Toshiie ملكية كبيرة تغطي إيشيزين، نوتو وكاجا. يعتبر هذا المسلسل من العصور الجريئة، حيث يرتبط حياة Toshiie مع ثلاثة من القادة الكبار في تاريخ اليابان - نوبوناغا، هيدويوشي، وإيياسو.",
-  "poster_path": "/kJw06ypEU55G2zJW1uM5m8py8J8.jpg",
+  "poster_path": "/snQwRptPAEyQpIlgxdq6uJbpBNc.jpg",
   "backdrop_path": "/kaOtpGB73anOzMzlIkVRN0NHq9K.jpg",
   "release_date": "2002-01-06",
   "vote_average": 8.3,
@@ -48,5 +48,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Toshiaki Karasawa Nanako Matsushima Yutaka Takenouchi Yuichiro Yamaguchi Takashi Sorimachi Yuki Amami Mitsuhiro Oikawa Noriko Sakai",
-  "first_air_date": "2002-01-06"
+  "first_air_date": "2002-01-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

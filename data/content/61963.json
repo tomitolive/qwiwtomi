@@ -5,7 +5,7 @@
   "title_en": "Waiting for the Sun",
   "slug": "61963-waiting-for-the-sun",
   "overview": "استمتع بمشاهدة مسلسل Gnei Beklerken مترجم بجودة عالية.",
-  "poster_path": "/2YgyrdpHskDuUPSmxd4wJnqNuED.jpg",
+  "poster_path": "/aNNq8MOtGvw0ETt8xSICrq3sKXv.jpg",
   "backdrop_path": "/fJiYVdH9CYai9JvgT46Y4cGTJ26.jpg",
   "release_date": "2013-07-02",
   "vote_average": 8.4,
@@ -58,5 +58,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Emre Kınay Hande Doğandemir Kerem Bürsin İsmail Ege Şaşmaz Yağmur Tanrısevsin Gökçe Yanardağ Ebru Aykaç Simay Küçük",
-  "first_air_date": "2013-07-02"
+  "first_air_date": "2013-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

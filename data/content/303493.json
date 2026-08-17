@@ -5,7 +5,7 @@
   "title_en": "Knot",
   "slug": "303493-knot",
   "overview": "تتعقد حياة شاب إلى الأبد عندما يُمَيَّز من قبل ألفا قوي، مما يربط مصيرهما معًا في رابطة لا يمكن الهروب منها. \"عقدة\"، مسلسل دراما وخيال علمي ومغامرة، يغوص في عالم مليء بالتشويق والإثارة.",
-  "poster_path": "/YC0i5PrabFdcok34xG2pIcKivz.jpg",
+  "poster_path": "/8z62pp4K602d1y6079oU1GBeiAG.jpg",
   "backdrop_path": "/zq22918LdWTkBstphgUfxDZUO7i.jpg",
   "release_date": "2026-06-30",
   "vote_average": 7.4,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "Thailand",
   "cast": "Pasakorn Sanrattana Yongyut Termtuo Phubeth Atarunwong Teerawat Tanacom Waranluck Phonpawiworakun Jakrin Sangruan James Uzumaki Thanakrid Suteepakornchai",
-  "first_air_date": "2026-06-30"
+  "first_air_date": "2026-06-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

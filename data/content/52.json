@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Mila Kunis Danny Masterson Laura Prepon Wilmer Valderrama Debra Jo Rupp Kurtwood Smith Don Stark Tommy Chong",
-  "first_air_date": "1998-08-23"
+  "first_air_date": "1998-08-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

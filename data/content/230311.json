@@ -5,7 +5,7 @@
   "title_en": "Love Has Fireworks",
   "slug": "230311-love-has-fireworks",
   "overview": "مسلسل \"الحب لديه الألعاب النارية\"، هو دراما رومانسية مشوقة. تدور أحداث المسلسل حول قصة Qian Fei، الموظفة في البنك، التي تخطط لحياة مُرضية، لكن بعد تخلي خطيبها عنها، تضطر لإعادة تعريف حياتها. يلتقي قدرها بـ Li Yifei، القادم من عائلة ثرية، والذي يضع أولوية مطلقة لمسيرته المهنية. يتشارك الاثنان في رحلة مليئة بالتحديات والتصادمات، لكنهما يقعان في الحب ويقرران مواجهة المستقبل معًا. \"الحب لديه الألعاب النارية\"، Love Has Fireworks، مسلسل رومانسي ممتع ومليء بالمفاجآت.",
-  "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+  "poster_path": "/6CgxIE21h2EofyrbTja1Jscgx35.jpg",
   "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
   "release_date": "2026-06-15",
   "vote_average": 10.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Tan Jianci Wang Churan Li Xinze Jiang Peiyao Christine Zheng Elisa Ye Shao Weitong Liu Ruilin",
-  "first_air_date": "2026-06-15"
+  "first_air_date": "2026-06-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

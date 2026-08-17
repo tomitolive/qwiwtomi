@@ -5,7 +5,7 @@
   "title_en": "The Witness",
   "slug": "280511-the-witness",
   "overview": "بعد أن أصبح ابنهما، البالغ عامين من عمره، الشاهد الوحيد على مقتل أمه، يكافح أرمل \"رايتشل نيكل\" لحماية ابنه المكلوم في مواجهة تحقيقات مغلوطة. مستوحى من أحداث حقيقية.",
-  "poster_path": "/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+  "poster_path": "/6vW1V7qejXv4QI2TvWvYuowfTrU.jpg",
   "backdrop_path": "/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
   "release_date": "2026-06-04",
   "vote_average": 5.4,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Jordan Bolger Max Fincham Neil Maskell Kevin Eldon Kerry Godliman Jon Pointing James Dryden Mark Stanley",
-  "first_air_date": "2026-06-04"
+  "first_air_date": "2026-06-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Percy Jackson and the Olympians",
   "slug": "103540-percy-jackson-and-the-olympians",
   "overview": "يبحر \"بيرسي جاكسون\" إلى \"بحر الوحوش\" لإغاثة صديقه \"غروفر\" وإنقاذ المعسكر.",
-  "poster_path": "/zzHtYFCs6E63BLG4r9UKLW00ek5.jpg",
+  "poster_path": "/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
   "backdrop_path": "/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
   "release_date": "2023-12-19",
   "vote_average": 7.3,
@@ -66,5 +66,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Walker Scobell Leah Sava Jeffries Aryan Simhadri Charlie Bushnell Dior Goodjohn Daniel Diemer",
-  "first_air_date": "2023-12-19"
+  "first_air_date": "2023-12-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

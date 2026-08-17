@@ -5,7 +5,7 @@
   "title_en": "The Insipid Princes Furtive Grab for the Throne",
   "slug": "284581-the-insipid-princes-furtive-grab-for-the-throne",
   "overview": "الأمراء المغرورون ينتزعون العرش: مسلسل رسوم متحركة يجمع بين الكوميديا والخيال العلمي والفانتازيا. يسلط الضوء على الأمير أرنولد، الذي يعتبره الإمبراطورية مزحة كبيرة، فهو الأمير غير الكفء الذي يتفوق عليه توأمه الموهوب ليونارد. ولكن في الخفاء، يعمل أرنولد باسم سيلفر، أحد المغامرين الخمسة الوحيدين من ذوي الرتبة SS الذين يمتلكون القدرة على استخدام السحر في القارة. ومع تصاعد المعركة الدموية على العرش بعد وفاة ولي العهد، يتحكم أرنولد بخيوط اللعبة من الظل لتتويج توأمه إمبراطورًا لمصلحته الخاصة.",
-  "poster_path": "/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+  "poster_path": "/1h0g4w6Vh0RenRga2bmtNXT08R0.jpg",
   "backdrop_path": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
   "release_date": "2026-07-06",
   "vote_average": 7.0,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Manaka Iwami Maaya Uchida Kaede Hondo Kazuhiko Inoue Atsushi Tamaru Ryota Takeuchi Mitsuki Saiga Yoshitsugu Matsuoka",
-  "first_air_date": "2026-07-06"
+  "first_air_date": "2026-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

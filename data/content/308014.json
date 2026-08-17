@@ -5,7 +5,7 @@
   "title_en": "Berlin and the Lady with an Ermine",
   "slug": "308014-berlin-and-the-lady-with-an-ermine",
   "overview": "يتعطش \"برلين\" لعملية سطو جديدة، فيستدعي العصابة إلى \"إشبيلية\" ليحوّل دوقًا طموحًا إلى ضحية خطته الخاصة: سرقة لوحة \"دا فينشي\".",
-  "poster_path": "/kSh4JujFOj1uFBVIiDrwxgUGlG1.jpg",
+  "poster_path": "/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
   "backdrop_path": "/vHsUdUGac3UtrFE8Sra6dHeD76a.jpg",
   "release_date": "2026-05-15",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "إسبانيا",
   "cast": "Pedro Alonso Michelle Jenner Tristán Ulloa Begoña Vargas Julio Peña Joel Sánchez José Luis García Pérez Marta Nieto",
-  "first_air_date": "2026-05-15"
+  "first_air_date": "2026-05-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

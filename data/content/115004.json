@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Kate Winslet Jean Smart Julianne Nicholson Angourie Rice Evan Peters Sosie Bacon David Denman Neal Huff",
-  "first_air_date": "2021-04-18"
+  "first_air_date": "2021-04-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

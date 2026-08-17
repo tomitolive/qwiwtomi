@@ -5,7 +5,7 @@
   "title_en": "FAIRY TAIL 100 YEARS QUEST",
   "slug": "248947-fairy-tail-100-years-quest",
   "overview": "عاد ناتسو دراغنيل وفريقه من نقابة السحرة إلى العمل، عازمين على إنهاء مهمة الـ 100 عام\" التي لم تمس منذ تأسيس النقابة قبل قرن من الزمن",
-  "poster_path": "/u54lCGnP6nhfsG6wuKBwUZtv3sZ.jpg",
+  "poster_path": "/wj5i6YgZj7LltRE3yE6VTgfdbK0.jpg",
   "backdrop_path": "/fEo1HO7iuVi8BT9lFhm2XjDvAXr.jpg",
   "release_date": "2024-07-07",
   "vote_average": 8.0,
@@ -62,5 +62,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Tetsuya Kakihara Aya Hirano Rie Kugimiya Yuichi Nakamura Sayaka Ohara Satomi Sato Yui Horie",
-  "first_air_date": "2024-07-07"
+  "first_air_date": "2024-07-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

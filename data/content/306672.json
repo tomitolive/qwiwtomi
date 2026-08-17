@@ -5,7 +5,7 @@
   "title_en": "Under the Rainbow",
   "slug": "306672-under-the-rainbow",
   "overview": "مسلسل \"تحت قوس قزح\" أو \"Under  Rainbow\" هو دراما مؤثرة تتكون من سبع قصص تحدث في مجمع تشوي هونغ السكني. تصور هذه القصص المشاعر والأحاسيس المختلفة التي يعيشها سكان هونغ كونغ تجاه المجمعات السكنية العامة، وتذكرنا بقرب نهاية هذا المجمع الأيقوني مع تقاطع شخصيات القصص.",
-  "poster_path": "/4PR2COQG4DYJMC60RhURgSIlYtp.jpg",
+  "poster_path": "/iUPoETbPm67hEBG0vqnrVZKH7eo.jpg",
   "backdrop_path": "/5Z6FTTJvY1XZYzcdvTYwIPc6nXM.jpg",
   "release_date": "2026-07-29",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Hong Kong",
   "cast": "Poon Chan-Leung Natalie Tong Sze-Wing Hui Yat Stanley Yau Sze-Chun Dylan So Anna Ng Catherine Chau Leung Yip",
-  "first_air_date": "2026-07-29"
+  "first_air_date": "2026-07-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

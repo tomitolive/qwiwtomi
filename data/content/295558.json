@@ -5,7 +5,7 @@
   "title_en": "Key to the Phoenix Heart",
   "slug": "295558-key-to-the-phoenix-heart",
   "overview": "تدور أحداث مسلسل \"مفتاح قلب العنقاء\" حول الجنرال الشرير الذي يتزوج قسراً من وريثة مزيفة مهووسة بالفنون الميكانيكية. ومن الزوجين المتعاقدين إلى كشف هوياتهم الحقيقية في موقف حياة أو موت، تشتد مشاعر الحب والكراهية المتبادلة بينهما. يكشفان عن مؤامرات البلاط، ويدمران الفوضى القاتلة، ويحافظان على سلامة الأمة. \"مفتاح قلب العنقاء\"، عنوان المسلسل الذي يجمع بين الدراما والإثارة.",
-  "poster_path": "/858HgKLO9hZkYs2tS7ZPkqh9HVr.jpg",
+  "poster_path": "/44ixm38SHC5HAbuaD7Mq2dakWk9.jpg",
   "backdrop_path": "/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
   "release_date": "2026-07-11",
   "vote_average": 8.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Hou Minghao Ai Mi Riley Wang Ma Qiuyuan Merxat Peter Ho Liu Lingzi Zheng Yawen",
-  "first_air_date": "2026-07-11"
+  "first_air_date": "2026-07-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

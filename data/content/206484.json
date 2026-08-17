@@ -5,7 +5,7 @@
   "title_en": "Jade Dynasty",
   "slug": "206484-jade-dynasty",
   "overview": "سقطت كارثة رهيبة على تشانغ فان ، لم تصبح فقط واحدة من الناجين الثلاثة من قرية معبد العشب ، حيث تم ذبح الجميع بشكل فظيع ، كما تم تكليفه بحمل واحدة من أكثر القطع الأثرية الشريرة ، الخرزة الشريرة ، وعلم واحدة من أكثر التعاليم سرية لطائفة سكيسونغ ، حكمة براهمين. الآن يزرع في طائفة جاديون ، ومعرفته وحيازته ستجذبه إلى قصة فوضوية حيث سيتعين عليه حمل بعض من أعظم أعباء عالم الدفاع عن النفس.(تحديث الرواية)",
-  "poster_path": "/kSC8drFvUBrcnHe6bz6zwvrnoeo.jpg",
+  "poster_path": "/oOy0PskfCQyWwsQVdHyM2PoN9H4.jpg",
   "backdrop_path": "/5fq2lbecTwvpitm7WHfQGa0VGXh.jpg",
   "release_date": "2022-08-02",
   "vote_average": 8.4,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Jiang Bian Zeng Rong Duan Yixuan Bai Xuecen Wang Jinger Ba He Zhang Siwangzhi Jinwen Chen",
-  "first_air_date": "2022-08-02"
+  "first_air_date": "2022-08-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

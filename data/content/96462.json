@@ -5,7 +5,7 @@
   "title_en": "Its Okay to Not Be Okay",
   "slug": "96462-its-okay-to-not-be-okay",
   "overview": "ينفرج طريق استثنائي للتعافي العاطفي حين يجمع القدر بين مؤلفة كتب أطفال تعاني سلوكًا معاديًا للمجتمع وموظف رعاية في مصحة نفسية يتصف بالإيثار.",
-  "poster_path": "/hd2aVdoIMih0z63ar0tAgRrI5HB.jpg",
+  "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
   "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
   "release_date": "2020-06-20",
   "vote_average": 8.5,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Soo-hyun Seo Yea-ji Oh Jung-se Park Gyu-young",
-  "first_air_date": "2020-06-20"
+  "first_air_date": "2020-06-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

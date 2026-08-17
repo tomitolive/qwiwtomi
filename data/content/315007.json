@@ -5,7 +5,7 @@
   "title_en": "Love In Sync",
   "slug": "315007-love-in-sync",
   "overview": "ممثلة بارزة سابقة فقدت قدرتها على الشعور، ومستشارة نفسية تشعر كثيرًا، يتم جمعهما معًا من خلال قدرة غامضة على مشاركة المشاعر. عندما تبدأ في إعادة اكتشاف المشاعر من خلاله، ويتعلم هو إدارة العبء الساحق من التعاطف من خلالها، يشفى الاثنان بعضهما البعض تدريجيًا بطرق غير متوقعة.",
-  "poster_path": "/ah84dUb8HDFs1OJEQKU22cmIxWv.jpg",
+  "poster_path": "/iLf17aFCx2ESajFp1oyb03fmzNp.jpg",
   "backdrop_path": "/2p8SssGsphxOELypa5GREVTblwj.jpg",
   "release_date": "2026-07-04",
   "vote_average": 10.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "L Kang Min-ah Kwon So-hyun Sin Woo-gyeom Cha Min-jee Kang Pil-jun 김다혜 Ok Yoon-Joong",
-  "first_air_date": "2026-07-04"
+  "first_air_date": "2026-07-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

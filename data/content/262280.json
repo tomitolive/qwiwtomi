@@ -5,7 +5,7 @@
   "title_en": "Legends",
   "slug": "262280-legends",
   "overview": "مع انتشار المخدرات في شوارع بريطانيا في التسعينيات، تتخفّى مجموعة من الموظفين الحكوميين للإطاحة بالعصابات المسؤولة عن ذلك.",
-  "poster_path": "/dGienbU1xNZJcbY8i8ubJusjDwD.jpg",
+  "poster_path": "/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
   "backdrop_path": "/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
   "release_date": "2026-05-07",
   "vote_average": 7.7,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Tom Burke Steve Coogan Hayley Squires Aml Ameen Jasmine Blackborow Tom Hughes Douglas Hodge Gerald Kyd",
-  "first_air_date": "2026-05-07"
+  "first_air_date": "2026-05-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

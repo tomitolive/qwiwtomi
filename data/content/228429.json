@@ -5,7 +5,7 @@
   "title_en": "Soul Land 2: The Peerless Tang Clan",
   "slug": "228429-soul-land-2-the-peerless-tang-clan",
   "overview": "تعود سلسلة \"أرض الروح 2: عشيرة تانغ منقطع النظير\" لتقديم مغامرات مشوقة في عالم الخيال العلمي والفانتازيا. تدور أحداث المسلسل حول قطاع تانغ في عالم مضطرب، حيث لا وجود إلا لروح القتال. بعد آلاف السنين من تأسيس قطاع تانغ، بدأ في الانحدار النسبي. ولد رجل موهوب للغاية، فهل سيتمكن من إعادة إحياء القطاع وإعادة مجده السابق؟ مع وحش روح عمره أكثر من مليون سنة، وإلكترولوكس الذي يمكنه التقاط النجوم، ونظام أدوات الروح الجديد الذي تسبب في انحدار قطاع تانغ... الكثير من الأسرار على وشك الكشف. هل يمكن أن تستعيد أسلحة قطاع تانغ حافتها الحادة؟ هل يمكن أن يستعيد القطاع مجده السابق؟",
-  "poster_path": "/kVlTNqhSVRHudCRTjSJbBGmAZby.jpg",
+  "poster_path": "/pzemNbETZKXRzjvBwc1hydqbEeK.jpg",
   "backdrop_path": "/w2DBa4lRn97uvZkshoCX8XVvieZ.jpg",
   "release_date": "2023-06-24",
   "vote_average": 7.9,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Wei Zhai Tao Dian Liang Dawei Yajing Tang Kaiyin Sun Xiyue Chen Huang Ying Chengyuan Li",
-  "first_air_date": "2023-06-24"
+  "first_air_date": "2023-06-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

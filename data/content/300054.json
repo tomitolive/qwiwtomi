@@ -5,7 +5,7 @@
   "title_en": "BAKI-DOU: The Invincible Samurai",
   "slug": "300054-baki-dou-the-invincible-samurai",
   "overview": "يواجه \"باكي\" وأقوى مقاتلي الحلبة السرّية خطرًا ذا أبعاد تاريخية، يتمثل في عودة أعظم ساموراي عرفته \"اليابان\"، \"موساشي مياموتو \"، من الموت.",
-  "poster_path": "/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+  "poster_path": "/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
   "backdrop_path": "/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
   "release_date": "2026-02-26",
   "vote_average": 8.9,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Nobunaga Shimazaki Naoya Uchida Akio Otsuka Takuya Eguchi Kenta Miyake Rikiya Koyama Takayuki Sugo Bin Shimada",
-  "first_air_date": "2026-02-26"
+  "first_air_date": "2026-02-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

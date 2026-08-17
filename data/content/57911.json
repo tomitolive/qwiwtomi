@@ -5,7 +5,7 @@
   "title_en": "Doraemon",
   "slug": "57911-doraemon",
   "overview": "روبرت آلي يشبه القط غذاءه المفضل معجون الفاصوليا والكعك المحلى, أتى من المستقبل من القرن الثاني والعشرون، لديه جيب بُعدي في بطنه يمكنه إستخراج أدوات كثيرة منه ليساعد الأطفال بكل الأدوات التي جلبها معه في جيبه البعدي.\n\nيدخل في مغامرات كثيرة ويواجه مشاكل كثيرة تتعلق بأصدقائه الأطفال فكيف سيستطيع التعامل معها؟",
-  "poster_path": "/ttigRndzMgaxuVc33rmEv5FrSwL.jpg",
+  "poster_path": "/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
   "backdrop_path": "/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
   "release_date": "1979-04-02",
   "vote_average": 7.7,
@@ -74,5 +74,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Nobuyo Oyama Noriko Ohara Sachiko Chijimatsu Kaneta Kimotsuki Michiko Nomura Keiko Yokozawa Kazuya Tatekabe Rei Sakuma",
-  "first_air_date": "1979-04-02"
+  "first_air_date": "1979-04-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

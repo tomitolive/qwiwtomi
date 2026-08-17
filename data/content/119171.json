@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "",
-  "first_air_date": "2010-10-30"
+  "first_air_date": "2010-10-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

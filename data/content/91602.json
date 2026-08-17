@@ -48,5 +48,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "",
-  "first_air_date": "2019-10-18"
+  "first_air_date": "2019-10-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Founder: Orhan",
   "slug": "302658-founder-orhan",
   "overview": "رحلة مشوّقة مليئة بالتحديات والمعارك والتحالفات، حيث يكمل اورهان مسيرة والده في بناء الدولة العثمانية وتوسيع نفوذها، ليصبح أحد أبرز القادة في التاريخ الإسلامي.. حيث تدور أحداث هذه الدراما التاريخية الملحمية في أوائل القرن الرابع عشر وتركز على حياة أورهان بك، نجل عثمان غازي والسلطان الثاني للإمبراطورية العثمانية - الحكاية الملحمية للرجل الذي وسع إمارة حدودية تركمانية صغيرة إلى أوروبا وحولها إلى أمة عظيمة من شأنها أن تحكم جزءًا كبيرًا من العالم لعدة قرون.",
-  "poster_path": "/377bu6HOkoVdZFasjnmehrCIOgA.jpg",
+  "poster_path": "/dOnTa0pmq1uUSD5yUhDk6XaLH7u.jpg",
   "backdrop_path": "/65K3llBL0wlW0C3pNaQyjWOdwbp.jpg",
   "release_date": "2025-10-29",
   "vote_average": 8.0,
@@ -50,5 +50,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Mert Yazıcıoğlu Mahassine Merabet Alina Boz Barış Falay Burak Sergen Bennu Yıldırımlar Şükrü Özyıldız İpek Arkan",
-  "first_air_date": "2025-10-29"
+  "first_air_date": "2025-10-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

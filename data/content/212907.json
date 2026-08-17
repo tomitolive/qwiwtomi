@@ -5,7 +5,7 @@
   "title_en": "La promesa",
   "slug": "212907-la-promesa",
   "overview": "تدور أحداث مسلسل \"لا وعد\" أو \"La \" في إسبانيا عام 1913، حيث تحصل امرأة على وظيفة في قصر لا وعد كمكافأة لإنقاذها ابن ماركيز، لكن لا أحد يعلم أنها تخفي خططاً خاصة بها، تتمثل في الانتقام لمقتل والدتها والعثور على شقيقها المفقود. مسلسل مثير مليء بالدراما والغموض.",
-  "poster_path": "/t6q9xzdt3XGnEvbvMtD9GxpQaW4.jpg",
+  "poster_path": "/y656ZhHU2Hh3bmC5vBtMa2vKpUM.jpg",
   "backdrop_path": "/AhLtSrSpAPtpBEmA3T0N3d5MPe8.jpg",
   "release_date": "2023-01-12",
   "vote_average": 8.2,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ana Garcés Eva Martín María Castro Manuel Regueiro Joaquín Climent Andrea del Río",
-  "first_air_date": "2023-01-12"
+  "first_air_date": "2023-01-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Dead of Winter",
   "slug": "327916-dead-of-winter",
   "overview": "مسلسل \"ميت الشتاء\" هو دراما غامضة تدور أحداثها حول اتهام امرأة مريضة عقليًا لزوجها بالقتل، مما يدفع المحققين شين دونغليانغ ووو هونغبينغ إلى اكتشاف سلسلة من الجرائم المترابطة التي تختبر حدود العدالة. \"ميت الشتاء: Dead  Winter\"، مسلسل صيني مثير يسلط الضوء على التحقيقات المعقدة.",
-  "poster_path": "/8PbjBwbkZgFj8k2bitxMFkllal5.jpg",
+  "poster_path": "/mXZolgwe4jQKnB6e2CSCbdHTLtG.jpg",
   "backdrop_path": "/gN3vSMrarrirco31Af8bUsSHBYZ.jpg",
   "release_date": "2026-08-04",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Wang Daqi Sun Zhihong Wu Haochen Xiao Han Zhang Rui Jiang Yisheng",
-  "first_air_date": "2026-08-04"
+  "first_air_date": "2026-08-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

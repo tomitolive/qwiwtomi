@@ -5,7 +5,7 @@
   "title_en": "Wonderland",
   "slug": "126398-wonderland",
   "overview": "مسلسل \"بلاد العجائب\" أو \"Wonderland\" هو تجربة اجتماعية واقعية تدور حول إنشاء مجتمع مثالي، حيث يدعو 15 ضيفًا للعيش معًا في تاوهواو، على بعد 15 كم من مركز المدينة، لمدة 21 يومًا. يهدف هذا المسلسل إلى استكشاف كيفية بناء مجتمع مثالي في قلوبهم، وكيف يعيشون ويعملون معًا في ظل التعاون والاحتكاك. إنه رحلة لاستكشاف مصدر التوافق المادي والروحي.",
-  "poster_path": "/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
+  "poster_path": "/xAF8106U1093tzCz8GoibkbXbcq.jpg",
   "backdrop_path": "/Rseua6cAC83aVDNMExhzxHNqgy.jpg",
   "release_date": "2021-05-23",
   "vote_average": 6.8,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Zhou Tao Anita Yuen Wing-Yee Alan Aruna Li Xueqin Xu Zhisheng Wang Ziqi Teng Gen Jackie Li",
-  "first_air_date": "2021-05-23"
+  "first_air_date": "2021-05-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

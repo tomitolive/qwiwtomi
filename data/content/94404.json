@@ -5,7 +5,7 @@
   "title_en": "Dorohedoro",
   "slug": "94404-dorohedoro",
   "overview": "يسعى \"كايمان\"، فاقد الذاكرة، وبمساعدة من صديقته \"نيكايدو\" إلى إبطال لعنة رأس السحلية بقتل الساحر المسؤول... وفي الحفرة، ستُقرع طبول الحرب.",
-  "poster_path": "/ozKHN31TGpfOwb3xpc5an7ygSu5.jpg",
+  "poster_path": "/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
   "backdrop_path": "/sASxGVO6wioRG6jNM2LHOjBAgWu.jpg",
   "release_date": "2020-01-13",
   "vote_average": 8.4,
@@ -66,5 +66,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Reina Kondo Wataru Takagi Yu Kobayashi Yoshimasa Hosoya Kenyu Horiuchi Kengo Takanashi Miyu Tomita Mitsuhiro Ichiki",
-  "first_air_date": "2020-01-13"
+  "first_air_date": "2020-01-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

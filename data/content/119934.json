@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "فرنسا",
   "cast": "",
-  "first_air_date": "2021-03-19"
+  "first_air_date": "2021-03-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

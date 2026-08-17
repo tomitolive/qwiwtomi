@@ -5,7 +5,7 @@
   "title_en": "Overdo",
   "slug": "289139-overdo",
   "overview": "تطرف. مسلسل دراما صيني يسلط الضوء على قصة مريرة ومؤثرة. تدور أحداثه في شانغهاي الجمهورية، حيث يعاني مورونغ تشينغي، ابن زعيم حرب، من سنوات من العذاب بعد أن تم استبداله عند الولادة. تتغير حياته عندما تنقذه رين سوسو، لكن مأساة تضرب عائلتها بسبب ذلك. وبعد سنوات، يشتعل الحب بينهما، لكن رين سوسو تتظاهر بالموت لإنقاذ شخص آخر، مما يكسر قلب تشينغي. وبعد ثلاث سنوات، تعود كشقيقة مستقبلية له. يعود الحب والكراهية والخيانة والجراح القديمة إلى السطح. مع اقتراب الحرب، يجب على الاثنين تحدي القدر معًا، ولكن هل يمكن للحب أن ينجو من سقوط أمة؟",
-  "poster_path": "/4e1ycw3hY6aAtUGIsLOk80gTobn.jpg",
+  "poster_path": "/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
   "backdrop_path": "/24Jiw958Hb7okfxWFedeDkWX8WU.jpg",
   "release_date": "2026-07-19",
   "vote_average": 10.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Zhang Linghe Wang Churan Fu Xinbo Xu Zhenxuan Wang Zisu Myolie Wu Hang-Yee Sha Baoliang Mao Hai",
-  "first_air_date": "2026-07-19"
+  "first_air_date": "2026-07-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

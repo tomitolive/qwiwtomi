@@ -5,7 +5,7 @@
   "title_en": "The Legend of Rosy Clouds",
   "slug": "239901-the-legend-of-rosy-clouds",
   "overview": "تابعوا مسلسل \"أسطورة الغيوم الوردية\"، حيث تدور أحداثه في مدن الأساطير التسع، وتلتقي النبيلة فان يون مع اللورد كي تشينغ المحتال لمواجهة أزمة وشيكة. وبينما يكافحان من أجل رفاهية الشعب، تتحول علاقتهما إلى صداقة وحب، مما يجلب السلام والازدهار للمملكة. \"The Legend  Rosy Clouds\" مسلسل دراما وكوميديا ممتع.",
-  "poster_path": "/hBM7DoujI89vKD4Epgett80aM8t.jpg",
+  "poster_path": "/2BplPHTd5BIPKXRawey3Q2hO3Iu.jpg",
   "backdrop_path": "/dStkVJ2dQPe2Ak9X4McM1606vNn.jpg",
   "release_date": "2026-06-20",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Li Yitong Joseph Zeng Deng Wei Dai Luwa Riley Wang Cheng Hongxin Tian Jiarui Jian Yuxi",
-  "first_air_date": "2026-06-20"
+  "first_air_date": "2026-06-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

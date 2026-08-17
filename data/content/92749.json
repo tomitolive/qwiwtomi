@@ -5,7 +5,7 @@
   "title_en": "Moon Knight",
   "slug": "92749-moon-knight",
   "overview": "عندما يعاني ستيفن غرانت، وهو موظف في متجر هدايا معتدل السلوك، من انقطاع التيار الكهربائي وذكريات حياة أخرى، يكتشف أنه يعاني من اضطراب الهوية التفارقية ويشارك جثة مع المرتزق مارك سبيكتور. بينما يتلاقى أعداء ستيفن/مارك عليهم، يجب عليهم التنقل في هوياتهم المعقدة بينما يدفعون إلى لغز قاتل بين آلهة مصر القوية.",
-  "poster_path": "/mdsh6PgayTmhNJIoPgh2zEajLZm.jpg",
+  "poster_path": "/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
   "backdrop_path": "/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
   "release_date": "2022-03-30",
   "vote_average": 7.6,
@@ -60,5 +60,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Oscar Isaac Ethan Hawke May Calamawy Ann Akinjirin David Ganly Karim El Hakim F. Murray Abraham",
-  "first_air_date": "2022-03-30"
+  "first_air_date": "2022-03-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -46,5 +46,8 @@
   "language": "الألمانية",
   "country": "ألمانيا",
   "cast": "Horst Tappert Fritz Wepper Willy Schäfer",
-  "first_air_date": "1974-10-20"
+  "first_air_date": "1974-10-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

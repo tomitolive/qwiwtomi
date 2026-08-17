@@ -5,7 +5,7 @@
   "title_en": "A Winter Sun Wakes the Wind in Spring Hills Dream",
   "slug": "319037-a-winter-sun-wakes-the-wind-in-spring-hills-dream",
   "overview": "تستيقظ شمس الشتاء توقظ الريح في حلم سبرينج هيلز. مسلسل دراما رومانسي يجمع بين ممثل مشهور ومزارع شاي في جبال سبرينج هيلز. حيث تقع قصة حب بين عالمين مختلفين تمامًا. \"شمس الشتاء توقظ الريح في حلم سبرينج هيلز\"، مسلسل رومانسي ممتع يسلط الضوء على قصة حب فريدة من نوعها.",
-  "poster_path": "/1rE1nJ2cboJ3Hzfd8yuCnWX0wQ6.jpg",
+  "poster_path": "/scklOeyOFJYQehCm3hrssdYIISd.jpg",
   "backdrop_path": "/s9Eg3PUfBbGi6AFFjT07hTuMhpd.jpg",
   "release_date": "2026-06-12",
   "vote_average": 7.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Kuma Liu Jingyu Guo Zongxu He Jiakai Hu Yichen",
-  "first_air_date": "2026-06-12"
+  "first_air_date": "2026-06-12",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

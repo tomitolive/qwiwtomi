@@ -5,7 +5,7 @@
   "title_en": "Chief Kim",
   "slug": "68947-chief-kim",
   "overview": "يحكي مسلسل 'رئيس كيم' قصة رجل محاسبة ماهر في فن السرقة المالية، لكنه يصبح بطل غير متعمد لزملائه في العمل عندما يلتحق بمنصب جديد في الشركة. يظهر رئيس كيم كشخص طموح ومهيب، لكنه يخفى وراءه خيالًا وابتكارًا يجعله يقود زملائه نحو تحقيق الأهداف. في هذا المسلسل الكوميدي الدرامي، نرى كيف يصبح رئيس كيم الرجل الذي يقود طاقمًا متعاونًا ومتفانًا.",
-  "poster_path": "/dVIiEynkFXQiCL1Ic02smNhkSnw.jpg",
+  "poster_path": "/yOi3P2Wvu2qSJd04cR30YyxVyol.jpg",
   "backdrop_path": "/asyFsuedj8sWLONHrt6f3ZZxhlo.jpg",
   "release_date": "2017-01-25",
   "vote_average": 8.0,
@@ -58,5 +58,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Namkoong Min Nam Sang-mi Lee Jun-ho Jung Hye-sung Kim Won-hae Kim Kang-hyun Jo Hyun-sik Ryu Hye-rin",
-  "first_air_date": "2017-01-25"
+  "first_air_date": "2017-01-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

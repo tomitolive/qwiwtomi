@@ -5,7 +5,7 @@
   "title_en": "BLACK TORCH",
   "slug": "285993-black-torch",
   "overview": "مسلسل \"الشعلة السوداء\" أو \"BLACK TORCH\" هو عمل رسوم متحركة مثير يجمع بين الغموض والحركة والمغامرة والخيال العلمي. تدور أحداث المسلسل حول جيرو أزوما، طالب ثانوي غير عادي، فهو ينحدر من سلالة النينجا ويتقن فنون المحارب القديم الشينوبي، كما أنه قادر على التحدث مع الحيوانات. بعد لقاء غامض مع قطة مصابة تدعى راغو، يكتشف جيرو أن هذه القطة هي النجم الأسود الأسطوري! ينضم جيرو إلى مكتب الاستخبارات لمكافحة أسراب المونونوكي التي تتربص لاستغلال قوى راغو.",
-  "poster_path": "/qxPsSYAiNhFLETmFJZ0s5HWyYhr.jpg",
+  "poster_path": "/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg",
   "backdrop_path": "/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
   "release_date": "2026-07-04",
   "vote_average": 7.7,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ryota Suzuki Yoji Ueda Sayaka Senbongi Junya Enoki Junichi Suwabe Reina Ueda Toshiyuki Morikawa Nobuhiko Okamoto",
-  "first_air_date": "2026-07-04"
+  "first_air_date": "2026-07-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

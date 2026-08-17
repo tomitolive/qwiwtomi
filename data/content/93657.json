@@ -5,7 +5,7 @@
   "title_en": "Extraordinary You",
   "slug": "93657-extraordinary-you",
   "overview": "تسعى مراهقة إلى مواجهة مصيرها المحتوم وتغييره بعد إدراكها أنها ليست إلا شخصية ثانوية في قصّة مصوّرة.",
-  "poster_path": "/aGqyFrtmHIjGQ7ZYPpFTxptF5ei.jpg",
+  "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
   "backdrop_path": "/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
   "release_date": "2019-10-02",
   "vote_average": 8.1,
@@ -54,5 +54,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Hye-yoon Rowoon Lee Jae-wook Lee Na-eun Jung Gun-joo Kim Young-dae Lee Tae-ri Kim Ji-in",
-  "first_air_date": "2019-10-02"
+  "first_air_date": "2019-10-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Ahsoka",
   "slug": "114461-ahsoka",
   "overview": "بعد انهيار إمبراطورية المجرة، تسعى أسوكا للتحقيق في تهديد جديد يضع المجرة بكاملها في خطر.",
-  "poster_path": "/gmK7mJV8Ecl8Lw1DsWP1Rziyp2S.jpg",
+  "poster_path": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
   "backdrop_path": "/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
   "release_date": "2023-08-22",
   "vote_average": 7.4,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Rosario Dawson Natasha Liu Bordizzo Ray Stevenson Ivanna Sakhno Mary Elizabeth Winstead Diana Lee Inosanto David Tennant",
-  "first_air_date": "2023-08-22"
+  "first_air_date": "2023-08-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

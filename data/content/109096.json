@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Stefan Guo Huo Shu",
-  "first_air_date": "2019-04-01"
+  "first_air_date": "2019-04-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Slam Dunk",
   "slug": "42573-slam-dunk",
   "overview": "تدور أحداث المسلسل حول طالب فاشل يدعى حسان (هاناميتشي ساكوراجي) وكيفيه تحوله من طالب بلا أهداف ومبتدئ إلى لاعب جيد في فريق الصقور (شوهوكو) بطريقة طريفة وجميلة ومشّوقة حيث أثار اعجاب الكثيرين معا انه في أول مبارباته كان يطرد بخمس اخطاء ولكن الجمهور لايهتم لذلك لانه يقدم عرضا رائعا اما باقي لاعبي الفريق هم : فادي، سعد، جواد، بدر وسهيلكل منهم له قصته في الانضمام إلى الفريق وقصتهم عند وصولهم إلى البطولة.",
-  "poster_path": "/fDuykQUpVgVOcO3MALu4HgXtZtM.jpg",
+  "poster_path": "/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg",
   "backdrop_path": "/dEANXnVRmFkSD8jcJlZ0oy8EnB1.jpg",
   "release_date": "1993-10-16",
   "vote_average": 8.7,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Takeshi Kusao Hikaru Midorikawa Kiyoyuki Yanada Yoku Shioya Ryotaro Okiayu Akiko Hiramatsu Eriko Hara Hideyuki Tanaka",
-  "first_air_date": "1993-10-16"
+  "first_air_date": "1993-10-16",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

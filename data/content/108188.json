@@ -42,5 +42,8 @@
   "language": "الألمانية",
   "country": "Austria",
   "cast": "Barbara Karlich",
-  "first_air_date": "1999-10-27"
+  "first_air_date": "1999-10-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

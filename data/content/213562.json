@@ -5,7 +5,7 @@
   "title_en": "Crystal Lake",
   "slug": "213562-crystal-lake",
   "overview": "مسلسل \"كريستال ليك\" أو \"Crystal Lake\" هو مسلسل غموض ودراما مثير يسبق أحداث سلسلة \"الجمعة الثالث عشر\" الشهيرة. تدور أحداثه حول شخصية باميلا فورهيس، وتكشف عن أسرار ماضيه. استعد لمشاهدة رحلة مشوقة مليئة بالألغاز والتشويق.",
-  "poster_path": "/3qhjI1l576hR3GeEmR9FcYcH4p9.jpg",
+  "poster_path": "/26inHXfDGuH6FAKf1RH4RLJw2jf.jpg",
   "backdrop_path": "/w7yAQtTiIcGy4gcbCDtfXo9fcQZ.jpg",
   "release_date": "2026-10-15",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Linda Cardellini William Catlett Devin Kessler Cameron Scoggins Gwendolyn Sundstrom Callum Vinson",
-  "first_air_date": "2026-10-15"
+  "first_air_date": "2026-10-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

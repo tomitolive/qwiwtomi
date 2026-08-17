@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Daniel Sunjata Aaron Tveit Vanessa Ferlito Serinda Swan Manny Montana Brandon Jay McLaren",
-  "first_air_date": "2013-06-06"
+  "first_air_date": "2013-06-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

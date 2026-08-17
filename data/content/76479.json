@@ -5,7 +5,7 @@
   "title_en": "The Boys",
   "slug": "76479-the-boys",
   "overview": "في عالم حيث يعتنق الأبطال الخارقون الجانب المظلم من شهرتهم ونجوميتهم الواسعة، يركز مسلسل \"الرفاق\" على مجموعة من المقتصين المعروفين بشكل غير رسمي باسم \"الرفاق\"، الذين ينطلقون للقضاء على الأبطال الخارقين الفاسدين متسلحين بعزيمتهم العمالية واستعدادهم للقتال بقذارة.",
-  "poster_path": "/l1S7IHu5S4VyYpP0Z4lh6MLfK6g.jpg",
+  "poster_path": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
   "backdrop_path": "/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
   "release_date": "2019-07-25",
   "vote_average": 8.4,
@@ -58,5 +58,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Karl Urban Jack Quaid Antony Starr Erin Moriarty Laz Alonso Chace Crawford Tomer Capone Karen Fukuhara",
-  "first_air_date": "2019-07-25"
+  "first_air_date": "2019-07-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

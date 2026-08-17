@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "South Africa",
   "cast": "Justin Strydom Sandi Schultz Nadia Valvekens Altus Theart Werner Coetser Reze-Tiana Wessels Stiaan Bruwer Mandi du Plooy",
-  "first_air_date": "2022-10-03"
+  "first_air_date": "2022-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

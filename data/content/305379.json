@@ -5,7 +5,7 @@
   "title_en": "Badly in Love",
   "slug": "305379-badly-in-love",
   "overview": "مسلسل \"سيئة في الحب\" أو \"Badly  Love\" هو أول برنامج مواعدة ياباني للمتمردين من فئة \"\". يتنافس 11 عازبًا في هذا البرنامج، حيث يتصادمون، ويبنون علاقات، ويعيشون معًا لمدة 14 يومًا في رحلة بحثهم عن الحب الحقيقي.",
-  "poster_path": "/iAGXAIlRhpgK4cqv51eUc9dCl8h.jpg",
+  "poster_path": "/znBXK71xEjvfqcNsiRG8KFGk1Ut.jpg",
   "backdrop_path": "/vmQhEYL4VP7jjaNC5qNSETGHGJc.jpg",
   "release_date": "2025-12-09",
   "vote_average": 7.7,
@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "2025-12-09"
+  "first_air_date": "2025-12-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

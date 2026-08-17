@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Taiwan",
   "cast": "",
-  "first_air_date": "2004-01-05"
+  "first_air_date": "2004-01-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

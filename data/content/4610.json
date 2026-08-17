@@ -5,7 +5,7 @@
   "title_en": "Hannah Montana",
   "slug": "4610-hannah-montana",
   "overview": "هانا مونتانا هي شخصية مبهجة وذكية تتعايش بين حياتها العادية ومواهبها الموسيقية في هذا المسلسل الكوميدي. عندما تغلق الأضواء وتهبط الستار، يظهر هانا مونتانا في شكلها الغامر والمتميز. هذه الحياة المزدوجة تعني أن هانا مضطرة إلى توازن بين حياتها الطبيعية ووظائفها كنجومة رائدة في عالم الموسيقى. مع كونها في أفضل العالمين، تجرب هانا ومواساتها الكثير من المغامرات المثيرة في محاولة توطيد حياتها العادية مع شخصيتها الغامرة.",
-  "poster_path": "/sRqLl0SHA4diTL8zvUTgBw6DQeM.jpg",
+  "poster_path": "/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
   "backdrop_path": "/r7tiRgwCz4orOoYZIdbRdIGkfU3.jpg",
   "release_date": "2006-03-24",
   "vote_average": 7.1,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Miley Cyrus Emily Osment Jason Earles Billy Ray Cyrus Moisés Arias",
-  "first_air_date": "2006-03-24"
+  "first_air_date": "2006-03-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "My Adventures with Superman",
   "slug": "125928-my-adventures-with-superman",
   "overview": "تابعوا مسلسل \"مغامراتي مع سوبرمان\"، وهو مسلسل رسوم متحركة ممتع يجمع بين الحركة والمغامرة والخيال العلمي. تدور أحداثه حول مغامرات كلارك كينت، ولويس لين، وجيمي أولسن، الذين يكتشفون قدراتهم معًا كفريق تحقيق في صحيفة ديلي بلانت. \"مغامراتي مع سوبرمان\"، عنوان مثير لمسلسل \"My Adventures  Superman\" المترجم.",
-  "poster_path": "/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg",
+  "poster_path": "/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
   "backdrop_path": "/vstgoeNAyIhSErJ9EWSqh2pINUc.jpg",
   "release_date": "2023-07-07",
   "vote_average": 8.1,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jack Quaid Alice Lee Ishmel Sahid",
-  "first_air_date": "2023-07-07"
+  "first_air_date": "2023-07-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

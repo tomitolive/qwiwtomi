@@ -5,7 +5,7 @@
   "title_en": "Whos the Murderer",
   "slug": "74561-whos-the-murderer",
   "overview": "استمتع بمشاهدة مسلسل من هو القاتل مترجم بجودة عالية.",
-  "poster_path": "/dmWr4vJgvGMH8m60fuTh0wzYGde.jpg",
+  "poster_path": "/jOtXeYMoHBBBEbmOINaYnW21BoV.jpg",
   "backdrop_path": "/cakRVxJh1MI8Sj3aJ1f75uvUSze.jpg",
   "release_date": "2016-03-27",
   "vote_average": 8.4,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "",
-  "first_air_date": "2016-03-27"
+  "first_air_date": "2016-03-27",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

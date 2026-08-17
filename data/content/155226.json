@@ -5,7 +5,7 @@
   "title_en": "Big Mouth",
   "slug": "155226-big-mouth",
   "overview": "تدور قصة الدراما حول “بارك تشانغ هو” وهو شاب يعمل كمحام بمعدل ربح ضئيل. إنه شخص ثرثار ، ولهذا السبب يطلق عليه الناس اسم “الفم الكبير”. ذات يوم يتورط في قضية قتل، ويتم توجيه أصابع الاتهام إليه بطريقة ما على أنه المحتال العبقري الملقب بـ ” الفم الكبير ” . نتيجة لهذا ، يجد بارك تشانغ هو نفسه في موقف يهدد حياته.\n\nفي الوقت نفسه ، “غو ميهو” هي زوجة “بارك تشانغ هو” وهي فتاة تتمتع بمظهر جميل وشخصية حكيمة وشجاعة تعمل كممرضة… عندما تعلم “غوميهو” أن زوجها يشتبه في أنه المحتال العبقري ” الفأر الكبير ” تحاول مساعدته على تبرئة اسمه.",
-  "poster_path": "/8I7aAqKY97tPNQ36VJy47RIkwLf.jpg",
+  "poster_path": "/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
   "backdrop_path": "/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
   "release_date": "2022-07-29",
   "vote_average": 8.3,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Lee Jong-suk Yoona Kim Ju-hun Kwak Dong-yeon Yang Kyung-won Ok Ja-yeon Oh Eui-sik Kim Jeong-hyeon",
-  "first_air_date": "2022-07-29"
+  "first_air_date": "2022-07-29",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

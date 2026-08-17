@@ -5,7 +5,7 @@
   "title_en": "Pit Babe",
   "slug": "235199-pit-babe",
   "overview": "يحكي مسلسل Pit Babe قصة بطل رياضي يرغب في المشاركة في فريق سباقات السيارات المرموق، لكنه يتعين عليه أن يتعاون مع زميله الموهوب، الذي يحتاج إلى إعطاءه أوامر دون أي شك. في هذا العالم المليء بالتحديات، يجد البطل نفسه مضطرًا إلى الموافقة على أوامر زميله، مع أن ذلك يتعارض مع شخصيته وتفكيره. ومع الوقت، يبدأ البطل في اكتشاف نوايا زميله الحقيقية، ويدرك أن هناك أكثر من مجرد رغبة في السيطرة. كيف سيستجيب البطل لهذه التحديات؟",
-  "poster_path": "/qYOc2wXriD98soT8KhEj9sRDjAl.jpg",
+  "poster_path": "/xuLSkVlXXf3OpTwoUWN5c9ubLVC.jpg",
   "backdrop_path": "/tgPkYUUcOWUpocPkt8KIfJMvEbf.jpg",
   "release_date": "2023-11-17",
   "vote_average": 8.0,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "Thailand",
   "cast": "Naret Promphaopun Krittin Kitjaruwannakul Supanut Lourhaphanich Obrnithi Leelavetchabutr Atthanin Thaninphanuwiwat Asre Wattanayakul Thanapon Aiemkumchai Hemmawich Kwanamphaiphan",
-  "first_air_date": "2023-11-17"
+  "first_air_date": "2023-11-17",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

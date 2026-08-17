@@ -5,7 +5,7 @@
   "title_en": "Casualty",
   "slug": "1021-casualty",
   "overview": "مسلسل \"إصابة\" هو دراما مشوقة تدور أحداثها في قسم الطوارئ بمستشفى هولبي سيتي، حيث نتعرف على الموظفين والمرضى ونتابع الصعود والهبوط في حياتهم الشخصية والمهنية. هذا المسلسل الذي بدأ عرضه في عام 1986، يسلط الضوء على قصص مؤثرة ومثيرة للاهتمام.",
-  "poster_path": "/oPPClLJtWzeHMojXsGsV09QOTSB.jpg",
+  "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
   "backdrop_path": "/2dE4H9M1gVs7pZ8xZlHpDjnFVfE.jpg",
   "release_date": "1986-09-06",
   "vote_average": 6.2,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "William Beck Elinor Lawless Neet Mohan Charles Venn Di Botcher Michael Stevenson Anna Chell Sarah Seggari",
-  "first_air_date": "1986-09-06"
+  "first_air_date": "1986-09-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

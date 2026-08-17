@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Ashley Jensen Alison O'Donnell Steven Robertson Lewis Howden",
-  "first_air_date": "2013-03-10"
+  "first_air_date": "2013-03-10",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

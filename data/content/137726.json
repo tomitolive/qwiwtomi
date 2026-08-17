@@ -5,7 +5,7 @@
   "title_en": "Mao Xue Woof",
   "slug": "137726-mao-xue-woof",
   "overview": "استمتع بمشاهدة مسلسل ماو شيويه ووف مترجم بجودة عالية.",
-  "poster_path": "/biarmEDDU3W5WSxCo8rYsykPOpP.jpg",
+  "poster_path": "/kYBvEOxNhD3IfzapT6x1uPnTEFa.jpg",
   "backdrop_path": "/3UtKvTXlqLNHoADgkKxdj5QppPN.jpg",
   "release_date": "2021-11-01",
   "vote_average": 8.8,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Mao Buyi Li Xueqin",
-  "first_air_date": "2021-11-01"
+  "first_air_date": "2021-11-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

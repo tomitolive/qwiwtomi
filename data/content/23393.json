@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "",
-  "first_air_date": "1947-09-13"
+  "first_air_date": "1947-09-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

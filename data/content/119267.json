@@ -5,7 +5,7 @@
   "title_en": "My Siblings",
   "slug": "119267-my-siblings",
   "overview": "تدور أحداث هذا المسلسل حول النضال المؤلم والمستمر لهؤلاء الأشقاء الأربعة الذين لم يتبقى لهم إلا بعضهم البعض بعد فقدانهم لوالديهم في تسلسل أحداث مؤسف.",
-  "poster_path": "/lSE2CrDZsRjo5dVd4Mu6Iof6BN8.jpg",
+  "poster_path": "/p2wOxI0GAlckcgoGF14r31dYiPr.jpg",
   "backdrop_path": "/mYpj5lBCeRq1cVt3Ygby1IVjAWD.jpg",
   "release_date": "2021-02-20",
   "vote_average": 7.5,
@@ -58,5 +58,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Su Burcu Yazgı Coşkun Bilal Yiğit Koçak Melis Minkari Recep Usta Fadik Sevin Atasoy Cüneyt Mete Celil Nalçakan Ahu Yağtu",
-  "first_air_date": "2021-02-20"
+  "first_air_date": "2021-02-20",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

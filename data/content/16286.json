@@ -5,7 +5,7 @@
   "title_en": "Yo soy Betty, la fea",
   "slug": "16286-yo-soy-betty-la-fea",
   "overview": "استمتع بمشاهدة مسلسل يو الصويا بيتي ، لا فيا مترجم بجودة عالية.",
-  "poster_path": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+  "poster_path": "/vPuDMtIlqQwQnxQ8sXFKRVF2zFN.jpg",
   "backdrop_path": "/mQx26Ah233JDp2iEfIzRfcb4nuo.jpg",
   "release_date": "1999-10-25",
   "vote_average": 8.4,
@@ -50,5 +50,8 @@
   "language": "الإسبانية",
   "country": "كولومبيا",
   "cast": "Ana María Orozco Jorge Enrique Abello Natalia Ramírez Luis Mesa Scarlet Ortiz Ricardo Vélez Mario Duarte Julián Arango",
-  "first_air_date": "1999-10-25"
+  "first_air_date": "1999-10-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Pauly D. JWoww Vinny Guadagnino Mike Sorrentino Deena Cortese",
-  "first_air_date": "2018-04-05"
+  "first_air_date": "2018-04-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

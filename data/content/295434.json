@@ -5,7 +5,7 @@
   "title_en": "Kamen Rider ZEZTZ",
   "slug": "295434-kamen-rider-zeztz",
   "overview": "مقنع يواجه الوحوش والأشرار ويطاردهم في أحلامه وحين ينام النسخة المدبلجة باللغة العربية تعرض على شاشة سبيستون (Spacetoon Arabic TV )",
-  "poster_path": "/rg18G28Et6hAIO7usVD8mHrq5sr.jpg",
+  "poster_path": "/hmx4Oxsg3g1WDA0fffMzMUBh7Y2.jpg",
   "backdrop_path": "/bPIHW0mZhfZ21Xr7w2Cr3JCFIju.jpg",
   "release_date": "2025-09-07",
   "vote_average": 8.1,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Ryutaro Imai Maho Horiguchi Kenta Mishima Rina Onuki Miki Yagi Yuki Tamaki Jay Kabira Yuki Furukawa",
-  "first_air_date": "2025-09-07"
+  "first_air_date": "2025-09-07",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

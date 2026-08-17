@@ -5,7 +5,7 @@
   "title_en": "The Exiled Heavy Knight Knows How to Game the System",
   "slug": "270603-the-exiled-heavy-knight-knows-how-to-game-the-system",
   "overview": "يستكشف مسلسل \"الفارس الثقيل المنفي يعرف كيف يتلاعب بالنظام\" رحلة إيليماس إدفيجن، وهو فارس منفي من عائلة مرموقة من سيوفيي السيف. عندما يستيقظ إيليماس على قدرات فارس \"معيب\"، يجد نفسه منبوذاً ومطروداً. لكن ذكريات حياة أخرى تعود إليه، ويدرك أن هذا العالم يشبه لعبة واقع افتراضي سيطر عليها ذات يوم. مسلحًا بمعرفة لا يمتلكها أحد، يبدأ رحلته لإعادة كتابة قدره وإثبات قوة \"أضعف\" فئة.",
-  "poster_path": "/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
+  "poster_path": "/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
   "backdrop_path": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
   "release_date": "2026-07-03",
   "vote_average": 8.3,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Takeo Otsuka Shion Wakayama Natsuko Abe Kentaro Tone Katsumi Fukuhara Miyuri Shimabukuro",
-  "first_air_date": "2026-07-03"
+  "first_air_date": "2026-07-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

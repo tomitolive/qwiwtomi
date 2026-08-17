@@ -5,7 +5,7 @@
   "title_en": "Anupamaa",
   "slug": "116479-anupamaa",
   "overview": "أنوباما، المسلسل الدرامي المثير، يسلط الضوء على رحلة أنوباما التي ضحت بالكثير لتصبح الزوجة المثالية، والابنة الصالحة، والأم الرائعة. بعد إدراكها المرير، قررت أن تعيش حياتها وفق شروطها الخاصة. أنوباما، مسلسل يجب مشاهدته، يجعلك تتأمل في معنى الحياة والحرية.",
-  "poster_path": "/i3ZcFxUiGr6HV5yv1i6n7uKHyj7.jpg",
+  "poster_path": "/wEYKsIHnsdPsNDWK8hiKbtRotCY.jpg",
   "backdrop_path": "/wBu3BErMuZ51H701J8QjmoHdBHr.jpg",
   "release_date": "2020-07-13",
   "vote_average": 4.7,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الهند",
   "cast": "Rupali Ganguly Adrija Roy Shivam Khajuria Sudhanshu Pandey Paras Kalnawat Madalasa Sharma Tasneem Sheikh Muskaan Bamne",
-  "first_air_date": "2020-07-13"
+  "first_air_date": "2020-07-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

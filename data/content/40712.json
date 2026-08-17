@@ -46,5 +46,8 @@
   "language": "الألمانية",
   "country": "ألمانيا",
   "cast": "Peter Schell Ursula Cantieni Julia Obst Wolfgang Hepp Ralph Gassmann Christiane Brammer Karsten Dörr Christiane Bachschmidt",
-  "first_air_date": "1994-09-25"
+  "first_air_date": "1994-09-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

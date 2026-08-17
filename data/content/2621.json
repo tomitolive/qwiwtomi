@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Clive Myrie",
-  "first_air_date": "1972-09-11"
+  "first_air_date": "1972-09-11",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Chernobyl",
   "slug": "87108-chernobyl",
   "overview": "القصة الحقيقية لواحدة من أسوأ الكوارث من صنع الإنسان في التاريخ ، الحادث النووي الكارثي في ​​تشيرنوبيل. قصة من الرجال والنساء الشجعان الذين ضحوا من أجل إنقاذ أوروبا من كارثة لا يمكن تصورها.",
-  "poster_path": "/dJFMw4g86jVOzfmGI2Q1NTE5h8c.jpg",
+  "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
   "backdrop_path": "/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
   "release_date": "2019-05-06",
   "vote_average": 8.7,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "Jared Harris Stellan Skarsgård Emily Watson Paul Ritter Jessie Buckley Adam Nagaitis Sam Troughton Robert Emms",
-  "first_air_date": "2019-05-06"
+  "first_air_date": "2019-05-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

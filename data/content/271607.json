@@ -5,7 +5,7 @@
   "title_en": "The Fragrant Flower Blooms with Dignity",
   "slug": "271607-the-fragrant-flower-blooms-with-dignity",
   "overview": "تتوطد علاقة غير متوقعة بين \"رينتارو\" المعروف بمظهره المُخيف و\"كاوروكو\" صاحبة العقل المنفتح... فيما تكمن المشكلة في أجواء الكراهية المتبادلة بين مدرستيهما المتجاورتين.",
-  "poster_path": "/wWWjqHUBJ0xdtWaacMYTRadRtsM.jpg",
+  "poster_path": "/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
   "backdrop_path": "/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
   "release_date": "2025-07-06",
   "vote_average": 8.6,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yoshinori Nakayama Honoka Inoue",
-  "first_air_date": "2025-07-06"
+  "first_air_date": "2025-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

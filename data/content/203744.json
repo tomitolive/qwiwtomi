@@ -5,7 +5,7 @@
   "title_en": "Sugar",
   "slug": "203744-sugar",
   "overview": "محقق خاص غامض يكابد وساوس شخصية بينما يحقّق في اختفاء الحفيدة الحبيبة لأحد منتجي \"هوليوود\".",
-  "poster_path": "/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+  "poster_path": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
   "backdrop_path": "/7sV0OgNkPiY9XPzr0f3rATFrGje.jpg",
   "release_date": "2024-04-04",
   "vote_average": 7.3,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "Ireland",
   "cast": "Colin Farrell Jin Ha Raymond Lee Tony Dalton Laura Donnelly Sasha Calle",
-  "first_air_date": "2024-04-04"
+  "first_air_date": "2024-04-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

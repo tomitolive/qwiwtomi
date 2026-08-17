@@ -5,12 +5,16 @@
     "title_en": "Spider-Man: Brand New Day",
     "overview": "",
     "overview_en": "",
-    "poster_path": "/t/p/w500/kWUtKsa06OYwkDI64cOpuYGK8sA.jpg",
+    "poster_path": "/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
     "backdrop_path": "",
     "release_date": "2026",
     "vote_average": 7,
     "genre_ids": [],
-    "genres": ["خيال علمي", "حركة", "مغامرة"],
+    "genres": [
+      "خيال علمي",
+      "حركة",
+      "مغامرة"
+    ],
     "youtube_key": "",
     "youtube_url": "https://www.youtube.com/watch?v=62bIsvRcPv0",
     "local_video_path": "/videos/969681.mp4",
@@ -23,12 +27,16 @@
     "title_en": "The Odyssey",
     "overview": "",
     "overview_en": "",
-    "poster_path": "/t/p/w500/kVYFP3YKVgJEvKCbRdBMBbXVd3N.jpg",
+    "poster_path": "/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop_path": "",
     "release_date": "2026",
     "vote_average": 7,
     "genre_ids": [],
-    "genres": ["مغامرة", "حركة", "فانتازيا"],
+    "genres": [
+      "مغامرة",
+      "حركة",
+      "فانتازيا"
+    ],
     "youtube_key": "",
     "youtube_url": "https://www.youtube.com/watch?v=wD5w48WT3uo",
     "local_video_path": "/videos/1368337.mp4",
@@ -46,7 +54,11 @@
     "release_date": "2026",
     "vote_average": 7,
     "genre_ids": [],
-    "genres": ["رعب", "خيال علمي", "إثارة"],
+    "genres": [
+      "رعب",
+      "خيال علمي",
+      "إثارة"
+    ],
     "youtube_key": "",
     "youtube_url": "https://www.youtube.com/watch?v=MLxgaz2Zp1k",
     "local_video_path": "/videos/1284041.mp4",
@@ -59,12 +71,16 @@
     "title_en": "Obsession",
     "overview": "",
     "overview_en": "",
-    "poster_path": "/t/p/w500/ypyn52YUVZ6ZZ3UlMtglIKejYOa.jpg",
+    "poster_path": "/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop_path": "",
     "release_date": "2026",
     "vote_average": 7.9,
-    "genre_ids": [27],
-    "genres": ["رعب"],
+    "genre_ids": [
+      27
+    ],
+    "genres": [
+      "رعب"
+    ],
     "youtube_key": "",
     "youtube_url": "https://www.youtube.com/watch?v=ojHqFxMI6XQ",
     "local_video_path": "/videos/1339713.mp4",
@@ -77,12 +93,15 @@
     "title_en": "Evil Dead Burn",
     "overview": "",
     "overview_en": "",
-    "poster_path": "/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "poster_path": "/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
     "backdrop_path": "",
     "release_date": "2026",
     "vote_average": 7,
     "genre_ids": [],
-    "genres": ["رعب", "إثارة"],
+    "genres": [
+      "رعب",
+      "إثارة"
+    ],
     "youtube_key": "",
     "youtube_url": "https://youtu.be/MyRj94stDNg",
     "local_video_path": "/videos/1212763.mp4",

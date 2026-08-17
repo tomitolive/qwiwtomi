@@ -5,7 +5,7 @@
   "title_en": "Grimms Fairy Tale Classics",
   "slug": "9892-grimms-fairy-tale-classics",
   "overview": "في جعبتي حكاية .. هي مجموعة من الحكايات والقصص المتنوعة التي تحكي عن شخصيات\n\nعرفناها وسمعنا عنها .. تحكى بأسلوب شيق و ممتع الغرض منه الاستفادة والمتعة منها قصة\n\nسندريلا و سنو وايت والكثير الكثير. في جعبتي حكايا تتنوع أيضا المغامرات وتتنوع الأحلام\n\nفلكل قصة مغزى .. كل الحكايات رائعة فأحضروها معنا",
-  "poster_path": "/x7nCvYvBNghmk44MK6vq7D7VjFa.jpg",
+  "poster_path": "/p09SiMG9RTkmG0wnwrkHz6BY7Cx.jpg",
   "backdrop_path": "/vUG1FYgtFLCitIBw21168Kg4OYP.jpg",
   "release_date": "1987-10-21",
   "vote_average": 8.3,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "كولومبيا",
   "cast": "",
-  "first_air_date": "1987-10-21"
+  "first_air_date": "1987-10-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

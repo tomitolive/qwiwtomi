@@ -5,7 +5,7 @@
   "title_en": "Yashahime: Princess Half-Demon",
   "slug": "103254-yashahime-princess-half-demon",
   "overview": "في اليابان الإقطاعية، انفصلت التوأمتان نصف الشيطانتين، توا وسيتسونا، عن بعضهما البعض خلال حريق غابة. وبينما كانت توا تبحث بيأس عن أختها الصغرى، ضلت طريقها إلى نفق غامض نقلها إلى اليابان المعاصرة، حيث عثر عليها سوتا، شقيق كاغومي هيغوراشي، وعائلته وقاموا بتربيتها. بعد عشر سنوات، أُعيد فتح النفق الذي يربط بين العصرين، مما سمح لتوا بالاجتماع مجددًا بسيتسونا، التي أصبحت الآن قاتلة شياطين تعمل لدى كوهاكو. لكن لدهشة توا، يبدو أن سيتسونا قد فقدت كل ذكرياتها عن أختها الكبرى.",
-  "poster_path": "/yyBERFhpw91dhLCmI5S5QbOE1K4.jpg",
+  "poster_path": "/78l5gFTXyLp9KE4uSWJgSRb9RGj.jpg",
   "backdrop_path": "/1kRDKwsjADXThhVZhgD3BYURPqa.jpg",
   "release_date": "2020-10-03",
   "vote_average": 8.3,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Sara Matsumoto Mikako Komatsu Azusa Tadokoro Ryohei Kimura Takehiro Urao Fairouz Ai Jun Fukuyama Yoshimasa Hosoya",
-  "first_air_date": "2020-10-03"
+  "first_air_date": "2020-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

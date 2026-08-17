@@ -5,7 +5,7 @@
   "title_en": "Little House on the Prairie",
   "slug": "283304-little-house-on-the-prairie",
   "overview": "تدور أحداث مسلسل \"منزل صغير على المرج\" حول عائلة إنجلز المترابطة التي تبني حياة جديدة على الحدود الغربية، حيث تتشابك متعة الطبيعة مع الكفاح من أجل البقاء. يسلط المسلسل الضوء على مغامراتهم في البراري الأمريكية، مما يجعل منه تجربة مشاهدة ممتعة ومثيرة.",
-  "poster_path": "/wdYVZcm59DHYtwdCztruNYmJzX9.jpg",
+  "poster_path": "/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
   "backdrop_path": "/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
   "release_date": "2026-07-09",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Alice Halsey Luke Bracey Crosby Fitzgerald Skywalker Hughes Warren Christie Jocko Sims Meegwun Fairbrother Alyssa Wapanatâhk",
-  "first_air_date": "2026-07-09"
+  "first_air_date": "2026-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

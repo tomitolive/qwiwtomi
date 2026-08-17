@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Jack Klugman Robert Ito Val Bisoglio John S. Ragin Garry Walberg Joseph Roman",
-  "first_air_date": "1976-10-03"
+  "first_air_date": "1976-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

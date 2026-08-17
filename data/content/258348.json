@@ -5,7 +5,7 @@
   "title_en": "Clevatess",
   "slug": "258348-clevatess",
   "overview": "تتعرض مملكة كليفاتيس للدمار عندما يستعيد أحد أسياد الوحوش المظلمة، بطلًا قتله شخصيًا، ويتبنى طفلًا بشريًا يتيمًا - الأمل الأخير لإنقاذ عالم يحتضر. الآن، ما المصير الذي ينتظر هذا الثلاثي غير المتوقع؟ كليفاتيس، مسلسل رسوم متحركة مليء بالحركة والمغامرة والخيال العلمي.",
-  "poster_path": "/avajalKjBP5QjwIEb5Xs8QXg1K.jpg",
+  "poster_path": "/1Pcp1QJS83KY25nTnL2UvJHWUVQ.jpg",
   "backdrop_path": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
   "release_date": "2025-07-02",
   "vote_average": 8.0,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Haruka Shiraishi Mutsumi Tamura Yuichi Nakamura Saya Aizawa",
-  "first_air_date": "2025-07-02"
+  "first_air_date": "2025-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

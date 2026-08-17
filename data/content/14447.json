@@ -5,7 +5,7 @@
   "title_en": "L for Love",
   "slug": "14447-l-for-love",
   "overview": "تدور أحداث مسلسل \"  \" أو \"  Love\" حول أجيال متعددة من عائلة Mostowiak. بدأ عرضه في 4 نوفمبر 2000 على قناة TVP2، كدراما أسبوعية، ثم انتقل إلى موعد جديد مع موسم جديد وحلقتين أسبوعيًا. حقق المسلسل نجاحًا كبيرًا وأصبح الدراما الأكثر مشاهدة على التلفزيون البولندي. كما تم بثه على قناة TVP Polonia الدولية مع ترجمة إنجليزية.",
-  "poster_path": "/8agoxhXGlv6ICYa733bDrfKnJ3.jpg",
+  "poster_path": "/4tXtIObdyCZoeqJmSGUhNlilsWQ.jpg",
   "backdrop_path": "/jZhbWvp8tNrCA1zTyQQGPh0kabG.jpg",
   "release_date": "2000-11-04",
   "vote_average": 4.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Poland",
   "cast": "Rafał Mroczek Teresa Lipowska Dominika Ostałowska Małgorzata Pieńkowska Marcin Mroczek Katarzyna Cichopek",
-  "first_air_date": "2000-11-04"
+  "first_air_date": "2000-11-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

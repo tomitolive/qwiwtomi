@@ -5,7 +5,7 @@
   "title_en": "GAP",
   "slug": "155513-gap",
   "overview": "مسلسل \"GAP\" هو مزيج من الدراما والكوميديا، حيث تدور أحداثه حول مون، الخريجة الجديدة من الجامعة، والتي تبدأ عملها كمتدربة في شركة كبيرة بسبب إعجابها بسام، رئيسة مجلس الإدارة الثرية منذ صغرها. لكن صورة سام المثالية تنهار في عيني مون عندما تلتقي بها مجددًا، حيث تكتشف أنها ليست كما تظهرها وسائل الإعلام. \"GAP\" مسلسل ممتع ومليء بالمفاجآت.",
-  "poster_path": "/1NY4rLU5MQDMEzd9kZWKFgNCR8R.jpg",
+  "poster_path": "/ijFfRpFu378uUXq4Eb4W7uEnOEu.jpg",
   "backdrop_path": "/ecEDhvJz8EmlhO8HFLaJKw8QwHP.jpg",
   "release_date": "2022-11-19",
   "vote_average": 9.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "تايلاند",
   "cast": "Becky Armstrong Sarocha Chankimha Asavarid Pinitkanjanapun Urassaya Malaiwong Natnicha Vorrakittikun Orntara Poolsak Punnisa Sirisang Ratchanon Kanpiang",
-  "first_air_date": "2022-11-19"
+  "first_air_date": "2022-11-19",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

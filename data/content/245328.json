@@ -5,7 +5,7 @@
   "title_en": "Margarita: Make Your Story Count",
   "slug": "245328-margarita-make-your-story-count",
   "overview": "مسلسل \"مارغريتا\"، دراما عائلية كوميدية تروي قصة مراهقة يتيمة تعيش حياة مليئة بالشكوك والغموض، حيث تنتقل إلى مكان سحري لتحقيق أحلامها دون أن تدري أنه منزلها الحقيقي الذي سلبته منها دلفينا.",
-  "poster_path": "/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg",
+  "poster_path": "/scOdQ3JwM9N8RW0gzkBELfm4DzJ.jpg",
   "backdrop_path": "/ldCadzOdqjjIYdUlhVCBYSiTwB9.jpg",
   "release_date": "2024-09-02",
   "vote_average": 8.9,
@@ -54,5 +54,8 @@
   "language": "الإسبانية",
   "country": "الأرجنتين",
   "cast": "Mora Bianchi Isabel Macedo Ramiro Spangenberg Lola Abraldes Julia Calvo Francisco Ruiz Barlett María del Cerro Tomás Benitez",
-  "first_air_date": "2024-09-02"
+  "first_air_date": "2024-09-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

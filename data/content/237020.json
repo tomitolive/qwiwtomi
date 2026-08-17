@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "",
-  "first_air_date": "2001-07-09"
+  "first_air_date": "2001-07-09",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Will Trent",
   "slug": "208569-will-trent",
   "overview": "يتابع المسلسل العميل ويل ترينت من مكتب التحقيقات بجورجيا، محقق بارع بقدرات تحليلية استثنائية. نشأ في دار رعاية، مما منحه منظورًا فريدًا يساعده في حل القضايا المعقدة بأساليب غير تقليدية. مستوحى من روايات كارين سلوتر، يجمع المسلسل بين التشويق، التحقيقات الجنائية، والدراما الإنسانية.",
-  "poster_path": "/wpzZUeRv48Bk3BtzTL8BoM4GfMW.jpg",
+  "poster_path": "/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
   "backdrop_path": "/9pGzG5CYx2XM8JFFQvMk9Z3z9ze.jpg",
   "release_date": "2023-01-03",
   "vote_average": 7.3,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Ramón Rodríguez Erika Christensen Iantha Richardson Jake McLaughlin Sonja Sohn Kevin Daniels",
-  "first_air_date": "2023-01-03"
+  "first_air_date": "2023-01-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

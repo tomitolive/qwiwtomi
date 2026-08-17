@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
   "cast": "",
-  "first_air_date": "1980-01-30"
+  "first_air_date": "1980-01-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

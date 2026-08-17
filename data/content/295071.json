@@ -5,7 +5,7 @@
   "title_en": "Goodbye, Lara",
   "slug": "295071-goodbye-lara",
   "overview": "تتحدث قصة \"وداعا، لارا\" عن أميرة حورية البحر لارا التي وقعت في حب أمير بشري. لتكون معه، استخدمت مصل الساحرة لتصبح بشرية، لكن السحر كان له ثمن: إذا فشلت في إيجاد الحب الحقيقي، ستختفي إلى الأبد. بعد 200 عام، تستيقظ لارا في بحيرة بيوا مع فرصة أخيرة للحياة والحب. مسلسل مشوق يجمع بين الرسوم المتحركة والخيال العلمي والفانتازيا.",
-  "poster_path": "/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
+  "poster_path": "/b6MTa4eZA9uQBEBeSRnGXLjutc5.jpg",
   "backdrop_path": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
   "release_date": "2026-07-06",
   "vote_average": 9.5,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Hana Hishikawa Nana Kawaishi Rica Fukami Ayumu Murase Tomohiro Ono Mitsuaki Madono Nanae Sumitomo Masaki Terasoma",
-  "first_air_date": "2026-07-06"
+  "first_air_date": "2026-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

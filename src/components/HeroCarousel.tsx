@@ -70,7 +70,7 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
     ? `https://image.tmdb.org/t/p/original${activeItem.backdrop_path}`
     : '';
   const posterUrl = activeItem.poster_path
-    ? `https://image.tmdb.org/t/p/w500${activeItem.poster_path}`
+    ? (activeItem.poster_path.startsWith('/t/p/') ? activeItem.poster_path : `/t/p/w500${activeItem.poster_path}`)
     : '';
   
   // Use local video if available, otherwise use YouTube
@@ -235,7 +235,7 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
                 onClick={() => handleSlideChange(idx)}
               >
                 <img
-                  src={item.poster_path ? `https://image.tmdb.org/t/p/w200${item.poster_path.replace('/t/p/w500', '')}` : ''}
+                  src={item.poster_path ? (item.poster_path.startsWith('/t/p/') ? item.poster_path : `/t/p/w500${item.poster_path}`) : ''}
                   alt={`Video ${idx + 1}`}
                   loading="lazy"
                 />

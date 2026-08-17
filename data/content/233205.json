@@ -5,7 +5,7 @@
   "title_en": "Captivating the King",
   "slug": "233205-captivating-the-king",
   "overview": "وسط صراع ملكي وسياسي على السلطة، يتورط ملك مع امرأة مثيرة للاهتمام، وتتحول رغبتها الخفية في الانتقام إلى حب غير مقصود.",
-  "poster_path": "/llCDNlOzbjrDIroIMQwCQDoElZU.jpg",
+  "poster_path": "/wNdHCRkS0Xrz6niq3tpAwuLZk7c.jpg",
   "backdrop_path": "/wqh98k12bgxpbE2tONUITxkWmlH.jpg",
   "release_date": "2024-01-21",
   "vote_average": 7.6,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Cho Jung-seok Shin Sae-kyeong Lee Sin-young Park Ye-yeong Cho Seong-ha Choi Dae-hoon Lee Gyu-hoe Jeong Seok-yong",
-  "first_air_date": "2024-01-21"
+  "first_air_date": "2024-01-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

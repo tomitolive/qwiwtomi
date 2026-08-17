@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Matthew Fox Evangeline Lilly Terry O'Quinn Josh Holloway Michael Emerson Jorge Garcia Naveen Andrews Jeff Fahey",
-  "first_air_date": "2004-09-22"
+  "first_air_date": "2004-09-22",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

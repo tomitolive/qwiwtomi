@@ -5,7 +5,7 @@
   "title_en": "The Agency",
   "slug": "219971-the-agency",
   "overview": "مسلسل \"الوكالة\" أو \"The Agency\" هو دراما غامضة تدور حول عميل سري للـ CIA يدعى مارتين، والذي يُطلب منه التخلي عن حياته السرية والعودة إلى محطة لندن. عندما تعود حبيبته السابقة بشكل غير متوقع، تشتعل الرومانسية من جديد، مما يضع مهنته وهويته الحقيقية ومهمته في مواجهة قلبه، بينما يدفعهم الاثنان إلى لعبة مميتة من المؤامرات الدولية والتجسس.",
-  "poster_path": "/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+  "poster_path": "/zoLZbm5gtTQurjMxp5VOdHIpMmz.jpg",
   "backdrop_path": "/fNA0mMdHlRwVrQSRlYONmSAO8Su.jpg",
   "release_date": "2024-12-01",
   "vote_average": 7.1,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Michael Fassbender Jeffrey Wright Jodie Turner-Smith Katherine Waterston Harriet Sansom Harris John Magaro Saura Lightfoot-Leon Andrew Brooke",
-  "first_air_date": "2024-12-01"
+  "first_air_date": "2024-12-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

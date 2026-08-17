@@ -5,7 +5,7 @@
   "title_en": "Knuckles",
   "slug": "158300-knuckles",
   "overview": "انضم إلى المغامرة المليئة بالحركة والكوميديا في مسلسل \"المفاصل\"، حيث يبدأ \"نكلز\" رحلة اكتشاف الذات عندما يوافق على تدريب \"ويد\" كمتدرب له وتعليمه أساليب محارب الإيكيدنا. استمتع بمشاهدة هذا العمل العائلي الممتع بجودة عالية وترجمة احترافية.",
-  "poster_path": "/xxQ7ny7G8b226cAyRJl2ADAMdYR.jpg",
+  "poster_path": "/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
   "backdrop_path": "/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
   "release_date": "2024-04-26",
   "vote_average": 7.3,
@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Idris Elba Adam Pally",
-  "first_air_date": "2024-04-26"
+  "first_air_date": "2024-04-26",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

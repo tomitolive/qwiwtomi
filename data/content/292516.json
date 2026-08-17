@@ -5,7 +5,7 @@
   "title_en": "Reminder",
   "slug": "292516-reminder",
   "overview": "يلتقي محترفان مفطورا القلب - مهندس معماري ومحرر - صدفةً بعد انتهاء علاقتهما. تجمعهما رسالة هاتفية غامضة، فتبدأ رحلة رومانسية غير متوقعة وشفاء.",
-  "poster_path": "/aID893ooBbZ4fxy2rQvb7MYIlv8.jpg",
+  "poster_path": "/lce2rcSk4vn5qRNktkayCFGDHQE.jpg",
   "backdrop_path": "/fjFQ67nfMbNY1aEknktqqeJWReV.jpg",
   "release_date": "2025-06-18",
   "vote_average": 7.9,
@@ -46,5 +46,8 @@
   "language": "التركية",
   "country": "تركيا",
   "cast": "Hande Erçel Barış Arduç Begüm Akkaya Başak Gümülcinelioğlu Feyyaz Şerifoğlu Melis Minkari Sezin Akbaşoğulları Fatih Al",
-  "first_air_date": "2025-06-18"
+  "first_air_date": "2025-06-18",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

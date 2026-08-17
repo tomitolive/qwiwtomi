@@ -5,7 +5,7 @@
   "title_en": "Death Note",
   "slug": "13916-death-note",
   "overview": "لايت ياغامي هو طالب في المرحلة الثانوية عثر على مذكرة تحمل اسم \"مذكرة الموت\" بعدما قام الشينيغامي (حاصد الأرواح) المعروف باسم \"ريوك\" بإسقاطها علي كوكب الأرض. تمنح لمن يستخدمها القدرة على قتل أي شخص سبق وأن رآه عن طريق كتابة اسمه في المذكرة. وتسرد ألأحداث محاولة \"لايت\" إقامة عالم خالٍ من الشر باستخدام المذكرة، ومن هنا يدور الصراع بين \"لايت\" وبين المحقق \"إل\" الذي يحاول القبض عليه.",
-  "poster_path": "/6tk3niGT9rf48KePCv4fPKM0K62.jpg",
+  "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
   "backdrop_path": "/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
   "release_date": "2006-10-04",
   "vote_average": 8.6,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Mamoru Miyano Shido Nakamura Aya Hirano Kappei Yamaguchi Kimiko Saito Naoya Uchida Ryou Naitou Keiji Fujiwara",
-  "first_air_date": "2006-10-04"
+  "first_air_date": "2006-10-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

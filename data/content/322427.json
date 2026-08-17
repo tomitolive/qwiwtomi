@@ -5,7 +5,7 @@
   "title_en": "The American Experiment",
   "slug": "322427-the-american-experiment",
   "overview": "تستكشف \"التجربة الأمريكية: The American Experiment\"، وهي سلسلة وثائقية تاريخية، كيف أدت المُثل العليا لمؤسسي أمريكا إلى نشأة أمة. تتناول الحلقات الحياة والحرية والسعي وراء السعادة، وتغوص في التاريخ الأمريكي العريق.",
-  "poster_path": "/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+  "poster_path": "/xpp6e3uobvlmWrhhXrmhmoXFdb5.jpg",
   "backdrop_path": "/w6X8UWSQpnCNLuWQ88cV3eSA6VQ.jpg",
   "release_date": "2026-06-24",
   "vote_average": 10.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Martin Sheen",
-  "first_air_date": "2026-06-24"
+  "first_air_date": "2026-06-24",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

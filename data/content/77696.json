@@ -5,7 +5,7 @@
   "title_en": "Run BTS!",
   "slug": "77696-run-bts",
   "overview": "تشغيل BTS! هو برنامج ترفيهي يضم فرقة BTS، حيث يبث بشكل متقطع لمشاهدة مجانية على Weverse وYouTube، وكان سابقًا يُعرض أسبوعيًا مجانًا على  LIVE. إنه برنامج متنوع وممتع يعرض جانبًا مختلفًا من حياة الفرقة.",
-  "poster_path": "/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg",
+  "poster_path": "/xi6fnObkhQI7onZWeSB9rA80Abs.jpg",
   "backdrop_path": "/c8dm74uPCMA27iKAR1WnHKTsI9h.jpg",
   "release_date": "2015-08-01",
   "vote_average": 8.6,
@@ -42,5 +42,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "RM Jin SUGA j-hope Jimin V Jung Kook",
-  "first_air_date": "2015-08-01"
+  "first_air_date": "2015-08-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

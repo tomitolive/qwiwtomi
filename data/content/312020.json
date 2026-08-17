@@ -5,7 +5,7 @@
   "title_en": "The World Is Dancing",
   "slug": "312020-the-world-is-dancing",
   "overview": "العالم يرقص: مسلسل رسوم متحركة ودراما يسلط الضوء على قصة شاب يدعى أونياشا في عام 1374، وسط الصراع الطويل بين المحاكم الشمالية والجنوبية. يولد أونياشا لعائلة من فناني مسرح ساروغاكو، ويعيش أيامه في كآبة هادئة، مسكونًا بسؤال بسيط لكنه ملح: لماذا يرقص الناس؟ ثم يشهد يومًا ما رقصة يشعر أنها \"جيدة\"، وكل شيء يبدأ بالتغير. هذه هي قصة الشاب الجميل الذي سيغير فن نوه ويُذكر باسم زيمي. The World Is Dancing، مسلسل يستكشف عالم الرقص والفن.",
-  "poster_path": "/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
+  "poster_path": "/mcxKZoHg7pY2OvlG4IgQv9LBz4H.jpg",
   "backdrop_path": "/AsQ6QzR58WOfty0CFuICHmEDf5C.jpg",
   "release_date": "2026-07-02",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Yumiri Hanamori Shimba Tsuchiya Maaya Uchida Romi Park Katsuyuki Konishi Haruki Ishiya Takahiro Sakurai Nobuo Tobita",
-  "first_air_date": "2026-07-02"
+  "first_air_date": "2026-07-02",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

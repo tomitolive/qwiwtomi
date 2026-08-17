@@ -5,7 +5,7 @@
   "title_en": "Document 72 Hours",
   "slug": "74277-document-72-hours",
   "overview": "مسلسل \"72\" هو سلسلة وثائقية فريدة تستكشف الدراما الإنسانية من خلال لقاءات عفوية مع أشخاص عاديين في أماكن مختارة. تم تصويره على مدار 72 ساعة في موقع واحد، حيث يسلط الضوء على لمحات من حياة الناس أثناء فتحهم قلوبهم ومشاركتهم قصصهم. \"Document 72 Hours\"، عنوان جذاب يجعلك تتساءل عما سيحدث خلال تلك الساعات القليلة.",
-  "poster_path": "/nVGFaga1eALOjX11vgwZs4FvMEa.jpg",
+  "poster_path": "/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
   "backdrop_path": "/kq9cFwaFzhJjl2UEsoQVHFBw3C8.jpg",
   "release_date": "2006-10-03",
   "vote_average": 8.7,
@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "2006-10-03"
+  "first_air_date": "2006-10-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

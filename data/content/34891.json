@@ -50,5 +50,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "David Arquette Jeff Bennett Corey Burton Gabe Eggerling Megan Richie Jadon Sand",
-  "first_air_date": "2011-02-14"
+  "first_air_date": "2011-02-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

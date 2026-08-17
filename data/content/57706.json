@@ -5,7 +5,7 @@
   "title_en": "Ranma",
   "slug": "57706-ranma",
   "overview": "أثناء رحلة تدريبية في منطقة جبال بايان-كالا في مقاطعة تشينغهاي في الصين، رانما ساوتومي ووالده جينما سقطا في ينابيع جوسنكيو. عندما يسقط شخص ما في ينبوع ملعون، فإنه يأخذ المظهر الشكلي لأي شيء غرق فيه منذ مئات أو آلاف السنين متى ما أصيبوا بالماء البارد. اللعنة سوف تنعكس إذا تعرض للماء الحار حتى تعرض للماء البارد. جينما سقط في ينبوع الباندا الغارق بينما سقط رانما في ينبوع الفتاة الغارقة.",
-  "poster_path": "/s8W6r3nMJLquWxq4kXr7lTZXsvO.jpg",
+  "poster_path": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
   "backdrop_path": "/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
   "release_date": "1989-04-15",
   "vote_average": 8.6,
@@ -54,5 +54,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kappei Yamaguchi Megumi Hayashibara",
-  "first_air_date": "1989-04-15"
+  "first_air_date": "1989-04-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

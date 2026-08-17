@@ -5,7 +5,7 @@
   "title_en": "Nine Puzzles",
   "slug": "227191-nine-puzzles",
   "overview": "تتعاون مشتبه بها ومحقق لإيقاف جرائم قتل مرتبطة بقطع أحجية.",
-  "poster_path": "/x8LEX87vlF1Y65ptSbPPzfDfwkQ.jpg",
+  "poster_path": "/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
   "backdrop_path": "/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
   "release_date": "2025-05-21",
   "vote_average": 7.9,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Da-mi Son Seok-koo Kim Sung-kyun Hyun Bong-sik Kwak Ja-hyung Jang Gyeok-su Jeong Man-sik Ahn So-yo",
-  "first_air_date": "2025-05-21"
+  "first_air_date": "2025-05-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "The Affair Was Just The Beginning",
   "slug": "301418-the-affair-was-just-the-beginning",
   "overview": "مسلسل \"كانت القضية مجرد البداية\"، هو دراما مشوقة تدور حول حياة سيدة أعمال ناجحة، حيث تنقلب حياتها رأسًا على عقب بعد اكتشافها تورط زوجها في التستر على جريمة قتل مزعومة ارتكبتها ابنتها. ومع محاولات العائلة لإخفاء الحقيقة، يظهر ابتزاز مجهول يهدد بكشف كل شيء، مما يورطهم في شبكة خطيرة من الأكاذيب والأسرار والخيانة. (The Affair Was Just The Beginning)",
-  "poster_path": "/8tA7kjsuQaKFsrRuxjkEn5F9LII.jpg",
+  "poster_path": "/6SIaWxCMPcfBZ5eFUL81syT16FK.jpg",
   "backdrop_path": "/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
   "release_date": "2026-07-31",
   "vote_average": 6.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kim Hye-soo Cho Yeo-jeong Kim Ji-hoon Kim Jae-chul",
-  "first_air_date": "2026-07-31"
+  "first_air_date": "2026-07-31",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

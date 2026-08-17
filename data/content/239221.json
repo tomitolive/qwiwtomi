@@ -37,5 +37,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Agnetha Fältskog Anni-Frid Lyngstad Björn Ulvaeus Benny Andersson",
-  "first_air_date": "1972-03-30"
+  "first_air_date": "1972-03-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Unsettled Case",
   "slug": "273114-unsettled-case",
   "overview": "تستكشف حالة غير محسومة. Unsettled Case، وهو مسلسل غامض، لغزين مثيرين للقلق، حيث يستكشف كل منهما كيف تترك الجريمة ندوباً دائمة - وكيف يمكن أن يصبح الإيمان، من خلال خطوط زمنية متصدعة، طريقاً نحو الفداء. مسلسل مثير ومشوق.",
-  "poster_path": "/IgAmsxI2xFxUcHZRvEyEpl1myv.jpg",
+  "poster_path": "/achiNdxmgSrb8O7P5lAHluKyGMz.jpg",
   "backdrop_path": "/hMAew4hKxZJeqqvYljhLpvS4OZA.jpg",
   "release_date": "2026-07-03",
   "vote_average": 9.0,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yue Yunpeng Yang Shuo Jiang Qilin Lang Yueting Huang Jue Wang Chuanjun Jiang Guannan Wang Yanhui",
-  "first_air_date": "2026-07-03"
+  "first_air_date": "2026-07-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

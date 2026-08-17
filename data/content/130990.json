@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "1983-04-08"
+  "first_air_date": "1983-04-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

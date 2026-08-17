@@ -5,7 +5,7 @@
   "title_en": "Xiao Fang",
   "slug": "296003-xiao-fang",
   "overview": "تتحدث الدراما العائلية \"شياو فانغ\" عن قصة يانغ شياوفانغ وكي شياووي من نفس القرية، اللذين يصبحان حاملين قبل الزواج. تهرع عائلة يانغ إلى القرية للتخطيط لمستقبل شياوفانغ. تختلف عائلتي كي ويانغ تمامًا في مواقفهما، مما يتسبب في \"عاصفة زواج\" غير متوقعة. بعد فشل المفاوضات بين العائلتين، تبدأ شياوفانغ في \"مواعيد عمياء أثناء الحمل\"، وتفاجأ باهتمام القرية بأكملها بها، مما يؤدي إلى سلسلة من الأحداث المضحكة والمثيرة للضحك.",
-  "poster_path": "/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg",
+  "poster_path": "/dNKhLHxmMAHe72coQEfLq5MTYvk.jpg",
   "backdrop_path": "/zz1ehIIZwpkO0GrCkmbrArYFlYj.jpg",
   "release_date": "2026-07-13",
   "vote_average": 8.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Wang Yinglu Xin Yunlai Ying Er Fan Ming Wang Ji Lin Yongjian Wang Mian Xia Lixin",
-  "first_air_date": "2026-07-13"
+  "first_air_date": "2026-07-13",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

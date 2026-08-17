@@ -5,7 +5,7 @@
   "title_en": "Grand Blue Dreaming",
   "slug": "79166-grand-blue-dreaming",
   "overview": "الحلم الأزرق الكبير: مسلسل رسوم متحركة كوميدي يسلط الضوء على مغامرات طالب جامعي ينضم إلى نادي الغوص المحلي بعد لقائه بمجموعة من الطلاب الأكبر سنًا. استعد لمشاهدة مغامرات شيقة مليئة بالمرح والكحول والغوص في أعماق المحيط. Grand Blue Dreaming، مسلسل أنمي ممتع ومضحك.",
-  "poster_path": "/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+  "poster_path": "/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
   "backdrop_path": "/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
   "release_date": "2018-07-14",
   "vote_average": 7.7,
@@ -46,5 +46,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "",
-  "first_air_date": "2018-07-14"
+  "first_air_date": "2018-07-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

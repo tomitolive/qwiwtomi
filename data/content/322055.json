@@ -5,7 +5,7 @@
   "title_en": "The Prosecutors Proposal",
   "slug": "322055-the-prosecutors-proposal",
   "overview": "مسلسل \"اقتراح النيابة العامة\"، دراما غامضة ومثيرة تدور حول لقاء ابن الضحية وابن القاتل، حيث يلتقيان مجددًا كمدع عام ومحقق، فيكافحان الفساد المنتشر في النظام القضائي، بينما يصبح كل منهما ملاذًا للآخر. هذا المسلسل المثير يسلط الضوء على قصص الانتقام والعدالة في عالم الجريمة.",
-  "poster_path": "/fxEfx2Tt98l4oW2KI0GU3Q0qgnB.jpg",
+  "poster_path": "/lK6DrnFecG0AsA8O5UqEYOrOArd.jpg",
   "backdrop_path": "/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
   "release_date": "2026-06-25",
   "vote_average": 4.0,
@@ -50,5 +50,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Park Si-woo Yoon Do-gun Kim Jung-tae Cho Min-gyu Seo Han-gyeol Kim Nak-kyun Lee Ga-kyung Seol Jun-su",
-  "first_air_date": "2026-06-25"
+  "first_air_date": "2026-06-25",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

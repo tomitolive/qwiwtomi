@@ -56,5 +56,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Peter Falk",
-  "first_air_date": "1971-09-15"
+  "first_air_date": "1971-09-15",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

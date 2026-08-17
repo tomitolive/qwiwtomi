@@ -5,7 +5,7 @@
   "title_en": "My Bias, My Boss",
   "slug": "296140-my-bias-my-boss",
   "overview": "مسلسل \"بلدي التحيز، يا رئيسي\"، كوميديا ودراما رومانسية، تدور أحداثه حول فتاة متحمسة ومعجبة بشخصية مشهورة، تحصل على وظيفة في شركة أزياء، لتكتشف أن مؤسسها هو معشوقها. تحاول الحفاظ على مهنيتها، لكنها تواجه صعوبة في إخفاء هويتها، خاصة مع رئيسها في العمل، المدير التنفيذي للشركة، الذي يقلب حياتها رأساً على عقب. وبين مشاعرها السرية وغير المتبادلة، ومعاناتها الشخصية المخفية، تجد نفسها في صراع بين حبها القديم واتصال جديد غير متوقع.",
-  "poster_path": "/ulZRwSHpR48veyusMs98OitwVID.jpg",
+  "poster_path": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
   "backdrop_path": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
   "release_date": "2026-08-03",
   "vote_average": 7.0,
@@ -46,5 +46,8 @@
   "language": "الكورية",
   "country": "كوريا الجنوبية",
   "cast": "Kang Hoon Kim Hye-jun Cha Woo-min Yuna Chun Woo-jin Yoon Hyun-suk Baekseung Jung Hyun-min",
-  "first_air_date": "2026-08-03"
+  "first_air_date": "2026-08-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

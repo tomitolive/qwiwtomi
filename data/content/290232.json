@@ -5,7 +5,7 @@
   "title_en": "Im Not Afraid",
   "slug": "290232-im-not-afraid",
   "overview": "مسلسل \"لا تخشى\" أو \"Im Not Afraid\" هو دراما مشوقة تدور حول سر مرعب يكتشفه الصبي ميغيل البالغ من العمر 10 سنوات، حيث يجد نفسه متورطًا في لغز غامض يتعلق بفتى عالق في حفرة بالقرب من منزله. هل سيتمكن من مواجهة مخاوفه وكشف الحقيقة؟",
-  "poster_path": "/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+  "poster_path": "/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
   "backdrop_path": "/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
   "release_date": "2026-07-08",
   "vote_average": 10.0,
@@ -42,5 +42,8 @@
   "language": "الإسبانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Luis Alberti Fátima Molina Yoshira Escárrega Humberto Busto Leidi Gutiérrez",
-  "first_air_date": "2026-07-08"
+  "first_air_date": "2026-07-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

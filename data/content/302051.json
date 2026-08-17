@@ -5,7 +5,7 @@
   "title_en": "I Became a Legend After My 10 Year-Long Last Stand",
   "slug": "302051-i-became-a-legend-after-my-10-year-long-last-stand",
   "overview": "يتحدث مسلسل \"10\" أو \"أصبحت أسطورة بعد صمودي لعشر سنوات\" عن مغامرة ساحر من مرتبة  يدعى لاك، حيث يخوض معركة شرسة ضد ملك الشياطين لحماية رفاقه. وبعد انتصاره، يكتشف أن عشر سنوات قد مرت، وأصبح العالم يمجده كبطل أسطوري ضحى بحياته في المعركة. يعجز لاك عن استعادة حياته السابقة، فيخفي هويته ويبدأ حياة جديدة باسم \"لوك\"، وهو مغامر من مرتبة  يسعى لشق طريقه في عالم تجاوزه الزمن.",
-  "poster_path": "/svcJyWDhj1STkOTSfxgd2hOvZ0z.jpg",
+  "poster_path": "/4LaPshxWTFcBhc5ib8xOfYeD9tH.jpg",
   "backdrop_path": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
   "release_date": "2026-07-06",
   "vote_average": 6.8,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Gakuto Kajiwara Toshiyuki Morikawa Tsuyoshi Koyama Yui Ishikawa Mayu Sagara Mao Ichimichi Yurie Kozakai",
-  "first_air_date": "2026-07-06"
+  "first_air_date": "2026-07-06",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

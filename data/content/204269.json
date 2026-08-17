@@ -5,7 +5,7 @@
   "title_en": "Caressing My Hibernating Bear",
   "slug": "204269-caressing-my-hibernating-bear",
   "overview": "تدور أحداث مسلسل \"مداعبة الدب السبات\" حول الدب Nowa الذي يعيش في الغابة، حيث يقرر تبني جرو صغير ويمنحه اسم Airi. يرعاه Nowa بعناية فائقة، ومع مرور الوقت، يضطر Nowa لمغادرة Airi وحده مؤقتًا للدخول في سباته الشتوي. وبعد عدة أشهر، يستيقظ Nowa ليجد أن Airi قد كبر ليصبح شابًا وسيمًا. مسلسل رسوم متحركة ممتع ومليء بالمفاجآت.",
-  "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+  "poster_path": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
   "backdrop_path": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
   "release_date": "2022-07-04",
   "vote_average": 5.7,
@@ -42,5 +42,8 @@
   "language": "اليابانية",
   "country": "اليابان",
   "cast": "Kohei Amasaki Kazuyuki Okitsu Kengo Kawanishi Seiichiro Yamashita",
-  "first_air_date": "2022-07-04"
+  "first_air_date": "2022-07-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Fireworks of My Heart",
   "slug": "216445-fireworks-of-my-heart",
   "overview": "“كان سونغ يان” و”شو تشين” أفضل الأصدقاء في الطفولة، لكن اضطرت أسرهما إلى فصلهما. بعد عشر سنوات، يعمل كل منهما بجد في مجالات مختلفة، وعندما يتدخل القدر، يتساءلون عما إذا كان بإمكانهما بناء علاقة جديدة أم أنها مجرد علاقة عابرة.",
-  "poster_path": "/1aFjbcTM47n2TddirkDfRPLQbL.jpg",
+  "poster_path": "/fCSMFp7vul2YjgPD7mSiIaldMsR.jpg",
   "backdrop_path": "/oQBv5KUDuceheaYL8nMmF7Dg3K8.jpg",
   "release_date": "2023-07-05",
   "vote_average": 8.0,
@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الصين",
   "cast": "Yang Yang Wang Churan Wang Yanlin Wei Daxun Vin Zhang Yang Chaoyue Zhang Yue Chen Jin",
-  "first_air_date": "2023-07-05"
+  "first_air_date": "2023-07-05",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

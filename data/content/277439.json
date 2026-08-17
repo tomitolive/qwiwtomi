@@ -5,7 +5,7 @@
   "title_en": "Cape Fear",
   "slug": "277439-cape-fear",
   "overview": "توشك حياة محاميين هنيئين في زواجهما على الانقلاب رأساً على عقب بعدما خرج من السجن قاتل عتيد الإجرام له صلة مسبقة بهما.",
-  "poster_path": "/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+  "poster_path": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
   "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
   "release_date": "2026-06-04",
   "vote_average": 5.4,
@@ -44,5 +44,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Javier Bardem Amy Adams Patrick Wilson CCH Pounder Lily Collias Joe Anders Anna Baryshnikov Jamie Hector",
-  "first_air_date": "2026-06-04"
+  "first_air_date": "2026-06-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

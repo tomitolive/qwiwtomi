@@ -5,7 +5,7 @@
   "title_en": "Paradise Hotel",
   "slug": "51025-paradise-hotel",
   "overview": "فندق بارادايس: مسلسل واقعي مثير يغوص في عالم الفندق الشهير. في هذا المسلسل، يتنافس الضيوف على جوائز مالية كبيرة بينما يعيشون تحت سقف واحد. Paradise Hotel، النسخة الدانماركية من السلسلة العالمية، تقدم تجربة فريدة وممتعة.",
-  "poster_path": "/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+  "poster_path": "/eKSpSG5BRyQhEgqAm7y0viXpwYc.jpg",
   "backdrop_path": "/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
   "release_date": "2005-09-14",
   "vote_average": 5.6,
@@ -42,5 +42,8 @@
   "language": "الإنجليزية",
   "country": "Denmark",
   "cast": "",
-  "first_air_date": "2005-09-14"
+  "first_air_date": "2005-09-14",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Sharp Objects",
   "slug": "70453-sharp-objects",
   "overview": "حين تعود الصحفية كاميلا بريكر إلى بلدتها الصغيرة للتحقيق في مقتل فتاتين، تجد نفسها غارقة في دوامة من الذكريات والندوب النفسية التي ظنّت أنها طوتها إلى الأبد.",
-  "poster_path": "/bpocEx1ImCQIwNpNAU53MQiyS5b.jpg",
+  "poster_path": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
   "backdrop_path": "/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
   "release_date": "2018-07-08",
   "vote_average": 7.8,
@@ -62,5 +62,8 @@
   "language": "الإنجليزية",
   "country": "كندا",
   "cast": "Amy Adams Patricia Clarkson Chris Messina Eliza Scanlen Matt Craven Henry Czerny Taylor John Smith Madison Davenport",
-  "first_air_date": "2018-07-08"
+  "first_air_date": "2018-07-08",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

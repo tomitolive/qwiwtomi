@@ -5,7 +5,7 @@
   "title_en": "Crayon Shin-chan Spin-off",
   "slug": "67324-crayon-shin-chan-spin-off",
   "overview": "تابع مغامرات عائلة نوهارا في \"Crayon Shin- Spin-\"، المسلسل الكرتوني الكوميدي الممتع. تدور أحداث هذا الجزء في المستقبل البعيد، حيث يستيقظ شين-تشان وعائلته من سباتهم العميق ليجدوا أنفسهم على متن مركبة فضائية تائهة في الفضاء. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
-  "poster_path": "/xh1De5r8wVfNxxey2huJAIRQORx.jpg",
+  "poster_path": "/zL7zV68jIpq2IBOtlK38mlwfgI9.jpg",
   "backdrop_path": "/db8beCPfDT67NvUFKtY3k5NVhnu.jpg",
   "release_date": "2016-08-03",
   "vote_average": 7.7,
@@ -50,5 +50,8 @@
   "language": "اليابانية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Akiko Yajima Miki Narahashi Toshiyuki Morikawa Satomi Korogi Mari Mashiba Etsuko Kozakura",
-  "first_air_date": "2016-08-03"
+  "first_air_date": "2016-08-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

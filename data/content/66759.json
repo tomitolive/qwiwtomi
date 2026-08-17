@@ -42,5 +42,8 @@
   "language": "الألمانية",
   "country": "ألمانيا",
   "cast": "",
-  "first_air_date": "2002-09-30"
+  "first_air_date": "2002-09-30",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

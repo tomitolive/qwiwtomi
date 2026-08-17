@@ -5,7 +5,7 @@
   "title_en": "The New Nurses",
   "slug": "83524-the-new-nurses",
   "overview": "استمتع بمشاهدة مسلسل Sygeplejeskolen مترجم بجودة عالية.",
-  "poster_path": "/5VqBAFZOc2nKmR1qUTOnv5M0DeY.jpg",
+  "poster_path": "/tbFkjvJLaRBk3EgdwMAsVfa6MkJ.jpg",
   "backdrop_path": "/3XJO9xerSMIPhz101rkSnbVLdNX.jpg",
   "release_date": "2018-10-21",
   "vote_average": 8.1,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "Denmark",
   "cast": "Molly Egelind Jens Jørn Spottag Katrine Greis-Rosenthal Benedikte Hansen Mikkel Hilgart Jesper Groth Thue Ersted Rasmussen Ulla Vejby",
-  "first_air_date": "2018-10-21"
+  "first_air_date": "2018-10-21",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

@@ -5,7 +5,7 @@
   "title_en": "Batman: Caped Crusader",
   "slug": "125909-batman-caped-crusader",
   "overview": "مرحباً بكم في مدينة \"غوثام\"، حيث يعيث المجرمون فساداً ويعيش المواطنون الملتزمون بالقانون في حالة دائمة من الخوف. من خلال المعاناة، يتحول الاجتماعي الثري \"بروس وين\" إلى شخصية تشبه الأبطال الخارقين، أي إلى \"الرجل الوطواط\". تجذب حملته الفردية من أجل تحقيق العدالة حلفاء غير متوقعين داخل شرطة \"غوثام\" وبلدية المدينة، لكن أفعاله البطولية تولد عواقب مميتة وغير متوقعة.",
-  "poster_path": "/efVXLgqYzEBTGdzlNd3jwbKlllr.jpg",
+  "poster_path": "/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
   "backdrop_path": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
   "release_date": "2024-08-01",
   "vote_average": 7.2,
@@ -54,5 +54,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Hamish Linklater",
-  "first_air_date": "2024-08-01"
+  "first_air_date": "2024-08-01",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

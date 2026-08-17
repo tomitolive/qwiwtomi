@@ -5,7 +5,7 @@
   "title_en": "Bares fr Rares",
   "slug": "79917-bares-fr-rares",
   "overview": "يستعرض المسلسل \"بارس الاب نادر\" مجموعة من المتقدمين الذين يعرضون مقتنياتهم النادرة أو التحف القديمة التي جلبوها معهم. وبعد الحصول على خبرة وتقييم خبراء، تتاح لهم الفرصة لبيع معروضاتهم إلى خمسة أشخاص متغيرين على المنصة، وبيعها لأعلى سعر \"بارس\" (نقدًا).",
-  "poster_path": "/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+  "poster_path": "/gts4oXo3oVgyG4lJ7i7iZDtUknv.jpg",
   "backdrop_path": "/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg",
   "release_date": "2013-08-04",
   "vote_average": 7.6,
@@ -50,5 +50,8 @@
   "language": "الألمانية",
   "country": "ألمانيا",
   "cast": "Horst Lichter Volker Wolf",
-  "first_air_date": "2013-08-04"
+  "first_air_date": "2013-08-04",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

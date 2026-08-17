@@ -5,7 +5,7 @@
   "title_en": "Sons of Anarchy",
   "slug": "1409-sons-of-anarchy",
   "overview": "رجل في الثلاثينات يحاول إيجاد نوع من التوازن في حياته، كونه أب جديد وأحد أعضاء نادي الدراجات البخارية (سام كرو).",
-  "poster_path": "/wvZvkPv1BZW9muE6hIo19JTqGSn.jpg",
+  "poster_path": "/kiy8BHtIHAslh81rvFcZ4wbNGdY.jpg",
   "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
   "release_date": "2008-09-03",
   "vote_average": 8.4,
@@ -52,5 +52,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Charlie Hunnam Katey Sagal Tommy Flanagan Mark Boone Junior Kim Coates Theo Rossi Dayton Callie David Labrava",
-  "first_air_date": "2008-09-03"
+  "first_air_date": "2008-09-03",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }

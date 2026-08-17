@@ -46,5 +46,8 @@
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Tyler Hoechlin Elizabeth Tulloch Alex Garfin Michael Bishop",
-  "first_air_date": "2021-02-23"
+  "first_air_date": "2021-02-23",
+  "type": "tv",
+  "media_type": "tv",
+  "folder": "tv"
 }
