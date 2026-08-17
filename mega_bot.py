@@ -425,9 +425,15 @@ def fetch_details(tmdb_id, media_type):
     ar_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'ar'})
     en_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'en'})
     
+    if not ar_data and not en_data:
+        return None
+        
+    ar_data_safe = ar_data or {}
+    en_data_safe = en_data or {}
+    
     # Check for adult content before proceeding
-    title = ar_data.get('title') or en_data.get('title') or en_data.get('name') or ''
-    overview = ar_data.get('overview') or en_data.get('overview') or ''
+    title = ar_data_safe.get('title') or en_data_safe.get('title') or en_data_safe.get('name') or ''
+    overview = ar_data_safe.get('overview') or en_data_safe.get('overview') or ''
     
     # Adult content keywords to filter out (in English and Arabic)
     adult_keywords = [
