@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import CarouselCardRow from './CarouselCardRow';
 
 interface CarouselItem {
   tmdb_id: number;
