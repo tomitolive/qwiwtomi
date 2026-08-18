@@ -1,17 +1,15 @@
 {
   "id": 1429,
-  "title": "Attack on Titan",
+  "title": "هجوم العمالقة",
   "title_ar": "هجوم العمالقة",
   "title_en": "Attack on Titan",
   "slug": "1429-attack-on-titan",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدور القصة حول حياة إيرين ييغر، وأخته المتبناة ميكاسا أكّرمان، وصديقهما أرمين أرليرت، الذين يعيشون في عالم حيث يسكن بقية الجنس البشري داخل مدن محاطة بأسوار ضخمة بسبب الظهور المفاجئ للعمالقة، مخلوقات ضخمة تقوم بالتهام البشر بلا سبب على ما يبدو. تتغير حياتهم للأبد بعد ظهور عملاق جبار وجلبه للدمار إلى موطنهم وموت والدة إيرين. سعيًا وراء الانتقام واستعادة العالم من يد العمالقة، قرر إيرين وميكاسا وأرمين الانضمام إلى فيلق الاستطلاع، مجموعة من نخبة الجنود يقاتلون العمالقة خارج الأسوار.",
-  "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "poster_path": "/jHXGiVEA1bWC1m6PB7rRL5Uzzql.jpg",
   "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
   "release_date": "2013-04-07",
   "vote_average": 8.7,
-  "vote_count": 7421,
+  "vote_count": 7624,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم حيث يسكن البشر داخل مدن محاطة بأسوار ضخمة، ظهر عملاق جبار وجلب الدمار إلى موطنهم وموت والدة إيرين. سعيًا وراء الانتقام واستعادة العالم من يد العمالقة، قرر إيرين وميكاسا وأرمين الانضمام إلى فيلق الاستطلاع، مجموعة من نخبة الجنود يقاتلون العمالقة خارج الأسوار.",
-    "desc_en": "In a world where humans live inside walled cities, a giant appears and brings destruction to their home and the death of Eren's mother. Seeking revenge and to restore the world from the giants, Eren, Mikasa, and Armin decide to join the Scout Regiment, a group of elite soldiers who fight the giants outside the walls.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في هجوم العمالقة",
-    "seo_title_ar": "مشاهدة فيلم هجوم العمالقة مترجم اون لاين - توميتو",
-    "keywords": "Attack on Titan, فيلم هجوم العمالقة مترجم, مشاهدة فيلم هجوم العمالقة, هجوم العمالقة مترجم كامل, أحداث هجوم العمالقة بالتفصيل, قصة مسلسل هجوم العمالقة, مشاهدة هجوم العمالقة 2013, توميتو هجوم العمالقة",
-    "opinion": "هجوم العمالقة هو عمل فني رائع يجمع بين رسوم متحركة رائعة والقصة المليئة بالتension والدراما. يصعد القصة إلى مستوى جديد من الإثارة والشعور بالرعب.",
+    "intro": "تدور قصة هجوم العمالقة حول حياة إيرين ييغر، وأخته المتبناة ميكاسا أكّرمان، وصديقهما أرمين أرليرت، الذين يعيشون في عالم حيث يتعرض البشر لتهام العمالقة الضخمين.",
+    "desc_ar": "يحكي هجوم العمالقة قصة حياة إيرين ييغر، وأخته المتبناة ميكاسا أكّرمان، وصديقهما أرمين أرليرت، الذين يعيشون في عالم حيث يتعرض البشر لتهام العمالقة الضخمين، مخلوقات لا تُقهر، التي تقوم بالتهام البشر بلا سبب على ما يبدو. تتغير حياتهم بشكل كبير بعد ظهور عملاق جبار وجلبه للدمار إلى موطنهم وموت والدة إيرين، مما يدفع إيرين وميكاسا وأرمين إلى الانضمام إلى فيلق الاستطلاع، مجموعة من الجنود البطوليين الذين يقاتلون العمالقة خارج الأسوار للنجدة والانتقام.",
+    "desc_en": "Attack on Titan is a story about the lives of Eren Yeager, his adoptive sister Mikasa Ackerman, and his friend Armin Arlert, who live in a world where humans are threatened by the devouring Titans, massive creatures that seem to have no reason to devour humans. Their lives take a drastic turn after the appearance of a giant Titan that brings destruction to their home and the death of Eren's mother, leading Eren, Mikasa, and Armin to join the Scout Regiment, a group of brave soldiers who fight Titans outside the walls to seek help and revenge.",
+    "seo_title_ar": "مشاهدة هجوم العمالقة مسلسل رسوم متحركة مترجم - توميتو",
+    "meta_desc": "هجوم العمالقة: مسلسل رسوم متحركة خيال علمي وفانتازيا يروي قصة البطولة والنجدة ضد العمالقة الضخمين. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدو",
+    "outro": "هجوم العمالقة هو مسلسل رسوم متحركة يروي قصة البطولة والنجدة ضد العمالقة الضخمين، مع حكاية عجيبة ومثيرة للاهتمام.",
+    "opinion_ar": "هجوم العمالقة هو مسلسل رسوم متحركة يروي قصة البطولة والنجدة ضد العمالقة الضخمين، مع حكاية عجيبة ومثيرة للاهتمام.",
+    "opinion_en": "Attack on Titan is an animated series that tells a story of bravery and rescue against the giant Titans, with a fascinating and captivating plot.",
     "faq": [
       {
-        "q": "ما هو هجوم العمالقة؟",
-        "a": "هجوم العمالقة هو سلسلة رسوم متحركة خيال علمي وفانتازيا يصدرها Studio Shingeki no Kyojin"
-      },
-      {
-        "q": "ما هو نوع هجوم العمالقة؟",
-        "a": "هجوم العمالقة هو نوع من رسوم متحركة خيال علمي وفانتازيا حركة ومغامرة"
-      },
-      {
-        "q": "ما هو أفضل جزء من هجوم العمالقة؟",
-        "a": "أفضل جزء من هجوم العمالقة هو الجزء الأول الذي يبدأ القصة والشعور بالرعب والدراما"
+        "q": "ما هي قصة هجوم العمالقة؟",
+        "a": "هجوم العمالقة هو مسلسل رسوم متحركة يروي قصة البطولة والنجدة ضد العمالقة الضخمين، الذين يهددون البشر بتهامهم.",
+        "q_en": "What is the story of Attack on Titan?",
+        "a_en": "Attack on Titan is an animated series that tells a story of bravery and rescue against the giant Titans, who threaten humans by devouring them."
       }
-    ]
+    ],
+    "keywords": "هجوم العمالقة, مسلسل رسوم متحركة, خيال علمي وفانتازيا, رسوم متحركة, خيال, علمي, فانتازيا, حركة, مغامرة, هجوم العمالقة الموسم الثاني, هجوم العمالقة شخصيات, مسلسل هجوم العمالقة, هجوم العمالقة الجزء الاول, فيلم هجوم العمالقة, انمي هجوم العمالقة الموسم الاول, حلقات هجوم العمالقة, هجوم العمالقة الجزء الثاني, توب سينما هجوم العمالقة, هجوم العمالقة الموسم الاول الحلقة 1, هجوم العمالقة الموسم الثاني الحلقة 3, هجوم العمالقة الموسم الاول الحلقة 15"
   },
   "fixed": true,
-  "first_air_date": "2013-04-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "135 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Edward Norton Philip Seymour Hoffman Barry Pepper Rosario Dawson Anna Paquin"
+  "duration": "45 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Marina Inoue Hiro Shimono Yuki Kaji Natsuki Hanae Ayane Sakura Kisho Taniyama Yui Ishikawa Yoshimasa Hosoya",
+  "first_air_date": "2013-04-07"
 }

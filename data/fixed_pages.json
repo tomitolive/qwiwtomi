@@ -5033,8 +5033,98 @@
       "file": "1087192.json",
       "title": "كيف تروض تنينك",
       "fixed_at": "2026-08-18T05:20:23.921907"
+    },
+    {
+      "tmdb_id": "9072",
+      "file": "9072.json",
+      "title": "Little Man",
+      "fixed_at": "2026-08-18T05:46:17.679359"
+    },
+    {
+      "tmdb_id": "43712",
+      "file": "43712.json",
+      "title": "Screen Two",
+      "fixed_at": "2026-08-18T05:46:28.159689"
+    },
+    {
+      "tmdb_id": "1404304",
+      "file": "1404304.json",
+      "title": "The Isolate Thief",
+      "fixed_at": "2026-08-18T05:46:39.941613"
+    },
+    {
+      "tmdb_id": "1469458",
+      "file": "1469458.json",
+      "title": "Sambhavam Adhyayam Onnu",
+      "fixed_at": "2026-08-18T05:47:32.182144"
+    },
+    {
+      "tmdb_id": "5916",
+      "file": "5916.json",
+      "title": "The Getaway",
+      "fixed_at": "2026-08-18T05:47:52.615502"
+    },
+    {
+      "tmdb_id": "113268",
+      "file": "113268.json",
+      "title": "البائع الخارق",
+      "fixed_at": "2026-08-18T05:48:02.923322"
+    },
+    {
+      "tmdb_id": "11423",
+      "file": "11423.json",
+      "title": "ذكريات قاتل",
+      "fixed_at": "2026-08-18T05:48:12.401266"
+    },
+    {
+      "tmdb_id": "949",
+      "file": "949.json",
+      "title": "الحرارة",
+      "fixed_at": "2026-08-18T05:48:53.277840"
+    },
+    {
+      "tmdb_id": "1285366",
+      "file": "1285366.json",
+      "title": "Shape of My Heart",
+      "fixed_at": "2026-08-18T05:49:06.421001"
+    },
+    {
+      "tmdb_id": "1072699",
+      "file": "1072699.json",
+      "title": "فيريوزا مجددا",
+      "fixed_at": "2026-08-18T05:49:12.893068"
+    },
+    {
+      "tmdb_id": "1429",
+      "file": "1429.json",
+      "title": "هجوم العمالقة",
+      "fixed_at": "2026-08-18T05:49:20.280353"
+    },
+    {
+      "tmdb_id": "39272",
+      "file": "39272.json",
+      "title": "Once Upon a Time",
+      "fixed_at": "2026-08-18T05:49:33.758462"
+    },
+    {
+      "tmdb_id": "4860",
+      "file": "4860.json",
+      "title": "Waking the Dead",
+      "fixed_at": "2026-08-18T05:49:39.849174"
+    },
+    {
+      "tmdb_id": "1352874",
+      "file": "1352874.json",
+      "title": "The Crucifix: Blood of the Exorcist",
+      "fixed_at": "2026-08-18T05:49:48.091543"
+    },
+    {
+      "tmdb_id": "70160",
+      "file": "70160.json",
+      "title": "مباريات الجوع",
+      "fixed_at": "2026-08-18T05:49:55.871562"
     }
   ],
-  "last_updated": "2026-08-18T05:20:25.924680",
-  "total_fixed": 839
+  "last_updated": "2026-08-18T05:49:57.874619",
+  "total_fixed": 854
 }
