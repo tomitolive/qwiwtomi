@@ -4,14 +4,12 @@
   "title_ar": "Don Matteo",
   "title_en": "Father Matteo",
   "slug": "21220-father-matteo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
-  "poster_path": "/eh5ldhghLRmwkkWyuJZDXJiptcP.jpg",
+  "overview": "يعتبر والدة ماطيو كاتبًا عاديًا، لكنه يتمتع بنوع من التواصل العميق مع الناس، حيث يستطيع قراءة أفكارهم وتهدئة مشاعرهم، ويحصل دائمًا على معلومات مفصلة عن جرائم المجتمع من خلال حل الألغاز والجريمة، مما يساعده على تحديد الحقيقة وتحديد الشخص المسؤول عن الجريمة.",
+  "poster_path": "/eawqydLHvZUGvgd9rAaCDM4qwbl.jpg",
   "backdrop_path": "/8fvrcC2yv9ewbIcYvDMy6Dd3qqZ.jpg",
   "release_date": "2000-01-07",
   "vote_average": 6.3,
-  "vote_count": 72,
+  "vote_count": 73,
   "genres": [
     {
       "id": 18,
@@ -35,33 +33,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخادعين واللصوص، يلقي المسيح دان ماتهو، راهب في كنيسة صغيرة، النظرة إلى عالم المخادعين واللصوص، ويحاول أن يغير حياتهم من خلال الوعي والرعاية. لكن، ما إذا كان يمكن أن ينجح في هذه المهمة؟",
-    "desc_en": "In a world of con artists and thieves, Father Matteo, a humble priest, casts a glance at the world of con artists and thieves, and tries to change their lives through awareness and care. But, can he succeed in this mission?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل دراما كوميدي غموض جريمة عائلي \"دون ماتهو\"",
-    "seo_title_ar": "مشاهدة فيلم دون ماتهو مترجم اون لاين - توميتو",
-    "keywords": "Father Matteo, فيلم دراما كوميدي غموض جريمة عائلي مترجم, مشاهدة فيلم كوميدي دراما, Don Matteo مترجم كامل, قصة مسلسل Don Matteo, أحداث Don Matteo بالتفصيل, توميتو Don Matteo, مشاهدة Don Matteo 2000, مسلسل دراما كوين",
-    "opinion": "هو فيلم رائع يلقي الضوء على عالم المخادعين واللصوص، ويحاول أن يغير حياتهم من خلال الوعي والرعاية. الفيلم مليء بالتension والดรاما والكوميديا، ويحمل رسالة مهمة عن أهمية الوعي والرعاية في المجتمع.",
+    "intro": "يحكي مسلسل Don Matteo قصة رائعة عن بطل شجاع يلعب دورًا هامًا في حل جرائم المجتمع.",
+    "desc_ar": "يعتبر والدة ماطيو كاتبًا عاديًا، لكنه يتمتع بنوع من التواصل العميق مع الناس، حيث يستطيع قراءة أفكارهم وتهدئة مشاعرهم، ويحصل دائمًا على معلومات مفصلة عن جرائم المجتمع من خلال حل الألغاز والجريمة، مما يساعده على تحديد الحقيقة وتحديد الشخص المسؤول عن الجريمة.",
+    "desc_en": "Don Matteo is a thoroughly ordinary Catholic priest with an extraordinary ability to read people and solve crimes. Hes a parish priest who never met an unjustly accused person he didnt want to help. He is known for his exceptional communication skills, which enable him to understand peoples thoughts and emotions, and his keen analytical mind, which helps him uncover the truth behind complex crimes.",
+    "seo_title_ar": "مشاهدة مسلسل Don Matteo مترجم - توماتو",
+    "meta_desc": "شاهد مسلسل Father Matteo مترجم على توماتو, دراما كوميديا غموض جريمة عائلي, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. اس",
+    "outro": "يعتبر مسلسل Don Matteo تجربة رائعة لمتابعي الجريمة والدراما، حيث يقدم شخصيات مميزة ورواية مثيرة.",
+    "opinion_ar": "يعد مسلسل Don Matteo تجربة رائعة لمتابعي الجريمة والدراما، حيث يقدم شخصيات مميزة ورواية مثيرة.",
+    "opinion_en": "Don Matteo is an excellent choice for fans of crime and drama, offering engaging characters and a captivating storyline.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم دراما كوميدي غموض جريمة عائلي"
+        "q": "من هو بطل المسلسل؟",
+        "a": "هو والدة ماطيو",
+        "q_en": "Who is the main character?",
+        "a_en": "Father Matteo"
       },
       {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "يحلل الفيلم عالم المخادعين واللصوص، ويحاول أن يغير حياتهم"
-      },
-      {
-        "q": "ما هو نوع الوعي الذي يحتاجه هذا الفيلم؟",
-        "a": "يحتاج الفيلم إلى الوعي والرعاية في المجتمع"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "دراما، كوميديا، غموض، جريمة، عائلي",
+        "q_en": "What genre is the show?",
+        "a_en": "Drama, Comedy, Mystery, Crime, Family"
       }
-    ]
+    ],
+    "keywords": "دراما, كوميديا, غموض, جريمة, عائلي, مسلسل, توماتو, والدة ماطيو, مشاهدة Don Matteo, Father Matteo مترجم, تحميل Don Matteo, Don Matteo اون لاين, Father Matteo, Don Matteo جودة عالية, فيلم Don Matteo"
   },
   "fixed": true,
-  "first_air_date": "2000-01-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "83 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dave Sheridan Cameron Richardson Randy Quaid Dolly Parton Enrico Colantoni"
+  "duration": "45 دقيقة",
+  "language": "الإيطالية",
+  "country": "إيطاليا",
+  "cast": "Terence Hill Nino Frassica Nathalie Guetta Francesco Scali",
+  "first_air_date": "2000-01-07"
 }

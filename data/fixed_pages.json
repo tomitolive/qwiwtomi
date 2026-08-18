@@ -4439,8 +4439,128 @@
       "file": "114501.json",
       "title": "Dug Days",
       "fixed_at": "2026-08-18T02:56:49.512768"
+    },
+    {
+      "tmdb_id": "296285",
+      "file": "296285.json",
+      "title": "Oasis",
+      "fixed_at": "2026-08-18T03:25:53.855427"
+    },
+    {
+      "tmdb_id": "21220",
+      "file": "21220.json",
+      "title": "Don Matteo",
+      "fixed_at": "2026-08-18T03:26:09.879585"
+    },
+    {
+      "tmdb_id": "1711175",
+      "file": "1711175.json",
+      "title": "Summerween",
+      "fixed_at": "2026-08-18T03:26:20.663573"
+    },
+    {
+      "tmdb_id": "1523145",
+      "file": "1523145.json",
+      "title": "Your Heart Will Be Broken",
+      "fixed_at": "2026-08-18T03:26:29.420374"
+    },
+    {
+      "tmdb_id": "223911",
+      "file": "223911.json",
+      "title": "Renegade Immortal",
+      "fixed_at": "2026-08-18T03:26:41.193287"
+    },
+    {
+      "tmdb_id": "4382",
+      "file": "4382.json",
+      "title": "Das Mdchen Rosemarie",
+      "fixed_at": "2026-08-18T03:26:49.668324"
+    },
+    {
+      "tmdb_id": "10681",
+      "file": "10681.json",
+      "title": "وول-ي",
+      "fixed_at": "2026-08-18T03:26:58.638574"
+    },
+    {
+      "tmdb_id": "939243",
+      "file": "939243.json",
+      "title": "سونيك القنفذ 3",
+      "fixed_at": "2026-08-18T03:27:10.511395"
+    },
+    {
+      "tmdb_id": "512895",
+      "file": "512895.json",
+      "title": "النبيلة و الشارد",
+      "fixed_at": "2026-08-18T03:27:47.038324"
+    },
+    {
+      "tmdb_id": "64439",
+      "file": "64439.json",
+      "title": "Une flamme dans mon cur",
+      "fixed_at": "2026-08-18T03:28:05.028633"
+    },
+    {
+      "tmdb_id": "1455079",
+      "file": "1455079.json",
+      "title": "You, Me Tuscany",
+      "fixed_at": "2026-08-18T03:28:31.421859"
+    },
+    {
+      "tmdb_id": "240692",
+      "file": "240692.json",
+      "title": "Jack Joker: U Steal My Heart!",
+      "fixed_at": "2026-08-18T03:28:39.765580"
+    },
+    {
+      "tmdb_id": "495764",
+      "file": "495764.json",
+      "title": "الطيور الجارحة",
+      "fixed_at": "2026-08-18T03:28:47.394133"
+    },
+    {
+      "tmdb_id": "1022787",
+      "file": "1022787.json",
+      "title": "إليو",
+      "fixed_at": "2026-08-18T03:28:56.709895"
+    },
+    {
+      "tmdb_id": "105117",
+      "file": "105117.json",
+      "title": "Aka Susayanlar: Seks ve Cinayet",
+      "fixed_at": "2026-08-18T03:29:19.705830"
+    },
+    {
+      "tmdb_id": "41933",
+      "file": "41933.json",
+      "title": "Hitler Didi",
+      "fixed_at": "2026-08-18T03:29:28.232225"
+    },
+    {
+      "tmdb_id": "286217",
+      "file": "286217.json",
+      "title": "المريخي",
+      "fixed_at": "2026-08-18T03:29:36.545476"
+    },
+    {
+      "tmdb_id": "17887",
+      "file": "17887.json",
+      "title": "7de Laan",
+      "fixed_at": "2026-08-18T03:29:46.141763"
+    },
+    {
+      "tmdb_id": "290856",
+      "file": "290856.json",
+      "title": "المارشالات",
+      "fixed_at": "2026-08-18T03:29:54.174177"
+    },
+    {
+      "tmdb_id": "1628071",
+      "file": "1628071.json",
+      "title": "2",
+      "fixed_at": "2026-08-18T03:30:06.958451"
     }
   ],
-  "last_updated": "2026-08-18T02:56:51.515448",
-  "total_fixed": 740
+  "last_updated": "2026-08-18T03:30:08.961105",
+  "total_fixed": 760
 }

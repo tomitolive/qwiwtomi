@@ -4,19 +4,13 @@
   "title_ar": "Renegade Immortal",
   "title_en": "Renegade Immortal",
   "slug": "223911-renegade-immortal",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
-  "poster_path": "/uxBiIrFoUwuduaUoBZ3CW2jVQSk.jpg",
-  "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
+  "overview": "يحكي مسلسل 'المتمرد الخالد' قصة حياة وينغ لين، شاب صغير في الريف، الذي يتمحور حياته حول عزمه على اكتساب طول العمر. في طريقته، يرغب في التخلص من الشائعات والمصائب التي تلاحقه، ويؤمن في قدرات الإنسان. بتأملاته الحكيمة، يصل إلى قمم العظمة ويصبح في الأوساط الفلسفية بالقدرة على تحقيق ذلك.",
+  "poster_path": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+  "backdrop_path": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
   "release_date": "2023-09-25",
-  "vote_average": 8.7,
-  "vote_count": 33,
+  "vote_average": 8.2,
+  "vote_count": 40,
   "genres": [
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
     {
       "id": 16,
       "name": "رسوم متحركة"
@@ -26,38 +20,41 @@
       "name": "دراما"
     },
     {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 10759,
+      "name": "حركة ومغامرة"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال العلمي، يأتي رانجيد، البطل المخادع، ليكون قائدًا لفرقة من الابطال الذين يبحثون عن السعادة والحرية في عالم مليء بالمحن والخطر. مع قواه الخارقة والقوة النفسية، يأتي رانجيد ليكون قائدًا لفرقة من الابطال الذين يبحثون عن السعادة والحرية في عالم مليء بالمحن والخطر.",
-    "desc_en": "In a world of science fiction, Renegade, the cunning hero, comes to lead a team of heroes who are searching for happiness and freedom in a world full of challenges and dangers. With his extraordinary powers and mental strength, Renegade comes to lead a team of heroes who are searching for happiness and freedom in a world full of challenges and dangers.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رانجيد-immortal",
-    "seo_title_ar": "مشاهدة فيلم رانجيد-immortal مترجم اون لاين - توميتو",
-    "keywords": "فيلم رانجيد-immortal مترجم, مشاهدة فيلم رانجيد-immortal, Renegade Immortal مترجم كامل, مشاهدة Renegade Immortal 2023, توميتو Renegade Immortal, قصة مسلسل Renegade Immortal, أحداث Renegade Immortal بالتفصيل",
-    "opinion": "هو فيلم رانجيد-immortal هو فيلم رائع، مليء بالأحداث والشخصيات، والقصة هي قصة رائعة، مليئة بالتension والتشويق، والفيلم هو فيلم رائع، يلقي بالسعادة والحرية في عالم مليء بالمحن والخطر.",
+    "intro": "يحكي مسلسل 'المتمرد الخالد' قصة حياة وينغ لين، شاب صغير في الريف، الذي يتمحور حياته حول عزمه على اكتساب طول العمر.",
+    "desc_ar": "يحكي مسلسل 'المتمرد الخالد' قصة حياة وينغ لين، شاب صغير في الريف، الذي يتمحور حياته حول عزمه على اكتساب طول العمر. في طريقته، يرغب في التخلص من الشائعات والمصائب التي تلاحقه، ويؤمن في قدرات الإنسان. بتأملاته الحكيمة، يصل إلى قمم العظمة ويصبح في الأوساط الفلسفية بالقدرة على تحقيق ذلك.",
+    "desc_en": "Renegade Immortal tells the story of Wang Lin, an ordinary young man in the countryside, who is driven by his ambition to cultivate immortality. His pursuit is not only for longevity, but also for ridding himself of the misconceptions and calamities that follow him. He firmly believed in human potential and entered the path of cultivation with mediocre qualifications. After experiencing the highs and lows, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "seo_title_ar": "مشاهدة مسلسل المتمرد الخالد مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل المتمرد الخالد مترجم - توميتو, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية",
+    "outro": "من خلال تجربة وينغ لين في السعي لاكتساب طول العمر، نجد أنه يتعامل مع العديد من التحديات والمصائب التي تلاحقه، ولكن بمساعدة قدرات الإنسان، يصل إلى قمم العظمة.",
+    "opinion_ar": "من خلال تجربة وينغ لين في السعي لاكتساب طول العمر، نجد أنه يتعامل مع العديد من التحديات والمصائب التي تلاحقه، ولكن بمساعدة قدرات الإنسان، يصل إلى قمم العظمة.",
+    "opinion_en": "Wang Lin's journey to cultivate immortality is a testament to the power of human potential. Through his experiences, we see that he faces numerous challenges and calamities, but with his determination and the support of human abilities, he reaches the pinnacle of success.",
     "faq": [
       {
-        "q": "ما هو فيلم رانجيد-immortal؟",
-        "a": "هو فيلم رانجيد-immortal هو فيلم رائع، مليء بالأحداث والشخصيات، والقصة هي قصة رائعة، مليئة بالتension والتشويق."
+        "q": "ما هي قصة مسلسل 'المتمرد الخالد'؟",
+        "a": "يحكي مسلسل 'المتمرد الخالد' قصة حياة وينغ لين، شاب صغير في الريف، الذي يتمحور حياته حول عزمه على اكتساب طول العمر.",
+        "q_en": "What is the story of the Renegade Immortal series?",
+        "a_en": "The Renegade Immortal series tells the story of Wang Lin, an ordinary young man in the countryside, who is driven by his ambition to cultivate immortality."
       },
       {
-        "q": "ما هو نوع فيلم رانجيد-immortal؟",
-        "a": "هو فيلم رانجيد-immortal هو فيلم حركة ومغامرة، رسوم متحركة، دراما، خيال علمي وفانتازيا."
-      },
-      {
-        "q": "ما هو أفضل شيء في فيلم رانجيد-immortal؟",
-        "a": "هو فيلم رانجيد-immortal هو فيلم رائع، مليء بالأحداث والشخصيات، والقصة هي قصة رائعة، مليئة بالتension والتشويق."
+        "q": "ما هي أفكار المسلسل؟",
+        "a": "يحمل المسلسل فكرة مهمة حول قدرات الإنسان.",
+        "q_en": "What are the ideas behind the series?",
+        "a_en": "The series conveys an important idea about human potential."
       }
-    ]
+    ],
+    "keywords": "متمرد الخالد, مسلسل, رسوم متحركة, دراما, حركة ومغامرة, مترجم, عالية الجودة, بدون إعلانات, مشاهدة المتمرد الخالد, Renegade Immortal مترجم, تحميل المتمرد الخالد, المتمرد الخالد اون لاين, Renegade Immortal, المتمرد الخالد جودة عالية, فيلم المتمرد الخالد"
   },
   "fixed": true,
-  "first_air_date": "2023-09-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "الصين",
+  "cast": "Shi Zekun Zhang Huilin Chang Wentao Liu Sicen Bai Xuecen Wang Jinger Qiao Su",
+  "first_air_date": "2023-09-25"
 }

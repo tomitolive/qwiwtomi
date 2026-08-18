@@ -4,7 +4,7 @@
   "title_ar": "Summerween",
   "title_en": "Summerween",
   "slug": "1711175-summerween",
-  "overview": "يستعرض فيلم \"سمروين\" قصة مرعبة حول مهرج سيرك سابق يهرب من مؤسسة للأمراض العقلية في الذكرى السنوية العاشرة لأولى جرائمه. وبينما يحتفل طلاب مدرسة ثانوية غير مدركين بحفل \"سمروين\" في قصر المهرج المهجور، يجب على ضابط شرطة وأب لإحدى المحتفلات إنقاذ ابنته قبل أن يرتكب المهرج جريمته مرة أخرى. \"سمروين\" فيلم رعب وإثارة مشوق.",
+  "overview": "يحكي فيلم سمروين قصة أحد الأبطال الذين كانوا يرتدون زي الكلاب في سيرك، ولكن مع مرور الوقت أصبحوا مصابين بالجنون. بعد أن ينجح أحد هؤلاء الأبطال في الهروب من مستشفى الأمراض العقلية، يجد نفسه في منزله المطلوب الذي يحتضن حفلة سمروين لطلاب مدرسة ثانوية. في هذه الأثناء، يضطر ضابط شرطة إلى إنقاذ ابنته من الأخطار التي تهدد حياتها.",
   "poster_path": "/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
   "backdrop_path": "/25N840Us9DC7JY6WSxKCsHSjDsu.jpg",
   "release_date": "2026-06-26",
@@ -21,23 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Summerween (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يستعرض فيلم \"سمروين\" قصة مرعبة حول مهرج سيرك سابق يهرب من مؤسسة للأمراض العقلية في الذكرى السنوية العاشرة لأولى جرائمه. وبينما يحتفل طلاب مدرسة ثانوية غير مدركين بحفل \"سمروين\" في قصر المهرج المهجور، يجب على ضابط شرطة وأب لإحدى المحتفلات إنقاذ ابنته قبل أن يرتكب المهرج جريمته مرة أخرى. \"سمروين\" فيلم رعب وإثارة مشوق.",
-    "desc_en": "Summerween, a thrilling horror film, follows a former circus clown who escapes a mental institution on the tenth anniversary of his first kills. As unsuspecting high schoolers throw a Summerween party at the clown's abandoned mansion, a police officer and father must rescue his daughter before the clown strikes again.",
-    "seo_title_ar": "مشاهدة فيلم سمروين Summerween مترجم - توميتو",
-    "meta_desc": "مشاهدة سمروين مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Summerween الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"سمروين\" يقدم تجربة رعب وإثارة مشوقة، مع أداء تمثيلي متميز، ويحبس الأنفاس حتى اللحظات الأخيرة.",
-    "opinion_en": "Summerween offers a thrilling horror experience with excellent performances, keeping viewers on the edge of their seats until the very end.",
+    "intro": "حسناً، في هذه المقالة، نستعرض فيلم سمروين، وهو فيلم رعب وإثارة يركز على تجربة الكلاب السيركية.",
+    "desc_ar": "يحكي فيلم سمروين قصة أحد الأبطال الذين كانوا يرتدون زي الكلاب في سيرك، ولكن مع مرور الوقت أصبحوا مصابين بالجنون. بعد أن ينجح أحد هؤلاء الأبطال في الهروب من مستشفى الأمراض العقلية، يجد نفسه في منزله المطلوب الذي يحتضن حفلة سمروين لطلاب مدرسة ثانوية. في هذه الأثناء، يضطر ضابط شرطة إلى إنقاذ ابنته من الأخطار التي تهدد حياتها.",
+    "desc_en": "A former circus clown escapes a mental institution on the tenth anniversary of his first kills. Now, as unsuspecting high schoolers throw a Summerween party at the clowns abandoned mansion, a police officer and father to one of the party goers must rescue his daughter before the clown kills again.",
+    "seo_title_ar": "مشاهدة فيلم سمروين مترجم - فيلم رعب وإثارة - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم سمروين مترجم، قصة رعب وإثارة تتمحور حول هروب الكلاب السيركية من مستشفى الأمراض العقلية واستهدافهم لحفلة سمروين في منزل مهجور. استم",
+    "outro": "وخلاصة القول، فإن فيلم سمروين يعد تجربة رعبية وإثارة لا تُنسى، ويمكنك الآن مشاهدة هذا الفيلم من خلال موقع توميتو.",
+    "opinion_ar": "يعد فيلم سمروين تجربة مثيرة للجوانب العقلية والروحانية، وهو فيلم رعب لا يمكن الاستغناء عنه.",
+    "opinion_en": "Summerween is an unforgettable experience that explores the darker aspects of human nature and the supernatural.",
     "faq": [
       {
-        "q": "هل فيلم سمروين مناسب للمشاهدة العائلية؟",
-        "a": "لا، فيلم سمروين يحتوي على مشاهد عنف ورعب قد لا تكون مناسبة للأطفال الصغار.",
-        "q_en": "Is Summerween suitable for family viewing?",
-        "a_en": "No, Summerween contains violent and scary scenes that may not be suitable for young children."
+        "q": "ما هو فيلم سمروين؟",
+        "a": "يحكي فيلم سمروين قصة رعب وإثارة حول هروب الكلاب السيركية من مستشفى الأمراض العقلية.",
+        "q_en": "What is Summerween?",
+        "a_en": "Summerween is a horror-thriller film about a group of circus clowns who escape from a mental institution."
+      },
+      {
+        "q": "متى صدر فيلم سمروين؟",
+        "a": "صدر فيلم سمروين في عام 2026.",
+        "q_en": "When was Summerween released?",
+        "a_en": "Summerween was released in 2026."
+      },
+      {
+        "q": "ما هو نوع فيلم سمروين؟",
+        "a": "يعد فيلم سمروين فيلمًا رعبًا وإثارة.",
+        "q_en": "What type of film is Summerween?",
+        "a_en": "Summerween is a horror-thriller film."
       }
     ],
-    "keywords": "سمروين, Summerween, فيلم رعب, مهرج, ذكرى سنوية, حفل, إنقاذ, إثارة, تشويق, عنف, رعب نفسي"
+    "keywords": "سمروين, فيلم رعب, إثارة, الكلاب السيركية, مستشفى الأمراض العقلية, حفلة سمروين, عيد سمروين, أفلام رعب, أفلام إثارة, مشاهدة سمروين, Summerween مترجم, تحميل سمروين, سمروين اون لاين, Summerween, سمروين جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -45,5 +57,5 @@
   "duration": "87 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Clint Morrison Sophia Sabol Cole Chapleski Chase Breithoff Jihad Milhem Blake Bundy Cate Whitlatch English Jade Young"
+  "cast": "Clint Morrison Sophia Sabol Cole Chapleski Brian Latimer Chase Breithoff Jihad Milhem Blake Bundy Cate Whitlatch"
 }
