@@ -17,33 +17,41 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Chinese Restaurant (2017) مترجم بجودة عالية على توميتو.",
+    "intro": "استمتع بمشاهدة فيلم The Chinese Restaurant (2017) مترجم بجودة عالية على توميتو.",
     "desc_ar": "المطعم الصيني، مسلسل واقعي صيني، يسلط الضوء على حياة المشاهير الصينيين. في هذا البرنامج، تستضيف قناة هونان التلفزيونية فيكي زهاو كضيفة دائمة في أول ظهور لها في برنامج واقعي/متنوع. إنه عرض ممتع ومثير للاهتمام يمنح المشاهدين نظرة ثاقبة على حياة المشاهير.",
     "desc_en": "The Chinese Restaurant is a Chinese celebrity reality show with a twist. Hunan Television brings you this unique program, featuring Vicky Zhao's debut as a regular guest. Get ready for an entertaining and insightful look into the lives of Chinese stars.",
-    "seo_title_ar": "مشاهدة مسلسل المطعم الصيني مترجم - توميتو",
-    "meta_desc": "المطعم الصيني: برنامج واقعي صيني ممتع مع فيكي زهاو. استكشف حياة المشاهير الصينيين في هذا العرض المثير للاهتمام.",
+    "seo_title_ar": "مشاهدة فيلم The Chinese Restaurant مترجم - توميتو",
+    "meta_desc": "مشاهدة المطعم الصيني مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
     "outro": "شاهد The Chinese Restaurant الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "المطعم الصيني هو برنامج واقعي ممتع ومختلف، يمنحنا نظرة فريدة على حياة المشاهير الصينيين. إنه تجربة ممتعة ومثيرة للاهتمام، خاصة مع وجود فيكي زهاو كضيفة دائمة.",
-    "opinion_en": "The Chinese Restaurant is a refreshing take on celebrity reality shows. With Vicky Zhao's presence, it offers an engaging and insightful glimpse into the lives of Chinese stars, making it a must-watch.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو المطعم الصيني؟",
-        "a": "المطعم الصيني هو برنامج واقعي صيني يسلط الضوء على حياة المشاهير الصينيين.",
-        "q_en": "What is The Chinese Restaurant?",
-        "a_en": "The Chinese Restaurant is a Chinese celebrity reality show that offers a unique perspective on the lives of Chinese stars."
+        "q": "كيف يمكنني مشاهدة فيلم المطعم الصيني?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Chinese Restaurant?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم المطعم الصيني?",
+        "a": "يندرج العمل تحت تصنيف واقع.",
+        "q_en": "What is the genre of The Chinese Restaurant?",
+        "a_en": "It falls under the genre of واقع."
+      },
+      {
+        "q": "ما هي قصة فيلم المطعم الصيني?",
+        "a": "المطعم الصيني، مسلسل واقعي صيني، يسلط الضوء على حياة المشاهير الصينيين. في هذا البرنامج، تستضيف قناة هونان التلفزيونية فيكي زهاو كضيفة دائمة في أول ظهور لها في برنامج واقعي/متنوع. إنه عرض ممتع ومثير ل...",
+        "q_en": "What is the story of The Chinese Restaurant?",
+        "a_en": "The Chinese Restaurant is a Chinese celebrity reality show with a twist. Hunan Television brings you this unique program, featuring Vicky Zhao's debut as a regular guest. Get ready for an entertaining..."
       }
     ],
-    "keywords": "المطعم الصيني, The Chinese Restaurant, برنامج واقعي, مشاهير, فيكي زهاو, تلفزيون هونان, حياة المشاهير"
+    "keywords": "المطعم الصيني مترجم, The Chinese Restaurant مترجم, مشاهدة المطعم الصيني,"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "Karry Wang Huang Xiaoming Jin Mengjia Lin Shuwei Jiang Yan Hannah Quinlivan Zhang Ya Qi",
-  "first_air_date": "2017-07-22",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

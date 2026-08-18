@@ -4931,8 +4931,110 @@
       "file": "866398.json",
       "title": "النحال",
       "fixed_at": "2026-08-18T05:07:56.468893"
+    },
+    {
+      "tmdb_id": "114410",
+      "file": "114410.json",
+      "title": "رجل المنشار",
+      "fixed_at": "2026-08-18T05:14:22.403531"
+    },
+    {
+      "tmdb_id": "106",
+      "file": "106.json",
+      "title": "The Andy Griffith Show",
+      "fixed_at": "2026-08-18T05:14:34.044634"
+    },
+    {
+      "tmdb_id": "724089",
+      "file": "724089.json",
+      "title": "Gabriels Inferno: Part II",
+      "fixed_at": "2026-08-18T05:14:53.847558"
+    },
+    {
+      "tmdb_id": "1125257",
+      "file": "1125257.json",
+      "title": "الجمعة العجيبة",
+      "fixed_at": "2026-08-18T05:15:33.948341"
+    },
+    {
+      "tmdb_id": "61068",
+      "file": "61068.json",
+      "title": "جمورة",
+      "fixed_at": "2026-08-18T05:15:43.441620"
+    },
+    {
+      "tmdb_id": "237565",
+      "file": "237565.json",
+      "title": "عائلة بالأختيار",
+      "fixed_at": "2026-08-18T05:16:13.271016"
+    },
+    {
+      "tmdb_id": "1318447",
+      "file": "1318447.json",
+      "title": "المفترس الأقوى",
+      "fixed_at": "2026-08-18T05:16:20.775655"
+    },
+    {
+      "tmdb_id": "65593",
+      "file": "65593.json",
+      "title": "Les Nuls, lmission",
+      "fixed_at": "2026-08-18T05:17:12.607138"
+    },
+    {
+      "tmdb_id": "65763",
+      "file": "65763.json",
+      "title": "لوني تونز الجديد",
+      "fixed_at": "2026-08-18T05:17:20.768409"
+    },
+    {
+      "tmdb_id": "235349",
+      "file": "235349.json",
+      "title": "Judge Dees Mystery",
+      "fixed_at": "2026-08-18T05:17:44.334444"
+    },
+    {
+      "tmdb_id": "1291595",
+      "file": "1291595.json",
+      "title": "Insidious: Out of the Further",
+      "fixed_at": "2026-08-18T05:17:57.300935"
+    },
+    {
+      "tmdb_id": "91914",
+      "file": "91914.json",
+      "title": "The Chinese Restaurant",
+      "fixed_at": "2026-08-18T05:18:22.812606"
+    },
+    {
+      "tmdb_id": "951491",
+      "file": "951491.json",
+      "title": "Saw X",
+      "fixed_at": "2026-08-18T05:18:34.068765"
+    },
+    {
+      "tmdb_id": "50524",
+      "file": "50524.json",
+      "title": "Pen Tor",
+      "fixed_at": "2026-08-18T05:19:10.580461"
+    },
+    {
+      "tmdb_id": "899294",
+      "file": "899294.json",
+      "title": "Frank and Penelope",
+      "fixed_at": "2026-08-18T05:20:04.241310"
+    },
+    {
+      "tmdb_id": "1062722",
+      "file": "1062722.json",
+      "title": "فرانكشتاين",
+      "fixed_at": "2026-08-18T05:20:13.371046"
+    },
+    {
+      "tmdb_id": "1087192",
+      "file": "1087192.json",
+      "title": "كيف تروض تنينك",
+      "fixed_at": "2026-08-18T05:20:23.921907"
     }
   ],
-  "last_updated": "2026-08-18T05:07:58.470725",
-  "total_fixed": 822
+  "last_updated": "2026-08-18T05:20:25.924680",
+  "total_fixed": 839
 }

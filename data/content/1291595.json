@@ -4,7 +4,7 @@
   "title_ar": "Insidious: Out of the Further",
   "title_en": "Insidious: Out of the Further",
   "slug": "1291595-insidious-out-of-the-further",
-  "overview": "غدرا: من أبعد، فيلم رعب وإثارة، حيث تكتشف جما، الأم الشابة التي ترعى ابنتها في المنزل الذي نشأت فيه، قدرتها على السفر إلى عالم \"ذا فورثر\" الغامض، حيث تمتلك القدرة على جلب ما يعيش هناك إلى العالم الحقيقي. قصة مشوقة ومخيفة تنتظر المشاهدين.",
+  "overview": "تتنامى قصة غدرا: من أبعد حول غموض معيشة الأم Gemma مع ابنتها في المنزل الذي نشأت فيه. تكتشف أنها تستطيع السفر إلى \"الأبعد\"، حيث تحظى بثلة خاصة في استدعاء ما يعيش هناك إلى العالم الحقيقي. تعمل هذه القدرة على فتح أبواب جديدة في حياتها، وتجعلها تفكر في أعمق أسرار الحياة والموت. كما أنها تجعلها تلمس حدود بين العالمين.",
   "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
   "backdrop_path": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
   "release_date": "2026-08-19",
@@ -21,29 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Insidious: Out of the Further (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "غدرا: من أبعد، فيلم رعب وإثارة، حيث تكتشف جما، الأم الشابة التي ترعى ابنتها في المنزل الذي نشأت فيه، قدرتها على السفر إلى عالم \"ذا فورثر\" الغامض، حيث تمتلك القدرة على جلب ما يعيش هناك إلى العالم الحقيقي. قصة مشوقة ومخيفة تنتظر المشاهدين.",
-    "desc_en": "Insidious: Out of the Further is a thrilling horror film that follows Gemma, a young mother who discovers a terrifying ability to travel into The Further, a realm where she can bring back entities to the real world. A chilling story awaits.",
-    "seo_title_ar": "مشاهدة فيلم غدرا: من أبعد مترجم - توميتو",
-    "meta_desc": "غدرا: من أبعد - فيلم رعب وإثارة مشوق، حيث تكتشف الأم الشابة جما قدرتها على السفر إلى عالم آخر وجلب ما يعيش هناك إلى عالمنا. قصة مخيفة ومثيرة.",
-    "outro": "شاهد Insidious: Out of the Further الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "غدرا: من أبعد، فيلم رعب مثير يبقيك على حافة مقعدك. قصة مبتكرة ومخيفة، أداء مميز، ومشاهد مرعبة ستجعلك تفكر مرتين قبل النوم.",
-    "opinion_en": "Insidious: Out of the Further is a terrifying and captivating horror film. The story is fresh and scary, with great performances and spine-chilling scenes that will keep you up at night.",
+    "intro": "يحكي فيلم غدرا: من أبعد قصة الأم Gemma التي تكتشف قوتها في السفر إلى العالم المجهول.",
+    "desc_ar": "تتنامى قصة غدرا: من أبعد حول غموض معيشة الأم Gemma مع ابنتها في المنزل الذي نشأت فيه. تكتشف أنها تستطيع السفر إلى \"الأبعد\"، حيث تحظى بثلة خاصة في استدعاء ما يعيش هناك إلى العالم الحقيقي. تعمل هذه القدرة على فتح أبواب جديدة في حياتها، وتجعلها تفكر في أعمق أسرار الحياة والموت. كما أنها تجعلها تلمس حدود بين العالمين.",
+    "desc_en": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world. This power opens up new doors in her life, making her ponder the deeper secrets of life and death. As she navigates this new world, she must confront the unknown and the unseen.",
+    "seo_title_ar": "مشاهدة فيلم غدرا: من أبعد مترجم - فيلم رعب إثارة مترجم - توميتو",
+    "meta_desc": "عرض فيلم غدرا: من أبعد، فيلم رعب إثارة عن الأم التي تعود إلى العالم المجهول، مع توجيهات حول كيفية رؤية الفيلم. استمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "يعد فيلم غدرا: من أبعد تجربة مثيرة ومفاجئة، تجعلك تفكر في أعمق أسرار الحياة والموت.",
+    "opinion_ar": "يحمل فيلم غدرا: من أبعد تفاصيل مثيرة تجعلك تفكر في أعمق أسرار الحياة، ويفهمك أكثر قصة الألم والخوف.",
+    "opinion_en": "Insidious: Out of the Further is a gripping film that delves into the complexities of life and death, making you ponder the depths of human suffering and the unknown.",
     "faq": [
       {
-        "q": "هل غدرا: من أبعد مناسب للمشاهدة العائلية؟",
-        "a": "لا، غدرا: من أبعد فيلم رعب قد يحتوي على مشاهد مخيفة وغير مناسبة للأطفال.",
-        "q_en": "Is Insidious: Out of the Further family-friendly?",
-        "a_en": "No, Insidious: Out of the Further is a horror film with potentially scary scenes, making it unsuitable for young children."
+        "q": "ما هو موضوع فيلم غدرا: من أبعد؟",
+        "a": "يحكي الفيلم عن قصة الأم Gemma التي تكتشف قوتها في السفر إلى العالم المجهول",
+        "q_en": "What is the subject of the film Insidious: Out of the Further?",
+        "a_en": "The film revolves around the story of the mother Gemma who discovers her power to travel to the unknown world"
+      },
+      {
+        "q": "كيف يمكنني مشاهدة فيلم غدرا: من أبعد؟",
+        "a": "يمكنك مشاهدة الفيلم على توميتو بسهولة، مع ترجمة عربية واضحة وبدون إعلانات مزعجة.",
+        "q_en": "How can I watch the film Insidious: Out of the Further?",
+        "a_en": "You can easily watch the film on Tomito with clear Arabic subtitles and no annoying ads."
       }
     ],
-    "keywords": "غدرا: من أبعد, Insidious: Out Further, فيلم رعب, إثارة, عالم آخر, سفر, قدرات خارقة, رعب نفسي, أداء مميز, قصة مبتكرة"
+    "keywords": "غدرا: من أبعد, فيلم رعب إثارة, عالم المجهول, القدرة, السفر, الأم, ابنتها, المنزل, الحياة, الموت, السر, مشاهدة غدرا: من أبعد, Insidious: Out Further مترجم, تحميل غدرا: من أبعد, غدرا: من أبعد اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "106 دقيقة",
   "language": "الإنجليزية",
-  "country": "أستراليا",
+  "country": "الولايات المتحدة الأمريكية",
   "cast": "Amelia Eve Island Austin Lin Shaye Sam Spruell Brandon Perea Maisie Richardson-Sellers Joseph Lopez Laura Gordon"
 }
