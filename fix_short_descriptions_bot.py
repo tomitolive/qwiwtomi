@@ -31,6 +31,20 @@ log = logging.getLogger(__name__)
 
 # Import project modules
 import mega_bot
+import requests
+
+# Bulletproof block: Prevent any image download from TMDB or elsewhere
+original_get = requests.get
+def no_image_get(url, *args, **kwargs):
+    if 'image.tmdb.org' in url or any(url.endswith(ext) for ext in ['.jpg', '.png', '.jpeg', '.webp']):
+        class MockImageResponse:
+            status_code = 404
+            content = b''
+            text = 'Image downloads disabled by bot'
+        return MockImageResponse()
+    return original_get(url, *args, **kwargs)
+
+requests.get = no_image_get
 
 # Prevent image downloads by mocking download functions
 mega_bot.download_tmdb_image = lambda path: path.lstrip('/') if path else None
