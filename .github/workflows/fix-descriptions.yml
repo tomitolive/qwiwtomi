@@ -1,11 +1,11 @@
 # GitHub Actions Workflow `fix-descriptions`
-# Runs the short descriptions fix bot every 20 minutes.
+# متوقف مؤقتاً بناءً على طلبك
 
 name: Fix Short Descriptions Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Run every 15 minutes
+    # - cron: '*/15 * * * *'  # معطل مؤقتاً
   workflow_dispatch:
 
 permissions:
