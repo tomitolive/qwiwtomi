@@ -4,12 +4,12 @@
   "title_ar": "Good Boy",
   "title_en": "Good Boy",
   "slug": "1381027-good-boy",
-  "overview": "يستكشف فيلم \"فتى جيد\" قصة تومي، الشاب المتقلب البالغ من العمر 19 عامًا، الذي يغرق في عالم المخدرات والحفلات والعنف. بعد انفصاله عن أصدقائه في سكره، يختطفه شخص غامض. يستيقظ ليجد نفسه مسجوناً في قبو منزل ناءٍ في يوركشاير، يسكنه عائلة غريبة الأطوار. لكن ما ينكشف ليس كما يتوقع..",
+  "overview": "يحكي فيلم 'فتى جيد' قصة بطل شاب مراهق متعاطي المخدرات، يمر بفترة من الفوضى والانتحار، حيث يفقد صديقيه في ليلة مشمسة، ثم يجد نفسه محبوساً في قبو منزل إنجليزي قديم في منتصف الريف، ويحاصر من قبل عائلة غريبة وغامضة. ولكن ما يحدث فيما بعد يفاجئه تماماً ويجعله يتحول إلى رجل عنيف. هذا هو مسار حياة هذا الشاب الذي يخضع لظروف مُعقدة ومحفوفة بالمخاطر.",
   "poster_path": "/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
   "backdrop_path": "/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
   "release_date": "2026-03-06",
   "vote_average": 7.2,
-  "vote_count": 179,
+  "vote_count": 224,
   "genres": [
     {
       "id": 53,
@@ -25,23 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Good Boy (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يستكشف فيلم \"فتى جيد\" قصة تومي، الشاب المتقلب البالغ من العمر 19 عامًا، الذي يغرق في عالم المخدرات والحفلات والعنف. بعد انفصاله عن أصدقائه في سكره، يختطفه شخص غامض. يستيقظ ليجد نفسه مسجوناً في قبو منزل ناءٍ في يوركشاير، يسكنه عائلة غريبة الأطوار. لكن ما ينكشف ليس كما يتوقع..",
-    "desc_en": "Good Boy is a gripping film that follows Tommy, a volatile 19-year-old, as he indulges in drugs, parties, and violence. After getting separated from his friends during a drunken night, he is abducted by a mysterious figure. He wakes up imprisoned in the basement of a remote Yorkshire house, inhabited by a peculiar family. What unfolds is beyond his wildest imagination.",
-    "seo_title_ar": "مشاهدة فيلم فتى جيد Good Boy مترجم - توميتو",
-    "meta_desc": "Good Boy: فيلم إثارة مثير يغوص في عالم العنف والمخدرات. تومي، الشاب المتقلب، يجد نفسه مسجونا في قبو منزل غامض. هل سينجو من هذه التجربة المرعبة؟",
-    "outro": "شاهد Good Boy الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فتى جيد هو فيلم إثارة مثير يبقيك على حافة مقعدك. القصة مشوقة ومليئة بالغموض، وستجعلك تتساءل عما سيحدث بعد ذلك. إنه فيلم يجب مشاهدته لمحبي الإثارة والتشويق.",
-    "opinion_en": "Good Boy is an intense thriller that will keep you on the edge of your seat. The story is gripping and full of mystery, leaving you wondering what will happen next. A must-watch for fans of suspense and intrigue.",
+    "intro": "في عالم مليء بالفوضى والانتحار، يجد هذا الشاب نفسه مضطراً إلى مواجهة الواقع، ويحارب من أجل العيش.",
+    "desc_ar": "يحكي فيلم 'فتى جيد' قصة بطل شاب مراهق متعاطي المخدرات، يمر بفترة من الفوضى والانتحار، حيث يفقد صديقيه في ليلة مشمسة، ثم يجد نفسه محبوساً في قبو منزل إنجليزي قديم في منتصف الريف، ويحاصر من قبل عائلة غريبة وغامضة. ولكن ما يحدث فيما بعد يفاجئه تماماً ويجعله يتحول إلى رجل عنيف. هذا هو مسار حياة هذا الشاب الذي يخضع لظروف مُعقدة ومحفوفة بالمخاطر.",
+    "desc_en": "Good Boy is a film that tells the story of a 19-year-old boy who is a heavy drug user. He spends his days and nights in a world of violence and parties, until one night he loses his friends in a drunken bender. He wakes up to find himself imprisoned in the basement of a remote Yorkshire house, where he is surrounded by a strange and mysterious family. But what unfolds is not what he could possibly expect, and he is forced to confront the harsh realities of his life.",
+    "seo_title_ar": "مشاهدة فيلم فتى جيد مترجم - توميتو",
+    "meta_desc": "فيلم إثارة دراما غموض 2026 عن قصة شاب مراهق متعاطي المخدرات يجد نفسه محبوسا في قبو منزل إنجليزي قديم في منتصف الريف، ويكون مضطرا إلى مواجهة واقع حياته ال",
+    "outro": "فيلم 'فتى جيد' هو تجربة سینمائية غامضة وغريبة، يتعامل مع قضايا جدية ومشاكل حياتية، ويقدم القصة بطريقة مُعقدة ومثيرة.",
+    "opinion_ar": "فيلم 'فتى جيد' هو تجربة سینمائية غامضة وغريبة، يقدم القصة بطريقة مُعقدة ومثيرة، ويجعل المشاهد يتساءل عن ما يحدث في القصة.",
+    "opinion_en": "Good Boy is a complex and thrilling film that presents its story in a convoluted and suspenseful way, leaving the viewer wondering what's going on.",
     "faq": [
       {
-        "q": "هل فيلم فتى جيد مناسب للعائلات؟",
-        "a": "لا، فيلم فتى جيد يحتوي على مشاهد عنف ومخدرات، لذا فهو غير مناسب للأطفال والعائلات.",
-        "q_en": "Is Good Boy family-friendly?",
-        "a_en": "No, Good Boy contains violent and drug-related scenes, making it unsuitable for children and families."
+        "q": "ما هو الفيلم 'فتى جيد'؟",
+        "a": "فيلم إثارة دراما غموض 2026 يروي قصة بطل شاب مراهق متعاطي المخدرات.",
+        "q_en": "What is the film Good Boy?",
+        "a_en": "A 2026 thriller drama film that tells the story of a 19-year-old heavy drug user."
+      },
+      {
+        "q": "متى صدر الفيلم؟",
+        "a": "تم إصدار الفيلم في عام 2026.",
+        "q_en": "When was the film released?",
+        "a_en": "The film was released in 2026."
       }
     ],
-    "keywords": "فتى جيد, Good Boy, فيلم, إثارة, دراما, غموض, عنف, مخدرات, عائلة غريبة, يوركشاير"
+    "keywords": "فيلم إثارة, دراما, غموض, 2026, إنجلترا, قصة غريبة, فيلم مترجم, مسلسل فتى جيد, مسلسل كوري فتى جيد, مشاهدة فتى جيد, Good Boy مترجم, تحميل فتى جيد, فتى جيد اون لاين, Good Boy, فتى جيد جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

@@ -4685,8 +4685,128 @@
       "file": "10835.json",
       "title": "The Killer",
       "fixed_at": "2026-08-18T03:46:43.866246"
+    },
+    {
+      "tmdb_id": "648878",
+      "file": "648878.json",
+      "title": "إدينغتون",
+      "fixed_at": "2026-08-18T04:46:19.335199"
+    },
+    {
+      "tmdb_id": "1011985",
+      "file": "1011985.json",
+      "title": "الكونغ فو باندا ٤",
+      "fixed_at": "2026-08-18T04:46:27.193217"
+    },
+    {
+      "tmdb_id": "38234",
+      "file": "38234.json",
+      "title": "بلا منازع 3 : الخلاص",
+      "fixed_at": "2026-08-18T04:46:34.603291"
+    },
+    {
+      "tmdb_id": "1381027",
+      "file": "1381027.json",
+      "title": "Good Boy",
+      "fixed_at": "2026-08-18T04:46:53.245039"
+    },
+    {
+      "tmdb_id": "407445",
+      "file": "407445.json",
+      "title": "تنفس",
+      "fixed_at": "2026-08-18T04:47:01.787608"
+    },
+    {
+      "tmdb_id": "45967",
+      "file": "45967.json",
+      "title": "BH",
+      "fixed_at": "2026-08-18T04:47:27.852206"
+    },
+    {
+      "tmdb_id": "296286",
+      "file": "296286.json",
+      "title": "Smoking Behind the Supermarket with You",
+      "fixed_at": "2026-08-18T04:47:48.371000"
+    },
+    {
+      "tmdb_id": "91768",
+      "file": "91768.json",
+      "title": "هيمنة عثة كتب",
+      "fixed_at": "2026-08-18T04:47:57.294157"
+    },
+    {
+      "tmdb_id": "1439112",
+      "file": "1439112.json",
+      "title": "Muzzle: City of Wolves",
+      "fixed_at": "2026-08-18T04:48:05.534534"
+    },
+    {
+      "tmdb_id": "185",
+      "file": "185.json",
+      "title": "برتقالة آلية",
+      "fixed_at": "2026-08-18T04:48:13.780943"
+    },
+    {
+      "tmdb_id": "22897",
+      "file": "22897.json",
+      "title": "Its Complicated",
+      "fixed_at": "2026-08-18T04:48:22.606359"
+    },
+    {
+      "tmdb_id": "1431068",
+      "file": "1431068.json",
+      "title": "Main Vaapas Aaunga",
+      "fixed_at": "2026-08-18T04:48:37.920978"
+    },
+    {
+      "tmdb_id": "1274706",
+      "file": "1274706.json",
+      "title": "المرأة المثخنة بالجراح",
+      "fixed_at": "2026-08-18T04:48:46.729960"
+    },
+    {
+      "tmdb_id": "112814",
+      "file": "112814.json",
+      "title": "DreamWorks Shreks Swamp Stories",
+      "fixed_at": "2026-08-18T04:48:55.852235"
+    },
+    {
+      "tmdb_id": "9762",
+      "file": "9762.json",
+      "title": "Step Up",
+      "fixed_at": "2026-08-18T04:49:03.377990"
+    },
+    {
+      "tmdb_id": "45950",
+      "file": "45950.json",
+      "title": "هاي سكول دي اكس دي",
+      "fixed_at": "2026-08-18T04:49:14.266242"
+    },
+    {
+      "tmdb_id": "11074",
+      "file": "11074.json",
+      "title": "Striking Distance",
+      "fixed_at": "2026-08-18T04:49:22.819437"
+    },
+    {
+      "tmdb_id": "295509",
+      "file": "295509.json",
+      "title": "أسطورة جندي المطبخ",
+      "fixed_at": "2026-08-18T04:51:05.558387"
+    },
+    {
+      "tmdb_id": "65701",
+      "file": "65701.json",
+      "title": "Good Mythical Morning",
+      "fixed_at": "2026-08-18T04:51:20.921665"
+    },
+    {
+      "tmdb_id": "578",
+      "file": "578.json",
+      "title": "الفك المفترس",
+      "fixed_at": "2026-08-18T04:51:28.547102"
     }
   ],
-  "last_updated": "2026-08-18T03:46:45.868986",
-  "total_fixed": 781
+  "last_updated": "2026-08-18T04:51:40.652053",
+  "total_fixed": 801
 }
