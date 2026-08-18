@@ -10,7 +10,6 @@ on:
 permissions:
   contents: write
 
-# يمنع تداخل التشغيلات وإلغاء أي Workflow قديم باقي خدام
 concurrency:
   group: fix-descriptions-${{ github.ref }}
   cancel-in-progress: true
