@@ -4,14 +4,12 @@
   "title_ar": "دكستر",
   "title_en": "Dexter",
   "slug": "1405-dexter",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "في الصباح يعمل كخبير في الطب الشرعي لشرطة ميامي وفي المساء يعمل كسفاح للمجرمين الذي يعتقد بأنهم لم يتلقوا العدالة",
-  "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "overview": "يعيش دكستر مورغان حياة مزدوجة في مدينة ميامي، حيث يعمل خبيرًا في تحليل أنماط الدم لدى الشرطة، بينما يخفي عن الجميع جانبًا مظلمًا من شخصيته. يستغل دكستر مهاراته وخبرته في التحقيق لتعقب القتلة والمجرمين الذين تمكنوا من الإفلات من العدالة، ثم يأخذ القانون بيده وفق قواعد صارمة وضعها له والده بالتبني. ومع استمراره في إخفاء جرائمه عن زملائه وأسرته، يجد دكستر نفسه أمام قتلة متسلسلين وأعداء يقتربون من كشف حقيقته، مما يهدد حياته السرية ويضعه في مواجهات خطيرة تختبر قدرته على السيطرة على جانبه المظلم.",
+  "poster_path": "/ivs37ueaO7jac4NXkfBRT9u3Say.jpg",
   "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
   "release_date": "2006-10-01",
   "vote_average": 8.2,
-  "vote_count": 5515,
+  "vote_count": 5764,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحكى قصة دكستر، خبير الطب الشرعي في شرطة ميامي، الذي يتعامل مع الجرائم في النهار، ولكن في المساء، يتحول إلى سفاح المجرمين الذين يعتقد بأنهم لم يتلقوا العدالة، مما يخلق سرداً من اللاعقلية والغموض.",
-    "desc_en": "The story of Dexter, a forensic expert with the Miami Police Department, who deals with crimes during the day, but at night, he becomes a serial killer of criminals who he believes have not received justice, creating a tale of irrationality and suspense.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دكستر",
-    "seo_title_ar": "مشاهدة فيلم دكستر مترجم اون لاين - توميتو",
-    "keywords": "Dexter, فيلم دكستر مترجم, مشاهدة فيلم دكستر, قصة مسلسل دكستر, توميتو دكستر, دكستر مترجم كامل, أحداث دكستر بالتفصيل, مشاهدة دكستر 2006",
-    "opinion": "دكستر هو فيلم دراما جريمة غامض يخلق سرداً من اللاعقلية والغموض، مما يخلق توقعاً من التوتر والرعب",
+    "intro": "يحكي مسلسل دكستر قصة دكستر مورغان, خبير تحليل أنماط الدم في الشرطة, الذي يعيش حياة مزدوجة في مدينة ميامي.",
+    "desc_ar": "يحكي مسلسل دكستر قصة دكستر مورغان، خبير تحليل أنماط الدم في الشرطة، الذي يمر بأزمة نفسية بين حياته العملية والجانب المظلم من شخصيته، حيث يستغل مهاراته في تحقيق القضايا لتعقب المجرمين الذين يتمكنون من الحصول على الإنصاف، ثم يؤدي العدالة بنفسه وفق قواعد صارمة وضعها له والده بالتبني، لكنه يجد نفسه أمام قتلة متسلسلين وأعداء يهددون حياته السرية ويضطره إلى مواجهة خطرته على نفسه.",
+    "desc_en": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police, leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice, while navigating his dark side and the consequences of his actions.",
+    "seo_title_ar": "مشاهدة مسلسل دكستر مترجم - توميتو",
+    "meta_desc": "دكستر, مسلسل جريمة ودراما غموض, يتبع قصة دكستر مورغان, خبير تحليل أنماط الدم, يستغل مهاراته في تعقب المجرمين, يستمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "يتعامل المسلسل مع themes الجريمة ودراما الغموض بطريقة مذهلة, مما يجعل المشاهدة أكثر إثارة ومتعة.",
+    "opinion_ar": "يعد دكستر واحدة من أفضل المسلسلات الجريمة في التاريخ, حيث يتمتع بالترجمة الفنية والتمثيل الممتاز, مما يجعل المشاهدة أكثر إثارة.",
+    "opinion_en": "Dexter is one of the best crime dramas in history, with exceptional translation and acting, making it a thrilling watch.",
     "faq": [
       {
-        "q": "ما هو دكستر؟",
-        "a": "هو فيلم دراما جريمة غامض يخلق سرداً من اللاعقلية والغموض"
+        "q": "ما هو اسم المسلسل؟",
+        "a": "دكستر",
+        "q_en": "What is the name of the series?",
+        "a_en": "Dexter"
       },
       {
-        "q": "ما هو نوع دكستر؟",
-        "a": "هو نوع جريمة دراما غموض"
+        "q": "متى تم إصدار المسلسل؟",
+        "a": "2006",
+        "q_en": "When was the series released?",
+        "a_en": "2006"
       },
       {
-        "q": "ما هو دكستر مترجم؟",
-        "a": "هو دكستر مترجم اون لاين، يمكنك مشاهدته على توميتو"
+        "q": "من يصنع المسلسل؟",
+        "a": "جيمس مانغولد",
+        "q_en": "Who creates the series?",
+        "a_en": "James Manos Jr."
       }
-    ]
+    ],
+    "keywords": "دكستر, مسلسل, جريمة, دراما, غموض, خبير تحليل أنماط الدم, Miami Metro Police, قتلة متسلسلين, أعداء, حياة سرية, دكستر مسلسل, كرتون دكستر, اخت دكستر, ديدي دكستر, فلم دكستر, فيلم دكستر, ديدي اخت دكستر, دكستر وديدي"
   },
   "fixed": true,
-  "first_air_date": "2006-10-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "140 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Gibson Gowland Zasu Pitts Jean Hersholt Dale Fuller Tempe Pigott"
+  "cast": "Michael C. Hall Jennifer Carpenter Geoff Pierson David Zayas James Remar Aimee Garcia Desmond Harrington C.S. Lee",
+  "first_air_date": "2006-10-01"
 }

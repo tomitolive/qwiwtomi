@@ -5,11 +5,11 @@
   "title_en": "The Maze Runner",
   "slug": "198663-the-maze-runner",
   "overview": "يستيقظ توماس (ديلان أوبراين) ليجد نفسه داخل مصعد غريب ومصاب بفقدان للذاكرة؛ حيث إنه لا يستطيع تذكر اسمه أو عائلته أو منزله. عندما يتم فتح باب المصعد يجد توماس نفسه محاطًا بمجموعة من الصبية يرحبون به في مكانه الجديد في (جلايد). يجد توماس أن جلايد محاطة بجدران ضخمة من الحجارة، والصبية الذين معه لا يعلمون أيضًا كيف أتوا إلى جلايد؟ ولكنهم يعلمون أن وراء تلك الحجارة متاهة غريبة لا يعلم حلها أي صبي، رغم ذلك يعلم الصبية أنهم إذا حلوا تلك المتاهة سيعودون إلى منازلهم.",
-  "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+  "poster_path": "/mGOxV6zkDTBeeDHeD7JlYzSXbX8.jpg",
   "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
   "release_date": "2014-09-10",
   "vote_average": 7.2,
-  "vote_count": 18082,
+  "vote_count": 18357,
   "genres": [
     {
       "id": 28,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يستيقظ توماس في مصعد غريب، مصاب بفقدان للذاكرة، ويجد نفسه محاطًا بمجموعة من الصبية الذين يرحبون به في مكانه الجديد في جلايد. يكتشف أن جلايد محاطة بجدران ضخمة من الحجارة، والصبية الذين معه لا يعلمون كيف أتوا إلى جلايد، ولكنهم يعلمون أن وراء تلك الحجارة متاهة غريبة لا يعلم حلها أي صبي، رغم ذلك يعلم الصبية أنهم إذا حلوا تلك المتاهة سيعودون إلى منازلهم.",
-    "desc_en": "Thomas wakes up in a strange elevator, suffering from amnesia, and finds himself surrounded by a group of boys who welcome him to his new home in Glade. He discovers that Glade is surrounded by massive stone walls, and the boys with him don't know how they got to Glade, but they know that behind those stone walls lies a mysterious maze that no one has ever solved, and the boys know that if they solve it, they will return to their homes.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في متسابق المتاهة!",
-    "seo_title_ar": "مشاهدة فيلم متسابق المتاهة مترجم اون لاين - توميتو",
-    "keywords": "The Maze Runner, فيلم متسابق المتاهة مترجم, مشاهدة فيلم متسابق المتاهة, مشاهدة متسابق المتاهة 2014, متسابق المتاهة مترجم, توميتو متسابق المتاهة, أحداث متسابق المتاهة بالتفصيل, قصة فيلم متسابق المتاهة",
-    "opinion": "هو فيلم إثارة رائع يملأه الإثارة والغموض، يجعلك تสงب ما وراء جدران جلايد!",
+    "intro": "يحكي فيلم \"متسابق المتاهة\" قصة شاب صغير يعاني من فقدان الذاكرة، حيث يجد نفسه محاطًا بمجموعة من الصبية داخل جدران ضخمة ومتاهة غريبة.",
+    "desc_ar": "يحكي فيلم \"متسابق المتاهة\" قصة شاب صغير يعاني من فقدان الذاكرة، حيث يجد نفسه محاطًا بمجموعة من الصبية داخل جدران ضخمة ومتاهة غريبة. يتعرف الشاب على طريقة حياة الصبية في داخل المتاهة، وتعلمهم على حل المتاهة، ويبدأ في اكتشاف دلائل يقودها إلى الهروب والكشف عن الحقيقة وراء سجنه.",
+    "desc_en": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+    "seo_title_ar": "مشاهدة فيلم متسابق المتاهة مترجم - فيلم حركة غموض خيال علمي إثارة - توميتو",
+    "meta_desc": "شاهد فيلم The Maze Runner مترجم 2014 - فيلم حركة غموض خيال علمي إثارة - متسابق المتاهة - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "يعد فيلم \"متسابق المتاهة\" تجربة مثيرة ومغامرة رائعة، حيث يتعرض المشاهد لحبكة غامضة ومتشابكة.",
+    "opinion_ar": "فيلم \"متسابق المتاهة\" هو تجربة مثيرة ومغامرة رائعة، حيث يتعرض المشاهد لحبكة غامضة ومتشابكة.",
+    "opinion_en": "The Maze Runner is an exciting and thrilling experience, where the audience is exposed to a complex and intricate plot.",
     "faq": [
       {
-        "q": "ما هو متسابق المتاهة؟",
-        "a": "هو فيلم إثارة رائع يملأه الإثارة والغموض، يجعلك تสงب ما وراء جدران جلايد!"
+        "q": "ما هو عنوان الفيلم باللغة العربية؟",
+        "a": "عنوان الفيلم هو \"متسابق المتاهة\".",
+        "q_en": "What is the Arabic title of the movie?",
+        "a_en": "The Arabic title of the movie is \" \"."
       },
       {
-        "q": "ما هو جلايد؟",
-        "a": "هو مكان يوجد فيه مجموعة من الصبية الذين ينتظرون حل المتاهة والعودة إلى منازلهم."
+        "q": "ما هي نوعية الفيلم؟",
+        "a": "الفيلم من نوع حركة غموض خيال علمي إثارة.",
+        "q_en": "What type of movie is it?",
+        "a_en": "The movie is of Action, Mystery, Science Fiction, and Thriller type."
       },
       {
-        "q": "ما هو المتاهة؟",
-        "a": "هو لغز غريب لا يعلم حلها أي صبي، ولكن الصبية يعلمون أنهم إذا حلوا تلك المتاهة سيعودون إلى منازلهم."
+        "q": "ما هو تاريخ إصدار الفيلم؟",
+        "a": "تم إصدار الفيلم في عام 2014.",
+        "q_en": "What is the release date of the movie?",
+        "a_en": "The movie was released in 2014."
       }
-    ]
+    ],
+    "keywords": "فيلم حركة غموض خيال علمي إثارة, متسابق المتاهة, فيلم 2014, فيلم مترجم, فيلم إثارة, فيلم مغامرة, فيلم خيال علمي, مشاهدة متسابق المتاهة, The Maze Runner مترجم, تحميل متسابق المتاهة, متسابق المتاهة اون لاين, The Maze Runner, متسابق المتاهة جودة عالية, فيلم متسابق المتاهة, The Maze Runner HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "113 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dylan O'Brien Kaya Scodelario Thomas Brodie-Sangster Ki Hong Lee Will Poulter"
+  "cast": "Dylan O'Brien Kaya Scodelario Thomas Brodie-Sangster Ki Hong Lee Will Poulter Aml Ameen Patricia Clarkson Blake Cooper"
 }
