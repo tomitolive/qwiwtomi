@@ -8,8 +8,8 @@
   "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
   "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
   "release_date": "2026-06-20",
-  "vote_average": 7.0,
-  "vote_count": 17,
+  "vote_average": 8.3,
+  "vote_count": 790,
   "genres": [
     {
       "id": 10749,
@@ -18,26 +18,36 @@
     {
       "id": 35,
       "name": "كوميديا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم رسائل صوتية لإيزابيل (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "رسائل صوتية لإيزابيل، فيلم رومانسي كوميدي، تدور أحداثه حول امرأة شابة ترسل رسائل صوتية مضحكة وصادقة إلى شقيقتها المتوفاة، دون أن تدرك أن تلك الرسائل تصل إلى شخص غريب، والذي يقع في حبها تدريجيًا من خلال تلك الرسائل. فيلم ممتع ومؤثر يجمع بين الرومانسية والكوميديا.",
-    "desc_en": "In \"Voicemails for Isabelle\", a young woman's funny and honest voicemails to her late sister are unknowingly sent to a stranger, who starts to fall in love with her through these messages. A heartwarming and comedic film that explores love and connection.",
-    "seo_title_ar": "مشاهدة فيلم رسائل صوتية لإيزابيل مترجم - توميتو",
-    "meta_desc": "مشاهدة رسائل صوتية لإيزابيل مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد رسائل صوتية لإيزابيل الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "رسائل صوتية لإيزابيل فيلم رومانسي كوميدي رائع، يجمع بين القصة المؤثرة واللحظات المضحكة. أداء مميز ومؤثر من الممثلين.",
-    "opinion_en": "Voicemails for Isabelle is a heartwarming romantic comedy with a unique twist. The film's charm lies in its ability to blend humor and emotion.",
+    "intro": "في عالم مليء بالرسائل الصوتية والمشاعر الحزينة، يأتي هذا العمل الفني ليناقش قضايا الحب والخسارة في حياة امرأة شابة.",
+    "desc_ar": "يحكي هذا العمل قصة امرأة شابة تتبعث رسائل صوتية مضحكة وصريحة إلى شقيقتها الراحلة دون علمها بأن تلك الرسائل تصل إلى شخص غريب يقع شيئًا فشيئًا في حبها عن بُعد. وعندما يكتشف الغريب هذه الرسائل، يجد نفسه متأثرًا جدًا بالشخصية التي لم يره أبدًا، مما يؤدي إلى ظهور مشاعر حب في قلبه. وفي نفس الوقت، يبقى الغريب غير متعرف عليه من قبل امرأة الشابّة، مما يزيد من تشويق القصة.",
+    "desc_en": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar. As the stranger discovers these voicemails, he finds himself deeply affected by the personality of the woman he's never met, leading to the emergence of romantic feelings in his heart. Meanwhile, the stranger remains unknown to the young woman, adding to the suspense of the story.",
+    "seo_title_ar": "مشاهدة فيلم رسائل صوتية لإيزابيل مترجم - Voicemails Isabelle 2026 - قصة حب كوميدية",
+    "meta_desc": "شاهد فيلم Voicemails Isabelle 2026 مترجم - رسائل صوتية لإيزابيل - قصة حب مضحكة وصريحة - بدون إعلانات مزعجة - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة اح",
+    "outro": "وهذا العمل الفني هو تجربة مشاهدة مثيرة ومشوقة، يحتوي على أحداث حزينة ومضحكة في آن واحد.",
+    "opinion_ar": "هذا العمل الفني يحتوي على أحداث حزينة ومضحكة في آن واحد، مما يجعله تجربة مشاهدة مثيرة.",
+    "opinion_en": "This film is a beautifully crafted blend of heart-wrenching and hilarious moments, making it a thrilling viewing experience.",
     "faq": [
       {
-        "q": "هل فيلم رسائل صوتية لإيزابيل مبني على قصة حقيقية؟",
-        "a": "لا، فيلم رسائل صوتية لإيزابيل هو عمل خيالي، لكنه يستكشف مواضيع عميقة حول الحب والتواصل.",
-        "q_en": "Is Voicemails for Isabelle based on a true story?",
-        "a_en": "No, Voicemails for Isabelle is a fictional film, but it explores themes of love and connection in a unique way."
+        "q": "ما هو موضوع فيلم رسائل صوتية لإيزابيل؟",
+        "a": "يحكي الفيلم قصة امرأة شابة تتبعث رسائل صوتية مضحكة وصريحة إلى شقيقتها الراحلة دون علمها بأن تلك الرسائل تصل إلى شخص غريب.",
+        "q_en": "What is the subject of the film Voicemails for Isabelle?",
+        "a_en": "The film tells the story of a young woman who sends hilariously confessional voicemails to her late sister, unaware that they are being redirected to a stranger."
+      },
+      {
+        "q": "هل فيلم رسائل صوتية لإيزابيل يحتوي على عناصر كوميدية؟",
+        "a": "نعم، الفيلم يحتوي على عناصر كوميدية وأحداث مضحكة.",
+        "q_en": "Does the film Voicemails for Isabelle contain comedic elements?",
+        "a_en": "Yes, the film contains comedic elements and hilarious moments."
       }
     ],
-    "keywords": "رسائل صوتية لإيزابيل, Voicemails Isabelle, فيلم رومانسي, كوميديا, حب, تواصل, رسائل صوتية, شقيقة, غريب"
+    "keywords": "رسائل صوتية لإيزابيل, فيلم رسائل صوتية لإيزابيل, قصة حب كوميدية, دراما, رومنسية, كوميديا, 2026, مشاهدة رسائل صوتية لإيزابيل, Voicemails Isabelle مترجم, تحميل رسائل صوتية لإيزابيل, رسائل صوتية لإيزابيل اون لاين, Voicemails Isabelle, رسائل صوتية لإيزابيل جودة عالية, Voicemails Isabelle HD, رسائل صوتية لإيزابيل HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -45,5 +55,5 @@
   "duration": "119 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Zoey Deutch Nick Robinson Harry Shum Jr. Leah McKendrick Ciara Bravo Toby Sandeman Nick Offerman Lukas Gage"
+  "cast": "Zoey Deutch Nick Robinson Ciara Bravo Nick Offerman Leah McKendrick Harry Shum Jr. Lukas Gage Toby Sandeman"
 }

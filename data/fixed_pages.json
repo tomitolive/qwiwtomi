@@ -4559,8 +4559,134 @@
       "file": "1628071.json",
       "title": "2",
       "fixed_at": "2026-08-18T03:30:06.958451"
+    },
+    {
+      "tmdb_id": "47035",
+      "file": "47035.json",
+      "title": "Uncle Grandpa",
+      "fixed_at": "2026-08-18T03:41:55.344498"
+    },
+    {
+      "tmdb_id": "1382406",
+      "file": "1382406.json",
+      "title": "Striking Rescue",
+      "fixed_at": "2026-08-18T03:42:04.770606"
+    },
+    {
+      "tmdb_id": "10004",
+      "file": "10004.json",
+      "title": "The Yellow Rose",
+      "fixed_at": "2026-08-18T03:42:17.540854"
+    },
+    {
+      "tmdb_id": "22292",
+      "file": "22292.json",
+      "title": "The Ghost and Mrs. Muir",
+      "fixed_at": "2026-08-18T03:42:29.407253"
+    },
+    {
+      "tmdb_id": "94605",
+      "file": "94605.json",
+      "title": "آركين",
+      "fixed_at": "2026-08-18T03:43:01.789135"
+    },
+    {
+      "tmdb_id": "66759",
+      "file": "66759.json",
+      "title": "Planet Wissen",
+      "fixed_at": "2026-08-18T03:43:09.355241"
+    },
+    {
+      "tmdb_id": "367",
+      "file": "367.json",
+      "title": "Klovn",
+      "fixed_at": "2026-08-18T03:43:17.561645"
+    },
+    {
+      "tmdb_id": "78295",
+      "file": "78295.json",
+      "title": "The Rich Son",
+      "fixed_at": "2026-08-18T03:44:32.503644"
+    },
+    {
+      "tmdb_id": "614945",
+      "file": "614945.json",
+      "title": "رسائل صوتية لإيزابيل",
+      "fixed_at": "2026-08-18T03:44:40.201252"
+    },
+    {
+      "tmdb_id": "75219",
+      "file": "75219.json",
+      "title": "9-1-1",
+      "fixed_at": "2026-08-18T03:45:14.199064"
+    },
+    {
+      "tmdb_id": "4614",
+      "file": "4614.json",
+      "title": "إن سي آي أس (خدمة التحقيقات الجنائية البحرية)",
+      "fixed_at": "2026-08-18T03:45:22.166801"
+    },
+    {
+      "tmdb_id": "17287",
+      "file": "17287.json",
+      "title": "Party Down",
+      "fixed_at": "2026-08-18T03:45:31.095684"
+    },
+    {
+      "tmdb_id": "454639",
+      "file": "454639.json",
+      "title": "Masters of the Universe",
+      "fixed_at": "2026-08-18T03:45:37.972909"
+    },
+    {
+      "tmdb_id": "3764",
+      "file": "3764.json",
+      "title": "Hustle",
+      "fixed_at": "2026-08-18T03:45:45.963141"
+    },
+    {
+      "tmdb_id": "331482",
+      "file": "331482.json",
+      "title": "Little Women",
+      "fixed_at": "2026-08-18T03:45:56.089955"
+    },
+    {
+      "tmdb_id": "350",
+      "file": "350.json",
+      "title": "الشيطان يرتدي برادا",
+      "fixed_at": "2026-08-18T03:46:04.404319"
+    },
+    {
+      "tmdb_id": "278624",
+      "file": "278624.json",
+      "title": "Lucky",
+      "fixed_at": "2026-08-18T03:46:12.039475"
+    },
+    {
+      "tmdb_id": "232125",
+      "file": "232125.json",
+      "title": "I Am Groot",
+      "fixed_at": "2026-08-18T03:46:20.138467"
+    },
+    {
+      "tmdb_id": "16118",
+      "file": "16118.json",
+      "title": "Salems Lot",
+      "fixed_at": "2026-08-18T03:46:27.714971"
+    },
+    {
+      "tmdb_id": "15935",
+      "file": "15935.json",
+      "title": "The Blue and the Gray",
+      "fixed_at": "2026-08-18T03:46:35.655708"
+    },
+    {
+      "tmdb_id": "10835",
+      "file": "10835.json",
+      "title": "The Killer",
+      "fixed_at": "2026-08-18T03:46:43.866246"
     }
   ],
-  "last_updated": "2026-08-18T03:30:08.961105",
-  "total_fixed": 760
+  "last_updated": "2026-08-18T03:46:45.868986",
+  "total_fixed": 781
 }

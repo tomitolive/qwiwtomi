@@ -1,17 +1,15 @@
 {
   "id": 4614,
-  "title": "إن سي آي أس (خدمة التحقيقات الجنائية البحرية)",
-  "title_ar": "إن سي آي أس (خدمة التحقيقات الجنائية البحرية)",
+  "title": "إن سي آي أس",
+  "title_ar": "إن سي آي أس",
   "title_en": "NCIS",
   "slug": "4614-ncis",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تتناول حلقات المسلسل قصة العديد من المخاطر التي يتعرض لها العملاء السريين التابعين لمكتب العمليات الخاصة، والذي يتوجب عليهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي.",
-  "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+  "poster_path": "/6WEjJ0AE8MjrZc92k1mrrvrw5Un.jpg",
   "backdrop_path": "/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
   "release_date": "2003-09-23",
   "vote_average": 7.6,
-  "vote_count": 2504,
+  "vote_count": 2547,
   "genres": [
     {
       "id": 80,
@@ -27,35 +25,36 @@
     }
   ],
   "ai_content": {
-    "intro": "ماذا يحدث عندما يتعرض العملاء السريون لمخاطر غير متوقعة während أداء مهامهم؟",
-    "desc_ar": "في عالم العمل السري، يتعرض فريق NCIS لعدة مخاطر، حيث يلزمهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي. من خلال تحقيقاتهم، يتعرفون على أسرار المخاطر التي يتعرض لها العالم، ويحاولون منعها من التكرار.",
-    "seo_title_ar": "مشاهدة فيلم NCIS مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في NCIS - توميتو",
-    "outro": "إذا كنت من محبي المسلسلات البوليسية المثيرة، فلا تفوت فرصة مشاهدة إن سي آي أس.",
-    "opinion": "هو فيلم رائع يلقي بظله على القلوب، حيث يتعرض فريق NCIS لعدة مخاطر، ويحاولون منعها من التكرار.",
+    "intro": "يحكي مسلسل إن سي آي أس قصة العملاء السريين الذين يتحملون مخاطر كبيرة في عملهم.",
+    "desc_ar": "يحكي مسلسل إن سي آي أس قصة العملاء السريين الذين يتحملون مخاطر كبيرة في عملهم. يتناول المسلسل حالات عديدة تتعرض فيها هذه المخاطر، من جرائم قتل وتحريات إلى عمليات إرهابية وسرقة سفن حربية. في كل هذه الحالات، يساهم عملاء مكتب العمليات الخاصة في حماية الأمن القومي وضمان أمن الوحدة.",
+    "desc_en": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position. The team's mission is to uncover the truth behind each case and bring those responsible to justice. With their expertise and training, they work tirelessly to protect the nation and its citizens.",
+    "seo_title_ar": "مشاهدة مسلسل إن سي آي أس مترجم - توميتو",
+    "meta_desc": "إن سي آي أس مسلسل جريمة دراما حركة مغامرة يتبع قصة عملاء مكتب العمليات الخاصة الذين يحققون في جرائم قتل ومخالفات أخرى تتعلق بأفراد البحرية والقوات البحرية.",
+    "outro": "يعد مسلسل إن سي آي أس من بين أفضل المسلسلات في هذا النوع، حيث يجمع بين الجوانب الدرامية والجريمة والحركة والمغامرة بشكل مثالي.",
+    "opinion_ar": "يعتبر مسلسل إن سي آي أس من بين أفضل المسلسلات في هذا النوع، حيث يجمع بين الجوانب الدرامية والجريمة والحركة والمغامرة بشكل مثالي.",
+    "opinion_en": "NCIS is one of the best shows in its genre, combining drama, crime, action, and adventure in a perfect blend.",
     "faq": [
       {
-        "q": "ما هو NCIS؟",
-        "a": "هو فريق من العملاء السريين التابعين لمكتب العمليات الخاصة"
+        "q": "ما هي قصة مسلسل إن سي آي أس؟",
+        "a": "يتناول المسلسل قصة العملاء السريين الذين يتحملون مخاطر كبيرة في عملهم.",
+        "q_en": "What is the story of NCIS?",
+        "a_en": "The show follows the story of special agents who take on high-risk missions."
       },
       {
-        "q": "ما هو هدف فريق NCIS؟",
-        "a": "يهدف فريق NCIS إلى تحقيق العدالة والقضاء على المخاطر التي تهدد الأمن القومي"
-      },
-      {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "هو مسلسل جريمة ودراما وحركة ومغامرة"
+        "q": "من يتحمل مسؤولية حماية الأمن القومي في المسلسل؟",
+        "a": "يعمل عملاء مكتب العمليات الخاصة على حماية الأمن القومي.",
+        "q_en": "Who is responsible for protecting national security in the show?",
+        "a_en": "The agents from the Office of Special Operations work to protect national security."
       }
     ],
-    "keywords": "NCIS, فيلم جريمة مترجم, مشاهدة فيلم دراما, توميتو إن سي آي أس (خدمة التحقيقات الجنائية البحرية), مشاهدة إن سي آي أس (خدمة التحقيقات الجنائية البحرية) 2003, قصة مسلسل إن سي آي أس (خدمة التحقيقات الجنائية البحرية), أحداث إن سي آي أس (خدمة التحقيقات الجنائية البحرية) بالتفصيل, إن سي آي أس (خدمة التحقيقات الجنائية البحرية) مترجم كامل",
-    "desc_en": "In the world of covert operations, the NCIS team faces numerous risks, requiring them to maintain a permanent cover in their work by using fake identities to lure out the lawless and those who pose a significant threat to national security. Through their investigations, they uncover the secrets of the risks that the world faces, and they attempt to prevent them from recurring."
+    "keywords": "إن سي آي أس مسلسل جريمة دراما حركة مغامرة مكتب العمليات الخاصة العملاء السريين الأمن القومي, مشاهدة إن سي آي أس, NCIS مترجم, تحميل إن سي آي أس, إن سي آي أس اون لاين, NCIS, إن سي آي أس جودة عالية, فيلم إن سي آي أس, NCIS HD, إن سي آي أس HD, مسلسل إن سي آي أس, NCIS مشاهدة, إن سي آي أس توب سينما, إن سي آي أس شاهدد, إن سي آي أس توميتو"
   },
   "fixed": true,
-  "first_air_date": "2003-09-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "124 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "كندا",
-  "cast": "Ben Affleck Morgan Freeman James Cromwell Liev Schreiber Bridget Moynahan"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "",
+  "first_air_date": "2003-09-23"
 }

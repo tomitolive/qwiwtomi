@@ -1,17 +1,15 @@
 {
   "id": 232125,
-  "title": "I Am Groot",
-  "title_ar": "I Am Groot",
+  "title": "أنا غروت",
+  "title_ar": "أنا غروت",
   "title_en": "I Am Groot",
   "slug": "232125-i-am-groot",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "لا أحد يستطيع حماية المجرة من هذا الطفل المشاغب! استعدوا، فـ بيبي غروت يتصدر المشهد في مجموعته الخاصة من الحلقات القصيرة، حيث يستعرض أيام نشأته الأولى ومغامراته المليئة بالمشكلات بين النجوم.",
   "poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
   "backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
   "release_date": "2022-08-10",
-  "vote_average": 7,
-  "vote_count": 475,
+  "vote_average": 7.0,
+  "vote_count": 508,
   "genres": [
     {
       "id": 16,
@@ -35,33 +33,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم خيال علمي وفانتازيا، يأتي غروت، النباتات الخارقة التي يمكنها التكلم، والتحكم في الرياح والبرق. في هذه السلسلة، نرى غروت في مغامرات جديدة، حيث يتعامل مع الأصدقاء الجدد، ويحاول أن يفهم العالم المحيط به. ستعلمك هذه السلسلة كيف يمكن للنباتات أن تكون أكثر من مجرد نباتات!",
-    "desc_en": "In a world of science fiction and fantasy, comes Groot, the extraordinary plant that can talk and control the wind and lightning. In this series, we see Groot in new adventures, where he deals with new friends, and tries to understand the world around him. This series will teach you that plants can be more than just plants!",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع غروت النبات في هذه السلسلة!",
-    "seo_title_ar": "مشاهدة فيلم أنا غروت مترجم اون لاين - توميتو",
-    "keywords": "فيلم أنا غروت مترجم, مشاهدة فيلم أنا غروت, رسوم متحركة كوميديا عائلي خيال علمي وفانتازيا أطفال, I Am Groot مترجم كامل, مشاهدة I Am Groot 2022, توميتو I Am Groot, أحداث I Am Groot بالتفصيل, قصة مسلسل I Am Groot",
-    "opinion": "هذه السلسلة هي واحدة من أفضل ما يمكن أن يحدث في عالم رسوم متحركة، حيث يأتي غروت النبات مع مغامراته الجديدة والشخصيات الجديدة، ويحاول أن يفهم العالم المحيط به. ستعلمك هذه السلسلة كيف يمكن للنباتات أن تكون أكثر من مجرد نباتات!",
+    "intro": "يحكي هذا المسلسل قصة طفل مشاغب يدعى بيبي غروت، الذي يجد نفسه وسط مجموعة متنوعة من الأحداث بين النجوم.",
+    "desc_ar": "يحكي هذا المسلسل قصة طفل مشاغب يدعى بيبي غروت، الذي يجد نفسه وسط مجموعة متنوعة من الأحداث بين النجوم، حيث يتعرض للعديد من المغامرات والتحديات. يتصدر بيبي غروت المشهد في هذه المجموعة من الحلقات القصيرة، التي تناقش حياته الأولى ومشاكله مع الأطفال الآخرين في المجرة. في هذه القصة، نجد أن بيبي غروت يظهر كشخصية مشاغبة ومغامرة، يتغلب على كل الصعاب ويتحول إلى شخصيات متعددة. يظهر هذا المسلسل كوميدياً عائليّة، مليئة بالأحداث المثيرة والمليئة بالمشكلات بين النجوم.",
+    "desc_en": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars. In this story, we find Baby Groot as a mischievous and adventurous character, overcoming all obstacles and transforming into multiple personas. This show is a family-friendly comedy, full of exciting events and challenges between the stars.",
+    "seo_title_ar": "مشاهدة مسلسل أنا غروت مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل أنا غروت الجديد من إنتاج عام 2022، ومليء بالكوميديا والأحداث المثيرة بين النجوم. استمتع بمشاهدة بيبي غروت في حياته الأولى ومغامراته مع الأطفال ا",
+    "outro": "ينتهي هذا المسلسل بآثار جيدة، حيث يظهر بيبي غروت كشخصية مشاغبة ومغامرة، يتغلب على كل الصعاب ويتحول إلى شخصيات متعددة.",
+    "opinion_ar": "أنا مستمتع بمتعة مشاهدة مسلسل أنا غروت، حيث يظهر بيبي غروت كشخصية مشاغبة ومغامرة، يتغلب على كل الصعاب. يعد هذا المسلسل كوميدياً عائليّة، مليئة بالأحداث المثيرة والمليئة بالمشكلات بين النجوم.",
+    "opinion_en": "I thoroughly enjoy watching I Am Groot, where Baby Groot appears as a mischievous and adventurous character, overcoming all obstacles. This show is a family-friendly comedy, full of exciting events and challenges between the stars.",
     "faq": [
       {
-        "q": "ما هو غروت؟",
-        "a": "غروت هو النباتات الخارقة التي يمكنها التكلم والتحكم في الرياح والبرق."
-      },
-      {
-        "q": "ما هو نوع هذه السلسلة؟",
-        "a": "هذه السلسلة هي سلسلة رسوم متحركة كوميديا عائلي خيال علمي وفانتازيا أطفال."
-      },
-      {
-        "q": "ما هو أفضل ما يمكن أن يحدث في هذه السلسلة؟",
-        "a": "أفضل ما يمكن أن يحدث في هذه السلسلة هو المغامرات الجديدة والشخصيات الجديدة التي ستعلمك كيف يمكن للنباتات أن تكون أكثر من مجرد نباتات!"
+        "q": "ما هو مسلسل أنا غروت؟",
+        "a": "هو مسلسل رسوم متحركة كوميدي عائلي خيال علمي وفانتازيا أطفال من إنتاج عام 2022.",
+        "q_en": "What is I Am Groot?",
+        "a_en": "It is a family-friendly animated science fiction and fantasy comedy series for children from 2022."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة، كوميديا، عائلي، خيال علمي وفانتازيا، أطفال، أنا غروت، مسلسل، 2022, مشاهدة أنا غروت, Am Groot مترجم, تحميل أنا غروت, أنا غروت اون لاين, Am Groot, أنا غروت جودة عالية, فيلم أنا غروت, Am Groot HD, أنا غروت HD, مسلسل أنا غروت, Am Groot مشاهدة, أنا غروت توب سينما, أنا غروت شاهدد, أنا غروت توميتو"
   },
   "fixed": true,
-  "first_air_date": "2022-08-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Vin Diesel",
+  "first_air_date": "2022-08-10"
 }

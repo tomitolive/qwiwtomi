@@ -4,12 +4,12 @@
   "title_ar": "Little Women",
   "title_en": "Little Women",
   "slug": "331482-little-women",
-  "overview": "",
-  "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+  "overview": "يحكي نساء صغيرات قصة شوارع أميركا بعد الحرب الأهلية، حيث تتعرض الأخت الصغيرة لضغوط الحياة اليومية بينما تحلم بمستقبل أفضل. يظهر هذا العمل قوة الروح والثقة بالنفس في وجه التحديات، خاصةً في ظل وجود أخوات وأمهات مؤثرات. تُظهر نساء صغيرات أن الحياة لا تتوقف عن التقدم، حتى في ظل الصعوبات. في هذا العمل، تتعلم الأخت الصغيرة أن تتعامل مع الألم وتحافظ على ثقتها بنفسها. تحد الأخت الأكبر رغبتها في مستقبل أفضل، وتحاول أن تحقق حلمها في الوقت نفسه.",
+  "poster_path": "/7nmQYdYel4daUky6Bn9j3rvxgql.jpg",
   "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
   "release_date": "2019-12-25",
-  "vote_average": 7.9,
-  "vote_count": 6829,
+  "vote_average": 7.8,
+  "vote_count": 6950,
   "genres": [
     {
       "id": 18,
@@ -21,18 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرخاء والقوة، تتعاون الأربع بنات لويل على تحقيق حلمهن وتحقيق رغباتهن. لكن، ما يحدث عندما يتعارض الهدف مع الأخلاق؟",
-    "desc_en": "In a world of wealth and power, the four March sisters - Jo, Beth, Amy, and Meg - work together to achieve their dreams and desires. But, what happens when the goal clashes with morals?",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في فيلم دراما رومنسية ليتل وومن)",
-    "seo_title_ar": "مشاهدة فيلم ليتل وومن مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما رومنسية, مشاهدة فيلم ليتل وومن, مشاهدة Little Women 2019, أحداث Little Women بالتفصيل, قصة فيلم Little Women, Little Women مترجم, توميتو Little Women",
-    "opinion": "فيلم ليتل وومن هو فيلم دراما رومنسية رائع، يحتوي على أحداث إثارة وقلق، ويحكي قصة الأربع بنات اللواتي يتعاونن على تحقيق حلمهن.",
+    "intro": "في ظل الحرب الأهلية في أميركا، تتعرض أربع أخوات للضغوطات اليومية في حياتها. لكن بينما يتعرضون للصعوبات، يبقون على ثقتهم في النفس.",
+    "desc_ar": "يحكي نساء صغيرات قصة شوارع أميركا بعد الحرب الأهلية، حيث تتعرض الأخت الصغيرة لضغوط الحياة اليومية بينما تحلم بمستقبل أفضل. يظهر هذا العمل قوة الروح والثقة بالنفس في وجه التحديات، خاصةً في ظل وجود أخوات وأمهات مؤثرات. تُظهر نساء صغيرات أن الحياة لا تتوقف عن التقدم، حتى في ظل الصعوبات. في هذا العمل، تتعلم الأخت الصغيرة أن تتعامل مع الألم وتحافظ على ثقتها بنفسها. تحد الأخت الأكبر رغبتها في مستقبل أفضل، وتحاول أن تحقق حلمها في الوقت نفسه.",
+    "desc_en": "Four sisters come of age in America in the aftermath of the Civil War. As the youngest sister faces the daily struggles, she dreams of a better future. This work shows the power of the spirit and self-confidence in the face of challenges, especially with the presence of influential sisters and mothers. Little Women demonstrates that life does not stop progressing, even in the face of difficulties. In this work, the younger sister learns to cope with pain and maintain her self-confidence.",
+    "seo_title_ar": "مشاهدة فيلم نساء صغيرات مترجم - Little Women 2019 - توميتو",
+    "meta_desc": "نساء صغيرات, فيلم درامي رومنسي من عام 2019, يروي قصة أربع أخوات في أميركا بعد الحرب الأهلية. استمتع بمشاهدة نساء صغيرات مترجمة بجودة عالية وترجمة احترافية",
+    "outro": "نساء صغيرات هو فيلم درامي قوي يظهر قوة الروح والثقة بالنفس في وجه التحديات. يعرض هذا العمل تصورات جيدة عن الحياة وتعلم الأخت الصغيرة أن تتعامل مع الألم وتحافظ على ثقتها بنفسها.",
+    "opinion_ar": "نساء صغيرات هو فيلم درامي قوي يظهر قوة الروح والثقة بالنفس في وجه التحديات. يعرض هذا العمل تصورات جيدة عن الحياة وتعلم الأخت الصغيرة أن تتعامل مع الألم وتحافظ على ثقتها بنفسها.",
+    "opinion_en": "Little Women is a strong dramatic film that shows the power of the spirit and self-confidence in the face of challenges. This work presents good ideas about life and teaches the younger sister to cope with pain and maintain her self-confidence.",
     "faq": [
       {
-        "q": "ما هو فيلم ليتل وومن؟",
-        "a": "فيلم دراما رومنسية رائع يحتوي على أحداث إثارة وقلق"
+        "q": "ما هو موضوع فيلم نساء صغيرات؟",
+        "a": "يحكي نساء صغيرات قصة أربع أخوات في أميركا بعد الحرب الأهلية.",
+        "q_en": "What is the subject of the film Little Women?",
+        "a_en": "The film Little Women tells the story of four sisters in America after the Civil War."
+      },
+      {
+        "q": "ما هو نوع الفيلم نساء صغيرات؟",
+        "a": "فيلم درامي رومنسي.",
+        "q_en": "What type of film is Little Women?",
+        "a_en": "A dramatic romantic film."
       }
-    ]
+    ],
+    "keywords": "نساء صغيرات, فيلم, دراما, رومنسي, أميركا, الحرب الأهلية, قصة, أخوات, فيلم درامي, فيلم رومنسي, نساء صغيرات مسلسل, فيلم نساء صغيرات, نساء صغيرات كوري, كرتون نساء صغيرات, نساء صغيرات كتاب, نساء صغيرات مسلسل كوري, نساء صغيرات مترجم, نساء صغيرات الحلقة 1"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -40,5 +51,5 @@
   "duration": "135 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Saoirse Ronan Emma Watson Florence Pugh Eliza Scanlen Laura Dern"
+  "cast": "Saoirse Ronan Emma Watson Florence Pugh Eliza Scanlen Laura Dern Timothée Chalamet Tracy Letts Bob Odenkirk"
 }

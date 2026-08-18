@@ -4,12 +4,12 @@
   "title_ar": "Striking Rescue",
   "title_en": "Striking Rescue",
   "slug": "1382406-striking-rescue",
-  "overview": "",
-  "poster_path": "/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg",
+  "overview": "يحكي فيلم \"ضرب الإنقاذ\" قصة بطل معارك مألوفة، يجد نفسه محاصراً بين الغضب والعدالة بعد ما حدث للعائلتين التي أحبها. يصبح هدف كل محاولاته للانتقام هو العثور على من ألقوا بذريعة القتل على زوجته والابنة الصغيرة. ويتسلل هذا الفيلم إلى أعماق البشرية، يلفت انتباه المشاهدين بقصة مفعمة بالحماس والغضب.",
+  "poster_path": "/npLvwol2oZGLc0VeYYxJ72KXYwY.jpg",
   "backdrop_path": "/yth78N88nwokepnOe5atwPGfTL1.jpg",
   "release_date": "2024-12-05",
-  "vote_average": 7.4,
-  "vote_count": 165,
+  "vote_average": 7.5,
+  "vote_count": 177,
   "genres": [
     {
       "id": 28,
@@ -22,37 +22,42 @@
     {
       "id": 53,
       "name": "إثارة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لرحلة مليئة بالإثارة والانتقام؟",
-    "desc_ar": "في عالم المخاطر، يلزم أن يكون لديك القوة والشجاعة لنجدك من الموت. في فيلم «الإنقاذ»، نرى كيف يلزم رجل واحد أن يخاطر حياته لإنقاذ رجل آخر من الموت. قصة الإثارة والحركة والجريمة تتميز ببطلها القوي والشجاع، الذي يلزم أن يخاطر كل شيء لإنقاذ رجل آخر من الموت.",
-    "seo_title_ar": "مشاهدة فيلم الإنقاذ مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الإنقاذ - توميتو",
-    "outro": "إذا كنت تبحث عن فيلم يجمع بين الإثارة والحركة، فلا تفوت \"ضربة الإنقاذ\". استعد لرحلة مليئة بالتشويق والانتقام، حيث ستشعر بكل ضربة وكل لحظة من هذا الفيلم المثير.",
-    "opinion": "فيلم الإنقاذ هو فيلم الإثارة والحركة والجريمة الذي يلزم أن يخاطر كل شيء لإنقاذ رجل آخر من الموت. بطلنا القوي والشجاع هو من يخاطر حياته لإنقاذ رجل آخر من الموت.",
+    "intro": "في عالم مليء بالغضب والعدالة، يجد بطلنا نفسه محاصراً بين الحق والقانون. يبدأ رحلته نحو العدالة بطرق لا تُقاوم.",
+    "desc_ar": "يحكي فيلم \"ضرب الإنقاذ\" قصة بطل معارك مألوفة، يجد نفسه محاصراً بين الغضب والعدالة بعد ما حدث للعائلتين التي أحبها. يصبح هدف كل محاولاته للانتقام هو العثور على من ألقوا بذريعة القتل على زوجته والابنة الصغيرة. ويتسلل هذا الفيلم إلى أعماق البشرية، يلفت انتباه المشاهدين بقصة مفعمة بالحماس والغضب.",
+    "desc_en": "Striking Rescue is a gripping tale of revenge, as a Muay Thai expert's life is turned upside down after the brutal murder of his wife and daughter. His sole mission is to track down the perpetrators and bring them to justice, no matter the cost. This film delves deep into the human psyche, captivating audiences with a story of unrelenting passion and anger.",
+    "seo_title_ar": "مشاهدة فيلم ضرب الإنقاذ مترجم 2024 - دراما حركة جريمة إثارة",
+    "meta_desc": "شاهد فيلم ضرب الإنقاذ 2024 مترجم جودة عالية، دراما حركة جريمة إثارة يثير المشاعر، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "يُغيّر فيلم \"ضرب الإنقاذ\" من خلال قصة بطلته، يُظهر قوة الغضب والعدالة في أعماق البشرية.",
+    "opinion_ar": "فيلم \"ضرب الإنقاذ\" هو تجربة مشاهدة فريدة، يُظهر بطلته قوة وغضبًا لا يُقاوم. يهيأ المشاهد ليكون جزءًا من حكاية معقدة ومليئة بالحساسية.",
+    "opinion_en": "Striking Rescue is a must-watch, offering a unique viewing experience that showcases its protagonist's unyielding strength and unrelenting passion.",
     "faq": [
       {
-        "q": "ما هو فيلم الإنقاذ؟",
-        "a": "فيلم الإنقاذ هو فيلم الإثارة والحركة والجريمة الذي يلزم أن يخاطر كل شيء لإنقاذ رجل آخر من الموت."
+        "q": "ما هو الفيلم \"ضرب الإنقاذ\"؟",
+        "a": "يحكي فيلم \"ضرب الإنقاذ\" قصة بطل معارك مألوفة، يجد نفسه محاصراً بين الغضب والعدالة بعد ما حدث للعائلتين التي أحبها.",
+        "q_en": "What is the movie Striking Rescue about?",
+        "a_en": "The movie Striking Rescue is a tale of a Muay Thai expert's life turned upside down after the brutal murder of his wife and daughter."
       },
       {
-        "q": "ما هو نوع فيلم الإنقاذ؟",
-        "a": "فيلم الإنقاذ هو فيلم حركة وجريمة وإثارة"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم الإنقاذ؟",
-        "a": "أفضل ما في فيلم الإنقاذ هو بطلنا القوي والشجاع، الذي يلزم أن يخاطر كل شيء لإنقاذ رجل آخر من الموت"
+        "q": "ما هي الفئة التي ينتمي إليها فيلم \"ضرب الإنقاذ\"؟",
+        "a": "ينتمي فيلم \"ضرب الإنقاذ\" إلى فئات الدراما والحركة والجريمة والإثارة.",
+        "q_en": "What genre does the movie Striking Rescue belong to?",
+        "a_en": "The movie Striking Rescue belongs to the drama, action, crime, and thriller genres."
       }
     ],
-    "keywords": "فيلم الإنقاذ مترجم, مشاهدة فيلم الإنقاذ, توميتو Striking Rescue, أحداث Striking Rescue بالتفصيل, Striking Rescue مترجم, مشاهدة Striking Rescue 2024, قصة فيلم Striking Rescue",
-    "desc_en": "In a world of danger, you need to have the power and courage to save yourself from death. In the film 'Striking Rescue', we see how one man must risk his life to save another from death. The thrilling, action-packed, and crime story is distinguished by its strong and courageous hero, who must risk everything to save another from death."
+    "keywords": "فيلم ضرب الإنقاذ, دراما, حركة, جريمة, إثارة, 2024, مترجم, جودة عالية, مشاهدة ضرب الإنقاذ, Striking Rescue مترجم, تحميل ضرب الإنقاذ, ضرب الإنقاذ اون لاين, Striking Rescue, ضرب الإنقاذ جودة عالية, Striking Rescue online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "111 دقيقة",
-  "language": "الصينية",
+  "language": "الإنجليزية",
   "country": "الصين",
-  "cast": "Tony Jaa Eason Hung Chun-Ga Xing Yu Philip Keung Ho-Man Chen Duoyi"
+  "cast": "Tony Jaa Eason Hung Chun-Ga Xing Yu Philip Keung Ho-Man Chen Duoyi Peng Bo Yu Bolin Mao Fan"
 }

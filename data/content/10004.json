@@ -4,9 +4,7 @@
   "title_ar": "The Yellow Rose",
   "title_en": "The Yellow Rose",
   "slug": "10004-the-yellow-rose",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل الوردة الصفراء قصة عائلة تشامبيون التي تعيش في مطبخ تكساس، وتتعامل مع الخيوط المترابطة بين أفراد العائلة. يُظهر المسلسل تأثيرات الأحداث على العائلة، ويُظهر كيفية تحدي العائلة لأمورها ومواقفها المختلفة. تُستخدم في هذا المسلسل شخصيات تمثيلية مثل سام إليوت وديفيد سول وسيبيل شيبارد، ويُظهر كيفية تأثير الشخصيات على العائلة. يُظهر المسلسل كيفية إدارة العائلة لأمورها ومواقفها المختلفة.",
   "poster_path": "/wXbXJ9rR1ifGRyxRECZqb0w6wcj.jpg",
   "backdrop_path": "/mzBg1NTKY0eo26qrRpdDUeIkNPK.jpg",
   "release_date": "1983-10-02",
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الملاكمة، يجد رجل الأعمال جيمس ريد، نفسه مرتبطاً بالمرأة المالكة للاسرة، لورا، التي تملك شركة إنتاج الأفلام. يتعامل جيمس مع لورا فيما يكتشف أن هذه المرأة ليست ما تبدو عليه، بل هي امرأة قوية وذات خبرة في عالم الملاكمة. فيما يتعامل جيمس مع لورا، يكتشف أن هناك العديد من الأسرار والسرائر التي تمنعهم من العثور على الحقيقة.",
-    "desc_en": "In the world of boxing, businessman James Reed finds himself connected to the wealthy owner of the film production company, Laura, who is not what she seems. James deals with Laura, discovering that she is a strong and experienced woman in the world of boxing. As James deals with Laura, he discovers that there are many secrets and lies that prevent them from finding the truth.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الملاكمة والرومانسية! مشاهدة فيلم الأبرا صابونية مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الوردة الصفراء مترجم اون لاين - توميتو",
-    "keywords": "فيلم الأبرا صابونية مترجم, مشاهدة فيلم الأبرا صابونية, The Yellow Rose مترجم كامل, توميتو The Yellow Rose, أحداث The Yellow Rose بالتفصيل, قصة مسلسل The Yellow Rose, مشاهدة The Yellow Rose 1983",
-    "opinion": "فيلم الوردة الصفراء هو فيلم رومانسي وملحون، يلقي الضوء على عالم الملاكمة والرومانسية. الفيلم يحتوي على العديد من الأسرار والسرائر التي تمنعهم من العثور على الحقيقة.",
+    "intro": "يتوافق مسلسل الوردة الصفراء مع توقعات المشاهدين، ويتضمن شخصيات تمثيلية رائعة مثل سام إليوت وديفيد سول وسيبيل شيبارد.",
+    "desc_ar": "يحكي مسلسل الوردة الصفراء قصة عائلة تشامبيون التي تعيش في مطبخ تكساس، وتتعامل مع الخيوط المترابطة بين أفراد العائلة. يُظهر المسلسل تأثيرات الأحداث على العائلة، ويُظهر كيفية تحدي العائلة لأمورها ومواقفها المختلفة. تُستخدم في هذا المسلسل شخصيات تمثيلية مثل سام إليوت وديفيد سول وسيبيل شيبارد، ويُظهر كيفية تأثير الشخصيات على العائلة. يُظهر المسلسل كيفية إدارة العائلة لأمورها ومواقفها المختلفة.",
+    "desc_en": "The Yellow Rose is an American television series that aired on the NBC network during the 1983-1984 season. The series is inspired by the soap opera Dallas and follows the Champion family as they navigate the complexities of their lives in Texas. The show features a talented cast, including Sam Elliott, David Soul, Cybill Shepherd, and Jane Russell, and explores the relationships and conflicts within the family. The series was canceled after one season, but it has since been rerun on NBC and remains a nostalgic favorite.",
+    "seo_title_ar": "مشاهدة الوردة الصفراء مسلسل درامي مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الوردة الصفراء - مسلسل درامي عن عائلة تشامبيون في تكساس، مع تمثيل سام إليوت وديفيد سول وسيبيل شيبارد. استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "يُظهر المسلسل كيفية إدارة العائلة لأمورها ومواقفها المختلفة، ويُظهر تأثيرات الأحداث على العائلة.",
+    "opinion_ar": "يتوافق مسلسل الوردة الصفراء مع توقعات المشاهدين، ويتضمن شخصيات تمثيلية رائعة مثل سام إليوت وديفيد سول وسيبيل شيبارد. يُظهر المسلسل كيفية إدارة العائلة لأمورها ومواقفها المختلفة، ويُظهر تأثيرات الأحداث على العائلة.",
+    "opinion_en": "The Yellow Rose is a classic American television series that still holds up today. With its talented cast, engaging storylines, and nostalgic value, it's a must-watch for fans of the genre. The show's portrayal of the Champion family and their struggles is relatable and authentic, making it a compelling watch.",
     "faq": [
       {
-        "q": "ما هو فيلم الوردة الصفراء؟",
-        "a": "فيلم رومانسي وملحون يلقي الضوء على عالم الملاكمة والرومانسية."
+        "q": "ما هو تاريخ إنتاج مسلسل الوردة الصفراء؟",
+        "a": "تم إنتاج مسلسل الوردة الصفراء في عام 1983.",
+        "q_en": "When was the TV series The Yellow Rose produced?",
+        "a_en": "The TV series The Yellow Rose was produced in 1983."
       },
       {
-        "q": "ما هو نوع فيلم الوردة الصفراء؟",
-        "a": "فيلم دراما"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم الوردة الصفراء؟",
-        "a": "الحكاية القوية والرومانسية والملحونة"
+        "q": "كم عدد حلقات مسلسل الوردة الصفراء؟",
+        "a": "يحتوي مسلسل الوردة الصفراء على 22 حلقة.",
+        "q_en": "How many episodes does the TV series The Yellow Rose have?",
+        "a_en": "The TV series The Yellow Rose has 22 episodes."
       }
-    ]
+    ],
+    "keywords": "الوردة الصفراء, مسلسل درامي, أوبرا صابونية, دراما, سام إليوت, ديفيد سول, سيبيل شيبارد, تكساس, عائلة تشامبيون, مسلسل أمريكي, مشاهدة الوردة الصفراء, The Yellow Rose مترجم, تحميل الوردة الصفراء, الوردة الصفراء اون لاين, The Yellow Rose"
   },
   "fixed": true,
-  "first_air_date": "1983-10-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "131 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Skerritt Steven Weber Annabeth Gish Charles Durning Matt Frewer"
+  "cast": "Noah Beery Jr. Edward Albert David Soul Ken Curtis Chuck Connors Cybill Shepherd Steve Sandor Susan Anspach",
+  "first_air_date": "1983-10-02"
 }

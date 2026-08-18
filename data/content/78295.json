@@ -4,13 +4,11 @@
   "title_ar": "The Rich Son",
   "title_en": "The Rich Son",
   "slug": "78295-the-rich-son",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل الابن الغني قصة رجل غني يتعرض لبعض التحديات بعد وفاة والده، ويتعهد بتمويل الدين المتراكم من أجل إحياء سمعته. ومع ذلك، يجد أن الأمر أسهل من المعتاد. ويتعاون معه الفتاة المبتهجة كيم يونغ ها، التي تلاقي شخصيته المترفة وتصفيح حياته بحبها وترحيبها، مما يُعطي له الدعم في أوقات العجز.",
   "poster_path": "/bCLdxexEuASy5mKjTRRi0MeKERh.jpg",
   "backdrop_path": "/riYsrkmzYy7Ki3hXpnVczz1mypo.jpg",
   "release_date": "2018-03-25",
-  "vote_average": 8,
+  "vote_average": 8.0,
   "vote_count": 4,
   "genres": [
     {
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذه الدراما العائلي، نرى كيف يتعامل الابن الثري مع مشاكله الشخصية والاجتماعية، مما يخلق صراع داخلي بينه وبين عائلته. سوف نرى كيف يتعامل مع مشاكله في هذه الدراما العائلي، والتي ستعرض لنا حكايات رائعة عن العائلات والصداقات والوفاء.",
-    "desc_en": "In this family drama, we see how the rich son deals with his personal and social problems, creating an internal conflict between him and his family. We will see how he handles his problems in this family drama, which will showcase great stories about families, friendships, and loyalty.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراما العائلي «الابن الثري» - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الابن الثري مترجم اون لاين - توميتو",
-    "keywords": "فيلم الابن الثري مترجم, مشاهدة فيلم الابن الثري, مشاهدة The Rich Son 2018, توميتو The Rich Son, قصة مسلسل The Rich Son, أحداث The Rich Son بالتفصيل, The Rich Son مترجم كامل",
-    "opinion": "هذه الدراما العائلي رائعة، حيث نرى كيف يتعامل الابن الثري مع مشاكله الشخصية والاجتماعية، مما يخلق صراع داخلي بينه وبين عائلته. سوف نرى كيف يتعامل مع مشاكله في هذه الدراما العائلي، والتي ستعرض لنا حكايات رائعة عن العائلات والصداقات والوفاء.",
+    "intro": "يتعرض رجل غني لبعض التحديات بعد وفاة والده، ويتعهد بتمويل الدين المتراكم من أجل إحياء سمعته.",
+    "desc_ar": "يحكي مسلسل الابن الغني قصة رجل غني يتعرض لبعض التحديات بعد وفاة والده، ويتعهد بتمويل الدين المتراكم من أجل إحياء سمعته. ومع ذلك، يجد أن الأمر أسهل من المعتاد. ويتعاون معه الفتاة المبتهجة كيم يونغ ها، التي تلاقي شخصيته المترفة وتصفيح حياته بحبها وترحيبها، مما يُعطي له الدعم في أوقات العجز.",
+    "desc_en": "The Rich Son tells the story of a rich man who faces some challenges after his father's death, and vows to pay off the accumulated debt in order to revive his reputation. However, he finds that it's not as easy as he thought. He collaborates with the cheerful girl Kim Young Ha, who meets his reckless personality and gives him love and encouragement, giving him support in times of weakness.",
+    "seo_title_ar": "مشاهدة مسلسل الابن الغني مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الابن الغني مترجم: رجل غني يتعرض لتحديات جديدة بعد وفاة والده واستمرار ديونه، والفتاة المبتهجة كيم يونغ ها تحاول إحياء سمعته مع حبها وتعاونها.",
+    "outro": "يحاول رجل الغني إحياء سمعته مع حب فتاة جديدة، وتعاونها معه في تحقيق أهدافه.",
+    "opinion_ar": "مشاهدة مسلسل الابن الغني كان تجربة رائعة، حيث لاحظت كيف يتغير الشخصية الرئيسية عندما يتعرض لتحديات جديدة.",
+    "opinion_en": "Watching The Rich Son was a great experience, as I noticed how the main character changes when he faces new challenges.",
     "faq": [
       {
-        "q": "ما هو موضوع هذه الدراما العائلي؟",
-        "a": "هذه الدراما العائلي تناول موضوع العائلات والصداقات والوفاء."
+        "q": "ما هو سبب وفاة والد رجل الغني؟",
+        "a": "وفاة والد رجل الغني كانت نتيجة لبعض الأحداث التي وقعت في مسلسله.",
+        "q_en": "Why did the father of the rich man die?",
+        "a_en": "The father of the rich man died due to some events that occurred in the series."
       },
       {
-        "q": "ما هو نوع هذه الدراما؟",
-        "a": "هذه الدراما العائلي نوع من دراما العائلي."
-      },
-      {
-        "q": "ما هو المخرج لهذه الدراما؟",
-        "a": "لم أجد معلومات عن المخرج لهذه الدراما"
+        "q": "كيف يمكننا دعم رجل الغني؟",
+        "a": "يمكننا دعم رجل الغني عن طريق إظهار إعجابنا بمسلسله وتعاوننا معه في تحقيق أهدافه.",
+        "q_en": "How can we support the rich man?",
+        "a_en": "We can support the rich man by showing our appreciation for the series and collaborating with him to achieve his goals."
       }
-    ]
+    ],
+    "keywords": "الابن الغني, مسلسل, رجل غني, كيم يونغ ها, تحديات, ديون, وفاة, مشاهدة الابن الغني, The Rich Son مترجم, تحميل الابن الغني, الابن الغني اون لاين, The Rich Son, الابن الغني جودة عالية, فيلم الابن الغني, The Rich Son HD"
   },
   "fixed": true,
-  "first_air_date": "2018-03-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "35 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Kim Ji-hoon Kim Joo-hyun Lee Kyu-han Hong Soo-hyun Woo Hyeon Lee Seung-yun Kim Min-gue Jeon Soo-kyeong",
+  "first_air_date": "2018-03-25"
 }

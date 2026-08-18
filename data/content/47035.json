@@ -1,17 +1,15 @@
 {
   "id": 47035,
-  "title": "Uncle Grandpa",
-  "title_ar": "Uncle Grandpa",
+  "title": "العم جدو",
+  "title_ar": "العم جدو",
   "title_en": "Uncle Grandpa",
   "slug": "47035-uncle-grandpa",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
-  "poster_path": "/zLVOgigPMsd2hkwmcY5AqNhqgcn.jpg",
+  "overview": "مغامرات العم جدو الذي يسعى لمساعدة كل طفل وبالغ في العالم من خلال قوة الخيال. بفضل عربته المتنقلة الساحرة وتفاؤله الدائم، يكون العم جدو مستعدًا دائمًا لاستقبال اليوم - وكل من يقابله - بعبارته المميزة: \"صباح الخير",
+  "poster_path": "/pQHlzu9CTkMKttngncPI7USkIaq.jpg",
   "backdrop_path": "/cyH8Ni1OSMtBbloEmI9eE69Xi7j.jpg",
   "release_date": "2013-09-02",
-  "vote_average": 4.5,
-  "vote_count": 117,
+  "vote_average": 4.6,
+  "vote_count": 121,
   "genres": [
     {
       "id": 35,
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم خيال رائع، يلتقي خالك الأكبر، وهو رجل غريب الأطوار، مع نجلتهما، بيبي و هانا، في مغامرة مليئة بالفكاهة والتشويق. معاً، они يخترقون عوالم خيالية، ويحولونها إلى عالم واقعي، فيขณะที่ يتعلمون من الأخطاء والsuccesses.",
-    "desc_en": "In a fantastical world, Uncle Grandpa, a peculiar man, meets his grandkids, Baby and Hanna, in a thrilling adventure filled with humor and excitement. Together, they explore imaginative worlds, turning them into real-life experiences, while learning from their mistakes and successes.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع خالك الأكبر في مغامرة كوميديا رسوم متحركة!",
-    "seo_title_ar": "مشاهدة فيلم خالك الأكبر مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميدي رسوم متحركة, مشاهدة فيلم خيال علمي وفانتازيا, خالك الأكبر مترجم, قصة مسلسل Uncle Grandpa, مشاهدة Uncle Grandpa 2013, توميتو Uncle Grandpa, Uncle Grandpa مترجم كامل, أحداث Uncle Grandpa بالتفصيل",
-    "opinion": "هذه المغامرة الكوميديا رسوم متحركة هي واحدة من أفضل الأعمال في مجال التلفزيون، مع أعمالها الفنية الرائعة والقصة الممتعة.",
+    "intro": "يحكي مسلسل العم جدو قصة شخص يُدعى العم جدو، الذي يسعى بكل قوة لمساعدة كل طفل وبالغ في العالم من خلال القوة الخيالية.",
+    "desc_ar": "يحكي مسلسل العم جدو قصة شخص يُدعى العم جدو، الذي يسعى بكل قوة لمساعدة كل طفل وبالغ في العالم من خلال القوة الخيالية. يملك العم جدو عربة مروحية ساحرة تساعده على السفر إلى جميع أنحاء العالم، مما يتيح له التواصل مع الأشخاص من جميع الأعمار. يُعتبر العم جدو شخصية محببة للجميع بسبب تفاؤله الدائم والقوة الخيالية التي يمتلكها. يبدأ كل يوم جديد بهدوء، يقول \"صباح الخير\" لجميع الأشخاص الذين يلتقيهم، ويستعد دائمًا لمواجهة التحديات الجديدة التي قد تطرأ على الطريق.",
+    "desc_en": "The adventures of Uncle Grandpa who is out to help every child and adult in the world through the power of imagination. With his mystical R.V. and eternal optimism, Uncle Grandpa is always ready to greet the day - and everyone he meets - with his signature, \"Good Mornin\".",
+    "seo_title_ar": "مشاهدة مسلسل العم جدو مترجم - توميتو",
+    "meta_desc": "مسلسل كوميدي عائلي رسوم متحركة خيال علمي وفانتازيا، يحكي قصة العم جدو الذي يسعى لمساعدة كل طفل وبالغ في العالم من خلال القوة الخيالية. يستخدم العم جدو عربت",
+    "outro": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، وتعلم مع العم جدو القيم والأفكار التي يسعى لمشاركتها مع الآخرين.",
+    "opinion_ar": "يعتبر مسلسل العم جدو إضافة مثيرة لجميع العائلات، حيث يقدم قصة متعة وترفيهية، وتعليمية في نفس الوقت.",
+    "opinion_en": "Uncle Grandpa is an entertaining addition to all families, offering a story that is fun, educational, and full of imagination.",
     "faq": [
       {
-        "q": "ما هو خالك الأكبر؟",
-        "a": "هو رجل غريب الأطوار يلتقي نجلتهما في مغامرة مليئة بالفكاهة والتشويق."
+        "q": "ما هو اسم المسلسل؟",
+        "a": "العم جدو",
+        "q_en": "What is the title of the show?",
+        "a_en": "Uncle Grandpa"
       },
       {
-        "q": "ما هو نوع خالك الأكبر؟",
-        "a": "هو نوع كوميدي رسوم متحركة خيال علمي وفانتازيا عائلي."
-      },
-      {
-        "q": "ما هو أفضل ما في خالك الأكبر؟",
-        "a": "هو قصة الممتعة والفنية الرائعة والقيم الإducationalة"
+        "q": "ما هي الفئة التي ينتمي إليها المسلسل؟",
+        "a": "كوميديا, رسوم متحركة, خيال علمي وفانتازيا, عائلي",
+        "q_en": "What genre does the show belong to?",
+        "a_en": "Comedy, Animated, Science Fantasy, Family"
       }
-    ]
+    ],
+    "keywords": "العم جدو, مسلسل, كوميديا, رسوم متحركة, خيال علمي وفانتازيا, عائلي, تفاؤل, قوة خيالية, مساعدة الآخرين, كرتون العم جدو, شخصيات العم جدو, مشاهدة العم جدو, Uncle Grandpa مترجم, تحميل العم جدو, العم جدو اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2013-09-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "11 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Peter Browngardt Eric Bauza Kevin Michael Richardson Adam Devine",
+  "first_air_date": "2013-09-02"
 }
