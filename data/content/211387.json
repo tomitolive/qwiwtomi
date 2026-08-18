@@ -4,7 +4,7 @@
   "title_ar": "Marvel One-Shot: Agent Carter",
   "title_en": "Marvel One-Shot: Agent Carter",
   "slug": "211387-marvel-one-shot-agent-carter",
-  "overview": "يحكي هذا العمل قصة المرأة الخارقة بيكي كارت، التي تُدرج في وظيفة مكتبية وتتضايق من رؤسائها الذكور والرفاق الذين يغفلون عن دورها في الوكالة، ويُطلب منها العمل في الليل بعد أن تُرسل إشعارًا بأن القاتل المُكرر زودياك قد تم رؤيته، وتقرر كارت أن تتعامل معه بنفسها.",
+  "overview": "يحكي فيلم Marvel One-Shot: العميل كارتر قصة المراقبة Agent Peggy Carter التي تُفرض عليها مهمة منز في مكتب المراقبة SSR، وتزداد غضبها من رئيسها ورجالها بسبب استخفافهم بالمرأة في العمل. وفي ليلة عمل متأخرة، تتلقى Carter إشعارًا عن تواجد الزاك Zodiac وتصرع إلى العمل لإيقاف الخطر نفسه، ولا تترك أي فرصة للمحافظة على مبدأ الكرامة. وتشهد الفيلم حياة المراقبة Agent Peggy Carter في عالم مليء بالمراقبة والتحقيق، وتواجه العديد من التحديات والصعوبات في سبيل إيقاف الخطر، وتثبت لها نفسها أنه من الأفضل إيقاف الخطر قبل أن يصل إلى خطورة أكبر. وتستعين Carter بمساعدة بعض الأشخاص المخلصين لتحقيق مهمتها وتأتي في النهاية إلى النصر. وتحتضن الفيلم أيضًا العديد من القصص المليئة بالحماس والخفة، وتوضح لنا كيف تتعامل المرأة في عالم المراقبة والتحقيق.",
   "poster_path": "/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
   "backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
   "release_date": "2013-10-04",
@@ -25,29 +25,35 @@
     }
   ],
   "ai_content": {
-    "intro": "يحكي هذا العمل قصة المرأة الخارقة بيكي كارت، التي تُدرج في وظيفة مكتبية وتتضايق من رؤسائها الذكور والرفاق الذين يغفلون عن دورها في الوكالة.",
-    "desc_ar": "يحكي هذا العمل قصة المرأة الخارقة بيكي كارت، التي تُدرج في وظيفة مكتبية وتتضايق من رؤسائها الذكور والرفاق الذين يغفلون عن دورها في الوكالة، ويُطلب منها العمل في الليل بعد أن تُرسل إشعارًا بأن القاتل المُكرر زودياك قد تم رؤيته، وتقرر كارت أن تتعامل معه بنفسها.",
-    "desc_en": "Agent Peggy Carter is relegated to a desk job and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself.",
-    "seo_title_ar": "مشاهدة فيلم Marvel One-Shot: Agent Carter مترجم - توميتو",
-    "meta_desc": "استمتع بمشاهدة فيلم Marvel One-Shot: Agent Carter مترجم، وهو فيلم مغامرة وحركة وخيال علمي من بطولة مارفا سيمونون، يعتبر واحدا من الأفلام المتميزة التي تو",
-    "outro": "يُعتبر هذا العمل من الأفلام المثيرة والمتعة، يجمع بين مغامرة وحركة وخيال علمي في تجربة مشاهدة فريدة.",
-    "opinion_ar": "يُعتبر هذا العمل من الأفلام المثيرة والمتعة، يجمع بين مغامرة وحركة وخيال علمي في تجربة مشاهدة فريدة.",
-    "opinion_en": "This film is an exciting and enjoyable experience, combining adventure, action, and science fiction in a unique viewing experience.",
+    "intro": "يحكي Marvel One-Shot: العميل كارتر قصة المراقبة Agent Peggy Carter التي تُفرض عليها مهمة منزلية في مكتب المراقبة SSR.",
+    "desc_ar": "يحكي فيلم Marvel One-Shot: العميل كارتر قصة المراقبة Agent Peggy Carter التي تُفرض عليها مهمة منز في مكتب المراقبة SSR، وتزداد غضبها من رئيسها ورجالها بسبب استخفافهم بالمرأة في العمل. وفي ليلة عمل متأخرة، تتلقى Carter إشعارًا عن تواجد الزاك Zodiac وتصرع إلى العمل لإيقاف الخطر نفسه، ولا تترك أي فرصة للمحافظة على مبدأ الكرامة. وتشهد الفيلم حياة المراقبة Agent Peggy Carter في عالم مليء بالمراقبة والتحقيق، وتواجه العديد من التحديات والصعوبات في سبيل إيقاف الخطر، وتثبت لها نفسها أنه من الأفضل إيقاف الخطر قبل أن يصل إلى خطورة أكبر. وتستعين Carter بمساعدة بعض الأشخاص المخلصين لتحقيق مهمتها وتأتي في النهاية إلى النصر. وتحتضن الفيلم أيضًا العديد من القصص المليئة بالحماس والخفة، وتوضح لنا كيف تتعامل المرأة في عالم المراقبة والتحقيق.",
+    "desc_en": "Marvel One-Shot: Agent Carter follows the story of Agent Peggy Carter, who is relegated to a desk job at the SSR and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself, leaving no chance for maintaining her dignity. The film showcases Agent Peggy Carter's life in a world full of surveillance and investigation, where she faces many challenges and difficulties in stopping the threat, and proves to herself that it's better to stop the threat before it becomes more critical. Carter relies on the help of some loyal people to achieve her mission and comes out victorious in the end. The film also features many stories full of passion and light, which show us how women deal with the world of surveillance and investigation.",
+    "seo_title_ar": "مشاهدة Marvel One-Shot: العميل كارتر مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة Marvel One-Shot: العميل كارتر مترجم - توميتو, فيلم مغامرة وحركة وخيال علمي من إنتاج 2013, يضم مارفل ونشات قصيرة من نوع فيلم. استمتع بمش",
+    "outro": "وتحقيقًا لمهمتها، تثبت Agent Peggy Carter herself أنها من الأفضل إيقاف الخطر قبل أن يصل إلى خطورة أكبر.",
+    "opinion_ar": "يعد Marvel One-Shot: العميل كارتر فيلمًا روائيًا ممتعًا وملحًا، حيث يركز على قصة المراقبة Agent Peggy Carter التي تُستخدم في مهمة سرية في مكتب المراقبة SSR.",
+    "opinion_en": "Marvel One-Shot: Agent Carter is an entertaining and thrilling film that focuses on the story of Agent Peggy Carter, who is used in a secret mission at the SSR.",
     "faq": [
       {
-        "q": "ما هو اسم بطل هذا العمل؟",
-        "a": "بيكي كارت",
-        "q_en": "What is the name of the main character?",
-        "a_en": "Agent Peggy Carter"
+        "q": "ما هو معنى العميل كارتر؟",
+        "a": "يعني العميل كارتر مراقبًا يعمل في مكتب المراقبة SSR، وهو يعمل على إيقاف الخطر قبل أن يصل إلى خطورة أكبر.",
+        "q_en": "What does Agent Carter mean?",
+        "a_en": "Agent Carter means a spy who works at the SSR and is working to stop the threat before it becomes more critical."
       },
       {
-        "q": "ما هو نوع هذا العمل؟",
-        "a": "فيلم مغامرة وحركة وخيال علمي",
-        "q_en": "What type of film is this?",
-        "a_en": "Adventure, action, and science fiction film"
+        "q": "من هو الزودياك?",
+        "a": "هو هو رئيس العصابة التي تهدد العالم في فيلم Marvel One-Shot: العميل كارتر.",
+        "q_en": "Who is the Zodiac?",
+        "a_en": "The Zodiac is the leader of the gang that threatens the world in the Marvel One-Shot: Agent Carter film."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "هو فيلم مغامرة وحركة وخيال علمي.",
+        "q_en": "What type of film is it?",
+        "a_en": "It's an adventure, action, and science fiction film."
       }
     ],
-    "keywords": "Marvel One-Shot: Agent Carter, Marvel, One-Shot, Agent Carter, Peggy Carter, Marvel One-Shot, Marvel Agent Carter, Marvel One Shot, مشاهدة Marvel One-Shot: Agent Carter, Marvel One-Shot: Agent Carter مترجم, تحميل Marvel One-Shot: Agent Carter, Marvel One-Shot: Agent Carter اون لاين, Marvel One-Shot: Agent Carter جودة عالية, فيلم Marvel One-Shot: Agent Carter, Marvel One-Shot: Agent Carter online"
+    "keywords": "Marvel, One-Shot, العميل كارتر, Agent Carter, مغامرة, حركة, خيال علمي, فيلم, 2013, مشاهدة Marvel One-Shot: العميل كارتر, Marvel One-Shot: Agent Carter مترجم, تحميل Marvel One-Shot: العميل كارتر, Marvel One-Shot: العميل كارتر اون لاين, Marvel One-Shot: Agent Carter, Marvel One-Shot: العميل كارتر جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

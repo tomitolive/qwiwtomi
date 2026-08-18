@@ -4199,8 +4199,134 @@
       "file": "315635.json",
       "title": "الرجل العنكبوت العودة للوطن",
       "fixed_at": "2026-08-11T20:27:33.022108"
+    },
+    {
+      "tmdb_id": "211387",
+      "file": "211387.json",
+      "title": "Marvel One-Shot: Agent Carter",
+      "fixed_at": "2026-08-18T02:27:28.153304"
+    },
+    {
+      "tmdb_id": "67395",
+      "file": "67395.json",
+      "title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
+      "fixed_at": "2026-08-18T02:27:35.575505"
+    },
+    {
+      "tmdb_id": "43",
+      "file": "43.json",
+      "title": "31 Minutos",
+      "fixed_at": "2026-08-18T02:27:42.425588"
+    },
+    {
+      "tmdb_id": "3339",
+      "file": "3339.json",
+      "title": "Fair City",
+      "fixed_at": "2026-08-18T02:27:51.318684"
+    },
+    {
+      "tmdb_id": "153519",
+      "file": "153519.json",
+      "title": "Neymar: O Caos Perfeito",
+      "fixed_at": "2026-08-18T02:28:01.790889"
+    },
+    {
+      "tmdb_id": "221681",
+      "file": "221681.json",
+      "title": "ROH on HonorClub",
+      "fixed_at": "2026-08-18T02:28:10.589441"
+    },
+    {
+      "tmdb_id": "257723",
+      "file": "257723.json",
+      "title": "Maddie Triggs",
+      "fixed_at": "2026-08-18T02:28:17.568953"
+    },
+    {
+      "tmdb_id": "226688",
+      "file": "226688.json",
+      "title": "بي بليد أكس",
+      "fixed_at": "2026-08-18T02:28:24.225143"
+    },
+    {
+      "tmdb_id": "42573",
+      "file": "42573.json",
+      "title": "سلام دانك",
+      "fixed_at": "2026-08-18T02:28:48.821671"
+    },
+    {
+      "tmdb_id": "220150",
+      "file": "220150.json",
+      "title": "آفاق البوكيمون",
+      "fixed_at": "2026-08-18T02:28:56.514858"
+    },
+    {
+      "tmdb_id": "585032",
+      "file": "585032.json",
+      "title": "Sa Bang-ji",
+      "fixed_at": "2026-08-18T02:29:03.250251"
+    },
+    {
+      "tmdb_id": "64433",
+      "file": "64433.json",
+      "title": "Shades of Blue",
+      "fixed_at": "2026-08-18T02:29:13.454581"
+    },
+    {
+      "tmdb_id": "2723",
+      "file": "2723.json",
+      "title": "ساموراي جاك",
+      "fixed_at": "2026-08-18T02:29:23.184424"
+    },
+    {
+      "tmdb_id": "14610",
+      "file": "14610.json",
+      "title": "Salatut elmt",
+      "fixed_at": "2026-08-18T02:29:31.894740"
+    },
+    {
+      "tmdb_id": "1658216",
+      "file": "1658216.json",
+      "title": "Stepdaddy",
+      "fixed_at": "2026-08-18T02:29:39.724778"
+    },
+    {
+      "tmdb_id": "55846",
+      "file": "55846.json",
+      "title": "الهجوم السريع",
+      "fixed_at": "2026-08-18T02:29:47.228858"
+    },
+    {
+      "tmdb_id": "517",
+      "file": "517.json",
+      "title": "The Ultimate Fighter",
+      "fixed_at": "2026-08-18T02:29:55.667487"
+    },
+    {
+      "tmdb_id": "6836",
+      "file": "6836.json",
+      "title": "Kangxi Coming",
+      "fixed_at": "2026-08-18T02:30:22.485948"
+    },
+    {
+      "tmdb_id": "203744",
+      "file": "203744.json",
+      "title": "Sugar",
+      "fixed_at": "2026-08-18T02:31:10.871885"
+    },
+    {
+      "tmdb_id": "4504",
+      "file": "4504.json",
+      "title": "Shortland Street",
+      "fixed_at": "2026-08-18T02:31:46.006514"
+    },
+    {
+      "tmdb_id": "95941",
+      "file": "95941.json",
+      "title": "Zoeys Extraordinary Playlist",
+      "fixed_at": "2026-08-18T02:32:06.155168"
     }
   ],
-  "last_updated": "2026-08-18T01:51:12.083452",
-  "total_fixed": 700
+  "last_updated": "2026-08-18T02:32:08.157890",
+  "total_fixed": 721
 }
