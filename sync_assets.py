@@ -21,14 +21,16 @@ def download_image(item):
     filename = poster_path.split('/')[-1]
     local_path = os.path.join(IMG_DIR, filename)
     
-    if os.path.exists(local_path):
+    if os.path.exists(local_path) and os.path.getsize(local_path) > 100:
         return False # Already exists
     
     try:
         resp = requests.get(poster_path, timeout=10)
-        if resp.status_code == 200:
-            with open(local_path, 'wb') as f:
+        if resp.status_code == 200 and resp.content and len(resp.content) > 100:
+            tmp_path = local_path + ".tmp"
+            with open(tmp_path, 'wb') as f:
                 f.write(resp.content)
+            os.replace(tmp_path, local_path)
             return True
     except Exception as e:
         print(f"Error downloading {filename}: {e}")

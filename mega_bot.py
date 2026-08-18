@@ -346,6 +346,34 @@ def clean_slug(text):
     res = re.sub(r'[-\s_]+', '-', res)
     return res
 
+def is_valid_local_image(path, min_bytes=100):
+    if not os.path.exists(path) or os.path.getsize(path) < min_bytes:
+        return False
+    with open(path, "rb") as f:
+        header = f.read(12)
+    return (
+        header[:2] == b"\xff\xd8"
+        or header[:4] == b"\x89PNG"
+        or (header[:4] == b"RIFF" and header[8:12] == b"WEBP")
+    )
+
+def _write_image_bytes(local_path, content):
+    if not content or len(content) < 100:
+        return False
+    header = content[:12]
+    valid = (
+        header[:2] == b"\xff\xd8"
+        or header[:4] == b"\x89PNG"
+        or (header[:4] == b"RIFF" and header[8:12] == b"WEBP")
+    )
+    if not valid:
+        return False
+    tmp_path = local_path + ".tmp"
+    with open(tmp_path, "wb") as f:
+        f.write(content)
+    os.replace(tmp_path, local_path)
+    return True
+
 def download_tmdb_image(tmdb_poster_path):
     """Downloads poster from TMDB to local t/p/w500 folder."""
     if not tmdb_poster_path: return None
@@ -353,7 +381,7 @@ def download_tmdb_image(tmdb_poster_path):
     local_dir = os.path.join(BASE_PATH, 'public', 't', 'p', 'w500')
     local_path = os.path.join(local_dir, filename)
     
-    if os.path.exists(local_path):
+    if is_valid_local_image(local_path):
         return filename
 
     # Actual download URL
@@ -361,9 +389,7 @@ def download_tmdb_image(tmdb_poster_path):
     try:
         os.makedirs(local_dir, exist_ok=True)
         resp = requests.get(source_url, timeout=10)
-        if resp.status_code == 200:
-            with open(local_path, 'wb') as f:
-                f.write(resp.content)
+        if resp.status_code == 200 and _write_image_bytes(local_path, resp.content):
             log.info(f"Mirrored asset (poster): {filename}")
             return filename
     except Exception as e:
@@ -377,16 +403,14 @@ def download_tmdb_backdrop(tmdb_backdrop_path):
     local_dir = os.path.join(BASE_PATH, 'public', 't', 'p', 'original')
     local_path = os.path.join(local_dir, filename)
     
-    if os.path.exists(local_path):
+    if is_valid_local_image(local_path):
         return filename
 
     source_url = f"https://image.tmdb.org/t/p/original/{filename}"
     try:
         os.makedirs(local_dir, exist_ok=True)
         resp = requests.get(source_url, timeout=15)
-        if resp.status_code == 200:
-            with open(local_path, 'wb') as f:
-                f.write(resp.content)
+        if resp.status_code == 200 and _write_image_bytes(local_path, resp.content):
             log.info(f"Mirrored asset (backdrop): {filename}")
             return filename
     except Exception as e:

@@ -11,6 +11,17 @@ BACKDROP_DIR = os.path.join(BASE_PATH, 'public', 't', 'p', 'original')
 os.makedirs(POSTER_DIR, exist_ok=True)
 os.makedirs(BACKDROP_DIR, exist_ok=True)
 
+def is_valid_local_image(path, min_bytes=100):
+    if not os.path.exists(path) or os.path.getsize(path) < min_bytes:
+        return False
+    with open(path, "rb") as f:
+        header = f.read(12)
+    return (
+        header[:2] == b"\xff\xd8"
+        or header[:4] == b"\x89PNG"
+        or (header[:4] == b"RIFF" and header[8:12] == b"WEBP")
+    )
+
 def download_image(path, is_backdrop=False):
     if not path:
         return
@@ -18,7 +29,7 @@ def download_image(path, is_backdrop=False):
     target_dir = BACKDROP_DIR if is_backdrop else POSTER_DIR
     local_path = os.path.join(target_dir, filename)
     
-    if os.path.exists(local_path):
+    if is_valid_local_image(local_path):
         return  # Already downloaded
         
     size_path = 'original' if is_backdrop else 'w500'
@@ -26,9 +37,11 @@ def download_image(path, is_backdrop=False):
     
     try:
         resp = requests.get(source_url, timeout=10)
-        if resp.status_code == 200:
-            with open(local_path, 'wb') as f:
+        if resp.status_code == 200 and resp.content and len(resp.content) > 100:
+            tmp_path = local_path + ".tmp"
+            with open(tmp_path, 'wb') as f:
                 f.write(resp.content)
+            os.replace(tmp_path, local_path)
             print(f"✅ Downloaded: {filename}")
         else:
             print(f"❌ Failed to download {filename} (Status: {resp.status_code})")

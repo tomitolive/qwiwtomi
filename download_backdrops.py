@@ -11,15 +11,17 @@ os.makedirs(BACKDROP_DIR, exist_ok=True)
 def download_one(backdrop_path):
     filename = backdrop_path.lstrip('/')
     local_path = os.path.join(BACKDROP_DIR, filename)
-    if os.path.exists(local_path):
+    if os.path.exists(local_path) and os.path.getsize(local_path) > 100:
         return None  # already exists
     
     url = f"https://image.tmdb.org/t/p/original/{filename}"
     try:
         resp = requests.get(url, timeout=15)
-        if resp.status_code == 200:
-            with open(local_path, 'wb') as f:
+        if resp.status_code == 200 and resp.content and len(resp.content) > 100:
+            tmp_path = local_path + ".tmp"
+            with open(tmp_path, 'wb') as f:
                 f.write(resp.content)
+            os.replace(tmp_path, local_path)
             return filename
     except Exception as e:
         print(f"❌ Failed: {filename}: {e}")
@@ -35,7 +37,7 @@ def main():
             bp = d.get('backdrop_path', '')
             if bp:
                 local_path = os.path.join(BACKDROP_DIR, bp.lstrip('/'))
-                if not os.path.exists(local_path):
+                if not os.path.exists(local_path) or os.path.getsize(local_path) <= 100:
                     missing.append(bp)
         except:
             pass

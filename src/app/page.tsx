@@ -7,6 +7,7 @@ import Script from "next/script";
 import fs from "fs";
 import path from "path";
 import HeroCarousel from "@/components/HeroCarousel";
+import PosterImg from "@/components/PosterImg";
 
 
 const pageTranslations: Record<string, any> = {
@@ -143,7 +144,7 @@ function CardItem({ item, getLink, getAlt, getPoster }: any) {
     <div className="tc-small-box">
       <a href={getLink(item)} title={getAlt(item)}>
         <div className="tc-poster">
-          {posterUrl && <img src={posterUrl} alt={getAlt(item)} loading="lazy" />}
+          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item)} />}
         </div>
         <ul className="tc-li-list">
           {item.genres?.[0] && <li>{item.genres[0]}</li>}
@@ -166,7 +167,7 @@ function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
     <div className="tc-aside-post">
       <a href={getLink(item)}>
         <div className="tc-aside-poster">
-          {posterUrl && <img src={posterUrl} alt={getAlt(item)} loading="lazy" />}
+          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item)} />}
         </div>
         <div className="tc-aside-info">
           <h3>{item.title || item.title_ar}</h3>
