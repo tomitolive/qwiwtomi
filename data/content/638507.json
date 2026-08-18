@@ -5,11 +5,11 @@
   "title_en": "How to Train Your Dragon: Homecoming",
   "slug": "638507-how-to-train-your-dragon-homecoming",
   "overview": "تدور احداث الفيلم القصير كيف تدرب التنين حول العلاقة القوية التي تربط بين الفايكنج والتنانين وكيف ان مصيرهم مرتبط سويآ.",
-  "poster_path": "/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
+  "poster_path": "/mDrUEZA8SpEyPnW8ecJH2LuNuPY.jpg",
   "backdrop_path": "/lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg",
   "release_date": "2019-12-03",
-  "vote_average": 8,
-  "vote_count": 1103,
+  "vote_average": 8.0,
+  "vote_count": 1132,
   "genres": [
     {
       "id": 16,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور احداث الفيلم القصير كيف تدرب التنين حول العلاقة القوية التي تربط بين الفايكنج والتنانين، حيث يتعامل هكدر مع تنين يسمى ستوكا، الذي يملك القوة والشجاعة، ويقوم بتدريب التنين ليكون قائدًا في قوة الفايكنج، ولكن ما ينتظرهم هو معركة حقيقية ضد التنانين الذين يريدون الاستيلاء على وطن الفايكنج.",
-    "desc_en": "The short film How to Train Your Dragon: Homecoming revolves around the strong bond between the Vikings and the dragons, as Hiccup deals with a dragon named Toothless, who possesses power and courage, and trains the dragon to become a leader in the Viking force, but what awaits them is a real battle against the dragons who want to take over the Viking homeland.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في كيف تدرب التنين حول العودة للوطن!",
-    "seo_title_ar": "مشاهدة فيلم كيف تدرب التنين حول العودة للوطن مترجم اون لاين - توميتو",
-    "keywords": "How to Train Your Dragon: Homecoming, فيلم كيف تدرب التنين مترجم, مشاهدة فيلم كيف تدرب التنين, توميتو كيف تروض تنينك العودة للوطن, مشاهدة كيف تروض تنينك العودة للوطن 2019, قصة فيلم كيف تروض تنينك العودة للوطن, أحداث كيف تروض تنينك العودة للوطن بالتفصيل, كيف تروض تنينك العودة للوطن مترجم",
-    "opinion": "هو فيلم رائع يجمع بين المغامرة والفانتازيا والرسوم المتحركة، ويحمل رسالة مهمة عن أهمية العلاقات القوية والتعاون بين البشر والحيوانات.",
+    "intro": "يحكي فيلم كيف تروض تنينك العودة للوطن قصة ممتعة ومثيرة عن العلاقة بين الفايكنج والتنانين، وتعلمنا من خلاله كيفية التعامل مع الأخطاء الماضية.",
+    "desc_ar": "يحكي فيلم كيف تروض تنينك العودة للوطن قصة العلاقة الفريدة بين الفايكنج والتنانين، وتدور أحداثه حول كيفية تجاوز الفايكنج غياب التنينات من حياتهم اليومية. يُظهر الفيلم كيف أن الفايكنج قد نسوا صديقاتهم الأقرب إلى قلوبهم، التنينات، التي عشت معهم في بلد برك، ولكن يتعين عليهم أن يفعلوا شيئًا لجذب انتباههم مجددًا. ويكون هذا الفيلم بمثابة تحذير من خطر التخلي عن الصداقات القديمة والمواقف التي لا يمكن التنبؤ بها.",
+    "desc_en": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own.",
+    "seo_title_ar": "مشاهدة فيلم كيف تروض تنينك العودة للوطن مترجم - توميتو",
+    "meta_desc": "كيف تروض تنينك العودة للوطن - فيلم رسوم متحركة ومغامرة عن الفايكنج والتنانين مع فانتازيا عائلي، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إ",
+    "outro": "وكان فيلم كيف تروض تنينك العودة للوطن بمثابة تحذير من خطر التخلي عن الصداقات القديمة والمواقف التي لا يمكن التنبؤ بها، وتشيرنا إلى أهمية الحفاظ على الصداقات والمواقف التي قد تؤدي إلى النجاح والتفوق.",
+    "opinion_ar": "فيلم كيف تروض تنينك العودة للوطن يأخذنا على رحلة ممتعة ومثيرة، يظهر لنا كيف يمكن أن نتعلم من الأخطاء الماضية، ويحكى قصة صداقة قوية بين الفايكنج والتنانين.",
+    "opinion_en": "How to Train Your Dragon: Homecoming is a thrilling and entertaining film that teaches us how to learn from past mistakes, and tells a story of a strong friendship between Vikings and dragons.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم كيف تدرب التنين حول العودة للوطن؟",
-        "a": "هو فيلم رسوم متحركة فانتازي مغامرة عائلي"
+        "q": "ما هو موضوع فيلم كيف تروض تنينك العودة للوطن؟",
+        "a": "يحكي الفيلم عن العلاقة الفريدة بين الفايكنج والتنانين، وتدور أحداثه حول كيفية تجاوز الفايكنج غياب التنينات من حياتهم اليومية.",
+        "q_en": "What is the subject of the movie How to Train Your Dragon: Homecoming?",
+        "a_en": "The movie tells the story of the unique relationship between Vikings and dragons, and how the Vikings cope with the absence of dragons in their daily lives."
       },
       {
-        "q": "ما هو موضوع فيلم كيف تدرب التنين حول العودة للوطن؟",
-        "a": "يحكي عن العلاقة القوية بين الفايكنج والتنانين والصراع ضد التنانين"
+        "q": "ماذا يفعل هكوب في الفيلم؟",
+        "a": "يظل هكوب يتابع تقاليده اليومية مع التنينات، ويحاول تجذب انتباه الفايكنج إلى التنينات مجددًا.",
+        "q_en": "What does Hiccup do in the movie?",
+        "a_en": "Hiccup continues his daily traditions with the dragons and tries to get the Vikings' attention back to the dragons."
       },
       {
-        "q": "ما هو المخرج لفيلم كيف تدرب التنين حول العودة للوطن؟",
-        "a": "لم يذكر المخرج في هذا الفيلم القصير"
+        "q": "ما هو الهدف من فيلم كيف تروض تنينك العودة للوطن؟",
+        "a": "يهدف الفيلم إلى تحذيرنا من خطر التخلي عن الصداقات القديمة والمواقف التي لا يمكن التنبؤ بها.",
+        "q_en": "What is the goal of the movie How to Train Your Dragon: Homecoming?",
+        "a_en": "The movie aims to warn us of the danger of abandoning old friendships and unpredictable situations."
       }
-    ]
+    ],
+    "keywords": "كيف تروض تنينك العودة للوطن, فيلم رسوم متحركة, فانتازيا, مغامرة, عائلي, فايكنج, تنانين, فيلم 2019, مشاهدة كيف تروض تنينك العودة للوطن, How Train Your Dragon: Homecoming مترجم, تحميل كيف تروض تنينك العودة للوطن, كيف تروض تنينك العودة للوطن اون لاين, How Train Your Dragon: Homecoming, كيف تروض تنينك العودة للوطن جودة عالية, فيلم كيف تروض تنينك العودة للوطن"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "22 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jay Baruchel America Ferrera Craig Ferguson Madalyn Gonzalez Christopher Mintz-Plasse"
+  "cast": "Jay Baruchel America Ferrera Craig Ferguson Madalyn Gonzalez Christopher Mintz-Plasse Liam Ferguson Zack Pearlman Gerard Butler"
 }

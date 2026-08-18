@@ -4,14 +4,12 @@
   "title_ar": "كاسل",
   "title_en": "Castle",
   "slug": "1419-castle",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "\" ريتشارد كاسل\"روائي شهير يعيش في نيويورك مع والدته مارثا وابنته المراهقة ألكسيس يستدعى يوما إلى قسم شرطة نيويورك من أجل التحقيق معه في اكتشاف قاتل متسلسل يقوم باستخدام اساليب القتل التي وردت في رواياته، يخضع \" كاسل \" للتحقيق من قبل التحرية اللامعة كايت التي تحاول الاطاحة بالمجرم. بعدها يشارك \" كاسل \" في الإمساك بالقاتل، ثم ما تلبث أن تنشأ علاقة بين \" كاسل \" وكايت اللذان يقومان بالتعاون على حل المزيد من جرائم القتل في مدينة نيويورك. في بداية الامر ترفض المحققة وجود كاسل معها، والذي يستخدم علاقاته ومعرفته بالحاكم من أجل البقاء بالقرب من المحققة الجميلة والتي يتخذها ألهاما له في كتابة الشخصية المحورية في احدى رواياته الجديدة.",
   "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
-  "backdrop_path": "/gfFpdIWSzx3DIevoUoJIX2aKmUD.jpg",
+  "backdrop_path": "/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
   "release_date": "2009-03-09",
-  "vote_average": 8,
-  "vote_count": 2086,
+  "vote_average": 8.0,
+  "vote_count": 2131,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النيويورك، يلتقي ريتشارد كاسل، روائي شهير، مع المحققة كايت، التي تحاول الاطاحة بالمجرم المتسلسل. يشارك كاسل في التحقيق، ثم ما تلبث أن تنشأ علاقة بينهما، حيث يتعاونان على حل المزيد من جرائم القتل في المدينة.",
-    "desc_en": "In the world of New York, Richard Castle, a famous novelist, meets Detective Kate, who is trying to catch a serial killer. Castle joins the investigation, then a romantic relationship develops between them, as they work together to solve more murders in the city.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في كاسل - توميتو",
-    "seo_title_ar": "مشاهدة فيلم كاسل مترجم اون لاين - توميتو",
-    "keywords": "Castle, فيلم كاسل مترجم, مشاهدة فيلم كاسل, توميتو كاسل, أحداث كاسل بالتفصيل, قصة مسلسل كاسل, مشاهدة كاسل 2009, كاسل مترجم كامل",
-    "opinion": "كاسل هو فيلم دراما جريمة رائع، حيث يجمع بين الإثارة والرومانسية، ويقدم لنا قصة ريتشارد كاسل، الروائي الشهير، الذي يلتقي المحققة كايت في منعكسات الإثارة.",
+    "intro": "يحكي مسلسل كاسل قصة ريتشارد كاسل، روائي شهير يعيش في مدينة نيويورك مع والدته مارثا وابنته المراهقة ألكسيس.",
+    "desc_ar": "يحكي مسلسل كاسل قصة ريتشارد كاسل، روائي شهير يعيش في مدينة نيويورك مع والدته مارثا وابنته المراهقة ألكسيس. بعد أن يُستدعى كاسل إلى قسم شرطة نيويورك للتحقيق معه في اكتشاف قاتل متسلسل يستخدم أساليب القتل التي وردت في رواياته، يخضع كاسل للتحقيق من قبل المحققة اللامعة كايت. يستفيد كاسل من علاقاته ومعرفته بالحاكم ل البقاء بالقرب من كايت الجميلة، التي يعتقد أنها ألهاما له في كتابة الشخصية المحورية في أحد رواياته الجديدة.",
+    "desc_en": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard 'Rick' Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes. Castle, a famous mystery novelist, lives with his mother, Martha, and his teenage daughter, Alexis, in New York City. As Castle is investigated by the brilliant Detective Kate Beckett, he uses his connections and knowledge of the law to stay close to her, who he believes is the inspiration for the main character in one of his new novels.",
+    "seo_title_ar": "مشاهدة كاسل مسلسل دراما جريمة 2009 مترجم - توميتو",
+    "meta_desc": "شاهد كاسل مسلسل دراما جريمة 2009 مترجم، يحكي قصة ريتشارد كاسل، روائي شهير يعيش في مدينة نيويورك مع والدته مارثا وابنته المراهقة ألكسيس. يستدعى كاسل إلى قس",
+    "outro": "استمتع بمشاهدة كاسل مسلسل دراما جريمة 2009 مترجم، حيث يُحكي قصة ريتشارد كاسل، روائي شهير يعيش في مدينة نيويورك مع والدته مارثا وابنته المراهقة ألكسيس.",
+    "opinion_ar": "يُعد كاسل مسلسلًا دراميًا جريئًا يحتوي على شخصيات متعددة ومشاريع مثيرة، مما يجعل مشاهدة هذا العمل أمرًا لا يُنسى.",
+    "opinion_en": "Castle is an exciting and dramatic series that contains multiple characters and intriguing storylines, making it a must-watch.",
     "faq": [
       {
-        "q": "ما هو فيلم كاسل؟",
-        "a": "فيلم دراما جريمة رائع يلقي ريتشارد كاسل، الروائي الشهير، مع المحققة كايت في منعكسات الإثارة."
+        "q": "ما هو تاريخ إصدار مسلسل كاسل؟",
+        "a": "تم إصدار مسلسل كاسل في عام 2009.",
+        "q_en": "When was Castle released?",
+        "a_en": "Castle was released in 2009."
       },
       {
-        "q": "ما هو نوع فيلم كاسل؟",
-        "a": "فيلم دراما جريمة"
-      },
-      {
-        "q": "ما هو موقع مشاهدة فيلم كاسل؟",
-        "a": "يمكنك مشاهدة فيلم كاسل مترجم اون لاين على توميتو"
+        "q": "ما هي الجنس التي يتبعها مسلسل كاسل؟",
+        "a": "يدور مسلسل كاسل حول الجنسين دراما وجريمة.",
+        "q_en": "What genre does Castle follow?",
+        "a_en": "Castle is a drama and crime series."
       }
-    ]
+    ],
+    "keywords": "كاسل, مسلسل, دراما, جريمة, 2009, مترجم, فرانك كاسل, نيو كاسل, مسلسل كاسل, مسلسل فرانك كاسل, فيلم فرانك كاسل, برجر كاسل, شماغ كاسل, ديفا كاسل, كاسل روك, نادي نيو كاسل, مسلسل فرانك كاسل الجديد, الرد كاسل, ستيفون كاسل"
   },
   "fixed": true,
-  "first_air_date": "2009-03-09",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "102 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Oliver Pocher Oliver Fleischer Tanja Wenzel Tomas Spencer Anke Engelke"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Nathan Fillion Stana Katic Molly C. Quinn Jon Huertas Seamus Dever Susan Sullivan Tamala Jones Toks Olagundoye",
+  "first_air_date": "2009-03-09"
 }
