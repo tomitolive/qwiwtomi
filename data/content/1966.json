@@ -8,8 +8,8 @@
   "poster_path": "/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg",
   "backdrop_path": "/h21dxRjtR7xOhyZljtSYeTETCht.jpg",
   "release_date": "2004-11-21",
-  "vote_average": 6,
-  "vote_count": 3500,
+  "vote_average": 6.0,
+  "vote_count": 3576,
   "genres": [
     {
       "id": 10752,
@@ -37,26 +37,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "الإسكندر ، ملك مقدونيا ، يقود جحافله ضد الإمبراطورية الفارسية العملاقة. بعد هزيمة الفرس ، قاد جيشه عبر العالم المعروف آنذاك ، وغامر بأبعد مما ذهب إليه أي غربي ، وصولًا إلى الهند. في رحلته ، وجد الإسكندر نفسه أمام تحديات كبرى ، من أهمها مواجهة الثقافة والدين والسياسة في مناطق مختلفة من العالم. ",
-    "desc_en": "Alexander, the king of Macedon, leads his army against the vast Persian Empire. After defeating the Persians, he leads his troops across the known world, venturing further than any Westerner, reaching India. On his journey, Alexander finds himself facing major challenges, including confronting cultures, religions, and politics in different parts of the world.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الإسكندر مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم الإسكندر مترجم اون لاين - توميتو",
-    "keywords": "فيلم الإسكندر مترجم, مشاهدة فيلم الإسكندر, حرب الإسكندر, تاريخ الإسكندر, حركة الإسكندر, مغامرة الإسكندر, دراما الإسكندر, رومنسية الإسكندر, توميتو Alexander, Alexander مترجم, مشاهدة Alexander 2004, أحداث Alexander بالتفصيل, قصة فيلم Alexander",
-    "opinion": "فيلم الإسكندر هو فيلم تاريخي رائع يروي قصة الإسكندر المقدوني ، ملك مقدونيا ، الذي قاد جحافله ضد الإمبراطورية الفارسية العملاقة. الفيلم يحتوي على مشاهد رائعة والدين والسياسة في مناطق مختلفة من العالم.",
+    "intro": "يحكي فيلم الكسندر قصة الإسكندر الأكبر، الملك المقدوني الذي أحرز ملامح التاريخ الحديث.",
+    "desc_ar": "يحكي فيلم الكسندر قصة الإسكندر الأكبر، الملك المقدوني الذي أحرز ملامح التاريخ الحديث. يُقدِم الإسكندر على حملة عسكرية ضد الإمبراطورية الفارسية العملاقة، وتحقق الفريسة الفارسية الهزيمة. ثم يُقدِم على رحلة استكشافية عبر العالم المعروف آنذاك، وتسعى لاختراق أكبر مناطق العالم المعروف آنذاك، بما في ذلك الهند.",
+    "desc_en": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+    "seo_title_ar": "مشاهدة فيلم الكسندر مترجم - قصة حرب والتاريخ الرومانسي - توميتو",
+    "meta_desc": "شاهد فيلم الكسندر مترجم، قصة حرب والتاريخ الرومانسي، الإسكندر الأكبر يخوض حرب ضد الإمبراطورية الفارسية وينتهي إلى الهند، تمتاز بجودة عالية وترجمة احترافية",
+    "outro": "يعتبر فيلم الكسندر من أكثر الأفلام التاريخية إثارة، حيث يُقدِم الإسكندر على رحلة استكشافية عبر العالم المعروف آنذاك.",
+    "opinion_ar": "يعد فيلم الكسندر من أكثر الأفلام التاريخية إثارة، حيث يُقدِم الإسكندر على رحلة استكشافية عبر العالم المعروف آنذاك، وتسعى لاختراق أكبر مناطق العالم المعروف آنذاك.",
+    "opinion_en": "Alexander is one of the most thrilling historical films, where Alexander leads his legions against the giant Persian Empire, and ventures farther than any westerner had ever gone.",
     "faq": [
       {
-        "q": "ما هو فيلم الإسكندر؟",
-        "a": "فيلم تاريخي رائع يروي قصة الإسكندر المقدوني"
+        "q": "ما هو فيلم الكسندر؟",
+        "a": "يحكي فيلم الكسندر قصة الإسكندر الأكبر، الملك المقدوني الذي أحرز ملامح التاريخ الحديث.",
+        "q_en": "What is the film Alexander?",
+        "a_en": "The film Alexander tells the story of Alexander the Great, the King of Macedonia, who made modern history."
       },
       {
-        "q": "ما هو نوع فيلم الإسكندر؟",
-        "a": "فيلم حرب تاريخي مغامرة دراما رومنسية"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم الإسكندر؟",
-        "a": "المشاهدات الرائعة والقصة التاريخية والدين والسياسة"
+        "q": "من هو الإسكندر؟",
+        "a": "الإسكندر هو ملك مقدونيا، قائد الجيش الذي حقق العديد من الإنجازات التاريخية.",
+        "q_en": "Who is Alexander?",
+        "a_en": "Alexander is the King of Macedonia, a military leader who achieved many historical achievements."
       }
-    ]
+    ],
+    "keywords": "فيلم الكسندر مترجم, قصة حرب والتاريخ الرومانسي, الإسكندر الأكبر, ملك مقدونيا, حرب, تاريخ, حركة, مغامرة, دراما, رومنسية, مشاهدة الكسندر, Alexander مترجم, تحميل الكسندر, الكسندر اون لاين, Alexander"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -64,5 +67,5 @@
   "duration": "176 دقيقة",
   "language": "الإنجليزية",
   "country": "فرنسا",
-  "cast": "Colin Farrell Angelina Jolie Val Kilmer Jared Leto Jonathan Rhys Meyers"
+  "cast": "Colin Farrell Angelina Jolie Val Kilmer Jared Leto Jonathan Rhys Meyers Anthony Hopkins Jessie Kamm Christopher Plummer"
 }

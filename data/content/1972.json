@@ -4,14 +4,12 @@
   "title_ar": "Battlestar Galactica",
   "title_en": "Battlestar Galactica",
   "slug": "1972-battlestar-galactica",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "عندما يظهر العدو القديم سيلونس، ويقوم بتدمير 12 مستعمرة، يقوم فريق جالاكتيكا بحماية أسطول صغير من المدنيين، كآخر نوع من البشر، في الرحلة المتوجهة إلى المستعمرة الثالثة عشر، وهي الأرض.",
   "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
   "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
   "release_date": "2004-10-18",
   "vote_average": 8.2,
-  "vote_count": 1754,
+  "vote_count": 1814,
   "genres": [
     {
       "id": 10765,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال العلمي، يمرق فريق جالاكتيكا في رحلة ماضية إلى المستعمرة الثالثة عشر، الأرض، بعد أن قام العدو القديم سيلونس بتدمير 12 مستعمرة، وهم يبحثون عن مأوى جديد لآخر نوع من البشر، فيما يواجهم من أخطار ومرحلة، في هذه الرحلة المليئة بالتension والدراما.",
-    "desc_en": "In a world of science fiction, the Galactica team embarks on a perilous journey to the 13th planet, Earth, after the old enemy, Cylons, destroy 12 colonies, and they search for a new home for the last human species, amidst danger and drama.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل خيال علمي فانتازيا Battlestar Galactica!",
-    "seo_title_ar": "مشاهدة مسلسل خيال علمي فانتازيا Battlestar Galactica مترجم اون لاين - توميتو",
-    "keywords": "فيلم خيال علمي فانتازيا, مشاهدة مسلسل خيال علمي فانتازيا, Battlestar Galactica مترجم, قصة مسلسل Battlestar Galactica, Battlestar Galactica مترجم كامل, أحداث Battlestar Galactica بالتفصيل, توميتو Battlestar Galactica, مشاهدة Battlestar Galactica 2004",
-    "opinion": "هو فيلم مدهش، مليء بالتension والدراما، حيث يمرق فريق جالاكتيكا في رحلة ماضية إلى المستعمرة الثالثة عشر، الأرض، فيما يواجهم من أخطار ومرحلة.",
+    "intro": "في عالم مليء بالتحديات والخطر، يتعين على البشر أن يهيئوا أنفسهم للرحلة الطويلة نحو المستعمرة الثالثة عشر.",
+    "desc_ar": "يحكي مسلسل باتلستار غالاكتيكا قصة طويلة وملحمية للبشر، بعد أن يظهر العدو القديم سيلونس وتدمر 12 مستعمرة، يحمي فريق باتلستار غالاكتيكا أسطول صغير من المدنيين، كآخر نوع من البشر، في رحلة طويلة وتعيسة نحو المستعمرة الثالثة عشر، وهي الأرض التي يتعين عليهم الوصول إليها من أجل البقاء. يتحمل فريق باتلستار غالاكتيكا المسؤولية الكبيرة لإنقاذ البشرية، ويسافرون عبر المجرى السماوي بحثًا عن مكان آمن للبقاء، بينما يتعرضون لخطر الإزالة من قبل العدو القديم. يتعرف المشاهد على شخصيات مهمة مثل قائد السفينة، والجنود البسالة الذين يحاربون من أجل البقاء.",
+    "desc_en": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth. With their backs against the wall, the crew must navigate the treacherous expanse of space, avoiding the enemy's deadly pursuit and searching for a safe haven where they can finally find peace.",
+    "seo_title_ar": "مشاهدة باتلستار غالاكتيكا مسلسل 2004 مترجم - توميتو",
+    "meta_desc": "باتلستار غالاكتيكا مسلسل خيال علمي وفانتازيا يتابع رحلة البشرية البالغة للبقاء، بعد أن يدمر العدو القديم سيلونس 12 مستعمرة، واستمتع بمشاهدة هذا العمل بجودة",
+    "outro": "باتلستار غالاكتيكا هو مسلسل خيال علمي وفانتازيا يهيئ المشاهد لرحلة إنسانية وملحمية، يتعرف المشاهد على شخصيات مهمة، ويستمتع بمشاهدة الأحداث الجارية.",
+    "opinion_ar": "باتلستار غالاكتيكا هو مسلسل خيال علمي وفانتازيا يهيئ المشاهد لرحلة إنسانية وملحمية، يتعرف المشاهد على شخصيات مهمة، ويستمتع بمشاهدة الأحداث الجارية.",
+    "opinion_en": "Battlestar Galactica is a thought-provoking sci-fi series that sets the stage for a human journey filled with drama and action. The characters are well-developed, and the story is engaging, making it a must-watch for fans of the genre.",
     "faq": [
       {
-        "q": "ما هو مسلسل Battlestar Galactica؟",
-        "a": "هو مسلسل خيال علمي فانتازيا يتبع فريق جالاكتيكا في رحلة ماضية إلى المستعمرة الثالثة عشر، الأرض."
-      },
-      {
-        "q": "ما هو العدو القديم سيلونس؟",
-        "a": "هو العدو الرئيسي في مسلسل Battlestar Galactica، الذي قام بتدمير 12 مستعمرة."
-      },
-      {
-        "q": "ما هو خيال علمي فانتازيا؟",
-        "a": "هو نوع من الفنون التي تجمع بين الخيال العلمي والفانتازيا، حيث يمرق فريق جالاكتيكا في رحلة ماضية إلى المستعمرة الثالثة عشر، الأرض."
+        "q": "ما هو باتلستار غالاكتيكا؟",
+        "a": "باتلستار غالاكتيكا هو مسلسل خيال علمي وفانتازيا يتابع رحلة البشرية البالغة للبقاء بعد أن يدمر العدو القديم سيلونس 12 مستعمرة.",
+        "q_en": "What is Battlestar Galactica?",
+        "a_en": "Battlestar Galactica is a sci-fi series that follows the journey of humanity as they try to survive after the Cylons obliterate 12 colonies."
       }
-    ]
+    ],
+    "keywords": "باتلستار غالاكتيكا, مسلسل خيال علمي وفانتازيا, حركة ومغامرة, دراما, رحلة البشرية, سيلونس, المستعمرة الثالثة عشر, مشاهدة باتلستار غالاكتيكا, Battlestar Galactica مترجم, تحميل باتلستار غالاكتيكا, باتلستار غالاكتيكا اون لاين, Battlestar Galactica, باتلستار غالاكتيكا جودة عالية, فيلم باتلستار غالاكتيكا, Battlestar Galactica HD"
   },
   "fixed": true,
-  "first_air_date": "2004-10-18",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "44 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Edward James Olmos Mary McDonnell Jamie Bamber Katee Sackhoff James Callis Tricia Helfer Tahmoh Penikett Grace Park",
+  "first_air_date": "2004-10-18"
 }
