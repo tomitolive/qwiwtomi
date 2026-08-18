@@ -1,19 +1,19 @@
 {
   "id": 42573,
-  "title": "سلام دانك",
-  "title_ar": "سلام دانك",
-  "title_en": "Slam Dunk",
-  "slug": "42573-slam-dunk",
-  "overview": "تدور أحداث المسلسل حول طالب فاشل يدعى حسان (هاناميتشي ساكوراجي) وكيفيه تحوله من طالب بلا أهداف ومبتدئ إلى لاعب جيد في فريق الصقور (شوهوكو) بطريقة طريفة وجميلة ومشّوقة حيث أثار اعجاب الكثيرين معا انه في أول مبارباته كان يطرد بخمس اخطاء ولكن الجمهور لايهتم لذلك لانه يقدم عرضا رائعا اما باقي لاعبي الفريق هم : فادي، سعد، جواد، بدر وسهيلكل منهم له قصته في الانضمام إلى الفريق وقصتهم عند وصولهم إلى البطولة.",
-  "poster_path": "/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg",
-  "backdrop_path": "/dEANXnVRmFkSD8jcJlZ0oy8EnB1.jpg",
-  "release_date": "1993-10-16",
-  "vote_average": 8.7,
-  "vote_count": 976,
+  "title": "Dottor Jekyll e gentile signora",
+  "title_ar": "Dottor Jekyll e gentile signora",
+  "title_en": "Dr. Jekyll Likes Them Hot",
+  "slug": "42573-dr-jekyll-likes-them-hot",
+  "overview": "يحكي هذا العمل قصة الدكتور جيكيل، الذي يمتلك شخصيته الشريرة التي تسيطر عليه وتجبره على ارتكاب جرائم رهيبة. في محاولة لاستكشاف حدود نفسه، يجد الدكتور جيكيل نفسه معضلا بين هوايته الجنسية والصراعات الداخلية التي تهدده. تتواجد في هذه القصة مزيج من الكوميديا والرعب، مما يجعلها تجربة مثيرة وممتعة للرؤية.",
+  "poster_path": "/zneBy6Rpjq6cTnoQcoKbhs3Q0sL.jpg",
+  "backdrop_path": "/eM17nYEf4uIgVPjNrTh7qf6ApoZ.jpg",
+  "release_date": "1979-08-31",
+  "vote_average": 5.0,
+  "vote_count": 30,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
+      "id": 27,
+      "name": "رعب"
     },
     {
       "id": 35,
@@ -21,33 +21,41 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل سلام دانك (1993) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"سلام دانك\" حول طالب فاشل يدعى حسان (هاناميتشي ساكوراجي) وكيف يتحول إلى لاعب متميز في فريق الصقور (شوهوكو) بطريقة طريفة ومشوقة. المسلسل يجمع بين الكوميديا والرسوم المتحركة، حيث يسلط الضوء على رحلة حسان في اكتشاف موهبته في كرة السلة، رغم أنه في أول مبارياته تم طرده بخمسة أخطاء، إلا أن الجمهور كان معجباً بأدائه. \"سلام دانك\" مسلسل ممتع ومليء باللحظات المضحكة والمشوقة، ويستحق المشاهدة.",
-    "desc_en": "Slam Dunk is an animated comedy series that follows the story of Hanamichi Sakuragi, a high school punk who transforms into a talented basketball player for the Shohoku team. Despite being rejected by girls and getting into fights, Sakuragi's journey to finding his passion for basketball is hilarious and captivating. Even though he was ejected from his first match due to five fouls, the audience loved his performance. Slam Dunk is an entertaining series with a unique blend of comedy and sports, making it a must-watch.",
-    "seo_title_ar": "مشاهدة مسلسل سلام دانك Slam Dunk مترجم - توميتو",
-    "meta_desc": "سلام دانك، مسلسل رسوم متحركة كوميدي، يروي قصة تحول طالب فاشل إلى لاعب كرة سلة متميز، رحلة مليئة بالكوميديا والمغامرات، لا تفوت متابعة Slam Dunk.",
-    "outro": "شاهد سلام دانك الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "سلام دانك مسلسل رائع وممتع، يجمع بين الكوميديا والرياضة، ويحكي قصة تحول طالب فاشل إلى بطل في كرة السلة، رحلة مشوقة ومليئة باللحظات المضحكة، أنصح بمشاهدته.",
-    "opinion_en": "Slam Dunk is an excellent and entertaining series, blending comedy and sports. It tells the story of a failing student's transformation into a basketball hero, offering a thrilling and hilarious journey. I highly recommend watching it.",
+    "intro": "يحكي هذا العمل قصة الدكتور جيكيل، الذي يمتلك شخصيته الشريرة التي تسيطر عليه وتجبره على ارتكاب جرائم رهيبة.",
+    "desc_ar": "يحكي هذا العمل قصة الدكتور جيكيل، الذي يمتلك شخصيته الشريرة التي تسيطر عليه وتجبره على ارتكاب جرائم رهيبة. في محاولة لاستكشاف حدود نفسه، يجد الدكتور جيكيل نفسه معضلا بين هوايته الجنسية والصراعات الداخلية التي تهدده. تتواجد في هذه القصة مزيج من الكوميديا والرعب، مما يجعلها تجربة مثيرة وممتعة للرؤية.",
+    "desc_en": "A lusty young woman decides to use her sexual powers to 'tame' the evil and murderous Dr. Jekyll. As she navigates his dark and troubled past, she uncovers a complex web of desires and fears that threaten to consume him. This lusty tale combines elements of horror and comedy, making it a wild and unforgettable ride.",
+    "seo_title_ar": "مشاهدة فيلم Dottor Jekyll - Dr. Jekyll Likes Them Hot مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Dottor Jekyll - Dr. Jekyll Likes Them Hot 1979 مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة استمتع ب",
+    "outro": "يعد هذا العمل تجربة فنية مثيرة وممتعة، مع مزيج من الكوميديا والرعب. يقدم الفيلم تفاعلاً مثيراً للشاشة، مع دراما وجاذبية تسوقك للعودة.",
+    "opinion_ar": "يعد هذا العمل تجربة فنية مثيرة وممتعة، مع مزيج من الكوميديا والرعب. يقدم الفيلم تفاعلاً مثيراً للشاشة، مع دراما وجاذبية تسوقك للعودة.",
+    "opinion_en": "This film is a wild and unforgettable ride, combining elements of horror and comedy in a way that will keep you on the edge of your seat. With its complex characters and dark themes, this lusty tale is a must-see for fans of the genre.",
     "faq": [
       {
-        "q": "هل مسلسل سلام دانك مناسب لجميع الأعمار؟",
-        "a": "نعم، مسلسل سلام دانك مناسب لجميع الأعمار، فهو مسلسل رسوم متحركة كوميدي، ويحتوي على مشاهد مضحكة ومشوقة، كما أنه يحمل قيمًا إيجابية.",
-        "q_en": "Is Slam Dunk suitable for all ages?",
-        "a_en": "Yes, Slam Dunk is suitable for all ages. It's an animated comedy series with funny and exciting scenes, and it also promotes positive values."
+        "q": "متى تم إنتاج فيلم Dottor Jekyll ؟",
+        "a": "تم إنتاج فيلم Dottor Jekyll في عام 1979.",
+        "q_en": "When was Dr. Jekyll Likes Them Hot released?",
+        "a_en": "Dr. Jekyll Likes Them Hot was released in 1979."
+      },
+      {
+        "q": "أين يمكنني مشاهدة فيلم Dottor Jekyll ؟",
+        "a": "يمكنك مشاهدة فيلم Dottor Jekyll على موقع توميتو، مع ترجمة احترافية وبدون إعلانات مزعجة.",
+        "q_en": "Where can I watch Dr. Jekyll Likes Them Hot?",
+        "a_en": "You can watch Dr. Jekyll Likes Them Hot on Tomito, with high-quality translation and no annoying ads."
+      },
+      {
+        "q": "ما هو نوع فيلم Dottor Jekyll ؟",
+        "a": "يعد فيلم Dottor Jekyll فيلماً رعبياً كوميدياً.",
+        "q_en": "What type of film is Dr. Jekyll Likes Them Hot?",
+        "a_en": "Dr. Jekyll Likes Them Hot is a horror-comedy film."
       }
     ],
-    "keywords": "سلام دانك, Slam Dunk, رسوم متحركة, كوميديا, كرة سلة, شوهوكو, حسان, هاناميتشي, أكاجي, انمي سلام دانك, سلام دانك مترجم, مانجا سلام دانك, سلام دانك الجزء الاول, سلام دانك الجزء الثاني, كرتون سلام دانك, سلام دانك مدبلج, شخصيات سلام دانك, سلام دانك الجزء الثالث, حسان سلام دانك"
+    "keywords": "فيلم رعب كوميديا Dottor Jekyll Dr. Jekyll Likes Them Hot 1979 مترجم بدون إعلانات, مشاهدة Dottor Jekyll, Dr. Jekyll Likes Them Hot مترجم, تحميل Dottor Jekyll, Dottor Jekyll اون لاين, Dr. Jekyll Likes Them Hot, Dottor Jekyll جودة عالية, فيلم Dottor Jekyll, Dr. Jekyll Likes Them Hot HD, Dottor Jekyll HD, مسلسل Dottor Jekyll, Dr. Jekyll Likes Them Hot مشاهدة, Dottor Jekyll توب سينما, Dottor Jekyll شاهدد, Dottor Jekyll توميتو"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "23 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Takeshi Kusao Hikaru Midorikawa Kiyoyuki Yanada Yoku Shioya Ryotaro Okiayu Akiko Hiramatsu Eriko Hara Hideyuki Tanaka",
-  "first_air_date": "1993-10-16",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "107 دقيقة",
+  "language": "الإيطالية",
+  "country": "إيطاليا",
+  "cast": "Paolo Villaggio Edwige Fenech Gianrico Tedeschi Gordon Mitchell Paolo Paoloni Guerrino Crivello Eolo Capritti Francesco Anniballi"
 }

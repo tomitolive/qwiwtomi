@@ -21,33 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Salatut elmt (1999) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"Salatut \" أو \"سر الحياة\" هو دراما تلفزيونية فنلندية بدأت في 25 يناير 1999 على قناة MTV3. تدور أحداث المسلسل حول حياة يومية لعدة عائلات تعيش في نفس المبنى السكني في هلسنكي.",
-    "desc_en": "Salatut elämät (Secret Lives) is a captivating Finnish soap opera that premiered in 1999, following the intertwined lives of families in a Helsinki apartment block.",
-    "seo_title_ar": "مشاهدة مسلسل Salatut سر الحياة مترجم - توميتو",
-    "meta_desc": "مشاهدة Salatut مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Salatut elmt الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"Salatut \" يغوص في أعماق الحياة اليومية، ويكشف عن الأسرار الخفية التي تربط بين العائلات في هلسنكي.",
-    "opinion_en": "Salatut elämät (Secret Lives) is a must-watch for soap opera enthusiasts, offering a compelling glimpse into the secret lives of Helsinki residents.",
+    "intro": "يحكي مسلسل Salatut elmt قصة حياة يومية لعدة عائلات تعيش في نفس المبنى السكني في هلسنكي.",
+    "desc_ar": "يحكي مسلسل \"Salatut \" قصة حياة يومية لعدة عائلات تعيش في نفس المبنى السكني في هلسنكي، حيث تتداخل قصصهم وتشكل حياتهم المعقدة. يركز المسلسل على مشكلات الحياة اليومية، مثل العلاقات العائلية، والمشكلات الاجتماعية، والتعامل مع الصعاب. يتبع المسلسل حياة هذه العائلات وتطوراتها مع الوقت، مما يمنح المشاهد تجربة حية مع القصص والمشاعر.",
+    "desc_en": "Salatut elmt (Secret Lives) is a captivating Finnish soap opera that premiered in 1999, following the intertwined lives of families in a Helsinki apartment block. The series explores the complexities of everyday life, including family relationships, social issues, and overcoming challenges. Through the lives of these families, the show provides a relatable and engaging portrayal of the human experience.",
+    "seo_title_ar": "مشاهدة مسلسل Salatut (Secret Lives) مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل Salatut (Secret Lives) الفنلندي، قصة حياة يومية لعدد عائلات في هلسنكي، مع تعابير إنسانية رائعة وواقعية. استمتع بمشاهدة هذه القصة المعقدة والجميل",
+    "outro": "يعد مسلسل Salatut elmt تجربة مشاهدة رائعة لمشجعي الدراما والsoap opera، حيث يجمع بين القصص الملهمة والمشاعر الحية.",
+    "opinion_ar": "يعد مسلسل Salatut من الأعمال الفنلندية الرائعة، حيث يجمع بين القصص الملهمة والمشاعر الحية. يعد تجربة مشاهدة رائعة لمشجعي الدراما والsoap .",
+    "opinion_en": "Salatut elmt is a remarkable Finnish soap opera that seamlessly blends inspiring stories with authentic emotions. It's a must-watch experience for fans of drama and soap opera enthusiasts.",
     "faq": [
       {
-        "q": "ما هو Salatut ؟",
-        "a": "مسلسل فنلندي يحكي قصص حياة عدة عائلات في هلسنكي.",
-        "q_en": "What is Salatut elämät (Secret Lives)?",
-        "a_en": "A Finnish soap opera following the lives of families in Helsinki."
+        "q": "ما هي قصة مسلسل Salatut ؟",
+        "a": "يحكي المسلسل قصة حياة يومية لعدة عائلات تعيش في نفس المبنى السكني في هلسنكي.",
+        "q_en": "What is the story of Salatut elmt?",
+        "a_en": "The show follows the intertwined lives of families in a Helsinki apartment block."
+      },
+      {
+        "q": "ما هي قصة حياة العائلات في المسلسل؟",
+        "a": "تدور القصص حول حياة العائلات، والعلاقات العائلية، والمشكلات الاجتماعية.",
+        "q_en": "What is the storyline of the families in the show?",
+        "a_en": "The storylines revolve around the families' lives, family relationships, and social issues."
       }
     ],
-    "keywords": "Salatut, سر الحياة, Secret Lives, أوبرا صابونية, دراما, فنلندي, هلسنكي"
+    "keywords": "Salatut, Secret Lives, مسلسل فنلندي, حياة يومية, عائلات في هلسنكي, دراما, مشاهدة Salatut, Secret Lives مترجم, تحميل Salatut, Salatut اون لاين, Salatut جودة عالية, فيلم Salatut, Secret Lives HD, مشاهدة Salatut elmt, تحميل Salatut elmt"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "21 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "Finland",
-  "cast": "",
-  "first_air_date": "1999-01-25",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

@@ -21,33 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Sugar (2024) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "سكر: مسلسل دراما وغموض مترجم. محقق خاص غامض يكافح وساوسه الشخصية أثناء التحقيق في اختفاء الحفيدة العزيزة لأحد منتجي هوليوود. هل سيتمكن من حل اللغز أم ستعيق شكوكه تقدمه؟",
+    "intro": "في عالم مليء بالغموض والتشويق، يجد محقق سكر نفسه مُضطرًا لمواجهة غموض اختفاء حفيدة أحد المنتجين.",
+    "desc_ar": "يحكي فيلم سكر قصة محقق خاص غامض يُحط في مواجهة غموض اختفاء حفيدة أحد منتجي هوليوود، ويجد نفسه مُضطرًا لمواجهة وساوس شخصية بينما يحقق في الحادث. ومع انهيار الثقة في نفسه، يجد محقق سكر نفسه مُضطرًا لمساءلة نفسه حول أهليه ومشاكله الشخصية، بينما يحاول الحقيقة وراء اختفاء حفيدة المنتج.",
     "desc_en": "Sugar: A gripping drama series. An enigmatic private detective, battling personal demons, investigates the disappearance of a beloved granddaughter of a Hollywood producer. Will he uncover the truth or will his doubts hinder his progress?",
-    "seo_title_ar": "مشاهدة مسلسل سكر Sugar مترجم - توميتو",
-    "meta_desc": "سكر: مسلسل دراما وغموض مشوق. محقق خاص غامض يكافح وساوسه الشخصية أثناء التحقيق في اختفاء غامض.",
-    "outro": "شاهد Sugar الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "سكر: مسلسل مثير يجمع بين الدراما والغموض. أداء مميز للممثلين، خاصة المحقق الذي يجسد صراعه الداخلي بشكل رائع.",
-    "opinion_en": "Sugar: A captivating drama with a twist of mystery. The cast delivers exceptional performances, particularly the private detective, who portrays his internal struggle brilliantly.",
+    "seo_title_ar": "مشاهدة فيلم سكر مترجم 2024 اون لاين - توميتو",
+    "meta_desc": "شاهد فيلم سكر مترجم 2024 اون لاين بجودة عالية وترجمة احترافية، استمتع بمشاهدة هذا العمل الفني بترجمة احترافية وبدون إعلانات مزعجة. استمتع بمشاهدة هذا",
+    "outro": "فيلم سكر هو تجربة مشاهدة مُفاجئة ومُستفزّة، حيث يُظهر بطل الفيلم نفسه في مواجهة غموض اختفاء حفيدة أحد المنتجين.",
+    "opinion_ar": "فيلم سكر هو تجربة مشاهدة مُفاجئة ومُستفزّة، حيث يُظهر بطل الفيلم نفسه في مواجهة غموض اختفاء حفيدة أحد المنتجين، مما يُخلق حالة من التوتر والتشويق.",
+    "opinion_en": "Sugar is a gripping and suspenseful drama series that follows an enigmatic private detective as he investigates the disappearance of a beloved granddaughter of a Hollywood producer.",
     "faq": [
       {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "مسلسل سكر هو دراما وغموض.",
-        "q_en": "What type of series is Sugar?",
-        "a_en": "Sugar is a drama series with a touch of mystery."
+        "q": "ما هو عنوان فيلم سكر؟",
+        "a": "عنوان فيلم سكر هو سكر، ويُعتبر فيلمًا دراميًا غامضًا.",
+        "q_en": "What is the title of the Sugar movie?",
+        "a_en": "The title of the Sugar movie is Sugar, and it is a gripping drama series."
+      },
+      {
+        "q": "من هو بطل فيلم سكر؟",
+        "a": "بطل فيلم سكر هو محقق خاص غامض.",
+        "q_en": "Who is the main actor in the Sugar movie?",
+        "a_en": "The main actor in the Sugar movie is an enigmatic private detective."
       }
     ],
-    "keywords": "سكر, Sugar, مسلسل, دراما, غموض, هوليوود, محقق خاص, اختفاء, وساوس شخصية, سكر بني, سكر الدم, سكر الحمل, تحليل سكر, ستيفيا سكر, عصير بدون سكر, سكر طبيعي, سكر رطب, بسكوت سكر, سكر نبات"
+    "keywords": "فيلم سكر, سكر, فيلم درامي, غموض, اختفاء, محقق خاص, منتج هوليوود, مشاهدة Sugar, Sugar مترجم, تحميل Sugar, Sugar اون لاين, Sugar, Sugar جودة عالية, فيلم Sugar, Sugar HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "Ireland",
-  "cast": "Colin Farrell Jin Ha Raymond Lee Tony Dalton Laura Donnelly Sasha Calle",
-  "first_air_date": "2024-04-04",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

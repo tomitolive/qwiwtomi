@@ -421,7 +421,7 @@ def fetch_trailer_key(tmdb_id, media_type):
             return v.get('key')
     return None
 
-def fetch_details(tmdb_id, media_type):
+def fetch_details(tmdb_id, media_type, bypass_adult_check=False):
     ar_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'ar'})
     en_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'en'})
     
@@ -431,22 +431,23 @@ def fetch_details(tmdb_id, media_type):
     ar_data_safe = ar_data or {}
     en_data_safe = en_data or {}
     
-    # Check for adult content before proceeding
-    title = ar_data_safe.get('title') or en_data_safe.get('title') or en_data_safe.get('name') or ''
-    overview = ar_data_safe.get('overview') or en_data_safe.get('overview') or ''
-    
-    # Adult content keywords to filter out (in English and Arabic)
-    adult_keywords = [
-        'porn', 'xxx', 'sex', 'erotic', 'adult', 'nude', 'naked', 'hardcore',
-        'softcore', 'erotica', 'pornography', 'incest', 'taboo',
-        'إباحي', 'جنس', 'عري', 'محظور', 'إغراء'
-    ]
-    
-    text_to_check = f"{title} {overview}".lower()
-    for keyword in adult_keywords:
-        if keyword.lower() in text_to_check:
-            log.warning(f"🚫 Adult content blocked in fetch_details: '{keyword}' found in {title} (ID: {tmdb_id})")
-            return None
+    if not bypass_adult_check:
+        # Check for adult content before proceeding
+        title = ar_data_safe.get('title') or en_data_safe.get('title') or en_data_safe.get('name') or ''
+        overview = ar_data_safe.get('overview') or en_data_safe.get('overview') or ''
+        
+        # Adult content keywords to filter out (in English and Arabic)
+        adult_keywords = [
+            'porn', 'xxx', 'sex', 'erotic', 'adult', 'nude', 'naked', 'hardcore',
+            'softcore', 'erotica', 'pornography', 'incest', 'taboo',
+            'إباحي', 'جنس', 'عري', 'محظور', 'إغراء'
+        ]
+        
+        text_to_check = f"{title} {overview}".lower()
+        for keyword in adult_keywords:
+            if keyword.lower() in text_to_check:
+                log.warning(f"🚫 Adult content blocked in fetch_details: '{keyword}' found in {title} (ID: {tmdb_id})")
+                return None
     
     credits = get_tmdb_data(f"{media_type}/{tmdb_id}/credits", {})
     similar = get_tmdb_data(f"{media_type}/{tmdb_id}/similar", {'language': 'en'})
@@ -744,7 +745,7 @@ def validate_content_data(content_data, media_type):
     return True
 
 
-def create_page(item_data, media_type, is_trend=False, force=False):
+def create_page(item_data, media_type, is_trend=False, force=False, skip_images=False):
     ar, en, credits = item_data['ar'], item_data['en'], item_data['credits']
     if not ar and not en:
         return None, None
@@ -785,16 +786,20 @@ def create_page(item_data, media_type, is_trend=False, force=False):
         log.info(f"⏭️  Page already in sitemap: {folder}/{slug} - skipping creation")
         return None, None
     
-    # Mirror the image to local storage
-    mirrored_filename = download_tmdb_image(poster_path)
-    if mirrored_filename:
+    if skip_images:
+        mirrored_filename = poster_path.lstrip('/')
         poster_url = f"{IMAGE_BASE_URL}/{mirrored_filename}"
     else:
-        # Fallback to direct TMDB if mirror fails
-        poster_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
+        # Mirror the image to local storage
+        mirrored_filename = download_tmdb_image(poster_path)
+        if mirrored_filename:
+            poster_url = f"{IMAGE_BASE_URL}/{mirrored_filename}"
+        else:
+            # Fallback to direct TMDB if mirror fails
+            poster_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
 
     backdrop_path = data.get('backdrop_path')
-    if backdrop_path:
+    if backdrop_path and not skip_images:
         download_tmdb_backdrop(backdrop_path)
 
     year = (data.get('release_date') or data.get('first_air_date') or '2026')[:4]

@@ -21,33 +21,41 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Shortland Street (1992) مترجم بجودة عالية على توميتو.",
+    "intro": "استمتع بمشاهدة فيلم Shortland Street (1992) مترجم بجودة عالية على توميتو.",
     "desc_ar": "تابع أحداث مسلسل \"شارع شورتلاند\" الذي يسلط الضوء على حياة سكان شارع شورتلاند في فرنديل، حيث الدراما والأحداث المثيرة. تدور أحداث المسلسل حول قصص الحب والعلاقات المعقدة بين شخصيات المسلسل.",
     "desc_en": "Shortland Street is a captivating soap opera that follows the lives and loves of the residents of Ferndale. The series explores the complex relationships and dramatic storylines of its characters.",
-    "seo_title_ar": "مشاهدة مسلسل شارع شورتلاند Shortland Street مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل شارع شورتلاند، وهو مسلسل درامي مثير يسلط الضوء على حياة سكان شارع شورتلاند في فرنديل، حيث الحب والدراما.",
+    "seo_title_ar": "مشاهدة فيلم Shortland Street مترجم - توميتو",
+    "meta_desc": "مشاهدة Shortland Street مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
     "outro": "شاهد Shortland Street الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"شارع شورتلاند\" هو تجربة درامية ممتعة، حيث يغوص المشاهد في عالم مليء بالحب والدراما، مما يجعل المتابعة ممتعة ومثيرة.",
-    "opinion_en": "Shortland Street is an engaging drama that keeps viewers hooked with its captivating storylines and complex character relationships.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو مسلسل شارع شورتلاند؟",
-        "a": "مسلسل شارع شورتلاند هو مسلسل أوبرا صابونية درامي يسلط الضوء على حياة سكان شارع شورتلاند في فرنديل.",
-        "q_en": "What is Shortland Street?",
-        "a_en": "Shortland Street is a soap opera drama series that follows the lives of the residents of Shortland Street in Ferndale."
+        "q": "كيف يمكنني مشاهدة فيلم Shortland Street?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Shortland Street?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم Shortland Street?",
+        "a": "يندرج العمل تحت تصنيف أوبرا صابونية, دراما.",
+        "q_en": "What is the genre of Shortland Street?",
+        "a_en": "It falls under the genre of أوبرا صابونية, دراما."
+      },
+      {
+        "q": "ما هي قصة فيلم Shortland Street?",
+        "a": "تابع أحداث مسلسل \"شارع شورتلاند\" الذي يسلط الضوء على حياة سكان شارع شورتلاند في فرنديل، حيث الدراما والأحداث المثيرة. تدور أحداث المسلسل حول قصص الحب والعلاقات المعقدة بين شخصيات المسلسل.",
+        "q_en": "What is the story of Shortland Street?",
+        "a_en": "Shortland Street is a captivating soap opera that follows the lives and loves of the residents of Ferndale. The series explores the complex relationships and dramatic storylines of its characters."
       }
     ],
-    "keywords": "شارع شورتلاند, Shortland Street, أوبرا صابونية, دراما, فرنديل, قصص حب, علاقات معقدة"
+    "keywords": "Shortland Street مترجم, Shortland Street مترجم, مشاهدة Shortland Street,"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "30 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "New Zealand",
-  "cast": "Jess Sayer Fleur Saville Michael Galvin Ngahuia Piripi Sally Martin Scott Smart Theo David Angela Bloomfield",
-  "first_air_date": "1992-05-25",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

@@ -25,33 +25,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل ROH on HonorClub (2023) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تابع أحداث ROH على HonorClub، المسلسل الذي يجمع بين الإثارة والدراما والكوميديا. يبدأ عصر الشرف الجديد! استمتع بمشاهدة هذا المسلسل المليء بالمغامرات والتشويق.",
-    "desc_en": "Experience ROH on HonorClub, a series packed with action, drama, and comedy. The New Era Of Honor Begins! Get ready for an exciting adventure.",
-    "seo_title_ar": "مشاهدة مسلسل ROH على HonorClub مترجم - توميتو",
-    "meta_desc": "ROH على HonorClub: مسلسل مليء بالإثارة والدراما والكوميديا. شاهد بداية عصر الشرف الجديد على HonorClub.",
-    "outro": "شاهد ROH on HonorClub الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "ROH على HonorClub يقدم مزيجًا رائعًا من الحركة والدراما والكوميديا. إنه مسلسل ممتع ومشوق يجعلك تعيش تجربة فريدة.",
-    "opinion_en": "ROH on HonorClub is an exciting blend of action, drama, and comedy. It's a thrilling series that offers a unique and enjoyable experience.",
+    "intro": "يتجاوز هذا المسلسل حدود التوقع وينقلنا إلى عالم مليء بالتحديات والمغامرات.",
+    "desc_ar": "يحكي هذا المسلسل قصة إثارة ودراما وكوميديا، حيث يبدأ عصر الشرف الجديد. يعتبر هذا المسلسل بمثابة تحدي للعواطف، حيث يجمع بين المغامرات والتشويق والكوميديا. تابع أحداث ROH على HonorClub واكتشف قصة ممتعة ومليئة بالتحديات والتحولات.",
+    "desc_en": "Experience the thrilling story of ROH on HonorClub, a series packed with action, drama, and comedy. The New Era Of Honor Begins! Get ready for an exciting adventure that will challenge your emotions and leave you wanting more.",
+    "seo_title_ar": "مشاهدة فيلم ROH HonorClub مترجم - توميتو",
+    "meta_desc": "ROH HonorClub, فيلم حركة ومغامرة ودراما وكوميديا, يبدأ عصر الشرف الجديد, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة, استمتع بم",
+    "outro": "يعد هذا المسلسل تجربة فريدة وممتعة، حيث يجمع بين المغامرات والكوميديا بطريقة مثيرة.",
+    "opinion_ar": "يعد هذا المسلسل من بين أفضل المسلسلات التي قمت بمراتها مشاهدتها، حيث يجمع بين المغامرات والكوميديا بطريقة مثيرة.",
+    "opinion_en": "This series is one of the most exciting ones I've ever watched, with a perfect blend of action and comedy that will keep you hooked.",
     "faq": [
       {
-        "q": "ما هو ROH على HonorClub؟",
-        "a": "ROH على HonorClub هو مسلسل يجمع بين الإثارة والدراما والكوميديا، ويحكي عن بداية عصر جديد من الشرف.",
-        "q_en": "What is ROH on HonorClub?",
-        "a_en": "ROH on HonorClub is a series that combines action, drama, and comedy, telling the story of the beginning of a new era of honor."
+        "q": "ما هو موضوع هذا المسلسل؟",
+        "a": "يحكي هذا المسلسل قصة إثارة ودراما وكوميديا.",
+        "q_en": "What is the plot of this series?",
+        "a_en": "The series follows a thrilling story of action, drama, and comedy."
+      },
+      {
+        "q": "ما هي أنواع هذا المسلسل؟",
+        "a": "حركة ومغامرة ودراما وكوميديا",
+        "q_en": "What genres does this series belong to?",
+        "a_en": "Action, Adventure, Drama, Comedy"
       }
     ],
-    "keywords": "ROH على HonorClub, مسلسل, حركة, مغامرة, دراما, كوميديا, إثارة, تشويق"
+    "keywords": "ROH HonorClub, فيلم, حركة, مغامرة, دراما, كوميديا, 2023, مشاهدة ROH HonorClub, ROH HonorClub مترجم, تحميل ROH HonorClub, ROH HonorClub اون لاين, ROH HonorClub جودة عالية, فيلم ROH HonorClub, ROH HonorClub HD, مشاهدة ROH on HonorClub"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "120 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Caprice Coleman Ian Riccaboni",
-  "first_air_date": "2023-03-02",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": ""
 }

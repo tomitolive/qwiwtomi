@@ -1,17 +1,15 @@
 {
   "id": 962,
-  "title": "The Gold Rush",
-  "title_ar": "The Gold Rush",
+  "title": "حمى الذهب",
+  "title_ar": "حمى الذهب",
   "title_en": "The Gold Rush",
   "slug": "962-the-gold-rush",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "",
+  "overview": "يكافح منقب عن الذهب في ألاسكا من أجل البقاء على قيد الحياة في ظل الظروف القاسية والفوز بقلب راقصة في قاعة رقص.",
   "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
-  "backdrop_path": "/8ZsEc2b9iCMWaFjUw3a0kPZZLXu.jpg",
+  "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
   "release_date": "1925-07-13",
-  "vote_average": 8,
-  "vote_count": 1831,
+  "vote_average": 8.0,
+  "vote_count": 1875,
   "genres": [
     {
       "id": 12,
@@ -27,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من المغامرة والكوميديا، يصادف رجلان من مختلفي backgrounds والخبرات في رحلة ذهبية، حيث يتعرضون لعدم اليقين والخطر، لكنهم يكتشفون أن الحياة ليست فقط عن المال والทอง، بل عن friendships والروح، في هذه الرحلة التي ستشملها المغامرة والكوميديا والدراما.",
-    "desc_en": "In a world of adventure, comedy, and drama, two men from different backgrounds and experiences embark on a gold rush journey, where they face uncertainty and danger, but discover that life is not just about money and gold, but about friendships and spirit, in this thrilling adventure that combines comedy, drama, and excitement.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم المغامرة والكوميديا والدراما «الغولدرش» مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الغولدرش مترجم اون لاين - توميتو",
-    "keywords": "فيلم المغامرة, مشاهدة فيلم الكوميديا, فيلم الدراما, فيلم المغامرة مترجم, مشاهدة The Gold Rush 1925, The Gold Rush مترجم, توميتو The Gold Rush, أحداث The Gold Rush بالتفصيل, قصة فيلم The Gold Rush",
-    "opinion": "هو فيلم من أشهر الأفلام المغامرة والكوميديا والدراما، حيث يجمع بين المغامرة والكوميديا والدراما في رحلة ذهبية، مما يجعله فيلماً رائعاً ومتعةً",
+    "intro": "حمى الذهب هو فيلم رائع يرصد حياة رجل يهودي في ألاسكا، حيث يتعرض للصعاب والتحديات في محاولة لتجاوز الماضي.",
+    "desc_ar": "حمى الذهب هي قصة رائعة حول رجل يهودي يهرب إلى ألاسكا في محاولة لتجاوز الماضي الصعب، ويتحول إلى منقب عن الذهب في ظل الظروف الصعبة والظلام، فيما يتعين عليه أن يصمد أمام الجوع والبرد والجفاف، ويحاول أن يخطف قلوب الناس من خلال موهبته في الرقص.",
+    "desc_en": "The Gold Rush is a tale of a Jewish man who flees to Alaska in an attempt to escape his troubled past, only to become a gold prospector amidst the harsh and unforgiving environment, struggling to survive against hunger, cold, and drought, and trying to win the hearts of people through his dancing talents.",
+    "seo_title_ar": "مشاهدة فيلم حمى الذهب مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم حمى الذهب بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، قصة رائعة حول رجل يهودي يهرب إلى ألاسكا في محاولة لتجاوز الماضي الصعب، ويتحول",
+    "outro": "يُعد فيلم حمى الذهب من أهم الأفلام في القرن العشرين، حيث يعكس حياة رجل يهودي في ألاسكا، ويعرض الصعاب التي يواجهها في محاولة لتجاوز الماضي الصعب.",
+    "opinion_ar": "حمى الذهب هو فيلم رائع يرصد حياة رجل يهودي في ألاسكا، حيث يتعرض للصعاب والتحديات في محاولة لتجاوز الماضي.",
+    "opinion_en": "The Gold Rush is a remarkable film that chronicles the life of a Jewish man in Alaska, where he faces numerous challenges and obstacles in an attempt to overcome his past.",
     "faq": [
       {
-        "q": "ما هو فيلم الغولدرش؟",
-        "a": "هو فيلم مغامرة وكوميديا ودراما يروي قصة رجلين من مختلفي backgrounds والخبرات في رحلة ذهبية"
+        "q": "ما هو موضوع فيلم حمى الذهب؟",
+        "a": "يحكي الفيلم قصة رجل يهودي يهرب إلى ألاسكا في محاولة لتجاوز الماضي الصعب.",
+        "q_en": "What is the plot of The Gold Rush?",
+        "a_en": "The film tells the story of a Jewish man who flees to Alaska in an attempt to escape his troubled past."
       },
       {
-        "q": "ما هو أفضل ما في فيلم الغولدرش؟",
-        "a": "هو فيلم رائع ومتعة، حيث يجمع بين المغامرة والكوميديا والدراما في رحلة ذهبية"
-      },
-      {
-        "q": "هل فيلم الغولدرش مترجم؟",
-        "a": "نعم، فيلم الغولدرش مترجم اون لاين - توميتو"
+        "q": "ما هي الأسلوبية الفنية في فيلم حمى الذهب؟",
+        "a": "يستخدم الفيلم أسلوب الكوميديا والدراما في وصف حياة الرجل في ألاسكا.",
+        "q_en": "What are the film's artistic techniques?",
+        "a_en": "The film uses a comedic and dramatic approach to describe the man's life in Alaska."
       }
-    ]
+    ],
+    "keywords": "فيلم حمى الذهب, فيلم الكوميديا, فيلم المغامرة, فيلم الدراما, ألاسكا, الحرب العالمية الأولى, قصة رومانسية, الرقص, الذهب, الفيلم القصير, مشاهدة حمى الذهب, The Gold Rush مترجم, تحميل حمى الذهب, حمى الذهب اون لاين, The Gold Rush"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Charlie Chaplin Mack Swain Tom Murray Henry Bergman Malcolm Waite"
+  "cast": "Charlie Chaplin Mack Swain Tom Murray Henry Bergman Malcolm Waite Georgia Hale Jack Adams Frank Aderias"
 }
