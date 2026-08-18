@@ -1,11 +1,10 @@
 # GitHub Actions Workflow `fix-descriptions`
-# متوقف مؤقتاً بناءً على طلبك
 
 name: Fix Short Descriptions Bot
 
 on:
   schedule:
-    # - cron: '*/15 * * * *'  # معطل مؤقتاً
+    # - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
