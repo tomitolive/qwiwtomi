@@ -1,15 +1,15 @@
 {
   "id": 429,
-  "title": "الطيب والشرس والقبيح",
-  "title_ar": "الطيب والشرس والقبيح",
+  "title": "الطيب والشرير والقبيح",
+  "title_ar": "الطيب والشرير والقبيح",
   "title_en": "The Good, the Bad and the Ugly",
   "slug": "429-the-good-the-bad-and-the-ugly",
   "overview": "أثناء اندلاع الحرب الأهلية بين الاتحاد والكونفدرالية ، يقوم ثلاثة رجال - وحيد هادئ ، ورجل قاتل لا يرحم ولصوص مكسيكي - بتمشيط جنوب غرب أمريكا بحثًا عن صندوق يحتوي على 200 ألف دولار من الذهب المسروق.",
-  "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
-  "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+  "poster_path": "/y9K5G7ykqCsprqzG4o6EknXYE5L.jpg",
+  "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
   "release_date": "1966-12-23",
   "vote_average": 8.5,
-  "vote_count": 9626,
+  "vote_count": 9849,
   "genres": [
     {
       "id": 37,
@@ -17,26 +17,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الحرب الأهلية الأمريكية، ثلاثة رجال مختلفون يلتقون في جنوب غرب أمريكا بحثًا عن صندوق يحتوي على 200 ألف دولار من الذهب المسروق. يوجد هناك من هو قاتل لا يرحم، ومن هو لصوص مكسيكي، ومن هو وحيد هادئ. سوف يتعاونون معًا لتحقيق حلمهم، ولكن ما الذي ينتظرهم؟",
-    "desc_en": "In the midst of the American Civil War, three men from different walks of life meet in the American Southwest in search of a treasure chest containing 200,000 dollars in stolen gold. There is one who is a ruthless killer, one who is a Mexican bandit, and one who is a lone and quiet man. They will join forces to achieve their dream, but what awaits them?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الطيب والشرس والقبيح",
-    "seo_title_ar": "مشاهدة فيلم الطيب والشرس والقبيح مترجم اون لاين - توميتو",
-    "keywords": "The Good, the Bad and the Ugly, فيلم كوميدي WESTERN, مشاهدة فيلم WESTERN مترجم, قصة فيلم الطيب والشرس والقبيح, أحداث الطيب والشرس والقبيح بالتفصيل, الطيب والشرس والقبيح مترجم, مشاهدة الطيب والشرس والقبيح 1966, توميتو الطيب والشرس والقبيح",
-    "opinion": "فيلم الطيب والشرس والقبيح هو فيلم رائع يجمع بين الإثارة والكوميديا، مع ثلاثة شخصيات رئيسية تتعاون معًا لتحقيق حلمهم. الفيلم يحتوي على العديد من الأحداث الدرامية والكوميدية التي سوف تثير مشاعرك",
+    "intro": "يحكي هذا العمل قصة ثلاثة رجال من مختلف الأصعدة الاجتماعية والروحية، يحلمون بجمع ريعان من الذهب المسروق الذي سرقته القوات الكونفدرالية.",
+    "desc_ar": "يحكي هذا العمل قصة ثلاثة رجال من مختلف الأصعدة الاجتماعية والروحية، يحلمون بجمع ريعان من الذهب المسروق الذي سرقته القوات الكونفدرالية، لكنهم يجدون أنفسهم في منتصف حرب أهلية مدمرة، حيث يتعرضون لظروف صعبة ومخاطر كبيرة، ويقابلون شخصيات غريبة ومثيرة للإعجاب، في رحلة معقدة ومثيرة للاهتمام تؤدي إلى اكتشافات مفاجئة ونتائج غير متوقعة.",
+    "desc_en": "While the Civil War rages on between the Union and the Confederacy, three men a quiet loner, a ruthless hitman, and a Mexican bandit comb the American Southwest in search of a strongbox containing 200,000 in stolen gold.",
+    "seo_title_ar": "مشاهدة الطيب والشرير والقبيح فيلم غربي مترجم - توميتو",
+    "meta_desc": "الطيب والشرير والقبيح فيلم غربي حربي من إخراج سيرجيو ليون. يقوم ثلاثة رجال بتمشيط جنوب غرب أمريكا بحثا عن صندوق يحتوي على 200 ألف دولار من الذهب المسروق.",
+    "outro": "تؤدي رحلة هذه الشخصيات الغريبة والمثيرة للإعجاب إلى اكتشافات مفاجئة ونتائج غير متوقعة، تسلط الضوء على جوانب مختلفة من الإنسانية في أوقات الحرب والأزمات.",
+    "opinion_ar": "عمل فني رائع ومثير يجمع بين القيم والمواقف المختلفة، يسلط الضوء على جوانب مختلفة من الإنسانية في أوقات الحرب والأزمات.",
+    "opinion_en": "A visually stunning and thought-provoking film that explores the complexities of human nature during times of war and crisis.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم الطيب والشرس والقبيح؟",
-        "a": "هو فيلم WESTERN"
-      },
-      {
         "q": "ما هو موضوع الفيلم؟",
-        "a": "üç رجال مختلفون يلتقون في جنوب غرب أمريكا بحثًا عن صندوق يحتوي على 200 ألف دولار من الذهب المسروق"
+        "a": "يحكي الفيلم قصة ثلاثة رجال يبحثون عن صندوق يحتوي على 200 ألف دولار من الذهب المسروق.",
+        "q_en": "What is the subject of the film?",
+        "a_en": "The film tells the story of three men searching for a strongbox containing 200,000 in stolen gold."
       },
       {
-        "q": "ما هو نوع الإثارة في الفيلم؟",
-        "a": "هناك العديد من الأحداث الدرامية والكوميدية التي سوف تثير مشاعرك"
+        "q": "من إخراج سيرجيو ليون?",
+        "a": "فيلم الطيب والشرير والقبيح من إخراج المخرج الإيطالي المتميز سيرجيو ليون.",
+        "q_en": "Directed by Sergio Leone?",
+        "a_en": "The film is directed by the renowned Italian director Sergio Leone."
       }
-    ]
+    ],
+    "keywords": "الطيب والشرير والقبيح, فيلم غربي, حربي, سيرجيو ليون, الجنوب الغربي, الذهب, المسروق, العمل الفني, المثير, الجوانب الإنسانية, مشاهدة الطيب والشرير والقبيح, The Good, Bad Ugly مترجم, تحميل الطيب والشرير والقبيح, الطيب والشرير والقبيح اون لاين, Bad Ugly"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -44,5 +47,5 @@
   "duration": "161 دقيقة",
   "language": "الإيطالية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Clint Eastwood Eli Wallach Lee Van Cleef Aldo Giuffrè Luigi Pistilli"
+  "cast": "Clint Eastwood Eli Wallach Lee Van Cleef Aldo Giuffrè Luigi Pistilli Rada Rassimov Enzo Petito Claudio Scarchilli"
 }

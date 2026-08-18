@@ -4,14 +4,12 @@
   "title_ar": "عائلة جاسوس",
   "title_en": "SPY x FAMILY",
   "slug": "120089-spy-x-family",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن— التّظاهر أنّه رجل لديه عائلة. بعد التّظاهر بأنّه أب وزوج محبوب، عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ. لديه تنكّر مثاليّ، لكنّ زوجته قاتلة محترفة، ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة. لكنّ هنالك من يعرف، ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار.",
-  "poster_path": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+  "poster_path": "/zcH6eMaO8HNEnWXkU7eOzlRz1C6.jpg",
   "backdrop_path": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
   "release_date": "2022-04-09",
   "vote_average": 8.5,
-  "vote_count": 2254,
+  "vote_count": 2327,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخابرات، يلزم العميل السّرّيّ الشّفق أن يلزم نفسه بأصعب مهمّة له حتّى الآن، التّظاهر أنّه رجل لديه عائلة، ويقوم بتحقيق مهمّة خطيرة في مدرسة النّخبة، حيث سيلتقي بالسياسيين والرؤساء، لكنّ هنالك من يعرف سرّه، ابنة التي تبنّاها والتي تستطيع قراءة الأفكار.",
-    "desc_en": "In the world of espionage, the secret agent must take on the most challenging mission of his life so far, pretending to be a man with a family, and carrying out a dangerous mission at a prestigious school, where he will meet politicians and leaders, but there is someone who knows his secret, his daughter who was adopted and can read minds.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عائلة جاسوس! رسوم متحركة، حركة ومغامرة، كوميديا!",
-    "seo_title_ar": "مشاهدة فيلم عائلة جاسوس مترجم اون لاين - توميتو",
-    "keywords": "SPY x FAMILY, فيلم عائلة جاسوس مترجم, مشاهدة فيلم عائلة جاسوس, توميتو عائلة جاسوس, قصة مسلسل عائلة جاسوس, عائلة جاسوس مترجم كامل, مشاهدة عائلة جاسوس 2022, أحداث عائلة جاسوس بالتفصيل",
-    "opinion": "هو فيلم ممتاز يجمع بين الحركة والمغامرة والكوميديا، مع قصة ممتعة ورسوم متحركة رائعة، مما جعلني أتجاوب معه من بداية إلى نهاية.",
+    "intro": "تدور أحداث مسلسل عائلة جاسوس حول ثلاثة أشخاص يلتقون لتظاهروا بأنهم عائلة، فيما يخفون هويّاتهم الحقيقيّة من بعضهم البعض.",
+    "desc_ar": "يحكي مسلسل عائلة جاسوس قصة ثلاثة أشخاص ذوي أهداف مختلفة، يلتقون وتجمّعون معًا ليظاهروا بأنهم عائلة، فيما يخفون هويّاتهم الحقيقيّة من بعضهم البعض. يُصبح هذا التّظاهر تحديًا كبيرًا، حيث يتعقّبهم من كلّ مكان، بينما يحاولون إخفاء هويّاتهم السّرّيّة، مع وجود ابنتهم التي تبنّاها، التي تتمتّع بقدرة فريدة في قراءة الأفكار. هذا التّصادق بينهم يؤدي إلى تحديات لا حصر لها، في عالم مليء بالخداع والمخاطر.",
+    "desc_en": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other. Their mission becomes a test of trust, deception and loyalty, as they navigate through a complex web of secrets and lies, all while trying to maintain their cover as a family. The stakes are high, and the consequences of getting caught are dire.",
+    "seo_title_ar": "مشاهدة مسلسل عائلة جاسوس مترجم - توميتو",
+    "meta_desc": "عائلة جاسوس مسلسل رسوم متحركة حركة ومغامرة كوميديا. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. تدور أحداث المسلسل حول ثلاثة أ",
+    "outro": "في نهاية الأمر، يُظهر المسلسل قدرة العائلة على التّعاون والتّكامل، ويتّضح أنّ هذه العائلة المزعومة هي في الواقع أساسًا للعلاقة الحقيقيّة بينهم.",
+    "opinion_ar": "عائلة جاسوس هو مسلسل رسوم متحركة فنيّ، يُثري تجربة المشاهدة بطرق مبتكرة ومُحسّنة. يعرض هذه القصة الّتي تتميّز بالحركة والمغامرة، مع أجواء كوميدية ساخرة، تجربة رائعة للجميع.",
+    "opinion_en": "SPY x FAMILY is a thrilling anime series that brings a fresh and innovative take on the spy genre. With its blend of action, adventure, and comedy, this show is a must-watch for anyone looking for a fun and exciting ride.",
     "faq": [
       {
-        "q": "ما هو نوع عائلة جاسوس؟",
-        "a": "هو نوع رسوم متحركة"
-      },
-      {
-        "q": "ما هو نوع المهمة التي يقوم بها العميل السّرّيّ؟",
-        "a": "هو نوع مهمة خطيرة في مدرسة النّخبة"
-      },
-      {
-        "q": "ما هو سرّ العميل السّرّيّ؟",
-        "a": "هنالك من يعرف، ابنة التي تبنّاها والتي تستطيع قراءة الأفكار"
+        "q": "ما هو موضوع مسلسل عائلة جاسوس؟",
+        "a": "تدور أحداث المسلسل حول ثلاثة أشخاص يلتقون لتظاهروا بأنهم عائلة.",
+        "q_en": "What is the subject of the SPY x FAMILY anime series?",
+        "a_en": "The series revolves around three people who come together to pose as a family, each with their own secrets and motivations."
       }
-    ]
+    ],
+    "keywords": "عائلة جاسوس, مسلسل رسوم متحركة, حركة ومغامرة, كوميديا, توميتو, مشاهدة عائلة جاسوس, SPY FAMILY مترجم, تحميل عائلة جاسوس, عائلة جاسوس اون لاين, SPY FAMILY, عائلة جاسوس جودة عالية, فيلم عائلة جاسوس, SPY FAMILY HD, عائلة جاسوس HD, مسلسل عائلة جاسوس"
   },
   "fixed": true,
-  "first_air_date": "2022-04-09",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Takuya Eguchi Atsumi Tanezaki Saori Hayami Kenichirou Matsuda",
+  "first_air_date": "2022-04-09"
 }

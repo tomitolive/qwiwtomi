@@ -4,14 +4,12 @@
   "title_ar": "فيوتشراما",
   "title_en": "Futurama",
   "slug": "615-futurama",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يحكي المسلسل مغامرات صبي توصيل البيتزا (فيليب جي فراي) في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام، بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express.",
   "poster_path": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
   "backdrop_path": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
   "release_date": "1999-03-28",
   "vote_average": 8.4,
-  "vote_count": 3732,
+  "vote_count": 3853,
   "genres": [
     {
       "id": 16,
@@ -27,19 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحكي المسلسل مغامرات صبي توصيل البيتزا (فيليب جي فراي) في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام، بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express.",
-    "desc_en": "يحكي المسلسل مغامرات صبي توصيل البيتزا (فيليب جي فراي) في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام، بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express.",
-    "meta_desc": "مشاهدة فيوتشراما مترجم بجودة عالية على توميتو.",
-    "keywords": "Futurama, فيوتشراما مترجم, قصة فيلم فيوتشراما, أحداث فيوتشراما بالتفصيل, توميتو فيوتشراما, مشاهدة فيوتشراما 2026",
-    "seo_title_ar": "مشاهدة فيوتشراما مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي مسلسل فيوتشراما قصة مغامرات صبي توصيل البيتزا في القرن الحادي والثلاثين المستقبلي، حيث يجد نفسه في عالم مليء بالتنوع والاستكشاف.",
+    "desc_ar": "يحكي مسلسل فيوتشراما مغامرات صبي توصيل البيتزا في مدينة نيويورك في أواخر القرن العشرين، الذي وجد نفسه محفورًا في اللازمة عن غير قصد لمدة ألف عام. وبعد ذلك، وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express، حيث يجد نفسه في عالم مليء بالتنوع والاستكشاف، مع موظفين محليين وضباط من مختلف الأجناس والطبقات الاجتماعية. يتعامل فيوتشراما مع المواضيع العميقة مثل الهجرة والاندماج، مع تحليلات متعمقة لمشكلات المجتمع في المستقبل.",
+    "desc_en": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century. In this futuristic world, Fry navigates a diverse and complex society, working alongside local employees and officers from various species and social classes. Futurama delves into deep themes like immigration and integration, providing thought-provoking analyses of societal issues in the future.",
+    "seo_title_ar": "مشاهدة مسلسل فيوتشراما مترجم - حكاية رائعة عن مغامرات صبي توصيل البيتزا في القرن الحادي والثلاثين المستقبلي - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل فيوتشراما مترجم - حكاية رائعة عن مغامرات صبي توصيل البيتزا في القرن الحادي والثلاثين المستقبلي - استمتع بمشاهدة هذا العمل بجودة عالية",
+    "outro": "يعد مسلسل فيوتشراما تجربة فنية رائعة، مع شخصيات محببة ونمطًا فنيًا مشوقًا. يتعامل المسلسل مع المواضيع العميقة بطريقة مثيرة للاهتمام.",
+    "opinion_ar": "يعد مسلسل فيوتشراما تجربة فنية رائعة، مع شخصيات محببة ونمطًا فنيًا مشوقًا. يتعامل المسلسل مع المواضيع العميقة بطريقة مثيرة للاهتمام.",
+    "opinion_en": "Futurama is a visually stunning series, with lovable characters and an engaging artistic style. The show tackles deep themes in an intriguing way, making it a must-watch for fans of science fiction and comedy.",
+    "faq": [
+      {
+        "q": "ما هو سبب وجود الشخصية الرئيسية في مسلسل فيوتشراما؟",
+        "a": "تم تجميد الشخصية الرئيسية، فيليب جي فراي، عن غير قصد لمدة ألف عام قبل أن يجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express.",
+        "q_en": "Why is the main character in Futurama in a cryogenic state?",
+        "a_en": "The main character, Philip J. Fry, was cryogenically frozen for one thousand years before finding employment at Planet Express, an interplanetary delivery company in the 31st century."
+      }
+    ],
+    "keywords": "فوتوراما, مسلسل, رسوم متحركة, كوميديا, خيال علمي وفانتازيا, فيوتشراما, فيوتشراما مترجم, مسلسل فيوتشراما, Planet Express, Philip . Fry, القرن الحادي والثلاثين المستقبلي, مشاهدة فيوتشراما, Futurama مترجم, تحميل فيوتشراما, فيوتشراما اون لاين"
   },
   "fixed": true,
-  "first_air_date": "1999-03-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "127 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jim Caviezel Maia Morgenstern Christo Jivkov Francesco De Vito Monica Bellucci"
+  "cast": "Billy West Katey Sagal John DiMaggio Tress MacNeille Maurice LaMarche Lauren Tom Phil LaMarr David Herman",
+  "first_air_date": "1999-03-28"
 }

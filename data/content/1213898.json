@@ -4,12 +4,12 @@
   "title_ar": "Border 2",
   "title_en": "Border 2",
   "slug": "1213898-border-2",
-  "overview": "",
+  "overview": "يحكي فيلم الحدود 2 قصة ثلاثة جنود إثيالستيون في الجيش الهندي والبحرية والقوات الجوية الذين يواجهون ظروف معركة شاقة في هذا العمل الفني الذي يُستند إلى حرب 1971 الهندي الباكستانية.",
   "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
-  "backdrop_path": "/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+  "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
   "release_date": "2026-01-23",
-  "vote_average": 7.2,
-  "vote_count": 25,
+  "vote_average": 7.5,
+  "vote_count": 33,
   "genres": [
     {
       "id": 28,
@@ -25,34 +25,41 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لرحلة ملحمية في عالم الحرب؟ إنها قصة ثلاث شخصيات مثالية، كل منها في فرع مختلف من الجيش الهندي، تواجه تحديات قاسية في ساحة المعركة.",
-    "desc_ar": "في عالم الحرب، يوجد من يخدمن ويخدمان، لكن ما هو الحد الذي يمكن أن يصل إليه النضال؟ في فيلم «الحد 2»، نرى كيف يتصارع الأبطال لمنع الدمار، ولكن ما هو السعر الذي سيدفعونه؟",
-    "seo_title_ar": "مشاهدة فيلم الحد 2 مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم «الحد 2» - حركة، دراما، حرب",
-    "outro": "هذا الفيلم يسلط الضوء على الشجاعة والتضحية، ويجعلك تشعر بالتوتر مع كل مشهد. إنه تجربة سينمائية لا يجب تفويتها لمحبي أفلام الحرب.",
-    "opinion": "فيلم «الحد 2» هو فيلم نضال، فيلم عن الحرب، فيلم عن البشرية، فيلم عن النضال، فيلم عن الحب، فيلم عن الدمار، فيلم عن السعر",
+    "intro": "يحكي فيلم الحدود 2 قصة ثلاثة جنود إثيالستيون في الجيش الهندي والبحرية والقوات الجوية.",
+    "desc_ar": "يحكي فيلم الحدود 2 قصة ثلاثة جنود إثيالستيون في الجيش الهندي والبحرية والقوات الجوية الذين يواجهون ظروف معركة شاقة في هذا العمل الفني الذي يُستند إلى حرب 1971 الهندي الباكستانية.",
+    "desc_en": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "seo_title_ar": "مشاهدة فيلم الحدود 2 مترجم - توميتو",
+    "meta_desc": "Border 2: حرب 1971 الهندي الباكستانية، شاهد فيلم حرب 1971 المثير وشهريار 2026 بدون إعلانات، متجدد دائما. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة",
+    "outro": "فيلم الحدود 2 هو عمل فني ممتع يُظهر قوة الإنسان في مواجهة التحديات الصعبة.",
+    "opinion_ar": "فيلم الحدود 2 هو عمل فني ممتع يُظهر قوة الإنسان في مواجهة التحديات الصعبة.",
+    "opinion_en": "Border 2 is an engaging film that showcases human strength in the face of tough challenges.",
     "faq": [
       {
-        "q": "ما هو الحد الذي يمكن أن يصل إليه النضال؟",
-        "a": "في فيلم «الحد 2»، نرى كيف يتصارع الأبطال لمنع الدمار، ولكن ما هو السعر الذي سيدفعونه؟"
+        "q": "ما هو موضوع فيلم الحدود 2؟",
+        "a": "يحكي فيلم الحدود 2 قصة ثلاثة جنود إثيالستيون في الجيش الهندي والبحرية والقوات الجوية.",
+        "q_en": "What is the subject of the film Border 2?",
+        "a_en": "The film Border 2 tells the story of three idealistic soldiers in the Indian army, navy and air force."
       },
       {
-        "q": "ما هو السعر الذي سيدفعونه؟",
-        "a": "في فيلم «الحد 2»، نرى كيف يتصارع الأبطال لمنع الدمار، ولكن ما هو السعر الذي سيدفعونه؟"
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم حركة ودراما حرب.",
+        "q_en": "What type of film is Border 2?",
+        "a_en": "Border 2 is an action drama war film."
       },
       {
-        "q": "ما هو فيلم «الحد 2» عن؟",
-        "a": "فيلم «الحد 2» هو فيلم نضال، فيلم عن الحرب، فيلم عن البشرية، فيلم عن النضال، فيلم عن الحب، فيلم عن الدمار، فيلم عن السعر"
+        "q": "ما هو تاريخ إصدار الفيلم؟",
+        "a": "2026.",
+        "q_en": "When was the film Border 2 released?",
+        "a_en": "2026."
       }
     ],
-    "keywords": "فيلم الحد 2 مترجم, مشاهدة فيلم الحد 2, أحداث Border 2 بالتفصيل, Border 2 مترجم, قصة فيلم Border 2, توميتو Border 2, مشاهدة Border 2 2026",
-    "desc_en": "In a world of war, there are those who serve and those who serve, but what is the limit that resistance can reach? In the film 'Border 2', we see how the heroes struggle to prevent destruction, but what is the price they will pay?"
+    "keywords": "فيلم الحدود 2, حرب 1971, الهندي الباكستانية, حركة, دراما, حرب, 2026., مشاهدة الحدود 2, Border 2 مترجم, تحميل الحدود 2, الحدود 2 اون لاين, Border 2, الحدود 2 جودة عالية, Border 2 HD, الحدود 2 HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "201 دقيقة",
-  "language": "الهندية",
+  "language": "الإنجليزية",
   "country": "الهند",
-  "cast": "Sunny Deol Varun Dhawan Diljit Dosanjh Ahan Shetty Mona Singh"
+  "cast": "Sunny Deol Varun Dhawan Diljit Dosanjh Ahan Shetty Mona Singh Sonam Bajwa Anya Singh Medha Rana"
 }

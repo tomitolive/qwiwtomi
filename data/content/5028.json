@@ -4,14 +4,12 @@
   "title_ar": "Storm of the Century",
   "title_en": "Storm of the Century",
   "slug": "5028-storm-of-the-century",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل عاصفة القرن قصة مفاجئة عن كيفية تحول أحداث المذكورة إلى مسرحية خيالية، حيث يتحول العاصفة الموجعة إلى رحلة شبه مأساوية للنجاة من العاصفة. في عالم مليء بالتاريخ الغامض والغموض، يتدفق كل شيء على الطريق، مما يخلق حبكة مثيرة ومثيرة للاهتمام. هذا العمل الفني، الذي يجمع بين الخيال العلمي والفانتازيا، يرسم صورة حية للعالم، حيث يتداخل الواقع والخيال. يبدو أن هناك قصة قديمة قابعة متجمدة في الثلج، وتحاول هذه القصة أن تتجدد من جديد.",
   "poster_path": "/xFPh9zZickYu9AWqOcfUZBCIu14.jpg",
   "backdrop_path": "/zw6zcPabU7ydmFTc8bGbw1w71wy.jpg",
   "release_date": "1999-02-14",
-  "vote_average": 7,
-  "vote_count": 327,
+  "vote_average": 7.0,
+  "vote_count": 344,
   "genres": [
     {
       "id": 10765,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متقاعد من الخيال العلمي والفانتازيا، تتعامل مجموعة من الأبطال بفضولهم والشجاعة لإنقاذ العالم من العوالم الأخرى التي تتهجم عليه، في هذه القصة الدرامية والخيالية، نرى كيف يمكن أن يحدث تغيير كبير في العالم عندما يلتقي الأبطال مع الأبطال الآخرين.",
-    "desc_en": "In a world of science fiction and fantasy, a group of heroes with curiosity and courage face off against other worlds that threaten to destroy their own, in this dramatic and imaginative story, we see how a great change can occur in the world when heroes meet other heroes.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم خيال علمي وفانتازيا!",
-    "seo_title_ar": "مشاهدة فيلم العاصفة القرن مترجم اون لاين - توميتو",
-    "keywords": "فيلم خيال علمي مترجم, مشاهدة فيلم فانتازيا اون لاين, Storm of the Century مترجم كامل, مشاهدة Storm of the Century 1999, أحداث Storm of the Century بالتفصيل, توميتو Storm of the Century, قصة مسلسل Storm of the Century",
-    "opinion": "هذه القصة الدرامية والخيالية هي واحدة من أفضل ما يمكن أن يحدث في عالم التلفزيون، حيث نرى كيف يمكن أن يحدث تغيير كبير في العالم عندما يلتقي الأبطال مع الأبطال الآخرين.",
+    "intro": "في عالم مليء بالتاريخ الغامض والغموض، يتدفق كل شيء على الطريق، مما يخلق حبكة مثيرة ومثيرة للاهتمام.",
+    "desc_ar": "يحكي مسلسل عاصفة القرن قصة مفاجئة عن كيفية تحول أحداث المذكورة إلى مسرحية خيالية، حيث يتحول العاصفة الموجعة إلى رحلة شبه مأساوية للنجاة من العاصفة. في عالم مليء بالتاريخ الغامض والغموض، يتدفق كل شيء على الطريق، مما يخلق حبكة مثيرة ومثيرة للاهتمام. هذا العمل الفني، الذي يجمع بين الخيال العلمي والفانتازيا، يرسم صورة حية للعالم، حيث يتداخل الواقع والخيال. يبدو أن هناك قصة قديمة قابعة متجمدة في الثلج، وتحاول هذه القصة أن تتجدد من جديد.",
+    "desc_en": "Storm of the Century is a thrilling and suspenseful story about how a sudden storm turns the events into a science fiction fantasy, where the storm turns into a near-tragic survival journey. In a world full of mysterious and obscure history, everything unfolds on the road, creating an exciting and engaging plot. This work of art, which combines science fiction and fantasy, paints a vivid picture of the world, where reality and fantasy intersect. It seems that an old story is frozen in the snow, and this story tries to revive itself again.",
+    "seo_title_ar": "مشاهدة مسلسل عاصفة القرن مترجم - توميتو",
+    "meta_desc": "عاصفة القرن مسلسل خيال علمي وفانتازيا، يجمع بين الخيال العلمي والفانتازيا، تدور أحداثه في جزيرة محصورة، حيث يتحول العاصفة الموجعة إلى رحلة شبه مأساوية للنج",
+    "outro": "هذا العمل الفني، الذي يجمع بين الخيال العلمي والفانتازيا، يرسم صورة حية للعالم، حيث يتداخل الواقع والخيال.",
+    "opinion_ar": "عاصفة القرن هو عمل فني رائع يجمع بين الخيال العلمي والفانتازيا، وينقذ من العجز، حيث يضفي هذا العمل منتصراً في صدرنا، ويجعلنا نشعر بالحماس والتفاؤل.",
+    "opinion_en": "Storm of the Century is a great work of art that combines science fiction and fantasy, and saves us from boredom, where this work gives us a victorious feeling in our chests, and makes us feel enthusiastic and optimistic.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم خيال علمي وفانتازيا"
-      },
-      {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو تلفزيون"
-      },
-      {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو دراما"
+        "q": "ما هو نوع مسلسل عاصفة القرن؟",
+        "a": "عاصفة القرن هو مسلسل خيال علمي وفانتازيا.",
+        "q_en": "What type of series is Storm of the Century?",
+        "a_en": "Storm of the Century is a science fiction and fantasy series."
       }
-    ]
+    ],
+    "keywords": "عاصفة القرن, مسلسل خيال علمي وفانتازيا, خيال علمي, فانتازيا, دراما, مسلسلات, Storm Century, مشاهدة عاصفة القرن, Storm Century مترجم, تحميل عاصفة القرن, Storm of the Century مترجم, عاصفة القرن اون لاين, Storm of the Century online, عاصفة القرن جودة عالية, فيلم عاصفة القرن"
   },
   "fixed": true,
-  "first_air_date": "1999-02-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "كندا",
+  "cast": "Tim Daly Colm Feore Debrah Farentino Jeffrey DeMunn Julianne Nicholson Becky Ann Baker Spencer Breslin Nada Despotovich",
+  "first_air_date": "1999-02-14"
 }
