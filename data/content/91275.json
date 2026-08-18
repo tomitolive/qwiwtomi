@@ -1,17 +1,15 @@
 {
   "id": 91275,
-  "title": "Unbelievable",
-  "title_ar": "Unbelievable",
+  "title": "الحقيقة الضائعة",
+  "title_ar": "الحقيقة الضائعة",
   "title_en": "Unbelievable",
   "slug": "91275-unbelievable",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "بعد اتهام امرأة شابة بالكذب حيال تعرضها للاغتصاب، تتحرّى محققتان في سلسلة جرائم مشابهة لها بشكل مُثير للريبة...",
   "poster_path": "/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
   "backdrop_path": "/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
   "release_date": "2019-09-13",
   "vote_average": 7.9,
-  "vote_count": 801,
+  "vote_count": 836,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالسفاس والخداع، يتعثر رجلان من مختلف الأصول والذات، يبحثان عن الحقيقة والعدالة في عالم مليء بالسفاس والخداع، فيขณะที่ يتعثر رجلان من مختلف الأصول والذات، يبحثان عن الحقيقة والعدالة في عالم مليء بالسفاس والخداع.",
-    "desc_en": "In a world filled with deceit and corruption, two men from different backgrounds and identities search for truth and justice in a world filled with deceit and corruption, as two men from different backgrounds and identities search for truth and justice in a world filled with deceit and corruption.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم دراما جريمة 'غير قابل للصدق' على توميتو",
-    "seo_title_ar": "مشاهدة فيلم غير قابل للصدق مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما جريمة, مشاهدة فيلم جريمة مترجم, فيلم دراما مترجم, قصة مسلسل Unbelievable, أحداث Unbelievable بالتفصيل, مسلسل دراما كوين, مشاهدة Unbelievable 2019, Unbelievable مترجم كامل, توميتو Unbelievable",
-    "opinion": "هو فيلم دراما جريمة رائع، يلقي باللوم على نظامي القديم والجديد، ويحرض على النضال من أجل العدالة والحق.",
+    "intro": "يتناول هذا المسلسل قصة امرأة شابة تُتهم بالكذب حيال تعرضها للاغتصاب، وتتعرض للاحتمالات من قبل المجتمع والمؤسسات.",
+    "desc_ar": "يحكي مسلسل الحقيقة الضائعة قصة امرأة شابة تُتهم بالكذب حيال تعرضها للاغتصاب، وتتعرض للاحتمالات من قبل المجتمع والمؤسسات، في حين تُجري محققتان تحقيقاتًا جادة في سلسلة من جرائم الاغتصاب المشابهة لما حدث لها، مما يثير الشكوك حول إدانة امرأة الشاب في ظل هذه الظروف المثيرة للريبة.",
+    "desc_en": "After a young woman is accused of lying about a rape, two female detectives investigate a spate of eerily similar attacks, raising questions about the validity of the charges against the young woman in the face of these disturbing circumstances.",
+    "seo_title_ar": "مشاهدة الحقيقة الضائعة مسلسل مترجم - شاهد مسلسل الحقيقة الضائعة 2019 مترجم على توميتو",
+    "meta_desc": "شاهد مسلسل الحقيقة الضائعة 2019 مترجم، قصة امرأة شابة تتهم بالكذب حيال تعرضها للاغتصاب، في ظل هذه الظروف المثيرة للريبة، استمتع بمشاهدة هذا العمل بجودة عا",
+    "outro": "يبرز المسلسل أهمية العناية بالحياة والذكاء في مواجهة الظروف الصعبة، ويدل على دور المرأة في مواجهة الأخطار والمخاطر.",
+    "opinion_ar": "هذا المسلسل يسلط الضوء على أهمية العناية بالحياة والذكاء في مواجهة الظروف الصعبة، ويبرز دور المرأة في مواجهة الأخطار والمخاطر.",
+    "opinion_en": "This series highlights the importance of being aware and intelligent in the face of adversity, and showcases the role of women in facing danger and risk.",
     "faq": [
       {
-        "q": "ما هو فيلم غير قابل للصدق؟",
-        "a": "هو فيلم دراما جريمة رائع يلقي باللوم على نظامي القديم والجديد، ويحرض على النضال من أجل العدالة والحق."
+        "q": "ما هو سبب ظهور ظاهرة الاغتصاب في هذه القصة؟",
+        "a": "يُعزز الظهور المتكرر لظاهرة الاغتصاب في هذه القصة بسبب عدم وجود إجراءات قوية من قبل السلطات المحلية، مما يؤدي إلى تكرار الجرائم",
+        "q_en": "What is the reason for the emergence of the rape phenomenon in this story?",
+        "a_en": "The repeated emergence of the rape phenomenon in this story is enhanced due to the lack of strong measures from local authorities, leading to the repetition of the crimes"
       },
       {
-        "q": "ما هي أسباب مشاهدة فيلم غير قابل للصدق؟",
-        "a": "لأنه فيلم دراما جريمة رائع يلقي باللوم على نظامي القديم والجديد، ويحرض على النضال من أجل العدالة والحق."
-      },
-      {
-        "q": "ما هو المخرج من فيلم غير قابل للصدق؟",
-        "a": "ليس لدينا معلومات حول المخرج في هذا الفيلم"
+        "q": "كيف يمكننا وقف ظاهرة الاغتصاب؟",
+        "a": "يمكن وقف ظاهرة الاغتصاب من خلال إقامة إجراءات قوية من قبل السلطات المحلية، وتوفير الدعم النفسي والاجتماعي للمرأة العائلية",
+        "q_en": "How can we stop the rape phenomenon?",
+        "a_en": "The rape phenomenon can be stopped by establishing strong measures from local authorities, and providing psychological and social support to the affected woman"
       }
-    ]
+    ],
+    "keywords": "الحقيقة الضائعة, مسلسل, دراما, جريمة, اغتصاب, ظاهرة, وقف, إجراءات, دعم, مشاهدة الحقيقة الضائعة, Unbelievable مترجم, تحميل الحقيقة الضائعة, الحقيقة الضائعة اون لاين, Unbelievable, الحقيقة الضائعة جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2019-09-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Kaitlyn Dever Toni Collette Merritt Wever",
+  "first_air_date": "2019-09-13"
 }

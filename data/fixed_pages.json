@@ -4325,8 +4325,122 @@
       "file": "95941.json",
       "title": "Zoeys Extraordinary Playlist",
       "fixed_at": "2026-08-18T02:32:06.155168"
+    },
+    {
+      "tmdb_id": "91239",
+      "file": "91239.json",
+      "title": "بريدجرتون",
+      "fixed_at": "2026-08-18T02:52:11.635835"
+    },
+    {
+      "tmdb_id": "204999",
+      "file": "204999.json",
+      "title": "Faraway Downs",
+      "fixed_at": "2026-08-18T02:52:20.853869"
+    },
+    {
+      "tmdb_id": "125282",
+      "file": "125282.json",
+      "title": "The Cleaning Lady",
+      "fixed_at": "2026-08-18T02:52:31.023135"
+    },
+    {
+      "tmdb_id": "1407",
+      "file": "1407.json",
+      "title": "أرض الوطن",
+      "fixed_at": "2026-08-18T02:52:41.292547"
+    },
+    {
+      "tmdb_id": "962",
+      "file": "962.json",
+      "title": "The Gold Rush",
+      "fixed_at": "2026-08-18T02:52:59.097843"
+    },
+    {
+      "tmdb_id": "634649",
+      "file": "634649.json",
+      "title": "الرجل العنكبوت لاعودة للوطن",
+      "fixed_at": "2026-08-18T02:53:10.497715"
+    },
+    {
+      "tmdb_id": "119330",
+      "file": "119330.json",
+      "title": "Informal Talks",
+      "fixed_at": "2026-08-18T02:53:48.223235"
+    },
+    {
+      "tmdb_id": "547565",
+      "file": "547565.json",
+      "title": "منزل الليل",
+      "fixed_at": "2026-08-18T02:53:57.557667"
+    },
+    {
+      "tmdb_id": "454626",
+      "file": "454626.json",
+      "title": "سونيك القنفذ",
+      "fixed_at": "2026-08-18T02:54:14.980619"
+    },
+    {
+      "tmdb_id": "37854",
+      "file": "37854.json",
+      "title": "ون بيس",
+      "fixed_at": "2026-08-18T02:54:51.480413"
+    },
+    {
+      "tmdb_id": "91275",
+      "file": "91275.json",
+      "title": "Unbelievable",
+      "fixed_at": "2026-08-18T02:54:59.330550"
+    },
+    {
+      "tmdb_id": "1380291",
+      "file": "1380291.json",
+      "title": "جاك ريان: طيف الحرب لتوم كلانسي",
+      "fixed_at": "2026-08-18T02:55:11.125284"
+    },
+    {
+      "tmdb_id": "2316",
+      "file": "2316.json",
+      "title": "المكتب",
+      "fixed_at": "2026-08-18T02:55:20.587275"
+    },
+    {
+      "tmdb_id": "2405",
+      "file": "2405.json",
+      "title": "جوني برافو",
+      "fixed_at": "2026-08-18T02:55:37.106236"
+    },
+    {
+      "tmdb_id": "35430",
+      "file": "35430.json",
+      "title": "Tinker Tailor Soldier Spy",
+      "fixed_at": "2026-08-18T02:55:48.531859"
+    },
+    {
+      "tmdb_id": "68726",
+      "file": "68726.json",
+      "title": "حافة المحيط الهادئ",
+      "fixed_at": "2026-08-18T02:56:16.199834"
+    },
+    {
+      "tmdb_id": "62763",
+      "file": "62763.json",
+      "title": ",",
+      "fixed_at": "2026-08-18T02:56:25.853475"
+    },
+    {
+      "tmdb_id": "113185",
+      "file": "113185.json",
+      "title": "The Deer and the Cauldron",
+      "fixed_at": "2026-08-18T02:56:38.447468"
+    },
+    {
+      "tmdb_id": "114501",
+      "file": "114501.json",
+      "title": "Dug Days",
+      "fixed_at": "2026-08-18T02:56:49.512768"
     }
   ],
-  "last_updated": "2026-08-18T02:32:08.157890",
-  "total_fixed": 721
+  "last_updated": "2026-08-18T02:56:51.515448",
+  "total_fixed": 740
 }

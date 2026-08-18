@@ -4,14 +4,12 @@
   "title_ar": "Dug Days",
   "title_en": "Dug Days",
   "slug": "114501-dug-days",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي أيام الحفر قصة كلب محبب يدعى دوج، الذي يمرّ بآداء ممتع ومضحك في حديقته، عبر عيون كلب يتكلم. يُظهر المسلسل كيف يرى دوج الأحداث اليومية في حياته بشكل مغاير وممتع. من خلال عيون كلبنا المحبب، نشاهد كيف يعيش دوج مع إجازته الصيفية، ويحيا تجربة رائعة مع أصدقائه.",
   "poster_path": "/e5kT33XH2gX7xBFIK1uUJAvU5dj.jpg",
   "backdrop_path": "/pgWgB8AfFOtwKSSoGYbmWsO5Mfq.jpg",
   "release_date": "2021-09-01",
   "vote_average": 7.4,
-  "vote_count": 541,
+  "vote_count": 545,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال، يأخذ دوج، الوحش الصغير، مسيره في يوم من الأيام، حيث يتعامل مع مشكلات اليومية مثل البحث عن الطعام والشرب، ويحاول أن يفهم ما هو عليه، في حين يتعامل مع مشكلات اليومية مثل البحث عن الطعام والشرب، ويحاول أن يفهم ما هو عليه، في عالم من الخيال، يأخذ دوج، الوحش الصغير، مسيره في يوم من الأيام،",
-    "desc_en": "In a world of fantasy, Dug, the small beast, takes a journey on one of its days, where it deals with daily problems such as searching for food and drink, and tries to understand what it is, in a world of fantasy, Dug, the small beast, takes a journey on one of its days,",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في يوم من الأيام من دوج دايز!",
-    "keywords": "فيلم دوج دايز مترجم, مشاهدة فيلم دوج دايز, توميتو Dug Days, أحداث Dug Days بالتفصيل, مشاهدة Dug Days 2021, Dug Days مترجم كامل, قصة مسلسل Dug Days",
-    "seo_title_ar": "مشاهدة فيلم دوج دايز مترجم اون لاين - توميتو",
-    "opinion": "هو فيلم كوميدي رائع يمتلئ بالحب والمرح، يجعلك تبتسم وترح، في عالم من الخيال، يأخذ دوج، الوحش الصغير، مسيره في يوم من الأيام،",
+    "intro": "يتابع أيام الحفر مغامرات كلب محبب يدعى دوج في حديقته، مع إجازته الصيفية مع أصدقائه.",
+    "desc_ar": "يحكي أيام الحفر قصة كلب محبب يدعى دوج، الذي يمرّ بآداء ممتع ومضحك في حديقته، عبر عيون كلب يتكلم. يُظهر المسلسل كيف يرى دوج الأحداث اليومية في حياته بشكل مغاير وممتع. من خلال عيون كلبنا المحبب، نشاهد كيف يعيش دوج مع إجازته الصيفية، ويحيا تجربة رائعة مع أصدقائه.",
+    "desc_en": "A series of shorts that follows the humorous misadventures of Dug, the lovable dog from Disney and Pixars Up. Each short features everyday events that occur in Dug's backyard, all through the exciting (and slightly distorted) eyes of our favorite talking dog.",
+    "seo_title_ar": "مشاهدة أيام الحفر مترجم - توميتو",
+    "meta_desc": "أيام الحفر مسلسل رسوم متحركة كوميدي عائلي يتبع مغامرات كلب محبب تدور في حديقة دوج، مع إجازته الصيفية مع أصدقائه، في عيون كلب يتكلم. يرسم المسلسل صورة ممتعة",
+    "outro": "استمتع بمشاهدة أيام الحفر، واكتشف مغامرات كلب محبب تدور في حديقة دوج مع أصدقائه.",
+    "opinion_ar": "أيام الحفر مسلسل رسوم متحركة يلفت الانتباه بنفسه بجماليته المتنوعة، وبريادة النكات الجديدة، مما يجعل مسلسلًا ممتعًا للعائلات.",
+    "opinion_en": "Dug Days is a delightful animated series that will captivate audiences with its colorful visuals and fresh humor.",
     "faq": [
       {
-        "q": "ما هو نوع دوج دايز؟",
-        "a": "هو فيلم رسوم متحركة كوميدي عائلي"
+        "q": "ما هي قصة أيام الحفر؟",
+        "a": "يحكي أيام الحفر قصة كلب محبب يدعى دوج، الذي يمرّ بآداء ممتع ومضحك في حديقته.",
+        "q_en": "What is the story of Dug Days?",
+        "a_en": "Dug Days follows the humorous misadventures of Dug, the lovable dog from Disney and Pixars Up."
       },
       {
-        "q": "ما هو موضوع دوج دايز؟",
-        "a": "يحكى قصة دوج، الوحش الصغير، في يوم من الأيام"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه دوج دايز؟",
-        "a": "في عالم من الخيال"
+        "q": "هل أيام الحفر مسلسل رسوم متحركة؟",
+        "a": "نعم، أيام الحفر مسلسل رسوم متحركة.",
+        "q_en": "Is Dug Days an animated series?",
+        "a_en": "Yes, Dug Days is an animated series."
       }
-    ]
+    ],
+    "keywords": "أيام الحفر, مسلسل رسوم متحركة, كوميدي, عائلي, دوج, كلب يتكلم, حديقة, إجازة صيفية, مشاهدة أيام الحفر, Dug Days مترجم, تحميل أيام الحفر, أيام الحفر اون لاين, Dug Days, أيام الحفر جودة عالية, فيلم أيام الحفر"
   },
   "fixed": true,
-  "first_air_date": "2021-09-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Bob Peterson Ed Asner",
+  "first_air_date": "2021-09-01"
 }
