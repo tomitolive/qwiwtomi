@@ -32,6 +32,10 @@ log = logging.getLogger(__name__)
 # Import project modules
 import mega_bot
 
+# Prevent image downloads by mocking download functions
+mega_bot.download_tmdb_image = lambda path: path.lstrip('/') if path else None
+mega_bot.download_tmdb_backdrop = lambda path: path.lstrip('/') if path else None
+
 REQUIRED_FIELDS = ['desc_ar', 'desc_en', 'meta_desc', 'seo_title_ar', 'opinion_ar', 'opinion_en', 'faq', 'keywords', 'intro', 'outro']
 
 
