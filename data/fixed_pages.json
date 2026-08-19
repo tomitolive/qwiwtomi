@@ -5339,8 +5339,74 @@
       "file": "203003.json",
       "title": "The Truth",
       "fixed_at": "2026-08-18T22:51:21.684311"
+    },
+    {
+      "tmdb_id": "3934",
+      "file": "3934.json",
+      "title": "Mickey Mouse Clubhouse",
+      "fixed_at": "2026-08-19T03:31:24.414967"
+    },
+    {
+      "tmdb_id": "37971",
+      "file": "37971.json",
+      "title": "Der Alte",
+      "fixed_at": "2026-08-19T03:31:30.679717"
+    },
+    {
+      "tmdb_id": "285404",
+      "file": "285404.json",
+      "title": "Maximum Pleasure Guaranteed",
+      "fixed_at": "2026-08-19T03:31:41.112605"
+    },
+    {
+      "tmdb_id": "57800",
+      "file": "57800.json",
+      "title": "العصر الجليدي 4 انجراف القارات",
+      "fixed_at": "2026-08-19T03:31:47.534930"
+    },
+    {
+      "tmdb_id": "919207",
+      "file": "919207.json",
+      "title": "12.12: The Day",
+      "fixed_at": "2026-08-19T03:31:54.948100"
+    },
+    {
+      "tmdb_id": "46648",
+      "file": "46648.json",
+      "title": "محقق فذ",
+      "fixed_at": "2026-08-19T03:32:01.221954"
+    },
+    {
+      "tmdb_id": "402431",
+      "file": "402431.json",
+      "title": "Wicked",
+      "fixed_at": "2026-08-19T03:32:08.167736"
+    },
+    {
+      "tmdb_id": "163",
+      "file": "163.json",
+      "title": "Oceans Twelve",
+      "fixed_at": "2026-08-19T03:32:16.805082"
+    },
+    {
+      "tmdb_id": "1545621",
+      "file": "1545621.json",
+      "title": "المحقق كونان: الملاك الساقط في الطريق السريع",
+      "fixed_at": "2026-08-19T03:32:27.290973"
+    },
+    {
+      "tmdb_id": "1417941",
+      "file": "1417941.json",
+      "title": "Haq",
+      "fixed_at": "2026-08-19T03:32:42.651326"
+    },
+    {
+      "tmdb_id": "284725",
+      "file": "284725.json",
+      "title": "Not Suitable for Work",
+      "fixed_at": "2026-08-19T03:32:49.350622"
     }
   ],
-  "last_updated": "2026-08-18T22:51:23.686898",
-  "total_fixed": 890
+  "last_updated": "2026-08-19T03:32:51.353364",
+  "total_fixed": 901
 }

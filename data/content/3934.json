@@ -4,14 +4,12 @@
   "title_ar": "Mickey Mouse Clubhouse",
   "title_en": "Mickey Mouse Clubhouse",
   "slug": "3934-mickey-mouse-clubhouse",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "ينطلق ميكي وأصدقاؤه ميني، ودونالد، وبلوتو، وديزي، وجوفي، وبيت، وكلارابيل، وغيرهم في مغامرات ممتعة وتعليمية.",
   "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
   "backdrop_path": "/89BPrKS6BoktBPTfWcHMQrFNo8s.jpg",
   "release_date": "2006-05-05",
   "vote_average": 6.8,
-  "vote_count": 384,
+  "vote_count": 390,
   "genres": [
     {
       "id": 10762,
@@ -35,33 +33,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم ميكي موسكا، يلتقي الأصدقاء الأربعة - ميكي، ديزي، بلوتو، ودوغ - في منزلهم في الغابة، حيث يخدعون أنفسهم بالتجارب وال المغامرات، ويقومون بالعديد من المهام والتحديات، فيขณะที่ يتعلمون قيم الأصدقاء والتعاون والتعاون.",
-    "desc_en": "In the world of Mickey Mouse Clubhouse, the four friends - Mickey, Minnie, Pluto, and Goofy - meet in their home in the forest, where they create their own adventures and challenges, while learning valuable lessons about friendship, teamwork, and cooperation.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع ميكي موسكا في منزلهم في الغابة!",
-    "seo_title_ar": "مشاهدة فيلم ميكي موسكا كلوبهاوس مترجم اون لاين - توميتو",
-    "keywords": "فيلم أطفال مترجم, مشاهدة فيلم رسوم متحركة, فيلم كوميديا مترجم, فيلم خيال علمي وفانتازيا مترجم, فيلم حركة ومغامرة مترجم, مشاهدة Mickey Mouse Clubhouse 2006, أحداث Mickey Mouse Clubhouse بالتفصيل, Mickey Mouse Clubhouse مترجم كامل, قصة مسلسل Mickey Mouse Clubhouse, توميتو Mickey Mouse Clubhouse",
-    "opinion": "هذا البرنامج التلفزيوني هو أفضل ما يمكن أن يحدث في عالم الأطفال، حيث يتعلمون قيم الأصدقاء والتعاون والتعاون، فيขณะที่ يخدعون أنفسهم بالتجارب وال المغامرات!",
+    "intro": "يتجول نادي ميكي ماوس في عالم مليء بالأحاجي والمغامرات، حيث يتعاون أفراده في رحلات تعليمية وممتعة.",
+    "desc_ar": "يتجول نادي ميكي ماوس في عالم مليء بالأحاجي والمغامرات، حيث يتعاون أفراده مثل ميكي وأصدقائه ميني، ودونالد، وبلوتو، وديزي، وجوفي، وبيت، وكلارابيل، وغيرهم في رحلات تعليمية وممتعة. من خلال هذه المغامرات، يتعلم الأبطال مهارات جديدة وتقنيات مختلفة، مما يزيد من قدرتهم على التعامل مع التحديات. معًا، يبني أفراد النادي علاقات قوية ومحبة بينهم، مما يجعلهم فريقًا قويًا ومتماسكًا.",
+    "desc_en": "Mickey Mouse Clubhouse revolves around the adventures of Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more as they go on fun and educational adventures. Through these adventures, the characters learn new skills and techniques, increasing their ability to handle challenges. Together, the club members build strong and loving relationships with each other, making them a strong and cohesive team.",
+    "seo_title_ar": "مشاهدة مسلسل نادي ميكي ماوس مترجم - توميتو",
+    "meta_desc": "نادي ميكي ماوس - مسلسل أطفال رسوم متحركة كوميديا خيال علمي وفانتازيا حركة ومغامرة - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "نادي ميكي ماوس هو مسلسل رائع للمراهنين الذين يبحثون عن مغامرات ممتعة ومليئة بالتعلم.",
+    "opinion_ar": "نادي ميكي ماوس هو مسلسل رائع للمراهنين الذين يبحثون عن مغامرات ممتعة ومليئة بالتعلم.",
+    "opinion_en": "Mickey Mouse Clubhouse is a great show for viewers who are looking for fun and educational adventures.",
     "faq": [
       {
-        "q": "ما هو ميكي موسكا كلوبهاوس؟",
-        "a": "هو برنامج تلفزيوني للأطفال يركز على قيم الأصدقاء والتعاون والتعاون."
+        "q": "ما هو نوع نادي ميكي ماوس؟",
+        "a": "نادي ميكي ماوس هو مسلسل أطفال رسوم متحركة.",
+        "q_en": "What type of show is Mickey Mouse Clubhouse?",
+        "a_en": "Mickey Mouse Clubhouse is an animated children's show."
       },
       {
-        "q": "ما هي أنواع البرامج التلفزيونية في ميكي موسكا كلوبهاوس؟",
-        "a": "يحتوي البرنامج على أنواع مختلفة من البرامج التلفزيونية، مثل رسوم متحركة، كوميديا، خيال علمي وفانتازيا، حركة ومغامرة."
-      },
-      {
-        "q": "ما هو غرض البرنامج التلفزيوني؟",
-        "a": "يهدف البرنامج إلى تعليم الأطفال قيم الأصدقاء والتعاون والتعاون، فيขณะที่ يخدعون أنفسهم بالتجارب وال المغامرات."
+        "q": "من هي أبرز شخصيات نادي ميكي ماوس؟",
+        "a": "أبرز شخصيات نادي ميكي ماوس هي ميكي وميني ودونالد وبلوتو وديزي وجوفي وبيت وكلارابيل وغيرهم.",
+        "q_en": "Who are the main characters of Mickey Mouse Clubhouse?",
+        "a_en": "The main characters of Mickey Mouse Clubhouse are Mickey, Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more."
       }
-    ]
+    ],
+    "keywords": "نادي ميكي ماوس, ميكي ماوس, مسلسل أطفال, رسوم متحركة, كوميديا, خيال علمي وفانتازيا, حركة ومغامرة, مغامرات تعليمية, أطفال, كرتون, مسلسلات أطفال, مشاهدة نادي ميكي ماوس, Mickey Mouse Clubhouse مترجم, تحميل نادي ميكي ماوس, نادي ميكي ماوس اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2006-05-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "84 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Gérard Depardieu Michel Blanc Miou-Miou Michel Creton Jean-Pierre Marielle"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Bret Iwan Tony Anselmo Tress MacNeille Russi Taylor Bill Farmer Rob Paulsen",
+  "first_air_date": "2006-05-05"
 }

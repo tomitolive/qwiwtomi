@@ -4,14 +4,12 @@
   "title_ar": "محقق فذ",
   "title_en": "True Detective",
   "slug": "46648-true-detective",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "القصة باختصار تدور حول هذان الشخصان، مارتن هارت وراستن كول، محققان في لويزيانا في سنة 1995 يبدأن التحقيق في قضية مقتل فتاة بشكل غريب فتبدأ الأحداث معهم بالتتالي لتصبح القصة أغرب فأغرب شيئاً فشيئاً، ولكن محور قصة التحقيق ليس كل شيء في المسلسل فالمسلسل تناول أيضاً حياة هذان الشخصان وغاص عميقاً جداً في تفاصيل كل شخصية من الشخصيات ليُبين لنا ماهيتها وما هو أسلوبها في الحياة، ثم حاول قدر الإمكان أن يوضح لنا الاختلافات بين الشخصيتان بين شخصية، تقطر غرابةً هي شخصية راستن وبين شخصية روتينية وعادية للغاية هي شخصية مارتن، ثم ذهب بعيداً المسلسل ليوضح لنا أنَّ الأمور لا تقاس بالشكل الخارجي فقط ولكن هنالك تفاصيل آخرى يجب توضيحها، كيف أنَّ كل امرءٍ ممكن أن يكون سيء من الداخل كيف ممكن أنَّ يكون فاسد من الداخل والشر يتملكه ربما كل هذا وأكثر في قصة المسلسل هذه التي نراها من منظور راستن ومارتن اللذان يرويانها لمحققان في عام 2012 وتبعات تلك القصة.",
-  "poster_path": "/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg",
+  "overview": "مسلسل شرطة أمريكي من نوع الأنثولوجيا (كل موسم قصة وشخصيات مختلفة)، يستخدم خطوطًا زمنية متعددة، حيث يبدو أن التحقيقات تكشف أسرارًا شخصية ومهنية للأشخاص المتورطين، سواء كانوا من داخل القانون أو خارجه.",
+  "poster_path": "/1iulwYHI8aSN9tdeQPNKplWd576.jpg",
   "backdrop_path": "/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
   "release_date": "2014-01-12",
   "vote_average": 8.3,
-  "vote_count": 4116,
+  "vote_count": 4286,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة لويزيانا، يبدأ محققان مارتن هارت وراستن كول في التحقيق في قضية مقتل فتاة غريبة، لكن الأحداث تتصاعد لتصبح القصة أغرب فأغرب شيئاً فشيئاً. في هذه القصة، نرى كيف أن كل امرء ممكن أن يكون سيء من الداخل، والشر يتملكه ربما كل هذا وأكثر.",
-    "desc_en": "In Louisiana, detectives Martin Hart and Rust Cohle begin investigating the murder of a young girl, but the events unfold to become a more complex and disturbing story. In this story, we see how every person can be bad from the inside, and evil can take over, maybe everything and more.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في محقق فذ!",
-    "seo_title_ar": "مشاهدة فيلم محقق فذ مترجم اون لاين - توميتو",
-    "keywords": "True Detective, فيلم كذا مترجم, مشاهدة فيلم كذا, دراما غموض, توميتو محقق فذ, محقق فذ مترجم كامل, مشاهدة محقق فذ 2014, قصة مسلسل محقق فذ, أحداث محقق فذ بالتفصيل",
-    "opinion": "القصة تتميز بعمقها في الشخصيات، وتقديمها لنا منظور مختلف عن القصص الأخرى، مما يجعلها أكثر إثارة.",
+    "intro": "يحكي هذا المسلسل قصة شرطة أمريكية من نوع الأنثولوجيا، حيث يتم تتبع أحداث متعددة عبر خطوط زمنية متعددة.",
+    "desc_ar": "يحكي هذا المسلسل قصة شرطة أمريكية من نوع الأنثولوجيا، حيث يتم تتبع أحداث متعددة عبر خطوط زمنية متعددة، مما يُكشف عن أسرار شخصية ومهنية لأفراد شرطة ومحققين، سواء كانوا من داخل القانون أو خارجه، مما يؤدي إلى تعقد الحقائق والمسائل المحيطة بهم.",
+    "desc_en": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "seo_title_ar": "مشاهدة مسلسل محقق فذ True Detective مترجم - توميتو",
+    "meta_desc": "مشاهدة True Detective مترجم - توميتو, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "يُعد هذا المسلسل مثالًا على كيفية استخدام القصص المتعددة لتتبع أحداثه وتحدي الحقائق، مما يجعله مثيرًا للاهتمام ومُفزعًا.",
+    "opinion_ar": "يعتبر هذا المسلسل مثالًا على كيفية استخدام القصص المتعددة لتتبع أحداثه وتحدي الحقائق",
+    "opinion_en": "This series is an example of how multiple stories can be used to follow its events and challenge the facts.",
     "faq": [
       {
-        "q": "ما هو محقق فذ؟",
-        "a": "القصة تتميز بعمقها في الشخصيات، وتقديمها لنا منظور مختلف عن القصص الأخرى."
+        "q": "ما هو نوع المسلسل؟",
+        "a": "المسلسل من نوع الأنثولوجيا، حيث يتم تتبع قصة مختلفة في كل موسم",
+        "q_en": "What type of series is this?",
+        "a_en": "The series is an anthology type, where a different story is followed in each season"
       },
       {
-        "q": "ما هو نوع محقق فذ؟",
-        "a": "المسلسل دراما غموض."
-      },
-      {
-        "q": "ما هو مدى إثارة محقق فذ؟",
-        "a": "القصة تتميز بعمقها في الشخصيات، وتقديمها لنا منظور مختلف عن القصص الأخرى، مما يجعلها أكثر إثارة."
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي المسلسل عن التحقيقات التي يجرى في ظلها، وتحديدًا عن أسرار الشخصية والمهنية لأفراد الشرطة والمحققين",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series follows the investigations that take place, and specifically about the personal and professional secrets of police officers and detectives"
       }
-    ]
+    ],
+    "keywords": "True Detective, محقق فذ, مسلسل, دراما, غموض, أنثولوجيا, مشاهدة محقق فذ, True Detective مترجم, تحميل محقق فذ, محقق فذ اون لاين, محقق فذ جودة عالية, فيلم محقق فذ, True Detective HD, محقق فذ HD, True Detective online"
   },
   "fixed": true,
-  "first_air_date": "2014-01-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "البرتغالية",
-  "country": "البرازيل",
-  "cast": "Andréa Beltrão Marco Ricca Matheus de Sá Giulio Lopes Andréa Dantas"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "المكسيك",
+  "cast": "Jodie Foster Kali Reis Fiona Shaw Finn Bennett Isabella Star LaBlanc John Hawkes",
+  "first_air_date": "2014-01-12"
 }
