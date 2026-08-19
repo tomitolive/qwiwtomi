@@ -74,12 +74,16 @@ export default async function MoviePage({ params }: Props) {
   const ai = local?.ai_content;
   const genreIds: number[] = data.genres?.map((g: ContentGenre) => g.id) || [];
 
-  // Get trailer from TMDB safely
+  // Get trailer from TMDB safely; override vote_average in memory only (JSON file is unchanged)
   let trailer = null;
   try {
     const tmdbDetails = await getDetails(id, "movie");
     const videos = tmdbDetails?.videos?.results || [];
     trailer = videos.find((v: TMDBVideo) => v.type === "Trailer" && v.site === "YouTube") || videos[0];
+    const live = tmdbDetails?.ar?.vote_average ?? tmdbDetails?.en?.vote_average;
+    if (typeof live === "number" && live > 0) {
+      data.vote_average = live;
+    }
   } catch (error) {
     console.error(`Failed to fetch TMDB details for movie ${id}:`, error);
   }
@@ -115,7 +119,7 @@ export default async function MoviePage({ params }: Props) {
   
   // Dynamic rating color based on value (green for high, red for low)
   const getRatingColor = (ratingValue: number) => {
-    if (ratingValue >= 8) return '#22c55e'; // green-500
+    if (ratingValue >= 7.1) return '#22c55e'; // green-500
     if (ratingValue >= 6) return '#eab308'; // yellow-500
     if (ratingValue >= 4) return '#f97316'; // orange-500
     return '#ef4444'; // red-500

@@ -782,7 +782,7 @@ main {
   align-items: center;
   gap: 0.25rem;
   padding: 0.25rem 0.6rem;
-  background: linear-gradient(135deg, #ffbf00, #e68600);
+  background: none;
   border-radius: 2px;
   color: #000;
   font-size: 0.8rem;
@@ -1369,41 +1369,6 @@ main {
     }
   }
 
-  /* Mobile Mute Button - Upper corner */
-  .hero-mobile-mute-button {
-    position: absolute;
-    top: 16px;
-    left: 16px;
-    width: 40px;
-    height: 40px;
-    background: rgba(0, 0, 0, 0.6);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 15;
-    transition: all 0.3s ease;
-    cursor: pointer;
-  }
-
-  .hero-mobile-mute-button:hover {
-    background: rgba(0, 0, 0, 0.8);
-    border-color: rgba(255, 255, 255, 0.4);
-    transform: scale(1.05);
-  }
-
-  .hero-mobile-mute-button svg {
-    color: #fff;
-  }
-
-  [dir="rtl"] .hero-mobile-mute-button {
-    left: auto;
-    right: 16px;
-  }
-
   /* Center Play Button - Hidden on mobile */
   .hero-mobile-play-button {
     display: none;
@@ -1433,9 +1398,10 @@ main {
   }
 
   .hero-year {
-    font-size: 14px;
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 800;
     color: rgba(255, 255, 255, 0.8);
+    padding: 0 1rem;
   }
 
   .hero-rating-badge {
@@ -1443,7 +1409,7 @@ main {
     align-items: center;
     gap: 0.4rem;
     padding: 0.35rem 0.65rem;
-    background: linear-gradient(135deg, #ff9500, #ff6b00);
+    background: none;
     border-radius: 6px;
     color: #fff;
     font-size: 13px;

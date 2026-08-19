@@ -1,4 +1,4 @@
-import { getTMDBData } from "@/lib/tmdb";
+import { getTMDBData, getDetails } from "@/lib/tmdb";
 import { cookies } from "next/headers";
 import { getHomeContent } from "@/lib/home-content";
 import NewAd from "@/components/NewAd";
@@ -197,6 +197,30 @@ function getCarouselData() {
   }
 }
 
+async function enrichCarouselWithLiveRatings(carouselItems: any[]) {
+  try {
+    const enriched = await Promise.all(
+      carouselItems.map(async (item) => {
+        try {
+          const tmdbDetails = await getDetails(String(item.tmdb_id), item.folder);
+          const liveRating = tmdbDetails?.ar?.vote_average ?? tmdbDetails?.en?.vote_average;
+          if (typeof liveRating === "number" && liveRating > 0) {
+            return { ...item, vote_average: liveRating };
+          }
+          return item;
+        } catch (error) {
+          console.error(`Failed to fetch live rating for ${item.tmdb_id}:`, error);
+          return item;
+        }
+      })
+    );
+    return enriched;
+  } catch (error) {
+    console.error("Error enriching carousel with live ratings:", error);
+    return carouselItems;
+  }
+}
+
 export default async function Home() {
   const cookieStore = await cookies();
   const locale = cookieStore.get("NEXT_LOCALE")?.value || "ar";
@@ -204,6 +228,7 @@ export default async function Home() {
 
   const localContent = getHomeContent();
   const carouselData = getCarouselData();
+  const enrichedCarouselData = await enrichCarouselWithLiveRatings(carouselData);
 
   console.log("First 5 carousel items in page.tsx:");
   localContent.slice(0, 5).forEach((item, i) => {
@@ -306,8 +331,8 @@ export default async function Home() {
 
 
       {/* ═══════ HERO CAROUSEL (New Full-Screen with YouTube Trailer) ═══════ */}
-      {carouselData.length > 0 && (
-        <HeroCarousel items={carouselData} locale={locale} />
+      {enrichedCarouselData.length > 0 && (
+        <HeroCarousel items={enrichedCarouselData} locale={locale} />
       )}
 
       {/* ═══════ NEWS BAR ═══════ */}

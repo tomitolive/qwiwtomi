@@ -1,6 +1,8 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
+import 'react-circular-progressbar/dist/styles.css';
 
 interface CarouselItem {
   tmdb_id: number;
@@ -97,6 +99,19 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
 
   const isRTL = locale === 'ar';
 
+  // Calculate percentage from rating (0-10 scale to 0-100)
+  const ratingPercentage = (parseFloat(rating) / 10) * 100;
+
+  // Get rating color based on value
+  const getRatingColor = (ratingValue: number) => {
+    if (ratingValue >= 7.1) return '#22c55e'; // green-500
+    if (ratingValue >= 6) return '#eab308'; // yellow-500
+    if (ratingValue >= 4) return '#f97316'; // orange-500
+    return '#ef4444'; // red-500
+  };
+
+  const ratingColor = getRatingColor(parseFloat(rating));
+
   return (
     <div className="hero-carousel-full" dir={isRTL ? 'rtl' : 'ltr'}>
       {/* Background Video/Image */}
@@ -127,26 +142,6 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
           />
         ) : null}
         
-        {/* Mobile Mute Button */}
-        {localVideoPath && (
-          <button 
-            className="hero-mobile-mute-button"
-            onClick={toggleMute}
-            aria-label={isMuted ? 'Unmute' : 'Mute'}
-          >
-            {isMuted ? (
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M11 5L6 9H2v6h4l5 4V5z"/>
-                <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/>
-              </svg>
-            ) : (
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M11 5L6 9H2v6h4l5 4V5z"/>
-              </svg>
-            )}
-          </button>
-        )}
-        
         <div 
           className="hero-mobile-play-button"
           onClick={() => window.location.href = itemLink}
@@ -162,22 +157,47 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
         <div className="hero-content-inner">
           {/* Year + Rating */}
           <div className="hero-year-rating-row">
-            {year && <span className="hero-year">{year}</span>}
+            {year && <span className="hero-year">سنة الإنتاج: {year}</span>}
             {rating && (
               <div className="hero-rating-badge">
-                <span>{rating}/10</span>
-                <div className="hero-rating-stars">
-                  {[1, 2, 3, 4, 5].map((star) => (
-                    <svg 
-                      key={star} 
-                      width="12" 
-                      height="12" 
-                      viewBox="0 0 24 24" 
-                      fill={star <= Math.round(parseFloat(rating) / 2) ? "currentColor" : "rgba(255,255,255,0.3)"}
-                    >
-                      <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-                    </svg>
-                  ))}
+                <div className="consensus details">
+                  <div className="outer_ring">
+                    <div className="user_score_chart">
+                      <div className="percent">
+                        <span>{Math.round(ratingPercentage)}%</span>
+                      </div>
+                      <div style={{ width: '44px', height: '44px' }}>
+                        <CircularProgressbar
+                          value={ratingPercentage}
+                          styles={buildStyles({
+                            rotation: 0,
+                            strokeLinecap: 'round',
+                            textSize: '0',
+                            pathTransitionDuration: 0.5,
+                            pathColor: ratingColor,
+                            trailColor: '#204529',
+                          })}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="hero-rating-stars-mobile">
+                  <span>{rating}/10</span>
+                  <div className="hero-rating-stars">
+                    {[1, 2, 3, 4, 5].map((star) => (
+                      <svg
+                        key={star}
+                        width="12"
+                        height="12"
+                        viewBox="0 0 24 24"
+                        fill={star <= Math.round(parseFloat(rating) / 2) ? "currentColor" : "rgba(255,255,255,0.3)"}
+                        style={{ color: ratingColor }}
+                      >
+                        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                      </svg>
+                    ))}
+                  </div>
                 </div>
               </div>
             )}

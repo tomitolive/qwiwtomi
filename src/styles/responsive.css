@@ -219,6 +219,11 @@
     font-size: 0.8rem !important;
     width: 100% !important;
   }
+
+  /* Remove gradient background from hero-rating-badge on mobile */
+  .hero-rating-badge {
+    background: none !important;
+  }
 }
 
 @media (max-width: 480px) {

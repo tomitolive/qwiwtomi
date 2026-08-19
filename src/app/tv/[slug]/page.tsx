@@ -108,11 +108,26 @@ export default async function TVPage({ params }: Props) {
     local?.first_air_date ||
     "2026"
   ).substring(0, 4);
+
+  // Get trailer from TMDB safely; override vote_average in memory only (JSON file is unchanged)
+  let trailer = null;
+  try {
+    const tmdbDetails = await getDetails(id, "tv");
+    const videos = tmdbDetails?.videos?.results || [];
+    trailer = videos.find((v: any) => v.type === "Trailer" && v.site === "YouTube") || videos[0];
+    const live = tmdbDetails?.ar?.vote_average ?? tmdbDetails?.en?.vote_average;
+    if (typeof live === "number" && live > 0) {
+      data.vote_average = live;
+    }
+  } catch (error) {
+    console.error(`Failed to fetch TMDB details for tv ${id}:`, error);
+  }
+
   const rating = data.vote_average?.toFixed(1);
   
   // Dynamic rating color based on value (green for high, red for low)
   const getRatingColor = (ratingValue: number) => {
-    if (ratingValue >= 8) return '#22c55e'; // green-500
+    if (ratingValue >= 7.1) return '#22c55e'; // green-500
     if (ratingValue >= 6) return '#eab308'; // yellow-500
     if (ratingValue >= 4) return '#f97316'; // orange-500
     return '#ef4444'; // red-500
@@ -133,16 +148,6 @@ export default async function TVPage({ params }: Props) {
 
   // Function to check if card should show ad link (70% chance)
   const shouldShowAdLink = () => Math.random() < 0.7;
-
-  // Get trailer from TMDB safely
-  let trailer = null;
-  try {
-    const tmdbDetails = await getDetails(id, "tv");
-    const videos = tmdbDetails?.videos?.results || [];
-    trailer = videos.find((v: any) => v.type === "Trailer" && v.site === "YouTube") || videos[0];
-  } catch (error) {
-    console.error(`Failed to fetch TMDB details for tv ${id}:`, error);
-  }
 
   const tvSchema = {
     "@context": "https://schema.org",

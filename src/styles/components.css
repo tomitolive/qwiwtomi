@@ -121,10 +121,69 @@
   gap: 0.25rem;
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
-  background: linear-gradient(135deg, #ffbf00, #e68600);
+  background: none;
   color: #000;
   font-size: 0.75rem;
   font-weight: 900;
+}
+
+.hero-rating-badge {
+  background: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.consensus.details {
+  display: inline-block;
+}
+
+.outer_ring {
+  position: relative;
+  display: inline-block;
+}
+
+.user_score_chart {
+  position: relative;
+  display: inline-block;
+}
+
+.user_score_chart .percent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+}
+
+.easy-pie-chart-canvas {
+  display: block;
+}
+
+.hero-rating-stars-mobile {
+  display: none;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+.hero-rating-stars {
+  display: flex;
+  gap: 2px;
+}
+
+@media (max-width: 768px) {
+  .consensus.details {
+    display: none;
+  }
+
+  .hero-rating-stars-mobile {
+    display: inline-flex;
+  }
 }
 
 .genre-tag,
