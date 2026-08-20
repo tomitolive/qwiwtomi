@@ -4,12 +4,12 @@
   "title_ar": "Scooby-Doos A Nutcracker Scoob",
   "title_en": "Scooby-Doos A Nutcracker Scoob",
   "slug": "48919-scooby-doos-a-nutcracker-scoob",
-  "overview": "يستعد الشر لإفساد موسم عيد الميلاد مرة أخرى في دار الأيتام. هل يمكن لفريق سكوبي أن يدفئ قلبه؟ فيلم \"Scooby-Doos A Nutcracker Scoob\" هو فيلم رسوم متحركة عائلي كوميدي مليء بالغموض.",
+  "overview": "يحكي هذا العمل قصة سكوبي دوس سكوب كسارة البندق، حيث يتحول عيد الميلاد إلى عيد مأساة لمنزل الأطفال. يبدو أن الشر يهدد مجدداً بتهديد موسم عيد الميلاد السادس عشر. ولكن هل يمكن لجماعة سكوبي أن تسخن قلبه وتعيد جعل عيد الميلاد مناسباً لمعشر الأطفال؟",
   "poster_path": "/hPnHdgLYxUtgSxMoGeuhKxttJBS.jpg",
   "backdrop_path": null,
   "release_date": "1984-12-01",
-  "vote_average": 9.1,
-  "vote_count": 67,
+  "vote_average": 9.0,
+  "vote_count": 68,
   "genres": [
     {
       "id": 16,
@@ -29,23 +29,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Scooby-Doos A Nutcracker Scoob (1984) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يستعد الشر لإفساد موسم عيد الميلاد مرة أخرى في دار الأيتام. هل يمكن لفريق سكوبي أن يدفئ قلبه؟ فيلم \"Scooby-Doos A Nutcracker Scoob\" هو فيلم رسوم متحركة عائلي كوميدي مليء بالغموض.",
-    "desc_en": "Evil is back to ruin Christmas for the orphanage. Can the Scooby gang save the day? \"Scooby-Doos A Nutcracker Scoob\" is a heartwarming animated comedy-mystery film.",
-    "seo_title_ar": "مشاهدة فيلم Scooby-Doos A Nutcracker Scoob مترجم - توميتو",
-    "meta_desc": "شاهد فيلم Scooby-Doos A Nutcracker Scoob المترجم - فيلم رسوم متحركة عائلي كوميدي مليء بالغموض. هل يمكن لفريق سكوبي أن ينقذ عيد الميلاد؟",
-    "outro": "شاهد Scooby-Doos A Nutcracker Scoob الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"Scooby-Doos A Nutcracker Scoob\" هو فيلم عائلي ممتع ومليء بالمغامرات. قصة جميلة ومضحكة تناسب جميع الأعمار.",
-    "opinion_en": "\"Scooby-Doos A Nutcracker Scoob\" is a delightful family film with a heartwarming story and plenty of laughs. A perfect holiday treat!",
+    "intro": "هذا العمل هو جزء من سلسلة من الأعمال الفنية الرائعة التي تنال استحسان الجماهير. ينتظر منكم تجربة ممتعة مع العائلة.",
+    "desc_ar": "يحكي هذا العمل قصة سكوبي دوس سكوب كسارة البندق، حيث يتحول عيد الميلاد إلى عيد مأساة لمنزل الأطفال. يبدو أن الشر يهدد مجدداً بتهديد موسم عيد الميلاد السادس عشر. ولكن هل يمكن لجماعة سكوبي أن تسخن قلبه وتعيد جعل عيد الميلاد مناسباً لمعشر الأطفال؟",
+    "desc_en": "The evil is set to dampen another Christmas season for the children's home. Can the Scooby gang warm his heart and make Christmas a joyous occasion for the kids once again?",
+    "seo_title_ar": "مشاهدة سكوبي دوس سكوب كسارة البندق مترجم - توتومتو",
+    "meta_desc": "شاهد فيلم سكوبي دوس سكوب كسارة البندق مترجم على توتومتو - فيلم رسوم متحركة عائلي كوميدي غموض من عام 1984. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترا",
+    "outro": "أنتظر منكم أن تجربوا هذا العمل الرائع مع عائلتكم و أن تكونوا جزءًا من تجربة ممتعة.",
+    "opinion_ar": "فيلم سكوبي دوس سكوب كسارة البندق هو تجربة خيالية وممتعة لجميع أفراد الأسرة. يمتاز هذا العمل بالرسوم المتحركة المثيرة و العلاقة بين الشخصيات",
+    "opinion_en": "Scooby-Doos A Nutcracker Scoob is a thrilling and entertaining experience for the whole family. It's a visual treat with captivating animation and character relationships",
     "faq": [
       {
-        "q": "هل فيلم Scooby-Doos A Nutcracker Scoob مناسب للأطفال؟",
-        "a": "نعم، الفيلم مناسب للعائلات والأطفال. فهو فيلم رسوم متحركة مليء بالمغامرات والمرح.",
-        "q_en": "Is Scooby-Doos A Nutcracker Scoob suitable for children?",
-        "a_en": "Absolutely! It's a family-friendly animated film with a fun and heartwarming story."
+        "q": "متى تم إنتاج فيلم سكوبي دوس سكوب كسارة البندق؟",
+        "a": "تم إنتاج فيلم سكوبي دوس سكوب كسارة البندق في عام 1984.",
+        "q_en": "When was Scooby-Doos A Nutcracker Scoob released?",
+        "a_en": "Scooby-Doos A Nutcracker Scoob was released in 1984."
+      },
+      {
+        "q": "ماهو نوع فيلم سكوبي دوس سكوب كسارة البندق؟",
+        "a": "فيلم سكوبي دوس سكوب كسارة البندق هو فيلم رسوم متحركة عائلي كوميدي غموض.",
+        "q_en": "What type of movie is Scooby-Doos A Nutcracker Scoob?",
+        "a_en": "Scooby-Doos A Nutcracker Scoob is an animated family comedy mystery film."
       }
     ],
-    "keywords": "Scooby-Doos A Nutcracker Scoob, فيلم, رسوم متحركة, عائلي, كوميدي, غموض, سكوبي دو, عيد الميلاد, مغامرات, أطفال"
+    "keywords": "سكوبي دوس سكوب كسارة البندق, فيلم, رسوم متحركة, عائلي, كوميديا, غموض, 1984, مشاهدة سكوبي دوس سكوب كسارة البندق, Scooby-Doos Nutcracker Scoob مترجم, تحميل سكوبي دوس سكوب كسارة البندق, سكوبي دوس سكوب كسارة البندق اون لاين, Scooby-Doos Nutcracker Scoob, سكوبي دوس سكوب كسارة البندق جودة عالية, فيلم سكوبي دوس سكوب كسارة البندق, Scooby-Doos Nutcracker Scoob HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

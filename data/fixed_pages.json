@@ -6539,8 +6539,86 @@
       "file": "91121.json",
       "title": "How Do You Play",
       "fixed_at": "2026-08-20T11:21:11.229855"
+    },
+    {
+      "tmdb_id": "69",
+      "file": "69.json",
+      "title": "Walk the Line",
+      "fixed_at": "2026-08-20T11:53:56.689368"
+    },
+    {
+      "tmdb_id": "85",
+      "file": "85.json",
+      "title": "Raiders of the Lost Ark",
+      "fixed_at": "2026-08-20T11:54:06.614973"
+    },
+    {
+      "tmdb_id": "176",
+      "file": "176.json",
+      "title": "Saw",
+      "fixed_at": "2026-08-20T11:54:16.464641"
+    },
+    {
+      "tmdb_id": "117030",
+      "file": "117030.json",
+      "title": "نحن الدببة الصغار",
+      "fixed_at": "2026-08-20T11:54:24.392861"
+    },
+    {
+      "tmdb_id": "48919",
+      "file": "48919.json",
+      "title": "Scooby-Doos A Nutcracker Scoob",
+      "fixed_at": "2026-08-20T11:54:33.349371"
+    },
+    {
+      "tmdb_id": "10431",
+      "file": "10431.json",
+      "title": "War",
+      "fixed_at": "2026-08-20T11:54:41.353663"
+    },
+    {
+      "tmdb_id": "1484913",
+      "file": "1484913.json",
+      "title": "Ikka",
+      "fixed_at": "2026-08-20T11:54:51.884312"
+    },
+    {
+      "tmdb_id": "272059",
+      "file": "272059.json",
+      "title": "أن تصبح البطل إكس",
+      "fixed_at": "2026-08-20T11:54:59.964484"
+    },
+    {
+      "tmdb_id": "43943",
+      "file": "43943.json",
+      "title": "Jack Goes Boating",
+      "fixed_at": "2026-08-20T11:55:12.842828"
+    },
+    {
+      "tmdb_id": "285310",
+      "file": "285310.json",
+      "title": "Number One on the Call Sheet",
+      "fixed_at": "2026-08-20T11:55:20.808088"
+    },
+    {
+      "tmdb_id": "91555",
+      "file": "91555.json",
+      "title": "All Elite Wrestling: Dynamite",
+      "fixed_at": "2026-08-20T11:55:28.644025"
+    },
+    {
+      "tmdb_id": "1715492",
+      "file": "1715492.json",
+      "title": "Shipwrecked: Nightmare at Sea",
+      "fixed_at": "2026-08-20T11:55:39.233190"
+    },
+    {
+      "tmdb_id": "37135",
+      "file": "37135.json",
+      "title": "طرزان",
+      "fixed_at": "2026-08-20T11:56:03.130985"
     }
   ],
-  "last_updated": "2026-08-20T11:21:13.232577",
-  "total_fixed": 1090
+  "last_updated": "2026-08-20T11:56:05.133730",
+  "total_fixed": 1103
 }
