@@ -7643,8 +7643,56 @@
       "file": "976.json",
       "title": "Sweet Smell of Success",
       "fixed_at": "2026-08-20T21:22:24.452207"
+    },
+    {
+      "tmdb_id": "40879",
+      "file": "40879.json",
+      "title": "Dahoam is Dahoam",
+      "fixed_at": "2026-08-20T22:00:19.851051"
+    },
+    {
+      "tmdb_id": "1601243",
+      "file": "1601243.json",
+      "title": "Oscar Shaw",
+      "fixed_at": "2026-08-20T22:00:54.136130"
+    },
+    {
+      "tmdb_id": "138832",
+      "file": "138832.json",
+      "title": "Were the Millers",
+      "fixed_at": "2026-08-20T22:01:23.616083"
+    },
+    {
+      "tmdb_id": "790",
+      "file": "790.json",
+      "title": "Agatha Christies Poirot",
+      "fixed_at": "2026-08-20T22:01:36.355034"
+    },
+    {
+      "tmdb_id": "220542",
+      "file": "220542.json",
+      "title": "مذكرات الصيدلانية",
+      "fixed_at": "2026-08-20T22:02:04.928624"
+    },
+    {
+      "tmdb_id": "119806",
+      "file": "119806.json",
+      "title": "المنظمة",
+      "fixed_at": "2026-08-20T22:02:17.046647"
+    },
+    {
+      "tmdb_id": "65",
+      "file": "65.json",
+      "title": "8 أميال",
+      "fixed_at": "2026-08-20T22:02:27.161322"
+    },
+    {
+      "tmdb_id": "82428",
+      "file": "82428.json",
+      "title": "All American",
+      "fixed_at": "2026-08-20T22:02:39.624469"
     }
   ],
-  "last_updated": "2026-08-20T21:22:26.455001",
-  "total_fixed": 1274
+  "last_updated": "2026-08-20T22:02:41.627124",
+  "total_fixed": 1282
 }

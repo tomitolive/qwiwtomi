@@ -9,7 +9,7 @@
   "backdrop_path": "/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
   "release_date": "2002-11-08",
   "vote_average": 7.1,
-  "vote_count": 7814,
+  "vote_count": 7930,
   "genres": [
     {
       "id": 18,
@@ -21,12 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "المكان هو ديترويت في عام 1995. المدينة مقسمة بمقدار 8 أميال ، وهو طريق يقسم المدينة إلى نصفين على طول الخطوط العرقية. يستدعي مغني الراب الأبيض الشاب جيمي \"بي رابيت\" سميث جونيور القوة داخل نفسه لعبور هذه الحدود العشوائية لتحقيق حلمه في النجاح في موسيقى الهيب هوب. مع وجود صديقه في المستقبل والثلث الثلاثة في مكانه ، كل ما عليه فعله هو عدم الاختناق.",
-    "desc_en": "المكان هو ديترويت في عام 1995. المدينة مقسمة بمقدار 8 أميال ، وهو طريق يقسم المدينة إلى نصفين على طول الخطوط العرقية. يستدعي مغني الراب الأبيض الشاب جيمي \"بي رابيت\" سميث جونيور القوة داخل نفسه لعبور هذه الحدود العشوائية لتحقيق حلمه في النجاح في موسيقى الهيب هوب. مع وجود صديقه في المستقبل والثلث الثلاثة في مكانه ، كل ما عليه فعله هو عدم الاختناق.",
-    "meta_desc": "مشاهدة 8 أميال مترجم بجودة عالية على توميتو.",
-    "keywords": "8 Mile, قصة فيلم 8 أميال, 8 أميال مترجم, توميتو 8 أميال, أحداث 8 أميال بالتفصيل, مشاهدة 8 أميال 2026",
-    "seo_title_ar": "مشاهدة 8 أميال مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم 8 أميال قصة شاب من ديترويت يُدعى جيمي سميث الابن، يعيش في مدينة مقسمة إلى نصفين على طول الخطوط العرقية.",
+    "desc_ar": "يحكي فيلم 8 أميال قصة شاب من ديترويت يُدعى جيمي سميث الابن، يعيش في مدينة مقسمة إلى نصفين على طول الخطوط العرقية، ويحاول جيمي تحقيق حلمه في النجاح في موسيقى الهيب هوب، مع واجهة صعبة ومغامرات شخصية متعددة، وهو ما يجعل من جيمي مثالاً للشباب في المدينة، ويشكّل هذا العمل دراما موسيقية تُظهر القوة والهوية.",
+    "desc_en": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment is another chance.",
+    "seo_title_ar": "مشاهدة فيلم 8 أميال مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم 8 أميال مترجم - فيلم دراما موسيقي عن قصة شاب من ديترويت يدعى جيمي سميث الابن، يعيش في مدينة مقسمة إلى نصفين على طول الخطوط العرقية، وي",
+    "outro": "فيلم 8 أميال هو تجربة روائية مشهورة تعكس الحياة في ديترويت، ويُظهر الفيلم قوة وهمية، ويجذب المشاهدين.",
+    "opinion_ar": "فيلم 8 أميال هو تجربة روائية مشهورة تعكس الحياة في ديترويت، ويُظهر الفيلم قوة وهمية، ويجذب المشاهدين.",
+    "opinion_en": "8 Mile is a remarkable film that captures life in Detroit, showcasing a powerful and inspiring story that captivates audiences.",
+    "faq": [
+      {
+        "q": "ما هو فيلم 8 أميال؟",
+        "a": "فيلم دراما موسيقي يروي قصة شاب من ديترويت يُدعى جيمي سميث الابن، يعيش في مدينة مقسمة إلى نصفين على طول الخطوط العرقية، ويشكّل هذا العمل مثالاً للشباب في المدينة، ويعكس القوة والهوية.",
+        "q_en": "What is 8 Mile?",
+        "a_en": "8 Mile is a drama music film that tells the story of a young man from Detroit named Jimmy Smith, Jr., living in a city divided along racial lines, and showcases a powerful and inspiring story that captivates audiences."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم دراما موسيقي",
+        "q_en": "What type of film is 8 Mile?",
+        "a_en": "8 Mile is a drama music film"
+      }
+    ],
+    "keywords": "فيلم 8 أميال, ديترويت, موسيقى الهيب هوب, دراما, قوة, هوية, فيلم أمريكي, 2002, مشاهدة 8 أميال, 8 Mile مترجم, تحميل 8 أميال, 8 أميال اون لاين, 8 Mile, 8 أميال جودة عالية, 8 Mile HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +51,5 @@
   "duration": "111 دقيقة",
   "language": "الإنجليزية",
   "country": "ألمانيا",
-  "cast": "Eminem Kim Basinger Mekhi Phifer Brittany Murphy Evan Jones"
+  "cast": "Eminem Kim Basinger Mekhi Phifer Brittany Murphy Evan Jones Omar Benson Miller De'Angelo Wilson Eugene Byrd"
 }
