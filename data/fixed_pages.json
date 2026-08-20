@@ -7193,8 +7193,74 @@
       "file": "224941.json",
       "title": "بلدة المتقاعدين",
       "fixed_at": "2026-08-20T17:32:16.426935"
+    },
+    {
+      "tmdb_id": "753",
+      "file": "753.json",
+      "title": "Faces",
+      "fixed_at": "2026-08-20T17:58:58.364727"
+    },
+    {
+      "tmdb_id": "875",
+      "file": "875.json",
+      "title": "Guiding Light",
+      "fixed_at": "2026-08-20T17:59:19.029213"
+    },
+    {
+      "tmdb_id": "630",
+      "file": "630.json",
+      "title": "ساحر أوز",
+      "fixed_at": "2026-08-20T17:59:31.378283"
+    },
+    {
+      "tmdb_id": "11674",
+      "file": "11674.json",
+      "title": "101 مئة مرقش ومرقش",
+      "fixed_at": "2026-08-20T18:00:18.329970"
+    },
+    {
+      "tmdb_id": "248361",
+      "file": "248361.json",
+      "title": "Beyond the Gates",
+      "fixed_at": "2026-08-20T18:00:31.497477"
+    },
+    {
+      "tmdb_id": "4743",
+      "file": "4743.json",
+      "title": "El internado",
+      "fixed_at": "2026-08-20T18:00:58.977092"
+    },
+    {
+      "tmdb_id": "786892",
+      "file": "786892.json",
+      "title": "فيوريوسا: ملحمة ماد ماكس",
+      "fixed_at": "2026-08-20T18:03:08.515631"
+    },
+    {
+      "tmdb_id": "216467",
+      "file": "216467.json",
+      "title": "Mission: Yozakura Family",
+      "fixed_at": "2026-08-20T18:03:35.100958"
+    },
+    {
+      "tmdb_id": "1184918",
+      "file": "1184918.json",
+      "title": "الروبوت البري",
+      "fixed_at": "2026-08-20T18:03:47.953901"
+    },
+    {
+      "tmdb_id": "5368",
+      "file": "5368.json",
+      "title": "Lassie",
+      "fixed_at": "2026-08-20T18:04:00.923997"
+    },
+    {
+      "tmdb_id": "62211",
+      "file": "62211.json",
+      "title": "جامعة المرعبين",
+      "fixed_at": "2026-08-20T18:04:16.711734"
     }
   ],
-  "last_updated": "2026-08-20T17:32:18.429750",
-  "total_fixed": 1199
+  "last_updated": "2026-08-20T18:04:18.714757",
+  "total_fixed": 1210
 }

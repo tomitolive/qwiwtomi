@@ -4,9 +4,7 @@
   "title_ar": "Guiding Light",
   "title_en": "Guiding Light",
   "slug": "875-guiding-light",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "ضوء التوجيه، المسلسل الذي يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، تم بثه من عام 1952 حتى عام 2009، والذي يعتبر ثالث أطول برنامج في تاريخ البث، حيث أصبح المسلسل في عام 2009 على وشك الإفلاس بسبب عدم ارتفاع إيراداته، وتم تصوير المشاهد الأخيرة في 11 آب 2009، والذي تم بثه في 18 أيلول 2009، بعد بثه على التلفزيون لمدة 72 عاماً، وتحتل مسيرة هذا المسلسل المرتبة الثالثة في تاريخ البث.",
   "poster_path": "/uRJntFgQJuHLJDvRHDsHBcsxE7q.jpg",
   "backdrop_path": "/e6tItyViWEFvcTILGzAHlQIgKHb.jpg",
   "release_date": "1952-06-30",
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الأبرا الصابونية، حيث تتداخل الأعمال والشعائر، تظهر سيدة الهداية، التي تتميز ببراعتها والشعور بالمسئولية، وتقود فريقاً من الرجال والنساء في رحلة البحث عن الحقيقة والعدالة في عالم مليء بالخداع والغفلة.",
-    "desc_en": "In the world of opera and drama, where work and worship intersect, the guiding light appears, distinguished by her wisdom and sense of responsibility, leading a team of men and women on a journey to search for truth and justice in a world full of deceit and forgetfulness.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أبرا صابونية - توميتو",
-    "seo_title_ar": "مشاهدة فيلم أبرا صابونية مترجم اون لاين - توميتو",
-    "keywords": "فيلم أبرا صابونية مترجم, مشاهدة فيلم أبرا صابونية, مشاهدة Guiding Light 1952, قصة مسلسل Guiding Light, أحداث Guiding Light بالتفصيل, Guiding Light مترجم كامل, توميتو Guiding Light",
-    "opinion": "هذه السلسلة هي المثال الأبرز لما يمكن أن يفعله الدراما عندما تتميز بالشعور بالمسئولية والبراعت، توفير تجربة مشاهدة رائعة لمن يبحثون عن الحقيقة والعدالة.",
+    "intro": "ضوء التوجيه هو مسلسل درامي أمريكي يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، تم بثه من عام 1952 حتى عام 2009.",
+    "desc_ar": "ضوء التوجيه، المسلسل الذي يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، تم بثه من عام 1952 حتى عام 2009، والذي يعتبر ثالث أطول برنامج في تاريخ البث، حيث أصبح المسلسل في عام 2009 على وشك الإفلاس بسبب عدم ارتفاع إيراداته، وتم تصوير المشاهد الأخيرة في 11 آب 2009، والذي تم بثه في 18 أيلول 2009، بعد بثه على التلفزيون لمدة 72 عاماً، وتحتل مسيرة هذا المسلسل المرتبة الثالثة في تاريخ البث.",
+    "desc_en": "Guiding Light is an American television soap opera that is credited by the Guinness Book of World Records as the longest-running television drama in history. The show has been broadcast from 1952 until 2009, and stands as the third longest-running program in all of broadcast history.",
+    "seo_title_ar": "مشاهدة مسلسل ضوء التوجيه مترجم - توميتو",
+    "meta_desc": "ضوء التوجيه، مسلسل دراما أمريكي يعتبر أطول مسلسل درامي في تاريخ التلفزيون، تم بثه من 1952 إلى 2009، يعتبر ثالث أطول برنامج في تاريخ البث، استمتع بمشاهدته،",
+    "outro": "ضوء التوجيه هو المسلسل الذي سيكون دائمًا في ذاكرة الجماهير، حيث يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، وتحتل مسيرته المرتبة الثالثة في تاريخ البث.",
+    "opinion_ar": "ضوء التوجيه هو المسلسل الذي سيكون دائمًا في ذاكرة الجماهير، حيث يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، وتحتل مسيرته المرتبة الثالثة في تاريخ البث.",
+    "opinion_en": "Guiding Light is a soap opera that will forever be etched in the minds of the audience, being the longest-running television drama in history, and standing as the third longest-running program in all of broadcast history.",
     "faq": [
       {
-        "q": "ما هو أبرا صابونية؟",
-        "a": "هو نوع من الأعمال الدرامية التي تجمع بين العمل والشعارة."
+        "q": "ما هو مسلسل ضوء التوجيه؟",
+        "a": "ضوء التوجيه هو مسلسل درامي أمريكي يُعتبر أطول مسلسل درامي في تاريخ التلفزيون، تم بثه من عام 1952 حتى عام 2009.",
+        "q_en": "What is Guiding Light?",
+        "a_en": "Guiding Light is an American television soap opera that is credited by the Guinness Book of World Records as the longest-running television drama in history."
       },
       {
-        "q": "ما هو هدف السلسلة؟",
-        "a": "هدف السلسلة هو البحث عن الحقيقة والعدالة في عالم مليء بالخداع والغفلة."
-      },
-      {
-        "q": "ما هو ما ينتظرني في السلسلة؟",
-        "a": "يمكنك أنتظر تجربة مشاهدة رائعة لمن يبحثون عن الحقيقة والعدالة، مع أبرا صابونية"
+        "q": "لماذا تم إيقاف بث مسلسل ضوء التوجيه؟",
+        "a": "تم إيقاف بث مسلسل ضوء التوجيه بسبب عدم ارتفاع إيراداته، وتم بثه على التلفزيون لمدة 72 عاماً.",
+        "q_en": "Why was Guiding Light canceled?",
+        "a_en": "Guiding Light was canceled due to low ratings, and was broadcast on television for 72 years."
       }
-    ]
+    ],
+    "keywords": "ضوء التوجيه, مسلسل درامي أمريكي, أطول مسلسل درامي في تاريخ التلفزيون, مسلسل درامي, دراما, أوبرا صابونية, مسلسل أمريكي, مشاهدة ضوء التوجيه, Guiding Light مترجم, تحميل ضوء التوجيه, ضوء التوجيه اون لاين, Guiding Light, ضوء التوجيه جودة عالية, فيلم ضوء التوجيه, Guiding Light online"
   },
   "fixed": true,
-  "first_air_date": "1952-06-30",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "82 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Marlene Dietrich Clive Brook Anna May Wong Warner Oland Eugene Pallette"
+  "cast": "",
+  "first_air_date": "1952-06-30"
 }

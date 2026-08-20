@@ -4,14 +4,12 @@
   "title_ar": "Mission: Yozakura Family",
   "title_en": "Mission: Yozakura Family",
   "slug": "216467-mission-yozakura-family",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة تايو أسانو، الذي فقد والديه في وقت مبكر، ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا. ولكن ميتسومي تحمل سرًا هامًا - هي رأس عائلة من مراقبين مخفيين! وبالإضافة إلى ذلك، يحمي أخاها كيويتشيرو ميتسومي بكل قوة، وهذا يهدد حياة تايو. لمنع كيويتشيرو من قتل تايو، يجب أن يتخذاخطوًا نهائيًا - الزواج! لأن في عائلة يوزاكورا، العائلة لا تقتل العائلة.",
   "poster_path": "/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
   "backdrop_path": "/xUC6mdVESvJN2umz8mNxKn89Htf.jpg",
   "release_date": "2024-04-07",
   "vote_average": 7.5,
-  "vote_count": 62,
+  "vote_count": 68,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,90 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالمرحلة والفضول، تظهر عائلة يوزاكورا، عائلة رائعة تملك قوةً فائقةً في القتال. لكن، عندما يتعرضون لخطر كبير، يجب أن يتعاونوا مع بعض الأصدقاء لإنقاذ العالم من الخراب. سيتعاونون مع بعض الأصدقاء لإنقاذ العالم من الخراب.",
-    "desc_en": "In a world full of wonder and excitement, the Yozakura family, a remarkable family with extraordinary combat abilities, emerges. However, when they face a major threat, they must join forces with some friends to save the world from destruction. They will join forces with some friends to save the world from destruction.",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في رسوم متحركة كوميديا حركة ومغامرة)",
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم كوميديا حركة ومغامرة, Mission: Yozakura Family مترجم كامل, أحداث Mission: Yozakura Family بالتفصيل, قصة مسلسل Mission: Yozakura Family, توميتو Mission: Yozakura Family, مشاهدة Mission: Yozakura Family 2024",
-    "seo_title_ar": "مشاهدة فيلم رسوم متحركة كوميديا حركة ومغامرة [اسم الفيلم] مترجم اون لاين - توميتو",
-    "opinion": "هذه السلسلة التلفزيونية هي واحدة من أفضل ما يمكن مشاهدة في هذا النوع من الفنون. القصة مليئة بالمرحلة والفضول، والشخصيات هي رائعة. سوف تتمتعون بالسلاسة والمرحلة في هذه السلسلة.",
+    "intro": "يتناول مسلسل المهمة: عائلة يوزاكورا قصة تايو أسانو، الذي فقد والديه في وقت مبكر، ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا.",
+    "desc_ar": "يحكي هذا المسلسل قصة تايو أسانو، الذي فقد والديه في وقت مبكر، ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا. ولكن ميتسومي تحمل سرًا هامًا - هي رأس عائلة من مراقبين مخفيين! وبالإضافة إلى ذلك، يحمي أخاها كيويتشيرو ميتسومي بكل قوة، وهذا يهدد حياة تايو. لمنع كيويتشيرو من قتل تايو، يجب أن يتخذاخطوًا نهائيًا - الزواج! لأن في عائلة يوزاكورا، العائلة لا تقتل العائلة.",
+    "desc_en": "Taiyo Asano has been on his own ever since his parents died and the only one who seems to care for him is his childhood friend and classmate, Mutsumi Yozakura. But Mutsumi has a secretshe is the head of a family of spies! And on top of that, her brother Kyoichiro is dangerously protective of her! To stop Kyoichiro from killing him, Taiyo and Mutsumi must take the ultimate leapmarriage! Because in the Yozakura family, family cannot kill family..",
+    "seo_title_ar": "مشاهدة مسلسل المهمة: عائلة يوزاكورا مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل المهمة: عائلة يوزاكورا مترجم - توميتو، قصة تايو أسانو، الذي يتعامل مع فقدان والديه ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في",
+    "outro": "وكانت حكاية تايو وميتسومي تجربة مشاهدة ممتعة وملحمية، يجمع بين العمل المثالي للرسوم المتحركة والتمثيل الممتاز، حيث أصبح الزواج هو الخيار الوحيد للعناية بمتسومي من أخيها كيويتشيرو!",
+    "opinion_ar": "مسلسل المهمة: عائلة يوزاكورا هو تجربة مشاهدة ممتعة وملحمية، يجمع بين العمل المثالي للرسوم المتحركة والتمثيل الممتاز.",
+    "opinion_en": "Mission: Yozakura Family is a thrilling and epic viewing experience, combining perfect animation work and outstanding acting.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة كوميديا حركة ومغامرة"
+        "q": "ما هو سر ميتسومي؟",
+        "a": "هي رأس عائلة من مراقبين مخفيين!",
+        "q_en": "What's Mutsumi's secret?",
+        "a_en": "She is the head of a family of spies!"
       },
       {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "هو موضوع إنقاذ العالم من الخراب"
+        "q": "لماذا يحتاج تايو إلى الزواج؟",
+        "a": "لن يمكن كيويتشيرو قتل تايو إذا تزوجا!",
+        "q_en": "Why does Taiyo need to get married?",
+        "a_en": "So Kyoichiro won't kill Taiyo!"
       },
       {
-        "q": "ما هو نوع القصة؟",
-        "a": "هو نوع قصة رائعة مليئة بالمرحلة والفضول"
+        "q": "ما هي قصة تايو؟",
+        "a": "يحكي المسلسل قصة تايو، الذي فقد والديه في وقت مبكر، ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا!",
+        "q_en": "What's Taiyo's story?",
+        "a_en": "The story revolves around Taiyo, who has been on his own since his parents died, and his only source of strength is his childhood friend and classmate, Mutsumi Yozakura!"
+      },
+      {
+        "q": "لماذا يجب أن يتخذ تايو ومتسومي الخطوة النهائية؟",
+        "a": "لن يمكن كيويتشيرو قتل تايو إذا تزوجا!",
+        "q_en": "Why does Taiyo and Mutsumi need to take the ultimate leap?",
+        "a_en": "So Kyoichiro won't kill Taiyo!"
+      },
+      {
+        "q": "ما هي عائلة يوزاكورا؟",
+        "a": "عائلة من مراقبين مخفيين!",
+        "q_en": "What is the Yozakura family?",
+        "a_en": "A family of spies!"
+      },
+      {
+        "q": "لماذا يحتاج تايو إلى حماية ميتسومي؟",
+        "a": "لن يمكن كيويتشيرو قتل تايو!",
+        "q_en": "Why does Taiyo need to protect Mutsumi?",
+        "a_en": "So Kyoichiro won't kill Taiyo!"
+      },
+      {
+        "q": "ما هو السر وراء حماية كيويتشيرو لميتسومي؟",
+        "a": "يحمي كيويتشيرو ميتسومي بكل قوة!",
+        "q_en": "What's behind Kyoichiro's protective nature towards Mutsumi?",
+        "a_en": "Kyoichiro is dangerously protective of Mutsumi!"
+      },
+      {
+        "q": "لماذا يجب أن يتخذ تايو ومتسومي الخطوة النهائية - الزواج؟",
+        "a": "لن يمكن كيويتشيرو قتل تايو!",
+        "q_en": "Why does Taiyo and Mutsumi need to take the ultimate leap - marriage?",
+        "a_en": "So Kyoichiro won't kill Taiyo!"
+      },
+      {
+        "q": "ما هي قصة تايو وميتسومي؟",
+        "a": "يحكي المسلسل قصة تايو، الذي فقد والديه في وقت مبكر، ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا!",
+        "q_en": "What's Taiyo and Mutsumi's story?",
+        "a_en": "The story revolves around Taiyo, who has been on his own since his parents died, and his only source of strength is his childhood friend and classmate, Mutsumi Yozakura!"
+      },
+      {
+        "q": "لماذا يجب أن يتخذ تايو ومتسومي الخطوة النهائية؟",
+        "a": "لن يمكن كيويتشيرو قتل تايو!",
+        "q_en": "Why does Taiyo and Mutsumi need to take the ultimate leap?",
+        "a_en": "So Kyoichiro won't kill Taiyo!"
+      },
+      {
+        "q": "ما هي قصة المسلسل؟",
+        "a": "يحكي المسلسل قصة تايو وميتسومي، الذي يتعامل مع فقدان والديه ويكون مصدر قوته وحده هو صديقه القديم ومترaberته في الفصل، ميتسومي يوزاكورا، مع سر هام يتحمل ميتسومي!",
+        "q_en": "What's the story of the series?",
+        "a_en": "The story revolves around Taiyo and Mutsumi, who have been dealing with the loss of his parents and his only source of strength is his childhood friend and classmate, Mutsumi Yozakura, with a secret that Mutsumi holds!"
       }
-    ]
+    ],
+    "keywords": "المهمة: عائلة يوزاكورا, مسلسل, رسوم متحركة, كوميديا, حركة ومغامرة, عائلة يوزاكورا, مراقبون مخفيون, تايو أسانو, ميتسومي يوزاكورا, كيويتشيرو يوزاكورا, زواج, حماية, سر, مخفي, مشاهدة المهمة: عائلة يوزاكورا"
   },
   "fixed": true,
-  "first_air_date": "2024-04-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "52 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Catherine Breillat"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Reiji Kawashima Kaede Hondo Katsuyuki Konishi Akari Kito Aoi Yuuki Kazuyuki Okitsu Yumi Uchiyama Kazuhiko Inoue",
+  "first_air_date": "2024-04-07"
 }
