@@ -1,57 +1,59 @@
 {
   "id": 13916,
-  "title": "مذكرة الموت",
-  "title_ar": "مذكرة الموت",
-  "title_en": "Death Note",
-  "slug": "13916-death-note",
-  "overview": "لايت ياغامي هو طالب في المرحلة الثانوية عثر على مذكرة تحمل اسم \"مذكرة الموت\" بعدما قام الشينيغامي (حاصد الأرواح) المعروف باسم \"ريوك\" بإسقاطها علي كوكب الأرض. تمنح لمن يستخدمها القدرة على قتل أي شخص سبق وأن رآه عن طريق كتابة اسمه في المذكرة. وتسرد ألأحداث محاولة \"لايت\" إقامة عالم خالٍ من الشر باستخدام المذكرة، ومن هنا يدور الصراع بين \"لايت\" وبين المحقق \"إل\" الذي يحاول القبض عليه.",
+  "title": "Shooting Gallery",
+  "title_ar": "Shooting Gallery",
+  "title_en": "Shooting Gallery",
+  "slug": "13916-shooting-gallery",
+  "overview": "يحكي فيلم \"معرض الرماية\" قصة شاب ذكي وحلاق الشوارع يلتقي بأمراء اللعبة، ويصل إلى ذروة ألقافه في عالم الجريمة، حيث يجد نفسه وسط مباراة بين قائده ومحقق متطرِّف.",
   "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
-  "backdrop_path": "/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
-  "release_date": "2006-10-04",
-  "vote_average": 8.6,
-  "vote_count": 5015,
+  "backdrop_path": "/cNnewGZg44VA5iEISR4JhR80k9Q.jpg",
+  "release_date": "2005-12-26",
+  "vote_average": 5.6,
+  "vote_count": 29,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
+      "id": 18,
+      "name": "دراما"
     },
     {
-      "id": 9648,
-      "name": "غموض"
+      "id": 53,
+      "name": "إثارة"
     },
     {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 80,
+      "name": "جريمة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل مذكرة الموت (2006) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مذكرة الموت هي سلسلة رسوم متحركة مثيرة تدور حول \"لايت ياغامي\"، الطالب الثانوي الذي عثر على مذكرة الموت السحرية. تمنح المذكرة القدرة على قتل أي شخص بمجرد كتابة اسمه، فيسعى لايت لإقامة عالم خالٍ من الشر. \"Death Note\"، المسلسل الذي يجمع بين الغموض والخيال العلمي، ويحكي صراع لايت مع المحقق إل.",
-    "desc_en": "Death Note is an animated series that follows Light Yagami, a high school student who discovers the mysterious Death Note. With the power to kill anyone by writing their name, Light aims to create a better world. The series blends mystery and fantasy as Light battles the detective L.",
-    "seo_title_ar": "مشاهدة مسلسل مذكرة الموت مترجم - توميتو",
-    "meta_desc": "مذكرة الموت: مسلسل رسوم متحركة غامض ومثير يجمع بين الخيال العلمي والفانتازيا. لايت ياغامي يجد مذكرة الموت، ويبدأ صراعه مع المحقق إل.",
-    "outro": "شاهد مذكرة الموت الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مذكرة الموت مسلسل مثير ومشوق، يجمع بين الغموض والخيال العلمي. قصة لايت وإقامته لعالم خالٍ من الشر تجذب المشاهدين وتدفعهم لمتابعة الأحداث بشغف.",
-    "opinion_en": "Death Note is a captivating series that blends mystery and fantasy. Light's journey to create a better world keeps viewers engaged and eager to see how his plan unfolds.",
+    "intro": "تدور أحداث فيلم \"معرض الرماية\" حول شاب ذكي وحلاق الشوارع.",
+    "desc_ar": "يحكي فيلم \"معرض الرماية\" قصة شاب ذكي وحلاق الشوارع يلتقي بأمراء اللعبة، ويصل إلى ذروة ألقافه في عالم الجريمة، حيث يجد نفسه وسط مباراة بين قائده ومحقق متطرِّف.",
+    "desc_en": "A street-smart pool player falls in with a pack of hustlers. As he rises in the underground circuit, he lands in the middle of a match between his boss and a crooked cop.",
+    "seo_title_ar": "مشاهدة معرض الرماية 2005 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Shooting Gallery 2005 بجودة عالية وترجمة احترافية، تدور أحداث الفيلم حول شاب ذكي وحلاق الشوارع يلتقي بأمراء اللعبة، ويصل إلى ذروة ألقافه في عال",
+    "outro": "يعد فيلم \"معرض الرماية\" تجربة مشاهدة ممتعة، مع بطاقته القوية والقصص المثيرة.",
+    "opinion_ar": "يعد فيلم \"معرض الرماية\" تجربة مشاهدة ممتعة، مع بطاقته القوية والقصص المثيرة.",
+    "opinion_en": "Shooting Gallery is a thrilling experience with a strong cast and gripping storylines.",
     "faq": [
       {
-        "q": "هل مذكرة الموت مسلسل واقعي؟",
-        "a": "لا، مذكرة الموت مسلسل رسوم متحركة خيالي.",
-        "q_en": "Is Death Note a realistic series?",
-        "a_en": "No, Death Note is an animated series with a fantasy storyline."
+        "q": "ما هي قصة فيلم \"معرض الرماية\"؟",
+        "a": "يحكي الفيلم قصة شاب ذكي وحلاق الشوارع يلتقي بأمراء اللعبة، ويصل إلى ذروة ألقافه في عالم الجريمة.",
+        "q_en": "What is the story of Shooting Gallery about?",
+        "a_en": "The film tells the story of a street-smart pool player who falls in with a pack of hustlers and rises to the top of the underground circuit."
+      },
+      {
+        "q": "من بطولة فيلم \"معرض الرماية\"؟",
+        "a": "يضم الفيلم مجموعة من الممثلين المتميزين في عالم السينما.",
+        "q_en": "Who stars in Shooting Gallery?",
+        "a_en": "The film features a talented cast of actors."
       }
     ],
-    "keywords": "مذكرة الموت, Death Note, رسوم متحركة, غموض, خيال علمي, فانتازيا, لايت ياغامي, المحقق إل"
+    "keywords": "فيلم معرض الرماية 2005, دراما, إثارة, جريمة, توميتو, مشاهدة معرض الرماية, Shooting Gallery مترجم, تحميل معرض الرماية, معرض الرماية اون لاين, Shooting Gallery, معرض الرماية جودة عالية, فيلم معرض الرماية, Shooting Gallery HD, معرض الرماية HD, مسلسل معرض الرماية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "22 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Mamoru Miyano Shido Nakamura Aya Hirano Kappei Yamaguchi Kimiko Saito Naoya Uchida Ryou Naitou Keiji Fujiwara",
-  "first_air_date": "2006-10-04",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "102 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Freddie Prinze Jr. Ving Rhames Roselyn Sánchez Callum Keith Rennie Devon Sawa Angus Macfadyen Jon Eyez Dan Bell"
 }

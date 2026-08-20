@@ -9,7 +9,7 @@
   "backdrop_path": "/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg",
   "release_date": "2015-11-14",
   "vote_average": 6.7,
-  "vote_count": 5989,
+  "vote_count": 6110,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم ما قبل التاريخ، يُدعى (أرلو) الديناصور المراهق والمنتمي إلى فصيلة (أباتوصور) الذي فقد اباه في حادث مأسوي بعد فيضان نهر وغرق الاب، وعلى أثره يخرج في رحلة، حيث يقابل الفتى (سبوت) من بني البشر، تتطور بينهم علاقة صداقة تغير مجرى حياتهم",
-    "desc_en": "In a world before time, Arlo, a young and adventurous Apatosaurus, loses his father in a devastating flood that destroys their home. On his journey to find a new home, he meets Spot, a human boy, and their unlikely friendship changes the course of their lives",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الديناصور اللطيف مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الديناصور اللطيف مترجم اون لاين - توميتو",
-    "keywords": "The Good Dinosaur, فيلم الديناصور اللطيف مترجم, مشاهدة فيلم الديناصور اللطيف, الديناصور اللطيف مترجم, توميتو الديناصور اللطيف, مشاهدة الديناصور اللطيف 2015, أحداث الديناصور اللطيف بالتفصيل, قصة فيلم الديناصور اللطيف",
-    "opinion": "فيلم الديناصور اللطيف هو فيلم مغامرة رائعة يجمع بين المغامرة والرسوم المتحركة والعائلي، فيلم يخلق مشاعر قوية في القلب",
+    "intro": "يحكي الفيلم قصة الديناصور المراهق أرلو والبشرى سبوت في رحلة ملحمية لمعرفة مكان والده.",
+    "desc_ar": "يحكي الفيلم قصة الديناصور المراهق والمنتمي إلى فصيلة الأباتوصور، الذي فقد والده في حادث مأسوي بعد فيضان نهر، وعلى أثره يقوم برحلة ملحمية لمعرفة مكان والده، حيث يلتقي بالفتى البشري سبوت، وتتطور بينهم علاقة صداقة تغير مجرى حياتهم، وتعلما من بعضهما البعض، وتتعرفا على العالم من حولهم، وتحققا حلما مشتركا.",
+    "desc_en": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend, leading to a heartwarming and action-packed adventure that changes their lives forever. Along the way, Arlo and Spot learn from each other, discover the world around them, and achieve a shared dream.",
+    "seo_title_ar": "مشاهدة فيلم الديناصور اللطيف مترجم - توميتو",
+    "meta_desc": "شاهد فيلم الديناصور اللطيف مترجم 2015، فيلم مغامرة عائلي رسوم متحركة يروي قصة الديناصور المراهق أرلو والبشرى سبوت في رحلة ملحمية لمعرفة مكان والده، الاستمت",
+    "outro": "في النهاية، يتعرف الفيلم على العالم من حولنا، وتعلما من بعضهما البعض، وتحققا حلما مشتركا.",
+    "opinion_ar": "فيلم الديناصور اللطيف يمتلك قصة حالمة ومغامرات مثيرة، تجمع بين العوالم البشرية والديناصورية في تجربة فريدة.",
+    "opinion_en": "The Good Dinosaur is a heartwarming and thrilling film that brings together the human and dinosaur worlds in a unique and unforgettable experience.",
     "faq": [
       {
-        "q": "ما هو فيلم الديناصور اللطيف؟",
-        "a": "فيلم مغامرة رائع يُدعى الديناصور اللطيف، فيلم يخلق مشاعر قوية في القلب"
+        "q": "متى صدر فيلم الديناصور اللطيف؟",
+        "a": "صدر فيلم الديناصور اللطيف في عام 2015.",
+        "q_en": "When was The Good Dinosaur released?",
+        "a_en": "The Good Dinosaur was released in 2015."
       },
       {
-        "q": "ما هو نوع فيلم الديناصور اللطيف؟",
-        "a": "فيلم رسوم متحركة عائلي مغامرة"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم الديناصور اللطيف؟",
-        "a": "فيلم يخلق مشاعر قوية في القلب، فيلم يجمع بين المغامرة والرسوم المتحركة والعائلي"
+        "q": "ما هي فئة الفيلم؟",
+        "a": "فيلم مغامرة عائلي رسوم متحركة.",
+        "q_en": "What genre is The Good Dinosaur?",
+        "a_en": "The Good Dinosaur is an adventure, family, and animated film."
       }
-    ]
+    ],
+    "keywords": "الديناصور اللطيف, فيلم مغامرة, رسوم متحركة, عائلي, توميتو, مترجم, 2015, فيلم الديناصور اللطيف, مشاهدة الديناصور اللطيف, The Good Dinosaur مترجم, تحميل الديناصور اللطيف, الديناصور اللطيف اون لاين, The Good Dinosaur, الديناصور اللطيف جودة عالية, The Good Dinosaur HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "93 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Frances McDormand Raymond Ochoa Jeffrey Wright Steve Zahn Sam Elliott"
+  "cast": "Raymond Ochoa Frances McDormand Jeffrey Wright Steve Zahn Sam Elliott Anna Paquin John Ratzenberger A.J. Buckley"
 }

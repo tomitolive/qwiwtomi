@@ -4,14 +4,12 @@
   "title_ar": "Batman",
   "title_en": "Batman",
   "slug": "2287-batman",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة باتمان، وهو رجل أعمال ثري ووالده Dick Grayson، الذي يعيشون حياة مزدوجة. في واقع الأمر، هما زوجا من المجرمين باتمان وروبن، الذين يقومون بأعمال خيرية في مدينة غوثام. يمتلك باتمان سيارة Batmobile والذي يمكنه السفر بسرعة لمنع الجريمة التي يقوم بها مجموعة من الجناة، مثل The Riddler, The Joker, Catwoman, وThe Penguin.",
   "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
-  "backdrop_path": "/yGKZsVJ8avlUpk6pvKzakgQ7TV9.jpg",
+  "backdrop_path": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
   "release_date": "1966-01-12",
   "vote_average": 7.3,
-  "vote_count": 596,
+  "vote_count": 613,
   "genres": [
     {
       "id": 10765,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم غامر، يلقي باتمان، الرجل الماسك، بظله على مدينة غامرة، حيث يلقي القبض على الجناية والقاتلين. مع وارثه ريتشارد جونز، يلقي باتمان بفك طلاوة في المخاطر والغامرة، في هذا العالم المليء بالسفير والرعب.",
-    "desc_en": "In a world of danger, Batman, the masked man, casts his shadow over a city of danger, where he captures the villains and killers. With his heir Richard John, Batman breaks the code of risks and adventure, in this world full of fear and terror.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في باتمان!",
-    "seo_title_ar": "مشاهدة باتمان مترجم اون لاين - توميتو",
-    "keywords": "فيلم خيال علمي وفانتازيا, مشاهدة فيلم كوميديا, فيلم حركة ومغامرة, أحداث Batman بالتفصيل, مشاهدة Batman 1966, Batman مترجم كامل, قصة مسلسل Batman, توميتو Batman",
-    "opinion": "هو فيلم ممتاز، مليء بالتension والغامرة، حيث يلقي باتمان بفك طلاوة في المخاطر والغامرة.",
+    "intro": "باتمان هو بطل يلعب دورا مزدوجا في مدينة غوثام.",
+    "desc_ar": "يحكي هذا العمل قصة باتمان، وهو رجل أعمال ثري ووالده Dick Grayson، الذي يعيشون حياة مزدوجة. في واقع الأمر، هما زوجا من المجرمين باتمان وروبن، الذين يقومون بأعمال خيرية في مدينة غوثام. يمتلك باتمان سيارة Batmobile والذي يمكنه السفر بسرعة لمنع الجريمة التي يقوم بها مجموعة من الجناة، مثل The Riddler, The Joker, Catwoman, وThe Penguin.",
+    "desc_en": "Wealthy entrepreneur Bruce Wayne and his ward Dick Grayson lead a double life: they are actually crime fighting duo Batman and Robin. A secret Batpole in the Wayne mansion leads to the Batcave, where Police Commissioner Gordon often calls with the latest emergency threatening Gotham City. Racing to the scene of the crime in the Batmobile, Batman and Robin must (with the help of their trusty Bat-utility-belt) thwart the efforts of a variety of master criminals, including The Riddler, The Joker, Catwoman, and The Penguin.",
+    "seo_title_ar": "مشاهدة باتمان مسلسل مترجم - توميتو",
+    "meta_desc": "باتمان: مسلسل خيال علمي وفانتازيا كوميديا حركة ومغامرة يستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا الع",
+    "outro": "باتمان يُعتبر بطلا لمنع الجريمة في مدينة غوثام، وستظل قصة باتمان تثير الإعجاب لسنوات قادمة.",
+    "opinion_ar": "باتمان هو بطل يعمل بجد لمنع الجريمة في مدينة غوثام، ويستحق إعجاب الجماهير.",
+    "opinion_en": "Batman is a hero who works hard to prevent crime in Gotham City and deserves the admiration of the audience.",
     "faq": [
       {
-        "q": "ما هو باتمان؟",
-        "a": "هو رجل ماسك يلقي القبض على الجناية والقاتلين في مدينة غامرة."
+        "q": "ما هي قصة باتمان؟",
+        "a": "باتمان هو بطل يعمل بجد لمنع الجريمة في مدينة غوثام مع روبن.",
+        "q_en": "What is the story of Batman?",
+        "a_en": "Batman is a hero who works hard to prevent crime in Gotham City with Robin."
       },
       {
-        "q": "ما هو نوع باتمان؟",
-        "a": "هو فيلم خيال علمي وفانتازيا, كوميديا, حركة ومغامرة."
-      },
-      {
-        "q": "ما هو أفضل شيء في باتمان؟",
-        "a": "هو التension والغامرة والفك طلاوة في المخاطر والغامرة"
+        "q": "من هو باتمان؟",
+        "a": "باتمان هو رجل أعمال ثري يمتلك مخبأ سرّي يسمى Batcave.",
+        "q_en": "Who is Batman?",
+        "a_en": "Batman is a wealthy entrepreneur who has a secret hideout called the Batcave."
       }
-    ]
+    ],
+    "keywords": "باتمان, خيال علمي وفانتازيا, كوميديا, حركة ومغامرة, مسلسل, فيلم باتمان, فلم باتمان, شعار باتمان, افلام باتمان, سيارة باتمان, كرتون باتمان, لعبة باتمان, صورة باتمان, لعبه باتمان, باتمان رولكس, بيضة كندر باتمان, باتمانه, باتمان ليغو, باتمان لابس فستان, ليغو باتمان"
   },
   "fixed": true,
-  "first_air_date": "1966-01-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "86 دقيقة",
+  "duration": "25 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Christopher Toler Tommy the Clown Miss Prissy Dragon Ceasare Willis"
+  "cast": "Adam West Burt Ward Yvonne Craig Neil Hamilton Stafford Repp Alan Napier William Dozier",
+  "first_air_date": "1966-01-12"
 }
