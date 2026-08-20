@@ -4,14 +4,12 @@
   "title_ar": "Elementary",
   "title_en": "Elementary",
   "slug": "1415-elementary",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في العصر الحالي بمدينة نيويورك، يعيش المحقق شرلوك هولمز حياته اليومية بمتابعة وتولي أصعب تحقيقات القضايا، حيث يتلقى المساعدة من زميلته الدكتورة جون واتسون، ويخوض الثنائي العديد من المغامرات معًا.",
   "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
   "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
   "release_date": "2012-09-27",
   "vote_average": 7.6,
-  "vote_count": 1825,
+  "vote_count": 1874,
   "genres": [
     {
       "id": 18,
@@ -27,25 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة نيويورك، يعيش المحقق شرلوك هولمز حياته اليومية بمتابعة وتولي أصعب تحقيقات القضايا، حيث يتلقى المساعدة من زميلته الدكتورة جون واتسون، ويخوض الثنائي العديد من المغامرات معًا، من خلال حل mysteries والقضايا، يبرز هولمز قوته الفكرية والقوة النفسية، في هذه الرحلة، سوف نرى كيف تتميز هولمز عن باقي المحققين، من خلال قوته في حل القضايا والقوة في التعامل مع الأشخاص.",
-    "desc_en": "In modern-day New York City, detective Sherlock Holmes lives his daily life by following and solving the most complex cases, with the help of his colleague, Dr. John Watson, and embarking on many adventures together. Through solving mysteries and cases, Holmes showcases his intellectual power and mental strength, as we see how he stands out from other detectives, through his ability to solve cases and his power in dealing with people.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع شرلوك هولمز!",
-    "seo_title_ar": "مشاهدة فيلم Elementary مترجم اون لاين - توميتو",
-    "keywords": "فيلم Elementary مترجم, مشاهدة فيلم Elementary, قصة مسلسل Elementary, أحداث Elementary بالتفصيل, مشاهدة Elementary 2012, توميتو Elementary, Elementary مترجم كامل",
-    "opinion": "هذه السلسلة التلفزيونية هي واحدة من أفضل ما عرضه التلفزيون، حيث تتميز قوة هولمز الفكرية والقوة النفسية، في حل القضايا والتعامل مع الأشخاص، وبرزت قوة هولمز في حل القضايا والقوة في التعامل مع الأشخاص.",
+    "intro": "يحكي مسلسل ابتدائي قصة شرلوك هولمز، المحقق المaverick، الذي يبحث عن حلول غامضة للافتراضات الأكثر صعوبة في نيويورك.",
+    "desc_ar": "يحكي مسلسل ابتدائي قصة شرلوك هولمز، المحقق المaverick، الذي يبحث عن حلول غامضة للافتراضات الأكثر صعوبة في نيويورك. مع زميلته الدكتورة جون واتسون، الذي يعمل كصاحب أسرى على تحقيق، يتجول الثنائي عبر مدينة نيويورك، يحلون ويسحرون مع مهاراتهم الفريدة. مع انهماكهم في البحث عن الحقيقة، يتعرض الثنائي للتحديات الشخصية والاجتماعية التي تهدد علاقتهم وتحدياتهم المهنية، في هذه القصة الدرامية الغامضة التي تجمع بين الجريمة والتحقيق.",
+    "desc_en": "A modern-day drama about a crime-solving duo that cracks the NYPD's most impossible cases. Following his fall from grace in London and a stint in rehab, eccentric Sherlock escapes to Manhattan where his wealthy father forces him to live with his worst nightmare - a sober companion, Dr. Watson.",
+    "seo_title_ar": "مشاهدة ابتدائي مترجم - Elementary مسلسل دراما غامض",
+    "meta_desc": "مشاهدة ابتدائي مترجم - مسلسل دراما غامض يحكي قصة شرلوك هولمز وزميلته الدكتورة جون واتسون في حل وresolution في مدينة نيويورك. استمتع بمشاهدة هذا العمل ب",
+    "outro": "يتعرض الثنائي شرلوك هولمز وزميلته الدكتورة جون واتسون للتحديات الشخصية والاجتماعية التي تهدد علاقتهم وتحدياتهم المهنية، في هذه القصة الدرامية الغامضة التي تجمع بين الجريمة والتحقيق.",
+    "opinion_ar": "يُعتبر ابتدائي واحدًا من أفضل المسلسلات الدرامية الغامضة التي قمت بمراقبتها في السنوات الأخيرة، حيث يجمع بين الجريمة والتحقيق في طريقة فريدة وملفتة للانتباه.",
+    "opinion_en": "Elementary is one of the best crime drama series I've watched in recent years, where it combines crime and investigation in a unique and captivating way.",
     "faq": [
       {
-        "q": "ما هو قوة هولمز في حل القضايا؟",
-        "a": "برزت قوة هولمز في حل القضايا والقوة في التعامل مع الأشخاص."
+        "q": "ما هو مسلسل ابتدائي؟",
+        "a": "هو مسلسل دراما غامض يُحكي قصة شرلوك هولمز وزميلته الدكتورة جون واتسون في حلّ وresolution في مدينة نيويورك.",
+        "q_en": "What is Elementary?",
+        "a_en": "It is a crime drama series that follows the story of Sherlock Holmes and his partner, Dr. Watson, as they solve crimes and mysteries in New York City."
       }
-    ]
+    ],
+    "keywords": "ابتدائي, Elementary, مسلسل, دراما, غموض, جريمة, شرلوك هولمز, الدكتورة جون واتسون, NYPD, Manhattan, London, ثالث ابتدائي, حلول ابتدائي, لغتي ثالث ابتدائي, رياضيات ثالث ابتدائي, لغتي ثاني ابتدائي, رياضيات ثاني ابتدائي"
   },
   "fixed": true,
-  "first_air_date": "2012-09-27",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "98 دقيقة",
+  "duration": "43 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Macaulay Culkin Seth Green Chloë Sevigny Natasha Lyonne Wilmer Valderrama"
+  "cast": "Jonny Lee Miller Lucy Liu Jon Michael Hill Aidan Quinn",
+  "first_air_date": "2012-09-27"
 }

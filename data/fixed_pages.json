@@ -7691,8 +7691,56 @@
       "file": "82428.json",
       "title": "All American",
       "fixed_at": "2026-08-20T22:02:39.624469"
+    },
+    {
+      "tmdb_id": "1368166",
+      "file": "1368166.json",
+      "title": "الخادمة",
+      "fixed_at": "2026-08-20T22:17:46.303341"
+    },
+    {
+      "tmdb_id": "1415",
+      "file": "1415.json",
+      "title": "Elementary",
+      "fixed_at": "2026-08-20T22:18:04.179655"
+    },
+    {
+      "tmdb_id": "11586",
+      "file": "11586.json",
+      "title": "Exorcist II: The Heretic",
+      "fixed_at": "2026-08-20T22:18:14.624193"
+    },
+    {
+      "tmdb_id": "245927",
+      "file": "245927.json",
+      "title": "جريمة في النعيم",
+      "fixed_at": "2026-08-20T22:18:22.543044"
+    },
+    {
+      "tmdb_id": "1517868",
+      "file": "1517868.json",
+      "title": "Maddies Secret",
+      "fixed_at": "2026-08-20T22:18:30.810514"
+    },
+    {
+      "tmdb_id": "1419406",
+      "file": "1419406.json",
+      "title": "حافة الظل",
+      "fixed_at": "2026-08-20T22:18:40.415772"
+    },
+    {
+      "tmdb_id": "37363",
+      "file": "37363.json",
+      "title": "Braquo",
+      "fixed_at": "2026-08-20T22:18:50.417527"
+    },
+    {
+      "tmdb_id": "295778",
+      "file": "295778.json",
+      "title": "Scrubs",
+      "fixed_at": "2026-08-20T22:19:00.912957"
     }
   ],
-  "last_updated": "2026-08-20T22:02:41.627124",
-  "total_fixed": 1282
+  "last_updated": "2026-08-20T22:19:02.915671",
+  "total_fixed": 1290
 }
