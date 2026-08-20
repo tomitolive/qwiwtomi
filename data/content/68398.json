@@ -4,14 +4,12 @@
   "title_ar": "Dr. Romantic",
   "title_en": "Dr. Romantic",
   "slug": "68398-dr-romantic",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"دكتور رومانسي\" قصة طبيب جراح من الدرجة الثالثة، يترك وظيفته الراقية في العاصمة سول، ويصل إلى مستشفى في المدن المحلية، حيث يلقي الضوء على جيل جديد من الأطباء، ويحاول تغيير مناهجهم في العلاج، ويتعامل مع تحديات جديدة في العمل، ويستلهم إلهامًا من أعماله السابقة، ويبذل قصارى جهدِه لتحقيق إنجازات إنسانية.",
   "poster_path": "/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
   "backdrop_path": "/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
   "release_date": "2016-11-07",
-  "vote_average": 8.2,
-  "vote_count": 122,
+  "vote_average": 8.1,
+  "vote_count": 130,
   "genres": [
     {
       "id": 18,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الطب، يوجد دكتور رومانتيك يملك القلب المليون، يملك القدرة على إقناع المرضى بالعلاج، ويملك القوة على إقناع نفسه بالحب، ولكن ما يحدث عندما يلتقي الدكتور رومانتيك امرأة ما، يصبح العالم مختلفاً كلياً.",
-    "desc_en": "In the world of medicine, there is a doctor with a million hearts, who has the power to convince patients of treatment, and has the power to convince himself of love. But what happens when the doctor meets a woman, the world becomes completely different.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراما دكتور رومانتيك",
-    "seo_title_ar": "مشاهدة دراما دكتور رومانتيك مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة دراما دكتور رومانتيك, مشاهدة Dr. Romantic 2016, قصة مسلسل Dr. Romantic, أحداث Dr. Romantic بالتفصيل, توميتو Dr. Romantic, Dr. Romantic مترجم كامل",
-    "opinion": "هو فيلم دراما رائع، يملك القلب المليون، يملك القدرة على إقناع المرضى بالعلاج، ويملك القوة على إقناع نفسه بالحب، هو فيلم دراما رائع، يملك القلب المليون",
+    "intro": "يحكي مسلسل \"دكتور رومانسي\" قصة طبيب جراح من الدرجة الثالثة، يترك وظيفته الراقية في العاصمة سول، ويصل إلى مستشفى في المدن المحلية، حيث يلقي الضوء على جيل جديد من الأطباء، ويحاول تغيير مناهجهم في العلاج.",
+    "desc_ar": "يحكي مسلسل \"دكتور رومانسي\" قصة طبيب جراح من الدرجة الثالثة، يترك وظيفته الراقية في العاصمة سول، ويصل إلى مستشفى في المدن المحلية، حيث يلقي الضوء على جيل جديد من الأطباء، ويحاول تغيير مناهجهم في العلاج، ويتعامل مع تحديات جديدة في العمل، ويستلهم إلهامًا من أعماله السابقة، ويبذل قصارى جهدِه لتحقيق إنجازات إنسانية.",
+    "desc_en": "An eccentric, triple board-certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital, where he mentors young doctors, and challenges their conventional approaches to healing, while inspiring them to achieve greater humanitarian goals.",
+    "seo_title_ar": "مشاهدة مسلسل دكتور رومانسي مترجم - توميتو",
+    "meta_desc": "دكتور رومانسي مسلسل درامي يركز على قصة طبيب جراح يغادر وظيفته في سول ويصل إلى مستشفى في المدن المحلية، حيث يلقي الضوء على جيل جديد من الأطباء ويحاول تغيير",
+    "outro": "ينتهي مسلسل \"دكتور رومانسي\" بتواجد الجيل الجديد من الأطباء في مستشفى المحلية، حيث يتحولون إلى أطباء أكثر خبرة، ويتعاملون مع تحديات جديدة في العمل، ويتقدمون في مهاراتهم، ويتحولون إلى أطباء بارزين في المستقبل.",
+    "opinion_ar": "يُعتبر مسلسل \"دكتور رومانسي\" من بين أروع المسلسلات التي تم إنتاجها في الآونة الأخيرة، حيث يلقي الضوء على مواهب الطبيب الجراح، ويحاول تغيير مناهج الأطباء، ويتعامل مع تحديات جديدة في العمل.",
+    "opinion_en": "Dr. Romantic is one of the most outstanding series to be produced in recent years, as it highlights the surgeon's talents, challenges conventional medical approaches, and faces new challenges in the workplace.",
     "faq": [
       {
-        "q": "ما هو دراما دكتور رومانتيك؟",
-        "a": "هو دراما رائع يملك القلب المليون، يملك القدرة على إقناع المرضى بالعلاج، ويملك القوة على إقناع نفسه بالحب"
+        "q": "ما هي قصة مسلسل \"دكتور رومانسي\"؟",
+        "a": "يحكي مسلسل \"دكتور رومانسي\" قصة طبيب جراح من الدرجة الثالثة، يترك وظيفته الراقية في العاصمة سول، ويصل إلى مستشفى في المدن المحلية، حيث يلقي الضوء على جيل جديد من الأطباء، ويحاول تغيير مناهجهم في العلاج.",
+        "q_en": "What is the story of Dr. Romantic?",
+        "a_en": "The series tells the story of a triple board-certified virtuoso surgeon who leaves his top job in Seoul and ends up at a provincial hospital, where he mentors young doctors and challenges their conventional approaches to healing."
       },
       {
-        "q": "ما هو نوع دراما دكتور رومانتيك؟",
-        "a": "هو دراما رومانسي، يملك القلب المليون، يملك القدرة على إقناع المرضى بالعلاج، ويملك القوة على إقناع نفسه بالحب"
-      },
-      {
-        "q": "ما هو المخرج من دراما دكتور رومانتيك؟",
-        "a": "هو المخرج رائع، يملك القلب المليون، يملك القدرة على إقناع المرضى بالعلاج، ويملك القوة على إقناع نفسه بالحب"
+        "q": "ما هي أبرز مبادئ مسلسل \"دكتور رومانسي\"؟",
+        "a": "يُعتبر مسلسل \"دكتور رومانسي\" من بين أروع المسلسلات التي تم إنتاجها في الآونة الأخيرة، حيث يلقي الضوء على مواهب الطبيب الجراح، ويحاول تغيير مناهج الأطباء، ويتعامل مع تحديات جديدة في العمل.",
+        "q_en": "What are the main principles of Dr. Romantic?",
+        "a_en": "Dr. Romantic is one of the most outstanding series to be produced in recent years, as it highlights the surgeon's talents, challenges conventional medical approaches, and faces new challenges in the workplace."
       }
-    ]
+    ],
+    "keywords": "دكتور رومانسي, مسلسل درامي, طبيب جراح, مستشفى, جيل جديد من الأطباء, تغيير مناهج العلاج, تحديات جديدة في العمل, مواهب الطبيب الجراح, مشاهدة دكتور رومانسي, Dr. Romantic مترجم, تحميل دكتور رومانسي, دكتور رومانسي اون لاين, Dr. Romantic, دكتور رومانسي جودة عالية, فيلم دكتور رومانسي"
   },
   "fixed": true,
-  "first_air_date": "2016-11-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Woody Harrelson Willie Nelson Merle Haggard Ralph Nader"
+  "duration": "60 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Han Suk-kyu Lee Sung-kyung Ahn Hyo-seop Jin Kyung Im Won-hee Byun Woo-min Kim Min-jae Lee Kyung-young",
+  "first_air_date": "2016-11-07"
 }

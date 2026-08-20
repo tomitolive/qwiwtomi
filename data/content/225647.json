@@ -4,14 +4,12 @@
   "title_ar": "مجندون جدد في المارينز",
   "title_en": "Boots",
   "slug": "225647-boots",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "عندما يندفع مراهق تعرّض للتنمر للانضمام في صفوف مشاة البحرية، يعثر على هدف جديد لحياته وينسج علاقات أخويّة غير متوقعة مع زملائه المجندين على اختلاف مشاربهم.",
   "poster_path": "/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
   "backdrop_path": "/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
   "release_date": "2025-10-09",
-  "vote_average": 8,
-  "vote_count": 194,
+  "vote_average": 8.0,
+  "vote_count": 222,
   "genres": [
     {
       "id": 35,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "عندما يندفع مراهق تعرّض للتنمر للانضمام في صفوف مشاة البحرية، يعثر على هدف جديد لحياته وينسج علاقات أخويّة غير متوقعة مع زملائه المجندين على اختلاف مشاربهم، في رحلة مليئة بالكوميديا والدراما والتشويق.",
-    "desc_en": "When a troubled teenager joins the Marines, he finds a new purpose in life and forms unexpected brotherly bonds with his fellow recruits, despite their diverse backgrounds, in a journey filled with comedy, drama, and suspense.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مجندون جدد في المارينز - توميتو",
-    "seo_title_ar": "مشاهدة فيلم مجندون جدد في المارينز مترجم اون لاين - توميتو",
-    "keywords": "Boots, فيلم كوميديا مترجم, مشاهدة فيلم دراما حرب وسياسة, توميتو مجندون جدد في المارينز, قصة مسلسل مجندون جدد في المارينز, مشاهدة مجندون جدد في المارينز 2025, مجندون جدد في المارينز مترجم كامل, أحداث مجندون جدد في المارينز بالتفصيل",
-    "opinion": "هذا الفيلم هو مزيج رائع من الكوميديا والدراما، حيث يظهر المجندين الجدد كأبطال في قصة مليئة بالتشويق والمرح.",
+    "intro": "يحكي مسلسل مجندون جدد في المارينز قصة مراهق يندفع للانضمام في صفوف مشاة البحرية بعد تعرضه للتنمر.",
+    "desc_ar": "يحكي مسلسل مجندون جدد في المارينز قصة مراهق يندفع للانضمام في صفوف مشاة البحرية بعد تعرضه للتنمر، ويجد هدفاً جديداً في حياته وينسج علاقات أخويّة غير متوقعة مع زملائه المجندين على اختلاف مشاربهم، مما يضفي على القصة عناصر كوميدية ودرامية وسياسية، مما يجعلها مثيرة للقراءة.",
+    "desc_en": "After impulsively joining the U.S. Marine Corps, a bullied teen finds new purpose and unexpected brotherhood with his motley team of fellow recruits. This comedic and dramatic series explores the challenges and triumphs of these young men as they navigate their new lives, forging unbreakable bonds and discovering their true potential. As they face the harsh realities of boot camp, they must confront their own strengths and weaknesses, learning to rely on each other and trust in themselves. Through their journey, they will discover the true meaning of brotherhood, loyalty, and sacrifice.",
+    "seo_title_ar": "مشاهدة مسلسل مجندون جدد في المارينز مترجم - توميتو",
+    "meta_desc": "مجندون جدد في المارينز: مسلسل كوميديا ودراما عن شاب ينضم للجيش لينج نفسه من التنمر ويفinds صداقات قوية مع زملائه. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "وبذلك، يجد الشاب هدفاً جديداً في حياته ويحقق صداقات قوية مع زملائه المجندين.",
+    "opinion_ar": "مسلسل مجندون جدد في المارينز هو قصة رائعة تجمع بين الكوميديا والدراما، حيث يجد الشباب هدفاً جديداً في حياتهم ويحقق صداقات قوية.",
+    "opinion_en": "Boots is a heartwarming and hilarious series that explores the challenges and triumphs of its young characters, showcasing the true power of brotherhood and loyalty.",
     "faq": [
       {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "الفيلم يتناول قصة مجندين جدد في المارينز، الذين يتعاملون مع التحديات والتحديات في رحلة مليئة بالكوميديا والدراما."
+        "q": "ما هي قصة مسلسل مجندون جدد في المارينز؟",
+        "a": "يحكي المسلسل قصة مراهق يندفع للانضمام في صفوف مشاة البحرية بعد تعرضه للتنمر.",
+        "q_en": "What is the story of the Boots series?",
+        "a_en": "The series follows the story of a bullied teen who impulsively joins the U.S. Marine Corps and finds new purpose and unexpected brotherhood with his fellow recruits."
       },
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "الفيلم هو نوع كوميديا دراما حرب وسياسة."
-      },
-      {
-        "q": "ما هو أفضل ما في الفيلم؟",
-        "a": "أفضل ما في الفيلم هو مزيج رائع من الكوميديا والدراما، والتشويق والمرح، مما يทำใหها رحلة مليئة بالمتعة"
+        "q": "ما هي أهم عناصر المسلسل؟",
+        "a": "يتضمن المسلسل عناصر كوميدية ودرامية وسياسية.",
+        "q_en": "What are the key elements of the series?",
+        "a_en": "The series combines comedic, dramatic, and political elements, making it a compelling and engaging watch."
       }
-    ]
+    ],
+    "keywords": "مجندون جدد في المارينز, مسلسل, كوميديا, دراما, حرب وسياسة, مسلسلات, مشاهدة مجندون جدد في المارينز, Boots مترجم, تحميل مجندون جدد في المارينز, مجندون جدد في المارينز اون لاين, Boots, مجندون جدد في المارينز جودة عالية, فيلم مجندون جدد في المارينز, Boots HD, مجندون جدد في المارينز HD"
   },
   "fixed": true,
-  "first_air_date": "2025-10-09",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "105 دقيقة",
-  "language": "الإسبانية",
-  "country": "كندا",
-  "cast": "César Fierro"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Miles Heizer Max Parker Vera Farmiga Liam Oh Cedrick Cooper Ana Ayora Angus O'Brien Kieron Moore",
+  "first_air_date": "2025-10-09"
 }

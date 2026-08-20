@@ -4,8 +4,6 @@
   "title_ar": "إلى الوحوش التي كانت ذات يوم آلهة",
   "title_en": "To the Abandoned Sacred Beasts",
   "slug": "88051-to-the-abandoned-sacred-beasts",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تم إنشاء دولة باتريا الديمقراطية في قارة باتريا و بسبب الخلافات الاقتصادية ، انقسمت البلاد شمالًا وجنوبًا ، مما أدى إلى إنشاء اتحاد باتريا الشمالي واتحاد باتريا الجنوبي ودخلوا حربًا أهلية طويلة. مع تضاؤل أعدادهم ، قرر الشمال استخدام التكنولوجيا المحظورة لهزيمة الجنوب. تحول هذه التكنولوجيا البشر إلى جنود يشبهون الوحوش ، مما يمنحهم قوى شبه إلهية. وبهذه القوى ، انتهت الحرب الطويلة وعاد السلام.",
   "poster_path": "/yCKFfiaPjV3GeWUOabqxYq8a6cL.jpg",
   "backdrop_path": "/4eo2VEIjLa5JUNODlL2ERVf197q.jpg",
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم باتريا الديمقراطي، حيث انقسمت البلاد شمالًا وجنوبًا بسبب الخلافات الاقتصادية، قامت الدولة الشمالية باستخدام التكنولوجيا المحظورة لخلق قوة شبه إلهية، مما أدى إلى تحويل البشر إلى جنود يشبهون الوحوش، وبهذه القوى، انتهت الحرب الطويلة وعاد السلام.",
-    "desc_en": "In the democratic state of Patraria, where the country was divided into north and south due to economic conflicts, the northern state used advanced technology to create a semi-divine power, turning humans into beast-like warriors, and with this power, the long war came to an end and peace was restored.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم إلى الوحوش التي كانت ذات يوم آلهة",
-    "seo_title_ar": "مشاهدة فيلم إلى الوحوش التي كانت ذات يوم آلهة مترجم اون لاين - توميتو",
-    "keywords": "To the Abandoned Sacred Beasts, فيلم كذا مترجم, مشاهدة فيلم كذا, رسوم متحركة, دراما, حركة ومغامرة, خيال علمي وفانتازيا, قصة مسلسل إلى الوحوش التي كانت ذات يوم آلهة, مشاهدة إلى الوحوش التي كانت ذات يوم آلهة 2019, أحداث إلى الوحوش التي كانت ذات يوم آلهة بالتفصيل, إلى الوحوش التي كانت ذات يوم آلهة مترجم كامل, توميتو إلى الوحوش التي كانت ذات يوم آلهة",
-    "opinion": "هو فيلم رائع يجمع بين الحركة والدراما والخيال العلمي، مما يجعله فيلماً رائعاً يجب مشاهدته",
+    "intro": "يسعدني التركيز على قصة دولة باتريا الديمقراطية التي انقسمت بسبب الخلافات الاقتصادية، مما أدى إلى حرب أهلية طويلة.",
+    "desc_ar": "يحكي مسلسل إلى الوحوش التي كانت ذات يوم آلهة قصة دولة باتريا الديمقراطية التي انقسمت بسبب الخلافات الاقتصادية، مما أدى إلى حرب أهلية طويلة. مع انخفاض أعدادهم، قرر الشمال استخدام التكنولوجيا المحظورة التي تحول البشر إلى جنود يشبهون الوحوش، مما يمنحهم قوى شبه إلهية. كان هذا القرار خطيراً وذات عواقب خطيرة، مما أدى إلى تغيير مجرى الحرب وصولاً إلى السلام.",
+    "desc_en": "To the Abandoned Sacred Beasts is a story about the democratic nation of Patria that split north and south due to economical disputes, leading to a long civil war. With their numbers dwindling, the North decides to use forbidden technology to turn humans into monster-like soldiers, granting them almost godlike powers. This decision has far-reaching consequences, changing the course of the war and leading to peace.",
+    "seo_title_ar": "مشاهدة مسلسل إلى الوحوش التي كانت ذات يوم آلهة مترجم - توميتو",
+    "meta_desc": "مسلسل إلى الوحوش التي كانت ذات يوم آلهة يروي قصة دولة باتريا الديمقراطية التي انقسمت بسبب الخلافات الاقتصادية، وتحولت إلى حرب أهلية طويلة، مع استخدام التكن",
+    "outro": "أنا أتمنى أن يجد المشاهدون تفاعلاً قوياً مع قصة دولة باتريا الديمقراطية التي انقسمت بسبب الخلافات الاقتصادية، مما أدى إلى حرب أهلية طويلة.",
+    "opinion_ar": "يسعدني مشاهدة مسلسل إلى الوحوش التي كانت ذات يوم آلهة، حيث يروي قصة حرب أهلية طويلة ووتيرة من خلال استخدام التكنولوجيا المحظورة.",
+    "opinion_en": "I enjoy watching To the Abandoned Sacred Beasts, as it tells the story of a long and intense civil war and the use of forbidden technology.",
     "faq": [
       {
-        "q": "ما هو فيلم إلى الوحوش التي كانت ذات يوم آلهة؟",
-        "a": "هو فيلم رسوم متحركة يروي قصة الحرب الطويلة بين شمال و جنوب باتريا"
-      },
-      {
-        "q": "ما هو نوع فيلم إلى الوحوش التي كانت ذات يوم آلهة؟",
-        "a": "هو فيلم حركة ومغامرة ودراما وخيال علمي وفانتازيا"
-      },
-      {
-        "q": "ما هو المخرج من فيلم إلى الوحوش التي كانت ذات يوم آلهة؟",
-        "a": "لم يذكر المخرج في هذا الفيلم"
+        "q": "ما هو مسلسل إلى الوحوش التي كانت ذات يوم آلهة؟",
+        "a": "مسلسل إلى الوحوش التي كانت ذات يوم آلهة هو مسلسل حركة ومغامرة، دراما، خيال علمي وفانتازيا، رسوم متحركة يروي قصة دولة باتريا الديمقراطية التي انقسمت بسبب الخلافات الاقتصادية.",
+        "q_en": "What is To the Abandoned Sacred Beasts?",
+        "a_en": "To the Abandoned Sacred Beasts is a action-adventure, drama, science fantasy, animated series that tells the story of the democratic nation of Patria that split north and south due to economical disputes."
       }
-    ]
+    ],
+    "keywords": "مسلسل إلى الوحوش التي كانت ذات يوم آلهة, To Abandoned Sacred Beasts, باتريا, حرب أهلية, تكنولوجيا محظورة, جنود يشبهون الوحوش, رسوم متحركة, حركة ومغامرة, دراما, خيال علمي وفانتازيا, مشاهدة إلى الوحوش التي كانت ذات يوم آلهة, To Abandoned Sacred Beasts مترجم, تحميل إلى الوحوش التي كانت ذات يوم آلهة, إلى الوحوش التي كانت ذات يوم آلهة اون لاين, To the Abandoned Sacred Beasts مترجم"
   },
   "fixed": true,
-  "first_air_date": "2019-07-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "65 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Ray Salyer Gorman Hendricks Frank Matthews George L. Bolton"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Katsuyuki Konishi Maaya Sakamoto Ai Kakuma Kenjiro Tsuda Yuichi Nakamura Mamiko Noto Kaito Ishikawa Yoko Hikasa",
+  "first_air_date": "2019-07-01"
 }
