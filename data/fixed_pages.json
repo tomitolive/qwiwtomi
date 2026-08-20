@@ -6149,8 +6149,74 @@
       "file": "1220564.json",
       "title": "O Agente Secreto",
       "fixed_at": "2026-08-20T08:07:47.172237"
+    },
+    {
+      "tmdb_id": "40",
+      "file": "40.json",
+      "title": "Dallas",
+      "fixed_at": "2026-08-20T09:05:29.316160"
+    },
+    {
+      "tmdb_id": "3782",
+      "file": "3782.json",
+      "title": "Naked City",
+      "fixed_at": "2026-08-20T09:05:45.310407"
+    },
+    {
+      "tmdb_id": "524",
+      "file": "524.json",
+      "title": "كازينو",
+      "fixed_at": "2026-08-20T09:05:54.091585"
+    },
+    {
+      "tmdb_id": "1908",
+      "file": "1908.json",
+      "title": "Miami Vice",
+      "fixed_at": "2026-08-20T09:06:03.973779"
+    },
+    {
+      "tmdb_id": "5721",
+      "file": "5721.json",
+      "title": "Vixen!",
+      "fixed_at": "2026-08-20T09:06:10.796623"
+    },
+    {
+      "tmdb_id": "436969",
+      "file": "436969.json",
+      "title": "فرقة الإنتحار",
+      "fixed_at": "2026-08-20T09:06:27.607614"
+    },
+    {
+      "tmdb_id": "138502",
+      "file": "138502.json",
+      "title": "إكس-من ٩٧",
+      "fixed_at": "2026-08-20T09:06:44.116641"
+    },
+    {
+      "tmdb_id": "35739",
+      "file": "35739.json",
+      "title": "Do or Die",
+      "fixed_at": "2026-08-20T09:06:53.095270"
+    },
+    {
+      "tmdb_id": "156022",
+      "file": "156022.json",
+      "title": "المعادل",
+      "fixed_at": "2026-08-20T09:07:08.780734"
+    },
+    {
+      "tmdb_id": "61852",
+      "file": "61852.json",
+      "title": "هنري الخطير",
+      "fixed_at": "2026-08-20T09:07:17.441457"
+    },
+    {
+      "tmdb_id": "78533",
+      "file": "78533.json",
+      "title": "Jersey Shore: Family Vacation",
+      "fixed_at": "2026-08-20T09:07:26.433904"
     }
   ],
-  "last_updated": "2026-08-20T08:07:49.174860",
-  "total_fixed": 1025
+  "last_updated": "2026-08-20T09:07:28.436559",
+  "total_fixed": 1036
 }

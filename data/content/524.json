@@ -8,8 +8,8 @@
   "poster_path": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
   "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
   "release_date": "1995-11-22",
-  "vote_average": 8,
-  "vote_count": 6524,
+  "vote_average": 8.0,
+  "vote_count": 6670,
   "genres": [
     {
       "id": 80,
@@ -21,12 +21,29 @@
     }
   ],
   "ai_content": {
+    "intro": "يحكي فيلم كازينو قصة رجل عصابات منخفض المستوى سام روثستين الذي تم استغلاله لِرئاسة كازينو تانجيرز في لاس فيجاس.",
     "desc_ar": "في أوائل السبعينيات من القرن الماضي في لاس فيجاس ، قام رؤسائه باستغلال رجل العصابات منخفض المستوى سام \"آيس\" روثستين لرئاسة كازينو تانجيرز. في البداية ، حقق نجاحًا كبيرًا في الوظيفة ، ولكن على مر السنين ، أدت المشاكل مع منفذه المفكك نيكي سانتورو ، وزوجته السابقة المحتال جينجر ، وفنانها المخادع السابق ليستر دايموند وعدد قليل من السياسيين الفاسدين إلى وضع سام في أي وقت. - خطر متزايد.",
-    "desc_en": "في أوائل السبعينيات من القرن الماضي في لاس فيجاس ، قام رؤسائه باستغلال رجل العصابات منخفض المستوى سام \"آيس\" روثستين لرئاسة كازينو تانجيرز. في البداية ، حقق نجاحًا كبيرًا في الوظيفة ، ولكن على مر السنين ، أدت المشاكل مع منفذه المفكك نيكي سانتورو ، وزوجته السابقة المحتال جينجر ، وفنانها المخادع السابق ليستر دايموند وعدد قليل من السياسيين الفاسدين إلى وضع سام في أي وقت. - خطر متزايد.",
-    "meta_desc": "مشاهدة كازينو مترجم بجودة عالية على توميتو.",
-    "keywords": "Casino, توميتو كازينو, قصة فيلم كازينو, أحداث كازينو بالتفصيل, مشاهدة كازينو 2026, كازينو مترجم",
-    "seo_title_ar": "مشاهدة كازينو مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite. As they navigate the complexities of their business and personal relationships, they must also contend with the challenges of the city's corrupt politicians and the dangers of their own world.",
+    "seo_title_ar": "مشاهدة فيلم كازينو مترجم - كازينو 1995 - توميتو",
+    "meta_desc": "كازينو فيلم 1995 من إخراج مارتين سكورسيزي، يروي قصة رجل عصابات منخفض المستوى سام روثستين الذي تم استغلاله لرئاسة كازينو تانجيرز في لاس فيجاس. يتعامل سام م",
+    "outro": "يعد فيلم كازينو من أروع أفلام جريمة ودراما في تاريخ السينما. يستحق الفيلم المشاهدة بسبب تصاميمه الفنية وتصويره الواقعي.",
+    "opinion_ar": "يعد فيلم كازينو من أروع أفلام جريمة ودراما في تاريخ السينما. يُظهر الفيلم بشكل حقيقي كيف يمكن أن يؤثر العالم المتخبط والمتسارع على شخصيات الفيلم. يستحق الفيلم المشاهدة بسبب تصاميمه الفنية وتصويره الواقعي.",
+    "opinion_en": "Casino is a gripping and intense film that explores the complexities of the world of organized crime. With its vivid and realistic portrayal of the city of Las Vegas, the film is a must-see for fans of crime dramas.",
+    "faq": [
+      {
+        "q": "ما هو تاريخ إصدار فيلم كازينو؟",
+        "a": "تم إصدار فيلم كازينو في عام 1995.",
+        "q_en": "When was the film Casino released?",
+        "a_en": "The film was released in 1995."
+      },
+      {
+        "q": "من إخراج فيلم كازينو؟",
+        "a": "تم إخراج فيلم كازينو من قبل مارتين سكورسيزي.",
+        "q_en": "Who directed the film Casino?",
+        "a_en": "The film was directed by Martin Scorsese."
+      }
+    ],
+    "keywords": "كازينو, فيلم, جريمة, دراما, لاس فيجاس, سام روثستين, نيكي سانتورو, جينجر, ليستر دايموند, مارتين سكورسيزي, فيلم كازينو, معنى كازينو, كازينو اون لاين, كازينو 888, كازينو الرياض, كازينو الالعاب, كازينو لبنان, ألعاب كازينو, كازينو دبي, كازينو الشاطبي الاسكندرية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +51,5 @@
   "duration": "179 دقيقة",
   "language": "الإنجليزية",
   "country": "فرنسا",
-  "cast": "Robert De Niro Sharon Stone Joe Pesci James Woods Don Rickles"
+  "cast": "Robert De Niro Sharon Stone Joe Pesci James Woods Don Rickles Alan King Kevin Pollak L.Q. Jones"
 }
