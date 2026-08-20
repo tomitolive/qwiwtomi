@@ -4,14 +4,12 @@
   "title_ar": "Silent Witness",
   "title_en": "Silent Witness",
   "slug": "2750-silent-witness",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل الشاهد الصامت قصة فريق من الخبراء في علم الأنسجة والكيمياء الحيوية الذين يعملون مع الشرطة لتحديد هويةّار الجرائم الشنيعة. يتميز هذا الفريق بمهاراتهم العالية في التحليل والتحقيقات، مما يساعدهم في التعرف على الأشخاص المسؤولين عن الجرائم. من خلال استخدام تقنياتهم المتقدمة، يتمكن الفريق من حل بعض الجرائم الأكثر تعقيدًا. في هذا المسلسل، نتعرف على القصص المذهلة والجرائم المروعة التي يتعامل معها الفريق، وكيف يستخدمون خبراتهم للتحقيق والكشف عن الحقائق.",
   "poster_path": "/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
   "backdrop_path": "/tT78TvxoSFEMQEqoqHJIw472yrF.jpg",
   "release_date": "1996-02-21",
-  "vote_average": 7.5,
-  "vote_count": 108,
+  "vote_average": 7.6,
+  "vote_count": 112,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم القانون، هناك من يرى ما لا يرى الآخرون. دكتور سام تريبيك، اختصاصي في علم النفس، يلقي نظرة جديدة على الجريمة والقضايا الإنسانية. في كل حلقة، يلقي نظرة على قضية جديدة، ويحللها من خلال خبرته في علم النفس، ويحاول أن يفسر ما حدث، ويحاول أن يلقي الضوء على ما يخفى.",
-    "desc_en": "In the world of law, there are those who see what others do not. Dr. Sam Tribek, a specialist in psychology, brings a new perspective to crime and human issues. In each episode, he examines a new case, analyzes it through his expertise in psychology, and tries to explain what happened, and tries to shed light on what is hidden.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في جريمة دراما سيلنت ويتنيس",
-    "seo_title_ar": "مشاهدة فيلم سيلنت ويتنيس مترجم اون لاين - توميتو",
-    "keywords": "فيلم جريمة دراما سيلنت ويتنيس, مشاهدة فيلم جريمة, توميتو Silent Witness, أحداث Silent Witness بالتفصيل, قصة مسلسل Silent Witness, Silent Witness مترجم كامل, مشاهدة Silent Witness 1996",
-    "opinion": "هذا البرنامج هو أفضل ما يمكن أن يحدث في عالم الجريمة والقضايا الإنسانية. دكتور تريبيك يلقي نظرة جديدة على كل قضية، ويحللها من خلال خبرته في علم النفس، ويحاول أن يفسر ما حدث، ويحاول أن يلقي الضوء على ما يخفى.",
+    "intro": "في عالم مليء بالجرائم والقصص المذهلة، يتعامل فريق من الخبراء في علم الأنسجة والكيمياء الحيوية مع الجرائم الأكثر تعقيدًا.",
+    "desc_ar": "يحكي مسلسل الشاهد الصامت قصة فريق من الخبراء في علم الأنسجة والكيمياء الحيوية الذين يعملون مع الشرطة لتحديد هويةّار الجرائم الشنيعة. يتميز هذا الفريق بمهاراتهم العالية في التحليل والتحقيقات، مما يساعدهم في التعرف على الأشخاص المسؤولين عن الجرائم. من خلال استخدام تقنياتهم المتقدمة، يتمكن الفريق من حل بعض الجرائم الأكثر تعقيدًا. في هذا المسلسل، نتعرف على القصص المذهلة والجرائم المروعة التي يتعامل معها الفريق، وكيف يستخدمون خبراتهم للتحقيق والكشف عن الحقائق.",
+    "desc_en": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible. This team is known for their high skills in analysis and investigations, which help them identify the people responsible for the crimes. By using their advanced techniques, the team is able to solve some of the most complex crimes. In this series, we see the incredible stories and gruesome crimes that the team deals with, and how they use their expertise to investigate and uncover the truth.",
+    "seo_title_ar": "مشاهدة مسلسل الشاهد الصامت مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الشاهد الصامت مترجم على توميتو. يتبع الفيلم فريقا من الخبراء في علم الأنسجة والكيمياء الحيوية الذين يعملون مع الشرطة لتحديد هويةار الجرائم الش",
+    "outro": "يعد مسلسل الشاهد الصامت تجربة مشاهدة ممتعة ومثيرة للغاية، حيث يتعامل الفريق مع الجرائم المروعة والقصص المذهلة.",
+    "opinion_ar": "يعد مسلسل الشاهد الصامت تجربة مشاهدة ممتعة ومثيرة للغاية، حيث يتعامل الفريق مع الجرائم المروعة والقصص المذهلة.",
+    "opinion_en": "Silent Witness is a thrilling and engaging watch, as the team deals with gruesome crimes and incredible stories.",
     "faq": [
       {
-        "q": "ما هو البرنامج سيلنت ويتنيس؟",
-        "a": "هو برنامج دراما جريمة يلقي نظرة جديدة على كل قضية، ويحللها من خلال خبرته في علم النفس"
-      },
-      {
-        "q": "ما هو دور دكتور تريبيك في البرنامج؟",
-        "a": "هو اختصاصي في علم النفس، يلقي نظرة جديدة على كل قضية، ويحللها من خلال خبرته في علم النفس"
-      },
-      {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "هو برنامج تلفزيوني من نوع دراما جريمة"
+        "q": "ما هو موضوع مسلسل الشاهد الصامت؟",
+        "a": "يحكي مسلسل الشاهد الصامت قصة فريق من الخبراء في علم الأنسجة والكيمياء الحيوية الذين يعملون مع الشرطة لتحديد هويةّار الجرائم الشنيعة.",
+        "q_en": "What is the subject of the Silent Witness series?",
+        "a_en": "The series follows a team of forensic pathologists and scientists who work with the police to identify the people responsible for heinous crimes."
       }
-    ]
+    ],
+    "keywords": "الشاهد الصامت, مسلسل, جريمة, دراما, علم الأنسجة, الكيمياء الحيوية, الشرطة, التحقيقات, الجرائم, مسلسلات جريمة, مسلسلات دراما, مشاهدة الشاهد الصامت, Silent Witness مترجم, تحميل الشاهد الصامت, الشاهد الصامت اون لاين"
   },
   "fixed": true,
-  "first_air_date": "1996-02-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "117 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Steve Coogan Lennie James Paddy Considine Shirley Henderson Andy Serkis"
+  "cast": "",
+  "first_air_date": "1996-02-21"
 }

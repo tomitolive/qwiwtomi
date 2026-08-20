@@ -5639,8 +5639,92 @@
       "file": "921.json",
       "title": "Cinderella Man",
       "fixed_at": "2026-08-20T03:42:46.904407"
+    },
+    {
+      "tmdb_id": "125988",
+      "file": "125988.json",
+      "title": "Silo",
+      "fixed_at": "2026-08-20T04:28:00.907797"
+    },
+    {
+      "tmdb_id": "16869",
+      "file": "16869.json",
+      "title": "أوغاد مجهولون",
+      "fixed_at": "2026-08-20T04:28:32.290399"
+    },
+    {
+      "tmdb_id": "565",
+      "file": "565.json",
+      "title": "الحلقة",
+      "fixed_at": "2026-08-20T04:28:43.430962"
+    },
+    {
+      "tmdb_id": "42705",
+      "file": "42705.json",
+      "title": "هاجيمي نو إيبو",
+      "fixed_at": "2026-08-20T04:28:56.233712"
+    },
+    {
+      "tmdb_id": "857",
+      "file": "857.json",
+      "title": "إنقاذ المجند ريان",
+      "fixed_at": "2026-08-20T04:29:03.504607"
+    },
+    {
+      "tmdb_id": "10518",
+      "file": "10518.json",
+      "title": "Marathon Man",
+      "fixed_at": "2026-08-20T04:29:13.071544"
+    },
+    {
+      "tmdb_id": "39269",
+      "file": "39269.json",
+      "title": "Scandal",
+      "fixed_at": "2026-08-20T04:29:48.868809"
+    },
+    {
+      "tmdb_id": "2132",
+      "file": "2132.json",
+      "title": "The Dick Van Dyke Show",
+      "fixed_at": "2026-08-20T04:30:00.079547"
+    },
+    {
+      "tmdb_id": "235484",
+      "file": "235484.json",
+      "title": "Suidooster",
+      "fixed_at": "2026-08-20T04:30:16.409066"
+    },
+    {
+      "tmdb_id": "1084577",
+      "file": "1084577.json",
+      "title": "فوضى في كأس العالم",
+      "fixed_at": "2026-08-20T04:30:53.094942"
+    },
+    {
+      "tmdb_id": "2750",
+      "file": "2750.json",
+      "title": "Silent Witness",
+      "fixed_at": "2026-08-20T04:31:06.394350"
+    },
+    {
+      "tmdb_id": "1584215",
+      "file": "1584215.json",
+      "title": "المتدربون",
+      "fixed_at": "2026-08-20T04:31:14.948093"
+    },
+    {
+      "tmdb_id": "66038",
+      "file": "66038.json",
+      "title": "Les Kassos",
+      "fixed_at": "2026-08-20T04:31:24.808787"
+    },
+    {
+      "tmdb_id": "76492",
+      "file": "76492.json",
+      "title": "فندق ترانسلفانيا",
+      "fixed_at": "2026-08-20T04:31:39.978339"
     }
   ],
-  "last_updated": "2026-08-20T03:42:48.907062",
-  "total_fixed": 940
+  "last_updated": "2026-08-20T04:31:41.981084",
+  "total_fixed": 954
 }

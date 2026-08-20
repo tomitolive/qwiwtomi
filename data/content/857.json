@@ -4,14 +4,12 @@
   "title_ar": "إنقاذ المجند ريان",
   "title_en": "Saving Private Ryan",
   "slug": "857-saving-private-ryan",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "عندما اقتحمت القوات الأمريكية شواطئ نورماندي ، مات ثلاثة أشقاء في ساحة المعركة ، بينما حوصر رابع خلف خطوط العدو. تم تكليف قائد الحارس جون ميلر وسبعة رجال باختراق الأراضي التي تسيطر عليها ألمانيا وإحضار الصبي إلى المنزل.",
   "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
   "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
   "release_date": "1998-07-24",
   "vote_average": 8.2,
-  "vote_count": 17197,
+  "vote_count": 17620,
   "genres": [
     {
       "id": 10752,
@@ -27,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في إحدى معارك الحرب العالمية الثانية، قاد قائد الحارس جون ميلر وسبعة رجال مهمةً خطيرةً لإنقاذ ريان، أحد الأشقاء الأربعة الذين ماتوا في ساحة المعركة. سيرحلة هذه المهمة الخطيرة التي ستشمل خروجهم من خطوط العدو وتحقيق مهمتهم في نهاية المطاف.",
-    "desc_en": "In one of the most intense battles of World War II, Captain John Miller and his seven men embark on a perilous mission to save Ryan, one of the four brothers who died in the battlefield. Their journey will take them out of enemy lines and ultimately achieve their goal.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم إنقاذ المجند ريان مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم إنقاذ المجند ريان مترجم اون لاين - توميتو",
-    "keywords": "Saving Private Ryan, فيلم إنقاذ المجند ريان مترجم, مشاهدة فيلم حرب, إنقاذ المجند ريان مترجم, توميتو إنقاذ المجند ريان, مشاهدة إنقاذ المجند ريان 1998, قصة فيلم إنقاذ المجند ريان, أحداث إنقاذ المجند ريان بالتفصيل",
-    "opinion": "فيلم إنقاذ المجند ريان هو فيلم حربي درامي يحتوي على أحداث إثارة ودراما، يُظهر قوة الإنسانية والشجاعة في أوقات الحرب.",
+    "intro": "يحكي فيلم إنقاذ المجند ريان قصة حرب ومأساة، حيث يضحي ثلاثة أشقاء من القوات الأمريكية في ساحة المعركة، بينما يتم حبس الرابع خلف خطوط العدو.",
+    "desc_ar": "يحكي فيلم إنقاذ المجند ريان قصة حرب ومأساة، حيث يضحي ثلاثة أشقاء من القوات الأمريكية في ساحة المعركة، بينما يتم حبس الرابع خلف خطوط العدو. يُكلف قائد الحرس جون ميلر وبعض الرجال الآخرين من القوات الخاصة بقيادة القائد هال نيدام باختراق الأراضي التي تسيطر عليها ألمانيا، وتحديدًا إلى منطقة غالبية القوات الألمانية، لإحضار الصبي إلى المنزل. هذا الفيلم يسلط الضوء على تضحيات الحلفاء والصراع البشري الذي وقع فيما يُعرف بمعركة نورماندي.",
+    "desc_en": "Saving Private Ryan tells the story of a war and a tragedy, where three American soldiers die on the battlefield, while their fourth brother is trapped behind enemy lines. Captain John Miller, a seasoned leader of the US Army Rangers, and a small group of his men are tasked with infiltrating German-held territory, particularly an area heavily fortified by the German forces, to bring the young soldier back home. This film sheds light on the sacrifices of the Allies and the human struggle that took place during the Normandy landings.",
+    "seo_title_ar": "مشاهدة فيلم إنقاذ المجند ريان مترجم - توميتو",
+    "meta_desc": "إنقاذ المجند ريان: فيلم حرب ومأساة يروي قصة تضحيات الحلفاء في معركة نورماندي. تمكن قوات الحلفاء من اختراق خطوط العدو وإنقاذ الصبي، لكن على حساب خسائر فادح",
+    "outro": "يُظهر هذا الفيلم تضحيات الحلفاء في معركة نورماندي، ويعطي صورة قوية عن صراع البشر في هذا الوقت التاريخي.",
+    "opinion_ar": "إنقاذ المجند ريان هو فيلم حرب ومأساة يسلط الضوء على تضحيات الحلفاء في معركة نورماندي، ويُظهر صراع البشر في هذا الوقت التاريخي.",
+    "opinion_en": "Saving Private Ryan is a war drama film that highlights the sacrifices of the Allies during the Normandy landings and showcases the human struggle during this pivotal moment in history.",
     "faq": [
       {
         "q": "ما هو فيلم إنقاذ المجند ريان؟",
-        "a": "فيلم حربي درامي يُصوّر أحداث الحرب العالمية الثانية."
-      },
-      {
-        "q": "ما هو هدف فيلم إنقاذ المجند ريان؟",
-        "a": "هدف الفيلم هو إنقاذ ريان، أحد الأشقاء الأربعة الذين ماتوا في ساحة المعركة."
-      },
-      {
-        "q": "ما هو نوع فيلم إنقاذ المجند ريان؟",
-        "a": "فيلم حربي درامي يحتوي على أحداث إثارة ودراما"
+        "a": "هو فيلم حرب ومأساة يروي قصة تضحيات الحلفاء في معركة نورماندي.",
+        "q_en": "What is Saving Private Ryan?",
+        "a_en": "It is a war drama film that tells the story of the sacrifices of the Allies during the Normandy landings."
       }
-    ]
+    ],
+    "keywords": "إنقاذ المجند ريان, فيلم حرب, دراما, تاريخ, معركة نورماندي, تضحيات الحلفاء, صراع البشر, مشاهدة إنقاذ المجند ريان, Saving Private Ryan مترجم, تحميل إنقاذ المجند ريان, إنقاذ المجند ريان اون لاين, Saving Private Ryan, إنقاذ المجند ريان جودة عالية, فيلم إنقاذ المجند ريان, Saving Private Ryan HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "169 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Hanks Tom Sizemore Edward Burns Barry Pepper Adam Goldberg"
+  "cast": "Tom Hanks Tom Sizemore Edward Burns Barry Pepper Adam Goldberg Vin Diesel Giovanni Ribisi Jeremy Davies"
 }

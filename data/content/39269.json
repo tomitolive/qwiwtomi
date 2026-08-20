@@ -4,14 +4,12 @@
   "title_ar": "Scandal",
   "title_en": "Scandal",
   "slug": "39269-scandal",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تدور أحداث المسلسل حول مجموعة من المحامين البارعين الذين يقومون بتأمين مصالح الأثرياء من خلال حماية أسرارهم. يُعتبر هذا الفريق من أفضل الفنيين في مجال حماية الصورة، لكنهم يواجهون صعوبة في حماية أسرارهم الخاصة. يُظهر المسلسل كيف يمكن أن تكون هذه العصابات المحترفة في حماية مصالح الآخرين، لكنهم يتجاهلون مشاكلهم الداخلية. في هذه المسلسلة، نجد أن شخصياتنا الرئيسية تواجه تحديات في حياتهم الشخصية والعملية، مما يجعلها أكثر حكمة في فهم العلاقات بين الأفراد.",
   "poster_path": "/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
   "backdrop_path": "/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
   "release_date": "2012-04-05",
   "vote_average": 7.2,
-  "vote_count": 606,
+  "vote_count": 615,
   "genres": [
     {
       "id": 18,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم السياسة، يتعاملون مع الأزمات والخلافات، ولكن في هذه الحلقة، سوف نرى كيف يتعاملون مع الارتباكات الشخصية والخلافات الأسرية، والتي ستشكل نهايةً لجميعهم، في هذه الحلقة من الدراما، سنرى كيف يتعاملون مع الأزمات والخلافات، ولكن في هذه الحلقة، سوف نرى كيف يتعاملون مع الارتباكات الشخصية والخلافات الأسرية، والتي ستشكل نهايةً لجميعهم.",
-    "desc_en": "In the world of politics, they deal with crises and conflicts, but in this episode, we will see how they deal with personal scandals and family conflicts, which will lead to the end of all of them, in this drama episode, we will see how they deal with crises and conflicts, but in this episode, we will see how they deal with personal scandals and family conflicts, which will lead to the end of all of them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الدراما الإثارة في الحلقة من [اسم الحلقة]!",
-    "seo_title_ar": "مشاهدة فيلم دراما [اسم الحلقة] مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم دراما, أحداث Scandal بالتفصيل, مشاهدة Scandal 2012, Scandal مترجم كامل, توميتو Scandal, قصة مسلسل Scandal",
-    "opinion": "هذه الحلقة من الدراما، هي واحدة من أفضل ما يمكن أن يحدث في عالم السياسة، حيث نرى كيف يتعاملون مع الأزمات والخلافات، ولكن في هذه الحلقة، سوف نرى كيف يتعاملون مع الارتباكات الشخصية والخلافات الأسرية، والتي ستشكل نهايةً لجميعهم.",
+    "intro": "تدور أحداث المسلسل حول مجموعة من المحامين البارعين الذين يقومون بتأمين مصالح الأثرياء من خلال حماية أسرارهم.",
+    "desc_ar": "تدور أحداث المسلسل حول مجموعة من المحامين البارعين الذين يقومون بتأمين مصالح الأثرياء من خلال حماية أسرارهم. يُعتبر هذا الفريق من أفضل الفنيين في مجال حماية الصورة، لكنهم يواجهون صعوبة في حماية أسرارهم الخاصة. يُظهر المسلسل كيف يمكن أن تكون هذه العصابات المحترفة في حماية مصالح الآخرين، لكنهم يتجاهلون مشاكلهم الداخلية. في هذه المسلسلة، نجد أن شخصياتنا الرئيسية تواجه تحديات في حياتهم الشخصية والعملية، مما يجعلها أكثر حكمة في فهم العلاقات بين الأفراد.",
+    "desc_en": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits\" have trouble fixing those closest at hand -- their own.",
+    "seo_title_ar": "مشاهدة مسلسل فضيحة مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل فضيحة مترجم - توميتو, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "المسلسل هو تجربة ممتعة، حيث يركز على العلاقات بين الأفراد وتحديات الحياة الشخصية والعملية.",
+    "opinion_ar": "المسلسل هو تجربة ممتعة، حيث يركز على العلاقات بين الأفراد وتحديات الحياة الشخصية والعملية. تقدم الشخصيات الرئيسية من خلال أحداث معقدة ومشاكل حقيقية.",
+    "opinion_en": "This series is an engaging experience, focusing on the relationships between individuals and the challenges of personal and professional life. The main characters are developed through complex events and real-life problems.",
     "faq": [
       {
-        "q": "ما هو موضوع الحلقة؟",
-        "a": "هذه الحلقة من الدراما، تتمحور حول الأزمات والخلافات الشخصية والخلافات الأسرية."
+        "q": "ما هي أسرار الشخصيات الرئيسية في المسلسل؟",
+        "a": "تتعامل الشخصيات الرئيسية في المسلسل مع أسرارها الشخصية والعملية، مما يجعلها أكثر تعقيدًا وملاءمةً مع الحياة الحقيقية.",
+        "q_en": "What are the secrets of the main characters in the series?",
+        "a_en": "The main characters in the series deal with their personal and professional secrets, making them more complex and relatable to real life."
       },
       {
-        "q": "ما هو نوع الدراما؟",
-        "a": "هذه الحلقة من الدراما، نوع دراما سياسي."
-      },
-      {
-        "q": "ما هو أفضل ما في الحلقة؟",
-        "a": "هذه الحلقة من الدراما، هي واحدة من أفضل ما يمكن أن يحدث في عالم السياسة، حيث نرى كيف يتعاملون مع الأزمات والخلافات."
+        "q": "ما هي دورة أحداث المسلسل؟",
+        "a": "تدور أحداث المسلسل حول تحديات الحياة الشخصية والعملية للشخصيات الرئيسية، مما يجعلها أكثر حكمة في فهم العلاقات بين الأفراد.",
+        "q_en": "What is the series' storyline?",
+        "a_en": "The series' storyline revolves around the personal and professional challenges faced by the main characters, making them wiser in understanding relationships between individuals."
       }
-    ]
+    ],
+    "keywords": "فضيحة, مسلسل, دراما, أسرار, علاقات, تحديات الحياة, فضيحة رحمه, رحمه محسن, فضيحة رحمه محسن, فضيحة رحمة, رحمة محسن فضيحة, رحمة محسن, فضيحة هدير, فضيحة هيفاء, فضيحة هيفاء وهبي, البحث عن فضيحة, فيديو فضيحة رحمه محسن, فيديو فضيحة رحمة محسن"
   },
   "fixed": true,
-  "first_air_date": "2012-04-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "94 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Linda Manz Dennis Hopper Sharon Farrell Don Gordon Raymond Burr"
+  "cast": "Kerry Washington Darby Stanchfield Katie Lowes Guillermo Díaz Jeff Perry Tony Goldwyn Joshua Malina Bellamy Young",
+  "first_air_date": "2012-04-05"
 }

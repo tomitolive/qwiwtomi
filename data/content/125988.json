@@ -4,14 +4,12 @@
   "title_ar": "Silo",
   "title_en": "Silo",
   "slug": "125988-silo",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في مستقبل خرب وسامّ، يعيش آلاف الناس في صومعة ضخمة تحت الأرض. بعد أن يخرق مأمورهم قانونها الأساسي ويموت المواطنون بطرق غامضة، تبدأ المهندسة \"جولييت\" بكشف أسرار صادمة لتعرف الحقيقة عن الصومعة.",
   "poster_path": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-  "backdrop_path": "/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+  "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
   "release_date": "2023-05-04",
-  "vote_average": 8.1,
-  "vote_count": 2042,
+  "vote_average": 8.2,
+  "vote_count": 2457,
   "genres": [
     {
       "id": 10765,
@@ -23,19 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مستقبل خرب وسامّ، يعيش آلاف الناس في صومعة ضخمة تحت الأرض. بعد أن يخرق مأمورهم قانونها الأساسي ويموت المواطنون بطرق غامضة، تبدأ المهندسة \"جولييت\" بكشف أسرار صادمة لتعرف الحقيقة عن الصومعة.",
-    "desc_en": "في مستقبل خرب وسامّ، يعيش آلاف الناس في صومعة ضخمة تحت الأرض. بعد أن يخرق مأمورهم قانونها الأساسي ويموت المواطنون بطرق غامضة، تبدأ المهندسة \"جولييت\" بكشف أسرار صادمة لتعرف الحقيقة عن الصومعة.",
-    "meta_desc": "مشاهدة Silo مترجم بجودة عالية على توميتو.",
-    "keywords": "Silo مترجم, مشاهدة Silo 2026, أحداث Silo بالتفصيل, توميتو Silo, قصة فيلم Silo",
-    "seo_title_ar": "مشاهدة Silo مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "في عالم مستقبل خرب، يظل آلاف البشر في صومعة ضخمة تحت الأرض.",
+    "desc_ar": "في عالم مستقبل خرب، يظل آلاف البشر في صومعة ضخمة تحت الأرض، محصورين بين جدران صلبة. يتعرض السكان لمخاطر غير معروفة، ويتعين على المهندسة جولييت أن تكشف عن الأسرار المحترقة لتعرف الحقيقة عن الصومعة. ولكن عندما يتجاوز رئيس الشرطة قواعد الصومعة الأساسية، وتفلت الأحداث، تبدأ جولييت في اكتشاف أسرار غامضة وواقع صومعة، مما يهز أسس حياتها.",
+    "desc_en": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "seo_title_ar": "مشاهدة مسلسل صومعة: سيلو مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل صومعة: سيلو، العمل المثير الذي يروي قصة آلاف البشر الذين يعيشون في صومعة ضخمة تحت الأرض. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بد",
+    "outro": "هذا العمل يرسم صورة واقعية عن المستقبل الخرب، ويترك للناظرين أسئلة حول الحقيقة عن الصومعة.",
+    "opinion_ar": "صومعة: سيلو هو عمل مسرّب إبداعًا، يرسم صورة واقعية عن المستقبل الخرب. يتعرض السكان لمخاطر غامضة، ويجب على جولييت أن تكتشف الحقيقة عن الصومعة.",
+    "opinion_en": "Silo is a gripping work of science fiction that paints a realistic picture of a ruined future. The residents of the silo face mysterious dangers, and it's up to Juliette to uncover the truth.",
+    "faq": [
+      {
+        "q": "ما هو قصة مسلسل صومعة؟",
+        "a": "يعيش آلاف البشر في صومعة ضخمة تحت الأرض، محصورين بين جدران صلبة. يتعرض السكان لمخاطر غير معروفة، ويجب على المهندسة جولييت أن تكشف عن الأسرار المحترقة لتعرف الحقيقة عن الصومعة.",
+        "q_en": "What is the story of Silo?",
+        "a_en": "Thousands of people live in a giant silo deep underground, confined between solid walls. The residents face unknown dangers, and it's up to engineer Juliette to uncover the shocking secrets and the truth about the silo."
+      },
+      {
+        "q": "لماذا يجب على جولييت أن تكشف عن الأسرار؟",
+        "a": "لأن رئيس الشرطة يتعرض للقتل الغامض، ويتعين على جولييت أن تكتشف الحقيقة عن الصومعة.",
+        "q_en": "Why must Juliette uncover the secrets?",
+        "a_en": "Because the sheriff is mysteriously killed, and it's up to Juliette to uncover the truth about the silo."
+      }
+    ],
+    "keywords": "صومعة, سيلو, مسلسل, خيال علمي, فانتازيا, دراما, مستقبل خرب, آلاف البشر, صومعة ضخمة, جدران صلبة, مخاطر غير معروفة, المهندسة جولييت, الأسرار المحترقة, الحقيقة عن الصومعة, صومعة حسان, معنى صومعة, بنى صومعة حسان"
   },
   "fixed": true,
-  "first_air_date": "2023-05-04",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Rebecca Ferguson Common Chinaza Uche Ashley Zukerman Shane McRae Remmie Milner Alexandria Riley Reed Birney",
+  "first_air_date": "2023-05-04"
 }
