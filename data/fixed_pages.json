@@ -5489,8 +5489,80 @@
       "file": "256695.json",
       "title": "Regular Show: The Lost Tapes",
       "fixed_at": "2026-08-20T00:50:49.225573"
+    },
+    {
+      "tmdb_id": "45789",
+      "file": "45789.json",
+      "title": "Sturm der Liebe",
+      "fixed_at": "2026-08-20T02:37:47.282202"
+    },
+    {
+      "tmdb_id": "5528",
+      "file": "5528.json",
+      "title": "Les Choristes",
+      "fixed_at": "2026-08-20T02:38:00.407722"
+    },
+    {
+      "tmdb_id": "302063",
+      "file": "302063.json",
+      "title": "هذا البحر سوف يفيض",
+      "fixed_at": "2026-08-20T02:38:10.902388"
+    },
+    {
+      "tmdb_id": "77826",
+      "file": "77826.json",
+      "title": "SKAM Italia",
+      "fixed_at": "2026-08-20T02:38:27.304536"
+    },
+    {
+      "tmdb_id": "278927",
+      "file": "278927.json",
+      "title": "كتاب الأدغال",
+      "fixed_at": "2026-08-20T02:38:36.406758"
+    },
+    {
+      "tmdb_id": "43920",
+      "file": "43920.json",
+      "title": "Dog Pound",
+      "fixed_at": "2026-08-20T02:38:55.871283"
+    },
+    {
+      "tmdb_id": "5822",
+      "file": "5822.json",
+      "title": "SMAPSMAP",
+      "fixed_at": "2026-08-20T02:39:08.269682"
+    },
+    {
+      "tmdb_id": "76600",
+      "file": "76600.json",
+      "title": "أفاتار: طريق المياه",
+      "fixed_at": "2026-08-20T02:39:26.796417"
+    },
+    {
+      "tmdb_id": "1010581",
+      "file": "1010581.json",
+      "title": "خطئي",
+      "fixed_at": "2026-08-20T02:39:53.522447"
+    },
+    {
+      "tmdb_id": "10404",
+      "file": "10404.json",
+      "title": "Raise the Red Lantern",
+      "fixed_at": "2026-08-20T02:40:12.743278"
+    },
+    {
+      "tmdb_id": "1940",
+      "file": "1940.json",
+      "title": "Entourage",
+      "fixed_at": "2026-08-20T02:40:25.428369"
+    },
+    {
+      "tmdb_id": "20352",
+      "file": "20352.json",
+      "title": "الحقير أنا",
+      "fixed_at": "2026-08-20T02:40:48.840441"
     }
   ],
-  "last_updated": "2026-08-20T00:50:51.228329",
-  "total_fixed": 915
+  "last_updated": "2026-08-20T02:40:50.843104",
+  "total_fixed": 927
 }

@@ -9,7 +9,7 @@
   "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
   "release_date": "2010-07-08",
   "vote_average": 7.3,
-  "vote_count": 16039,
+  "vote_count": 16287,
   "genres": [
     {
       "id": 16,
@@ -24,21 +24,38 @@
       "name": "جريمة"
     },
     {
-      "id": 10751,
-      "name": "عائلي"
-    },
-    {
       "id": 878,
       "name": "خيال علمي"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
     }
   ],
   "ai_content": {
-    "desc_ar": "يُدبّر الشرير \"غرو\" لسرقة القمر من السماء، لكنه يجد صعوبة في الاستمرار في هذه المهمّة بعدما يجد نفسه مسؤولًا عن رعاية ثلاث يتيمات.",
-    "desc_en": "يُدبّر الشرير \"غرو\" لسرقة القمر من السماء، لكنه يجد صعوبة في الاستمرار في هذه المهمّة بعدما يجد نفسه مسؤولًا عن رعاية ثلاث يتيمات.",
-    "meta_desc": "مشاهدة الحقير أنا مترجم بجودة عالية على توميتو.",
-    "keywords": "Despicable Me, أحداث الحقير أنا بالتفصيل, قصة فيلم الحقير أنا, الحقير أنا مترجم, مشاهدة الحقير أنا 2026, توميتو الحقير أنا",
-    "seo_title_ar": "مشاهدة الحقير أنا مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "تدور أحداث فيلم 'الحقير أنا' حول قصة الشرير 'غرو' الذي يحلم بأن يكون أكبر شرير في العالم.",
+    "desc_ar": "يحكي فيلم 'الحقير أنا' قصة الشرير 'غرو' الذي يحلم بأن يكون أكبر شرير في العالم، ويخطط لسرقة القمر من السماء لتحقيق هذا الهدف. ومع بدء تنفيذ خطة 'غرو'، يجد نفسه مسؤولًا عن رعاية ثلاثة أطفال يتيمين، مما يثير تساؤلاته حول حياة الجريمة التي كان يتبعها دائمًا. وبالنسبة ل'غرو'، يصبح تحقيق هذا الهدف أكبر تحديًا عندما يكتشف أن هذه الأطفال قد أصبحت جزءًا من حياته، مما يؤدي إلى تغيير في .",
+    "desc_en": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girlsMargo, Edith, and Agnesintending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",
+    "seo_title_ar": "مشاهدة فيلم الحقير أنا مترجم - فيلم رسوم متحركة كوميديا جريمة خيال علمي عائلي 2010",
+    "meta_desc": "شاهد فيلم الحقير أنا 2010 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. تدور أحداث الفيلم حول قصة الشرير غرو الذي يحلم بأن يكون أكبر شرير في العالم.",
+    "outro": "فيلم 'الحقير أنا' هو تجربة مشاهدة ممتعة ومرحة، حيث يتعرف المرء على شخصية الشرير 'غرو' التي تتحول من خلال أحداث الفيلم.",
+    "opinion_ar": "فيلم 'الحقير أنا' هو تجربة مشاهدة ممتعة ومرحة، حيث يتعرف المرء على شخصية الشرير 'غرو' التي تتحول من خلال أحداث الفيلم.",
+    "opinion_en": "Despicable Me is a delightful and entertaining film, where one gets to know the character of the villain 'Gru' who transforms through the events of the film.",
+    "faq": [
+      {
+        "q": "ما هو فيلم 'الحقير أنا'؟",
+        "a": "فيلم 'الحقير أنا' هو فيلم رسوم متحركة كوميديا جريمة خيال علمي عائلي من إنتاج عام 2010.",
+        "q_en": "What is Despicable Me?",
+        "a_en": "Despicable Me is a 2010 computer-animated comedy film produced by Illumination Entertainment."
+      },
+      {
+        "q": "من بطولة فيلم 'الحقير أنا'؟",
+        "a": "فيلم 'الحقير أنا' من بطولة ستيف كوجان في دور 'غرو'.",
+        "q_en": "Who stars in Despicable Me?",
+        "a_en": "Steve Carell stars as Gru in the film."
+      }
+    ],
+    "keywords": "فيلم الحقير أنا 2010, رسوم متحركة, كوميديا, جريمة, خيال علمي, عائلي, الشرير غرو, سيرة شريرة, معجزة, مشاهدة الحقير أنا, Despicable Me مترجم, تحميل الحقير أنا, الحقير أنا اون لاين, Despicable Me, الحقير أنا جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +63,5 @@
   "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Steve Carell Jason Segel Miranda Cosgrove Dana Gaier Elsie Fisher"
+  "cast": "Steve Carell Jason Segel Russell Brand Julie Andrews Will Arnett Kristen Wiig Miranda Cosgrove Dana Gaier Ellis"
 }

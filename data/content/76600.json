@@ -1,7 +1,7 @@
 {
   "id": 76600,
-  "title": "أفاتار: طريق المياه",
-  "title_ar": "أفاتار: طريق المياه",
+  "title": "أفاتار: أسلوب المياه",
+  "title_ar": "أفاتار: أسلوب المياه",
   "title_en": "Avatar: The Way of Water",
   "slug": "76600-avatar-the-way-of-water",
   "overview": "يحاول كل من جيك سولي ونيتيري أن يقوما بكل ما في وسعهما كي يظل معًا، ولكن يتحتم عليهما مفارقة منزلهما واكتشاف أرجاء شتى على كوكب باندورا لينهيا ما بدآه.",
@@ -9,7 +9,7 @@
   "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
   "release_date": "2022-12-14",
   "vote_average": 7.6,
-  "vote_count": 14109,
+  "vote_count": 14517,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم باندورا، حيث يمرض النوع البشري بالانقراض، يحاول كل من جيك سولي ونيتيري أن يقوما بكل ما في وسعهما كي يظل معًا، ولكن يتحتم عليهما مفارقة منزلهما واكتشاف أرجاء شتى على كوكب باندورا لينهيا ما بدآه. في هذه الرحلة، سيتعرفون على أسرار جديدة، وسيواجهون تحديات جديدة، وسيتعلمون ما هو الأهم من أجل البقاء.",
-    "desc_en": "In the world of Pandora, where humanity is on the brink of extinction, Jake Sully and Neytiri try to do everything in their power to stay together, but they are forced to leave their home and discover new wonders on the planet Pandora. In this journey, they will discover new secrets, face new challenges, and learn what is most important for survival.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أفاتار: طريق المياه",
-    "seo_title_ar": "مشاهدة فيلم أفاتار: طريق المياه مترجم اون لاين - توميتو",
-    "keywords": "Avatar: The Way of Water, فيلم أفاتار مترجم, مشاهدة فيلم أفاتار: طريق المياه, قصة فيلم أفاتار: طريق المياه, أفاتار: طريق المياه مترجم, مشاهدة أفاتار: طريق المياه 2022, توميتو أفاتار: طريق المياه, أحداث أفاتار: طريق المياه بالتفصيل",
-    "opinion": "هو فيلم رائع، مليء بالحماس والتشويق، حيث يتعامل مع قضايا مهمة مثل المحافظة على البيئة والسلام مع الكائنات الأخرى.",
+    "intro": "يحكي فيلم \"أفاتار: أسلوب المياه\" قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم باندورا.",
+    "desc_ar": "يحكي فيلم \"أفاتار: أسلوب المياه\" قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم مليء بالتحديات. بعد مرور أكثر من عقد من أحداث الفيلم الأول، يتعرض كل من جيك ونيتيري لتحديات جديدة في عالم باندورا، حيث يتعين عليهم السفر من منزلهم القديم واكتشاف أنحاء جديدة من الكوكب. في هذا العالم المليء بالتحديات، يتعين عليهم أن يظلوا معًا ويعيشوا بجانب بعضهم البعض، ولكن في نفس الوقت يتعين عليهم مواجهة الأخطار التي تهددهم واكتشاف أسرار جديدة. يبدأ الفيلم بتصوير علاقة بين جيك ونيتيري وابنائهم وتطورها مع مرور الوقت.",
+    "desc_en": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure. As they navigate the challenges of their new home on Pandora, they must confront the dangers that threaten them and uncover new secrets. The film begins by exploring the relationship between Jake and Neytiri and their children, and how it evolves over time.",
+    "seo_title_ar": "مشاهدة أفاتار: أسلوب المياه مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة أفاتار: أسلوب المياه مترجم - فيلم رائع عن عائلة سولي في عالم باندورا. اكتشف أسرار جديدة واكتشف العالم المليء بالتحديات. استمتع بمشاهدة",
+    "outro": "يعد فيلم \"أفاتار: أسلوب المياه\" تجربة مشاهدة رائعة، حيث يتعرف الزائر على قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم باندورا.",
+    "opinion_ar": "يعد فيلم \"أفاتار: أسلوب المياه\" تجربة مشاهدة رائعة، حيث يتعرف الزائر على قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم باندورا. الفيلم مليء بالتحديات والتحديات التي يتعين على العائلة مواجهتها، ولكن في نفس الوقت يحتوي على العديد من الأشياء التي تجعل تجربة المشاهدة أكثر إثارة.",
+    "opinion_en": "Avatar: The Way of Water is a thrilling viewing experience, where the viewer gets to know the story of the Sully family, who try to keep each other safe in the world of Pandora. The film is filled with challenges and obstacles that the family must face, but at the same time, it has many things that make the viewing experience more exciting.",
     "faq": [
       {
-        "q": "ما هو فيلم أفاتار: طريق المياه؟",
-        "a": "هو فيلم رائع يروي قصة البقاء والسلام في عالم باندورا"
+        "q": "ما هو فيلم \"أفاتار: أسلوب المياه\"؟",
+        "a": "يحكي فيلم \"أفاتار: أسلوب المياه\" قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم باندورا.",
+        "q_en": "What is the movie \"Avatar: The Way of Water\"?",
+        "a_en": "The movie \"Avatar: The Way of Water\" tells the story of the Sully family, who try to keep each other safe in the world of Pandora."
       },
       {
-        "q": "ما هو نوع فيلم أفاتار: طريق المياه؟",
-        "a": "هو فيلم حركة ومغامرة وخيال علمي"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم أفاتار: طريق المياه؟",
-        "a": "هو قصة البقاء والسلام، بالإضافة إلى الإثارة والتشويق"
+        "q": "ما هي قصة فيلم \"أفاتار: أسلوب المياه\"؟",
+        "a": "يحكي الفيلم قصة عائلة سولي التي تحاول الاحتفاظ ببعضها في عالم باندورا.",
+        "q_en": "What is the story of the movie \"Avatar: The Way of Water\"?",
+        "a_en": "The movie tells the story of the Sully family, who try to keep each other safe in the world of Pandora."
       }
-    ]
+    ],
+    "keywords": "أفاتار, أسلوب المياه, فيلم, عائلة سولي, باندورا, جيك, نيتيري, أفلام حركة, أفلام مغامرة, أفلام خيال علمي, مشاهدة أفاتار: أسلوب المياه, Avatar: The Way Water مترجم, تحميل أفاتار: أسلوب المياه, أفاتار: أسلوب المياه اون لاين, Avatar: The Way Water"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "192 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Sam Worthington Zoe Saldaña Sigourney Weaver Stephen Lang Kate Winslet"
+  "cast": "Sam Worthington Zoe Saldaña Sigourney Weaver Stephen Lang Kate Winslet Cliff Curtis Joel David Moore CCH Pounder"
 }

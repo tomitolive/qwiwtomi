@@ -4,12 +4,12 @@
   "title_ar": "كتاب الأدغال",
   "title_en": "The Jungle Book",
   "slug": "278927-the-jungle-book",
-  "overview": "الأسطورة لن تكون هي نفسها أبدا.\r رجل شبل يدعى ماوكلي ترعاه الذئاب. بعد تهديد من النمر شيري خان ، يضطر ماوكلي إلى الفرار من الغابة ، حيث يشرع في رحلة لاكتشاف الذات بمساعدة النمر ، باغيرا والدب الحر ، بالو.",
+  "overview": "بعد تهديد النمر \"شير خان\"، يُجبر \"ماوكلي\"، الطفل البشري الذي ربّته الذئاب، على مغادرة الغابة، ليبدأ رحلة لاكتشاف ذاته بمساعدة النمر الأسود \"باغيرا\" والدب المحب للحرية \"بالو\".",
   "poster_path": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
-  "backdrop_path": "/1WwJu68OPWR32ny7gDg85XETDGO.jpg",
+  "backdrop_path": "/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
   "release_date": "2016-04-07",
   "vote_average": 6.9,
-  "vote_count": 8486,
+  "vote_count": 8593,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الغابة، حيث يلعب النمر شيري خان دور القائد، يجد رجل الشبل ماوكلي نفسه أمام تحديات عظيمة. بعد أن تهديدته النمرة، يضطر ماوكلي إلى الفرار من الغابة، حيث يشرع في رحلة لاكتشاف الذات بمساعدة النمر، باغيرا والدب الحر، بالو. سوف يتعرف ماوكلي على أسرار الغابة، ويخترق أسرار النمر، ويحقق حلماً رائعاً.",
-    "desc_en": "In the world of the jungle, where the tiger Shere Khan plays the role of the leader, Mowgli, a man-cub, finds himself facing great challenges. After being threatened by the tiger, Mowgli is forced to flee the jungle, where he embarks on a journey of self-discovery with the help of the tiger, Bagheera, and the free wolf, Baloo. Mowgli will learn the secrets of the jungle, uncover the secrets of the tiger, and achieve a magnificent dream.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في كتاب الأدغال - مغامرة عائلي فانتازيا",
-    "seo_title_ar": "مشاهدة فيلم كتاب الأدغال مترجم اون لاين - توميتو",
-    "keywords": "The Jungle Book, فيلم كتاب الأدغال مترجم, مشاهدة فيلم كتاب الأدغال, توميتو كتاب الأدغال, أحداث كتاب الأدغال بالتفصيل, مشاهدة كتاب الأدغال 2016, كتاب الأدغال مترجم, قصة فيلم كتاب الأدغال",
-    "opinion": "كتاب الأدغال فيلم رائع يجمع بين المغامرة والFantasy والعائلي، ويحوي أحداثاً رائعة وصوراً جميلة، مما يجعله فيلماً يجب مشاهدته",
+    "intro": "يحكي فيلم كتاب الأدغال قصة رائعة عن طفل بشري يُسمى ماوكلي، الذي تربى بين الذئاب في الغابة.",
+    "desc_ar": "يحكي فيلم كتاب الأدغال قصة رائعة عن طفل بشري يُسمى ماوكلي، الذي تربى بين الذئاب في الغابة، بعد أن هاجم النمر الشرير شير خان، يُجبَر ماوكلي على مغادرة الغابة، ويبدأ رحلة لاكتشاف ذاته مع مساعدة النمر الأسود باغيرا والدب الحُر بالو، الذي يعيش في الغابة بحرية وجمال، ويساعد ماوكلي على اكتشاف نفسه في عالم الغابة المليء بالمعجزات.",
+    "desc_en": "After a threat from the tiger Shere Khan, Mowgli, a man-cub fostered by wolves, is forced to flee the jungle, and he embarks on a journey of self-discovery with the help of the panther, Bagheera, and the free-spirited bear, Baloo.",
+    "seo_title_ar": "مشاهدة فيلم مغامرة كتاب الأدغال مترجم - توميتو",
+    "meta_desc": "كتاب الأدغال, فيلم مغامرة عائلي فانتازيا, 2016, مشاهدة فيلم, مترجم, بدون إعلانات مزعجة, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية. استمتع ب",
+    "outro": "يعد فيلم كتاب الأدغال تجربة رائعة وممتعة للجميع، حيث يتعرفنا على عالم الغابة المليء بالمعجزات والجمال.",
+    "opinion_ar": "يعد فيلم كتاب الأدغال تجربة رائعة وممتعة للجميع، حيث يتعرفنا على عالم الغابة المليء بالمعجزات والجمال.",
+    "opinion_en": "The Jungle Book is a wonderful and entertaining experience for everyone, as we get to know a world full of wonders and beauty.",
     "faq": [
       {
-        "q": "ما هو كتاب الأدغال؟",
-        "a": "فيلم رائع يجمع بين المغامرة والFantasy والعائلي"
-      },
-      {
-        "q": "ما هو نوع فيلم كتاب الأدغال؟",
-        "a": "مغامرة عائلي فانتازيا"
-      },
-      {
-        "q": "ما هو أفضل جزء في فيلم كتاب الأدغال؟",
-        "a": "أحداث الإثارة والصور الجميلة"
+        "q": "ما هو فيلم كتاب الأدغال؟",
+        "a": "فيلم مغامرة عائلي فانتازيا يحكي قصة طفل بشري يُسمى ماوكلي، الذي تربى بين الذئاب في الغابة.",
+        "q_en": "What is The Jungle Book?",
+        "a_en": "The Jungle Book is an adventure family fantasy film that tells the story of a human boy named Mowgli, who was raised by wolves in the jungle."
       }
-    ]
+    ],
+    "keywords": "كتاب الأدغال, فيلم مغامرة, عائلي, فانتازيا, 2016, مشاهدة فيلم, مترجم, بدون إعلانات مزعجة, مشاهدة كتاب الأدغال, The Jungle Book مترجم, تحميل كتاب الأدغال, كتاب الأدغال اون لاين, The Jungle Book, كتاب الأدغال جودة عالية, فيلم كتاب الأدغال"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "106 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Neel Sethi Bill Murray Ben Kingsley Idris Elba Scarlett Johansson"
+  "cast": "Neel Sethi Bill Murray Ben Kingsley Idris Elba Scarlett Johansson Christopher Walken Lupita Nyong'o Giancarlo Esposito"
 }
