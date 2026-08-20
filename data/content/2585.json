@@ -4,9 +4,7 @@
   "title_ar": "Heartbeat",
   "title_en": "Heartbeat",
   "slug": "2585-heartbeat",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل نبض القلب قصة حياة الأشخاص في قرية أيدنفيلد الواقعة في شمال يوركشاير، حيث تتلاقي قصة الجريمة والطب مع قصة حياة الناس في القرية في ستينيات القرن الماضي. يُصدر المسلسل في عام 1992 ويُعرف بمواضيعه التى تجمع بين الجريمة والطب والرومانسية، ويحمل طابعاً معاصراً يُشكل جزءاً من تاريخ التلفزيون البريطاني. يُعتبر مسلسل نبض القلب من أشهر المسلسلات البريطانية، حيث يُستمتع به من قبل الناس من جميع الأعمار.",
   "poster_path": "/naMIm2WuIFcBk2yNWAQcRAhZFyU.jpg",
   "backdrop_path": "/dRVToyhldkgjzGcrhPlZf4IuK0y.jpg",
   "release_date": "1992-04-10",
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم القانون، يوجد نوعان من الناس: những الذين يلعبون القانون، والذين يلعبونهم. في هذه الدراما الكوميدية، نرى كيف يتعامل المحامي ريان مع القضايا اليومية، بينما يتعامل المحامي ريان مع القضايا اليومية، بينما يتعامل المحامي ريان مع القضايا اليومية.",
-    "desc_en": "In the world of law, there are two types of people: those who play the law, and those who play them. In this comedy drama, we see how lawyer Ryan deals with daily cases, while also dealing with his own personal struggles.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل القلب",
-    "seo_title_ar": "مشاهدة مسلسل القلب مترجم اون لاين - توميتو",
-    "keywords": "مسلسل القلب مترجم, مشاهدة مسلسل القلب, مشاهدة Heartbeat 1992, Heartbeat مترجم كامل, توميتو Heartbeat, أحداث Heartbeat بالتفصيل, قصة مسلسل Heartbeat",
-    "opinion": "هو فيلم رائع، مليء بالكوميديا والدراما، حيث يلعب المحامي ريان دوراً رئيسياً في القضايا اليومية.",
+    "intro": "يُعتبر مسلسل نبض القلب من أشهر المسلسلات البريطانية، حيث يُستمتع به من قبل الناس من جميع الأعمار.",
+    "desc_ar": "يحكي مسلسل نبض القلب قصة حياة الأشخاص في قرية أيدنفيلد الواقعة في شمال يوركشاير، حيث تتلاقي قصة الجريمة والطب مع قصة حياة الناس في القرية في ستينيات القرن الماضي. يُصدر المسلسل في عام 1992 ويُعرف بمواضيعه التى تجمع بين الجريمة والطب والرومانسية، ويحمل طابعاً معاصراً يُشكل جزءاً من تاريخ التلفزيون البريطاني. يُعتبر مسلسل نبض القلب من أشهر المسلسلات البريطانية، حيث يُستمتع به من قبل الناس من جميع الأعمار.",
+    "desc_en": "Set during the 1960s in the fictional North Yorkshire village of Aidensfield, this enduringly popular series interweaves crime and medical storylines with a touch of romance, and is a significant part of British television history. Heartbeat is one of the most popular British television series, enjoyed by people of all ages.",
+    "seo_title_ar": "مشاهدة مسلسل نبض القلب مترجم - Heartbeat",
+    "meta_desc": "نبض القلب مسلسل بريطاني يروي قصة حياة القرية في ستينيات القرن الماضي، يجمع بين الجريمة والطب والرومانسية، يعتبر من أشهر المسلسلات البريطانية، استمتع بمشاه",
+    "outro": "يُعتبر مسلسل نبض القلب من أروع المسلسلات البريطانية، حيث يجمع بين الجريمة والطب والرومانسية بطريقة فريدة ومتعة.",
+    "opinion_ar": "يُعتبر مسلسل نبض القلب من أروع المسلسلات البريطانية، حيث يجمع بين الجريمة والطب والرومانسية بطريقة فريدة ومتعة.",
+    "opinion_en": "Heartbeat is one of the best British television series, where it interweaves crime, medicine, and romance in a unique and entertaining way.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل القلب؟",
-        "a": "هو مسلسل كوميدي دراما"
+        "q": "ما هو تاريخ إصدار مسلسل نبض القلب؟",
+        "a": "تم إصدار مسلسل نبض القلب في عام 1992.",
+        "q_en": "When was Heartbeat released?",
+        "a_en": "Heartbeat was released in 1992."
       },
       {
-        "q": "ما هو موضوع مسلسل القلب؟",
-        "a": "يحكى مسلسل القلب قصة المحامي ريان والقضايا اليومية"
-      },
-      {
-        "q": "ما هو نوع مسلسل القلب؟",
-        "a": "هو مسلسل جريمة دراما كوميديا"
+        "q": "ما هو نوع مسلسل نبض القلب؟",
+        "a": "يُعتبر مسلسل نبض القلب مسلسلاً بريطانياً يجمع بين الجريمة والطب والرومانسية.",
+        "q_en": "What type of series is Heartbeat?",
+        "a_en": "Heartbeat is a British television series that interweaves crime, medicine, and romance."
       }
-    ]
+    ],
+    "keywords": "نبض القلب, مسلسل بريطاني, جريمة, دراما, كوميديا, قرية أيدنفيلد, شمال يوركشاير, ستينيات القرن الماضي, جودة عالية, ترجمة احترافية, بدون إعلانات مزعجة., نبض القلب الطبيعي, كم نبض القلب الطبيعي, معدل نبض القلب الطبيعي, نبض القلب عالي, كلما زادت شدة التمرين، زاد معدل نبض القلب, يمكن تحسس نبض القلب بسهولة في الرقبة أو المعصم باستخدام أطراف الأصابع, هل العبارة صحيحه ام خاطئة كلما إرتفع نبض القلب كلما دل على إرتفاع شدة التدريب, نبض القلب مسلسل, يمكن تحسس نبض القلب بسهولة في الرقبة أو المعصم باستخدام أطراف الأصابع صواب خطأ, نبض القلب الطبيعي للنساء"
   },
   "fixed": true,
-  "first_air_date": "1992-04-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Derek Fowlds William Simons Tricia Penrose Peter Benson Gwen Taylor Lisa Kay Joseph McFadden Nikki Sanderson",
+  "first_air_date": "1992-04-10"
 }

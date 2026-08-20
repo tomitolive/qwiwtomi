@@ -1,15 +1,15 @@
 {
   "id": 271110,
-  "title": "كابتن أمريكا الحرب الأهلية",
-  "title_ar": "كابتن أمريكا الحرب الأهلية",
+  "title": "كابتن أمريكا: الحرب الأهلية",
+  "title_ar": "كابتن أمريكا: الحرب الأهلية",
   "title_en": "Captain America: Civil War",
   "slug": "271110-captain-america-civil-war",
   "overview": "يؤدي التدخل السياسي في شؤون المنتقمين إلى حدوث شرخ بين كابتن أمريكا وآيرون مان.",
   "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
-  "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+  "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
   "release_date": "2016-04-27",
-  "vote_average": 7.4,
-  "vote_count": 24019,
+  "vote_average": 7.5,
+  "vote_count": 24395,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المنتقمين، يؤدي التدخل السياسي في شؤونهم إلى حدوث شرخ بين كابتن أمريكا وآيرون مان. يصطدم كابتن أمريكا بمنظومة من القوى والائتلافات، مما يفقدونه من قوته والثقة في نفسه. في هذه المعركة، سيركب كابتن أمريكا وآيرون مان في معركة حية مع منافسهم القدام، الذين يريدون أن يسيروا العالم حسب رغبتهم.",
-    "desc_en": "In the world of the Avengers, the political intervention in their affairs leads to a rift between Captain America and Iron Man. Captain America is confronted by a system of forces and alliances, which makes him lose his power and confidence in himself. In this battle, Captain America and Iron Man will engage in a fierce battle with their opponents, who want to rule the world according to their whims.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في كابتن أمريكا: الحرب الأهلية",
-    "seo_title_ar": "مشاهدة فيلم كابتن أمريكا: الحرب الأهلية مترجم اون لاين - توميتو",
-    "keywords": "Captain America: Civil War, فيلم كابتن أمريكا مترجم, مشاهدة فيلم كابتن أمريكا: الحرب الأهلية, قصة فيلم كابتن أمريكا الحرب الأهلية, توميتو كابتن أمريكا الحرب الأهلية, مشاهدة كابتن أمريكا الحرب الأهلية 2016, أحداث كابتن أمريكا الحرب الأهلية بالتفصيل, كابتن أمريكا الحرب الأهلية مترجم",
-    "opinion": "هو فيلم رائع، مليء بالاثارة وال действة، يصقل القلوب ويثير الإعجاب. يبرز الفيلم قوة النضال والثقة في النفس، ويحفزنا على المشاركة في معركة الحق.",
+    "intro": "يحكي فيلم كابتن أمريكا: الحرب الأهلية قصة معركة بين المنتقمين فيما يتعلق بالرقابة التي تفرضها الحكومات.",
+    "desc_ar": "يتناقض كابتن أمريكا مع آيرون مان فيما يتعلق بالرقابة التي تفرضها الحكومات على المنتقمين، مما يؤدي إلى حدوث فصيلتين بين المنتقمين، واحدة مع كابتن أمريكا وال الأخرى مع آيرون مان، مما يؤدي إلى معركة بين أقاربهما السابقين.",
+    "desc_en": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "seo_title_ar": "مشاهدة كابتن أمريكا: الحرب الأهلية مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة كابتن أمريكا: الحرب الأهلية مترجم، فيلم مغامرة وحركة وخيال علمي لعام 2016، من إخراج أنثوني روسو وروجر ديل، مع روبرت داوني جونز وسيث روغن في",
+    "outro": "يُظهر فيلم كابتن أمريكا: الحرب الأهلية الكفاءة العسكرية والقوة الفنية لل المنتقمين في معركة قوية.",
+    "opinion_ar": "كابتن أمريكا: الحرب الأهلية هو فيلم مغامرة وحركة وخيال علمي يبرز الصراع بين كابتن أمريكا وآيرون مان فيما يتعلق بالرقابة التي تفرضها الحكومات على المنتقمين.",
+    "opinion_en": "Captain America: Civil War is an action-packed film that highlights the conflict between Captain America and Iron Man over the government's regulation of the Avengers.",
     "faq": [
       {
-        "q": "ما هو موضوع فيلم كابتن أمريكا: الحرب الأهلية؟",
-        "a": "يحكي الفيلم قصة نضال كابتن أمريكا ضد آيرون مان في معركة حية"
+        "q": "ما هو سبب الاختلاف بين كابتن أمريكا وآيرون مان؟",
+        "a": "يتناقض كابتن أمريكا مع آيرون مان فيما يتعلق بالرقابة التي تفرضها الحكومات على المنتقمين.",
+        "q_en": "What is the reason behind the conflict between Captain America and Iron Man?",
+        "a_en": "Captain America and Iron Man disagree on the government's regulation of the Avengers."
       },
       {
-        "q": "ما هو نوع فيلم كابتن أمريكا: الحرب الأهلية؟",
-        "a": "هو فيلم مغامرة وحركة وخيال علمي"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم كابتن أمريكا: الحرب الأهلية؟",
-        "a": "هو قوة النضال والثقة في النفس، ويحفزنا على المشاركة في معركة الحق"
+        "q": "من يشارك كابتن أمريكا في الحرب الأهلية؟",
+        "a": "يشارك كابتن أمريكا في الحرب الأهلية مع المنتقمين الذين يؤمنون بحريته.",
+        "q_en": "Who does Captain America side with in the Civil War?",
+        "a_en": "Captain America sides with the Avengers who believe in his freedom."
       }
-    ]
+    ],
+    "keywords": "كابتن أمريكا, الحرب الأهلية, روبرت داوني جونز, سيث روغن, أنثوني روسو, روجر ديل, 2016, مغامرة, حركة, خيال علمي, مشاهدة كابتن أمريكا: الحرب الأهلية, Captain America: Civil War مترجم, تحميل كابتن أمريكا: الحرب الأهلية, كابتن أمريكا: الحرب الأهلية اون لاين, Captain America: Civil War"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "147 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Chris Evans Robert Downey Jr. Scarlett Johansson Sebastian Stan Anthony Mackie"
+  "cast": "Chris Evans Robert Downey Jr. Scarlett Johansson Sebastian Stan Anthony Mackie Don Cheadle Jeremy Renner Chadwick Boseman"
 }

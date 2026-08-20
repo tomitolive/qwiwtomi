@@ -5723,8 +5723,98 @@
       "file": "76492.json",
       "title": "فندق ترانسلفانيا",
       "fixed_at": "2026-08-20T04:31:39.978339"
+    },
+    {
+      "tmdb_id": "46271",
+      "file": "46271.json",
+      "title": "Secret Story",
+      "fixed_at": "2026-08-20T05:02:29.483267"
+    },
+    {
+      "tmdb_id": "20453",
+      "file": "20453.json",
+      "title": "3 بلهاء",
+      "fixed_at": "2026-08-20T05:03:46.744956"
+    },
+    {
+      "tmdb_id": "447273",
+      "file": "447273.json",
+      "title": "سنووايت",
+      "fixed_at": "2026-08-20T05:04:29.318116"
+    },
+    {
+      "tmdb_id": "481848",
+      "file": "481848.json",
+      "title": "نداء البرية",
+      "fixed_at": "2026-08-20T05:04:38.486298"
+    },
+    {
+      "tmdb_id": "94664",
+      "file": "94664.json",
+      "title": "موشوكو تينسي",
+      "fixed_at": "2026-08-20T05:05:15.326025"
+    },
+    {
+      "tmdb_id": "11970",
+      "file": "11970.json",
+      "title": "هرقل",
+      "fixed_at": "2026-08-20T05:05:24.979506"
+    },
+    {
+      "tmdb_id": "2585",
+      "file": "2585.json",
+      "title": "Heartbeat",
+      "fixed_at": "2026-08-20T05:05:37.215539"
+    },
+    {
+      "tmdb_id": "132149",
+      "file": "132149.json",
+      "title": "Nulle part ailleurs",
+      "fixed_at": "2026-08-20T05:05:46.507296"
+    },
+    {
+      "tmdb_id": "59336",
+      "file": "59336.json",
+      "title": "Io la conoscevo bene",
+      "fixed_at": "2026-08-20T05:05:57.094039"
+    },
+    {
+      "tmdb_id": "880067",
+      "file": "880067.json",
+      "title": "Strung",
+      "fixed_at": "2026-08-20T05:06:07.065013"
+    },
+    {
+      "tmdb_id": "271110",
+      "file": "271110.json",
+      "title": "كابتن أمريكا الحرب الأهلية",
+      "fixed_at": "2026-08-20T05:06:14.982049"
+    },
+    {
+      "tmdb_id": "34524",
+      "file": "34524.json",
+      "title": "الذئب المراهق",
+      "fixed_at": "2026-08-20T05:06:23.858887"
+    },
+    {
+      "tmdb_id": "601169",
+      "file": "601169.json",
+      "title": "Chasing Happiness",
+      "fixed_at": "2026-08-20T05:06:34.735787"
+    },
+    {
+      "tmdb_id": "162",
+      "file": "162.json",
+      "title": "Night Court",
+      "fixed_at": "2026-08-20T05:06:52.008569"
+    },
+    {
+      "tmdb_id": "1284041",
+      "file": "1284041.json",
+      "title": "The Last House",
+      "fixed_at": "2026-08-20T05:07:02.508525"
     }
   ],
-  "last_updated": "2026-08-20T04:31:41.981084",
-  "total_fixed": 954
+  "last_updated": "2026-08-20T05:07:04.511343",
+  "total_fixed": 969
 }

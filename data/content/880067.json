@@ -4,12 +4,12 @@
   "title_ar": "Strung",
   "title_en": "Strung",
   "slug": "880067-strung",
-  "overview": "تدور أحداث فيلم \"موتر\" في إطار من الغموض والإثارة، حيث تتحول حياة عازفة كمان موهوبة إلى معركة نفسية عندما تتولى دورًا مرموقًا كمعلمة موسيقى لعائلة غامضة ونخبوية. هل ستتمكن من الحفاظ على سلامتها وعقلها؟ \"موتر\" فيلم تشويق نفسي لا يفوتك.",
+  "overview": "يحكي فيلم موتر قصة موسيقار موهوب يصبح معلم موسيقي للعائلة الرفيعة المستوى الغامضة، حيث يتعرض لمعركة نفسية لسلامته ومتانته. يجد موسيقار موتر نفسها مضطرة لتحديات عديدة ومخاطر تهدد حياتها، وتصبح مجهودها لتغيير حياتها مصيره. يبدأ الفيلم بتحديات هذه الموسيقار الشابة، ثم ينمو إلى معركة نفسية لا تنال. إنه فيلم غامض ومثير، يُحفزنا على المزيد من الاستكشاف.",
   "poster_path": "/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
   "backdrop_path": "/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
   "release_date": "2026-06-18",
   "vote_average": 7.7,
-  "vote_count": 8,
+  "vote_count": 70,
   "genres": [
     {
       "id": 9648,
@@ -21,23 +21,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Strung (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث فيلم \"موتر\" في إطار من الغموض والإثارة، حيث تتحول حياة عازفة كمان موهوبة إلى معركة نفسية عندما تتولى دورًا مرموقًا كمعلمة موسيقى لعائلة غامضة ونخبوية. هل ستتمكن من الحفاظ على سلامتها وعقلها؟ \"موتر\" فيلم تشويق نفسي لا يفوتك.",
-    "desc_en": "In the gripping thriller \"Strung\", a talented violinist's prestigious role as a music tutor for an enigmatic elite family takes a psychological turn, putting her safety and sanity at stake. Will she survive this intense battle of wits? \"Strung\" is a must-watch psychological thriller.",
-    "seo_title_ar": "مشاهدة فيلم موتر Strung مترجم - توميتو",
-    "meta_desc": "موتر: فيلم تشويق نفسي مثير حول عازفة كمان موهوبة تتحول حياتها إلى معركة نفسية. شاهد الآن!",
-    "outro": "شاهد Strung الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"موتر\" يقدم تجربة سينمائية مشوقة ومثيرة، حيث يمزج بين الغموض والإثارة النفسية. أداء الممثلين كان رائعًا، خاصةً في تصوير المعركة الداخلية التي تعيشها البطلة.",
-    "opinion_en": "\"Strung\" is a captivating and thrilling cinematic experience, blending mystery and psychological suspense. The performances, especially the lead actress, were outstanding in portraying the internal struggle.",
+    "intro": "يحكي فيلم موتر قصة موسيقار شاب يتعرض لمخاطر شخصية ومهنية في عائلة غامضة.",
+    "desc_ar": "يحكي فيلم موتر قصة موسيقار موهوب يصبح معلم موسيقي للعائلة الرفيعة المستوى الغامضة، حيث يتعرض لمعركة نفسية لسلامته ومتانته. يجد موسيقار موتر نفسها مضطرة لتحديات عديدة ومخاطر تهدد حياتها، وتصبح مجهودها لتغيير حياتها مصيره. يبدأ الفيلم بتحديات هذه الموسيقار الشابة، ثم ينمو إلى معركة نفسية لا تنال. إنه فيلم غامض ومثير، يُحفزنا على المزيد من الاستكشاف.",
+    "desc_en": "Strung is a psychological thriller that tells the story of a talented violinist who becomes a music tutor for an enigmatic, elite family. As she navigates the complexities of her new role, she finds herself facing numerous challenges and threats that put her life at risk. The film begins with the struggles of this young musician, then escalates into a psychological battle for her safety and sanity. It's a gripping and suspenseful tale that keeps us on the edge of our seats.",
+    "seo_title_ar": "مشاهدة موتر Strung مترجم 2026 فيلم غموض إثارة",
+    "meta_desc": "استمتع بمشاهدة فيلم موتر Strung مترجم 2026 فيلم غموض إثارة موسيقي عن موسيقار موهوب يعمل مع عائلة غامضة ومفاجأة استمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "يتمحور فيلم موتر حول معركة موسيقار شاب لحياته ومتانته في عائلة غامضة ومفاجأة.",
+    "opinion_ar": "يحكي موتر قصة موسيقار شاب يتعرض لمخاطر شخصية ومهنية في عائلة غامضة، وتصبح معركة حياته مصيره.",
+    "opinion_en": "Strung is a gripping film that tells the story of a young musician who faces personal and professional challenges in an enigmatic family, and his battle for survival becomes his destiny.",
     "faq": [
       {
-        "q": "هل فيلم موتر مناسب لجميع الأعمار؟",
-        "a": "لا، فيلم موتر يحتوي على مشاهد عنيفة ومؤثرة قد لا تكون مناسبة للأطفال الصغار.",
-        "q_en": "Is Strung suitable for all ages?",
-        "a_en": "No, Strung contains intense and violent scenes that may not be suitable for young children."
+        "q": "ما هو فيلم موتر Strung؟",
+        "a": "يحكي فيلم موتر قصة موسيقار موهوب يعمل مع عائلة غامضة ومفاجأة.",
+        "q_en": "What is the film Strung?",
+        "a_en": "Strung is a psychological thriller about a talented violinist who becomes a music tutor for an enigmatic, elite family."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم غموض إثارة.",
+        "q_en": "What type of film is Strung?",
+        "a_en": "Strung is a psychological thriller."
       }
     ],
-    "keywords": "موتر, Strung, فيلم, غموض, إثارة, موسيقى, عائلة, معركة نفسية, عازفة كمان, موتر كرافت, زيت موتر كرافت, موتر هوم, الثوري موتر, موتر ميند, زيت موتر كرافت 5w30, موتر سوق, موتر جي ان, زيت موتر كرافت 5w20, موتر هوم للبيع"
+    "keywords": "موتر, Strung, فيلم غموض, فيلم إثارة, موسيقى, عائلة غامضة, موسيقار موهوب, مشاهدة موتر, Strung مترجم, تحميل موتر, موتر اون لاين, موتر جودة عالية, فيلم موتر, Strung HD, Strung online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
