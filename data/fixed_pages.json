@@ -5405,8 +5405,92 @@
       "file": "284725.json",
       "title": "Not Suitable for Work",
       "fixed_at": "2026-08-19T03:32:49.350622"
+    },
+    {
+      "tmdb_id": "120462",
+      "file": "120462.json",
+      "title": "Them",
+      "fixed_at": "2026-08-20T00:45:44.333688"
+    },
+    {
+      "tmdb_id": "325583",
+      "file": "325583.json",
+      "title": "Eclipse of Illusion SPThe Miasma War",
+      "fixed_at": "2026-08-20T00:46:23.026985"
+    },
+    {
+      "tmdb_id": "298994",
+      "file": "298994.json",
+      "title": "LV999",
+      "fixed_at": "2026-08-20T00:46:32.455144"
+    },
+    {
+      "tmdb_id": "324434",
+      "file": "324434.json",
+      "title": "Soy Luna: Volver a rodar",
+      "fixed_at": "2026-08-20T00:48:21.074882"
+    },
+    {
+      "tmdb_id": "1276",
+      "file": "1276.json",
+      "title": "Garrisons Gorillas",
+      "fixed_at": "2026-08-20T00:49:07.009654"
+    },
+    {
+      "tmdb_id": "1499885",
+      "file": "1499885.json",
+      "title": "The Red Book Ritual: Gates of Hell",
+      "fixed_at": "2026-08-20T00:49:15.231348"
+    },
+    {
+      "tmdb_id": "303493",
+      "file": "303493.json",
+      "title": "Knot",
+      "fixed_at": "2026-08-20T00:49:37.591737"
+    },
+    {
+      "tmdb_id": "43802",
+      "file": "43802.json",
+      "title": "Bichunmoo",
+      "fixed_at": "2026-08-20T00:49:46.189401"
+    },
+    {
+      "tmdb_id": "43865",
+      "file": "43865.json",
+      "title": "الممر النفسي",
+      "fixed_at": "2026-08-20T00:49:54.711576"
+    },
+    {
+      "tmdb_id": "1497463",
+      "file": "1497463.json",
+      "title": "Todo lo que nunca fuimos",
+      "fixed_at": "2026-08-20T00:50:04.488642"
+    },
+    {
+      "tmdb_id": "1083381",
+      "file": "1083381.json",
+      "title": "الغرفة الخلفية",
+      "fixed_at": "2026-08-20T00:50:11.567448"
+    },
+    {
+      "tmdb_id": "111",
+      "file": "111.json",
+      "title": "الوجه ذو الندبة",
+      "fixed_at": "2026-08-20T00:50:31.508535"
+    },
+    {
+      "tmdb_id": "45141",
+      "file": "45141.json",
+      "title": "The Suite Life of Karan Kabir",
+      "fixed_at": "2026-08-20T00:50:38.851523"
+    },
+    {
+      "tmdb_id": "256695",
+      "file": "256695.json",
+      "title": "Regular Show: The Lost Tapes",
+      "fixed_at": "2026-08-20T00:50:49.225573"
     }
   ],
-  "last_updated": "2026-08-19T03:32:51.353364",
-  "total_fixed": 901
+  "last_updated": "2026-08-20T00:50:51.228329",
+  "total_fixed": 915
 }
