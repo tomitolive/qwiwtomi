@@ -1,49 +1,45 @@
 {
   "id": 292108,
-  "title": "Ann Droid",
-  "title_ar": "Ann Droid",
-  "title_en": "Ann Droid",
-  "slug": "292108-ann-droid",
-  "overview": "آن درويد. كوميديا بريطانية فريدة من نوعها، تدور حول سيو التي تجد نفسها مع رفيق غير عادي، وهو روبوت رعاية مستعمل ومهووس. هل يمكن أن يكون لهذا الدرويد فائدة؟ بطولة ديان مورغان وسو جونستون. مسلسل آن درويد، تجربة مشاهدة فريدة.",
+  "title": "The Hunted",
+  "title_ar": "The Hunted",
+  "title_en": "The Hunted",
+  "slug": "292108-the-hunted",
+  "overview": "يحكي فيلم \"المطارد\" قصة عن Jake و Stevie، اللذان يبحثون عن فرصتهم في إنتاج برنامج صيد متميز. يقرران أن يذهبا إلى جبال غرب فرجينيا، حيث يوجد حيوان ضخم. ولكنهم يكتشفون أنهم ليسوا وحدهم في الجبال.",
   "poster_path": "/rgg7vCZ9HIdT4vYGxOvg84L7ngF.jpg",
-  "backdrop_path": "/cJBLZUD3Dw1tuMydpC8bEDT69G2.jpg",
-  "release_date": "2026-07-17",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": "/etWCiglAhvJSKW0l7epoZKtkJrc.jpg",
+  "release_date": "2014-09-09",
+  "vote_average": 5.1,
+  "vote_count": 33,
   "genres": [
     {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Ann Droid (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "آن درويد. كوميديا بريطانية فريدة من نوعها، تدور حول سيو التي تجد نفسها مع رفيق غير عادي، وهو روبوت رعاية مستعمل ومهووس. هل يمكن أن يكون لهذا الدرويد فائدة؟ بطولة ديان مورغان وسو جونستون. مسلسل آن درويد، تجربة مشاهدة فريدة.",
-    "desc_en": "Ann Droid is a British comedy series starring Diane Morgan and Sue Johnston. It follows Sue's unexpected journey with an overly attentive, second-hand robot carer. Will this droid surprise her? Find out in this unique series.",
-    "seo_title_ar": "مشاهدة مسلسل آن درويد مترجم - توميتو",
-    "meta_desc": "آن درويد: كوميديا بريطانية فريدة، تدور حول رفيق غير عادي. هل يمكن أن يكون لهذا الدرويد فائدة؟ اكتشف ذلك في مسلسل Ann Droid.",
-    "outro": "شاهد Ann Droid الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "آن درويد، مسلسل كوميدي ممتع ومختلف، يسلط الضوء على علاقة غير تقليدية بين الإنسان والروبوت. أداء مميز من ديان مورغان وسو جونستون.",
-    "opinion_en": "Ann Droid is a refreshing take on the comedy genre. The series offers a unique dynamic between Sue and her robot carer, providing an entertaining watch.",
+    "intro": "يحكي فيلم \"المطارد\" قصة عن Jake و Stevie في جبال غرب فرجينيا.",
+    "desc_ar": "يحكي فيلم \"المطارد\" قصة عن Jake و Stevie، اللذان يبحثون عن فرصتهم في إنتاج برنامج صيد متميز. يقرران أن يذهبا إلى جبال غرب فرجينيا، حيث يوجد حيوان ضخم. ولكنهم يكتشفون أنهم ليسوا وحدهم في الجبال.",
+    "desc_en": "Chasing their dream of landing their own hunting show, Jake and Stevie head to the dense, secluded mountains of West Virginia. Equipped with only their bow and camera, they have just three days to kill a monster buck big enough to grab the attention of the network...and they've found him. But the sun has set, and they realize they're not alone. As night falls, they're forced to confront the harsh reality of their situation.",
+    "seo_title_ar": "مشاهدة فيلم المطارد The Hunted مترجم - توميتو",
+    "meta_desc": "شاهد فيلم المطارد The Hunted فيلم إثارة عن Jake و Stevie في جبال غرب فرجينيا، مع حية وعلى وشك أن يصطاداها، ولكنهم يجدون أنفسهم في موقف صعب. استمتع بمشاهد",
+    "outro": "فيلم \"المطارد\" هو تجربة رائعة للقضاء على الحيوانات البرية في جبال غرب فرجينيا.",
+    "opinion_ar": "فيلم \"المطارد\" هو تجربة رائعة للقضاء على الحيوانات البرية في جبال غرب فرجينيا. يحتوي على لحظات درامية وخيالية.",
+    "opinion_en": "The Hunted is an exhilarating experience of hunting in the mountains of West Virginia. It has dramatic and thrilling moments.",
     "faq": [
       {
-        "q": "هل مسلسل آن درويد مناسب للعائلات؟",
-        "a": "نعم، المسلسل مناسب للعائلات ويحتوي على محتوى كوميدي خفيف وظريف.",
-        "q_en": "Is Ann Droid suitable for families?",
-        "a_en": "Absolutely! Ann Droid is a family-friendly comedy series with a light-hearted and amusing tone."
+        "q": "ما هو فيلم \"المطارد\"؟",
+        "a": "فيلم \"المطارد\" هو فيلم إثارة عن Jake و Stevie في جبال غرب فرجينيا.",
+        "q_en": "What is The Hunted?",
+        "a_en": "The Hunted is an action film about Jake and Stevie in the mountains of West Virginia."
       }
     ],
-    "keywords": "آن درويد, Ann Droid, كوميديا, مسلسل بريطاني, روبوت, رعاية, ديان مورغان, Sue Johnston"
+    "keywords": "فيلم, إثارة, المطارد, The Hunted, جبال غرب فرجينيا, صيد, Jake, Stevie, فيلم المطارد, محسن المطارد, فلم المطارد, مشاهدة المطارد, The Hunted مترجم, تحميل المطارد, المطارد اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "29 دقيقة",
+  "duration": "88 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Diane Morgan Sue Johnston Paul Ready",
-  "first_air_date": "2026-07-17",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Josh Stewart Skipp Sudduth Katherine Von Till Nikki DeLoach Ronnie Gene Blevins Brett Forbes Jessi Blue Gormezano Patrick Rizzotti"
 }

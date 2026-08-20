@@ -6377,8 +6377,92 @@
       "file": "11782.json",
       "title": "Hard Boiled",
       "fixed_at": "2026-08-20T10:25:16.875336"
+    },
+    {
+      "tmdb_id": "244370",
+      "file": "244370.json",
+      "title": "DMD Friendship The Reality",
+      "fixed_at": "2026-08-20T10:57:35.494625"
+    },
+    {
+      "tmdb_id": "254528",
+      "file": "254528.json",
+      "title": "الصقر",
+      "fixed_at": "2026-08-20T10:58:11.186407"
+    },
+    {
+      "tmdb_id": "146233",
+      "file": "146233.json",
+      "title": "السجناء",
+      "fixed_at": "2026-08-20T10:58:36.298615"
+    },
+    {
+      "tmdb_id": "292108",
+      "file": "292108.json",
+      "title": "Ann Droid",
+      "fixed_at": "2026-08-20T10:58:45.523786"
+    },
+    {
+      "tmdb_id": "278178",
+      "file": "278178.json",
+      "title": "I Will Find You",
+      "fixed_at": "2026-08-20T10:58:54.816437"
+    },
+    {
+      "tmdb_id": "1501018",
+      "file": "1501018.json",
+      "title": "Une Famille de Btards",
+      "fixed_at": "2026-08-20T10:59:33.935704"
+    },
+    {
+      "tmdb_id": "525",
+      "file": "525.json",
+      "title": "The Blues Brothers",
+      "fixed_at": "2026-08-20T10:59:44.744814"
+    },
+    {
+      "tmdb_id": "199318",
+      "file": "199318.json",
+      "title": "Bad Sisters",
+      "fixed_at": "2026-08-20T10:59:54.214965"
+    },
+    {
+      "tmdb_id": "14836",
+      "file": "14836.json",
+      "title": "كورالين",
+      "fixed_at": "2026-08-20T11:00:03.461707"
+    },
+    {
+      "tmdb_id": "1203397",
+      "file": "1203397.json",
+      "title": "Rite Here Rite Now",
+      "fixed_at": "2026-08-20T11:00:22.033080"
+    },
+    {
+      "tmdb_id": "102899",
+      "file": "102899.json",
+      "title": "الرجل النملة",
+      "fixed_at": "2026-08-20T11:00:33.289192"
+    },
+    {
+      "tmdb_id": "1416",
+      "file": "1416.json",
+      "title": "تشريح غراي",
+      "fixed_at": "2026-08-20T11:00:42.274028"
+    },
+    {
+      "tmdb_id": "1371185",
+      "file": "1371185.json",
+      "title": "Song Sung Blue",
+      "fixed_at": "2026-08-20T11:01:10.789593"
+    },
+    {
+      "tmdb_id": "1705",
+      "file": "1705.json",
+      "title": "هامشية",
+      "fixed_at": "2026-08-20T11:01:24.851436"
     }
   ],
-  "last_updated": "2026-08-20T10:25:18.878054",
-  "total_fixed": 1063
+  "last_updated": "2026-08-20T11:01:26.854172",
+  "total_fixed": 1077
 }

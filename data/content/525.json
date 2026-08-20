@@ -9,7 +9,7 @@
   "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
   "release_date": "1980-06-16",
   "vote_average": 7.7,
-  "vote_count": 4555,
+  "vote_count": 4632,
   "genres": [
     {
       "id": 10402,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الموسيقى والكوميديا، يأتي الأخوان Jake وElwood لإنقاذ دار الأيتام التي نشأت فيها. مع قوة الموسيقى والكوميديا، يأخذون رحلة ممتعة مليئة بالمسائل والمرح، ولكن ما هو مستقبلهم؟",
-    "desc_en": "In a world of music and comedy, brothers Jake and Elwood embark on a mission to save the orphanage where they grew up. With the power of music and comedy, they take a thrilling journey filled with excitement and humor, but what's their future?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الموسيقى والكوميديا الرائع - توميتو",
-    "seo_title_ar": "مشاهدة فيلم البلوز براذرز مترجم اون لاين - توميتو",
-    "keywords": "فيلم البلوز براذرز مترجم, مشاهدة فيلم البلوز براذرز, مشاهدة The Blues Brothers 1980, توميتو The Blues Brothers, قصة فيلم The Blues Brothers, أحداث The Blues Brothers بالتفصيل, The Blues Brothers مترجم",
-    "opinion": "هذا الفيلم هو مزيج رائع من الموسيقى والكوميديا، حيث يأخذنا الأخوان Jake وElwood على رحلة ممتعة مليئة بالمسائل والمرح.",
+    "intro": "استمتع بمشاهدة فيلم The Blues Brothers (1980) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "جايك بلوز خرج للتو من السجن ، وانضم إلى أخيه إلوود في \"مهمة من الله\" لجمع الأموال لدار الأيتام الذي نشأوا فيه. الشيء الوحيد الذي يمكنهم فعله هو القيام بأفضل ما يمكنهم فعله: تشغيل الموسيقى. لذلك قاموا بتجميع فرقتهم القديمة معًا ، وانطلقوا في طريقهم - بينما يواجهون بعض المشاكل هنا وهناك.",
+    "desc_en": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+    "seo_title_ar": "مشاهدة فيلم The Blues Brothers مترجم - توميتو",
+    "meta_desc": "مشاهدة الاخوة البلوز مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد The Blues Brothers الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو موضوع فيلم البلوز براذرز؟",
-        "a": "يأخذ الأخوان Jake وElwood رحلة لإنقاذ دار الأيتام التي نشأت فيها."
+        "q": "كيف يمكنني مشاهدة فيلم الاخوة البلوز?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Blues Brothers?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم البلوز براذرز؟",
-        "a": "هو فيلم موسيقى وكوميديا"
+        "q": "ما هو تصنيف فيلم الاخوة البلوز?",
+        "a": "يندرج العمل تحت تصنيف موسيقى, كوميديا, جريمة.",
+        "q_en": "What is the genre of The Blues Brothers?",
+        "a_en": "It falls under the genre of موسيقى, كوميديا, جريمة."
       },
       {
-        "q": "ما هو أفضل ما في فيلم البلوز براذرز؟",
-        "a": "هو مزيج رائع من الموسيقى والكوميديا"
+        "q": "ما هي قصة فيلم الاخوة البلوز?",
+        "a": "جايك بلوز خرج للتو من السجن ، وانضم إلى أخيه إلوود في \"مهمة من الله\" لجمع الأموال لدار الأيتام الذي نشأوا فيه. الشيء الوحيد الذي يمكنهم فعله هو القيام بأفضل ما يمكنهم فعله: تشغيل الموسيقى. لذلك قاموا ...",
+        "q_en": "What is the story of The Blues Brothers?",
+        "a_en": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised."
       }
-    ]
+    ],
+    "keywords": "الاخوة البلوز مترجم, The Blues Brothers مترجم, مشاهدة الاخوة البلوز,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "133 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "John Belushi Dan Aykroyd James Brown Cab Calloway Ray Charles"
+  "cast": "John Belushi Dan Aykroyd James Brown Cab Calloway Ray Charles Aretha Franklin Steve Cropper Donald 'Duck' Dunn"
 }
