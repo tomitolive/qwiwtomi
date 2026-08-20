@@ -6851,8 +6851,74 @@
       "file": "117465.json",
       "title": "فردوس الجحيم",
       "fixed_at": "2026-08-20T14:11:52.219232"
+    },
+    {
+      "tmdb_id": "64198",
+      "file": "64198.json",
+      "title": "Blaze and the Monster Machines",
+      "fixed_at": "2026-08-20T15:05:56.345346"
+    },
+    {
+      "tmdb_id": "1043197",
+      "file": "1043197.json",
+      "title": "أرنب الغبار",
+      "fixed_at": "2026-08-20T15:06:05.374210"
+    },
+    {
+      "tmdb_id": "1671548",
+      "file": "1671548.json",
+      "title": "Dear You",
+      "fixed_at": "2026-08-20T15:06:44.738025"
+    },
+    {
+      "tmdb_id": "18123",
+      "file": "18123.json",
+      "title": "سكوبي دو واللغز المفقود",
+      "fixed_at": "2026-08-20T15:06:56.626164"
+    },
+    {
+      "tmdb_id": "274622",
+      "file": "274622.json",
+      "title": "Go for It, Nakamura-kun!!",
+      "fixed_at": "2026-08-20T15:07:14.291016"
+    },
+    {
+      "tmdb_id": "100128",
+      "file": "100128.json",
+      "title": "Big Brother",
+      "fixed_at": "2026-08-20T15:07:27.954451"
+    },
+    {
+      "tmdb_id": "474395",
+      "file": "474395.json",
+      "title": "Teen Titans Go! To the Movies",
+      "fixed_at": "2026-08-20T15:08:37.884992"
+    },
+    {
+      "tmdb_id": "4500",
+      "file": "4500.json",
+      "title": "The Wonder Years",
+      "fixed_at": "2026-08-20T15:08:52.390043"
+    },
+    {
+      "tmdb_id": "97525",
+      "file": "97525.json",
+      "title": "إلى أبديتك",
+      "fixed_at": "2026-08-20T15:09:04.208804"
+    },
+    {
+      "tmdb_id": "541671",
+      "file": "541671.json",
+      "title": "بالرينا",
+      "fixed_at": "2026-08-20T15:09:14.663655"
+    },
+    {
+      "tmdb_id": "21728",
+      "file": "21728.json",
+      "title": "ساعة ألفريد هيتشكوك",
+      "fixed_at": "2026-08-20T15:09:27.960112"
     }
   ],
-  "last_updated": "2026-08-20T14:11:54.221958",
-  "total_fixed": 1142
+  "last_updated": "2026-08-20T15:09:29.961121",
+  "total_fixed": 1153
 }

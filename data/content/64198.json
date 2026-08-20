@@ -4,14 +4,12 @@
   "title_ar": "Blaze and the Monster Machines",
   "title_en": "Blaze and the Monster Machines",
   "slug": "64198-blaze-and-the-monster-machines",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل الحريق وآلات الوحش قصة شاب صغير اسمه AJ، وهو مهندس فني يبلغ من العمر 8 سنوات، يمتلك سيارة ضخمة تسمى Blaze، ويحلم بالفوز في سباقات السيارات في مدينة الاضلاع. ولكن Blaze لا يزال يتعرض لتحديات وتحديات من سيارة عدوته، Crusher، التي لن تتوقف عن السعي للفوز حتى آخر خطوة. يتعين على Blaze والشاب AJ التعامل مع مشاكل تتعلق بالعلوم والتكنولوجيا والهندسة والرياضيات في كل حلقة من الحلقات.",
   "poster_path": "/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
   "backdrop_path": "/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
   "release_date": "2014-10-13",
   "vote_average": 7.4,
-  "vote_count": 55,
+  "vote_count": 57,
   "genres": [
     {
       "id": 10762,
@@ -31,35 +29,36 @@
     }
   ],
   "ai_content": {
-    "intro": "",
-    "desc_ar": "في عالم رائع من الآلات والسيارات، يلتقي Blaze، الرائد والشجاع، مع مجموعة من الآلات التي يمكنها أن تتحول إلى أي شيء تريدهم. مع صديقه Daring Danny، يذهب Blaze في مغامرات رائعة، يلقي النقاشات والقوة والمرح، في هذه الرحلة التي تجمع بين المغامرة والكوميديا.",
-    "seo_title_ar": "مشاهدة فيلم Blaze and the Monster Machines مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع Blaze و الآلات!",
-    "outro": "",
-    "opinion": "هو فيلم رائع للاطفال والكبار على حد سواء، مليء بالمرح والفكاهة والمرح، يلقي النقاشات والقوة والمرح، في هذه الرحلة التي تجمع بين المغامرة والكوميديا.",
+    "intro": "يحلم الشاب AJ بالفوز في سباقات السيارات في مدينة الاضلاع، ويحصل على سيارة ضخمة تسمى Blaze لتحقيق حلمه.",
+    "desc_ar": "يحكي مسلسل الحريق وآلات الوحش قصة شاب صغير اسمه AJ، وهو مهندس فني يبلغ من العمر 8 سنوات، يمتلك سيارة ضخمة تسمى Blaze، ويحلم بالفوز في سباقات السيارات في مدينة الاضلاع. ولكن Blaze لا يزال يتعرض لتحديات وتحديات من سيارة عدوته، Crusher، التي لن تتوقف عن السعي للفوز حتى آخر خطوة. يتعين على Blaze والشاب AJ التعامل مع مشاكل تتعلق بالعلوم والتكنولوجيا والهندسة والرياضيات في كل حلقة من الحلقات.",
+    "desc_en": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. Blaze and AJ go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
+    "seo_title_ar": "مشاهدة مسلسل Blaze Monster Machines مترجم - الحريق وآلات الوحش",
+    "meta_desc": "استمتع بمشاهدة مسلسل Blaze Monster Machines في جودة عالية وترجمة احترافية بدون إعلانات مزعجة. مسلسل Blaze Monster Machines هو مسلسل أطفال يركز ع استمت",
+    "outro": "يمثل مسلسل Blaze and the Monster Machines إحدى الطرق الممتعة لتعلم العلوم والتكنولوجيا والهندسة والرياضيات لدى الأطفال.",
+    "opinion_ar": "مسلسل Blaze Monster Machines هو إحدى أفضل مسلسلات الأطفال التي تتعامل مع مبدعي العلوم والتكنولوجيا والهندسة والرياضيات بطريقة سهلة ومتعة.",
+    "opinion_en": "Blaze and the Monster Machines is one of the best children's TV shows that covers STEM concepts in an engaging and fun way.",
     "faq": [
       {
-        "q": "ما هو Blaze and the Monster Machines؟",
-        "a": "هو برنامج تلفزيوني رائع للاطفال والكبار على حد سواء، مليء بالمرح والفكاهة والمرح، يلقي النقاشات والقوة والمرح، في هذه الرحلة التي تجمع بين المغامرة والكوميديا."
+        "q": "ما هي قصة مسلسل Blaze Monster Machines؟",
+        "a": "يحكي مسلسل Blaze Monster Machines قصة شاب صغير اسمه AJ، وهو مهندس فني يبلغ من العمر 8 سنوات، يمتلك سيارة ضخمة تسمى Blaze، ويحلم بالفوز في سباقات السيارات في مدينة الاضلاع.",
+        "q_en": "What is the story of Blaze and the Monster Machines?",
+        "a_en": "The story of Blaze and the Monster Machines follows 8-year-old AJ, a young tech-savvy boy who owns and drives monster-truck Blaze, and his adventures in Axle City."
       },
       {
-        "q": "ما هي أسباب مشاهدة Blaze and the Monster Machines؟",
-        "a": "لأنه فيلم رائع للاطفال والكبار على حد سواء، مليء بالمرح والفكاهة والمرح، يلقي النقاشات والقوة والمرح، في هذه الرحلة التي تجمع بين المغامرة والكوميديا."
-      },
-      {
-        "q": "ما هو نوع Blaze and the Monster Machines؟",
-        "a": "هو برنامج تلفزيوني رسوم متحركة عائلي كوميديا"
+        "q": "ما هي أهمية مسلسل Blaze Monster Machines؟",
+        "a": "يمثل مسلسل Blaze Monster Machines إحدى الطرق الممتعة لتعلم العلوم والتكنولوجيا والهندسة والرياضيات لدى الأطفال.",
+        "q_en": "What is the importance of Blaze and the Monster Machines?",
+        "a_en": "Blaze and the Monster Machines is an entertaining way for kids to learn about science, technology, engineering, and math."
       }
     ],
-    "keywords": "فيلم Blaze and the Monster Machines مترجم, مشاهدة فيلم Blaze and the Monster Machines, قصة مسلسل Blaze and the Monster Machines, أحداث Blaze and the Monster Machines بالتفصيل, Blaze and the Monster Machines مترجم كامل, مشاهدة Blaze and the Monster Machines 2014, توميتو Blaze and the Monster Machines",
-    "desc_en": "In a world of amazing machines, Blaze, the brave and daring, meets a group of machines that can transform into anything they want. With his friend Daring Danny, Blaze goes on thrilling adventures, sparking excitement, power, and fun, in this journey that combines adventure and comedy."
+    "keywords": "مسلسل Blaze Monster Machines, Blaze Monster Machines, الحريق وآلات الوحش, Blaze, AJ, Axle City, Crusher, سيارات, سباقات السيارات, العلوم, التكنولوجيا, الهندسة, الرياضيات, أطفال, رسوم متحركة, عائلي, كوميديا"
   },
   "fixed": true,
-  "first_air_date": "2014-10-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "124 دقيقة",
-  "language": "الروسية",
-  "country": "روسيا",
-  "cast": "Aleksandr Lazarev Jr. Elizaveta Boyarskaya Mikhail Efremov Aleksandr Lazarev Aleksandr Abdulov"
+  "duration": "23 دقيقة",
+  "language": "الإنجليزية",
+  "country": "كندا",
+  "cast": "Nolan North Kevin Michael Richardson Nat Faxon Sunil Malhotra Susan Silo Billy Ray Cyrus Angelina Wahler James Patrick Stuart",
+  "first_air_date": "2014-10-13"
 }

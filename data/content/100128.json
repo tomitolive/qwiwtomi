@@ -1,61 +1,59 @@
 {
   "id": 100128,
-  "title": "Big Brother",
-  "title_ar": "Big Brother",
-  "title_en": "Big Brother",
-  "slug": "100128-big-brother",
-  "overview": "استمتع بمشاهدة مسلسل الأخ الأكبر مترجم بجودة عالية.",
+  "title": "Flying Fortress",
+  "title_ar": "Flying Fortress",
+  "title_en": "Flying Fortress",
+  "slug": "100128-flying-fortress",
+  "overview": "يحكي فيلم \"حصن الطيران\" قصة عظيمة يُحيي فيها الكاتب ذكرى أحداث حربي عنيفة، حيث يتصارع بين الجانبين في معارك شرسة تحوّل الأراضي إلى حرب تدميرية. يتناول الفيلم أهمية القوات الجوية في هذه الحرب، ويدرس الأخطار التي واجهها الطيارون. يُعتبر هذا العمل من أهم الأفلام التي تُحيي ذكرى الحروب، ويُظهر جرأته في تقديم أحداث حربي صعبة.",
   "poster_path": "/9Gkcvdz89Q7w0glDDga1c8m5vaW.jpg",
-  "backdrop_path": "/AhoPrGyrdsnJ7SoSPPV84dONnqa.jpg",
-  "release_date": "2000-09-03",
-  "vote_average": 2.5,
-  "vote_count": 20,
+  "backdrop_path": null,
+  "release_date": "1942-06-13",
+  "vote_average": 6.3,
+  "vote_count": 3,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10749,
+      "name": "رومنسية"
+    },
+    {
+      "id": 10752,
+      "name": "حرب"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Big Brother (2000) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "استمتع بمشاهدة مسلسل الأخ الأكبر مترجم بجودة عالية.",
-    "desc_en": "Portuguese version of the reality competition which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy.",
-    "seo_title_ar": "مشاهدة مسلسل Big Brother مترجم - توميتو",
-    "meta_desc": "مشاهدة الأخ الأكبر مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Big Brother الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
-    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "intro": "يُحكي فيلم \"حصن الطيران\" قصة عظيمة يُحيي فيها الكاتب ذكرى أحداث حربي عنيفة.",
+    "desc_ar": "يحكي فيلم \"حصن الطيران\" قصة عظيمة يُحيي فيها الكاتب ذكرى أحداث حربي عنيفة، حيث يتصارع بين الجانبين في معارك شرسة تحوّل الأراضي إلى حرب تدميرية. يتناول الفيلم أهمية القوات الجوية في هذه الحرب، ويدرس الأخطار التي واجهها الطيارون. يُعتبر هذا العمل من أهم الأفلام التي تُحيي ذكرى الحروب، ويُظهر جرأته في تقديم أحداث حربي صعبة.",
+    "desc_en": "Flying Fortress is a drama film written in flames and told with the staccato of canon-fire! The movie recounts a great story about the intense war events, where the two sides clash in fierce battles that turn the land into a destructive war. The film highlights the importance of air forces in this war, and explores the dangers faced by the pilots. This work is one of the most important films that commemorate the wars, and it shows its courage in presenting intense war events.",
+    "seo_title_ar": "مشاهدة فيلم حصن الطيران مترجم - توميتو",
+    "meta_desc": "حصن الطيران فيلم درامي رومنسي حربي 1942 يستند على أحداث حربي عنيفة، يظهر قوة القوات الجوية في هذه الحرب، ويحكي قصة الطيارين الذين استمروا في قتالهم ضد الاع",
+    "outro": "يُعتبر هذا العمل من أهم الأفلام التي تُحيي ذكرى الحروب، ويُظهر جرأته في تقديم أحداث حربي صعبة.",
+    "opinion_ar": "يُعتبر فيلم \"حصن الطيران\" من أهم الأفلام التي تُحيي ذكرى الحروب، حيث يُظهر جرأته في تقديم أحداث حربي صعبة. هذا العمل الفني يُحيي ذكرى أحداث حربي عنيفة، ويُظهر الأخطار التي واجهها الطيارون.",
+    "opinion_en": "Flying Fortress is a courageous film that presents intense war events. This work of art commemorates the intense war events, and shows the dangers faced by the pilots.",
     "faq": [
       {
-        "q": "كيف يمكنني مشاهدة مسلسل الأخ الأكبر?",
-        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
-        "q_en": "How can I watch Big Brother?",
-        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+        "q": "ما هو موضوع فيلم حصن الطيران؟",
+        "a": "يحكي فيلم \"حصن الطيران\" قصة عظيمة يُحيي فيها الكاتب ذكرى أحداث حربي عنيفة.",
+        "q_en": "What is the subject of the movie Flying Fortress?",
+        "a_en": "The movie Flying Fortress tells a great story that commemorates the intense war events."
       },
       {
-        "q": "ما هو تصنيف مسلسل الأخ الأكبر?",
-        "a": "يندرج العمل تحت تصنيف واقع.",
-        "q_en": "What is the genre of Big Brother?",
-        "a_en": "It falls under the genre of واقع."
-      },
-      {
-        "q": "ما هي قصة مسلسل الأخ الأكبر?",
-        "a": "",
-        "q_en": "What is the story of Big Brother?",
-        "a_en": "Portuguese version of the reality competition which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveil..."
+        "q": "من الذي قام بصناعة فيلم حصن الطيران؟",
+        "a": "لقد قام العديد من الفنانين بصناعة هذا العمل الفني.",
+        "q_en": "Who made the movie Flying Fortress?",
+        "a_en": "Many artists were involved in the creation of this work of art."
       }
     ],
-    "keywords": "الأخ الأكبر مترجم, Big Brother مترجم, مشاهدة الأخ الأكبر,"
+    "keywords": "فيلم حصن الطيران, حرب, دراما, رومنسي, 1942, قوات جوية, طيارون, مشاهدة حصن الطيران, Flying Fortress مترجم, تحميل حصن الطيران, حصن الطيران اون لاين, Flying Fortress, حصن الطيران جودة عالية, Flying Fortress HD, حصن الطيران HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "60 دقيقة",
+  "duration": "68 دقيقة",
   "language": "الإنجليزية",
-  "country": "Portugal",
-  "cast": "Maria Botelho Moniz",
-  "first_air_date": "2000-09-03",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Richard Greene Carla Lehmann Betty Stockfeld Donald Stewart Basil Radford Charles Heslop Sydney King"
 }
