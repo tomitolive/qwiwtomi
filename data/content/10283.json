@@ -4,14 +4,12 @@
   "title_ar": "Archer",
   "title_en": "Archer",
   "slug": "10283-archer",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحوّل الجاسوس الذكيّ ستيرلينغ آرتشر وفريقه المختل من العملاء السريين المهمات الخطيرة إلى مغامرات فوضوية حول العالم.",
   "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
   "backdrop_path": "/c4dymvMQT45P1j9RnscRyeyyqSg.jpg",
   "release_date": "2009-09-17",
-  "vote_average": 8,
-  "vote_count": 1418,
+  "vote_average": 7.9,
+  "vote_count": 1464,
   "genres": [
     {
       "id": 35,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرسوم المتحركة، يلتقينا بآرشر، الagent الذي يملك كل ما يلزم ليكون من أشهر agents في العالم. مع وظيفته في شركة إس إم إيه، يتعامل مع المissions والmissions المتنوعة، ولكن ما يحدث عندما يتعامل مع المissions الشخصية؟",
-    "desc_en": "In the world of animated series, we meet Archer, the agent who has everything needed to be one of the most famous agents in the world. With his job at the International Secret Intelligence Service (ISIS), he deals with various missions, but what happens when he deals with personal missions?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Archer - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم حركة ومغامرة, أحداث Archer بالتفصيل, Archer مترجم كامل, مشاهدة Archer 2009, توميتو Archer, قصة مسلسل Archer",
-    "seo_title_ar": "مشاهدة فيلم Archer مترجم اون لاين - توميتو",
-    "opinion": "هو فيلم كوميديا رائعة، مليء بالفكاهة والفكاهة، ولكنها أيضاً مليئة بالدrama والشعور بالذات",
+    "intro": "يحوّل ستيرلينغ آرتشر، الجاسوس الذكيّ الماهر، missions الخطيرة إلى مغامرات فوضوية حول العالم.",
+    "desc_ar": "يحوّل ستيرلينغ آرتشر، الجاسوس الذكيّ الماهر، الخطيرة إلى مغامرات فوضوية حول العالم، حيث يتولى وفريقه المختل من العملاء السريين مهامًا خطيرة في مختلف الأماكن، مما يؤدي إلى مواقف مضحكة وملتهبة.",
+    "desc_en": "Smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents turn dangerous missions into messy misadventures around the globe, as they tackle high-stakes missions in various locations, leading to comedic and intense situations.",
+    "seo_title_ar": "مشاهدة مسلسل TYPE آرتشر مترجم - توميتو",
+    "meta_desc": "آرتشر مسلسل كوميدي رائع عن الجاسوس الذكي ستيرلينغ آرتشر وفريقه من العملاء السريين، يحول الخطيرة إلى مغامرات فوضوية حول العالم، مع مساهمة من حركة ومغا",
+    "outro": "آرتشر هو مسلسل كوميدي رائع يجمع بين مغامرة ورسوم متحركة، يتابع مع فريقه المختل من العملاء السريين مغامرات فوضوية حول العالم، مما يجعله مسلسلًا ممتعًا ومثيرًا.",
+    "opinion_ar": "آرتشر هو مسلسل كوميدي رائع يجمع بين مغامرة ورسوم متحركة، يتابع مع فريقه المختل من العملاء السريين مغامرات فوضوية حول العالم، مما يجعله مسلسلًا ممتعًا ومثيرًا.",
+    "opinion_en": "Archer is a hilarious animated comedy series that follows the adventures of Sterling Archer and his dysfunctional team of secret agents, turning high-stakes missions into messy misadventures around the globe.",
     "faq": [
       {
-        "q": "ما هو Archer؟",
-        "a": "هو سلسلة رسوم متحركة كوميديا حركة ومغامرة"
+        "q": "ما هو نوع مسلسل آرتشر؟",
+        "a": "مسلسل كوميدي رائع عن الجاسوس الذكيّ ستيرلينغ آرتشر وفريقه من العملاء السريين.",
+        "q_en": "What type of series is Archer?",
+        "a_en": "A hilarious animated comedy series about the smart-mouthed superspy Sterling Archer and his dysfunctional team of secret agents."
       },
       {
-        "q": "ما هو قصة Archer؟",
-        "a": "يتابع agent Archer missions الشخصية والmissions المتنوعة"
-      },
-      {
-        "q": "ما هو أفضل ما في Archer؟",
-        "a": "هو комيديا رائعة والفكاهة والفكاهة"
+        "q": "لماذا يجب على المشاهدين مشاهدة مسلسل آرتشر؟",
+        "a": "يجب على المشاهدين مشاهدة مسلسل آرتشر لأنّه يجمع بين مغامرة ورسوم متحركة، ويحوّل الخطيرة إلى مغامرات فوضوية حول العالم، مما يجعله مسلسلًا ممتعًا ومثيرًا.",
+        "q_en": "Why should viewers watch the Archer series?",
+        "a_en": "Viewers should watch the Archer series because it combines action and animation, turning high-stakes missions into messy misadventures around the globe, making it an entertaining and thrilling series."
       }
-    ]
+    ],
+    "keywords": "آرتشر, مسلسل كوميدي, حركة ومغامرة, رسوم متحركة, ستيرلينغ آرتشر, العملاء السريين, الخطيرة, مغامرات فوضوية, عالم مليء بالمغامرات والخدع, مشاهدة آرتشر, Archer مترجم, تحميل آرتشر, آرتشر اون لاين, Archer, آرتشر جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2009-09-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "100 دقيقة",
+  "duration": "22 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jensen Daggett Sharlene Martin Scott Reeves Tiffany Paulsen Alex Diakun"
+  "cast": "H. Jon Benjamin Judy Greer Amber Nash Chris Parnell Aisha Tyler Lucky Yates",
+  "first_air_date": "2009-09-17"
 }
