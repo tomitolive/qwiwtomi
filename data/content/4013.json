@@ -4,9 +4,7 @@
   "title_ar": "Virtues of Harmony II",
   "title_en": "Virtues of Harmony II",
   "slug": "4013-virtues-of-harmony-ii",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل فضائل الانسجام الثاني قصة الحياة اليومية لأسرة هونج كونج الحديثة، حيث يعيش الأب والأم والأبناء معًا في بيئة مليئة بالحب والمساعدة. يروي المسلسل قصة الأسرة التي تتعاون معًا لتحقيق الأهداف وتواجه تحديات الحياة اليومية. من خلال شخصياته المتنوعة، يسلط المسلسل الضوء على أهمية التعاون والمودة في تحقيق السعادة والاستقرار. يعكس المسلسل الحياة الواقعية في هونج كونج، حيث يظهر الأبناء والأهل يتعاونون لتحقيق أهدافهم المشتركة.",
   "poster_path": "/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
   "backdrop_path": "/ulfQAr9vrBp5FCldESWbz9w8x6v.jpg",
   "release_date": "2003-05-05",
@@ -27,27 +25,36 @@
     }
   ],
   "ai_content": {
-    "intro": "حسناً مع الفترة التي تشعر فيها بحاجة إلى الكوميديا و القصص العائلية التي تمدنا بالتفاؤل و الحب",
-    "desc_ar": "في مسلسل Virtues of Harmony II، نرى كيف يتعامل الأصدقاء والقarel مع مشكلاتهم الشخصية والاجتماعية، و كيف يتعاونون لتحقيق الهدف المشترك، في رحلة مليئة بالمرح والดรاما والكوميديا.",
-    "seo_title_ar": "مشاهدة مسلسل Virtues of Harmony II مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل Virtues of Harmony II - توميتو",
-    "outro": "فكر في مشاهدتها مع عائلتك و أصدقائك لتبدع معاً",
-    "opinion": "هو مسلسل رائع يجمع بين الكوميديا والدراما، ويحكي قصة رائعة عن أصدقاء والقarel الذين يعملون معاً لتحقيق الهدف المشترك.",
+    "intro": "يحكي مسلسل فضائل الانسجام الثاني قصة الحياة اليومية لأسرة هونج كونج الحديثة، حيث يعيش الأب والأم والأبناء معًا في بيئة مليئة بالحب والمساعدة.",
+    "desc_ar": "يحكي مسلسل فضائل الانسجام الثاني قصة الحياة اليومية لأسرة هونج كونج الحديثة، حيث يعيش الأب والأم والأبناء معًا في بيئة مليئة بالحب والمساعدة. يروي المسلسل قصة الأسرة التي تتعاون معًا لتحقيق الأهداف وتواجه تحديات الحياة اليومية. من خلال شخصياته المتنوعة، يسلط المسلسل الضوء على أهمية التعاون والمودة في تحقيق السعادة والاستقرار. يعكس المسلسل الحياة الواقعية في هونج كونج، حيث يظهر الأبناء والأهل يتعاونون لتحقيق أهدافهم المشتركة.",
+    "desc_en": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a series set in Ancient China. This new, second series of the Virtues of Harmony is set in Modern Hong Kong, where a family lives together in a loving and supportive environment. The series tells the story of a family that works together to achieve their goals and overcome the challenges of everyday life. Through its diverse characters, the series highlights the importance of cooperation and affection in achieving happiness and stability. The series reflects real-life in Hong Kong, where family members work together to achieve their common goals.",
+    "seo_title_ar": "مشاهدة فضائل الانسجام الثاني مترجم - توميتو",
+    "meta_desc": "فضائل الانسجام الثاني مسلسل تلفزيوني يلي سلسلة فضائل الانسجام، يروي قصة الحياة اليومية في هونج كونج الحديثة، يعكس الحياة الواقعية في هونج كونج، يسلط الضوء",
+    "outro": "يعكس مسلسل فضائل الانسجام الثاني الحياة الواقعية في هونج كونج، حيث يظهر الأبناء والأهل يتعاونون لتحقيق أهدافهم المشتركة.",
+    "opinion_ar": "يعد مسلسل فضائل الانسجام الثاني تجربة رائعة في عالم التلفزيون، حيث يسلط الضوء على أهمية التعاون والمودة في تحقيق السعادة والاستقرار. أتمنى أن أرى مزيدًا من المسلسلات التي تعكس الحياة الواقعية.",
+    "opinion_en": "The Virtues of Harmony II is a great experience in the world of television, where it highlights the importance of cooperation and affection in achieving happiness and stability. I wish to see more series that reflect real-life.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل Virtues of Harmony II؟",
-        "a": "هو مسلسل تلفزيوني كوميدي عائلي"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يتناول مسلسل فضائل الانسجام الثاني قصة الحياة اليومية لأسرة هونج كونج الحديثة.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The Virtues of Harmony II tells the story of a modern Hong Kong family's daily life."
+      },
+      {
+        "q": "ما هي أهمية التعاون في المسلسل؟",
+        "a": "يعكس المسلسل أهمية التعاون والمودة في تحقيق السعادة والاستقرار.",
+        "q_en": "What is the importance of cooperation in the series?",
+        "a_en": "The series highlights the importance of cooperation and affection in achieving happiness and stability."
       }
     ],
-    "keywords": "فيلم كوميدي عائلي, مشاهدة فيلم دراما مترجم, مشاهدة Virtues of Harmony II 2003, Virtues of Harmony II مترجم كامل, أحداث Virtues of Harmony II بالتفصيل, قصة مسلسل Virtues of Harmony II, توميتو Virtues of Harmony II",
-    "desc_en": "In the series Virtues of Harmony II, we see how friends and family members deal with their personal and social problems, and how they work together to achieve their common goal, in a journey filled with laughter, drama, and comedy."
+    "keywords": "فضائل الانسجام الثاني, مسلسل تلفزيوني, قصة الحياة اليومية, التعاون والمودة, السعادة والاستقرار, هونج كونج الحديثة, الحياة الواقعية, المسلسلات الهونج كونغية, مشاهدة فضائل الانسجام الثاني, Virtues Harmony II مترجم, تحميل فضائل الانسجام الثاني, فضائل الانسجام الثاني اون لاين, Virtues Harmony II, فضائل الانسجام الثاني جودة عالية, فيلم فضائل الانسجام الثاني"
   },
   "fixed": true,
-  "first_air_date": "2003-05-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "30 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Hong Kong",
+  "cast": "Nancy Sit Ka-Yin Frankie Lam Michael Tse Tin-Wah Bonnie Chiu Hok-Yee Danny Lau Dan Joyce Chan Yin-Hang Kingdom Yuen King-Tan Louis Yuen Siu-Cheung",
+  "first_air_date": "2003-05-05"
 }

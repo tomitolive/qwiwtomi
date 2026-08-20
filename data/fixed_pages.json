@@ -6293,8 +6293,92 @@
       "file": "8966.json",
       "title": "الشفق",
       "fixed_at": "2026-08-20T10:07:21.303916"
+    },
+    {
+      "tmdb_id": "212907",
+      "file": "212907.json",
+      "title": "La promesa",
+      "fixed_at": "2026-08-20T10:23:06.128434"
+    },
+    {
+      "tmdb_id": "218896",
+      "file": "218896.json",
+      "title": "La legge di Lidia Pot",
+      "fixed_at": "2026-08-20T10:23:15.444987"
+    },
+    {
+      "tmdb_id": "3134",
+      "file": "3134.json",
+      "title": "Baise-moi",
+      "fixed_at": "2026-08-20T10:23:26.955040"
+    },
+    {
+      "tmdb_id": "1266992",
+      "file": "1266992.json",
+      "title": "Balinsasayaw",
+      "fixed_at": "2026-08-20T10:23:37.017952"
+    },
+    {
+      "tmdb_id": "40008",
+      "file": "40008.json",
+      "title": "Hannibal",
+      "fixed_at": "2026-08-20T10:23:48.469803"
+    },
+    {
+      "tmdb_id": "9281",
+      "file": "9281.json",
+      "title": "Witness",
+      "fixed_at": "2026-08-20T10:23:56.881444"
+    },
+    {
+      "tmdb_id": "10083",
+      "file": "10083.json",
+      "title": "The Fugitive",
+      "fixed_at": "2026-08-20T10:24:05.083167"
+    },
+    {
+      "tmdb_id": "138501",
+      "file": "138501.json",
+      "title": "أغاثا منذ البداية",
+      "fixed_at": "2026-08-20T10:24:14.393000"
+    },
+    {
+      "tmdb_id": "4013",
+      "file": "4013.json",
+      "title": "Virtues of Harmony II",
+      "fixed_at": "2026-08-20T10:24:23.663992"
+    },
+    {
+      "tmdb_id": "1404",
+      "file": "1404.json",
+      "title": "Chuck",
+      "fixed_at": "2026-08-20T10:24:33.627887"
+    },
+    {
+      "tmdb_id": "31014",
+      "file": "31014.json",
+      "title": "Lincoln",
+      "fixed_at": "2026-08-20T10:24:45.232223"
+    },
+    {
+      "tmdb_id": "1266800",
+      "file": "1266800.json",
+      "title": "LEnfant du Dsert",
+      "fixed_at": "2026-08-20T10:24:53.028101"
+    },
+    {
+      "tmdb_id": "1569947",
+      "file": "1569947.json",
+      "title": "The Priest: Thanksgiving Massacre",
+      "fixed_at": "2026-08-20T10:25:06.997301"
+    },
+    {
+      "tmdb_id": "11782",
+      "file": "11782.json",
+      "title": "Hard Boiled",
+      "fixed_at": "2026-08-20T10:25:16.875336"
     }
   ],
-  "last_updated": "2026-08-20T10:07:23.306868",
-  "total_fixed": 1049
+  "last_updated": "2026-08-20T10:25:18.878054",
+  "total_fixed": 1063
 }

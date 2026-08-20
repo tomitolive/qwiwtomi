@@ -1,17 +1,15 @@
 {
   "id": 40008,
-  "title": "Hannibal",
-  "title_ar": "Hannibal",
+  "title": "هانيبال",
+  "title_ar": "هانيبال",
   "title_en": "Hannibal",
   "slug": "40008-hannibal",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "ويل جراهام (هيو دانسي) يعمل كمحقق، ولديه موهبة فائقة فيما يتعلق بتقفي أثر أي قاتل متسلسل. لدي ويل جراهام أساليبه الخاصة في عمله؛ حيث إنه يقوم بتصور نفسه مكان القاتل من أجل فهم عقليته، وفهم كيف قام القاتل بارتكاب الجريمة، يُعجب بويل جراهام قاتل متسلسل بشع يُدعى دكتور هانيبال ليكتر (مادس ميكلسين). هانيبال ليكتر عبقري فيما يتعلق بالتحليل النفسي والطب الشرعي؛ ولذلك يقوم بقتل أية ضحية له وطهي أعضائها ومن ثم أكلها.",
   "poster_path": "/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
   "backdrop_path": "/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
   "release_date": "2013-04-04",
   "vote_average": 8.3,
-  "vote_count": 2901,
+  "vote_count": 3016,
   "genres": [
     {
       "id": 18,
@@ -23,35 +21,42 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن أن يتعلم المحققون من عقلية القتلة لsolve أبرز الجرائم?",
-    "desc_ar": "يل جراهام، المحقق الفائقة، يخوض معركة ضد قاتل متسلسل يُدعى دكتور هانيبال ليكتر، الذي يمتلك موهبة فائقة في التحليل النفسي والطب الشرعي. يتعقب ويل جراهام أثر القاتل، ويقوم بتصور نفسه مكان القاتل من أجل فهم عقليته، ويحاول أن يوقف القاتل قبل أن يฆي مرة أخرى.",
-    "seo_title_ar": "مشاهدة فيلم هانيبال مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراما الجريمة المثير",
-    "outro": "إستمتعوا بمشاهدة هانيبال، حيث يتحد المحققون مع عباقرة الجريمة لمواجهة الأخطار",
-    "opinion": "هذا الفيلم هو مثال رائع لدراما الجريمة، حيث يجمع بين الإثارة والفكاهة والشعور بالرعب. القصة هي قصة حقيقية، ولكنها تحول إلى دراما رائعة.",
+    "intro": "يُحكي هذا العمل قصة محقق ماهر يعمل بشكل شبه مستقل، ويتعامل مع قاتل متسلسل بشع.",
+    "desc_ar": "يحكي هذا العمل قصة محقق ماهر يعمل بشكل شبه مستقل، حيث يقوم بتصور نفسه مكان القاتل من أجل فهم عقليته، وفهم كيف قام القاتل بارتكاب الجريمة، وتعجب بويل جراهام قاتل متسلسل بشع يُدعى دكتور هانيبال ليكتر، الذي يُعتبر عبقرياً في التحليل النفسي والطب الشرعي، ويقوم بقتل ضحاياه وطهي أعضائهم ومن ثم أكلها، ويُعتبر هذا العمل مثالًا على الجانب الأقلية من النفس البشرية، حيث يُظهر كيف يمكن أن يتحول الإنسان إلى قاتل متسلسل، ويُظهر أيضًا كيف يمكن للقانون أن يتعامل مع مثل هذه الحالات.",
+    "desc_en": "This series follows a brilliant and highly skilled FBI agent who has the extraordinary ability to think like his prey, allowing him to see and feel what they do. He is drawn to a particularly disturbing and cannibalistic murderer, Dr. Hannibal Lecter, who is a master of psychological analysis and forensic medicine. Through his work, the series explores the darker aspects of human nature and the complexities of the human mind, delving into the psychological motivations behind some of the most heinous crimes.",
+    "seo_title_ar": "مشاهدة مسلسل هانيبال مترجم - توميتو",
+    "meta_desc": "هانيبال مسلسل دراما جريمة يحكي قصة محقق ماهر يعمل بشكل شبه مستقل، ويتعامل مع قاتل متسلسل بشع، يعتبر هذا العمل مثالا على الجانب الأقلية من النفس البشرية،",
+    "outro": "يُعتبر هذا العمل مثالًا على الجانب الأقلية من النفس البشرية، ويتناول أيضًا كيف يمكن للقانون أن يتعامل مع مثل هذه الحالات.",
+    "opinion_ar": "يُعتبر هذا العمل مثالًا على الجانب الأقلية من النفس البشرية، ويتناول أيضًا كيف يمكن للقانون أن يتعامل مع مثل هذه الحالات.",
+    "opinion_en": "This series is a thought-provoking exploration of the darker aspects of human nature and the complexities of the human mind.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم هانيبال؟",
-        "a": "هو فيلم دراما جريمة"
+        "q": "ما هو موضوع مسلسل هانيبال؟",
+        "a": "يحكي هذا العمل قصة محقق ماهر يعمل بشكل شبه مستقل، ويتعامل مع قاتل متسلسل بشع، يُعتبر هذا العمل مثالًا على الجانب الأقلية من النفس البشرية، ويتناول أيضًا كيف يمكن للقانون أن يتعامل مع مثل هذه الحالات.",
+        "q_en": "What is the subject of the Hannibal series?",
+        "a_en": "The series follows a brilliant and highly skilled FBI agent who has the extraordinary ability to think like his prey, allowing him to see and feel what they do. He is drawn to a particularly disturbing and cannibalistic murderer, Dr. Hannibal Lecter, who is a master of psychological analysis and forensic medicine."
       },
       {
-        "q": "ما هو ميزة فيلم هانيبال؟",
-        "a": "هو فيلم متميز في مجال دراما الجريمة"
+        "q": "ما هي نوعية عمل هانيبال؟",
+        "a": "هانيبال مسلسل دراما جريمة يُحكي قصة محقق ماهر يعمل بشكل شبه مستقل، ويتعامل مع قاتل متسلسل بشع.",
+        "q_en": "What type of work is Hannibal?",
+        "a_en": "Hannibal is a crime drama series that follows a brilliant and highly skilled FBI agent as he investigates a series of gruesome murders committed by a cannibalistic killer."
       },
       {
-        "q": "ما هو نوع الشخصيات في فيلم هانيبال؟",
-        "a": "هو فيلم يحتوي على شخصيات رائعة، بما في ذلك المحقق ويل جراهام والقاتل دكتور هانيبال ليكتر"
+        "q": "ما هي أبرز مميزات مسلسل هانيبال؟",
+        "a": "يُعتبر هذا العمل مثالًا على الجانب الأقلية من النفس البشرية، ويتناول أيضًا كيف يمكن للقانون أن يتعامل مع مثل هذه الحالات.",
+        "q_en": "What are the most notable features of the Hannibal series?",
+        "a_en": "This series is a thought-provoking exploration of the darker aspects of human nature and the complexities of the human mind, delving into the psychological motivations behind some of the most heinous crimes."
       }
     ],
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم جريمة, قصة مسلسل Hannibal, أحداث Hannibal بالتفصيل, مشاهدة Hannibal 2013, Hannibal مترجم كامل, توميتو Hannibal",
-    "desc_en": "FBI investigator Will Graham, with a unique ability to empathize with serial killers, is on the hunt for a brilliant and elusive killer, Dr. Hannibal Lecter, who has a genius-level intellect in psychological analysis and forensic science. Graham tracks down the killer, imagining himself in the killer's shoes to understand their mind, and tries to stop the killer before they strike again."
+    "keywords": "هانيبال مسلسل دراما جريمة قاتل متسلسل دراسة نفسية طب شرعي جريمة قتل, هانيبال مسلسل, هانيبال القذافي, هانيبال ليكتر, فيلم هانيبال, هانيبال معمر القذافي, بروتوكول هانيبال, مسلسل هانيبال ليكتر, عقيدة هانيبال, مسلسل هانيبال, معنى اسم هانيبال, مشاهدة هانيبال, Hannibal مترجم, تحميل هانيبال, هانيبال اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2013-04-04",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "cn",
-  "country": "هونغ كونغ",
-  "cast": "Cheung Tat-Ming Matt Chow Hoi-Kwong Ha Chun-Chau Elanne Kwong Yeuk-Lam Sam Lee"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Mads Mikkelsen Hugh Dancy Laurence Fishburne Caroline Dhavernas Gillian Anderson",
+  "first_air_date": "2013-04-04"
 }
