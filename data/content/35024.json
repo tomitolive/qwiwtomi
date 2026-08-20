@@ -1,49 +1,49 @@
 {
   "id": 35024,
-  "title": "Show! Music Core",
-  "title_ar": "Show! Music Core",
-  "title_en": "Show! Music Core",
-  "slug": "35024-show-music-core",
-  "overview": "يعرض! جوهر الموسيقى. مسلسل واقعي يعرض منذ عام 2005، ويتميز بأسلوبه الفريد بعيدًا عن قوائم الترتيب والجوائز. يتضمن عدة فقرات مثل \"أفضل 3 لهذا الأسبوع\" و\"صعود في الرسم البياني\" و\"نجوم صاعدة في الكور\".",
+  "title": "Monique",
+  "title_ar": "Monique",
+  "title_en": "Monique",
+  "slug": "35024-monique",
+  "overview": "يحكي فيلم مونيك قصة بطل يدعى ألكس، الذي يعاني من مشاكل عائلية ومرض الحزن، يخطئ في طلب أفعاله ويحصل على دمية كبيرة الحجم، التي يطلق عليها اسم \"مونيك\". مع مساعدة مونيك، يتحول ألكس حياته حول، لكنها تصبح قريبة من نظرائه وزوجته، مما يؤدي إلى مشاكل أكبر. في هذه القصة المثيرة، نرى كيف يمكن أن يتحول الإنسان إلى شيء آخر تمامًا، ويصبح مونيك قصة حياة ألكس. مع المساعدة من مونيك، يجد ألكس نفسه يتحول إلى شخص أفضل، لكن هذا التحول يتحول إلى لعبة خطر عندما يصبح مونيك الهدف للغيرة.",
   "poster_path": "/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
-  "backdrop_path": "/c1FQPgXZjQ1AmX2v0v3W59PjwKT.jpg",
-  "release_date": "2005-10-29",
-  "vote_average": 7.0,
-  "vote_count": 1,
+  "backdrop_path": "/rvjvmgQL49ialtgAMih3Oic78Bo.jpg",
+  "release_date": "2002-08-21",
+  "vote_average": 5.2,
+  "vote_count": 43,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Show! Music Core (2005) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يعرض! جوهر الموسيقى. مسلسل واقعي يعرض منذ عام 2005، ويتميز بأسلوبه الفريد بعيدًا عن قوائم الترتيب والجوائز. يتضمن عدة فقرات مثل \"أفضل 3 لهذا الأسبوع\" و\"صعود في الرسم البياني\" و\"نجوم صاعدة في الكور\".",
-    "desc_en": "Show! Music Core is a unique music show that has been running since 2005. Unlike other music shows, it doesn't focus on charts or awards. It features segments like \"This Week's Hot 3,\" \"Chart Up Core,\" and \"Core of Rising Stars.\"",
-    "seo_title_ar": "مشاهدة مسلسل يعرض!جوهر الموسيقى Show! Music Core مترجم - توميتو",
-    "meta_desc": "يعرض! جوهر الموسيقى - مسلسل واقعي يعرض منذ عام 2005، مع فقرات مميزة مثل أفضل 3 لهذا الأسبوع، وصعود في الرسم البياني، ونجوم صاعدة في الكور.",
-    "outro": "شاهد Show! Music Core الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "يعرض! جوهر الموسيقى، برنامج موسيقي ممتع ومختلف، يسلط الضوء على مواهب الفنانين الصاعدين.",
-    "opinion_en": "Show! Music Core is a refreshing music show that showcases emerging artists and their talents.",
+    "intro": "في هذا الفيلم الكوميديا الدرامية، نرى كيف يمكن أن يتحول الإنسان إلى شيء آخر تمامًا، ويصبح مونيك قصة حياة ألكس.",
+    "desc_ar": "يحكي فيلم مونيك قصة بطل يدعى ألكس، الذي يعاني من مشاكل عائلية ومرض الحزن، يخطئ في طلب أفعاله ويحصل على دمية كبيرة الحجم، التي يطلق عليها اسم \"مونيك\". مع مساعدة مونيك، يتحول ألكس حياته حول، لكنها تصبح قريبة من نظرائه وزوجته، مما يؤدي إلى مشاكل أكبر. في هذه القصة المثيرة، نرى كيف يمكن أن يتحول الإنسان إلى شيء آخر تمامًا، ويصبح مونيك قصة حياة ألكس. مع المساعدة من مونيك، يجد ألكس نفسه يتحول إلى شخص أفضل، لكن هذا التحول يتحول إلى لعبة خطر عندما يصبح مونيك الهدف للغيرة.",
+    "desc_en": "Suffering from depression and marital problems, Alex mistakenly orders a life-size doll, whom he names \"Monique\". With the help of Monique, Alex turns his life around however she soon becomes the envy of his friends and wife. In this thrilling story, we see how a person can completely change and become something else, and how Monique becomes a central part of Alex's life. As Alex finds himself turning his life around with Monique's help, the transformation takes a dangerous turn when Monique becomes the target of envy.",
+    "seo_title_ar": "مشاهدة فيلم مونيك مترجم - توميتو",
+    "meta_desc": "فيلم مونيك مترجم 2002 كوميديا دراما فيلم مونيك يركز على قصة بطل يعاني من مشاكل عائلية ومرض الحزن، ويحصل على دمية كبيرة الحجم، التي يطلق عليها اسم مونيك.",
+    "outro": "مع مساعدة من مونيك، يجد ألكس نفسه يتحول إلى شخص أفضل، لكن هذا التحول يتحول إلى لعبة خطر عندما يصبح مونيك الهدف للغيرة.",
+    "opinion_ar": "يعد فيلم مونيك من الأفلام المثيرة التي تحتاج إلى مشاهدة، حيث يروي قصة حياة بطل يعاني من مشاكل عائلية ومرض الحزن، ويحصل على دمية كبيرة الحجم، التي يطلق عليها اسم \"مونيك\".",
+    "opinion_en": "Monique is a thrilling film that needs to be watched, as it tells the story of a protagonist who suffers from marital problems and depression, and accidentally orders a life-size doll, which he names \"Monique\".",
     "faq": [
       {
-        "q": "ما هو يعرض! جوهر الموسيقى؟",
-        "a": "يعرض! جوهر الموسيقى هو برنامج موسيقي كوري يعرض منذ عام 2005، ويتميز بأسلوبه المميز بعيدًا عن قوائم الترتيب والجوائز.",
-        "q_en": "What is Show! Music Core?",
-        "a_en": "Show! Music Core is a Korean music show that has been running since 2005, offering a unique format without charts or awards."
+        "q": "ما هو فيلم مونيك؟",
+        "a": "فيلم مونيك هو فيلم كوميديا دراما يروي قصة حياة بطل يعاني من مشاكل عائلية ومرض الحزن، ويحصل على دمية كبيرة الحجم، التي يطلق عليها اسم \"مونيك\".",
+        "q_en": "What is Monique?",
+        "a_en": "Monique is a comedy-drama film that tells the story of a protagonist who suffers from marital problems and depression, and accidentally orders a life-size doll, which he names \"Monique\"."
       }
     ],
-    "keywords": "يعرض! جوهر الموسيقى, Show! Music Core, مسلسل, واقع, موسيقى, فقرات, فنانين, مواهب"
+    "keywords": "فيلم مونيك مترجم, مونيك, كوميديا دراما, فيلم 2002, دمية كبيرة الحجم, مشاكل عائلية, مرض الحزن, مونيك لولييه, مشاهدة مونيك, Monique مترجم, تحميل مونيك, مونيك اون لاين, Monique, مونيك جودة عالية, فيلم مونيك"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "65 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Younghoon Lee Jung-ha Sullyoon Jungwoo Lee Know Kim Min-ju",
-  "first_air_date": "2005-10-29",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "92 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Albert Dupontel Marianne Denicourt Philippe Uchan Marina Tomé Sophie Mounicot Gilles Gaston-Dreyfus Margot Abascal Dominic Gould"
 }

@@ -4,13 +4,11 @@
   "title_ar": "Boo!",
   "title_en": "Boo!",
   "slug": "9165-boo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"بوو!\" قصة مجموعة من الشخصيات الكرتونية التي تشارك في لعبة مماثلة للبحث عن الوجوه في أنواع مختلفة من البيئات. يصاحبها هذا اللعبة تعليقًا من قبل ناقد بالغ وجمهور من الأطفال. يعتبر هذا المسلسل من إنتاج شركة تيل-تيل برودكشنز المستقلة، التي كانت مسؤولة أيضًا عن سلسلة \"تويينيز\". تم بث المسلسل في المملكة المتحدة على قناة CBeebies، ثم على قناة BBC Two، وفي الولايات المتحدة على قناة Qubo. تم إنتاج 104 حلقة من هذا المسلسل، إضافةً إلى حلقة خاصة بعيد الميلاد، وتم ترشيحه لجائزة BAFTA في عام 2002-03.",
   "poster_path": "/b4HFRnIjD0tPSsGOZBMNzCDwXxs.jpg",
   "backdrop_path": "/zsNGoTmm15NN8kiXx6uZ3Winpl0.jpg",
   "release_date": "",
-  "vote_average": 6,
+  "vote_average": 6.0,
   "vote_count": 2,
   "genres": [
     {
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم رائع، يوجد طفل يسمى بوب، يملك قوة رائعة، يمكنه أن يتحول إلى أي شيء يريد، من سحابة إلى عجلة، من عين إلى أنف، لكنه يكتشف أن هناك شخصاً آخر يملك قوة مماثلة له، ويبدأ قصة حرب بينهم، ما هو مستقبل بوب؟ اكتشف أحداث الإثارة!",
-    "desc_en": "In a wonderful world, there's a child named Bob, who has a remarkable power, allowing him to transform into anything he desires, from a cloud to a wheel, from an eye to a nose. However, he discovers that there's another person with a similar power, and the story begins to unfold, revealing a war between them. What's Bob's future? Discover the thrilling events!",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في قصة رسوم متحركة أطفال",
-    "seo_title_ar": "مشاهدة فيلم بو! مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة أطفال, مشاهدة فيلم رسوم متحركة, قصة مسلسل Boo!, مشاهدة Boo! 2026, توميتو Boo!, أحداث Boo! بالتفصيل, Boo! مترجم كامل",
-    "opinion": "هذه القصة الرائعة تتميز بالشخصية القوية والقصة الممتعة، والتي سوف تثير إعجابك!",
+    "intro": "يسعدنا تقديم مسلسل \"بوو!\" للعبة وإنصات الجمهور الأطفال.",
+    "desc_ar": "يحكي مسلسل \"بوو!\" قصة مجموعة من الشخصيات الكرتونية التي تشارك في لعبة مماثلة للبحث عن الوجوه في أنواع مختلفة من البيئات. يصاحبها هذا اللعبة تعليقًا من قبل ناقد بالغ وجمهور من الأطفال. يعتبر هذا المسلسل من إنتاج شركة تيل-تيل برودكشنز المستقلة، التي كانت مسؤولة أيضًا عن سلسلة \"تويينيز\". تم بث المسلسل في المملكة المتحدة على قناة CBeebies، ثم على قناة BBC Two، وفي الولايات المتحدة على قناة Qubo. تم إنتاج 104 حلقة من هذا المسلسل، إضافةً إلى حلقة خاصة بعيد الميلاد، وتم ترشيحه لجائزة BAFTA في عام 2002-03.",
+    "desc_en": "Boo! is a children's television series shown in the United Kingdom on the CBeebies channel, and originally on BBC Two. It features several cartoon characters who play a game similar to hide and seek in a variety of settings. The commentary is performed by an adult narrator and a chorus of children. The series was produced by the independent production company Tell-Tale Productions, which was also responsible for Tweenies.",
+    "seo_title_ar": "مشاهدة مسلسل بوو! مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل بوو! مترجم - توميتو، مسلسل رسوم متحركة للأطفال يبث على قناة CBeebies في المملكة المتحدة، ويستضيف مجموعة من الشخصيات الكرتونية التي تشارك في لع",
+    "outro": "أتمنى أن أكون قد قدمت لمسلسل \"بوو!\" التجربة الفنية الفريدة التي يحتضنها هذا العمل الممتع.",
+    "opinion_ar": "يعد مسلسل \"بوو!\" تجربة فنية فريدة من نوعها، مع استخدام تقنيات CGI ثلاثية الأبعاد ومواد تشاديد مستديرة، وتأثيرات موسيقية في إيقاع الفانك/& من السبعينيات المبكرة.",
+    "opinion_en": "Boo! is a unique visual experience, featuring 3D CGI with rounded shapes and cel-shading, and music and songs in an early-70s funk/R&B idiom.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة أطفال"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "هو مسلسل رسوم متحركة للأطفال.",
+        "q_en": "What type of series is Boo!",
+        "a_en": "It is a children's television series."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه القصة؟",
-        "a": "يحدث في عالم رائع"
-      },
-      {
-        "q": "ما هو مستقبل بوب؟",
-        "a": "اكتشف أحداث الإثارة!"
+        "q": "من هي شركة الإنتاج؟",
+        "a": "هي شركة تيل-تيل برودكشنز المستقلة.",
+        "q_en": "Who produced the series?",
+        "a_en": "It was produced by the independent production company Tell-Tale Productions."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, مسلسل, أطفال, بوو!, تيل-تيل برودكشنز, CBeebies, BBC Two, قناة Qubo, مشاهدة بوو!, Boo! مترجم, تحميل بوو!, بوو! اون لاين, Boo!, بوو! جودة عالية, فيلم بوو!"
   },
   "fixed": true,
-  "first_air_date": "",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Kate Harbour Justin Fletcher Melissa Suffield",
+  "first_air_date": ""
 }

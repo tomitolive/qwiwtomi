@@ -4,14 +4,12 @@
   "title_ar": "بلدة المتقاعدين",
   "title_en": "The Boroughs",
   "slug": "224941-the-boroughs",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتعيّن على مجموعة من الأبطال غير المتوقعين، الذين يعيشون في مجتمع متقاعدين يبدو مثاليًا في ظاهره، مواجهة تهديد خارق للطبيعة يسعى لسرقة الوقت... وهو الشيء الوحيد الذي لا يملكونه.",
   "poster_path": "/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
   "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
   "release_date": "2026-05-21",
-  "vote_average": 7.1,
-  "vote_count": 78,
+  "vote_average": 7.3,
+  "vote_count": 249,
   "genres": [
     {
       "id": 10765,
@@ -23,35 +21,36 @@
     }
   ],
   "ai_content": {
-    "intro": "",
-    "desc_ar": "في مجتمع متقاعدين يبدو مثاليًا في ظاهره، مجموعة من الأبطال غير المتوقعين يتعيّن على مواجهة تهديد خارق للطبيعة يسعى لسرقة الوقت، وهو الشيء الوحيد الذي لا يملكونه. معقّدية الأحداث تزداد، ويصير على الأبطال أن يكتشفوا أسرار المجتمع ويواجهوا المخاطر التي تتهدهم. سوف تتمكن مشاهدة فيلم بلدة المتقاعدين مترجم اون لاين - توميتو من أن تعلمك أن الوقت هو كل شيء، ولا يملكونه أحد.",
-    "seo_title_ar": "مشاهدة فيلم بلدة المتقاعدين مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بلدة المتقاعدين - خيال علمي وفانتازيا غموض",
-    "outro": "",
-    "opinion": "هذه السلسلة التلفزيونية هي مزيج رائع من الخيال العلمي والفنتازيا، حيث يتعيّن الأبطال على مواجهة المخاطر والاسرار في مجتمع متقاعدين يبدو مثاليًا في ظاهره. سوف تتمكن من أن تتمكن من أن ترى كيف يصير على الأبطال أن يكتشفوا أسرار المجتمع ويواجهوا المخاطر التي تتهدهم.",
+    "intro": "يحكي مسلسل بلدة المتقاعدين قصة مجموعة من المتقاعدين الذين يعيشون في مجتمع يعزز من الشيخوخة، ولكنهم يجدون أنفسهم مواجهين خطرًا غامضًا يهدد مستقبلهم.",
+    "desc_ar": "يحكي مسلسل بلدة المتقاعدين قصة مجموعة من المتقاعدين الذين يعيشون في مجتمع يعزز من الشيخوخة، ولكنهم يجدون أنفسهم مواجهين خطرًا غامضًا يهدد مستقبلهم. يسعى هذا الخطر إلى سرقة الوقت، وهو الشيء الذي يُعتبر أكثر قيمة في هذه المجتمعات. ولكن، يبدو أن هذا الخطر يأتي من خارج عالمهم، وتحديداً من عالم ما وراء الطبيعة.",
+    "desc_en": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time. This threat appears to be from beyond their world, and it's up to our heroes to stop it before it's too late.",
+    "seo_title_ar": "مشاهدة مسلسل بلدة المتقاعدين مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل بلدة المتقاعدين مترجم على توميتو - قصة غامضة تسلط الضوء على خطر سرقة الوقت في مجتمع تقاعدين، ويكون مسلسل بلدة المتقاعدين متاحا في جود",
+    "outro": "يعد مسلسل بلدة المتقاعدين تجربة مشاهدة رائعة، حيث يتعرض المشاهد لخطر غامض يهدد مستقبل المتقاعدين، ويجب على الأبطال القضاء على هذا الخطر قبل أن يصبح الأمر متأخرًا.",
+    "opinion_ar": "يعد مسلسل بلدة المتقاعدين تجربة مشاهدة رائعة، حيث يتعرض المشاهد لخطر غامض يهدد مستقبل المتقاعدين، ويجب على الأبطال القضاء على هذا الخطر قبل أن يصبح الأمر متأخرًا.",
+    "opinion_en": "The Boroughs is a great watch, where the audience is exposed to a mysterious threat that puts the future of the retirees at risk, and the heroes must stop it before it's too late.",
     "faq": [
       {
-        "q": "ما هو بلدة المتقاعدين؟",
-        "a": "هو فيلم خيال علمي وفانتازيا غموض يتعيّن على مجموعة من الأبطال غير المتوقعين"
+        "q": "ما هو خطر سرقة الوقت في مسلسل بلدة المتقاعدين؟",
+        "a": "يحاول الخطر سرقة الوقت من المتقاعدين، وهو الشيء الذي يعتبر أكثر قيمة في هذه المجتمعات.",
+        "q_en": "What is the threat of time theft in The Boroughs?",
+        "a_en": "The threat is trying to steal time from the retirees, which is the most valuable thing in these communities."
       },
       {
-        "q": "ما هو نوع بلدة المتقاعدين؟",
-        "a": "هو نوع خيال علمي وفانتازيا غموض"
-      },
-      {
-        "q": "ما هو أفضل شيء في بلدة المتقاعدين؟",
-        "a": "هو الأحداث المليئة بالتension والغموض"
+        "q": "من يؤدي دور الأبطال في مسلسل بلدة المتقاعدين؟",
+        "a": "يحمل مسلسل بلدة المتقاعدين مجموعة من الأبطال غير المتوقعين، الذين يعيشون في مجتمع متقاعدين، ويجب علىهم القضاء على الخطر.",
+        "q_en": "Who are the heroes in The Boroughs?",
+        "a_en": "The Boroughs features a crew of unlikely heroes, who live in a retirement community, and they must stop the threat."
       }
     ],
-    "keywords": "The Boroughs, فيلم بلدة المتقاعدين مترجم, مشاهدة فيلم بلدة المتقاعدين, مشاهدة بلدة المتقاعدين 2026, قصة مسلسل بلدة المتقاعدين, بلدة المتقاعدين مترجم كامل, توميتو بلدة المتقاعدين, أحداث بلدة المتقاعدين بالتفصيل",
-    "desc_en": "In a seemingly perfect community, a group of unexpected heroes must face a nature-defying threat that seeks to steal time, the only thing they don't possess. As the events become more complicated, the heroes must discover the secrets of the community and face the risks that threaten them. Watching The Boroughs translated online - Tomato will teach you that time is everything, and no one possesses it."
+    "keywords": "بلدة المتقاعدين, مسلسل, خيال علمي, فانتازيا, غموض, تقاعد, وقت, سرقة, مشاهدة بلدة المتقاعدين, The Boroughs مترجم, تحميل بلدة المتقاعدين, بلدة المتقاعدين اون لاين, The Boroughs, بلدة المتقاعدين جودة عالية, فيلم بلدة المتقاعدين"
   },
   "fixed": true,
-  "first_air_date": "2026-05-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Alfred Molina Alfre Woodard Denis O'Hare Clarke Peters Carlos Miranda Jena Malone Seth Numrich Alice Kremelberg",
+  "first_air_date": "2026-05-21"
 }

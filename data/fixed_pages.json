@@ -7127,8 +7127,74 @@
       "file": "115.json",
       "title": "The Big Lebowski",
       "fixed_at": "2026-08-20T17:08:25.875079"
+    },
+    {
+      "tmdb_id": "35024",
+      "file": "35024.json",
+      "title": "Show! Music Core",
+      "fixed_at": "2026-08-20T17:28:42.984444"
+    },
+    {
+      "tmdb_id": "127163",
+      "file": "127163.json",
+      "title": "Das perfekte Dinner",
+      "fixed_at": "2026-08-20T17:29:46.104001"
+    },
+    {
+      "tmdb_id": "196322",
+      "file": "196322.json",
+      "title": "Dark Matter",
+      "fixed_at": "2026-08-20T17:30:09.002040"
+    },
+    {
+      "tmdb_id": "675531",
+      "file": "675531.json",
+      "title": "Dark Harvest",
+      "fixed_at": "2026-08-20T17:30:25.676372"
+    },
+    {
+      "tmdb_id": "4426",
+      "file": "4426.json",
+      "title": "Ultraman Gaia",
+      "fixed_at": "2026-08-20T17:30:38.933403"
+    },
+    {
+      "tmdb_id": "3291",
+      "file": "3291.json",
+      "title": "Good Night, and Good Luck.",
+      "fixed_at": "2026-08-20T17:31:11.397200"
+    },
+    {
+      "tmdb_id": "400155",
+      "file": "400155.json",
+      "title": "فندق ترانسلفانيا 3 إجازة صيفية",
+      "fixed_at": "2026-08-20T17:31:25.064229"
+    },
+    {
+      "tmdb_id": "38693",
+      "file": "38693.json",
+      "title": "ليغو نينجاوي : أسياد السبيجيتزو",
+      "fixed_at": "2026-08-20T17:31:36.773798"
+    },
+    {
+      "tmdb_id": "9165",
+      "file": "9165.json",
+      "title": "Boo!",
+      "fixed_at": "2026-08-20T17:31:48.862531"
+    },
+    {
+      "tmdb_id": "1430077",
+      "file": "1430077.json",
+      "title": "Hokum",
+      "fixed_at": "2026-08-20T17:32:03.933520"
+    },
+    {
+      "tmdb_id": "224941",
+      "file": "224941.json",
+      "title": "بلدة المتقاعدين",
+      "fixed_at": "2026-08-20T17:32:16.426935"
     }
   ],
-  "last_updated": "2026-08-20T17:08:27.877910",
-  "total_fixed": 1188
+  "last_updated": "2026-08-20T17:32:18.429750",
+  "total_fixed": 1199
 }
