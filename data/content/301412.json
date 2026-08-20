@@ -1,53 +1,51 @@
 {
   "id": 301412,
-  "title": "Dream to You",
-  "title_ar": "Dream to You",
-  "title_en": "Dream to You",
-  "slug": "301412-dream-to-you",
-  "overview": "مسلسل \"حلم لك\" أو \"Dream  You\" هو دراما رومانسية كوميدية تدور حول شغف صناعة الأفلام. تروي القصة حكاية طالب ثانوي متحمس يترك كل التزاماته جانبًا لصنع أفلام قصيرة، مما يلهم زميلته المجتهدة ولكنها تفتقر إلى الشغف. ومع تطور علاقتهما العميقة، يتحول الحب بينهما، لكنهما يفترقان فجأة عندما يضطر إلى الانتقال إلى الخارج. وبعد سنوات، في الثلاثينيات من عمرهما، تنقلب حياتهما رأسًا على عقب، فهي أصبحت مراسلة تلفزيونية محبطة وتواجه صعوبات، بينما أصبح هو مخرجًا حائزًا على جوائز. عند لقائهما المفاجئ، يقرر مساعدتها على استعادة شغفها المفقود، لكنها لا تزال تحمل في قلبها مرارة بسبب اختفائه المفاجئ في الماضي.",
+  "title": "Little Boxes: The Legacy of Henry Doelger",
+  "title_ar": "Little Boxes: The Legacy of Henry Doelger",
+  "title_en": "Little Boxes: The Legacy of Henry Doelger",
+  "slug": "301412-little-boxes-the-legacy-of-henry-doelger",
+  "overview": "يحكي هذا العمل قصة حياة ومهارات هنري دولجر، أحد رواد تصميم الواقعية الحديثة في منتصف القرن العشرين، الذي ترك بصمة حاسمة في صناعة التطوير العقاري في منطقة خليج سان فرانسيسكو. يُظهر هذا الفيلم كيف استطاع دولجر أن يصمم عمارات فاخرة ومصممة بشكل متسلسل، مما يجعلها مثالاً للتصميم الحديث. يعرض الفيلم كذلك تأثيرات التصميم الحديث على المجتمع والثقافة، وكيف كان دولجر رائدًا في هذا المجال. هذا العمل هو تحفة فنية تتناول أهمية التصميم الحديث في تحسين جودة الحياة.",
   "poster_path": "/cBiwrUwUNNYXTc5xrDEQWcMqftd.jpg",
-  "backdrop_path": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
-  "release_date": "2026-07-13",
+  "backdrop_path": null,
+  "release_date": "2013-08-21",
   "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
-    },
-    {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Dream to You (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"حلم لك\" أو \"Dream  You\" هو دراما رومانسية كوميدية تدور حول شغف صناعة الأفلام. تروي القصة حكاية طالب ثانوي متحمس يترك كل التزاماته جانبًا لصنع أفلام قصيرة، مما يلهم زميلته المجتهدة ولكنها تفتقر إلى الشغف. ومع تطور علاقتهما العميقة، يتحول الحب بينهما، لكنهما يفترقان فجأة عندما يضطر إلى الانتقال إلى الخارج. وبعد سنوات، في الثلاثينيات من عمرهما، تنقلب حياتهما رأسًا على عقب، فهي أصبحت مراسلة تلفزيونية محبطة وتواجه صعوبات، بينما أصبح هو مخرجًا حائزًا على جوائز. عند لقائهما المفاجئ، يقرر مساعدتها على استعادة شغفها المفقود، لكنها لا تزال تحمل في قلبها مرارة بسبب اختفائه المفاجئ في الماضي.",
-    "desc_en": "The series \"Dream to You\" is a romantic comedy drama about the passion for filmmaking. It tells the story of a passionate high schooler who sets aside all obligations to create short films, inspiring a studious but passionless classmate. As their deep bond turns romantic, they are abruptly separated when he is forced to move overseas. Years later, in their thirties, their lives have taken a complete turn: she is a disillusioned, struggling TV reporter, while he has become an award-winning director. When a sudden reunion brings them face-to-face, he resolves to help her rediscover her lost spark, but she still harbors deep resentment over his past disappearance.",
-    "seo_title_ar": "مشاهدة مسلسل حلم لك. Dream You مترجم - توميتو",
-    "meta_desc": "مشاهدة حلم لك مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Dream to You الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"حلم لك\" هو دراما رومانسية مؤثرة، تسلط الضوء على قوة الشغف وقدرته على تغيير مسار الحياة. إنه عمل فني رائع يجمع بين الرومانسية والكوميديا، ويحمل رسالة قوية عن أهمية متابعة الأحلام.",
-    "opinion_en": "Dream to You is a captivating romantic comedy series that beautifully portrays the power of passion and its impact on life. It's a must-watch for its inspiring story and charming blend of romance and humor.",
+    "intro": "يُعد هذا العمل تحفة فنية رائعة، يحكي قصة حياة ومهارات هنري دولجر بشكل تفصيلي.",
+    "desc_ar": "يحكي هذا العمل قصة حياة ومهارات هنري دولجر، أحد رواد تصميم الواقعية الحديثة في منتصف القرن العشرين، الذي ترك بصمة حاسمة في صناعة التطوير العقاري في منطقة خليج سان فرانسيسكو. يُظهر هذا الفيلم كيف استطاع دولجر أن يصمم عمارات فاخرة ومصممة بشكل متسلسل، مما يجعلها مثالاً للتصميم الحديث. يعرض الفيلم كذلك تأثيرات التصميم الحديث على المجتمع والثقافة، وكيف كان دولجر رائدًا في هذا المجال. هذا العمل هو تحفة فنية تتناول أهمية التصميم الحديث في تحسين جودة الحياة.",
+    "desc_en": "This documentary celebrates the life and works of Bay Area real estate development icon Henry Doelger, a pioneer of Mid-Century Modern design. The film showcases how Doelger designed luxury apartments and mass-produced housing, making them a model for modern design. The film also highlights the impact of modern design on society and culture, as well as Doelger's pioneering role in this field. Little Boxes: The Legacy of Henry Doelger is a cinematic tribute to the importance of modern design in improving the quality of life.",
+    "seo_title_ar": "مشاهدة فيلم Little Boxes: The Legacy Henry Doelger مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يظهر هذا الفيلم قصة حياة هنري دولجر ومهاراته في تصميم الواقعية الحديثة. استم",
+    "outro": "يُظهر هذا العمل أهمية التصميم الحديث في تحسين جودة الحياة، كما يُظهر كيف كان هنري دولجر رائدًا في هذا المجال.",
+    "opinion_ar": "يُعد هذا العمل تحفة فنية رائعة، يحكي قصة حياة ومهارات هنري دولجر بشكل تفصيلي. يُظهر كيف كان دولجر رائدًا في تصميم الواقعية الحديثة وترك بصمة حاسمة في صناعة التطوير العقاري في منطقة خليج سان فرانسيسكو.",
+    "opinion_en": "This film is a wonderful tribute to the life and works of Henry Doelger, showcasing his pioneering role in Mid-Century Modern design. The film highlights Doelger's impact on the Bay Area real estate development industry and his legacy in modern design.",
     "faq": [
       {
-        "q": "هل مسلسل \"حلم لك\" مناسب للمشاهدة العائلية؟",
-        "a": "نعم، فهو مسلسل مناسب لجميع أفراد العائلة، حيث يجمع بين الدراما والكوميديا بشكل متوازن، ويحمل رسائل إيجابية وقصة رومانسية جميلة.",
-        "q_en": "Is Dream to You suitable for family viewing?",
-        "a_en": "Absolutely! It's a family-friendly series that offers a perfect blend of drama and comedy, with a heartwarming romantic story and positive messages."
+        "q": "ما هي قصة حياة هنري دولجر؟",
+        "a": "يحكي هذا العمل قصة حياة ومهارات هنري دولجر، أحد رواد تصميم الواقعية الحديثة في منتصف القرن العشرين.",
+        "q_en": "What is the story of Henry Doelger's life?",
+        "a_en": "This documentary celebrates the life and works of Bay Area real estate development icon Henry Doelger, a pioneer of Mid-Century Modern design."
+      },
+      {
+        "q": "لماذا كان هنري دولجر رائدًا في تصميم الواقعية الحديثة؟",
+        "a": "كان دولجر رائدًا في تصميم الواقعية الحديثة بسبب مهاراته في التصميم والتصميم المتسلسل.",
+        "q_en": "Why was Henry Doelger a pioneer in Mid-Century Modern design?",
+        "a_en": "Doelger was a pioneer in Mid-Century Modern design due to his skills in design and mass production."
       }
     ],
-    "keywords": "حلم لك, Dream You, دراما, كوميديا, رومانسية, صناعة الأفلام, شغف, مراهقة, حياة, لقاء, فراق, إعادة اكتشاف الذات"
+    "keywords": "الصناديق الصغيرة, تراث هنري دولجر, فيلم وثائقي, تصميم الواقعية الحديثة, صناعة التطوير العقاري, منطقة خليج سان فرانسيسكو, هنري دولجر, التصميم الحديث, جودة الحياة, Bay Area, Mid-Century Modern, مشاهدة الصناديق الصغيرة: تراث هنري دولجر, Little Boxes: The Legacy Henry Doelger مترجم, تحميل الصناديق الصغيرة: تراث هنري دولجر, الصناديق الصغيرة: تراث هنري دولجر اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Hwang In-youp Lee Hye-ri Baek Sung-chul Lee Yul-eum Lee Sang-yeob Park Ji-young Lee Ji-min",
-  "first_air_date": "2026-07-13",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

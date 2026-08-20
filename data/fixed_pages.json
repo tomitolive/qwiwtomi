@@ -7523,8 +7523,74 @@
       "file": "10283.json",
       "title": "Archer",
       "fixed_at": "2026-08-20T20:21:42.165357"
+    },
+    {
+      "tmdb_id": "329865",
+      "file": "329865.json",
+      "title": "الوافد",
+      "fixed_at": "2026-08-20T20:59:48.981639"
+    },
+    {
+      "tmdb_id": "229544",
+      "file": "229544.json",
+      "title": "Among Us",
+      "fixed_at": "2026-08-20T20:59:59.746154"
+    },
+    {
+      "tmdb_id": "286506",
+      "file": "286506.json",
+      "title": "زهور القوة",
+      "fixed_at": "2026-08-20T21:00:08.373401"
+    },
+    {
+      "tmdb_id": "2384",
+      "file": "2384.json",
+      "title": "Knight Rider",
+      "fixed_at": "2026-08-20T21:00:16.760770"
+    },
+    {
+      "tmdb_id": "5618",
+      "file": "5618.json",
+      "title": "Cousin, Cousine",
+      "fixed_at": "2026-08-20T21:00:25.957151"
+    },
+    {
+      "tmdb_id": "140300",
+      "file": "140300.json",
+      "title": "كونغ فو باندا 3",
+      "fixed_at": "2026-08-20T21:00:53.506074"
+    },
+    {
+      "tmdb_id": "9453",
+      "file": "9453.json",
+      "title": "Caligola",
+      "fixed_at": "2026-08-20T21:01:18.316954"
+    },
+    {
+      "tmdb_id": "301412",
+      "file": "301412.json",
+      "title": "Dream to You",
+      "fixed_at": "2026-08-20T21:01:54.344087"
+    },
+    {
+      "tmdb_id": "693",
+      "file": "693.json",
+      "title": "Desperate Housewives",
+      "fixed_at": "2026-08-20T21:02:05.285039"
+    },
+    {
+      "tmdb_id": "902",
+      "file": "902.json",
+      "title": "يوغي اوه مبارزة الوحوش",
+      "fixed_at": "2026-08-20T21:02:40.358469"
+    },
+    {
+      "tmdb_id": "1658653",
+      "file": "1658653.json",
+      "title": "Vanishing Point",
+      "fixed_at": "2026-08-20T21:02:51.207473"
     }
   ],
-  "last_updated": "2026-08-20T20:21:44.168077",
-  "total_fixed": 1254
+  "last_updated": "2026-08-20T21:02:53.208962",
+  "total_fixed": 1265
 }
