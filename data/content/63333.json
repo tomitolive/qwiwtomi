@@ -4,14 +4,12 @@
   "title_ar": "المملكة الأخيرة",
   "title_en": "The Last Kingdom",
   "slug": "63333-the-last-kingdom",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بينما يدافع \"ألفريد\" العظيم عن مملكته ضد النورديين، يطالب \"أوتريد\" الذي ولد ساكسونيًا ونشأ على يد الفايكنغ بحقه في ملك أجداده.",
   "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
   "backdrop_path": "/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
   "release_date": "2015-10-10",
   "vote_average": 8.3,
-  "vote_count": 1954,
+  "vote_count": 2020,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مملكته الساكسونية، يجد «ألفريد» نفسه مُحاصرًا من قبل النورديين، الذين يريدون الاستيلاء على مملكته. في هذه الأثناء، يطالب «أوتريد» بحقه في ملك أجداده، الذي ولد ساكسونيًا ونشأ على يد الفايكنغ. سوف يصطدم «ألفريد» بالعديد من التحديات، من أجل حماية مملكته والوصول إلى حقه في الميراث.",
-    "desc_en": "In the world of Saxon kingdoms, Alfred finds himself surrounded by the Norwegians, who want to take over his kingdom. Meanwhile, Uhtred demands his right to inherit his ancestors' throne, born Saxon and raised by the Vikings. Alfred will face many challenges to protect his kingdom and claim his inheritance.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المملكة الأخيرة! حركة ومغامرة، دراما، حرب وسياسة في عالم مملكته الساكسونية",
-    "seo_title_ar": "مشاهدة فيلم المملكة الأخيرة مترجم اون لاين - توميتو",
-    "keywords": "The Last Kingdom, فيلم المملكة الأخيرة مترجم, مشاهدة فيلم المملكة الأخيرة, قصة مسلسل المملكة الأخيرة, أحداث المملكة الأخيرة بالتفصيل, توميتو المملكة الأخيرة, المملكة الأخيرة مترجم كامل, مشاهدة المملكة الأخيرة 2015",
-    "opinion": "هذه المملكة الأخيرة هي واحدة من أفضل المسلسلات التاريخية التي شاهدناها، مع قصة ممتعة وخصائص رائعة",
+    "intro": "يحكي مسلسل \"المملكة الأخيرة\" قصة بطل ممتلئ بالحقد والغضب، \"أوتريد\"، الذي يجد نفسه معارضًا لملكه \"ألفريد\" العظيم.",
+    "desc_ar": "يحكي مسلسل \"المملكة الأخيرة\" قصة بطل ممتلئ بالحقد والغضب، \"أوتريد\"، الذي يجد نفسه معارضًا لملكه \"ألفريد\" العظيم الذي يتصرف ضد مملكته بنفس الطريقة التي يتصرف بها ضد النورديين. يجد \"أوتريد\" نفسه مضطرًا للقتال من أجل حقه في ملك أجداده، بينما يجد \"ألفريد\" نفسه مضطرًا لردع \"أوتريد\" من أجل حماية مملكته. بينما يجد \"أوتريد\" نفسه مضطرًا للقتال من أجل تحقيق حلمه، يجد \"ألفريد\" نفسه مضطرًا للقتال من أجل حماية مملكته.",
+    "desc_en": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+    "seo_title_ar": "مشاهدة مسلسل المملكة الأخيرة مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل المملكة الأخيرة مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يروي المملكة الأخيرة قصة بطل ممتلئ بالحقد والغضب، أوتريد،",
+    "outro": "يعد مسلسل \"المملكة الأخيرة\" من أفضل المسلسلات التي تم تصويرها، حيث يحتوي على قصة ممتعة ومثيرة.",
+    "opinion_ar": "يعد مسلسل \"المملكة الأخيرة\" من أفضل المسلسلات التي تم تصويرها، حيث يحتوي على قصة ممتعة ومثيرة.",
+    "opinion_en": "The Last Kingdom is an epic and thrilling show that combines historical figures and events with fictional characters to tell a story of how a people came together to reclaim their land and build a home.",
     "faq": [
       {
-        "q": "ما هو موضوع المسلسل?",
-        "a": "يحكي قصة مملكته الساكسونية والصراع على الحكم"
+        "q": "ما هو اسم مسلسل \"المملكة الأخيرة\"؟",
+        "a": "المملكة الأخيرة",
+        "q_en": "What is the name of the show \"The Last Kingdom\"?",
+        "a_en": "The Last Kingdom"
       },
       {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "هو مسلسل تاريخي حركة ومغامرة ودراما و حرب وسياسة"
+        "q": "من بطولة مسلسل \"المملكة الأخيرة\"؟",
+        "a": "أوتريد وألفريد",
+        "q_en": "Who stars in the show \"The Last Kingdom\"?",
+        "a_en": "Uhtred and Alfred"
       },
       {
-        "q": "ما هو المخرج؟",
-        "a": "هو المخرج [اسم المخرج]"
+        "q": "ما هو نوع مسلسل \"المملكة الأخيرة\"؟",
+        "a": "مسلسل حركة ومغامرة ودراما وحرب وسياسة",
+        "q_en": "What type of show is \"The Last Kingdom\"?",
+        "a_en": "Action, Adventure, Drama, War, and Politics"
       }
-    ]
+    ],
+    "keywords": "المملكة الأخيرة, مسلسل, أوتريد, ألفريد, حركة, مغامرة, دراما, حرب, سياسة, تاريخي, مشاهدة المملكة الأخيرة, The Last Kingdom مترجم, تحميل المملكة الأخيرة, المملكة الأخيرة اون لاين, The Last Kingdom"
   },
   "fixed": true,
-  "first_air_date": "2015-10-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "85 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Richard Egan Constance Dowling Herbert Marshall John Wengraf Philip Van Zandt"
+  "country": "المملكة المتحدة",
+  "cast": "Alexander Dreymon Eliza Butterworth Mark Rowley Ruby Hartley James Northcote Arnas Fedaravičius Harry Gilby Timothy Innes",
+  "first_air_date": "2015-10-10"
 }

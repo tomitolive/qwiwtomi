@@ -6077,8 +6077,80 @@
       "file": "91630.json",
       "title": "O Auto da Compadecida",
       "fixed_at": "2026-08-20T07:24:02.380951"
+    },
+    {
+      "tmdb_id": "2098",
+      "file": "2098.json",
+      "title": "باتمان",
+      "fixed_at": "2026-08-20T08:05:18.503562"
+    },
+    {
+      "tmdb_id": "4920",
+      "file": "4920.json",
+      "title": "Damages",
+      "fixed_at": "2026-08-20T08:05:30.633521"
+    },
+    {
+      "tmdb_id": "1734",
+      "file": "1734.json",
+      "title": "The Mummy Returns",
+      "fixed_at": "2026-08-20T08:05:51.237843"
+    },
+    {
+      "tmdb_id": "1701",
+      "file": "1701.json",
+      "title": "الزنزانة الطائرة",
+      "fixed_at": "2026-08-20T08:06:07.128599"
+    },
+    {
+      "tmdb_id": "39905",
+      "file": "39905.json",
+      "title": "Toy Story Treats",
+      "fixed_at": "2026-08-20T08:06:17.829863"
+    },
+    {
+      "tmdb_id": "105",
+      "file": "105.json",
+      "title": "العودة إلى المستقبل",
+      "fixed_at": "2026-08-20T08:06:26.717562"
+    },
+    {
+      "tmdb_id": "229192",
+      "file": "229192.json",
+      "title": "The Demon Hunter",
+      "fixed_at": "2026-08-20T08:06:38.374796"
+    },
+    {
+      "tmdb_id": "200881",
+      "file": "200881.json",
+      "title": "Vadhandhi",
+      "fixed_at": "2026-08-20T08:07:01.455471"
+    },
+    {
+      "tmdb_id": "63333",
+      "file": "63333.json",
+      "title": "المملكة الأخيرة",
+      "fixed_at": "2026-08-20T08:07:11.396798"
+    },
+    {
+      "tmdb_id": "24858",
+      "file": "24858.json",
+      "title": "أبدية و يوم",
+      "fixed_at": "2026-08-20T08:07:21.164546"
+    },
+    {
+      "tmdb_id": "1781",
+      "file": "1781.json",
+      "title": "بيت صغير على المرج",
+      "fixed_at": "2026-08-20T08:07:30.403488"
+    },
+    {
+      "tmdb_id": "1220564",
+      "file": "1220564.json",
+      "title": "O Agente Secreto",
+      "fixed_at": "2026-08-20T08:07:47.172237"
     }
   ],
-  "last_updated": "2026-08-20T07:24:04.383434",
-  "total_fixed": 1013
+  "last_updated": "2026-08-20T08:07:49.174860",
+  "total_fixed": 1025
 }

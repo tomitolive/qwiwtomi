@@ -4,14 +4,12 @@
   "title_ar": "باتمان",
   "title_en": "Batman: The Animated Series",
   "slug": "2098-batman-the-animated-series",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يصارع المحارب ذو العباءة للتغلب على هواجسه بينما يقاتل الأشرار الأكثر شهرة والأسوأ سمعة في \"غوثام\"، ومن بينهم \"الجوكر\" و\"بينغوين\" و\"هارلي كوين\".",
   "poster_path": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
-  "backdrop_path": "/2Eib5rvQXl2TTp4GBLgTnvAQNUL.jpg",
+  "backdrop_path": "/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
   "release_date": "1992-09-05",
   "vote_average": 8.6,
-  "vote_count": 1820,
+  "vote_count": 1873,
   "genres": [
     {
       "id": 10759,
@@ -31,19 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يصارع المحارب ذو العباءة للتغلب على هواجسه بينما يقاتل الأشرار الأكثر شهرة والأسوأ سمعة في \"غوثام\"، ومن بينهم \"الجوكر\" و\"بينغوين\" و\"هارلي كوين\".",
-    "desc_en": "يصارع المحارب ذو العباءة للتغلب على هواجسه بينما يقاتل الأشرار الأكثر شهرة والأسوأ سمعة في \"غوثام\"، ومن بينهم \"الجوكر\" و\"بينغوين\" و\"هارلي كوين\".",
-    "meta_desc": "مشاهدة باتمان مترجم بجودة عالية على توميتو.",
-    "keywords": "Batman: The Animated Series, قصة فيلم باتمان, مشاهدة باتمان 2026, أحداث باتمان بالتفصيل, باتمان مترجم, توميتو باتمان",
-    "seo_title_ar": "مشاهدة باتمان مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "في عالم مليء بالجريمة والشر، يُظهر باتمان قوة وفنّية في الوقوف ضد الظلم، واستكشاف أعماق عقله الباطن لاستغلالها في ملاحقة الأشرار والقضاء عليهم.",
+    "desc_ar": "يحاول المحارب ذو العباءة باتمان التغلب على مخاوفه الداخلية بينما يقاتل الأشرار الأكثر شهرة والأسوأ سمعة في مدينة غوثام، التي تسودها الظلام والجريمة، حيث يُواجَه بتقلبات أشد قوة مع الأشخاص مثل الجوكر، بينغوين، وحرلي كوين، حيث يُظهر بطلنا قوة وفنّية في الوقوف ضد الظلم والشر، واستكشاف أعماق عقله الباطن لاستغلالها في ملاحقة الأشرار والقضاء عليهم.",
+    "desc_en": "Vowing to avenge the murder of his parents, Bruce Wayne dedicates his life to eradicating crime in Gotham City as the masked vigilante \"Batman\", who confronts the most notorious and infamous villains, such as the Joker, Penguin, and Harley Quinn, showcasing his strength and finesse in standing against injustice and uncovering the depths of his own psyche to pursue and apprehend the perpetrators.",
+    "seo_title_ar": "مشاهدة مسلسل باتمان: السلسلة مترجم - توميتو",
+    "meta_desc": "شاهد باتمان: السلسلة في جودة عالية وترجمة احترافية، بدون إعلانات مزعجة، استمتع بمشاهدة هذا العمل الرائع في غوثام، الذي يقاتل الأشرار الأكثر شهرة، واستك",
+    "outro": "باتمان: السلسلة animated هو عمل فني رائع يُظهر قوة بطلنا في القتال ضد الشر، وواقعية العالم المحيط به، مما يجعله تجربة مشاهدة غنية وممتعة.",
+    "opinion_ar": "باتمان: السلسلة هو عمل فني رائع يُظهر قوة بطلنا في القتال ضد الشر، وواقعية العالم المحيط به، مما يجعله تجربة مشاهدة غنية وممتعة.",
+    "opinion_en": "Batman: The Animated Series is a masterful work showcasing our hero's strength in fighting against injustice and the realism of the world around him, making for a rich and engaging viewing experience.",
+    "faq": [
+      {
+        "q": "ما هو باتمان: السلسلة ؟",
+        "a": "باتمان: السلسلة هو مسلسل رسوم متحركة أمريكي يُتبع قصة باتمان المحارب ذو العباءة، الذي يقاتل الأشرار في مدينة غوثام.",
+        "q_en": "What is Batman: The Animated Series?",
+        "a_en": "Batman: The Animated Series is an American animated series following the story of Batman, the masked vigilante, as he battles villains in Gotham City."
+      }
+    ],
+    "keywords": "باتمان, باتمان: السلسلة, مسلسل رسوم متحركة, جثام, شر, جريمة, جوكر, بينغوين, حرلي كوين, قوة, فنية, بطل, عالم, مريح, مشاهدة, فيلم باتمان, فلم باتمان, باتمان فلم, شعار باتمان, افلام باتمان"
   },
   "fixed": true,
-  "first_air_date": "1992-09-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "85 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Elvis Presley Ann-Margret Cesare Danova William Demarest Nicky Blair"
+  "cast": "Kevin Conroy",
+  "first_air_date": "1992-09-05"
 }
