@@ -4,14 +4,12 @@
   "title_ar": "المهمة: المستحيلة",
   "title_en": "Mission: Impossible",
   "slug": "954-mission-impossible",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "بعد التخطيط لتنفيذ إحدى المهام، يرسل (جيم فيليبس) مع زوجته (كلير) وشريكه (إيثان هانت) إلى مدينة (براغ)، وتفشل المهمة ولا ينجو سوى (إيثان هانت)، ويبدأ مدير الوكالة بالشك في (إيثان) بأنه السبب الرئيسي لفشل هذه المهمة، فيحاول إثبات براءته بمختلف الطرق والأساليب الممكنة واكتشاف المتورط الحقيقي.",
   "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
-  "backdrop_path": "/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
+  "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
   "release_date": "1996-05-22",
-  "vote_average": 7,
-  "vote_count": 9966,
+  "vote_average": 7.0,
+  "vote_count": 10166,
   "genres": [
     {
       "id": 12,
@@ -27,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن فشل المهمة، يبدأ المدير بالشك في إيثان هانت، ويحاول إثبات براءته بمختلف الطرق والأساليب الممكنة، فيما يكتشف المتورط الحقيقي، في رحلة مليئة بالغموض والاثارة.",
-    "desc_en": "After the mission fails, the director begins to suspect Ethan Hunt, who tries to prove his innocence through various means, while uncovering the real culprit, in a thrilling journey filled with suspense and intrigue.",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في المهمة: المستحيلة)",
-    "seo_title_ar": "مشاهدة فيلم المهمة: المستحيلة مترجم اون لاين - توميتو",
-    "keywords": "Mission: Impossible, فيلم المهمة: المستحيلة مترجم, مشاهدة فيلم المهمة: المستحيلة, قصة فيلم المهمة: المستحيلة, مشاهدة المهمة: المستحيلة 1996, توميتو المهمة: المستحيلة, المهمة: المستحيلة مترجم, أحداث المهمة: المستحيلة بالتفصيل",
-    "opinion": "في المهمة: المستحيلة، نرى كيف يمكن أن يتحول الفشل إلى فرصة لاكتشاف الحقيقة، ويحولنا إلى رحلة مليئة بالغموض والاثارة.",
+    "intro": "يحكي فيلم \"المهمة: المستحيلة\" قصة عن عالم الخداع حيث يجد (إيثان هانت) نفسه مصدر الشك في وكالة الاستخبارات المركزية.",
+    "desc_ar": "يحكي فيلم \"المهمة: المستحيلة\" قصة عن عالم الخداع حيث يجد (إيثان هانت) نفسه مصدر الشك في وكالة الاستخبارات المركزية بسبب فشل مهمة خطيرة. يبدأ هانت في تحقيق بسرعة لاكتشاف الخائن الحقيقي، بينما يضطر إلى اثبات براءته أمام مدير الوكالة. يتغلب هانت على التحديات والمخاطر المتراكمة، مع الوقت، يبدأ في اكتشاف الحقيقة المخيفة وراء الفشل. يقوم هانت بتسليط الضوء على المتورط الحقيقي، ويحاول إزالة الشكوك الموجودة في ذهن مدير الوكالة، وفي النهاية، ينجح هانت في اثبات براءته واكتشاف الخائن.",
+    "desc_en": "When Ethan Hunt, the leader of a crack espionage team, finds himself under suspicion by the CIA for the failure of a high-stakes mission, he sets out to clear his name. As he delves deeper into the mystery, he uncovers a web of deceit and betrayal that threatens to destroy everything he holds dear. With time running out, Hunt must use all his skills and resources to uncover the truth behind the failure and prove his innocence to the CIA director.",
+    "seo_title_ar": "مشاهدة فيلم المهمة: المستحيلة مترجم - توميتو",
+    "meta_desc": "مشاهدة فيلم المهمة: المستحيلة مترجم - فيلم مغامرة وحركة وإثارة من عام 1996 عن عالم الخداع والخيانة واكتشاف الحقيقة. استمتع بمشاهدة هذا العمل بجودة ع",
+    "outro": "يعد فيلم \"المهمة: المستحيلة\" تجربة مشاهدة رائعة لمن يبحث عن مغامرة وحركة وإثارة، مع أداء مميز لطاقم التمثيل.",
+    "opinion_ar": "يعد فيلم \"المهمة: المستحيلة\" تجربة مشاهدة رائعة لمن يبحث عن مغامرة وحركة وإثارة، مع أداء مميز لطاقم التمثيل.",
+    "opinion_en": "Mission: Impossible is a thrilling experience for those who seek action, suspense, and intrigue, with a talented cast delivering standout performances.",
     "faq": [
       {
-        "q": "ما هو هدف المهمة: المستحيلة؟",
-        "a": "يحاول المهمة: المستحيلة إثبات براءته من الفشل"
+        "q": "ما هو أصل الشك في (إيثان هانت)؟",
+        "a": "يجد هانت نفسه مصدر الشك في وكالة الاستخبارات المركزية بسبب فشل مهمة خطيرة.",
+        "q_en": "What is the source of suspicion against Ethan Hunt?",
+        "a_en": "Hunt finds himself under suspicion by the CIA due to the failure of a high-stakes mission."
       },
       {
-        "q": "من هو المتورط الحقيقي؟",
-        "a": "يكتشف المتورط الحقيقي في رحلة مليئة بالغموض والاثارة"
-      },
-      {
-        "q": "ما هو نوع المهمة: المستحيلة؟",
-        "a": "المهمة: المستحيلة نوع من أفلام المغامرة والحركة والإثارة"
+        "q": "كيف يقوم هانت باثبات براءته؟",
+        "a": "يتغلب هانت على التحديات والمخاطر المتراكمة، مع الوقت، يبدأ في اكتشاف الحقيقة المخيفة وراء الفشل.",
+        "q_en": "How does Hunt clear his name?",
+        "a_en": "Hunt overcomes the challenges and risks, with time, he begins to uncover the shocking truth behind the failure."
       }
-    ]
+    ],
+    "keywords": "المهمة: المستحيلة, فيلم مغامرة, حركة, إثارة, إيثان هانت, وكالة الاستخبارات المركزية, الخداع, الخيانة, الحقيقة, مشاهدة المهمة: المستحيلة, Mission: Impossible مترجم, تحميل المهمة: المستحيلة, المهمة: المستحيلة اون لاين, Mission: Impossible, المهمة: المستحيلة جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "111 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Cruise Jon Voight Emmanuelle Béart Henry Czerny Jean Reno"
+  "cast": "Tom Cruise Jon Voight Emmanuelle Béart Henry Czerny Jean Reno Ving Rhames Kristin Scott Thomas Vanessa Redgrave"
 }

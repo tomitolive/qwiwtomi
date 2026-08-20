@@ -7325,8 +7325,80 @@
       "file": "42830.json",
       "title": "Moribito: Guardian of the Spirit",
       "fixed_at": "2026-08-20T18:30:51.323958"
+    },
+    {
+      "tmdb_id": "1361774",
+      "file": "1361774.json",
+      "title": "The Dink",
+      "fixed_at": "2026-08-20T19:14:22.721375"
+    },
+    {
+      "tmdb_id": "6844",
+      "file": "6844.json",
+      "title": "The Ten Commandments",
+      "fixed_at": "2026-08-20T19:14:36.757538"
+    },
+    {
+      "tmdb_id": "1010821",
+      "file": "1010821.json",
+      "title": "Groot Takes a Bath",
+      "fixed_at": "2026-08-20T19:14:47.782468"
+    },
+    {
+      "tmdb_id": "1059",
+      "file": "1059.json",
+      "title": "T. J. Hooker",
+      "fixed_at": "2026-08-20T19:15:03.479699"
+    },
+    {
+      "tmdb_id": "266856",
+      "file": "266856.json",
+      "title": "The Theory of Everything",
+      "fixed_at": "2026-08-20T19:15:17.517121"
+    },
+    {
+      "tmdb_id": "228878",
+      "file": "228878.json",
+      "title": "الآثار الجانبية الشائعة",
+      "fixed_at": "2026-08-20T19:15:29.396948"
+    },
+    {
+      "tmdb_id": "29667",
+      "file": "29667.json",
+      "title": "Groland",
+      "fixed_at": "2026-08-20T19:15:46.828117"
+    },
+    {
+      "tmdb_id": "954",
+      "file": "954.json",
+      "title": "المهمة: المستحيلة",
+      "fixed_at": "2026-08-20T19:16:00.806893"
+    },
+    {
+      "tmdb_id": "353979",
+      "file": "353979.json",
+      "title": "Pet",
+      "fixed_at": "2026-08-20T19:16:12.091999"
+    },
+    {
+      "tmdb_id": "1107216",
+      "file": "1107216.json",
+      "title": "Falcon Express",
+      "fixed_at": "2026-08-20T19:16:25.267550"
+    },
+    {
+      "tmdb_id": "30981",
+      "file": "30981.json",
+      "title": "الوحش",
+      "fixed_at": "2026-08-20T19:16:39.217601"
+    },
+    {
+      "tmdb_id": "82700",
+      "file": "82700.json",
+      "title": "Baby",
+      "fixed_at": "2026-08-20T19:16:55.032943"
     }
   ],
-  "last_updated": "2026-08-20T18:30:53.326565",
-  "total_fixed": 1221
+  "last_updated": "2026-08-20T19:16:57.035740",
+  "total_fixed": 1233
 }

@@ -4,9 +4,7 @@
   "title_ar": "Groland",
   "title_en": "Groland",
   "slug": "29667-groland",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يسعدنا تقديم مسلسل كوميديا \"جرولاند\"، يركز على أحداث تحدث في دولة خيالية تسمى \"جرولاند\"، ويُعرض هذا المسلسل على قناة فرنسية تسمى \"كانال بلس\"، ويُعتبر هذا العمل من بين أحدث إنتاجات القناة الفرنسية في مجال التلفزيون، ويُحظى بمتابعة واسعة بين المشاهدين الفرنسيين، ويُبرز هذا المسلسل قصة دولة خيالية تُعرف باسم \"جرولاند\"، وتُعتبر هذه القصة من بين أكثر القصص رواجا في التلفزيون الفرنسي",
   "poster_path": "/fEchSzCKQghS7DqfmIJhilo9pCE.jpg",
   "backdrop_path": "/w8oka72o8Zih3LZlXTkq19vpFcQ.jpg",
   "release_date": "1992-09-05",
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم كوميدياً رائع، يُقدم برنامج غروланд منصةً لمناقشة الأحداث اليومية، حيث يلقي المضيفين نظرةً مختلفةً على الأخبار والشؤون، مما يجعل البرنامج من أكثر البرامج المضحكين والرائعين في الساحة الإعلامية.",
-    "desc_en": "In a world of comedy, Groland presents a platform for discussing daily events, where the hosts offer a different perspective on the news and issues, making it one of the funniest and most entertaining programs in the media landscape.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في برنامج كوميدياً رائع - غروланд",
-    "seo_title_ar": "مشاهدة برنامج غروланд مترجم اون لاين - توميتو",
-    "keywords": "برنامج كوميديا رائع, مشاهدة برنامج غروланд مترجم, غروланд اون لاين, أحداث Groland بالتفصيل, توميتو Groland, Groland مترجم كامل, قصة مسلسل Groland, مشاهدة Groland 1992",
-    "opinion": "برنامج غروланд هو المكان الذي يلتقي فيه الكوميديا والشؤون في إطار من الرفق والمرح، مما يجعل من مشاهدة البرنامج تجربةً ممتعةً للاستماعين.",
+    "intro": "يسعدنا تقديم مسلسل \"جرولاند\"، يركز على أحداث تحدث في دولة خيالية تسمى \"جرولاند\"",
+    "desc_ar": "يسعدنا تقديم مسلسل كوميديا \"جرولاند\"، يركز على أحداث تحدث في دولة خيالية تسمى \"جرولاند\"، ويُعرض هذا المسلسل على قناة فرنسية تسمى \"كانال بلس\"، ويُعتبر هذا العمل من بين أحدث إنتاجات القناة الفرنسية في مجال التلفزيون، ويُحظى بمتابعة واسعة بين المشاهدين الفرنسيين، ويُبرز هذا المسلسل قصة دولة خيالية تُعرف باسم \"جرولاند\"، وتُعتبر هذه القصة من بين أكثر القصص رواجا في التلفزيون الفرنسي",
+    "desc_en": "Groland is a satirical news programme that focuses on the fictional country of Groland, also known as the Presipality of Groland, which is broadcast on the French television channel Canal.",
+    "seo_title_ar": "مشاهدة مسلسل كوميديا جرولاند مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل جرولاند على قناة كانال بلس في جودة عالية وترجمة احترافية بدون إعلانات مزعجة، يعتبر هذا العمل من بين أحدث إنتاجات التلفزيون الفرنس",
+    "outro": "نأمل أن استمتعت بمشاهدة مسلسل \"جرولاند\"، ويُعتبر هذا العمل من بين أحدث إنتاجات التلفزيون الفرنسي في مجال الكوميديا والصحافة",
+    "opinion_ar": "يُعتبر مسلسل \"جرولاند\" من بين أفضل المسلسلات الكوميدية التي تم إنتاجها في التلفزيون الفرنسي، ويُحظى بمتابعة واسعة بين المشاهدين الفرنسيين، ويُبرز قصة دولة خيالية تُعرف باسم \"جرولاند\"",
+    "opinion_en": "Groland is a highly acclaimed satirical news programme that has gained a wide following among French television viewers, and it presents a unique and engaging storyline about a fictional country called Groland",
     "faq": [
       {
-        "q": "ما هو برنامج غروланд؟",
-        "a": "برنامج كوميديا رائع يلقي نظرةً مختلفةً على الأخبار والشؤون."
+        "q": "ما هو اسم مسلسل \"جرولاند\"؟",
+        "a": "يُسمى مسلسل \"جرولاند\" بالاسم الكامل \"مسلسل كوميديا \"جرولاند\" على قناة \"كانال بلس\" في فرنسا",
+        "q_en": "What is the title of the satirical news programme \"Groland\"?",
+        "a_en": "The title of the satirical news programme is \"Groland\" or \"The Presipality of Groland\""
       },
       {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "برنامج تلفزيوني كوميدي"
+        "q": "من إنتاج مسلسل \"جرولاند\"؟",
+        "a": "يُعتبر مسلسل \"جرولاند\" من إنتاج قناة \"كانال بلس\" في فرنسا",
+        "q_en": "Who produced the satirical news programme \"Groland\"?",
+        "a_en": "The satirical news programme was produced by Canal in France"
       },
       {
-        "q": "ما هو المكان الذي يمكن مشاهدة البرنامج فيه؟",
-        "a": "يمكن مشاهدة البرنامج على توميتو اون لاين"
+        "q": "ما هي قصة مسلسل \"جرولاند\"؟",
+        "a": "يُبرز مسلسل \"جرولاند\" قصة دولة خيالية تُعرف باسم \"جرولاند\"، ويُعتبر هذا العمل من بين أحدث إنتاجات التلفزيون الفرنسي في مجال الكوميديا والصحافة",
+        "q_en": "What is the storyline of the satirical news programme \"Groland\"?",
+        "a_en": "The satirical news programme \"Groland\" presents a unique and engaging storyline about a fictional country called Groland"
       }
-    ]
+    ],
+    "keywords": "جرولاند, مسلسل كوميديا, قناة كانال بلس, فرنسا, تلفزيون فرنسي, صحافة كوميدية, دولة خيالية, مشاهدة جرولاند, Groland مترجم, تحميل جرولاند, جرولاند اون لاين, Groland, جرولاند جودة عالية, فيلم جرولاند, Groland HD"
   },
   "fixed": true,
-  "first_air_date": "1992-09-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "95 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jennifer Welles Lesllie Bovee Jamie Gillis Jake Teague Gloria Leonard"
+  "duration": "25 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Doully Benoît Delépine",
+  "first_air_date": "1992-09-05"
 }
