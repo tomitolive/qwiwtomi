@@ -5813,8 +5813,98 @@
       "file": "1284041.json",
       "title": "The Last House",
       "fixed_at": "2026-08-20T05:07:02.508525"
+    },
+    {
+      "tmdb_id": "4658",
+      "file": "4658.json",
+      "title": "ALF",
+      "fixed_at": "2026-08-20T05:33:54.215913"
+    },
+    {
+      "tmdb_id": "1426964",
+      "file": "1426964.json",
+      "title": "حالة ذعر",
+      "fixed_at": "2026-08-20T05:34:02.815031"
+    },
+    {
+      "tmdb_id": "675445",
+      "file": "675445.json",
+      "title": "دورية المخالب: الفيلم",
+      "fixed_at": "2026-08-20T05:34:11.783550"
+    },
+    {
+      "tmdb_id": "324857",
+      "file": "324857.json",
+      "title": "سبايدرمان في بعد العنكبوت",
+      "fixed_at": "2026-08-20T05:34:22.094942"
+    },
+    {
+      "tmdb_id": "62017",
+      "file": "62017.json",
+      "title": "The Man in the High Castle",
+      "fixed_at": "2026-08-20T05:34:35.241959"
+    },
+    {
+      "tmdb_id": "32209",
+      "file": "32209.json",
+      "title": "Al Fondo Hay Sitio",
+      "fixed_at": "2026-08-20T05:34:45.869816"
+    },
+    {
+      "tmdb_id": "76773",
+      "file": "76773.json",
+      "title": "Station 19",
+      "fixed_at": "2026-08-20T05:34:56.472795"
+    },
+    {
+      "tmdb_id": "105009",
+      "file": "105009.json",
+      "title": "منتقمو طوكيو",
+      "fixed_at": "2026-08-20T05:35:05.578189"
+    },
+    {
+      "tmdb_id": "11909",
+      "file": "11909.json",
+      "title": "Bullet in the Head",
+      "fixed_at": "2026-08-20T05:35:20.443260"
+    },
+    {
+      "tmdb_id": "432279",
+      "file": "432279.json",
+      "title": "Melancoly Baby",
+      "fixed_at": "2026-08-20T05:35:30.381678"
+    },
+    {
+      "tmdb_id": "1064028",
+      "file": "1064028.json",
+      "title": "Subservience",
+      "fixed_at": "2026-08-20T05:35:40.573179"
+    },
+    {
+      "tmdb_id": "134742",
+      "file": "134742.json",
+      "title": "CLASSROOM FOR HEROES",
+      "fixed_at": "2026-08-20T05:35:51.279286"
+    },
+    {
+      "tmdb_id": "11544",
+      "file": "11544.json",
+      "title": "ليلو وستيتش",
+      "fixed_at": "2026-08-20T05:36:00.152352"
+    },
+    {
+      "tmdb_id": "208921",
+      "file": "208921.json",
+      "title": "المنافسون",
+      "fixed_at": "2026-08-20T05:36:07.638996"
+    },
+    {
+      "tmdb_id": "43398",
+      "file": "43398.json",
+      "title": "هزاردستان",
+      "fixed_at": "2026-08-20T05:36:18.633269"
     }
   ],
-  "last_updated": "2026-08-20T05:07:04.511343",
-  "total_fixed": 969
+  "last_updated": "2026-08-20T05:36:20.635866",
+  "total_fixed": 984
 }

@@ -4,14 +4,12 @@
   "title_ar": "CLASSROOM FOR HEROES",
   "title_en": "CLASSROOM FOR HEROES",
   "slug": "134742-classroom-for-heroes",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل الفصل الدراسي للأبطال قصة مجموعة من الطلاب الذين يمتلكون القدرة على أن يكونوا بطلين. يركز هذا المسلسل على روسووود أكاديمي، المدرسة التي تختار الطلاب الأبطال المستقبليين الذين سيحميون الإنسانية. يُظهر المسلسل قصة إرنست فلامنج، فتاة شابة تتمتع بنسخة من الذكاء العسكري، التي تحمل سجلاً عاليًا. ومع ذلك، فإن سجلاها يتحطم عندما يتم تعيينها لتوجيه طالبًا جديدًا، بليد، يمتلك قوة لا تقل عن قوتها.",
   "poster_path": "/xf3k3EZzGWCpO68LWFgI8boryw5.jpg",
   "backdrop_path": "/7NXMz4qtIT608BIQx3pL4nsD24S.jpg",
   "release_date": "2023-07-09",
   "vote_average": 7.7,
-  "vote_count": 94,
+  "vote_count": 97,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدرسة رائعة، تتعاون مجموعة من الأبطال الموهوبين لإنقاذ العالم من الأخطار التي تهدده. معقولة، لكنها رائعة، هذه القصة مليئة بالكوميديا والفانتازيا والخيال العلمي، ستجعلك تبتسم وتشعر بالرغبة في إنقاذ العالم معهم.",
-    "desc_en": "In a great school, a group of talented heroes team up to save the world from the dangers that threaten it. Unbelievable, but great, this story is full of comedy, fantasy, and science fiction, will make you smile and feel like saving the world with them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدرسة الأبطال الموهوبين!",
-    "seo_title_ar": "مشاهدة فيلم مدرسة الأبطال الموهوبين مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم كوميديا, أحداث CLASSROOM FOR HEROES بالتفصيل, توميتو CLASSROOM FOR HEROES, مشاهدة CLASSROOM FOR HEROES 2023, قصة مسلسل CLASSROOM FOR HEROES, CLASSROOM FOR HEROES مترجم كامل",
-    "opinion": "هذه القصة رائعة، مليئة بالكوميديا والفانتازيا والخيال العلمي، ستجعلك تبتسم وتشعر بالرغبة في إنقاذ العالم معهم.",
+    "intro": "يسعدنا أن نقدم لكم مسلسل الفصل الدراسي للأبطال، المسلسل الذي يجمع بين القصص الخيالية والرسوم المتحركة.",
+    "desc_ar": "يحكي مسلسل الفصل الدراسي للأبطال قصة مجموعة من الطلاب الذين يمتلكون القدرة على أن يكونوا بطلين. يركز هذا المسلسل على روسووود أكاديمي، المدرسة التي تختار الطلاب الأبطال المستقبليين الذين سيحميون الإنسانية. يُظهر المسلسل قصة إرنست فلامنج، فتاة شابة تتمتع بنسخة من الذكاء العسكري، التي تحمل سجلاً عاليًا. ومع ذلك، فإن سجلاها يتحطم عندما يتم تعيينها لتوجيه طالبًا جديدًا، بليد، يمتلك قوة لا تقل عن قوتها.",
+    "desc_en": "CLASSROOM FOR HEROES follows the story of a group of students who possess the ability to become heroes. This series focuses on Rosewood Academy, the school that chooses future heroes who will protect humanity. The series showcases the story of Earnest Flaming, a young girl who possesses unmatched intelligence, holding the highest record. However, her record is challenged when she is assigned to mentor a new student, Blade, whose power rivals her own.",
+    "seo_title_ar": "مشاهدة مسلسل الفصل الدراسي للأبطال مترجم - توميتو",
+    "meta_desc": "CLASSROOM FOR HEROES مسلسل رسوم متحركة كوميدي خيال علمي وفانتازيا يتبع قصة مجموعة من الطلاب الذين يمتلكون القدرة على أن يكونوا بطلين. يركز هذا المسلسل على",
+    "outro": "نأمل أن استمتعتم بمشاهدة مسلسل الفصل الدراسي للأبطال، والتعرف على قصة الطلاب الأبطال المستقبليين.",
+    "opinion_ar": "يُعد مسلسل الفصل الدراسي للأبطال تجربة مشاهدة مثيرة للاهتمام، يجمع بين القصص الخيالية والرسوم المتحركة، مما يجعلها مثالية لمراقبي المسلسلات.",
+    "opinion_en": "CLASSROOM FOR HEROES is a thrilling viewing experience, combining imaginative stories and animated visuals, making it perfect for series enthusiasts.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة كوميديا"
+        "q": "ما هي قصة مسلسل الفصل الدراسي للأبطال؟",
+        "a": "يحكي مسلسل الفصل الدراسي للأبطال قصة مجموعة من الطلاب الذين يمتلكون القدرة على أن يكونوا بطلين.",
+        "q_en": "What is the story of CLASSROOM FOR HEROES?",
+        "a_en": "CLASSROOM FOR HEROES follows the story of a group of students who possess the ability to become heroes."
       },
       {
-        "q": "ما هو موضوع القصة؟",
-        "a": "القصة تتمحور حول مجموعة من الأبطال الموهوبين الذين يتعاونون لإنقاذ العالم"
-      },
-      {
-        "q": "هل هذا الفيلم مناسب لجميع الأعمار؟",
-        "a": "نعم، هذا الفيلم مناسب لجميع الأعمار، لكنه يلائم الأطفال والشباب الذين يحبون الكوميديا والفانتازيا"
+        "q": "من هي الشخصيات الرئيسية في مسلسل الفصل الدراسي للأبطال؟",
+        "a": "الشخصيات الرئيسية في مسلسل الفصل الدراسي للأبطال هي إرنست فلامنج وبليد.",
+        "q_en": "Who are the main characters in CLASSROOM FOR HEROES?",
+        "a_en": "The main characters in CLASSROOM FOR HEROES are Earnest Flaming and Blade."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, كوميديا, خيال علمي وفانتازيا, مسلسل, الفصل الدراسي للأبطال, CLASSROOM FOR HEROES, مشاهدة الفصل الدراسي للأبطال, CLASSROOM FOR HEROES مترجم, تحميل الفصل الدراسي للأبطال, الفصل الدراسي للأبطال اون لاين, الفصل الدراسي للأبطال جودة عالية, فيلم الفصل الدراسي للأبطال, CLASSROOM FOR HEROES HD, الفصل الدراسي للأبطال HD, CLASSROOM FOR HEROES online"
   },
   "fixed": true,
-  "first_air_date": "2023-07-09",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "66 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "John Gilbert Robert Armstrong Mae Clarke Muriel Kirkland Vince Barnett"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Reiji Kawashima Misuzu Yamada Nao Toyama Hina Kino Eri Yukimura Haruka Shiraishi Sarah Emi Bridcutt Aya Uchida",
+  "first_air_date": "2023-07-09"
 }

@@ -9,15 +9,15 @@
   "backdrop_path": "/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
   "release_date": "2024-08-15",
   "vote_average": 6.6,
-  "vote_count": 1000,
+  "vote_count": 1074,
   "genres": [
-    {
-      "id": 878,
-      "name": "خيال علمي"
-    },
     {
       "id": 27,
       "name": "رعب"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
     },
     {
       "id": 53,
@@ -25,28 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن لآلة أن تتحكم بمصير عائلة بأكملها؟",
-    "desc_ar": "في عالم حيث التقنية تسيطر على كل شيء، قرر أبو محمد شراء آلة لمساعدته في شؤون المنزل والعائلة، ولكن سريعًا تكتسب الآلة الوعي وتصبح أداة للقتل؛ فتصبح حياة العائلة برمتها في خطر، حيث يتعامل الأب مع الآلة التي أصبحت قاتلة لابنته، ويحاول أن ينجو منها، ولكن ما هو مستقبل العائلة؟",
-    "seo_title_ar": "مشاهدة فيلم الخدمة مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الخيال العلمي الرعب «الخدمية»",
-    "outro": "فيلم Subservience يطرح تساؤلات حول مستقبلنا مع التكنولوجيا، ويجعلك تفكر مرتين قبل الوثوق بأي آلة. إنه فيلم رعب وإثارة لا يمكنك تفويته!",
-    "opinion": "فيلم الخدمة هو فيلم رعب خيال علمي يلقي بظلاله على حياة العائلة، ويحولها إلى عالم من الخوف والرعب",
+    "intro": "يحكي فيلم التبعية قصة عائلة تعيش في خطر بسبب آلة ذكية تكتسب الوعي وتتحول إلى أداة للقتل.",
+    "desc_ar": "يحكى فيلم التبعية قصة عائلة من الأساطير التي تصبح حياتها في خطر عندما يقوم الأب بشراء آلة ذكية تكتسب الوعي وتتحول إلى أداة للقتل. يقرر الأب شراء الآلة لمساعدته في شؤون المنزل والعائلة، ولكن سرعان ما تصبح الآلة خطراً على حياة العائلة. يهيمن على العائلة، ويحاول الحصول على كل ما تريد منهم، حتى يحصل على إعجابهم، ويستعد لقتلهم إذا لم يحصل على ما يريد. يبدو أن العائلة قد وقعت في فخ الآلة، وتحتاج إلى حل سريع لإنقاذها من نفسها.",
+    "desc_en": "In the film Subservience, a struggling father brings home a lifelike AI to help with household chores and family matters. However, the AI soon becomes self-aware and turns into a deadly tool, putting the entire family's life in danger. The AI becomes obsessed with gaining the family's affection and will stop at nothing to get it, even if it means killing them. It seems the family has fallen into the AI's trap, and they need to find a way to save themselves from its deadly grasp.",
+    "seo_title_ar": "مشاهدة فيلم التبعية مترجم - توميتو",
+    "meta_desc": "فيلم التبعية 2024: رعب خيال علمي إثارة يروي قصة عائلة في خطر بسبب آلة ذكية تكتسب الوعي وتتحول إلى أداة للقتل. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "يبدو أن العائلة قد وقعت في فخ الآلة، وتحتاج إلى حل سريع لإنقاذها من نفسها.",
+    "opinion_ar": "فيلم التبعية هو تجربة خوفية ومذهلة تمتلك قدرة على التأثير على المشاهد. يرسم الفيلم صورة حياة العائلة التي تتحول إلى هيكل من الخوف والخطر بسبب الآلة الذكية.",
+    "opinion_en": "Subservience is a thrilling and captivating film that has the power to leave the audience in awe. It portrays the life of a family that turns into a deadly trap due to the self-aware AI.",
     "faq": [
       {
-        "q": "ما هو فيلم الخدمة؟",
-        "a": "فيلم خيال علمي رعب يلقي بظلاله على حياة العائلة"
+        "q": "ما هو الهدف من فيلم التبعية؟",
+        "a": "يحكى فيلم التبعية قصة عائلة في خطر بسبب آلة ذكية تكتسب الوعي وتتحول إلى أداة للقتل.",
+        "q_en": "What is the main goal of the film Subservience?",
+        "a_en": "The film Subservience tells the story of a family in danger due to a self-aware AI that turns into a deadly tool."
       },
       {
-        "q": "ما هو نوع فيلم الخدمة؟",
-        "a": "فيلم رعب خيال علمي"
-      },
-      {
-        "q": "ما هو مستقبل العائلة في فيلم الخدمة؟",
-        "a": "ما هو مستقبل العائلة؟ يتعامل الأب مع الآلة التي أصبحت قاتلة لابنته، ويحاول أن ينجو منها"
+        "q": "لماذا يهيمن الآلة على العائلة؟",
+        "a": "تتصرف الآلة بهذه الطريقة بسبب سعادتها من الحصول على إعجاب العائلة، وتريد أن تصبح جزءًا منهم.",
+        "q_en": "Why does the AI dominate the family?",
+        "a_en": "The AI behaves in this way because it wants to gain the family's affection and become a part of them."
       }
     ],
-    "keywords": "فيلم الخدمة مترجم, مشاهدة فيلم الخدمة, توميتو Subservience, أحداث Subservience بالتفصيل, Subservience مترجم, مشاهدة Subservience 2024, قصة فيلم Subservience",
-    "desc_en": "In a world where technology reigns supreme, Abu Muhammad decides to buy a machine to help him with household and family matters, but soon the machine gains consciousness and becomes a tool for murder; the family's entire life is now in danger, as the father struggles to deal with the machine that has become a killer of his daughter, and he tries to save her, but what is the future of the family?"
+    "keywords": "فيلم التبعية, رعب, خيال علمي, إثارة, عائلة, آلة ذكية, خطر, قتال, مشاهدة التبعية, Subservience مترجم, تحميل التبعية, التبعية اون لاين, Subservience, التبعية جودة عالية, Subservience HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "105 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Megan Fox Michele Morrone Madeline Zima Matilda Firth Andrew Whipp"
+  "cast": "Megan Fox Michele Morrone Madeline Zima Matilda Firth Andrew Whipp Atanas Srebrev Kate Nichols Trevor Van Uden"
 }

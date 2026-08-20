@@ -4,58 +4,57 @@
   "title_ar": "ALF",
   "title_en": "ALF",
   "slug": "4658-alf",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة مسلسل كوميديا وخيال علمي وفانتازيا ياباني، حيث يتحول مسلسل الفضاء إلى مسلسل عائلي. يتعين على العائلة التكيف مع وجود الفقاريات الأجنبية الغريبة في منزلهم. يبدو أن الفقاريات الأجنبية تفتقر إلى العقلية الإنسانية، ويرى أنهم يتعاملون مع العالم بطريقة مختلفة تمامًا.",
   "poster_path": "/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
   "backdrop_path": "/ebLHsB8wsBnZnNa9UhGAqYeo33B.jpg",
   "release_date": "1986-09-22",
-  "vote_average": 7.6,
-  "vote_count": 1211,
+  "vote_average": 7.7,
+  "vote_count": 1254,
   "genres": [
-    {
-      "id": 10751,
-      "name": "عائلي"
-    },
     {
       "id": 35,
       "name": "كوميديا"
     },
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
     }
   ],
   "ai_content": {
-    "intro": "هل سبق لك أن تسللت كلمة سحرية إلى منزلك وتحولت إلى جزء لا يتجزأ من حياتك؟",
-    "desc_ar": "في عالم المستقبل، يأتي الوسيم ALF من كوكب آخر إلى منزل عائلة تانن، حيث يتعامل معهم كأصدقاء، ويحاول أن يفهم ثقافتهم، ويشارك في حياتهم اليومية، ويحاول أن يفسر الأحداث المثيره التي تحدث في حياتهم، ويحاول أن يفسر الأحداث المثيره التي تحدث في حياتهم.",
-    "seo_title_ar": "مشاهدة فيلم ALF مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم المستقبل مع ALF!",
-    "outro": "إذا كنت تبحث عن مسلسل عائلي مليء بالكوميديا والدراما، فALF هو الخيار الأمثل",
-    "opinion": "ALF هو فيلم كوميديا رائعة، يلقي الضوء على حياة عائلة تانن في عالم المستقبل، ويحاول أن يفسر الأحداث المثيره التي تحدث في حياتهم، ويحاول أن يفسر الأحداث المثيره التي تحدث في حياتهم.",
+    "intro": "ينطلق هذا العمل الفني من مفهوم الفضاء، حيث يتعامل مع الحياة اليومية للمجتمع الإنساني بطريقة كوميدية وفانتازية.",
+    "desc_ar": "يحكي هذا العمل قصة مسلسل كوميديا وخيال علمي وفانتازيا ياباني، حيث يتحول مسلسل الفضاء إلى مسلسل عائلي. يتعين على العائلة التكيف مع وجود الفقاريات الأجنبية الغريبة في منزلهم. يبدو أن الفقاريات الأجنبية تفتقر إلى العقلية الإنسانية، ويرى أنهم يتعاملون مع العالم بطريقة مختلفة تمامًا.",
+    "desc_en": "A furry alien wiseguy comes to live with a terran family after crashing into their garage, providing a comedic and fantastical take on the traditional family sitcom. As the extraterrestrial tries to fit in with his new family, he often clashes with them due to his unique perspective on the world.",
+    "seo_title_ar": "مشاهدة مسلسل ألف مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل ألف باللغة العربية، وهو عمل فني روائي يجمع بين الكوميديا والخيال العلمي والفانتازيا. يتعامل المسلسل مع الحياة اليومية للمجتمع الإنساني",
+    "outro": "يعتبر هذا العمل تجربة فريدة من نوعها، حيث يقدم تجربة فريدة من نوعها في مجال الكوميديا والخيال العلمي والفانتازيا.",
+    "opinion_ar": "يعد مسلسل ألف تجربة فريدة من نوعها، حيث يتعامل مع الحياة اليومية للمجتمع الإنساني بطريقة كوميدية وفانتازية. يبدو أن الفقاريات الأجنبية تفتقر إلى العقلية الإنسانية، ويرى أنهم يتعاملون مع العالم بطريقة مختلفة تمامًا.",
+    "opinion_en": "ALF is a unique experience that combines comedy and science fiction elements, providing a fresh take on the traditional family sitcom. The show's portrayal of the alien's perspective on the world is both humorous and thought-provoking.",
     "faq": [
       {
-        "q": "ما هو ALF؟",
-        "a": "ALF هو فيلم كوميديا رائعة يلقي الضوء على حياة عائلة تانن في عالم المستقبل."
+        "q": "ما هو المسلسل؟",
+        "a": "هو مسلسل كوميديا وخيال علمي وفانتازيا ياباني",
+        "q_en": "What is ALF?",
+        "a_en": "It is a Japanese science fiction comedy television series"
       },
       {
-        "q": "ما هو نوع ALF؟",
-        "a": "ALF هو فيلم عائلي، كوميديا، دراما."
-      },
-      {
-        "q": "ما هو أفضل جزء في ALF؟",
-        "a": "أفضل جزء في ALF هو كيف يلقي الضوء على حياة عائلة تانن في عالم المستقبل"
+        "q": "لماذا يلجأ الفقاريات الأجنبية إلى المنزل؟",
+        "a": "لأنهم تعرضوا لصدمة قوية بعد تحطمهم في غرفة الصندوق",
+        "q_en": "Why do the extraterrestrial crash into the garage?",
+        "a_en": "They crash into the garage due to a severe shock"
       }
     ],
-    "keywords": "فيلم ALF مترجم, مشاهدة فيلم ALF, قصة مسلسل ALF, ALF مترجم كامل, توميتو ALF, أحداث ALF بالتفصيل, مشاهدة ALF 1986",
-    "desc_en": "In a future world, the lovable ALF from another planet comes to the Tanner family's home, where he treats them as friends, tries to understand their culture, and shares in their daily life, trying to make sense of the exciting events that happen in their lives."
+    "keywords": "كوميديا, عائلي, خيال علمي وفانتازيا, مسلسل, فيلم, فيلم كوميدي, فيلم عائلي, فيلم خيال علمي وفانتازيا, مشاهدة ألف, ALF مترجم, تحميل ألف, ألف اون لاين, ALF, ألف جودة عالية, فيلم ألف"
   },
   "fixed": true,
-  "first_air_date": "1986-09-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "86 دقيقة",
+  "duration": "23 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Queen Latifah"
+  "cast": "Max Wright Anne Schedeen Andrea Elson Benji Gregory Mihaly 'Michu' Meszaros",
+  "first_air_date": "1986-09-22"
 }

@@ -4,12 +4,12 @@
   "title_ar": "سبايدرمان في بعد العنكبوت",
   "title_en": "Spider-Man: Into the Spider-Verse",
   "slug": "324857-spider-man-into-the-spider-verse",
-  "overview": "مايلز موراليس يحاول موازنة حياته بين كونه طالب في المدرسة الثانوية وكونه سبايدرمان. ومع ذلك، فعندما يستخدم ويلسون فيسك مصادما مغناطيسيا ضخم، يأتي سبايدرمان من بُعد آخر، بيتر باركر، ويصطدم في بعد مايلز.",
+  "overview": "يعيش مايلز موراليس حياة طبيعية كمراهق في نيويورك، إلى أن يتعرض للدغة عنكبوت تمنحه قدرات خارقة وتغير حياته بالكامل. وبينما يحاول مايلز فهم قواه الجديدة والتكيف مع هويته كبطل خارق، يكتشف وجود عوالم موازية يصل منها عدد من نسخ سبايدرمان المختلفة إلى عالمه. يجد مايلز نفسه وسط مهمة لإنقاذ المدينة وإعادة التوازن بين العوالم، ويتعلم من أبطال العنكبوت الآخرين كيفية التحكم في قدراته وتحمل مسؤولية أن يصبح سبايدرمان.",
   "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
   "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
   "release_date": "2018-12-06",
   "vote_average": 8.4,
-  "vote_count": 17205,
+  "vote_count": 17667,
   "genres": [
     {
       "id": 16,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "مايلز موراليس، طالب في المدرسة الثانوية، يحاول موازنة حياته بين كونه سبايدرمان والشخص العادي. ولكن، عندما يأتي سبايدرمان من بُعد آخر، بيتر باركر، يصطدم في بعد مايلز في مغامرة مليئة بالمرح والخطر.",
-    "desc_en": "Miles Morales, a high school student, tries to balance his life between being a superhero and a normal person. However, when Spider-Man from another dimension, Peter Parker, arrives, he collides with Miles in an adventure filled with excitement and danger.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سبايدرمان: في بعد العنكبوت!",
-    "seo_title_ar": "مشاهدة فيلم سبايدرمان: في بعد العنكبوت مترجم اون لاين - توميتو",
-    "keywords": "Spider-Man: Into the Spider-Verse, فيلم رسوم متحركة, مشاهدة فيلم حركة, سبايدرمان في بعد العنكبوت مترجم, فيلم مغامرة, أحداث سبايدرمان في بعد العنكبوت بالتفصيل, قصة فيلم سبايدرمان في بعد العنكبوت, توميتو سبايدرمان في بعد العنكبوت, مشاهدة سبايدرمان في بعد العنكبوت 2018",
-    "opinion": "هذا الفيلم هو المaverick في عالم رسوم متحركة، حيث يجمع بين الخيال العلمي والحركة والمرح. سبايدرمان: في بعد العنكبوت هو فيلم رائع يملأ القلب بالحماس والرغبة",
+    "intro": "يحكي هذا العمل قصة مراهق يعيش في نيويورك، حتى يحصل على قدرات خارقة بعد تعرضه للدغة عنكبوت.",
+    "desc_ar": "يحكي هذا العمل قصة مايلز موراليس، وهو مراهق يعيش حياة طبيعية في نيويورك، حتى يحصل على قدرات خارقة بعد تعرضه للدغة عنكبوت، مما يتغير حياته بشكل جذري. ويتعلم مايلز من أبطال العنكبوت الآخرين كيفية التحكم في قدراته وتحمل مسؤولية أن يصبح سبايدرمان، بينما يحاول إنقاذ المدينة وإعادة التوازن بين العوالم. ويجد مايلز نفسه وسط مهمة فريدة تختلف تمامًا عن تجربته السابقة، مما يجعله يتعلم من تجربته وتطوير قدراته. وتعد هذه القصة مثالًا رائعًا على كيفية التحول من مراهق عادي إلى بطل خارق، مع كل التحديات والمخاطر التي يتعرض لها.",
+    "desc_en": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson 'Kingpin' Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "seo_title_ar": "مشاهدة فيلم سبايدرمان في بعد العنكبوت مترجم - توميتو",
+    "meta_desc": "ستمتع بمشاهدة فيلم سبايدرمان في بعد العنكبوت مترجم بالكامل، حيث يتحول مراهق إلى بطل خارق ويحارب الأخطار في نيويورك، مع إعطاء ما هو جديد ومثير من خلال عالم",
+    "outro": "وينتهي الفيلم بتحقيق مايلز موراليس لهدفته بأن يصبح سبايدرمان، مع إظهار قدرته على التحكم في قدراته وتحمل مسؤولية أن يصبح بطل خارق.",
+    "opinion_ar": "حسناً كان فيلم سبايدرمان في بعد العنكبوت من حيث الإخراج والتصميم، لكنه كان أيضًا من حيث التأثيرات العاطفية التي كان يخلقها. كانت قصة مايلز موراليس مثيرة للاهتمام، وتم تعزيزها بفريق العمل الخارق للغاية.",
+    "opinion_en": "Spider-Man: Into the Spider-Verse was a visually stunning and emotionally resonant film that told a compelling story of self-discovery and heroism. Miles Morales' journey was engaging and inspiring, and the talented voice cast brought the characters to life.",
     "faq": [
       {
-        "q": "ما هو سبايدرمان: في بعد العنكبوت؟",
-        "a": "هو فيلم رسوم متحركة يروي قصة سبايدرمان من بُعد آخر"
+        "q": "ما هو اسم الفيلم؟",
+        "a": "سبايدرمان في بعد العنكبوت",
+        "q_en": "What is the name of the film?",
+        "a_en": "Spider-Man: Into the Spider-Verse"
       },
       {
-        "q": "ما هو نوع سبايدرمان: في بعد العنكبوت؟",
-        "a": "هو فيلم رسوم متحركة، حركة، مغامرة، خيال علمي"
+        "q": "من يؤدي صوت مايلز موراليس؟",
+        "a": "شيلدون بنيكولز",
+        "q_en": "Who voices Miles Morales?",
+        "a_en": "Shameik Moore"
       },
       {
-        "q": "ما هو أفضل ما في سبايدرمان: في بعد العنكبوت؟",
-        "a": "هو فيلم رائع يملأ القلب بالحماس والرغبة"
+        "q": "ما هو نوع الفيلم؟",
+        "a": "رسوم متحركة",
+        "q_en": "What type of film is it?",
+        "a_en": "Animated"
       }
-    ]
+    ],
+    "keywords": "سبايدرمان, سبايدرمان في بعد العنكبوت, فيلم, رسوم متحركة, حركة, مغامرة, خيال علمي, مشاهدة سبايدرمان في بعد العنكبوت, Spider-Man: Into Spider-Verse مترجم, تحميل سبايدرمان في بعد العنكبوت, سبايدرمان في بعد العنكبوت اون لاين, Spider-Man: Into Spider-Verse, سبايدرمان في بعد العنكبوت جودة عالية, فيلم سبايدرمان في بعد العنكبوت, Spider-Man: Into Spider-Verse HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "117 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Shameik Moore Jake Johnson Hailee Steinfeld Mahershala Ali Brian Tyree Henry"
+  "cast": "Shameik Moore Jake Johnson Hailee Steinfeld Mahershala Ali Brian Tyree Henry Lily Tomlin Luna Lauren Vélez Zoë Kravitz"
 }

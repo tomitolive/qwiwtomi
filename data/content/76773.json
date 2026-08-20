@@ -4,14 +4,12 @@
   "title_ar": "Station 19",
   "title_en": "Station 19",
   "slug": "76773-station-19",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة رجال ونساء من المحاربين في محطة 19 من الشرطة في سياتل، الذين يضعون أرواحهم في خطر على مدار اليوم والليل، ليس فقط أثناء إجراء مهامهم الرسمية، بل أيضًا خارج الخدمة. إنهم مثل عائلة، حرفيًا وعاطفيًا، ويخاطرون بحياتهم على نفسها لإنقاذ حياة الآخرين. يُظهر هذا العمل قوة التضامن بين رجال الشرطة المحليين، والتفاني في الحفاظ على سلامة المجتمع، وعملهم الجبار في مواجهة الأزمة. يُظهر هذا العمل أيضًا قوة العلاقات بين الأفراد، وتعاونهم في مواجهة التحديات، وجمال الصدق والود في العمل معًا.",
   "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
   "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
   "release_date": "2018-03-22",
   "vote_average": 8.2,
-  "vote_count": 1545,
+  "vote_count": 1556,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة سياتل، مجموعة من رجال الإطفاء يخوضون معركة الحياة والوفاة في كل لحظة، بينما يتعاملون مع الأزمات الشخصية والاجتماعية، ويحاولون حفظ الأرواح والمنازل. ستعرفوا قصة هذه الفرقة الرائعة من رجال الإطفاء الذين يخوضون معركة الحياة كل يوم.",
-    "desc_en": "In the city of Seattle, a group of firefighters face life and death in every moment, while dealing with personal and social crises, and trying to save lives and homes. You will know the story of this great team of firefighters who face life every day.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سياتل!",
-    "seo_title_ar": "مشاهدة فيلم ستايشن 19 مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما, مشاهدة فيلم حركة ومغامرة, توميتو Station 19, قصة مسلسل Station 19, مشاهدة Station 19 2018, Station 19 مترجم كامل, أحداث Station 19 بالتفصيل",
-    "opinion": "هذه السلسلة هي واحدة من أفضل السلاسل الدرامية التي شاهدناها، حيث تجمع بين الدراما والحركة والاثارة في كل لحظة، وستعرفوا قصة هذه الفرقة الرائعة من رجال الإطفاء الذين يخوضون معركة الحياة كل يوم.",
+    "intro": "يحكي هذا العمل قصة مجموعة من المحاربين في محطة 19 من الشرطة في سياتل، الذين يخاطرون بحياتهم لإنقاذ حياة الآخرين.",
+    "desc_ar": "يحكي هذا العمل قصة رجال ونساء من المحاربين في محطة 19 من الشرطة في سياتل، الذين يضعون أرواحهم في خطر على مدار اليوم والليل، ليس فقط أثناء إجراء مهامهم الرسمية، بل أيضًا خارج الخدمة. إنهم مثل عائلة، حرفيًا وعاطفيًا، ويخاطرون بحياتهم على نفسها لإنقاذ حياة الآخرين. يُظهر هذا العمل قوة التضامن بين رجال الشرطة المحليين، والتفاني في الحفاظ على سلامة المجتمع، وعملهم الجبار في مواجهة الأزمة. يُظهر هذا العمل أيضًا قوة العلاقات بين الأفراد، وتعاونهم في مواجهة التحديات، وجمال الصدق والود في العمل معًا.",
+    "desc_en": "A group of heroic firefighters at Seattle Fire Station 19from captain to newest recruitrisk their lives and hearts both in the line of duty and off the clock. These brave men and women are like family, literally and figuratively, and together they put their own lives in jeopardy as first responders to save the lives of others.",
+    "seo_title_ar": "مشاهدة مسلسل المحطة 19 مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل Station 19 مترجم - توميتو - مجموعة من المحاربين في محطة 19 من الشرطة في سياتل، يخاطرون بحياتهم لإنقاذ حياة الآخرين، ويظهرون قوة التضامن والتعا",
+    "outro": "هذا العمل يُظهر قوة التضامن والتعاون بين الأفراد، ويخاطرون بحياتهم لإنقاذ حياة الآخرين، ويظهر جمال الصدق والود في العمل معًا.",
+    "opinion_ar": "هذا العمل يُظهر قوة التضامن والتعاون بين الأفراد، ويخاطرون بحياتهم لإنقاذ حياة الآخرين. يُظهر هذا العمل أيضًا جمال الصدق والود في العمل معًا.",
+    "opinion_en": "This show showcases the power of teamwork and camaraderie among the firefighters, and their willingness to risk their lives to save others. It also highlights the beauty of honesty and loyalty in working together.",
     "faq": [
       {
-        "q": "ما هو نوع السلسلة؟",
-        "a": "هي سلسلة دراما حركة ومغامرة"
+        "q": "ما هو نوع هذا العمل؟",
+        "a": "هذا العمل هو مسلسل درامي",
+        "q_en": "What type of show is this?",
+        "a_en": "This is a dramatic television series"
       },
       {
-        "q": "ما هو المكان الذي تتم الأحداث فيه؟",
-        "a": "مدينة سياتل"
-      },
-      {
-        "q": "ما هو نوع الشخصيات الرئيسية؟",
-        "a": "رجال الإطفاء"
+        "q": "متى صدر هذا العمل؟",
+        "a": "صدر هذا العمل في عام 2018",
+        "q_en": "When was this show released?",
+        "a_en": "This show was released in 2018"
       }
-    ]
+    ],
+    "keywords": "المحطة 19, Station 19, دراما, حركة ومغامرة, مسلسل, سياتل, رجال الشرطة, النساء, التضامن, التعاون, الصدق, الود, مشاهدة المحطة 19, Station 19 مترجم, تحميل المحطة 19"
   },
   "fixed": true,
-  "first_air_date": "2018-03-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jaina Lee Ortiz Jason George Boris Kodjoe Barrett Doss Jay Hayden Danielle Savre Stefania Spampinato Carlos Miranda",
+  "first_air_date": "2018-03-22"
 }
