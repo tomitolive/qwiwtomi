@@ -6983,8 +6983,80 @@
       "file": "88051.json",
       "title": "إلى الوحوش التي كانت ذات يوم آلهة",
       "fixed_at": "2026-08-20T16:07:48.436099"
+    },
+    {
+      "tmdb_id": "1159559",
+      "file": "1159559.json",
+      "title": "صرخة ٧",
+      "fixed_at": "2026-08-20T16:25:06.648940"
+    },
+    {
+      "tmdb_id": "37101",
+      "file": "37101.json",
+      "title": "STAR DRIVER",
+      "fixed_at": "2026-08-20T16:25:36.317340"
+    },
+    {
+      "tmdb_id": "106227",
+      "file": "106227.json",
+      "title": "Cross Fire",
+      "fixed_at": "2026-08-20T16:25:58.222544"
+    },
+    {
+      "tmdb_id": "238713",
+      "file": "238713.json",
+      "title": "Spy",
+      "fixed_at": "2026-08-20T16:26:37.754238"
+    },
+    {
+      "tmdb_id": "259231",
+      "file": "259231.json",
+      "title": "Slay the Gods",
+      "fixed_at": "2026-08-20T16:26:51.029101"
+    },
+    {
+      "tmdb_id": "65430",
+      "file": "65430.json",
+      "title": "Baron Noir",
+      "fixed_at": "2026-08-20T16:27:03.879615"
+    },
+    {
+      "tmdb_id": "1280738",
+      "file": "1280738.json",
+      "title": "The Furious",
+      "fixed_at": "2026-08-20T16:27:16.228817"
+    },
+    {
+      "tmdb_id": "653346",
+      "file": "653346.json",
+      "title": "مملكة كوكب القرود",
+      "fixed_at": "2026-08-20T16:27:29.257907"
+    },
+    {
+      "tmdb_id": "1422562",
+      "file": "1422562.json",
+      "title": "The Moment",
+      "fixed_at": "2026-08-20T16:27:46.599243"
+    },
+    {
+      "tmdb_id": "20464",
+      "file": "20464.json",
+      "title": "Healing Hands",
+      "fixed_at": "2026-08-20T16:28:00.364109"
+    },
+    {
+      "tmdb_id": "1390300",
+      "file": "1390300.json",
+      "title": "Over Your Dead Body",
+      "fixed_at": "2026-08-20T16:28:09.273024"
+    },
+    {
+      "tmdb_id": "66398",
+      "file": "66398.json",
+      "title": "Diomedes, el Cacique de La Junta",
+      "fixed_at": "2026-08-20T16:28:25.267305"
     }
   ],
-  "last_updated": "2026-08-20T16:07:50.438725",
-  "total_fixed": 1164
+  "last_updated": "2026-08-20T16:28:27.270088",
+  "total_fixed": 1176
 }

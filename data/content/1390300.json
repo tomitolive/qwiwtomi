@@ -1,25 +1,23 @@
 {
   "id": 1390300,
-  "title": "Over Your Dead Body",
-  "title_ar": "Over Your Dead Body",
+  "title": "على جثتك",
+  "title_ar": "على جثتك",
   "title_en": "Over Your Dead Body",
   "slug": "1390300-over-your-dead-body",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "",
+  "overview": "يتوجه زوجان مضطربان في علاقتهما إلى كوخ منعزل من أجل \"إحياء علاقتهما\"، لكن لكلٍ منهما نوايا خفية لقتل الآخر.",
   "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
   "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-  "release_date": "2026-04-24",
-  "vote_average": 7.1,
-  "vote_count": 14,
+  "release_date": "2026-03-14",
+  "vote_average": 6.4,
+  "vote_count": 538,
   "genres": [
-    {
-      "id": 35,
-      "name": "كوميديا"
-    },
     {
       "id": 28,
       "name": "حركة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
     },
     {
       "id": 53,
@@ -27,32 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المسرح، يلعب الممثلون دوراً كبيراً في الحياة، ولكن عندما يمرض الممثل الرئيسي، يصير كل شيء متشابهاً. يلعب الممثلون دوراً كبيراً في الحياة، ولكن عندما يمرض الممثل الرئيسي، يصير كل شيء متشابهاً.",
-    "desc_en": "In the world of theater, actors play a big role in life, but when the main actor falls ill, everything becomes chaotic. Actors play a big role in life, but when the main actor falls ill, everything becomes chaotic.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الكوميديا والحركة والاثارة \"مشاهدة فيلم ميت على قبرك\" - توميتو",
-    "seo_title_ar": "مشاهدة فيلم ميت على قبرك مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم كوميديا, قصة فيلم Over Your Dead Body, توميتو Over Your Dead Body, مشاهدة Over Your Dead Body 2026, Over Your Dead Body مترجم, أحداث Over Your Dead Body بالتفصيل",
-    "opinion": "هذا الفيلم هو مزيج من الكوميديا والحركة والاثارة، وهو يلقي بظلال من الموت على المسرح، مما يخلق جو من التوتر والرعب.",
+    "intro": "يحكي فيلم \"على جثتك\" قصة زوجين مضطربين في علاقتهما، يقرران الرجوع إلى كوخ منعزل في محاولة لتعزيز الرومانسية بينهما.",
+    "desc_ar": "يحكي فيلم \"على جثتك\" قصة زوجين مضطربين في علاقتهما، يقرران الرجوع إلى كوخ منعزل في محاولة لتعزيز الرومانسية بينهما، لكن ما يبدو وكأنه رحلة لإحياء الروح الزوجية يتحول إلى رحلة قتل من خفية. يتجول الزوجان في المنزل البعيد، لكن كل واحد منهما يحتفظ بنوايا سرية للقتل الآخر، مما يضعهم في مواجهة حقيقية ومثيرة.",
+    "desc_en": "A dysfunctional couple head to a remote cabin to 'reconnect', but each has secret intentions to kill the other. As they wander through the isolated home, their plans for murder begin to unfold, putting them in a real and thrilling confrontation.",
+    "seo_title_ar": "مشاهدة فيلم على جثتك 2026 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم على جثتك 2026 - فيلم حركة كوميدي إثارة عن زوجين مضطربين يتعرضان للخطر في كوخ منعزل، مع استمرار مواقفهم المثيرة. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "في نهاية الأمر، يتحول فيلم \"على جثتك\" إلى تجربة مثيرة ومثيرة للغاية، يحتوي على دراما وحركة وملحمة رومانسية في نفس الوقت.",
+    "opinion_ar": "يعتبر فيلم \"على جثتك\" تجربة مثيرة ومثيرة للغاية، يحتوي على دراما وحركة وملحمة رومانسية في نفس الوقت.",
+    "opinion_en": "Over Your Dead Body is a thrilling experience, combining drama, action, and romantic melodrama in one exciting film.",
     "faq": [
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم كوميديا وحركة واثارة"
+        "q": "ما هو نوع فيلم \"على جثتك\"؟",
+        "a": "يحمل فيلم \"على جثتك\" نوعين من الأفلام، وهو فيلم حركة كوميدي إثارة.",
+        "q_en": "What type of film is Over Your Dead Body?",
+        "a_en": "Over Your Dead Body is an action comedy thriller film."
       },
       {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "يحكي قصة الممثل الرئيسي الذي يمرض ويخلق جو من التوتر والرعب"
-      },
-      {
-        "q": "ما هو نوع المسرح في الفيلم؟",
-        "a": "يحكي قصة المسرح والتمثيل والمرض"
+        "q": "متى صدر فيلم \"على جثتك\"؟",
+        "a": "صدر فيلم \"على جثتك\" في عام 2026.",
+        "q_en": "When was Over Your Dead Body released?",
+        "a_en": "Over Your Dead Body was released in 2026."
       }
-    ]
+    ],
+    "keywords": "فيلم على جثتك, حركة, كوميديا, إثارة, كوخ, زوجان, قتل, سرية, مواجهة, دراما, ملحمة, رومانسية, مشاهدة على جثتك, Over Your Dead Body مترجم, تحميل على جثتك"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "106 دقيقة",
+  "duration": "105 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Samara Weaving Jason Segel Paul Guilfoyle Timothy Olyphant Keith Jardine"
+  "cast": "Jason Segel Samara Weaving Timothy Olyphant Juliette Lewis Keith Jardine Paul Guilfoyle Jake Curran Nikolai Kinski"
 }

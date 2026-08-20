@@ -1,65 +1,51 @@
 {
   "id": 259231,
-  "title": "Slay the Gods",
-  "title_ar": "Slay the Gods",
-  "title_en": "Slay the Gods",
-  "slug": "259231-slay-the-gods",
-  "overview": "استمتع بمشاهدة مسلسل اذبح الآلهة مترجم بجودة عالية.",
+  "title": "Picture of Light",
+  "title_ar": "Picture of Light",
+  "title_en": "Picture of Light",
+  "slug": "259231-picture-of-light",
+  "overview": "يحكي فيلم صورة النور قصة رحلة استكشافية إلى تشيرشل في مانيتوبا، حيث حاول الفريق التقاط صورة لضوء الشمال في إطلالة فنية لا مثيل لها. وفي هذا المشروع، كان الفريق يهدف إلى التقاط لحظة فنية نادرة، حيث يلتقي ضوء الشمال مع سماء مسطحة، وتعكس هذه اللحظة فكرة الجمال والفن في أبعادهم الأصيلة. ومع ذلك، يُظهر الفيلم أيضًا التحديات والصعوبات التي واجهها الفريق خلال رحلتهم، من عدم توافر الشروط المناسبة للتصوير إلى الصعوبات التي تسببت في تأخيرات في مهمتهم. في النهاية، نجح الفريق في التقاط لحظة فنية مميزة، حيث يظهر ضوء الشمال في جميع قواطعه، مما يجعل الفيلم مرئيًا للعيان.",
   "poster_path": "/n4lEQkgCDuOP3TNvIjkzn5QjRp.jpg",
-  "backdrop_path": "/5CLySfrEBC6av0wAQw67lRr5Puy.jpg",
-  "release_date": "2024-07-31",
-  "vote_average": 8.3,
+  "backdrop_path": "/gfN1Znuxv0827bZqU2H5EBKP0gk.jpg",
+  "release_date": "1994-06-10",
+  "vote_average": 6.8,
   "vote_count": 16,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Slay the Gods (2024) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "استمتع بمشاهدة مسلسل اذبح الآلهة مترجم بجودة عالية.",
-    "desc_en": "\"If the dark night comes to an end, I will stand in front of tens of thousands of people, slashing my sword into the abyss, staining the sky with blood!\" Have you ever thought that monsters from ancient myths lurk under the bright neon cities? Have you ever thought that above the moon hanging high above the heads of the world, there are gods watching over the world? Have you ever thought that in the crowded modern cities, there are extraordinary people who walk the world in place of gods?",
-    "seo_title_ar": "مشاهدة مسلسل Slay Gods مترجم - توميتو",
-    "meta_desc": "مشاهدة اذبح الآلهة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Slay the Gods الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
-    "opinion_en": "A stunning  worth watching and exploring.",
+    "intro": "يحكي فيلم صورة النور قصة رحلة استكشافية إلى تشيرشل في مانيتوبا، حيث حاول الفريق التقاط صورة لضوء الشمال في إطلالة فنية لا مثيل لها.",
+    "desc_ar": "يحكي فيلم صورة النور قصة رحلة استكشافية إلى تشيرشل في مانيتوبا، حيث حاول الفريق التقاط صورة لضوء الشمال في إطلالة فنية لا مثيل لها. وفي هذا المشروع، كان الفريق يهدف إلى التقاط لحظة فنية نادرة، حيث يلتقي ضوء الشمال مع سماء مسطحة، وتعكس هذه اللحظة فكرة الجمال والفن في أبعادهم الأصيلة. ومع ذلك، يُظهر الفيلم أيضًا التحديات والصعوبات التي واجهها الفريق خلال رحلتهم، من عدم توافر الشروط المناسبة للتصوير إلى الصعوبات التي تسببت في تأخيرات في مهمتهم. في النهاية، نجح الفريق في التقاط لحظة فنية مميزة، حيث يظهر ضوء الشمال في جميع قواطعه، مما يجعل الفيلم مرئيًا للعيان.",
+    "desc_en": "A documentary of an expedition to Churchill, Manitoba to film the Northern Lights. The crew aimed to capture a rare and unique moment where the Northern Lights meet a flat horizon, reflecting the idea of beauty and art in their purest forms. However, the film also shows the challenges and difficulties faced by the crew during their journey, from the lack of suitable conditions for filming to the obstacles that caused delays in their mission. Ultimately, the crew succeeded in capturing a unique moment, where the Northern Lights appear in all their glory, making the film a visual treat.",
+    "seo_title_ar": "مشاهدة فيلم صورة النور مترجم - Picture Light فيلم وثائقي عن رحلة استكشافية إلى تشيرشل في مانيتوبا لتصوير ضوء الشمال.",
+    "meta_desc": "صورة النور فيلم وثائقي عن رحلة استكشافية إلى تشيرشل في مانيتوبا لتصوير ضوء الشمال في إطلالة فنية لا مثيل لها. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "يعد فيلم صورة النور تجربة فنية رائعة، حيث يجمع بين الجمال والفن في لحظة فنية نادرة.",
+    "opinion_ar": "يعد فيلم صورة النور تجربة فنية رائعة، حيث يجمع بين الجمال والفن في لحظة فنية نادرة.",
+    "opinion_en": "Picture of Light is a visually stunning experience, where beauty and art come together in a rare and unique moment.",
     "faq": [
       {
-        "q": "كيف يمكنني مشاهدة مسلسل اذبح الآلهة?",
-        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
-        "q_en": "How can I watch Slay the Gods?",
-        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+        "q": "ما هو فيلم صورة النور؟",
+        "a": "يعد فيلم صورة النور فيلم وثائقي عن رحلة استكشافية إلى تشيرشل في مانيتوبا لتصوير ضوء الشمال.",
+        "q_en": "What is Picture of Light?",
+        "a_en": "Picture of Light is a documentary about an expedition to Churchill, Manitoba to film the Northern Lights."
       },
       {
-        "q": "ما هو تصنيف مسلسل اذبح الآلهة?",
-        "a": "يندرج العمل تحت تصنيف رسوم متحركة, خيال علمي وفانتازيا.",
-        "q_en": "What is the genre of Slay the Gods?",
-        "a_en": "Answer about Slay the Gods"
-      },
-      {
-        "q": "ما هي قصة مسلسل اذبح الآلهة?",
-        "a": "إجابة عن اذبح الآلهة",
-        "q_en": "What is the story of Slay the Gods?",
-        "a_en": "\"If the dark night comes to an end, I will stand in front of tens of thousands of people, slashing my sword into the abyss, staining the sky with blood!\" Have you ever thought that monsters from ancie..."
+        "q": "ما هي قصة الفيلم؟",
+        "a": "يحكي الفيلم قصة رحلة استكشافية إلى تشيرشل في مانيتوبا، حيث حاول الفريق التقاط صورة لضوء الشمال في إطلالة فنية لا مثيل لها.",
+        "q_en": "What is the story of the film?",
+        "a_en": "The film tells the story of an expedition to Churchill, Manitoba, where the crew aimed to capture a rare and unique moment where the Northern Lights meet a flat horizon."
       }
     ],
-    "keywords": "اذبح الآلهة مترجم, Slay Gods مترجم, مشاهدة اذبح الآلهة, Slay Gods"
+    "keywords": "صورة النور, فيلم وثائقي, رحلة استكشافية, تشيرشل, مانيتوبا, ضوء الشمال, جمال, فن, لحظة فنية نادرة, مشاهدة صورة النور, Picture Light مترجم, تحميل صورة النور, صورة النور اون لاين, Picture Light, صورة النور جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "25 دقيقة",
+  "duration": "83 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "Ma Zhengyang Xia Michen Liu Qianhan Duan Yixuan Liangwei Hu Sanshi Yuan Mingzhe Wang Xiaoqian",
-  "first_air_date": "2024-07-31",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "كندا",
+  "cast": "Brian Ladoon"
 }
