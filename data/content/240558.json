@@ -4,14 +4,12 @@
   "title_ar": "King Conqueror",
   "title_en": "King Conqueror",
   "slug": "240558-king-conqueror",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"الملك الفاتح\" قصة صراع فريد وقع في عام 1066، الذي من شأنه أن يحدد مستقبل دولة وقارة لمدة ألف عام. يلتقي هارولد من ويستكس ووليام من نورماندي في معركة هاستينغز، وهما رجلان مصممون للقاء في هذا الميدان. كانا معاً في حلف قبل ذلك، لكن الظروف وشهواتهم الشخصية توجها إلى حرب لسيطرة على العرش البريطاني.",
   "poster_path": "/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
   "backdrop_path": "/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
   "release_date": "2025-08-24",
-  "vote_average": 7,
-  "vote_count": 61,
+  "vote_average": 7.2,
+  "vote_count": 73,
   "genres": [
     {
       "id": 18,
@@ -20,36 +18,43 @@
     {
       "id": 10759,
       "name": "حركة ومغامرة"
+    },
+    {
+      "id": 10768,
+      "name": "حرب وسياسة"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الحرب والقهر، يصعد ملك جديد إلى عرش المملكة، لكنه يكتشف أن الملكية ليست كما ظهر، ويقابل معارضين قويين يريدون إسقاطه من عرشه، فيما يتعامل مع مشكلات الشخصية والسياسية، ويحاول أن يثبت نفسه كملك قوي، في مسلسل دراما حركة مغامرة «ملك القائد».",
-    "desc_en": "In a world of war and conquest, a new king ascends to the throne, but he discovers that the monarchy is not as it seems, and he faces powerful opponents who want to overthrow him, as he deals with personal and political challenges, and tries to prove himself as a strong king, in the drama action adventure series 'King Conqueror'.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل دراما حركة مغامرة «ملك القائد»",
-    "seo_title_ar": "مشاهدة فيلم ملك القائد مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم حركة مغامرة, أحداث King Conqueror بالتفصيل, قصة مسلسل King Conqueror, مشاهدة King Conqueror 2025, توميتو King Conqueror, King Conqueror مترجم كامل",
-    "opinion": "من المعتاد أننا نرى ملوك قويين، لكن «ملك القائد» يبرز أن القوة ليست كل شيء، بل هناك مشكلات شخصية وسياسية يجب أن تřeال، في مسلسل دراما حركة مغامرة رائع يجعلك تشعر بالدrama والتشويق.",
+    "intro": "يحكي مسلسل \"الملك الفاتح\" قصة هارولد من ويستكس ووليام من نورماندي في معركة هاستينغز, وهو حدث تاريخي حاسم في عام 1066.",
+    "desc_ar": "يحكي مسلسل \"الملك الفاتح\" قصة صراع فريد وقع في عام 1066، الذي من شأنه أن يحدد مستقبل دولة وقارة لمدة ألف عام. يلتقي هارولد من ويستكس ووليام من نورماندي في معركة هاستينغز، وهما رجلان مصممون للقاء في هذا الميدان. كانا معاً في حلف قبل ذلك، لكن الظروف وشهواتهم الشخصية توجها إلى حرب لسيطرة على العرش البريطاني.",
+    "desc_en": "King Conqueror is a historical drama series that tells the story of a pivotal clash that took place in 1066. This battle marked the beginning of a new era for a nation and a continent, shaping the course of history for centuries to come. Harold of Wessex and William of Normandy, two former allies turned bitter enemies, found themselves at the forefront of a war for control of the British throne.",
+    "seo_title_ar": "مشاهدة مسلسل الملك الفاتح مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الملك الفاتح الذي يحكي قصة هارولد من ويستكس ووليام من نورماندي في معركة هاستينغز, واستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إ",
+    "outro": "إن مسلسل \"الملك الفاتح\" هو تجربة مشاهدة رائعة، مع قصة ملهمة وقطع حوار حكيم. إن هذا العمل هو المثالي لمن يرغب في استكشاف التاريخ وتحليل الشخصيات.",
+    "opinion_ar": "يعد مسلسل \"الملك الفاتح\" تجربة مشاهدة رائعة، مع قصة ملهمة وقطع حوار حكيمة. إن هذا العمل هو المثالي لمن يرغب في استكشاف التاريخ وتحليل الشخصيات.",
+    "opinion_en": "King Conqueror is a gripping historical drama that will keep you hooked from start to finish. With its engaging storyline and thought-provoking dialogue, this series is a must-watch for anyone interested in history and character development.",
     "faq": [
       {
-        "q": "ما هو ملك القائد؟",
-        "a": "مسلسل دراما حركة مغامرة رائع يروي قصة ملك جديد يصعد إلى عرش المملكة."
+        "q": "ما هو موضوع مسلسل \"الملك الفاتح\"؟",
+        "a": "يحكي مسلسل \"الملك الفاتح\" قصة صراع بين هارولد من ويستكس ووليام من نورماندي في معركة هاستينغز.",
+        "q_en": "What is the subject of the King Conqueror series?",
+        "a_en": "The series tells the story of the clash between Harold of Wessex and William of Normandy at the Battle of Hastings."
       },
       {
-        "q": "ما هو نوع ملك القائد؟",
-        "a": "مسلسل تلفزيوني"
-      },
-      {
-        "q": "ما هو أفضل جزء من ملك القائد؟",
-        "a": "الحلقة الأخيرة التي تجمع كل الأحداث"
+        "q": "ما هي الفترة الزمنية التي يحدث فيها المسلسل؟",
+        "a": "يحدث مسلسل \"الملك الفاتح\" في عام 1066.",
+        "q_en": "What is the time period in which the series takes place?",
+        "a_en": "The series takes place in 1066."
       }
-    ]
+    ],
+    "keywords": "مسلسل, دراما, حركة ومغامرة, حرب وسياسة, الملك الفاتح, هارولد من ويستكس, وليام من نورماندي, معركة هاستينغز, 1066, تاريخي, دراما تاريخية, مشاهدة الملك الفاتح, King Conqueror مترجم, تحميل الملك الفاتح, الملك الفاتح اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2025-08-24",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Iceland",
+  "cast": "Nikolaj Coster-Waldau James Norton Clémence Poésy Emily Beecham Clare Holman Bo Bragason",
+  "first_air_date": "2025-08-24"
 }

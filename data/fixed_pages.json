@@ -5993,8 +5993,92 @@
       "file": "677638.json",
       "title": "We Bare Bears: The Movie",
       "fixed_at": "2026-08-20T06:29:41.392864"
+    },
+    {
+      "tmdb_id": "1375646",
+      "file": "1375646.json",
+      "title": "Colony",
+      "fixed_at": "2026-08-20T07:20:48.953718"
+    },
+    {
+      "tmdb_id": "71933",
+      "file": "71933.json",
+      "title": "O-bi, o-ba. Koniec cywilizacji",
+      "fixed_at": "2026-08-20T07:21:28.520922"
+    },
+    {
+      "tmdb_id": "1153576",
+      "file": "1153576.json",
+      "title": "Street Fighter",
+      "fixed_at": "2026-08-20T07:21:39.809493"
+    },
+    {
+      "tmdb_id": "98123",
+      "file": "98123.json",
+      "title": "Xian Wang de Richang",
+      "fixed_at": "2026-08-20T07:22:02.552883"
+    },
+    {
+      "tmdb_id": "222623",
+      "file": "222623.json",
+      "title": "Nige Jouzu no Wakagimi",
+      "fixed_at": "2026-08-20T07:22:13.754936"
+    },
+    {
+      "tmdb_id": "61175",
+      "file": "61175.json",
+      "title": "Steven Universe",
+      "fixed_at": "2026-08-20T07:22:24.757738"
+    },
+    {
+      "tmdb_id": "240558",
+      "file": "240558.json",
+      "title": "King Conqueror",
+      "fixed_at": "2026-08-20T07:22:33.991455"
+    },
+    {
+      "tmdb_id": "1465563",
+      "file": "1465563.json",
+      "title": "Un poeta",
+      "fixed_at": "2026-08-20T07:22:47.488485"
+    },
+    {
+      "tmdb_id": "967941",
+      "file": "967941.json",
+      "title": "شرا للخير",
+      "fixed_at": "2026-08-20T07:23:05.036050"
+    },
+    {
+      "tmdb_id": "7131",
+      "file": "7131.json",
+      "title": "فان هيلسنج",
+      "fixed_at": "2026-08-20T07:23:16.940586"
+    },
+    {
+      "tmdb_id": "309974",
+      "file": "309974.json",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "fixed_at": "2026-08-20T07:23:25.604764"
+    },
+    {
+      "tmdb_id": "840430",
+      "file": "840430.json",
+      "title": "الباقون",
+      "fixed_at": "2026-08-20T07:23:34.452188"
+    },
+    {
+      "tmdb_id": "122973",
+      "file": "122973.json",
+      "title": "Hibiscus Town",
+      "fixed_at": "2026-08-20T07:23:47.886766"
+    },
+    {
+      "tmdb_id": "91630",
+      "file": "91630.json",
+      "title": "O Auto da Compadecida",
+      "fixed_at": "2026-08-20T07:24:02.380951"
     }
   ],
-  "last_updated": "2026-08-20T06:29:43.395564",
-  "total_fixed": 999
+  "last_updated": "2026-08-20T07:24:04.383434",
+  "total_fixed": 1013
 }
