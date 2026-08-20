@@ -30,7 +30,7 @@ const tajawalStatic = Tajawal({
 });
 
 export const metadata: Metadata = {
-  title: "Tomito | توميتو مشاهدة وتحميل الأفلام والمسلسلات مترجمة بجودة 4K بدون إعلانات",
+  title: "توميتو - مشاهدة أفلام ومسلسلات 4K مترجمة",
   description: "أفضل موقع لمشاهدة وتحميل الأفلام والمسلسلات الحصرية بجودة عالية وبدون إعلانات.",
   icons: {
     icon: "/favicon.ico",
