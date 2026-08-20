@@ -5561,8 +5561,86 @@
       "file": "20352.json",
       "title": "الحقير أنا",
       "fixed_at": "2026-08-20T02:40:48.840441"
+    },
+    {
+      "tmdb_id": "4933",
+      "file": "4933.json",
+      "title": "The Buccaneer",
+      "fixed_at": "2026-08-20T03:39:50.146057"
+    },
+    {
+      "tmdb_id": "9769",
+      "file": "9769.json",
+      "title": "Lolita",
+      "fixed_at": "2026-08-20T03:40:11.993788"
+    },
+    {
+      "tmdb_id": "235",
+      "file": "235.json",
+      "title": "قف بجانبي",
+      "fixed_at": "2026-08-20T03:40:20.990043"
+    },
+    {
+      "tmdb_id": "2025",
+      "file": "2025.json",
+      "title": "Beverly Hills, 90210",
+      "fixed_at": "2026-08-20T03:40:31.908141"
+    },
+    {
+      "tmdb_id": "1440050",
+      "file": "1440050.json",
+      "title": "The Breadwinner",
+      "fixed_at": "2026-08-20T03:40:40.984991"
+    },
+    {
+      "tmdb_id": "298954",
+      "file": "298954.json",
+      "title": "Antigang",
+      "fixed_at": "2026-08-20T03:41:07.655345"
+    },
+    {
+      "tmdb_id": "226174",
+      "file": "226174.json",
+      "title": "Matlock",
+      "fixed_at": "2026-08-20T03:41:21.252963"
+    },
+    {
+      "tmdb_id": "114471",
+      "file": "114471.json",
+      "title": "آيرون هارت",
+      "fixed_at": "2026-08-20T03:41:55.020479"
+    },
+    {
+      "tmdb_id": "1439808",
+      "file": "1439808.json",
+      "title": "Hadestown: The Musical",
+      "fixed_at": "2026-08-20T03:42:07.909772"
+    },
+    {
+      "tmdb_id": "1078023",
+      "file": "1078023.json",
+      "title": "ملك القناصين",
+      "fixed_at": "2026-08-20T03:42:18.785670"
+    },
+    {
+      "tmdb_id": "219290",
+      "file": "219290.json",
+      "title": "زهور الدم",
+      "fixed_at": "2026-08-20T03:42:26.202669"
+    },
+    {
+      "tmdb_id": "88384",
+      "file": "88384.json",
+      "title": "Astrid et Raphalle",
+      "fixed_at": "2026-08-20T03:42:36.303057"
+    },
+    {
+      "tmdb_id": "921",
+      "file": "921.json",
+      "title": "Cinderella Man",
+      "fixed_at": "2026-08-20T03:42:46.904407"
     }
   ],
-  "last_updated": "2026-08-20T02:40:50.843104",
-  "total_fixed": 927
+  "last_updated": "2026-08-20T03:42:48.907062",
+  "total_fixed": 940
 }

@@ -2,10 +2,8 @@
   "id": 219290,
   "title": "زهور الدم",
   "title_ar": "زهور الدم",
-  "title_en": "Blood Flowers",
-  "slug": "219290-blood-flowers",
-  "folder": "tv",
-  "media_type": "tv",
+  "title_en": "Kan iekleri",
+  "slug": "219290-kan-iekleri",
   "overview": "قصة المسلسل : هل يكفي الزواج لإنهاء الخلاف ؟ يتناول الحب الكبير الذي بدأ بنزاع دموي . ديلان التي سلبت أحلامها وآمالها من جهة ، وباران التي اضطر إلى الزواج لإنقاذ شقيقه من هذه القضية ، عانت عائلات كارابي ودمير من خسائر عديدة بسبب الثأر المستمر منذ سنوات . بينما يتم جر هاتين العائلتين من ماردين إلى إسطنبول ، تصل الأخبار التي كانت تنتظرها منذ سنوات إلى قصر كارابي تم العثور على دمائهم . لكن باران لا يريد إراقة الدماء ووقفه ، فقد اختار أن يتزوج ديلان ابنة سيت ، على الرغم من عائلته . من ناحية أخرى ، تضع ديلان أحلامها جانبًا وتقبل هذا الزواج حتى لا يموت المزيد من الناس ، لكن هذا الزواج هو بمثابة سجن لهما. هل سيكون هذا الزواج القسري كافياً لإنهاء الخلاف ؟ هل سيضع ديلان وباران ، اللذان كانا أعداء من وقت لآخر ، جانباً ما حدث وينظر كل منهما إلى وجه الآخر؟ هل تتحول هذه العلاقة التي تجلب رياحاً قوية بين قلبين إلى حب؟",
   "poster_path": "/o6tosm7V0SMBlI1KsTUxPM9Papp.jpg",
   "backdrop_path": "/d3YL9PsQRHyrPXpcqkoDBjXwsfW.jpg",
@@ -19,33 +17,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالحروب والدماء، يأتي الزواج كوسيلة لوقف النزاعات، لكن ما إذا كان هذا الزواج القسري كافياً لإنهاء الخلاف، هو ما سيتحكم به قصة المسلسل زهور الدم، الذي يتبع حب كبير بدأ بنزاع دموي، بينما عائلتان كارابي ودمير عانتا خسائر عديدة بسبب الثأر المستمر منذ سنوات.",
-    "desc_en": "In a world filled with wars and bloodshed, marriage is seen as a way to stop the conflicts, but is this forced marriage enough to end the feud? The story of Blood Flowers, a great love that began with a bloody quarrel, follows two families, Carabi and Demire, who have suffered numerous losses due to the ongoing revenge since years.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في زهور الدم - دراما",
-    "seo_title_ar": "مشاهدة فيلم زهور الدم مترجم اون لاين - توميتو",
-    "keywords": "Blood Flowers, فيلم زهور الدم مترجم, مشاهدة فيلم زهور الدم, قصة مسلسل زهور الدم, أحداث زهور الدم بالتفصيل, زهور الدم مترجم كامل, توميتو زهور الدم, مشاهدة زهور الدم 2022",
-    "opinion": "قصة زهور الدم هي قصة حب كبير، لكنها أيضاً قصة عنف ودماء، قصة عنف بين عائلتين، قصة عنف بين الأشقاء، قصة عنف بين الأصدقاء، قصة عنف بين الأعداء، قصة عنف بين الحب والكراهية.",
+    "intro": "في عالم مليء بالخلافات والعلاقات، يبدو أن مسلسل \"زهور الدم\" Kan iekleri هو تجربة رائعة في عالم التلفزيون.",
+    "desc_ar": "يحكي مسلسل \"زهور الدم\" قصة عن كيفية إنهاء الخلاف بين عائلتين من خلال الزواج، لكن هذه العلاقة لا تكون سهلة، حيث يتجدد النزاع بين العائلتين ويحاول البطلان إيقاف هذا الدمار من خلال التضحية والتفاهم، ويبدأ هذا الزواج القسري فيتحول إلى حب بين الشخصين، ولكن ماذا سيحدث عندما يبدأ هذا الحب في التغلب على الأخطار التي تهدد العلاقتان؟",
+    "desc_en": "Kan iekleri, a story about how a marriage can be used to end a long-standing feud between two families, but this relationship is not easy, as the conflict between the families continues to escalate, and the two protagonists try to stop this destruction through sacrifice and understanding, and this forced marriage begins to turn into love between the two people, but what will happen when this love starts to overcome the dangers that threaten the two families?",
+    "seo_title_ar": "مشاهدة مسلسل زهور الدم مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل زهور الدم Kan مترجم - توميتو، قصة حب تبدأ كزواج قسري، لكنها تتطور إلى حب حقيقي، مع وجود العديد من التحديات والخلافات التي تهدد ال",
+    "outro": "من خلال مشاهدة مسلسل \"زهور الدم\" Kan iekleri، نستطيع أن نستفيد من القصص الهامة التي تجلب الرياح بين القلوب، وتحول العلاقات من زواج قسري إلى حب حقيقي.",
+    "opinion_ar": "يبدو أن مسلسل \"زهور الدم\" Kan هو تجربة رائعة في عالم التلفزيون، حيث يتناول القصة العديد من الأمور الهامة مثل العلاقات والمواقف التي قد لا نراها في حياتنا الواقعية.",
+    "opinion_en": "It seems that Kan iekleri is a great experience in the world of television, as the story deals with many important issues such as relationships and situations that we may not see in our real life.",
     "faq": [
       {
-        "q": "ما هو زهور الدم؟",
-        "a": "قصة زهور الدم هي قصة حب كبير، لكنها أيضاً قصة عنف ودماء."
-      },
-      {
-        "q": "ما هو نوع زهور الدم؟",
-        "a": "زهر الدم هو دراما"
-      },
-      {
-        "q": "ما هو سبب نزاع الدموي في زهور الدم؟",
-        "a": "السبب الرئيسي هو الزواج القسري بين ديلان وباران"
+        "q": "ما هو مصدر القصة في مسلسل زهور الدم؟",
+        "a": "قصة المسلسل مستوحاة من حب وكيفية إنهاء الخلاف بين عائلتين من خلال الزواج.",
+        "q_en": "What is the source of the story in Kan iekleri?",
+        "a_en": "The story of the series is inspired by love and how to end the feud between two families through marriage."
       }
-    ]
+    ],
+    "keywords": "زهور الدم Kan مسلسل دراما حب زواج قسري خلاف عائلات, مشاهدة زهور الدم, Kan مترجم, تحميل زهور الدم, زهور الدم اون لاين, Kan, زهور الدم جودة عالية, فيلم زهور الدم, Kan HD, زهور الدم HD, مسلسل زهور الدم, Kan مشاهدة, زهور الدم توب سينما, زهور الدم شاهدد, زهور الدم توميتو"
   },
   "fixed": true,
-  "first_air_date": "2022-12-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "30 دقيقة",
-  "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "General Levy Fabio Charissa Saverio LTJ Bukem Robbie Gee"
+  "duration": "60 دقيقة",
+  "language": "التركية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Barış Baktaş Yağmur Yüksel Ekrem Aral Tuna Dilek Güler Nuray Şerefoğlu Hasan Balliktas Hilal Kuvvet Yilmaz Ulutas",
+  "first_air_date": "2022-12-05"
 }

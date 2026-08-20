@@ -4,14 +4,12 @@
   "title_ar": "Antigang",
   "title_en": "Antigang",
   "slug": "298954-antigang",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل أنتيغانغ قصة وحدة خاصة من الشرطة المصرح لها بقتال الجريمة المنظمة وشبكات الجريمة الكبرى، بما في ذلك عصابات الشوارع، وجماعات الدراجات، ومافيا الإيطالية والأسكتلندية، وجماعات البيكر، وكارتلات المكسيك. يُظهر المسلسل كيف يمكن للشرطة استغلال التقنيات الحديثة لقتال الجريمة المنظمة، وتحدي الظروف الصعبة التي تواجهها هذه الوحدات. يُظهر المسلسل أيضًا كيف يمكن للشرطة العمل مع المجتمع لمنع الجريمة وتقديم الدعم للضحايا. المسلسل يركز على تحديات القتال ضد الجريمة المنظمة في مختلف أنحاء العالم.",
   "poster_path": "/nSjS6oQFkpCPvZPAeZCEqo5Nxv8.jpg",
   "backdrop_path": "/d22rcSrAWU7BMFItDphrJ6Ube0I.jpg",
   "release_date": "2025-09-08",
-  "vote_average": 7.5,
-  "vote_count": 2,
+  "vote_average": 7.3,
+  "vote_count": 3,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النوم والواقع، يلتقي رجلان من مختلفي backgrounds، يبحثان عن منفذ لخروجهم من المأزق. يلتقي رجلان هؤلاء، رجل الشرطة المخنث، ومساعدته، فيما يتعاملان مع قضية قتل رهيبة، ويحاولون حلها من أجل تحقيق العدالة. في هذه الرحلة، سيتعرفان على أسرار الماضي، وسيتعاونان لتحقيق النصر في النهاية.",
-    "desc_en": "In a world of dreams and reality, two men from different backgrounds meet, searching for an exit from their predicament. The two men, a police officer and his assistant, deal with a heinous murder case, and try to solve it to achieve justice. In this journey, they will discover the secrets of the past, and will cooperate to achieve victory in the end.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل أنتي GANG!",
-    "keywords": "فيلم دراما جريمة مترجم, مشاهدة مسلسل جريمة, مشاهدة Antigang 2025, Antigang مترجم كامل, توميتو Antigang, أحداث Antigang بالتفصيل, قصة مسلسل Antigang",
-    "seo_title_ar": "مشاهدة مسلسل أنتي GANG مترجم اون لاين - توميتو",
-    "opinion": "هو مسلسل رائع، مليء بالتension وال suspense، سوف تتمكن من تحقيق النصر في النهاية.",
+    "intro": "يُظهر مسلسل أنتيغانغ قصة وحدة خاصة من الشرطة المصرح لها بقتال الجريمة المنظمة وشبكات الجريمة الكبرى.",
+    "desc_ar": "يحكي مسلسل أنتيغانغ قصة وحدة خاصة من الشرطة المصرح لها بقتال الجريمة المنظمة وشبكات الجريمة الكبرى، بما في ذلك عصابات الشوارع، وجماعات الدراجات، ومافيا الإيطالية والأسكتلندية، وجماعات البيكر، وكارتلات المكسيك. يُظهر المسلسل كيف يمكن للشرطة استغلال التقنيات الحديثة لقتال الجريمة المنظمة، وتحدي الظروف الصعبة التي تواجهها هذه الوحدات. يُظهر المسلسل أيضًا كيف يمكن للشرطة العمل مع المجتمع لمنع الجريمة وتقديم الدعم للضحايا. المسلسل يركز على تحديات القتال ضد الجريمة المنظمة في مختلف أنحاء العالم.",
+    "desc_en": "The show follows a special police unit dedicated to fighting organized crime and major criminal networks, including street gangs, biker gangs, Italian/Irish/Lebanese mafias, and Mexican cartels. The show highlights how police can utilize modern technology to combat organized crime, and the challenging conditions that these units face. It also shows how police can work with the community to prevent crime and provide support to victims. The show focuses on the challenges of fighting organized crime in various parts of the world.",
+    "seo_title_ar": "مشاهدة مسلسل أنتيغانغ مترجم - أنتيغانغ - تيوميتو",
+    "meta_desc": "شاهد مسلسل أنتيغانغ مترجم على تيوميتو، مع إحترافية ترجمة وبدون إعلانات مزعجة. يستمر المسلسل في القتال ضد الجريمة المنظمة، مع التركيز على التحديات التي تواج",
+    "outro": "المسلسل يركز على تحديات القتال ضد الجريمة المنظمة في مختلف أنحاء العالم، مع التركيز على العمل مع المجتمع لمنع الجريمة وتقديم الدعم للضحايا.",
+    "opinion_ar": "يعتبر مسلسل أنتيغانغ من بين أفضل المسلسلات التي تعالج قضية الجريمة المنظمة، مع التركيز على التحديات التي تواجه الشرطة في مختلف أنحاء العالم. يُظهر المسلسل كيف يمكن للشرطة العمل مع المجتمع لمنع الجريمة وتقديم الدعم للضحايا.",
+    "opinion_en": "Antigang is one of the best shows that tackles the issue of organized crime, focusing on the challenges that police face in various parts of the world. The show highlights how police can work with the community to prevent crime and provide support to victims.",
     "faq": [
       {
-        "q": "ما هو أنتي GANG؟",
-        "a": "هو مسلسل دراما جريمة مترجم، يتعامل مع قضية قتل رهيبة."
+        "q": "ما هو مسلسل أنتيغانغ؟",
+        "a": "مسلسل أنتيغانغ هو مسلسل درامي يركز على القتال ضد الجريمة المنظمة وشبكات الجريمة الكبرى.",
+        "q_en": "What is Antigang?",
+        "a_en": "Antigang is a dramatic show that focuses on fighting organized crime and major criminal networks."
       },
       {
-        "q": "ما هو المطلوب من المسلسل؟",
-        "a": "المطلوب هو تحقيق العدالة والقضاء على الجريمة."
-      },
-      {
-        "q": "ما هو النهاية؟",
-        "a": "النهاية هي النصر في النهاية، بعد أن يتعاون الرجلان على حل القضية"
+        "q": "متى صدر مسلسل أنتيغانغ؟",
+        "a": "صدر مسلسل أنتيغانغ في عام 2025.",
+        "q_en": "When was Antigang released?",
+        "a_en": "Antigang was released in 2025."
       }
-    ]
+    ],
+    "keywords": "أنتيغانغ, مسلسل أنتيغانغ, أنتيغانغ مترجم, أنتيغانغ 2025, مسلسل أنتيغانغ 2025, أنتيغانغ دراما, أنتيغانغ جريمة, أنتيغانغ مسلسل, أنتيغانغ مترجم على تيوميتو, مشاهدة أنتيغانغ, Antigang مترجم, تحميل أنتيغانغ, أنتيغانغ اون لاين, Antigang, أنتيغانغ جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2025-09-08",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Dieter Borsche Hilde Körber Kurt Pratsch-Kaufmann Ilse Fürstenberg Karl-Josef Cramer"
+  "duration": "22 دقيقة",
+  "language": "الفرنسية",
+  "country": "كندا",
+  "cast": "Patrice Robitaille Fabien Cloutier Karine Gonthier-Hyndman Catherine Trudeau Vincent Graton Irdens Exantus",
+  "first_air_date": "2025-09-08"
 }
