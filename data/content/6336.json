@@ -1,17 +1,15 @@
 {
   "id": 6336,
-  "title": "Dimensional Warrior Spielban",
-  "title_ar": "Dimensional Warrior Spielban",
-  "title_en": "Dimensional Warrior Spielban",
-  "slug": "6336-dimensional-warrior-spielban",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "title": "Dimensional Warrior Spielvan",
+  "title_ar": "Dimensional Warrior Spielvan",
+  "title_en": "Dimensional Warrior Spielvan",
+  "slug": "6336-dimensional-warrior-spielvan",
+  "overview": "يحكي مسلسل الأبعاد المحارب سبيلفان قصة سبيلفان، أحد الأطفال المخلوعين من وطنهم، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب، فيما يبحث عن والدته التي تُذكره، والجدّ الذي يُذكره، والشقيق الأكبر الذي يُذكره، ويبحث عن والده الذي اختطفه اللاهوتيون، ويحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
   "poster_path": "/dsFOD9hI20s9MaO58DUGgHKYOB4.jpg",
   "backdrop_path": "/wIwNuZiQ1j58zgUwlEiwarFMJIk.jpg",
   "release_date": "1986-04-07",
-  "vote_average": 8.8,
-  "vote_count": 13,
+  "vote_average": 8.9,
+  "vote_count": 14,
   "genres": [
     {
       "id": 10759,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متجول، يوجد رائد فضاء يسمى Spielban، الذي يمتلك قوة فائقة في القتال. يهاجم Spielban مدينة منافسيه، ويتصادم مع قائد المجموعة، سيندين. في هذه المعركة، يكتشف Spielban أن سيندين هو في الواقع ابن أخيه، مما يسبب قلقاً كبيراً في قلبه. ما هو مستقبل Spielban؟",
-    "desc_en": "In a world of space travel, a space warrior named Spielban possesses extraordinary combat power. He attacks the city of his rival, and clashes with the leader of the group, Senden. In this battle, Spielban discovers that Senden is actually his nephew, causing great turmoil in his heart. What is Spielban's future?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Dimensional Warrior Spielban!",
-    "seo_title_ar": "مشاهدة فيلم Dimensional Warrior Spielban مترجم اون لاين - توميتو",
-    "keywords": "فيلم حركة ومغامرة مترجم, مشاهدة فيلم خيال علمي وفانتازيا, Dimensional Warrior Spielban مترجم كامل, قصة مسلسل Dimensional Warrior Spielban, مشاهدة Dimensional Warrior Spielban 1986, توميتو Dimensional Warrior Spielban, أحداث Dimensional Warrior Spielban بالتفصيل",
-    "opinion": "هذا الفيلم هو مثال رائع لما هو ممكن أن يحدث عندما يلتقي القوة والرغبة. Spielban هو رائد فضاء رائع، ويحمل قوة فائقة في القتال. لكن ما هو مستقبل Spielban؟",
+    "intro": "يسعدنا تقديم مسلسل الأبعاد المحارب سبيلفان على توميتو، وهو مسلسل حركة ومغامرة خيال علمي وفانتازيا يتابع قصة سبيلفان، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
+    "desc_ar": "يحكي مسلسل الأبعاد المحارب سبيلفان قصة سبيلفان، أحد الأطفال المخلوعين من وطنهم، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب، فيما يبحث عن والدته التي تُذكره، والجدّ الذي يُذكره، والشقيق الأكبر الذي يُذكره، ويبحث عن والده الذي اختطفه اللاهوتيون، ويحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
+    "desc_en": "Dimensional Warrior Spielvan follows the story of Spielvan, an orphaned child, as he fights to save his homeland from the ruthless deity that seeks to exploit the planet's water resources, while searching for his mother, his grandfather, his older sister, and his father who was kidnapped by the deity.",
+    "seo_title_ar": "مشاهدة مسلسل الأبعاد المحارب سبيلفان مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الأبعاد المحارب سبيلفان مترجم على توميتو، وهو مسلسل حركة ومغامرة خيال علمي وفانتازيا يتابع قصة سبيلفان، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحش",
+    "outro": "استمتع بمشاهدة مسلسل الأبعاد المحارب سبيلفان على توميتو، وهو مسلسل حركة ومغامرة خيال علمي وفانتازيا يتابع قصة سبيلفان، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
+    "opinion_ar": "مشاهد مسلسل الأبعاد المحارب سبيلفان وستجد نفسك مرتدًا عن حياتك، وهو مسلسل حركة ومغامرة خيال علمي وفانتازيا يتابع قصة سبيلفان، وهو يحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
+    "opinion_en": "Watch Dimensional Warrior Spielvan and you'll find yourself changed, it's a thrilling science fiction and fantasy series that follows the story of Spielvan, as he fights to save his homeland from the ruthless deity that seeks to exploit the planet's water resources.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم حركة ومغامرة"
+        "q": "ما هو سبب ظهور اللاهوتية الوحشية في مسلسل الأبعاد المحارب سبيلفان؟",
+        "a": "تريد اللاهوتية الوحشية استغلال مياه الكوكب، وتحارب لإنقاذ أرضه من هذه اللاهوتية الوحشية.",
+        "q_en": "What is the reason behind the appearance of the deity in Dimensional Warrior Spielvan?",
+        "a_en": "The deity is seeking to exploit the planet's water resources and is at war with Spielvan to save his homeland."
       },
       {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "يحكى قصة رائد فضاء يسمى Spielban"
-      },
-      {
-        "q": "ما هو نوع قوة Spielban؟",
-        "a": "يحمل قوة فائقة في القتال"
+        "q": "كيف يبحث سبيلفان عن والدته في مسلسل الأبعاد المحارب سبيلفان؟",
+        "a": "يبحث سبيلفان عن والدته في جميع الأماكن، ويحارب لإنقاذ أرضه من اللاهوتية الوحشية التي تريد استغلال مياه الكوكب.",
+        "q_en": "How does Spielvan search for his mother in Dimensional Warrior Spielvan?",
+        "a_en": "Spielvan searches for his mother in all places and fights to save his homeland from the deity that seeks to exploit the planet's water resources."
       }
-    ]
+    ],
+    "keywords": "الأبعاد المحارب سبيلفان, Dimensional Warrior Spielvan, مسلسل, حركة ومغامرة, خيال علمي وفانتازيا, توميتو, ترجمة احترافية, بدون إعلانات مزعجة, مشاهدة الأبعاد المحارب سبيلفان, Dimensional Warrior Spielvan مترجم, تحميل الأبعاد المحارب سبيلفان, الأبعاد المحارب سبيلفان اون لاين, الأبعاد المحارب سبيلفان جودة عالية, فيلم الأبعاد المحارب سبيلفان, Dimensional Warrior Spielvan online"
   },
   "fixed": true,
-  "first_air_date": "1986-04-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Hiroshi Watari Makoto Sumikawa Naomi Morinaga Ichiro Mizuki Shozo Iizuka Machiko Soga Tōru Ōhira",
+  "first_air_date": "1986-04-07"
 }

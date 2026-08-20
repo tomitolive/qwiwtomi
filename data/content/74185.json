@@ -4,14 +4,12 @@
   "title_ar": "رحلة الفتاتين الأخيرة",
   "title_en": "Girls Last Tour",
   "slug": "74185-girls-last-tour",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدور أحداث القصة عن الفتاتين تشيو ويوري ورحلتهما مجهولة الوجهة من البداية إلى النهاية فيها تجوبان الخراب والأنقاض في الأرض بعد حدوث كارثة (حرب عالمية تبدأها اليابان حسب القصة) وانهيار الحضارة البشرية على أثرها. الفتاتين تسافران على دراجة من نوع الكيتينكراد؛ المستخدمة سابقاً في ألمانيا النازية للتجول في حاملات الطائرات بسرعة وسهولة.",
   "poster_path": "/hEtkOaiI759zfO6YT4PiNmrbtv4.jpg",
   "backdrop_path": "/5ZeU6YQGHMd0jqQCxsE9SpshQw2.jpg",
   "release_date": "2017-10-06",
-  "vote_average": 8,
-  "vote_count": 112,
+  "vote_average": 8.0,
+  "vote_count": 120,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مدمر بعد كارثة عالمية، يبحثن الفتاتين تشيو ويوري عن معنى الحياة وال죽ة في رحلة مدهشة، حيث يتعاونان مع دراجة كيتينكراد لزيارة أماكن مدهشة، وتجربان تجارب مدهشة، وتعرفان على أسرار مدهشة.",
-    "desc_en": "In a post-apocalyptic world, the girls, Chito and Yuri, embark on a thrilling journey to find the meaning of life and death, as they team up with a Kettenkrad motorcycle to visit breathtaking places, experience thrilling adventures, and uncover mysterious secrets.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في رحلة الفتاتين الأخيرة!",
-    "seo_title_ar": "مشاهدة فيلم رحلة الفتاتين الأخيرة مترجم اون لاين - توميتو",
-    "keywords": "Girls Last Tour, فيلم رسوم متحركة, مشاهدة فيلم حركة ومغامرة, فيلم غموض, فيلم خيال علمي وفانتازيا, توميتو رحلة الفتاتين الأخيرة, رحلة الفتاتين الأخيرة مترجم كامل, مشاهدة رحلة الفتاتين الأخيرة 2017, قصة مسلسل رحلة الفتاتين الأخيرة, أحداث رحلة الفتاتين الأخيرة بالتفصيل",
-    "opinion": "رحلة الفتاتين الأخيرة هي واحدة من أكثر الأعمال الإبداعية التي شاهدناها، حيث تجمع بين الإثارة والغموض والخيال العلمي في رحلة مدهشة.",
+    "intro": "في عالم مليء بالحرب والدمار، يهيجان الفتاتين تشيو ويوري في رحلة مجهولة الوجهة عبر الخراب والأنقاض.",
+    "desc_ar": "يحكي هذا العمل رحلة الفتاتين الأخيرة تشيو ويوري، اللتان يتجهن في رحلة مجهولة الوجهة عبر الخراب والأنقاض التي خلفها حرب عالمية هائلة، وانهيار الحضارة البشرية. يسافران على دراجة كيتينكراد، مستخدمة سابقاً في ألمانيا النازية، وتجوبان الرياح والرمال في محاولة للعثور على طعام ووقود لمحرك دراجتهم. في عالم مليء بالحرب والدمار، يبقان الفتاتين لبعضهما البعض، ومقابل كل شيء يبدو بهوادة، يجدانه مأوى في تجرباتهم المشتركة و ولاتهما للحساء و البحث عن أجزاء الآلات لكي يتعاملوا معها.",
+    "desc_en": "In a world ravaged by a devastating war, Chito and Yuuri embark on a perilous journey, navigating the ruins of a once-great civilization. Their trusty Kettenkrad motorbike, a relic of the Nazi era, takes them on a winding path through the desolate landscape. As they search for their next meal and fuel, the two girls cling to each other, finding solace in their shared experiences and the simple joys of life.",
+    "seo_title_ar": "مشاهدة مسلسل رحلة الفتاتين الأخيرة Girls Last Tour مترجم - توميتو",
+    "meta_desc": "شاهد رحلة الفتاتين الأخيرة تشيو ويوري في مسلسل رسوم متحركة غنيم ومغامرة. يهيجان الفتاتين في رحلة مجهولة الوجهة عبر الخراب والأنقاض. رحلة تشيو ويوري في عالم",
+    "outro": "في رحلة الفتاتين الأخيرة، يجدان الفتاتين لبعضهما البعض في تجرباتهم المشتركة ومقابل كل شيء يبدو بهوادة، يجدانه مأوى في الحب والجمال في العالم المدمر.",
+    "opinion_ar": "في رحلة الفتاتين الأخيرة، ينجح المخرج في خلق جو من الحزن والدمار، لكنه يترك بعض الوقت للفرح والجمال في العالم المدمر.",
+    "opinion_en": "Girls Last Tour is a poignant and visually stunning series that explores the complexities of human relationships in a post-apocalyptic world.",
     "faq": [
       {
-        "q": "ما هو نوع رسوم متحركة في رحلة الفتاتين الأخيرة؟",
-        "a": "رسوم متحركة"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "رسوم متحركة، حركة ومغامرة، غموض، خيال علمي وفانتازيا",
+        "q_en": "What is the genre of the series?",
+        "a_en": "Anime, Action, Adventure, Mystery, Science Fiction, Fantasy"
       },
       {
-        "q": "ما هو نوع الإثارة في رحلة الفتاتين الأخيرة؟",
-        "a": "إثارة مدهشة"
-      },
-      {
-        "q": "ما هو نوع الخيال العلمي في رحلة الفتاتين الأخيرة؟",
-        "a": "خيال علمي وفانتازيا"
+        "q": "لماذا يهيجان الفتاتين في رحلة مجهولة الوجهة؟",
+        "a": "لأنهم يبحثون عن طعام ووقود لمحرك دراجتهم في عالم مليء بالحرب والدمار.",
+        "q_en": "Why do Chito and Yuuri embark on a perilous journey?",
+        "a_en": "They are searching for food and fuel for their motorbike in a world ravaged by war."
       }
-    ]
+    ],
+    "keywords": "رحلة الفتاتين الأخيرة, Girls Last Tour, مسلسل رسوم متحركة, حركة ومغامرة, غموض, خيال علمي وفانتازيا, تشيو ويوري, كيتينكراد, مشاهدة رحلة الفتاتين الأخيرة, Girls Last Tour مترجم, تحميل رحلة الفتاتين الأخيرة, رحلة الفتاتين الأخيرة اون لاين, رحلة الفتاتين الأخيرة جودة عالية, فيلم رحلة الفتاتين الأخيرة, Girls Last Tour online"
   },
   "fixed": true,
-  "first_air_date": "2017-10-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Yurika Kubo Inori Minase",
+  "first_air_date": "2017-10-06"
 }

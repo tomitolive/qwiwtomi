@@ -6215,8 +6215,86 @@
       "file": "78533.json",
       "title": "Jersey Shore: Family Vacation",
       "fixed_at": "2026-08-20T09:07:26.433904"
+    },
+    {
+      "tmdb_id": "694",
+      "file": "694.json",
+      "title": "البريق",
+      "fixed_at": "2026-08-20T10:04:44.079396"
+    },
+    {
+      "tmdb_id": "302946",
+      "file": "302946.json",
+      "title": "المحاسب",
+      "fixed_at": "2026-08-20T10:04:51.584356"
+    },
+    {
+      "tmdb_id": "799",
+      "file": "799.json",
+      "title": "شرلوك هولمز",
+      "fixed_at": "2026-08-20T10:05:10.271689"
+    },
+    {
+      "tmdb_id": "122",
+      "file": "122.json",
+      "title": "سيد الخواتم: عودة الملك",
+      "fixed_at": "2026-08-20T10:05:18.501453"
+    },
+    {
+      "tmdb_id": "57532",
+      "file": "57532.json",
+      "title": "PAW Patrol",
+      "fixed_at": "2026-08-20T10:05:28.841549"
+    },
+    {
+      "tmdb_id": "6977",
+      "file": "6977.json",
+      "title": "لا بلد للعجائز",
+      "fixed_at": "2026-08-20T10:05:37.652233"
+    },
+    {
+      "tmdb_id": "74185",
+      "file": "74185.json",
+      "title": "رحلة الفتاتين الأخيرة",
+      "fixed_at": "2026-08-20T10:05:46.230873"
+    },
+    {
+      "tmdb_id": "1574",
+      "file": "1574.json",
+      "title": "Chicago",
+      "fixed_at": "2026-08-20T10:06:11.148130"
+    },
+    {
+      "tmdb_id": "298168",
+      "file": "298168.json",
+      "title": "The Shards",
+      "fixed_at": "2026-08-20T10:06:23.232035"
+    },
+    {
+      "tmdb_id": "6336",
+      "file": "6336.json",
+      "title": "Dimensional Warrior Spielban",
+      "fixed_at": "2026-08-20T10:06:37.056846"
+    },
+    {
+      "tmdb_id": "106449",
+      "file": "106449.json",
+      "title": "A Record of a Mortals Journey to Immortality",
+      "fixed_at": "2026-08-20T10:06:46.446671"
+    },
+    {
+      "tmdb_id": "262388",
+      "file": "262388.json",
+      "title": "M.I.A.",
+      "fixed_at": "2026-08-20T10:07:12.573308"
+    },
+    {
+      "tmdb_id": "8966",
+      "file": "8966.json",
+      "title": "الشفق",
+      "fixed_at": "2026-08-20T10:07:21.303916"
     }
   ],
-  "last_updated": "2026-08-20T09:07:28.436559",
-  "total_fixed": 1036
+  "last_updated": "2026-08-20T10:07:23.306868",
+  "total_fixed": 1049
 }

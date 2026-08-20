@@ -17,33 +17,41 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Shards (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"الشظايا\" في لوس أنجلوس عام 1981، حيث يروي قصة بريت إيستون إليس في سن السابعة عشرة خلال عامه الأخير في مدرسة باكللي الإعدادية المرموقة. وتقلب وصول طالب جديد غامض يدعى روبرت ماليوري عالمه رأساً على عقب، ويتزامن وجوده المقلق مع أنشطة قاتل متسلسل يُعرف باسم \"The Trawler\".",
-    "desc_en": "Set in Los Angeles in 1981, \"The Shards\" follows the story of a 17-year-old Bret Easton Ellis during his final year at the elite Buckley prep school. The arrival of a mysterious new student, Robert Mallory, upends his world, and his unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-    "seo_title_ar": "مشاهدة مسلسل الشظايا. The Shards مترجم - توميتو",
-    "meta_desc": "مسلسل الشظايا - The Shards: قصة مثيرة تدور في لوس أنجلوس عام 1981، حيث يتعرض بريت إيستون إليس لتجربة مرعبة مع وصول طالب جديد غامض.",
-    "outro": "شاهد The Shards الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"الشظايا\" يقدم قصة مشوقة ومثيرة، حيث يسلط الضوء على عالم بريت إيستون إليس المراهق في مواجهة قاتل متسلسل. إنه مزيج مثير من الدراما والغموض.",
-    "opinion_en": "The Shards offers a captivating and thrilling narrative, shedding light on Bret Easton Ellis' teenage world as he encounters a serial killer. It's an exciting blend of drama and mystery.",
+    "intro": "يتحدث هذا الفيلم عن حياة شاب في سن السابعة عشرة خلال عامه الأخير في مدرسة باكللي الإعدادية المرموقة في لوس أنجلوس عام 1981.",
+    "desc_ar": "يحكي مسلسل \"الشظايا\" قصة شاب يبلغ من العمر 17 عاماً، بريت إيستون إليس، خلال عامه الأخير في مدرسة باكللي الإعدادية المرموقة في لوس أنجلوس عام 1981. يصطدم بريت بمحضر غامض يسمى روبرت ماليوري، مما يؤثر على حياته بشكل كبير. في نفس الوقت، يُستأثر روبرت بحياة بريت، ويبدو أنه يعاني من مشاكل نفسية خطيرة. في هذه الأثناء، يتصرف قاتل متسلسل يُعرف باسم \"The Trawler\" بشكل مخيف، مما يثير فضول بريت وروبرت، ويحفزهم على الكشف عن أسرار هذا القاتل.",
+    "desc_en": "Set in Los Angeles in 1981, 'The Shards' follows the story of a 17-year-old Bret Easton Ellis during his final year at the elite Buckley prep school. The arrival of a mysterious new student, Robert Mallory, upends his world, and his unsettling presence coincides with the activities of a serial killer known as The Trawler. As Bret and Robert try to navigate their complex relationships, they find themselves entangled in a web of secrets and lies that threaten to destroy their lives.",
+    "seo_title_ar": "مشاهدة فيلم الشظايا مترجم - فيلم دراما عن قاتل متسلسل يعرف باسم The Trawler على توميتو",
+    "meta_desc": "شاهد فيلم الشظايا مترجم - فيلم دراما عن قاتل متسلسل يعرف باسم The Trawler. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. تد",
+    "outro": "يتمحور هذا الفيلم حول حياة بريت إيستون إليس، ويتعامل مع مشاكله النفسية، ومشاكله في المدرسة، واتهاماته من قبل الطلاب الآخرين.",
+    "opinion_ar": "يتساءل العوض عن شخصية روبرت ماليوري، ومشاكله النفسية، ومشاكله في المدرسة، واتهاماته من قبل الطلاب الآخرين.",
+    "opinion_en": "The character of Robert Mallory is shrouded in mystery, and his psychological issues, his problems in school, and the accusations made against him by his peers are all intriguing aspects of the story.",
     "faq": [
       {
-        "q": "هل مسلسل \"الشظايا\" مبني على أحداث حقيقية؟",
-        "a": "لا، مسلسل \"الشظايا\" ليس مبنيًا على أحداث حقيقية، ولكنه مستوحى من حياة بريت إيستون إليس خلال فترة مراهقته.",
-        "q_en": "Is \"The Shards\" based on a true story?",
-        "a_en": "No, \"The Shards\" is not based on a true story, but it is inspired by Bret Easton Ellis' teenage life."
+        "q": "ما هو اسم الفيلم؟",
+        "a": "الشظايا",
+        "q_en": "What is the title of the film?",
+        "a_en": "The Shards"
+      },
+      {
+        "q": "من هو قاتل متسلسل؟",
+        "a": "The Trawler",
+        "q_en": "Who is the serial killer?",
+        "a_en": "The Trawler"
+      },
+      {
+        "q": "ما هو اسم الشخصية الرئيسية؟",
+        "a": "بريت إيستون إليس",
+        "q_en": "What is the name of the main character?",
+        "a_en": "Bret Easton Ellis"
       }
     ],
-    "keywords": "الشظايا, The Shards, مسلسل, دراما, لوس أنجلوس, قاتل متسلسل, بريت إيستون إليس, غموض"
+    "keywords": "فيلم الشظايا, The Shards, فيلم دراما, قاتل متسلسل, The Trawler, بريت إيستون إليس, روبرت ماليوري, لوس أنجلوس, باكللي الإعدادية المرموقة, مشاهدة الشظايا, The Shards مترجم, تحميل الشظايا, الشظايا اون لاين, الشظايا جودة عالية, The Shards online"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "405 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Igby Rigney Kaia Gerber Homer Gere Hayes Warner Graham Campbell Evan Rachel Wood Wes Bentley",
-  "first_air_date": "2026-08-05",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": ""
 }

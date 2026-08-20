@@ -4,14 +4,12 @@
   "title_ar": "PAW Patrol",
   "title_en": "PAW Patrol",
   "slug": "57532-paw-patrol",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل دورية باو قصة شجرة الأشبال الخمسة - باو، مارشال، روكي، ربل، زوما، و سكي - الذين يتعاونون مع رايدر، الفتى الفطن في التكنولوجيا، لإنقاذ سكان بلدهم. تمتلك كل من هذه الأشبال معدات خاصة، مما يسمح لهم بالعمل معًا لضمان إنقاذ الأشخاص الذين يجدون أنفسهم في مواقف صعبة. لا تقع أي مهمة كبيرة على shouldersهم، ولا يعتبر أي كلب صغير كيما يحتاج المساعدة. معًا، يمتلكون القدرة على حل أي مشكلة يتعرضون لها، سواء كانت كبيرة أو صغيرة.",
   "poster_path": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
   "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
   "release_date": "2013-08-12",
-  "vote_average": 7,
-  "vote_count": 810,
+  "vote_average": 7.0,
+  "vote_count": 816,
   "genres": [
     {
       "id": 16,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة بيكونفيل، يوجد مجموعة من الكلاب المدعوة باسم باو باتROL، الذين يلعبون دوراً مهماً في الحفاظ على المدينة من مختلف الأخطار والكوارث. كل كلب منهم لديه قوة.unique الخاصة به، مما يجعلهم قادرون في حل مختلف الأزمات التي تواجههم.",
-    "desc_en": "In the city of Bayport, a group of dogs known as PAW Patrol, play a crucial role in keeping the city safe from various dangers and disasters. Each dog has a unique power, making them capable of solving various problems they face.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع باو باتROL - توميتو",
-    "seo_title_ar": "مشاهدة فيلم باو باتROL مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم أطفال, أحداث PAW Patrol بالتفصيل, توميتو PAW Patrol, PAW Patrol مترجم كامل, مشاهدة PAW Patrol 2013, قصة مسلسل PAW Patrol",
-    "opinion": "هذا البرنامج التلفزيوني هو أفضل ما يمكن أن يحدث في عالم رسوم متحركة، حيث يجمع بين الإثارة والترفيه والتعليم في آن واحد.",
+    "intro": "يحكي مسلسل دورية باو قصة شجرة الأشبال الخمسة الذين يتعاونون مع رايدر لإنقاذ سكان بلدهم.",
+    "desc_ar": "يحكي مسلسل دورية باو قصة شجرة الأشبال الخمسة - باو، مارشال، روكي، ربل، زوما، و سكي - الذين يتعاونون مع رايدر، الفتى الفطن في التكنولوجيا، لإنقاذ سكان بلدهم. تمتلك كل من هذه الأشبال معدات خاصة، مما يسمح لهم بالعمل معًا لضمان إنقاذ الأشخاص الذين يجدون أنفسهم في مواقف صعبة. لا تقع أي مهمة كبيرة على shouldersهم، ولا يعتبر أي كلب صغير كيما يحتاج المساعدة. معًا، يمتلكون القدرة على حل أي مشكلة يتعرضون لها، سواء كانت كبيرة أو صغيرة.",
+    "desc_en": "PAW Patrol follows the adventures of the PAW Patrol team, led by Ryder, as they work together to protect the people of their town. Each member of the team is equipped with special equipment, and together they help anyone who finds themselves in trouble. No task is too big for them, and no puppy is too small. With their unique skills and teamwork, the PAW Patrol team is able to solve any problem that comes their way.",
+    "seo_title_ar": "مشاهدة مسلسل دورية باو مترجم - PAW Patrol - توميتو",
+    "meta_desc": "شاهد مسلسل دورية باو مترجم بالكامل - PAW Patrol - رسوم متحركة للمراهنين و الأطفال، يرافقك عبر مغامرات دورية باو و رايدر في إنقاذ سكان بلدهم. استمتع بمشاهدة",
+    "outro": "دوري باو هو مسلسل رسوم متحركة يتعلم الأطفال قيم التعاون والعمل معًا لإنقاذ الآخرين.",
+    "opinion_ar": "دوري باو يعد أحد أفضل المسلسلات الموجهة للاطفال، حيث يتعلم الأطفال قيم التعاون والعمل معًا لإنقاذ الآخرين. مع طاقته الفنية الممتازة ورسوماتها المثيرة، لا تفوت هذه الخبرة الجميلة.",
+    "opinion_en": "PAW Patrol is one of the best animated series for kids, where they learn the values of teamwork and helping others. With its excellent animation and engaging storyline, this is an experience not to be missed.",
     "faq": [
       {
-        "q": "ما هو باو باتROL؟",
-        "a": "هو برنامج تلفزيوني رسوم متحركة يلعب دوراً مهماً في الحفاظ على المدينة من مختلف الأخطار والكوارث."
+        "q": "ما هو مسلسل دورية باو؟",
+        "a": "يحكي مسلسل دورية باو قصة شجرة الأشبال الخمسة، الذين يتعاونون مع رايدر لإنقاذ سكان بلدهم.",
+        "q_en": "What is PAW Patrol?",
+        "a_en": "PAW Patrol is an animated series that follows the adventures of the PAW Patrol team, led by Ryder, as they work together to protect the people of their town."
       },
       {
-        "q": "ما هو هدف باو باتROL؟",
-        "a": "هدف باو باتROL هو الحفاظ على المدينة من مختلف الأخطار والكوارث، والعمل على حل مختلف الأزمات التي تواجههم."
-      },
-      {
-        "q": "ما هو أفضل ما في باو باتROL؟",
-        "a": "أفضل ما في باو باتROL هو أنّه يجمع بين الإثارة والترفيه والتعليم في آن واحد، مما يجعّه برنامج تلفزيوني رائعاً لجميع الأعمار"
+        "q": "من يرأس فريق دورية باو؟",
+        "a": "يُحكى أن رايدر، الفتى الفطن في التكنولوجيا، يرأس فريق دورية باو.",
+        "q_en": "Who leads the PAW Patrol team?",
+        "a_en": "Ryder, the tech-savvy 10-year-old boy, leads the PAW Patrol team."
       }
-    ]
+    ],
+    "keywords": "دورية باو, PAW Patrol, رسوم متحركة, أطفال, مسلسل, رسوم متحركة للأطفال, مسلسلات أطفال, مشاهدة دورية باو, PAW Patrol مترجم, تحميل دورية باو, دورية باو اون لاين, دورية باو جودة عالية, PAW Patrol online, فيلم دورية باو, PAW Patrol HD"
   },
   "fixed": true,
-  "first_air_date": "2013-08-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "كندا",
+  "cast": "Majestie lewton ll",
+  "first_air_date": "2013-08-12"
 }
