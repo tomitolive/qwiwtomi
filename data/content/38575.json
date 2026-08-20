@@ -9,7 +9,7 @@
   "backdrop_path": "/v8DepuF6gizphLzIyNZeQiB0hij.jpg",
   "release_date": "2010-06-10",
   "vote_average": 6.6,
-  "vote_count": 6546,
+  "vote_count": 6667,
   "genres": [
     {
       "id": 28,
@@ -29,12 +29,35 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة فيلم The Karate Kid (2010) مترجم بجودة عالية على توميتو.",
     "desc_ar": "في \"الصين\"، يتعلّم \"دري\" الدفاع عن نفسه ضدّ متنمّر باتباع إرشادات معلّم كونغ فو متواضع في هذه النسخة الجديدة من الفيلم الكلاسيكي لعام ‎1984‏.",
-    "desc_en": "في \"الصين\"، يتعلّم \"دري\" الدفاع عن نفسه ضدّ متنمّر باتباع إرشادات معلّم كونغ فو متواضع في هذه النسخة الجديدة من الفيلم الكلاسيكي لعام ‎1984‏.",
-    "meta_desc": "مشاهدة The Karate Kid مترجم بجودة عالية على توميتو.",
-    "keywords": "أحداث The Karate Kid بالتفصيل, مشاهدة The Karate Kid 2026, توميتو The Karate Kid, The Karate Kid مترجم, قصة فيلم The Karate Kid",
-    "seo_title_ar": "مشاهدة The Karate Kid مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "seo_title_ar": "مشاهدة فيلم The Karate Kid مترجم - توميتو",
+    "meta_desc": "مشاهدة طفل الكاراتيه مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد The Karate Kid الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة فيلم طفل الكاراتيه?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Karate Kid?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم طفل الكاراتيه?",
+        "a": "يندرج العمل تحت تصنيف حركة, مغامرة, دراما, عائلي.",
+        "q_en": "What is the genre of The Karate Kid?",
+        "a_en": "It falls under the genre of حركة, مغامرة, دراما, عائلي."
+      },
+      {
+        "q": "ما هي قصة فيلم طفل الكاراتيه?",
+        "a": "في \"الصين\"، يتعلّم \"دري\" الدفاع عن نفسه ضدّ متنمّر باتباع إرشادات معلّم كونغ فو متواضع في هذه النسخة الجديدة من الفيلم الكلاسيكي لعام ‎1984‏.",
+        "q_en": "What is the story of The Karate Kid?",
+        "a_en": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural dif..."
+      }
+    ],
+    "keywords": "طفل الكاراتيه مترجم, The Karate Kid مترجم, مشاهدة طفل الكاراتيه,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -42,5 +65,5 @@
   "duration": "140 دقيقة",
   "language": "الإنجليزية",
   "country": "الصين",
-  "cast": "Jaden Smith Jackie Chan Taraji P. Henson Wenwen Han Zac Wang"
+  "cast": "Jaden Smith Jackie Chan Taraji P. Henson Wenwen Han Zac Wang Yu Rongguang Wu Zhensu Wang Ji"
 }

@@ -4,14 +4,12 @@
   "title_ar": "كيف تفلت بجريمة قتل",
   "title_en": "How to Get Away with Murder",
   "slug": "61056-how-to-get-away-with-murder",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
   "poster_path": "/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
   "backdrop_path": "/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
   "release_date": "2014-09-25",
   "vote_average": 7.8,
-  "vote_count": 1759,
+  "vote_count": 1803,
   "genres": [
     {
       "id": 80,
@@ -27,19 +25,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل كيف تفلت بجريمة قتل (2014) مترجم بجودة عالية على توميتو.",
     "desc_ar": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
-    "desc_en": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
-    "meta_desc": "مشاهدة كيف تفلت بجريمة قتل مترجم بجودة عالية على توميتو.",
-    "keywords": "How to Get Away with Murder, قصة فيلم كيف تفلت بجريمة قتل, توميتو كيف تفلت بجريمة قتل, أحداث كيف تفلت بجريمة قتل بالتفصيل, مشاهدة كيف تفلت بجريمة قتل 2026, كيف تفلت بجريمة قتل مترجم",
-    "seo_title_ar": "مشاهدة كيف تفلت بجريمة قتل مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot and will shake the entire university and change the course of their lives.",
+    "seo_title_ar": "مشاهدة مسلسل How to Get Away with Murder مترجم - توميتو",
+    "meta_desc": "مشاهدة كيف تفلت بجريمة قتل مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد كيف تفلت بجريمة قتل الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل كيف تفلت بجريمة قتل?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch How to Get Away with Murder?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل كيف تفلت بجريمة قتل?",
+        "a": "يندرج العمل تحت تصنيف جريمة, دراما, غموض.",
+        "q_en": "What is the genre of How to Get Away with Murder?",
+        "a_en": "It falls under the genre of جريمة, دراما, غموض."
+      },
+      {
+        "q": "ما هي قصة مسلسل كيف تفلت بجريمة قتل?",
+        "a": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
+        "q_en": "What is the story of How to Get Away with Murder?",
+        "a_en": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot and will shake the ent..."
+      }
+    ],
+    "keywords": "كيف تفلت بجريمة قتل مترجم, How to Get Away with Murder مترجم, مشاهدة كيف تفلت بجريمة قتل,"
   },
   "fixed": true,
-  "first_air_date": "2014-09-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "97 دقيقة",
-  "language": "الإسبانية",
-  "country": "جمهورية الدومينيكان",
-  "cast": "Shalim Ortiz Frank Perozo Hemky Madera Charytín Milly Quezada"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Viola Davis Billy Brown Jack Falahee Rome Flynn Aja Naomi King Matt McGorry Conrad Ricamora Amirah Vann",
+  "first_air_date": "2014-09-25"
 }

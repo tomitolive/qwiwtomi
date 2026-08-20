@@ -1,57 +1,51 @@
 {
   "id": 252107,
-  "title": "Star City",
-  "title_ar": "Star City",
-  "title_en": "Star City",
-  "slug": "252107-star-city",
-  "overview": "اختبروا هذا الفصل المثير المستلهم من مسلسل For All Mankind. في الكون نفسه والتاريخ البديل نفسه، لكن من منظور مختلف: منظور \"الاتحاد السوفيتي\". اذهبوا وراء \"الستار الحديدي\" مع رواد الفضاء والمهندسين وضباط الاستخبارات الذين خاطروا بكل شيء في السباق نحو القمر.",
+  "title": "Hotxu",
+  "title_ar": "Hotxu",
+  "title_en": "Hotxu",
+  "slug": "252107-hotxu",
+  "overview": "يحكي هوتكسو قصة حياة اليومية للأفراد من قبيلة كراو، الذين يعيشون في بالماس، توكانتينز. يظهر الفيلم ثقافة العبء الهوتكسو وأهم حدث في قبيلة هو فستا دا تورا دا باتاتا، وهو حدث يعتبر أهم حدث في قبيلة الكراو. يتعرف المشاهد على الأفراد والثقافة في قبيلة الكراو من خلال هذا العمل.",
   "poster_path": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
-  "backdrop_path": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
-  "release_date": "2026-05-28",
-  "vote_average": 6.6,
-  "vote_count": 25,
+  "backdrop_path": null,
+  "release_date": "2007-01-01",
+  "vote_average": 5.0,
+  "vote_count": 1,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
-    },
-    {
-      "id": 10768,
-      "name": "حرب وسياسة"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Star City (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "انضموا إلينا في رحلة مثيرة إلى عالم Star City، حيث تدور أحداث المسلسل في كون بديل وتاريخ بديل مستوحى من مسلسل For All Mankind. استكشفوا منظور الاتحاد السوفيتي في سباق الفضاء المحموم نحو القمر.",
-    "desc_en": "Star City takes you on an exhilarating journey through an alternate universe, offering a unique Soviet perspective on the race to the Moon.",
-    "seo_title_ar": "مشاهدة مسلسل Star City مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل Star City (2026) مترجم بجودة عالية على توميتو. مسلسل خيال علمي ودراما عن سباق الفضاء من منظور سوفيتي.",
-    "outro": "شاهد Star City الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل Star City يقدم تجربة فريدة ومثيرة، حيث يسلط الضوء على الجانب السوفيتي في سباق الفضاء، مما يخلق سردًا مشوقًا ومختلفًا.",
-    "opinion_en": "Star City offers a fresh and captivating take on the space race narrative, focusing on the Soviet perspective for an engaging watch.",
+    "intro": "يحكي هوتكسو قصة حياة اليومية للأفراد من قبيلة كراو، الذين يعيشون في بالماس، توكانتينز.",
+    "desc_ar": "يحكي هوتكسو قصة حياة اليومية للأفراد من قبيلة كراو، الذين يعيشون في بالماس، توكانتينز. يظهر الفيلم ثقافة العبء الهوتكسو وأهم حدث في قبيلة هو فستا دا تورا دا باتاتا، وهو حدث يعتبر أهم حدث في قبيلة الكراو. يتعرف المشاهد على الأفراد والثقافة في قبيلة الكراو من خلال هذا العمل.",
+    "desc_en": "The documentary film Hotxu captures the daily lives of the Krah Indians, who reside in Palmas, Tocantins. It showcases the culture of the clown Hotxu and the Festa da Tora da Batata, the most significant event of the tribe. The film provides an in-depth look at the individuals and culture of the Krah people.",
+    "seo_title_ar": "مشاهدة هوتكسو فيلم وثائقي مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هوتكسو فيلم وثائقي حول ثقافة العبء الهوتكسو وفستا دا تورا دا باتاتا، أهم حدث في قبيلة الكراو. يتعرف المشاهد على حياة اليومية للأفراد في قبيل",
+    "outro": "يظل هوتكسو فيلمًا وثائقيًا يتعرفنا على ثقافة العبء الهوتكسو وأهم حدث في قبيلة الكراو.",
+    "opinion_ar": "هوتكسو هو فيلم وثائقي يتعرفنا على ثقافة العبء الهوتكسو وأهم حدث في قبيلة الكراو. يحتوي الفيلم على حكاية غنية بالتفاصيل.",
+    "opinion_en": "Hotxu is a documentary film that showcases the culture of the clown Hotxu and the Festa da Tora da Batata, the most important event of the Krah tribe. The film is rich in details and provides a unique perspective on the daily lives of the Krah people.",
     "faq": [
       {
-        "q": "هل مسلسل Star City مستوحى من أحداث حقيقية؟",
-        "a": "نعم، مستوحى من مسلسل For All Mankind، لكنه يقدم منظورًا مختلفًا للتاريخ البديل.",
-        "q_en": "Is Star City based on real events?",
-        "a_en": "Yes, it's inspired by For All Mankind, but offers an alternate history perspective."
+        "q": "ما هو موضوع الفيلم هوتكسو؟",
+        "a": "يحكي هوتكسو قصة حياة اليومية للأفراد من قبيلة كراو، الذين يعيشون في بالماس، توكانتينز.",
+        "q_en": "What is the subject of the documentary film Hotxu?",
+        "a_en": "The film Hotxu captures the daily lives of the Krah Indians, who reside in Palmas, Tocantins."
+      },
+      {
+        "q": "ما هي أهم حدث في قبيلة الكراو؟",
+        "a": "يظهر الفيلم ثقافة العبء الهوتكسو وأهم حدث في قبيلة هو فستا دا تورا دا باتاتا.",
+        "q_en": "What is the most important event of the Krah tribe?",
+        "a_en": "The film showcases the culture of the clown Hotxu and the Festa da Tora da Batata, the most significant event of the tribe."
       }
     ],
-    "keywords": "Star City, مسلسل, دراما, خيال علمي, فانتازيا, حرب, سياسة, سباق الفضاء, الاتحاد السوفيتي, القمر"
+    "keywords": "هوتكسو, فيلم وثائقي, ثقافة العبء الهوتكسو, فستا دا تورا دا باتاتا, قبيلة الكراو, بالماس, توكانتينز, مشاهدة هوتكسو, Hotxu مترجم, تحميل هوتكسو, هوتكسو اون لاين, Hotxu, هوتكسو جودة عالية, فيلم هوتكسو, Hotxu HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "70 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Rhys Ifans Anna Maxwell Martin Agnes O'Casey Alice Englert Solly McLeod Adam Nagaitis Ruby Ashbourne Serkis Josef Davies",
-  "first_air_date": "2026-05-28",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "البرازيل",
+  "cast": ""
 }

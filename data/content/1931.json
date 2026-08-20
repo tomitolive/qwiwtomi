@@ -4,14 +4,12 @@
   "title_ar": "دبب الاساطير",
   "title_en": "Disneys Adventures of the Gummi Bears",
   "slug": "1931-disneys-adventures-of-the-gummi-bears",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "انضم إلى أبطال العالم الأكثر حلاوة في مغامرة عالية في أرض سحرية من العمالقة والسحرة، والأوغر والتنانين، والمخلوقات الرائعة سواء كانت طيبة أو شريرة. تعرف على غروفي، زومي، كوبي، غرامي، تومي، سوني، وجميع الجوميز الأسطوريين بينما يضحكون، يلعبون، يحبطون المخططات الشريرة، ويقاتلون من أجل الصواب.",
   "poster_path": "/mqbX2l5Te3yMdAjDxvs5kRk0bhN.jpg",
-  "backdrop_path": "/i4NXlwt4xgYEYaRn4br8RIKLRzK.jpg",
+  "backdrop_path": "/Ab6nBFxS8TCiYhFCoqe2ue7qEb6.jpg",
   "release_date": "1985-09-14",
-  "vote_average": 7.4,
-  "vote_count": 263,
+  "vote_average": 7.5,
+  "vote_count": 277,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم سحري من العمالقة والسحرة، والأوغر والتنانين، والمخلوقات الرائعة، يلتقي أبطالنا مع غروفي، زومي، كوبي، غرامي، تومي، سوني، وجميع الجوميز الأسطوريين في مغامرة عالية في أرض سحرية، حيث يضحكون، يلعبون، يحبطون المخططات الشريرة، ويقاتلون من أجل الصواب.",
-    "desc_en": "In a magical world of giants, witches, ogres, and dragons, our heroes meet Gruffi, Zummi, Cubbi, Grammi, Tummi, and all the Gummis in a high-stakes adventure, where they laugh, play, thwart evil plans, and fight for what's right.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع أبطال العالم الأكثر حلاوة في دبب الاساطير!",
-    "seo_title_ar": "مشاهدة فيلم دبب الاساطير مترجم اون لاين - توميتو",
-    "keywords": "Disneys Adventures of the Gummi Bears, فيلم رسوم متحركة مترجم, مشاهدة فيلم عائلي للاطفال, أحداث دبب الاساطير بالتفصيل, مشاهدة دبب الاساطير 1985, توميتو دبب الاساطير, قصة مسلسل دبب الاساطير, دبب الاساطير مترجم كامل",
-    "opinion": "هذه المغامرة السحرة هي واحدة من أفضل البرامج التلفزيونية التي شاهدناها، حيث تجمع بين المغامرة والكوميديا والفانتازيا في أفضل حالاتها.",
+    "intro": "دبب الاساطير هو مسلسل رسوم متحركة حائز على جائزة، يحتوي على قصة مثيرة ومغامرات رائعة.",
+    "desc_ar": "يحكي مسلسل دبب الاساطير قصة بطولة العالم في أرض مليئة بالسحر، حيث تتعاون المخلوقات الرائعة مثل الجوميز الأسطوريين مع العمالقة والسحرة، والأوغر والتنانين، معاً في مواجهة الشر والخير. في هذا العالم الساحر، يلتقي المشاهد مع غروفي، زومي، كوبي، غرامي، تومي، سوني، وجميع الجوميز الأسطوريين، الذين يضحكون، يلعبون، يحبطون المخططات الشريرة، ويقاتلون من أجل الصواب. مع عالم مليء بالحكايات والأفكار السحرية، ينتظر المشاهد مغامرة هائلة مع الجوميز الأسطوريين.",
+    "desc_en": "Join the worlds sweetest heroes for high adventure in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil. Meet Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the legendary Gummis as they laugh, play, foil dastardly plots, and fight for what's right. In this magical world, the audience is treated to a high-stakes adventure with the legendary Gummis.",
+    "seo_title_ar": "مشاهدة دبب الاساطير مسلسل رسوم متحركة 1985 مترجم - توميتو",
+    "meta_desc": "دبب الاساطير, Disneys Adventures Gummi Bears, مسلسل رسوم متحركة, عائلي, أطفال, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "دعونا نستمتع بمشاهدة هذا العمل الرائع مع الجوميز الأسطوريين في أرض مليئة بالسحر.",
+    "opinion_ar": "دبب الاساطير هو مسلسل رسوم متحركة حائز على جائزة، يحتوي على قصة مثيرة ومغامرات رائعة، مع بطولة العالم في أرض مليئة بالسحر.",
+    "opinion_en": "Disneys Adventures of the Gummi Bears is an award-winning animated series, featuring an exciting storyline and thrilling adventures, set in a mystical world where heroes and villains clash.",
     "faq": [
       {
         "q": "ما هو دبب الاساطير؟",
-        "a": "هو برنامج تلفزيوني رسوم متحركة أمريكي ينتج من قبل استوديو أنيماتيون، يليق بلاطفال والكبار على حد سواء."
+        "a": "دبب الاساطير هو مسلسل رسوم متحركة يتعامل مع مغامرات بطولة العالم في أرض مليئة بالسحر.",
+        "q_en": "What is Disneys Adventures of the Gummi Bears?",
+        "a_en": "Disneys Adventures of the Gummi Bears is an animated series that follows the adventures of the worlds sweetest heroes in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil."
       },
       {
-        "q": "ما هو نوع دبب الاساطير؟",
-        "a": "هو برنامج تلفزيوني رسوم متحركة عائلي للاطفال."
-      },
-      {
-        "q": "ما هو أفضل جزء في دبب الاساطير؟",
-        "a": "هو المغامرة السحرة والكوميديا والفانتازيا التي تجمع بينها"
+        "q": "من بطولة دبب الاساطير؟",
+        "a": "يشارك في بطولة مسلسل دبب الاساطير الجوميز الأسطوريين، الذين يضحكون، يلعبون، يحبطون المخططات الشريرة، ويقاتلون من أجل الصواب.",
+        "q_en": "Who are the main characters in Disneys Adventures of the Gummi Bears?",
+        "a_en": "The main characters in Disneys Adventures of the Gummi Bears are the legendary Gummis, including Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the rest, who laugh, play, foil dastardly plots, and fight for what's right."
       }
-    ]
+    ],
+    "keywords": "دبب الاساطير, مسلسل رسوم متحركة, عائلي, أطفال, 1985, توميتو, مشاهدة دبب الاساطير, Disneys Adventures Gummi Bears مترجم, تحميل دبب الاساطير, دبب الاساطير اون لاين, Disneys Adventures Gummi Bears, دبب الاساطير جودة عالية, فيلم دبب الاساطير, Disneys Adventures Gummi Bears HD, دبب الاساطير HD"
   },
   "fixed": true,
-  "first_air_date": "1985-09-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "114 دقيقة",
+  "duration": "11 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Columbus Short Meagan Good Ne-Yo Darrin Henson Jermaine Williams"
+  "country": "اليابان",
+  "cast": "June Foray Lorenzo Music Katie Leigh Jim Cummings Noelle North Michael Rye Will Ryan Corey Burton",
+  "first_air_date": "1985-09-14"
 }

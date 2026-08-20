@@ -4,14 +4,12 @@
   "title_ar": "Step by Step",
   "title_en": "Step by Step",
   "slug": "2617-step-by-step",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"خطوة بخطوة\" قصة عائلة معقدة يتزوج فيها والداه بعد لقاءهم في رحلة سياحية، مما يؤدي إلى تكون رأس هذه العائلة الواحدة من الوالدين المتزوجين حديثًا. يظهر المسلسل حياة العائلة المعقدة التي تتكون من أبناء الوالدين السابقين، الذين يجب أن يعيشوا جميعًا تحت سقف واحد. يتعامل المسلسل مع العديد من التحديات التي يواجهها العائلة، مثل التكيف مع بعضها البعض والتعامل مع الإعاقات التي تؤثر على بعض أفراد العائلة.",
   "poster_path": "/4XMxYOxNvxEkfxUKhs8AoGBQiVD.jpg",
   "backdrop_path": "/aUSTj1kif2dqt65POwHrcyjhXRg.jpg",
   "release_date": "1991-09-20",
   "vote_average": 7.8,
-  "vote_count": 444,
+  "vote_count": 465,
   "genres": [
     {
       "id": 35,
@@ -23,25 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذا البرنامج التلفزيوني الكوميدي، نرى كيف يتعامل شخص ما مع الأحداث اليومية في حياته، من خلال سلسلة من الحلقات الممتعة والمرهقة، والتي تظهر كيفية التعامل مع الأزمات والصعوبات في الحياة اليومية، من خلال الضحك والمرح،",
-    "desc_en": "In this comedic TV series, we see how someone deals with daily events in their life, through a series of entertaining and thrilling episodes, which show how to deal with crises and difficulties in daily life, through laughter and joy,",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في البرنامج التلفزيوني الكوميدي \"الخطوة一步\" على توميتو",
-    "seo_title_ar": "مشاهدة برنامج \"الخطوة一步\" مترجم اون لاين - توميتو",
-    "keywords": "برنامج كوميدي, مشاهدة برنامج عائلي, برنامج تلفزيوني كوميدي, أحداث Step by Step بالتفصيل, قصة مسلسل Step by Step, مشاهدة Step by Step 1991, Step by Step مترجم كامل, توميتو Step by Step",
-    "opinion": "هذا البرنامج التلفزيوني الكوميدي هو أفضل ما يمكن أن يحدث في عالم التلفزيون، حيث يجمع بين الكوميديا والمرح والضحك، مما يجعله مثاليًا لجميع الأعمار",
+    "intro": "يتناول مسلسل \"خطوة بخطوة\" قصة عائلة معقدة تتكون من أبناء الوالدين السابقين، الذين يجب أن يعيشوا جميعًا تحت سقف واحد.",
+    "desc_ar": "يحكي مسلسل \"خطوة بخطوة\" قصة عائلة معقدة يتزوج فيها والداه بعد لقاءهم في رحلة سياحية، مما يؤدي إلى تكون رأس هذه العائلة الواحدة من الوالدين المتزوجين حديثًا. يظهر المسلسل حياة العائلة المعقدة التي تتكون من أبناء الوالدين السابقين، الذين يجب أن يعيشوا جميعًا تحت سقف واحد. يتعامل المسلسل مع العديد من التحديات التي يواجهها العائلة، مثل التكيف مع بعضها البعض والتعامل مع الإعاقات التي تؤثر على بعض أفراد العائلة.",
+    "desc_en": "Step by Step is an American television sitcom with two single parents, who spontaneously get married after meeting one another during a vacation, resulting in them becoming the heads of a large blended family. The show explores the complex life of this family, consisting of the parents' previous children, who must now live together under one roof. The series tackles various challenges faced by the family, such as adjusting to each other and dealing with disabilities affecting some family members.",
+    "seo_title_ar": "مشاهدة مسلسل خطوة بخطوة مترجم - توميتو",
+    "meta_desc": "خطوة بخطوة مسلسل كوميدي عائلي مترجم، يروى قصة عائلة معقدة تتكون من أبناء الوالدين السابقين، يتعامل مع التحديات التي يواجهها العائلة. استمتع بمشاهدة ه",
+    "outro": "يسعدنا أن نُقدم لك مسلسل \"خطوة بخطوة\"، الذي يُحكي قصة عائلة معقدة، مما يجعلك تشعر بالتعاطف مع أفراد العائلة.",
+    "opinion_ar": "يعد \"خطوة بخطوة\" مسلسلًا كوميديًا ممتعًا يُحكي قصة عائلة معقدة، مما يجعلك تشعر بالتعاطف مع أفراد العائلة.",
+    "opinion_en": "Step by Step is a delightful comedy series that tells the story of a complex family, making you feel empathetic towards its members.",
     "faq": [
       {
-        "q": "ما هو البرنامج التلفزيوني \"الخطوة一步\"؟",
-        "a": "هو برنامج تلفزيوني كوميدي يروي قصة شخص ما في حياته اليومية"
+        "q": "ما هو نوع مسلسل خطوة بخطوة؟",
+        "a": "مسلسل كوميدي عائلي",
+        "q_en": "What type of series is Step by Step?",
+        "a_en": "A comedy family series"
+      },
+      {
+        "q": "ما هو موضوع مسلسل خطوة بخطوة؟",
+        "a": "يتناول مسلسل خطوة بخطوة قصة عائلة معقدة تتكون من أبناء الوالدين السابقين.",
+        "q_en": "What is the subject of Step by Step?",
+        "a_en": "The series explores the story of a complex family consisting of the parents' previous children."
       }
-    ]
+    ],
+    "keywords": "خطوة بخطوة, مسلسل كوميدي, عائلي, مترجم, توميتو, مشاهدة خطوة بخطوة, Step Step مترجم, تحميل خطوة بخطوة, خطوة بخطوة اون لاين, Step Step, خطوة بخطوة جودة عالية, فيلم خطوة بخطوة, Step Step HD, خطوة بخطوة HD, مسلسل خطوة بخطوة"
   },
   "fixed": true,
-  "first_air_date": "1991-09-20",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "91 دقيقة",
+  "duration": "20 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dan Aykroyd John Candy Stephanie Faracy Annette Bening Chris Young"
+  "cast": "Patrick Duffy Suzanne Somers Brandon Call Staci Keanan Christine Lakin Angela Watson Christopher Castile Jason Marsden",
+  "first_air_date": "1991-09-20"
 }
