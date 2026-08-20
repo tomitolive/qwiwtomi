@@ -9,7 +9,7 @@
   "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
   "release_date": "2002-12-19",
   "vote_average": 7.5,
-  "vote_count": 2490,
+  "vote_count": 2568,
   "genres": [
     {
       "id": 18,
@@ -29,18 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "هزم رجل ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة مسبقًا.",
-    "desc_en": "هزم رجل ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة مسبقًا.",
-    "meta_desc": "مشاهدة Hero مترجم بجودة عالية على توميتو.",
-    "keywords": "أحداث Hero بالتفصيل, قصة فيلم Hero, Hero مترجم, مشاهدة Hero 2026, توميتو Hero",
-    "seo_title_ar": "مشاهدة Hero مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"بطل\" قصة رجل شجاع هزم ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة، ويبدو أن هذا الفيلم يروي قصة حقيقية، لكنها محملة بالتحيزات والمواقف السياسية.",
+    "desc_ar": "يحكي فيلم \"بطل\" قصة رجل شجاع هزم ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة، ووصل هذا الرجل إلى القصر من أجل إثبات إنجازاته ورضا القائد، ويبدو أن هذا الفيلم يروي قصة حقيقية، لكنها محملة بالتحيزات والمواقف السياسية، ويظهر هذا من خلال تفاصيل الأحداث وتصرفات الشخصيات، ويبدو أن الفيلم سوف يثير استيعاب المشاهدين وتفاعلهم مع القصة",
+    "desc_en": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago. The story is a tale of bravery, honor, and the complexities of the human heart, as the prefect navigates the treacherous waters of court politics and confronts his own demons. Through its richly detailed characters and gripping plot, Hero takes viewers on a journey through the tumultuous history of ancient China, revealing the triumphs and tragedies of a bygone era.",
+    "seo_title_ar": "مشاهدة فيلم بطل 2002 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم بطل 2002 مترجم على توميتو، حيث يروي قصة رجل شجاع هزم ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة، واستمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يظهر فيلم \"بطل\" قوة الشخصية البطلة والقدرة على التغلب على التحديات، ويسلط الضوء على أهمية العلاقات بين الأشخاص في المجتمع.",
+    "opinion_ar": "فيلم \"بطل\" هو تجربة مشاهدة غنية وممتعة، يجمع بين دراما ومغامرة وحركة وتاريخ في قصة حقيقية ومثيرة.",
+    "opinion_en": "Hero is a cinematic experience that will leave viewers spellbound, a rich tapestry of drama, action, and history woven together with a gripping narrative that will keep you on the edge of your seat.",
+    "faq": [
+      {
+        "q": "ما هو موضوع فيلم \"بطل\"؟",
+        "a": "يحكي فيلم \"بطل\" قصة رجل شجاع هزم ثلاثة قتلة سعوا لقتل أقوى أمراء حرب في الصين الموحدة.",
+        "q_en": "What is the subject of the movie Hero?",
+        "a_en": "The movie Hero tells the story of a brave man who defeated three assassins who attempted to kill the king of China during the Warring States period."
+      },
+      {
+        "q": "ما هي أبرز مميزات فيلم \"بطل\"؟",
+        "a": "يجمع فيلم \"بطل\" بين دراما ومغامرة وحركة وتاريخ في قصة حقيقية ومثيرة.",
+        "q_en": "What are the most notable features of the movie Hero?",
+        "a_en": "Hero combines drama, action, and history in a gripping and realistic story."
+      }
+    ],
+    "keywords": "بطل, فيلم, دراما, مغامرة, حركة, تاريخ, الصين, قصر, قائد, رجل شجاع, قتلة, أمراء حرب, وarring, قصة حقيقية, بطل العالم, مسلسل بطل العالم, بطل كاس العالم, بطل الدوري السعودي, بطاطس بطل, بطل اسيا, بطل افريقيا"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "99 دقيقة",
-  "language": "الصينية",
-  "country": "هونغ كونغ",
-  "cast": "Jet Li Tony Leung Chiu-wai Maggie Cheung Donnie Yen Zhang Ziyi"
+  "language": "الإنجليزية",
+  "country": "Hong Kong",
+  "cast": "Jet Li Tony Leung Chiu-wai Maggie Cheung Donnie Yen Zhang Ziyi Chen Daoming Liu Zhongyuan Zheng Tianyong"
 }
