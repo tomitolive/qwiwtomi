@@ -4,12 +4,12 @@
   "title_ar": "This Is It",
   "title_en": "This Is It",
   "slug": "13576-this-is-it",
-  "overview": "",
+  "overview": "يبحث هذا الفيلم في عقلية ومشاعر الفنان الكبير مايكل جاكسون خلاله لأسطول من العروض المباعة بالكامل في لندن. ويظهر الفيلم حوارات وممارسات ومقاطع من خلف الكواليس التي توضح تنوعات الفنان ومهاراته. كما يسلط الضوء على رغبة مايكل جاكسون في تقديم أفضل العروض لفانيه لفانيه، وتحقيق أحلامه في عالم التمثيل.",
   "poster_path": "/8GvQzHFSqr9KhyVxLEpB5dXPOWG.jpg",
   "backdrop_path": "/mqAuLsN6oOme6lSKoTb6yyP4U8E.jpg",
   "release_date": "2009-10-28",
-  "vote_average": 7.3,
-  "vote_count": 1042,
+  "vote_average": 7.4,
+  "vote_count": 1094,
   "genres": [
     {
       "id": 10402,
@@ -21,18 +21,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذا الفيلم الوثائقي المثير، نرى كيف أن الموسيقى يمكن أن ت改变 حياتنا. من خلال قصة رائعة، نتعرف على كيفية تأثير الموسيقى على الأشخاص والمنظمات. شاهد كيف يمكن أن ي改变 حياتك.",
-    "desc_en": "In this captivating documentary, we see how music can change our lives. Through a great story, we learn how music can affect people and organizations. See how it can change your life.",
-    "meta_desc": "واش غيفلت؟ اكتشف كيفية تأثير الموسيقى على حياتنا في هذا الفيلم الوثائقي المثير!",
-    "seo_title_ar": "مشاهدة فيلم هذا هو إنه مترجم اون لاين - توميتو",
-    "keywords": "فيلم موسيقى مترجم, مشاهدة فيلم موسيقى, قصة فيلم This Is It, توميتو This Is It, مشاهدة This Is It 2009, This Is It مترجم, أحداث This Is It بالتفصيل",
-    "opinion": "هذا الفيلم هو إبداع رائع، حيث يظهر كيفية تأثير الموسيقى على الأشخاص والمنظمات. من خلال قصة رائعة، نتعرف على كيفية تغيير حياتنا.",
+    "intro": "هذا هو فيلم موسيقى وثائقي يسلط الضوء على حياة مايكل جاكسون.",
+    "desc_ar": "يبحث هذا الفيلم في عقلية ومشاعر الفنان الكبير مايكل جاكسون خلاله لأسطول من العروض المباعة بالكامل في لندن. ويظهر الفيلم حوارات وممارسات ومقاطع من خلف الكواليس التي توضح تنوعات الفنان ومهاراته. كما يسلط الضوء على رغبة مايكل جاكسون في تقديم أفضل العروض لفانيه لفانيه، وتحقيق أحلامه في عالم التمثيل.",
+    "desc_en": "A compilation of interviews, rehearsals and backstage footage of Michael Jackson as he prepared for his series of sold-out shows in London.",
+    "seo_title_ar": "مشاهدة هذا هو - فيلم موسيقى وثائقي مترجم - توميتو",
+    "meta_desc": "شاهد هذا الفيلم الوثائقي الموسيقي الذي يوثق حوارات وممارسات ومقاطع من خلف الكواليس لفنان الموسيقى الكبير مايكل جاكسون في لندن. استمتع بمشاهدة هذا العمل بجو",
+    "outro": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "opinion_ar": "هذا هو هو فيلم فني رائع يسلط الضوء على شخصية ومهارات مايكل جاكسون.",
+    "opinion_en": "This Is It is a great documentary that showcases Michael Jackson's personality and talents.",
     "faq": [
       {
-        "q": "ما هو تأثير الموسيقى على حياتنا؟",
-        "a": "يمكن أن يغير حياتنا"
+        "q": "ما هو هذا الفيلم؟",
+        "a": "هذا هو فيلم موسيقى وثائقي عن حياة مايكل جاكسون.",
+        "q_en": "What is this film?",
+        "a_en": "This Is It is a music and documentary film about the life of Michael Jackson."
+      },
+      {
+        "q": "ما هي قصة هذا الفيلم؟",
+        "a": "يبحث هذا الفيلم في عقلية ومشاعر مايكل جاكسون خلال إعداده لأسطول من العروض المباعة في لندن.",
+        "q_en": "What is the story of this film?",
+        "a_en": "This Is It follows the preparation of Michael Jackson for his series of sold-out shows in London."
+      },
+      {
+        "q": "لماذا يجب أن نشاهد هذا الفيلم؟",
+        "a": "لأن هذا هو فيلم فني رائع يسلط الضوء على شخصية ومهارات مايكل جاكسون.",
+        "q_en": "Why should we watch this film?",
+        "a_en": "This Is It is a great film that showcases Michael Jackson's personality and talents."
       }
-    ]
+    ],
+    "keywords": "مايكل جاكسون, هذا هو, فيلم موسيقى وثائقي, لندن, عروض مبيعة بالكامل, حوارات, ممارسات, مقاطع من خلف الكواليس, مشاهدة هذا هو, This Is It مترجم, تحميل هذا هو, هذا هو اون لاين, This Is It, هذا هو جودة عالية, فيلم هذا هو"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -40,5 +57,5 @@
   "duration": "111 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael Jackson Orianthi Kenny Ortega Dorian Holley Patrick Woodroffe"
+  "cast": "Michael Jackson Orianthi Kenny Ortega Dorian Holley Patrick Woodroffe Bashiri Johnson Mo Pleasure Jonathan Moffett"
 }

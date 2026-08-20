@@ -1,17 +1,15 @@
 {
   "id": 549,
-  "title": "القانون ونظام",
-  "title_ar": "القانون ونظام",
+  "title": "القانون والنظام",
+  "title_ar": "القانون والنظام",
   "title_en": "Law Order",
   "slug": "549-law-order",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "في حالات مستمدة من الأحداث الراهنة، يقوم رجال الشرطة بالتحقيق في جرائم خطيرة وغالباً ما تكون قاتلة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. ثم يقوم مكتب الادعاء ببناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل. يعمل هذان الفريقان المتخصصان معًا على التنقل في جميع جوانب النظام القضائي الجنائي المعقد لجعل نيويورك مكانًا أكثر أمانًا.",
+  "overview": "في حالات مستمدة من الأحداث الراهنة، يقوم رجال الشرطة بالتحقيق في جرائم خطيرة وغالبًا ما تكون قاتلة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. ثم يقوم مكتب الادعاء ببناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل. يعمل هذان الفريقان المتخصصان معًا على التنقل في جميع جوانب النظام القضائي الجنائي المعقد لجعل نيويورك مكانًا أكثر أمانًا.",
   "poster_path": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
   "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
   "release_date": "1990-09-13",
   "vote_average": 7.3,
-  "vote_count": 686,
+  "vote_count": 706,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم القانون والنظام، يتعامل رجال الشرطة مع حالات مستمدة من الأحداث الراهنة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. في هذه الرحلة، سوف نرى كيف يعمل مكتب الادعاء على بناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل.",
-    "desc_en": "In the world of Law Order, police officers deal with cases derived from current events, where they analyze evidence and interrogate suspects until someone is arrested. In this journey, we will see how the prosecution office builds a case to condemn the guilty party through evidence that surpasses reasonable doubt.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في قانون ونظام - توميتو",
-    "seo_title_ar": "مشاهدة فيلم القانون ونظام مترجم اون لاين - توميتو",
-    "keywords": "Law Order, فيلم جريمة مترجم, مشاهدة فيلم دراما, القانون ونظام مترجم كامل, مشاهدة القانون ونظام 1990, توميتو القانون ونظام, قصة مسلسل القانون ونظام, أحداث القانون ونظام بالتفصيل",
-    "opinion": "هو فيلم قانون ونظام يخلق atmosphère من التوتر والتشويق، حيث نرى رجال الشرطة يعملون معًا لجعل نيويورك مكانًا أكثر أمانًا.",
+    "intro": "يدور مسلسل \"القانون والنظام\" حول حياة رجال الشرطة والادعاء في نيويورك، ويستكشف القضايا الجديرة بالملاحظة.",
+    "desc_ar": "يحكي مسلسل \"القانون والنظام\" قصة رجال الشرطة الذين يقومون بالتحقيق في جرائم خطيرة، ويستخدمون أدلة وشهادات لتحديد الجاني. يتعاون الفريق الشرطي مع مكتب الادعاء لتحقيق العدالة، ويقومون ببناء قضية لإدانة الجاني، مع مراعاة جميع جوانب النظام القضائي الجنائي. هذا المسلسل يركز على القضايا الجديرة بالملاحظة، ويحاول جعل نيويورك مكانًا أكثر أمانًا.",
+    "desc_en": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "seo_title_ar": "مشاهدة مسلسل جريمة القانون والنظام مترجم - توميتو",
+    "meta_desc": "مسلسل جريمة دراما عن رجال الشرطة والادعاء في نيويورك، يستكشف القضايا الجديرة بالملاحظة، ويدرك العدالة، ويساعد في جعل المدينة أكثر أمانا. استمتع بمشاه",
+    "outro": "يساعد مسلسل \"القانون والنظام\" في جعل نيويورك مكانًا أكثر أمانًا، ويقدم قصة مثيرة وممتعة للاستماع إليها.",
+    "opinion_ar": "يعد \"القانون والنظام\" واحدة من أفضل المسلسلات التي تتعامل مع القضايا الجديرة بالملاحظة، وتدور حول حياة رجال الشرطة والادعاء في نيويورك.",
+    "opinion_en": "Law Order is one of the best shows that deal with the most notable cases, and revolves around the lives of police officers and prosecutors in New York.",
     "faq": [
       {
-        "q": "ما هو قانون ونظام؟",
-        "a": "هو فيلم جريمة دراما يتبع حالات مستمدة من الأحداث الراهنة."
+        "q": "ما هي قصة مسلسل \"القانون والنظام\"؟",
+        "a": "يتحقق رجال الشرطة في جرائم خطيرة، ويستخدمون أدلة وشهادات لتحديد الجاني.",
+        "q_en": "What is the story of Law Order?",
+        "a_en": "Police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody."
       },
       {
-        "q": "ما هو نوع فيلم قانون ونظام؟",
-        "a": "هو فيلم تلفزيوني جريمة دراما."
-      },
-      {
-        "q": "ما هو غرض فيلم قانون ونظام؟",
-        "a": "يهدف الفيلم إلى عرض كيف يعمل النظام القضائي الجنائي في نيويورك"
+        "q": "متى ظهر مسلسل \"القانون والنظام\"؟",
+        "a": "ظهر مسلسل \"القانون والنظام\" في عام 1990.",
+        "q_en": "When did Law Order first appear?",
+        "a_en": "Law Order first appeared in 1990."
       }
-    ]
+    ],
+    "keywords": "جريمة دراما مسلسل قانون والنظام رجال الشرطة الادعاء نيويورك قضايا جديرة بالملاحظة, مشاهدة القانون والنظام, Law Order مترجم, تحميل القانون والنظام, القانون والنظام اون لاين, Law Order, القانون والنظام جودة عالية, فيلم القانون والنظام, Law Order HD, القانون والنظام HD, مسلسل القانون والنظام, Law Order مشاهدة, القانون والنظام توب سينما, القانون والنظام شاهدد, القانون والنظام توميتو"
   },
   "fixed": true,
-  "first_air_date": "1990-09-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "107 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jeffrey Wright Michael Wincott Benicio del Toro Claire Forlani David Bowie"
+  "cast": "",
+  "first_air_date": "1990-09-13"
 }
