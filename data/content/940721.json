@@ -4,14 +4,12 @@
   "title_ar": "Godzilla Minus One",
   "title_en": "Godzilla Minus One",
   "slug": "940721-godzilla-minus-one",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "في \"اليابان\" بعد الحرب، ينضم طيار حربي سابق يعاني من الصدمة إلى جهود المدنيين في مواجهة وحش عملاق مطور نوويًّا يهاجم شواطئهم.",
   "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
   "backdrop_path": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
   "release_date": "2023-11-03",
   "vote_average": 7.6,
-  "vote_count": 3166,
+  "vote_count": 3329,
   "genres": [
     {
       "id": 878,
@@ -27,12 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في \"اليابان\" بعد الحرب، ينضم طيار حربي سابق يعاني من الصدمة إلى جهود المدنيين في مواجهة وحش عملاق مطور نوويًّا يهاجم شواطئهم.",
-    "desc_en": "في \"اليابان\" بعد الحرب، ينضم طيار حربي سابق يعاني من الصدمة إلى جهود المدنيين في مواجهة وحش عملاق مطور نوويًّا يهاجم شواطئهم.",
-    "meta_desc": "مشاهدة Godzilla Minus One مترجم بجودة عالية على توميتو.",
-    "keywords": "مشاهدة Godzilla Minus One 2026, Godzilla Minus One مترجم, أحداث Godzilla Minus One بالتفصيل, توميتو Godzilla Minus One, قصة فيلم Godzilla Minus One",
-    "seo_title_ar": "مشاهدة Godzilla Minus One مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"جودزيلا ناقص واحد\" قصة حربية خيالية بعد نهاية الحرب العالمية الثانية في اليابان.",
+    "desc_ar": "يحكي فيلم \"جودزيلا ناقص واحد\" قصةً حربيةً خياليةً بعد نهاية الحرب العالمية الثانية في اليابان، حيث ينضم طيار حربي سابق يعاني من الصدمة إلى جهود المدنيين في مواجهة وحش عملاق مطور نوويًّا يهاجم شواطئهم. يُظهر الفيلم قوة الحشر والدمار الذي يسببه هذا الوحش في الأراضي المدمرة. يُحاول البشر أن يلجأوا إلى حلول غير عسكرية، مما يؤدي إلى صراع مستمر بين الإنسان والوحش العتيد. هذا الصراع يظهر دراماً حقيقيةً للبشر في مواجهة الهجمات المستمرة للوحش. يهز الفيلم قمة الإبداع في مجال الأفلام، حيث يركز على الخيال العلمي والرعب والحركة.",
+    "desc_en": "Godzilla Minus One is a postwar Japanese film that tells the story of a former war pilot who suffers from trauma and joins the civilian efforts to face a giant, nuclear-developed monster that invades their shores. The film showcases the power of destruction and the chaos caused by this monster in the devastated lands. Humans try to resort to non-military solutions, leading to a constant struggle between humans and the giant monster. This struggle reveals a real drama for humans in the face of continuous monster attacks. The film shakes the pinnacle of creativity in the film industry, focusing on scientific fiction, horror, and action.",
+    "seo_title_ar": "مشاهدة فيلم جودزيلا ناقص واحد مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم جودزيلا ناقص واحد 2023 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. خيال علمي، رعب، حركة في اليابان بعد الحرب. استمتع بمشاهدة",
+    "outro": "يعد فيلم \"جودزيلا ناقص واحد\" تجربة فنية فريدة ومذهلة، حيث يجمع بين الخيال العلمي والرعب والحركة بطريقة فريدة.",
+    "opinion_ar": "يعد فيلم \"جودزيلا ناقص واحد\" تجربة فنية فريدة ومذهلة، حيث يجمع بين الخيال العلمي والرعب والحركة بطريقة فريدة.",
+    "opinion_en": "Godzilla Minus One is a unique and thrilling cinematic experience, combining scientific fiction, horror, and action in a unique way.",
+    "faq": [
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم خيال علمي، رعب، حركة",
+        "q_en": "What is the type of the film?",
+        "a_en": "Scientific fiction, horror, action film"
+      },
+      {
+        "q": "متى صدر الفيلم؟",
+        "a": "2023",
+        "q_en": "When was the film released?",
+        "a_en": "2023"
+      }
+    ],
+    "keywords": "فيلم خيال علمي, رعب, حركة, اليابان, الحرب, جودزيلا ناقص واحد, Godzilla Minus One, مشاهدة جودزيلا ناقص واحد, Godzilla Minus One مترجم, تحميل جودزيلا ناقص واحد, جودزيلا ناقص واحد اون لاين, جودزيلا ناقص واحد جودة عالية, فيلم جودزيلا ناقص واحد, Godzilla Minus One HD, Godzilla Minus One online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -40,5 +55,5 @@
   "duration": "125 دقيقة",
   "language": "اليابانية",
   "country": "اليابان",
-  "cast": "Ryunosuke Kamiki Minami Hamabe Yuki Yamada Munetaka Aoki Hidetaka Yoshioka"
+  "cast": "Ryunosuke Kamiki Minami Hamabe Yuki Yamada Munetaka Aoki Hidetaka Yoshioka Sakura Ando Kuranosuke Sasaki Sae Nagatani"
 }

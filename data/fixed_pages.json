@@ -5903,8 +5903,98 @@
       "file": "43398.json",
       "title": "هزاردستان",
       "fixed_at": "2026-08-20T05:36:18.633269"
+    },
+    {
+      "tmdb_id": "1479832",
+      "file": "1479832.json",
+      "title": "DC",
+      "fixed_at": "2026-08-20T06:26:44.005515"
+    },
+    {
+      "tmdb_id": "822119",
+      "file": "822119.json",
+      "title": "كابتن أمريكا شجاع العالم الجديد",
+      "fixed_at": "2026-08-20T06:26:51.026849"
+    },
+    {
+      "tmdb_id": "11294",
+      "file": "11294.json",
+      "title": "Kitchen Nightmares",
+      "fixed_at": "2026-08-20T06:27:04.421274"
+    },
+    {
+      "tmdb_id": "54155",
+      "file": "54155.json",
+      "title": "هانا",
+      "fixed_at": "2026-08-20T06:27:13.102420"
+    },
+    {
+      "tmdb_id": "135157",
+      "file": "135157.json",
+      "title": "خيمياء الأرواح",
+      "fixed_at": "2026-08-20T06:27:22.272730"
+    },
+    {
+      "tmdb_id": "60833",
+      "file": "60833.json",
+      "title": "The Irregular at Magic High School",
+      "fixed_at": "2026-08-20T06:27:37.595581"
+    },
+    {
+      "tmdb_id": "1044",
+      "file": "1044.json",
+      "title": "كوكب الأرض",
+      "fixed_at": "2026-08-20T06:27:48.323223"
+    },
+    {
+      "tmdb_id": "66732",
+      "file": "66732.json",
+      "title": "Stranger Things",
+      "fixed_at": "2026-08-20T06:27:57.191397"
+    },
+    {
+      "tmdb_id": "327916",
+      "file": "327916.json",
+      "title": "Dead of Winter",
+      "fixed_at": "2026-08-20T06:28:07.542097"
+    },
+    {
+      "tmdb_id": "99419",
+      "file": "99419.json",
+      "title": "Manon 70",
+      "fixed_at": "2026-08-20T06:28:15.143805"
+    },
+    {
+      "tmdb_id": "940721",
+      "file": "940721.json",
+      "title": "Godzilla Minus One",
+      "fixed_at": "2026-08-20T06:28:28.627894"
+    },
+    {
+      "tmdb_id": "398",
+      "file": "398.json",
+      "title": "Capote",
+      "fixed_at": "2026-08-20T06:28:44.191088"
+    },
+    {
+      "tmdb_id": "755898",
+      "file": "755898.json",
+      "title": "حرب العوالم",
+      "fixed_at": "2026-08-20T06:29:19.092433"
+    },
+    {
+      "tmdb_id": "198178",
+      "file": "198178.json",
+      "title": "وندر مان",
+      "fixed_at": "2026-08-20T06:29:29.358626"
+    },
+    {
+      "tmdb_id": "677638",
+      "file": "677638.json",
+      "title": "We Bare Bears: The Movie",
+      "fixed_at": "2026-08-20T06:29:41.392864"
     }
   ],
-  "last_updated": "2026-08-20T05:36:20.635866",
-  "total_fixed": 984
+  "last_updated": "2026-08-20T06:29:43.395564",
+  "total_fixed": 999
 }
