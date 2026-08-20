@@ -1,17 +1,15 @@
 {
   "id": 95897,
-  "title": "Overflow",
-  "title_ar": "Overflow",
+  "title": "الفيضان",
+  "title_ar": "الفيضان",
   "title_en": "Overflow",
   "slug": "95897-overflow",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "\"كازوشي سودو\" طالب جامعي يزورونه صديقات طفولته، الأختين \"أياني\" و \"كوتوني شيراكاوا\". ولما تكتشف \"أياني\" إن كازوشي مو بس نسى يشتري لها الحلى (البودينغ)، لكنه بعد قاعد يستخدم اللوشن الخاص فيها وهو يتروش، تقرر تنتقم وتطب عليه في الحمام هي وأختها \"كوتوني\". والسؤال هنا: هل بيقدر كازوشي يمسك نفسه وما يتأثر بوجودهم؟",
   "poster_path": "/kanbo6bf73dmq2GLAED8xao9LQ2.jpg",
   "backdrop_path": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
   "release_date": "2020-01-06",
-  "vote_average": 7.4,
-  "vote_count": 87,
+  "vote_average": 7.5,
+  "vote_count": 90,
   "genres": [
     {
       "id": 16,
@@ -19,33 +17,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم ما بعد الكارثة، يجد ourselves في معركة ضد الوقت لإنقاذ ما هوเหลم من البشرية. من خلال رحلة مملوكة لهم، نرى كيف يتعاملون مع الأزمات والخوفات، ويحاولون العثور على معنى في عالم متهالك.",
-    "desc_en": "In a post-apocalyptic world, we find ourselves in a battle against time to save what's left of humanity. Through their own journey, we see how they deal with crises and fears, and try to find meaning in a devastated world.",
-    "meta_desc": "ما هو السبب وراء انهيار البشرية؟ اكتشف أحداث الإثارة في (مشاهدة فيلم اوفرفلو مترجم اون لاين - توميتو)",
-    "seo_title_ar": "مشاهدة فيلم اوفرفلو مترجم اون لاين - توميتو",
-    "keywords": "فيلم اوفرفلو مترجم, مشاهدة فيلم اوفرفلو, قصة مسلسل Overflow, أحداث Overflow بالتفصيل, توميتو Overflow, Overflow مترجم كامل, مشاهدة Overflow 2020",
-    "opinion": "هذا الفيلم هو مثال رائع لما هو المخوف في عالم ما بعد الكارثة. يخلق جو من التوتر والقلق، ويجعلنا نتفكر في ما هو الأهم في الحياة.",
+    "intro": "يحكي مسلسل الفيضان قصة حياة الطالب الجامعي \"كازوشي سودو\" الذي يتعرض للاعتداء من قبل صديقاته من الطفولة، الأختين \"أياني\" و \"كوتوني شيراكاوا\".",
+    "desc_ar": "يحكي مسلسل الفيضان قصة حياة الطالب الجامعي \"كازوشي سودو\" الذي يتعرض للاعتداء من قبل صديقاته من الطفولة، الأختين \"أياني\" و \"كوتوني شيراكاوا\"، عندما يكتشف \"أياني\" أن \"كازوشي\" لم ينجح في شراء الحلوى المناسبة لها، بل استخدم لوشن خاصة بها دون علمها. هذا السلوك العدواني يتسبب في رغبة \"أياني\" في الانتقام، مما يؤدي إلى علاقة معقدة بينهم. في هذه القصة، نتعرض للاستمتاع بمشاهدة أفعال \"كازوشي\" و كيفية تطور علاقته مع صديقاته من الطفولة، خاصة فيما يتعلق بالسلوك الجنسي للشخص الرئيسي.",
+    "desc_en": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+    "seo_title_ar": "مشاهدة مسلسل الفيضان مترجم - Overflow - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل الفيضان، رسوم متحركة غنية بالحياة الشخصية لكازوشي سودو، والتفاعلات مع صديقاته من الطفولة، خاصة فيما يتعلق بالسلوك الجنسي. يتعرض كاز",
+    "outro": "ينتهي مسلسل الفيضان بتوضيح العلاقة المعقدة بين \"كازوشي\" و صديقاته من الطفولة، خاصة فيما يتعلق بالسلوك الجنسي، مما يؤكد على أهمية فهم العلاقات البشرية.",
+    "opinion_ar": "يشمل هذا المسلسل رسوم متحركة غنية بالحياة الشخصية، حيث يتعرض الطالب الجامعي \"كازوشي سودو\" للاعتداء من قبل صديقاته من الطفولة، مما يؤدي إلى علاقة معقدة بينهم.",
+    "opinion_en": "This anime series offers a rich and complex portrayal of the university student Kazushi Sudou's life as he interacts with his childhood friends, Ayane and Kotone Shirakawa.",
     "faq": [
       {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "الفيلم يركز على معركة البشرية ضد الوقت لإنقاذ ما هوเหลم من البشرية."
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "الفيلم رسوم متحركة."
-      },
-      {
-        "q": "ما هو هدف الفيلم؟",
-        "a": "الفيلم يهدف إلى توعيةنا بالخطر الذي يهدد البشرية، ويجعلنا نتفكر في ما هو الأهم في الحياة."
+        "q": "ما هي قصة مسلسل الفيضان؟",
+        "a": "يحكي مسلسل الفيضان قصة حياة الطالب الجامعي \"كازوشي سودو\" الذي يتعرض للاعتداء من قبل صديقاته من الطفولة، الأختين \"أياني\" و \"كوتوني شيراكاوا\".",
+        "q_en": "What is the story of the anime series Overflow?",
+        "a_en": "The anime series Overflow tells the story of the university student Kazushi Sudou who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa."
       }
-    ]
+    ],
+    "keywords": "الفيضان, مسلسل, رسوم متحركة, كازوشي سودو, أياني, كوتوني شيراكاوا, سلوك جنسي, تفاعل شخصي, علاقات معقدة, مشاهدة الفيضان, Overflow مترجم, تحميل الفيضان, الفيضان اون لاين, Overflow, الفيضان جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2020-01-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "7 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Mai Kadowaki Tomoe Tamiyasu Sada Naohiro",
+  "first_air_date": "2020-01-06"
 }

@@ -4,14 +4,12 @@
   "title_ar": "سبارتاكوس: بيت آشور",
   "title_en": "Spartacus: House of Ashur",
   "slug": "240459-spartacus-house-of-ashur",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في عالمٍ نجا فيه من أحداث سبارتاكوس (2010)، شقّ آشور طريقه بصعوبةٍ إلى السلطة، ممتلكًا نفس مدرسة الفنون القتالية التي كانت تملكه سابقًا. وبتحالفه مع مصارعةٍ شرسة، أشعل آشور نوعًا جديدًا من الاستعراضات التي أغضبت النخبة.",
   "poster_path": "/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
   "backdrop_path": "/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
   "release_date": "2025-12-05",
-  "vote_average": 7.1,
-  "vote_count": 274,
+  "vote_average": 7.3,
+  "vote_count": 323,
   "genres": [
     {
       "id": 18,
@@ -23,19 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالمٍ نجا فيه من أحداث سبارتاكوس (2010)، شقّ آشور طريقه بصعوبةٍ إلى السلطة، ممتلكًا نفس مدرسة الفنون القتالية التي كانت تملكه سابقًا. وبتحالفه مع مصارعةٍ شرسة، أشعل آشور نوعًا جديدًا من الاستعراضات التي أغضبت النخبة.",
-    "desc_en": "في عالمٍ نجا فيه من أحداث سبارتاكوس (2010)، شقّ آشور طريقه بصعوبةٍ إلى السلطة، ممتلكًا نفس مدرسة الفنون القتالية التي كانت تملكه سابقًا. وبتحالفه مع مصارعةٍ شرسة، أشعل آشور نوعًا جديدًا من الاستعراضات التي أغضبت النخبة.",
-    "meta_desc": "مشاهدة سبارتاكوس: بيت آشور مترجم بجودة عالية على توميتو.",
-    "keywords": "Spartacus: House of Ashur, مشاهدة سبارتاكوس: بيت آشور 2026, سبارتاكوس: بيت آشور مترجم, توميتو سبارتاكوس: بيت آشور, قصة فيلم سبارتاكوس: بيت آشور, أحداث سبارتاكوس: بيت آشور بالتفصيل",
-    "seo_title_ar": "مشاهدة سبارتاكوس: بيت آشور مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يبحث آشور في عالم ممتلئ بالحرب والقتال، يسعى لتحقيق حلمه في السلطة، ويتحالف مع مصارعة شرسة تعمل معه على إثارة حرب جديدة ضد النخبة.",
+    "desc_ar": "يبحث آشور في عالم ممتلئ بالحرب والقتال، يسعى لتحقيق حلمه في السلطة، ويتحالف مع مصارعة شرسة تعمل معه على إثارة حرب جديدة ضد النخبة، وتقدم طريقة جديدة للقتال، وتحدي النظرة التقليدية للقتال، وتحول حرب القتال إلى معركة فنية، وتثير الفتنة بين الحكام والمحاربين، وتستفز النخبة بالتجديد والتجديد المستمر.",
+    "desc_en": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite. The new spectacle is a fusion of combat and art, challenging the traditional view of fighting and turning the battle into a fight for artistic expression, causing a stir among the rulers and warriors, and provoking the elite with its continuous innovation.",
+    "seo_title_ar": "مشاهدة مسلسل سبارتاكوس: بيت آشور مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل سبارتاكوس: بيت آشور بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، متابعة أحداثه في عالم ممتلئ بالحرب والقتال، ومواجهة النظرة التقليد",
+    "outro": "يُظهر مسلسل سبارتاكوس: بيت آشور أن القتال هو مجرد فن، ويمكن أن يكون جميلاً إذا تم استخدامه بشكل صحيح.",
+    "opinion_ar": "مثل مسلسل سبارتاكوس: بيت آشور، الذي يركز على تجديد وتجديد مستمر في عالم ممتلئ بالحرب والقتال، يُظهر أن القتال هو مجرد فن، ويمكن أن يكون جميلاً إذا تم استخدامه بشكل صحيح.",
+    "opinion_en": "Like Spartacus: House of Ashur, which focuses on continuous innovation in a world filled with war and combat, it shows that fighting is just an art, and can be beautiful if used properly.",
+    "faq": [
+      {
+        "q": "ما هي قصة مسلسل سبارتاكوس: بيت آشور؟",
+        "a": "يبحث آشور في عالم ممتلئ بالحرب والقتال، يسعى لتحقيق حلمه في السلطة، ويتحالف مع مصارعة شرسة تعمل معه على إثارة حرب جديدة ضد النخبة.",
+        "q_en": "What is the story of Spartacus: House of Ashur?",
+        "a_en": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite."
+      }
+    ],
+    "keywords": "سبارتاكوس: بيت آشور, مسلسل, دراما, حركة ومغامرة, قتال, فن, تجديد, عالم ممتلئ بالحرب والقتال, مشاهدة سبارتاكوس: بيت آشور, Spartacus: House Ashur مترجم, تحميل سبارتاكوس: بيت آشور, سبارتاكوس: بيت آشور اون لاين, Spartacus: House Ashur, سبارتاكوس: بيت آشور جودة عالية, فيلم سبارتاكوس: بيت آشور"
   },
   "fixed": true,
-  "first_air_date": "2025-12-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "17 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Chill Wills Vince Barnett John Kellogg Garrett Craig Ned Glass"
+  "cast": "Nick E. Tarabay Graham McTavish Tenika Davis Jamaica Vaughan Ivana Baquero Jordi Webber Claudia Black India Shaw-Smith",
+  "first_air_date": "2025-12-05"
 }

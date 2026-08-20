@@ -1,17 +1,15 @@
 {
   "id": 21510,
-  "title": "White Collar",
-  "title_ar": "White Collar",
+  "title": "ياقة بيضاء",
+  "title_ar": "ياقة بيضاء",
   "title_en": "White Collar",
   "slug": "21510-white-collar",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "بعد إلقاء القبض عليه مجددًا، يبرم المحتال الذكي نيل كافري صفقة مع مكتب التحقيقات الفيدرالي.\n\nيوظف خبرته في الاحتيال والتزوير للمساعدة في تعقب مجرمي الياقات البيضاء.\n\nلكن ماضيه المعقد يجعل مهمته الجديدة مليئة بالتحديات والمخاطر.",
   "poster_path": "/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
   "backdrop_path": "/aUyweq31etaay92oF4crwdDcnoT.jpg",
   "release_date": "2009-10-23",
   "vote_average": 8.2,
-  "vote_count": 1545,
+  "vote_count": 1595,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المال والقانون، يلعب المحامي المخادع بروس باتريك دوراً كبيراً في حل القضايا، لكنه يكتشف أن هناك أكثر من ما يبدو على السطح، ويبدأ في اكتشاف أسرار darkest secrets of the wealthy elite، فيขณะที่ يتعامل مع قضية قتل، يتعثر بروس باتريك في عالم المال والقانون، والغموض والجريمة، فيما يتعامل مع الأحداث المثيرة والقضايا المثيرة.",
-    "desc_en": "In the world of money and law, the cunning lawyer Bruce Patrick plays a major role in solving cases, but he discovers that there is more to what appears on the surface, and begins to uncover the darkest secrets of the wealthy elite, as he deals with a murder case, Bruce Patrick stumbles upon the world of money, law, mystery, and crime, as he deals with thrilling events and cases.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل جريمة دراما غموض \"السترة البيضاء\" على توميتو",
-    "seo_title_ar": "مشاهدة مسلسل سترة البيضاء مترجم اون لاين - توميتو",
-    "keywords": "مسلسل سترة البيضاء مترجم, مشاهدة مسلسل جريمة دراما غموض, White Collar مترجم كامل, توميتو White Collar, مشاهدة White Collar 2009, قصة مسلسل White Collar, أحداث White Collar بالتفصيل",
-    "opinion": "منذ بدأ عرضه، أثار مسلسل سترة البيضاء جدلاً كبيراً في عالم التلفزيون، فهو يجمع بين الجريمة والدراما والغموض في قالب واحد، مما يجعله من أكثر المسلسلات مشاهدة في الوقت الحاضر.",
+    "intro": "يحكي مسلسل ياقة بيضاء قصة نيل كافري، المحتال الذكي الذي يبرم صفقة مع مكتب التحقيقات الفيدرالي لتسليم نفسه.",
+    "desc_ar": "يحكي مسلسل ياقة بيضاء قصة نيل كافري، المحتال الذكي الذي يبرم صفقة مع مكتب التحقيقات الفيدرالي لتسليم نفسه مقابل تحفيزه لاستخدام خبرته في الاحتيال والتزوير في تعقب مجرمي الياقات البيضاء. يتعامل نيل مع ماضيه المعقد الذي يجعل مهمته الجديدة مليئة بالتحديات والمخاطر، بينما يسعى لتحقيق حريته وتجنب السجن. يتعامل نيل مع مواجهة مع الماضي الذي يهدده حياته الجديدة. يتصرف نيل كافري بذكاء في التعامل مع مكتب التحقيقات الفيدرالي، بينما يسعى لتحقيق حريته وتجنب السجن.",
+    "desc_en": "In exchange for his freedom, charming con artist Neal Caffrey provides his expertise to help straight-man FBI agent Peter Burke catch elusive white-collar criminals. Neal navigates his complex past, which makes his new mission fraught with challenges and risks, as he seeks to achieve his freedom and avoid prison. Neal Caffrey skillfully navigates his relationship with the FBI, while seeking to achieve his freedom and avoid prison.",
+    "seo_title_ar": "مشاهدة مسلسل ياقة بيضاء مترجم - توميتو",
+    "meta_desc": "يحكي مسلسل ياقة بيضاء قصة نيل كافري، المحتال الذكي الذي يبرم صفقة مع مكتب التحقيقات الفيدرالي لتسليم نفسه مقابل تحفيزه لاستخدام خبرته في الاحتيال والتزوير",
+    "outro": "يعد مسلسل ياقة بيضاء تجربة رائعة للعيش مع الشخصيات المثيرة والقصة المثيرة.",
+    "opinion_ar": "يعد مسلسل ياقة بيضاء تجربة رائعة للعيش مع الشخصيات المثيرة والقصة المثيرة. يتعامل نيل مع ماضيه المعقد الذي يجعل مهمته الجديدة مليئة بالتحديات والمخاطر.",
+    "opinion_en": "White Collar is a thrilling experience to live with the exciting characters and the exciting story. Neal navigates his complex past, which makes his new mission fraught with challenges and risks.",
     "faq": [
       {
-        "q": "ما هو مسلسل سترة البيضاء؟",
-        "a": "هو مسلسل تلفزيوني يجمع بين الجريمة والدراما والغموض، ويحكى قصة المحامي المخادع بروس باتريك"
-      },
-      {
-        "q": "ما هو نوع مسلسل سترة البيضاء؟",
-        "a": "هو مسلسل تلفزيوني من نوع جريمة دراما غموض"
-      },
-      {
-        "q": "ما هو أفضل مكان để مشاهدة مسلسل سترة البيضاء؟",
-        "a": "يمكنك مشاهدة مسلسل سترة البيضاء على توميتو، الموقع الرسمي ل مشاهدة الأفلام والمسلسلات"
+        "q": "ما هو موضوع مسلسل ياقة بيضاء؟",
+        "a": "يحكي مسلسل ياقة بيضاء قصة نيل كافري، المحتال الذكي الذي يبرم صفقة مع مكتب التحقيقات الفيدرالي لتسليم نفسه مقابل تحفيزه لاستخدام خبرته في الاحتيال والتزوير في تعقب مجرمي الياقات البيضاء.",
+        "q_en": "What is the subject of White Collar?",
+        "a_en": "White Collar tells the story of Neal Caffrey, a smart con artist who makes a deal with the FBI to turn himself in exchange for using his expertise in white-collar crime to catch other white-collar criminals."
       }
-    ]
+    ],
+    "keywords": "ياقة بيضاء, مسلسل, جريمة, دراما, غموض, نيل كافري, مكتب التحقيقات الفيدرالي, الياقات البيضاء, مشاهدة ياقة بيضاء, White Collar مترجم, تحميل ياقة بيضاء, ياقة بيضاء اون لاين, White Collar, ياقة بيضاء جودة عالية, فيلم ياقة بيضاء"
   },
   "fixed": true,
-  "first_air_date": "2009-10-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Matt Bomer Tim DeKay Willie Garson Tiffani-Amber Thiessen Marsha Thomason Sharif Atkins",
+  "first_air_date": "2009-10-23"
 }

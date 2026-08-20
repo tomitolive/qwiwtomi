@@ -7055,8 +7055,80 @@
       "file": "66398.json",
       "title": "Diomedes, el Cacique de La Junta",
       "fixed_at": "2026-08-20T16:28:25.267305"
+    },
+    {
+      "tmdb_id": "1422",
+      "file": "1422.json",
+      "title": "الراحل",
+      "fixed_at": "2026-08-20T17:03:47.553858"
+    },
+    {
+      "tmdb_id": "21510",
+      "file": "21510.json",
+      "title": "White Collar",
+      "fixed_at": "2026-08-20T17:04:00.928422"
+    },
+    {
+      "tmdb_id": "22980",
+      "file": "22980.json",
+      "title": "Watch What Happens Live with Andy Cohen",
+      "fixed_at": "2026-08-20T17:04:14.697074"
+    },
+    {
+      "tmdb_id": "734",
+      "file": "734.json",
+      "title": "Magnum, P.I.",
+      "fixed_at": "2026-08-20T17:04:27.808703"
+    },
+    {
+      "tmdb_id": "240459",
+      "file": "240459.json",
+      "title": "سبارتاكوس: بيت آشور",
+      "fixed_at": "2026-08-20T17:05:14.142140"
+    },
+    {
+      "tmdb_id": "1697636",
+      "file": "1697636.json",
+      "title": "UFC 329: McGregor vs. Holloway 2",
+      "fixed_at": "2026-08-20T17:05:37.422609"
+    },
+    {
+      "tmdb_id": "1440",
+      "file": "1440.json",
+      "title": "Little Children",
+      "fixed_at": "2026-08-20T17:06:32.406099"
+    },
+    {
+      "tmdb_id": "72896",
+      "file": "72896.json",
+      "title": "My Little Old Boy",
+      "fixed_at": "2026-08-20T17:06:48.932613"
+    },
+    {
+      "tmdb_id": "95897",
+      "file": "95897.json",
+      "title": "Overflow",
+      "fixed_at": "2026-08-20T17:07:36.089227"
+    },
+    {
+      "tmdb_id": "26389",
+      "file": "26389.json",
+      "title": "من باريس مع حبي",
+      "fixed_at": "2026-08-20T17:07:56.900455"
+    },
+    {
+      "tmdb_id": "286360",
+      "file": "286360.json",
+      "title": "رسائل من آخر الفصل",
+      "fixed_at": "2026-08-20T17:08:13.118794"
+    },
+    {
+      "tmdb_id": "115",
+      "file": "115.json",
+      "title": "The Big Lebowski",
+      "fixed_at": "2026-08-20T17:08:25.875079"
     }
   ],
-  "last_updated": "2026-08-20T16:28:27.270088",
-  "total_fixed": 1176
+  "last_updated": "2026-08-20T17:08:27.877910",
+  "total_fixed": 1188
 }

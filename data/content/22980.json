@@ -4,14 +4,12 @@
   "title_ar": "Watch What Happens Live with Andy Cohen",
   "title_en": "Watch What Happens Live with Andy Cohen",
   "slug": "22980-watch-what-happens-live-with-andy-cohen",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة آندي كوهين، المدير التنفيذي لشبكة برافو، الذي يركز على مواضيع الثقافة الشعبية من خلال مقابلات مع نجوم وممثلين من البرامج الحقيقية. ويتمحور المسلسل حول حوارات مباشرة مع الشخصيات المشهورة في عالم التلفزيون. ويستضيف آندي كوهين في كل حلقة ضيفًا جديدًا من العالمين الفني والثقافي، حيث يشرحون مواقفهم وآرائهم حول أحداث مهمة في عالم التلفزيون. ويحظى هذا المسلسل بشعبية كبيرة لدى جماهير التلفزيون، حيث يسمح لهم بالاستماع إلى حكايات الشخصيات المشهورة في مجال التلفزيون.",
   "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
   "backdrop_path": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
   "release_date": "2009-07-16",
-  "vote_average": 5,
-  "vote_count": 86,
+  "vote_average": 5.0,
+  "vote_count": 87,
   "genres": [
     {
       "id": 10767,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في ليلة حية، يُقدم أندي كوهن حواراً كوميدياً مع ضيوفه، حيث يُكشف الأسرار والقصص المدهشة، ويُستكشف أسرار النجوم، في ليلة مليئة بالمرح والفكاهة.",
-    "desc_en": "In a live night, Andy Cohen presents a comedic interview with his guests, where secrets and amazing stories are revealed, and the stars' secrets are explored, in a night full of joy and humor.",
-    "meta_desc": "واش غيفلت؟ اكتشف أسرار النجوم مع أندي كوهن في ليلة حية!",
-    "keywords": "فيلم حوار مترجم, مشاهدة ليلة حية مع أندي كوهن, توميتو Watch What Happens Live with Andy Cohen, أحداث Watch What Happens Live with Andy Cohen بالتفصيل, قصة مسلسل Watch What Happens Live with Andy Cohen, Watch What Happens Live with Andy Cohen مترجم كامل, مشاهدة Watch What Happens Live with Andy Cohen 2009",
-    "seo_title_ar": "مشاهدة ليلة حية مع أندي كوهن مترجم اون لاين - توميتو",
-    "opinion": "ليلة حية مع أندي كوهن هي المكان الذي يُقدم فيه النجوم أسرارهم، ويُكشف الأسرار، ويُستكشف أسرار النجوم، في ليلة مليئة بالمرح والفكاهة.",
+    "intro": "ينطلق هذا المسلسل من خلال حوارات مباشرة مع الشخصيات المشهورة في عالم التلفزيون.",
+    "desc_ar": "يحكي هذا المسلسل قصة آندي كوهين، المدير التنفيذي لشبكة برافو، الذي يركز على مواضيع الثقافة الشعبية من خلال مقابلات مع نجوم وممثلين من البرامج الحقيقية. ويتمحور المسلسل حول حوارات مباشرة مع الشخصيات المشهورة في عالم التلفزيون. ويستضيف آندي كوهين في كل حلقة ضيفًا جديدًا من العالمين الفني والثقافي، حيث يشرحون مواقفهم وآرائهم حول أحداث مهمة في عالم التلفزيون. ويحظى هذا المسلسل بشعبية كبيرة لدى جماهير التلفزيون، حيث يسمح لهم بالاستماع إلى حكايات الشخصيات المشهورة في مجال التلفزيون.",
+    "desc_en": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities on his live talk show. The show is a platform for Andy to engage in conversations with famous guests from the world of television, discussing their views and perspectives on important events in the industry. Watch What Happens Live with Andy Cohen has gained a significant following among television enthusiasts, allowing them to listen to the stories of famous personalities in the television industry.",
+    "seo_title_ar": "مشاهدة مسلسل حوار كوميدي شاهد ما يحدث مباشرة مع آندي كوهين مترجم - توميتو",
+    "meta_desc": "شاهد ما يحدث مباشرة مع آندي كوهين - مسلسل حوار كوميدي يغطي أحداث التلفزيون مع نجوم و ممثلين من البرامج الحقيقية. استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "يعد هذا المسلسل من أفضل البرامج الحوارية في العالم، حيث يتيح لنا الاستماع إلى حكايات الشخصيات المشهورة في مجال التلفزيون.",
+    "opinion_ar": "يعد مسلسل \"شاهد ما يحدث مباشرة مع آندي كوهين\" من أفضل البرامج الحوارية في العالم، حيث يتيح لنا الاستماع إلى حكايات الشخصيات المشهورة في مجال التلفزيون.",
+    "opinion_en": "Watch What Happens Live with Andy Cohen is one of the best talk shows in the world, allowing us to listen to the stories of famous personalities in the television industry.",
     "faq": [
       {
-        "q": "ما هو ليلة حية مع أندي كوهن؟",
-        "a": "ليلة حية مع أندي كوهن هي برنامج تلفزيوني يُقدم حواراً كوميدياً مع ضيوفه."
+        "q": "ما هو موضوع المسلسل الرئيسي؟",
+        "a": "يتناول المسلسل مواضيع الثقافة الشعبية والبرامج الحقيقية.",
+        "q_en": "What is the main topic of the show?",
+        "a_en": "The show covers pop culture and reality TV topics."
       },
       {
-        "q": "ما هي أهم أسرار النجوم التي يُكشفها أندي كوهن؟",
-        "a": "النجوم يُكشفون أسرارهم في ليلة حية مع أندي كوهن، مثل أسرارهم الشخصية والقصص المدهشة."
-      },
-      {
-        "q": "ما هو المكان الذي يُقدم فيه النجوم أسرارهم؟",
-        "a": "النجوم يُقدمون أسرارهم في ليلة حية مع أندي كوهن، في ليلة مليئة بالمرح والفكاهة."
+        "q": "من هو مضيف المسلسل؟",
+        "a": "مضيف المسلسل هو آندي كوهين، المدير التنفيذي لشبكة برافو.",
+        "q_en": "Who is the host of the show?",
+        "a_en": "The host of the show is Andy Cohen, the executive vice president of Bravo."
       }
-    ]
+    ],
+    "keywords": "شاهد ما يحدث مباشرة مع آندي كوهين, مسلسل حوار كوميدي, الثقافة الشعبية, البرامج الحقيقية, آندي كوهين, برافو, التلفزيون, مشاهدة شاهد ما يحدث مباشرة مع آندي كوهين, Watch What Happens Live Andy Cohen مترجم, تحميل شاهد ما يحدث مباشرة مع آندي كوهين, شاهد ما يحدث مباشرة مع آندي كوهين اون لاين, Watch What Happens Live Andy Cohen, شاهد ما يحدث مباشرة مع آندي كوهين جودة عالية, فيلم شاهد ما يحدث مباشرة مع آندي كوهين, Watch What Happens Live Andy Cohen HD"
   },
   "fixed": true,
-  "first_air_date": "2009-07-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "95 دقيقة",
-  "language": "cn",
-  "country": "هونغ كونغ",
-  "cast": "Bryan Leung Kar-Yan Phillip Ko Fai Johnny Wang Lung-Wei Chiang Tao Siu Gam"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Andy Cohen",
+  "first_air_date": "2009-07-16"
 }
