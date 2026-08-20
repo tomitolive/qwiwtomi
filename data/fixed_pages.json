@@ -7739,8 +7739,56 @@
       "file": "295778.json",
       "title": "Scrubs",
       "fixed_at": "2026-08-20T22:19:00.912957"
+    },
+    {
+      "tmdb_id": "213562",
+      "file": "213562.json",
+      "title": "Crystal Lake",
+      "fixed_at": "2026-08-20T22:54:53.653955"
+    },
+    {
+      "tmdb_id": "161",
+      "file": "161.json",
+      "title": "Oceans Eleven",
+      "fixed_at": "2026-08-20T22:55:03.761194"
+    },
+    {
+      "tmdb_id": "210865",
+      "file": "210865.json",
+      "title": "فريد",
+      "fixed_at": "2026-08-20T22:55:10.406119"
+    },
+    {
+      "tmdb_id": "45094",
+      "file": "45094.json",
+      "title": "The Following",
+      "fixed_at": "2026-08-20T22:55:20.592882"
+    },
+    {
+      "tmdb_id": "299141",
+      "file": "299141.json",
+      "title": "Apex Legends",
+      "fixed_at": "2026-08-20T22:55:46.885713"
+    },
+    {
+      "tmdb_id": "1622",
+      "file": "1622.json",
+      "title": "خارق للطبيعة",
+      "fixed_at": "2026-08-20T22:55:58.330180"
+    },
+    {
+      "tmdb_id": "44217",
+      "file": "44217.json",
+      "title": "الفايكنج",
+      "fixed_at": "2026-08-20T22:56:07.602273"
+    },
+    {
+      "tmdb_id": "4346",
+      "file": "4346.json",
+      "title": "Freddys Nightmares",
+      "fixed_at": "2026-08-20T22:56:17.768946"
     }
   ],
-  "last_updated": "2026-08-20T22:19:02.915671",
-  "total_fixed": 1290
+  "last_updated": "2026-08-20T22:56:19.771626",
+  "total_fixed": 1298
 }

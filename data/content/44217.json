@@ -4,14 +4,12 @@
   "title_ar": "الفايكنج",
   "title_en": "Vikings",
   "slug": "44217-vikings",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "ينقلنا مسلسل الفايكنج إلى عالم راغنار لوثبروك الوحشي والغامض، وهو محارب ومزارع من الفايكنج يتوق إلى استكشاف - وشن غارات - على الشواطئ البعيدة عبر المحيط.",
+  "overview": "راغنار لوثبروك محارب وفلاح من الفايكنغ يحلم باكتشاف أراضٍ جديدة خلف البحار، فيتحدى تقاليد قومه ويقود رحلات جريئة نحو الغرب بحثًا عن الثروات والمجد. وبفضل طموحه وشجاعته، يصعد راغنار من محارب مغمور إلى قائد قوي وملك يفرض نفوذه بين الفايكنغ، بينما يخوض حروبًا دامية ضد ممالك إنجلترا وفرنسا. ومع اتساع نفوذه، تتعقد علاقاته بعائلته وحلفائه وخصومه، وتصبح رحلة أبنائه من بعده جزءًا من صراع طويل على السلطة والانتقام والمجد.",
   "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
   "backdrop_path": "/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
   "release_date": "2013-03-03",
   "vote_average": 8.1,
-  "vote_count": 7621,
+  "vote_count": 7830,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم راغنار لوثبروك، حيث القوة والشرف والدم، يجد المحارب راغنار لوثبروك نفسه في وسط معركة قديمة بين النورس والجوتن، حيث يتعامل مع مشكلات الشخصية والسياسية والدينية، بينما يتعامل مع مشكلات الأسرة والصداقات والشعوب، فيما ينتظرهم الموت والخوف والشعور بالذات.",
-    "desc_en": "In the world of Ragnar Lothbrok, where power, honor, and blood are at stake, Ragnar Lothbrok finds himself in the midst of an ancient struggle between the Norse and the Jotun, as he grapples with personal, political, and religious issues, while dealing with family, friendships, and the people, as death, fear, and self-awareness loom over them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الفايكنج!",
-    "seo_title_ar": "مشاهدة فيلم الفايكنج مترجم اون لاين - توميتو",
-    "keywords": "Vikings, فيلم الفايكنج مترجم, مشاهدة فيلم الفايكنج, توميتو الفايكنج, مشاهدة الفايكنج 2013, الفايكنج مترجم كامل, قصة مسلسل الفايكنج, أحداث الفايكنج بالتفصيل",
-    "opinion": "هو مسلسل رائع يجمع بين الحركة والدراما والسياسة، ويحاول أن يبرز شخصياته الرئيسية، راغنار لوثبروك، في وسط معركة قديمة بين النورس والجوتن.",
+    "intro": "يحكي مسلسل الفايكنج قصة راغنار لوثبروك، بطل العصر، الذي يتحول من محارب فلاح إلى قائد قوي وملك يفرض نفوذه بين الفايكنغ.",
+    "desc_ar": "يحكي مسلسل الفايكنج قصة راغنار لوثبروك، بطل العصر، الذي يتحول من محارب فلاح إلى قائد قوي وملك يفرض نفوذه بين الفايكنغ. يُعتبر راغنار بطلاً لشجاعته وفطنته، ويحلم بفتح الأراضي الجديدة ورحلة المغامرات نحو الغرب في سبيل العثور على الثروات والمجد. يخوض راغنار حروبًا دامية ضد ممالك إنجلترا وفرنسا، وتتعقد علاقاته بعائلته وحلفائه وخصومه، وتصبح رحلة أبنائه من بعده جزءًا من صراع طويل على السلطة والانتقام والمجد.",
+    "desc_en": "The adventures of Ragnar Lothbrok, the greatest hero of his age, who rises from a humble farmer to a powerful leader and king of the Viking tribes. He is a fearless warrior, a visionary, and a devoted husband and father, who sets out to explore new lands and riches in the west. He leads his band of Viking brothers and family into bloody wars against England and France, and his relationships with his loved ones become increasingly complicated as he seeks to expand his power and influence.",
+    "seo_title_ar": "مشاهدة الفايكنج مسلسل مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الفايكنج مترجم بالكامل - مسلسل درامي وغامرة يتبع رحلة راغنار لوثبروك من الفلاح إلى الملك - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية",
+    "outro": "يمثل مسلسل الفايكنج تجربة مشاهدة ممتعة ومثيرة، حيث يقدم قصة حبكة غامرة وملحمة إنسانية رائعة.",
+    "opinion_ar": "يعد مسلسل الفايكنج من أفضل المسلسلات التاريخية التي شاهدتها، حيث يقدم قصة حبكة غامرة وملحمة إنسانية رائعة.",
+    "opinion_en": "Vikings is one of the best historical dramas I've ever watched, with a compelling narrative and a richly detailed world that explores the complexities of human nature.",
     "faq": [
       {
-        "q": "ما هو مسلسل الفايكنج؟",
-        "a": "هو مسلسل دراما حركة يروي قصة راغنار لوثبروك، المحارب من الفايكنج، في عالم راغنار لوثبروك الوحشي والغامض."
+        "q": "ما هو تاريخ صدور مسلسل الفايكنج؟",
+        "a": "صدر مسلسل الفايكنج في عام 2013، وتم إصداره في 3 حلقات في ذلك العام.",
+        "q_en": "When was the Vikings TV series released?",
+        "a_en": "The Vikings TV series was released in 2013, with 3 episodes in that year."
       },
       {
-        "q": "ما هو نوع مسلسل الفايكنج؟",
-        "a": "هو مسلسل تلفزيوني من نوع دراما حركة، يجمع بين الحركة والدراما والسياسة."
-      },
-      {
-        "q": "ما هو أفضل ما في مسلسل الفايكنج؟",
-        "a": "هو قصة راغنار لوثبروك، المحارب من الفايكنج، في عالم راغنار لوثبروك الوحشي والغامض، التي تجمع بين الحركة والدراما والسياسة."
+        "q": "كيف يمكنني مشاهدة مسلسل الفايكنج؟",
+        "a": "يمكنك مشاهدة مسلسل الفايكنج على موقع توميتو، حيث يتيح لك تجربة مشاهدة ممتعة وبدون إعلانات مزعجة.",
+        "q_en": "How can I watch the Vikings TV series?",
+        "a_en": "You can watch the Vikings TV series on Tomito, where you can enjoy a great viewing experience without annoying ads."
       }
-    ]
+    ],
+    "keywords": "الفايكنج, مسلسل, دراما, مغامرة, حرب, سياسة, راغنار لوثبروك, قصة حبكة غامرة, ملحمة إنسانية, تاريخ, إنجلترا, فرنسا, المملكة المتحدة, الفايكنج مسلسل, الفايكنج والمسلمين, من هم الفايكنج, فيلم الفايكنج, الفايكنج راغنار, من هزم الفايكنج, دول الفايكنج, ممثلين الفايكنج"
   },
   "fixed": true,
-  "first_air_date": "2013-03-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "130 دقيقة",
-  "language": "الصينية",
-  "country": "الصين",
-  "cast": "Zhang Ziyi Joan Chen Jiang Wen Liu Ye Lu Yi"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "كندا",
+  "cast": "Alex Høgh Andersen Jordan Patrick Smith Marco Ilsø Peter Franzén Georgia Hirst Danila Kozlovsky",
+  "first_air_date": "2013-03-03"
 }
