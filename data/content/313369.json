@@ -9,7 +9,7 @@
   "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
   "release_date": "2016-12-01",
   "vote_average": 7.9,
-  "vote_count": 18261,
+  "vote_count": 18363,
   "genres": [
     {
       "id": 35,
@@ -25,23 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم لا لا لاند (2016) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "لا لا لاند، فيلم موسيقي رومانسي يجمع بين ميا، الممثلة الطموحة، وسيباستيان، عازف الجاز الموهوب. يلتقيان في لوس أنجلوس، حيث تحلم ميا بالنجومية بينما يكافح سيباستيان للحفاظ على موسيقاه حية. وبينما يتصاعد نجاحهما، يواجهان قرارات صعبة تهدد حبهما الهش. \"لا لا لاند\"، فيلم يمزج بين الرومانسية والدراما والموسيقى، ويأخذنا في رحلة مليئة بالمشاعر والأحلام.",
-    "desc_en": "La La Land, a romantic musical film, brings together Mia, an aspiring actress, and Sebastian, a talented jazz musician. They meet in Los Angeles, where Mia dreams of stardom while Sebastian struggles to keep his music alive. As their success grows, they face tough decisions that threaten their fragile love. \"La La Land\" is a captivating blend of romance, drama, and music.",
-    "seo_title_ar": "مشاهدة فيلم لا لا لاند مترجم - توميتو",
-    "meta_desc": "La La Land: فيلم موسيقي رومانسي يجمع بين الأحلام والنجومية. قصة حب هشة في لوس أنجلوس، حيث تكافح ميا وسيباستيان للحفاظ على شغفهما وسط النجاح المتزايد.",
-    "outro": "شاهد لا لا لاند الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "لا لا لاند، فيلم رائع يجمع بين الرومانسية والموسيقى والدراما. أداء رائع من الممثلين، وموسيقى ساحرة، وقصة مؤثرة. إنه فيلم لا يجب تفويته لمحبي الأفلام الموسيقية.",
-    "opinion_en": "La La Land is a captivating film that blends romance, music, and drama beautifully. The performances are outstanding, the music is enchanting, and the story is moving. A must-watch for musical film enthusiasts.",
+    "intro": "يحكي فيلم لا لا لاند قصة الحب بين مياء والموسيقي سيباستيان في مدينة هوليوود.",
+    "desc_ar": "تحكي قصة لا لا لاند قصة الحب بين مياء، الممثلة الطموحة، وسيباستيان، الموسيقي الطموح، في مدينة هوليوود. يصطاد سيباستيان في لعب حفلات الكوكتيل في الحانات الصغيرة، بينما تتقدم مياء في الاختبارات لتصبح ممثلة مشهورة. ومع تزايد النجاح، يتعرض الحب بينهم للتحديات، حيث يتعين عليهم الاختيار بين حبهم المتبادل وآمالهم في المستقبل.",
+    "desc_en": "La La Land is a romantic comedy-drama film that tells the story of the love between Mia, an aspiring actress, and Sebastian, a jazz musician, in Hollywood. Sebastian plays cocktail party gigs in dingy bars, while Mia serves lattes to movie stars in between auditions. As their success mounts, they face challenges that test their love, forcing them to choose between their mutual love and their dreams for the future.",
+    "seo_title_ar": "مشاهدة فيلم لا لا لاند مترجم 2016 - توميتو",
+    "meta_desc": "لا لا لاند 2016 - فيلم كوميديا ودراما رومنسية من إخراج داميان تشازل عن حب الممثلة مياء والموسيقي سيباستيان في مدينة هوليوود. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "يعد فيلم لا لا لاند من بين أفضل الأفلام الرومانسية في السنوات الأخيرة.",
+    "opinion_ar": "لا لا لاند هو فيلم حب رومانسي يرسم صورة حب معقد بين الممثلة مياء والموسيقي سيباستيان في مدينة هوليوود. يتعرض الحب بينهم للتحديات، مما يزيد من سوء الحالة بينهم.",
+    "opinion_en": "La La Land is a romantic drama that portrays the complex love story of Mia and Sebastian in Hollywood. Their love faces numerous challenges, which only adds to the tension between them.",
     "faq": [
       {
-        "q": "هل فيلم لا لا لاند مناسب لجميع الأعمار؟",
-        "a": "نعم، فيلم لا لا لاند مناسب لجميع الأعمار. فهو فيلم عائلي رائع، ويحتوي على موسيقى وأغاني جذابة تناسب جميع الأذواق.",
-        "q_en": "Is La La Land suitable for all ages?",
-        "a_en": "Yes, La La Land is suitable for all ages. It's a great family film with captivating music and songs that appeal to all tastes."
+        "q": "ما هو قصة فيلم لا لا لاند؟",
+        "a": "يحكي الفيلم قصة الحب بين الممثلة مياء والموسيقي سيباستيان في مدينة هوليوود.",
+        "q_en": "What is the story of La La Land?",
+        "a_en": "The film tells the story of the love between Mia, an aspiring actress, and Sebastian, a jazz musician, in Hollywood."
+      },
+      {
+        "q": "من هو المخرج الفيلم لا لا لاند؟",
+        "a": "المخرج هو داميان تشازل.",
+        "q_en": "Who is the director of La La Land?",
+        "a_en": "The director is Damien Chazelle."
       }
     ],
-    "keywords": "لا لا لاند, La La Land, فيلم, موسيقي, رومانسي, دراما, حب, نجومية, لوس أنجلوس, أحلام"
+    "keywords": "فيلم لا لا لاند 2016, كوميديا, دراما, رومنسية, داميان تشازل, مياء, سيباستيان, هوليوود, سينما, مسلسل لا لا لاند, لا لا لاند فيلم, الا لا لاند, في ال لا لا لاند, في الا لا لاند, فلم لا لا لاند, مسلسل في ال لا لا لاند, في اللا لا لاند, مسلسل لا لا لاند الحلقة 1"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

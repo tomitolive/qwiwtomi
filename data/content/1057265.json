@@ -1,15 +1,15 @@
 {
   "id": 1057265,
-  "title": "Peddi",
-  "title_ar": "Peddi",
+  "title": "بيدي",
+  "title_ar": "بيدي",
   "title_en": "Peddi",
   "slug": "1057265-peddi",
-  "overview": "بيدي، فيلم حركة ودراما مترجم، يدور في ثمانينيات القرن الماضي في قرية أندرا براديش، حيث يقود بطلنا الشجاع قريته في لعبة رياضية للدفاع عن كرامتهم ضد منافسين أقوياء. قصة ملهمة عن الوحدة والتحدي.",
+  "overview": "تدور أحداث العمل في ريف ولاية أندرا براديش خلال ثمانينات القرن الماضي، يوحد قروي متحمس مجتمعه من خلال الرياضة للدفاع عن كرامتهم في مواجهة منافس قوي.",
   "poster_path": "/Ap0gHovdbx6IYHwx2yNsA1zq8gt.jpg",
   "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
   "release_date": "2026-06-03",
-  "vote_average": 6.1,
-  "vote_count": 54,
+  "vote_average": 5.8,
+  "vote_count": 66,
   "genres": [
     {
       "id": 28,
@@ -21,29 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Peddi (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "بيدي، فيلم حركة ودراما مترجم، يدور في ثمانينيات القرن الماضي في قرية أندرا براديش، حيث يقود بطلنا الشجاع قريته في لعبة رياضية للدفاع عن كرامتهم ضد منافسين أقوياء. قصة ملهمة عن الوحدة والتحدي.",
-    "desc_en": "Peddi, a 2026 film, is an action-drama set in 1980s rural India. It tells the story of a village's journey, led by a spirited individual, as they unite through sports to stand up against powerful rivals. A tale of unity and resilience.",
-    "seo_title_ar": "مشاهدة فيلم بيدي Peddi مترجم - توميتو",
-    "meta_desc": "بيدي، فيلم حركة ودراما ملهم، يصور كفاح قرية في الثمانينيات ضد منافسين أقوياء. قصة ملهمة عن الوحدة والرياضة.",
-    "outro": "شاهد Peddi الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "بيدي، فيلم رائع يسلط الضوء على قوة الرياضة في توحيد المجتمعات. قصة ملهمة ومؤثرة.",
-    "opinion_en": "Peddi is a captivating film that showcases the power of sports to bring communities together. An inspiring and emotional watch.",
+    "intro": "يحكي فيلم بيدي قصة ريفية غنية بالروح والفروسية، حيث يوحد رجل من وقارع مجتمعه من خلال الرياضة للدفاع عن كرامتهم أمام خصم قوي.",
+    "desc_ar": "يحكي فيلم بيدي قصة ريفية غنية بالروح والفروسية، حيث يوحد رجل من وقارع مجتمعه من خلال الرياضة للدفاع عن كرامتهم أمام خصم قوي، ويجد نفسه في صراع مع الظلم والظروف الصعبة، ويستخدم موهبته الرياضية لتحقيق النصر والكرامة لشعبه، في فيلم حركة ودراما يسلط الضوء على القوة والروح المضية في وجه الصعوبات.",
+    "desc_en": "Peddi is a film that tells the story of a village that refuses to be forgotten, where a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized and respected, in a world where the odds are against them. With courage and determination, he takes on the challenge and uses his skills to overcome the obstacles and achieve victory, in a story of action and drama that highlights the power and resilience of the human spirit.",
+    "seo_title_ar": "مشاهدة فيلم بيدي مترجم - فيلم حركة ودراما - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم بيدي مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، فيلم حركة ودراما يسلط الضوء على القوة والروح المضية في وجه الصعوبات. اس",
+    "outro": "يستخدم فيلم بيدي موهبته الرياضية لتحقيق النصر والكرامة لشعبه، في فيلم حركة ودراما يسلط الضوء على القوة والروح المضية في وجه الصعوبات.",
+    "opinion_ar": "فيلم بيدي هو تجربة روعة، يجمع بين الرياضة والروح، ويحكي قصة ريفية غنية بالروح والفروسية، في فيلم حركة ودراما يسلط الضوء على القوة والروح المضية في وجه الصعوبات.",
+    "opinion_en": "Peddi is a film that will leave you breathless, with its perfect blend of sports and spirit, telling the story of a village that refuses to be forgotten, in a world where the odds are against them, in a story of action and drama that highlights the power and resilience of the human spirit.",
     "faq": [
       {
-        "q": "هل بيدي فيلم واقعي؟",
-        "a": "بيدي فيلم خيالي، ولكنه مستوحى من أحداث واقعية في الهند.",
-        "q_en": "Is Peddi a true story?",
-        "a_en": "Peddi is a fictional film, but it draws inspiration from real-life events in India."
+        "q": "ما هو موضوع فيلم بيدي؟",
+        "a": "يتناول فيلم بيدي قصة ريفية غنية بالروح والفروسية، حيث يوحد رجل من وقارع مجتمعه من خلال الرياضة للدفاع عن كرامتهم أمام خصم قوي.",
+        "q_en": "What is the theme of Peddi?",
+        "a_en": "Peddi tells the story of a village that refuses to be forgotten, where a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized and respected, in a world where the odds are against them."
+      },
+      {
+        "q": "ما هي النقاط الرئيسية في فيلم بيدي؟",
+        "a": "يحكي الفيلم قصة ريفية غنية بالروح والفروسية، ويستخدم موهبته الرياضية لتحقيق النصر والكرامة لشعبه، في فيلم حركة ودراما يسلط الضوء على القوة والروح المضية في وجه الصعوبات.",
+        "q_en": "What are the main points of Peddi?",
+        "a_en": "The film tells the story of a village that refuses to be forgotten, where a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized and respected, in a world where the odds are against them, in a story of action and drama that highlights the power and resilience of the human spirit."
       }
     ],
-    "keywords": "بيدي, Peddi, فيلم, حركة, دراما, رياضة, وحدة, تحدي, الهند, الثمانينيات, بيدي اف, تحويل بيدي اف, لو بيدي شي, تحويل بيدي اف الى وورد, صنع بيدي, لو بيدي شي كلمات, تحويل من بيدي اف الى وورد, بيدي لا بيد عمرو, لو بيدي ماخليك تمشي, اللهم خذ بيدي في المضائق"
+    "keywords": "فيلم بيدي, فيلم حركة ودراما, الرياضة, الروح, الفروسية, القوة, الروح المضية, الصعوبات, النصر, الكرامة, فيلم 2026, بيدي اف, تحويل بيدي اف, لو بيدي شي, تحويل بيدي اف الى وورد, صنع بيدي, لو بيدي شي كلمات, لو بيدي ماخليك تمشي, بيدي لا بيد عمرو, لما خلقت بيدي, الحب تدري ماهو بيدي"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "192 دقيقة",
+  "duration": "189 دقيقة",
   "language": "الإنجليزية",
   "country": "الهند",
-  "cast": "Ram Charan Janhvi Kapoor Shiva Rajkumar Jagapati Babu Divyendu Sharma Rajatabha Dutta Dayanand Reddy Upendra Limaye"
+  "cast": "Ram Charan Janhvi Kapoor Shiva Rajkumar Jagapati Babu Divyendu Sharma Boman Irani Ravi Kishan Rao Ramesh"
 }

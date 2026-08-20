@@ -1,53 +1,59 @@
 {
   "id": 325622,
-  "title": "Murder 101",
-  "title_ar": "Murder 101",
-  "title_en": "Murder 101",
-  "slug": "325622-murder-101",
-  "overview": "مسلسل \"القتل 101\"، هو مزيج مثير من الدراما المراهقة، والتحقيق الجنائي الشيق، ودروس علم الاجتماع. تدور أحداثه حول صف دراسي في مدرسة ثانوية ريفية في تينيسي، حيث يساعد الطلاب في إعادة فتح قضية قديمة وتحويلها إلى مطاردة قاتل في الوقت الحاضر. \"القتل 101\"، مسلسل وثائقي-جريمة، يمزج بين الواقع والخيال، ويجمع بين \"Murder 101\"، مسلسل وثائقي-جريمة، يمزج بين الواقع والخيال، ويجمع بين الدراما المراهقة والتحقيق الجنائي الشيق.",
+  "title": "The Hound of the Baskervilles",
+  "title_ar": "The Hound of the Baskervilles",
+  "title_en": "The Hound of the Baskervilles",
+  "slug": "325622-the-hound-of-the-baskervilles",
+  "overview": "يحكي فيلم كلب الصيد من باسكرفيل قصة وفاة تشارلز باسكرفيل، آخر ورثة سلالة باسكرفيل، في ظروف مشبوهة. يعود هنري إلى المنزل القديم لأسرة باسكرفيل بعد وفاة تشارلز. يستعرض الفيلم حياة شرلوك هولمز، الفيلسوف الشرير، وطابعه المثيرة، الذي يتعامل مع الحادث المثير، ويرى فيه فرصة لمعرفة الأسرار المخفية وراء وفاة تشارلز. ويعود الفيلم إلى عصور قديمة لاستكشاف أصول هذا المذيع المريب، والذي يبدو أنه يتربص بأسرار وفاة تشارلز.",
   "poster_path": "/cy7sdlwtaiZYkpykbnzBtb4IoHs.jpg",
-  "backdrop_path": "/j3Unn0ynJIWrsmWMcPA4mBIk3Qf.jpg",
-  "release_date": "2026-07-13",
+  "backdrop_path": "/lEYFDzcZTNcQ5dUNA99FDeYL87L.jpg",
+  "release_date": "1921-08-01",
   "vote_average": 7.0,
-  "vote_count": 10,
+  "vote_count": 2,
   "genres": [
     {
-      "id": 99,
-      "name": "وثائقي"
+      "id": 9648,
+      "name": "غموض"
     },
     {
       "id": 80,
       "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Murder 101 (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"القتل 101\"، هو مزيج مثير من الدراما المراهقة، والتحقيق الجنائي الشيق، ودروس علم الاجتماع. تدور أحداثه حول صف دراسي في مدرسة ثانوية ريفية في تينيسي، حيث يساعد الطلاب في إعادة فتح قضية قديمة وتحويلها إلى مطاردة قاتل في الوقت الحاضر. \"القتل 101\"، مسلسل وثائقي-جريمة، يمزج بين الواقع والخيال، ويجمع بين \"Murder 101\"، مسلسل وثائقي-جريمة، يمزج بين الواقع والخيال، ويجمع بين الدراما المراهقة والتحقيق الجنائي الشيق.",
-    "desc_en": "\"Murder 101\" is a gripping series that blends teen drama, masterclass, and edge-of-your-seat crime investigation. It follows a high school sociology class in rural Tennessee who help revive a decades-old case, turning it into a present-day hunt for a killer. This documentary-crime series offers a unique blend of reality and fiction, combining teen drama with a thrilling crime investigation.",
-    "seo_title_ar": "مشاهدة مسلسل القتل 101 مترجم - توميتو",
-    "meta_desc": "مشاهدة القتل 101 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Murder 101 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"القتل 101\"، هو تجربة مشاهدة فريدة تجمع بين الدراما المراهقة والتحقيق الجنائي الشيق. إنه مزيج مثير يجعلك على حافة مقعدك طوال الوقت.",
-    "opinion_en": "\"Murder 101\" is a captivating series that seamlessly blends teen drama and crime investigation. It keeps you on the edge of your seat throughout, offering a unique and thrilling viewing experience.",
+    "intro": "يحكي فيلم كلب الصيد من باسكرفيل قصة وفاة تشارلز باسكرفيل، آخر ورثة سلالة باسكرفيل، في ظروف مشبوهة.",
+    "desc_ar": "يحكي فيلم كلب الصيد من باسكرفيل قصة وفاة تشارلز باسكرفيل، آخر ورثة سلالة باسكرفيل، في ظروف مشبوهة. يعود هنري إلى المنزل القديم لأسرة باسكرفيل بعد وفاة تشارلز. يستعرض الفيلم حياة شرلوك هولمز، الفيلسوف الشرير، وطابعه المثيرة، الذي يتعامل مع الحادث المثير، ويرى فيه فرصة لمعرفة الأسرار المخفية وراء وفاة تشارلز. ويعود الفيلم إلى عصور قديمة لاستكشاف أصول هذا المذيع المريب، والذي يبدو أنه يتربص بأسرار وفاة تشارلز.",
+    "desc_en": "After the death in suspicious circumstances of Charles Baskerville, the last descendant of the lineage of the Baskervilles, Henry, returned to the old family mansion. The charismatic detective Sherlock Holmes and his faithful assistant, Dr. Watson, investigating the case, and discover the existence of a supernatural hound that in addition murderer according to history, killed many years ago Hugo Baskerville, the first of the line, and it seems that the curse stalks his descendants. The story takes us on a thrilling journey through the misty moors of England, where the lines between reality and myth blur, and the truth behind the mysterious death is slowly revealed.",
+    "seo_title_ar": "مشاهدة فيلم كلب الصيد من باسكرفيل مترجم - توميتو",
+    "meta_desc": "فيلم كلب الصيد من باسكرفيل، من إخراج إمري تشورباجي، يروي قصة وفاة تشارلز باسكرفيل في ظروف مشبوهة. يستعرض الفيلم حياة شرلوك هولمز، ويعيدنا إلى عصور قديمة لا",
+    "outro": "يعد فيلم كلب الصيد من باسكرفيل تجربة مثيرة، حيث يتعامل الفيلم مع الغموض والجريمة، ويعيدنا إلى عصور قديمة لاستكشاف أصول هذا المذيع المريب.",
+    "opinion_ar": "يعد فيلم كلب الصيد من باسكرفيل تجربة مثيرة، حيث يتعامل الفيلم مع الغموض والجريمة، ويعيدنا إلى عصور قديمة لاستكشاف أصول هذا المذيع المريب.",
+    "opinion_en": "The Hound of the Baskervilles is a thrilling experience, where the film deals with mystery and crime, and takes us on a journey through the misty moors of England, where the lines between reality and myth blur.",
     "faq": [
       {
-        "q": "ما هو مسلسل \"القتل 101\"؟",
-        "a": "مسلسل \"القتل 101\" هو مسلسل وثائقي-جريمة يمزج بين الدراما المراهقة والتحقيق الجنائي الشيق.",
-        "q_en": "What is \"Murder 101\" about?",
-        "a_en": "\"Murder 101\" is a documentary-crime series that blends teen drama and edge-of-your-seat crime investigation."
+        "q": "ما هي قصة فيلم كلب الصيد من باسكرفيل؟",
+        "a": "يحكي الفيلم قصة وفاة تشارلز باسكرفيل، آخر ورثة سلالة باسكرفيل، في ظروف مشبوهة.",
+        "q_en": "What is the story of The Hound of the Baskervilles?",
+        "a_en": "The film tells the story of the death of Charles Baskerville, the last descendant of the Baskerville lineage, in suspicious circumstances."
+      },
+      {
+        "q": "من هو شرلوك هولمز؟",
+        "a": "يعد شرلوك هولمز شخصية مثيرة، حيث يتعامل الفيلم مع حياته وحبسه في حل الألغاز والجريمة.",
+        "q_en": "Who is Sherlock Holmes?",
+        "a_en": "Sherlock Holmes is a fascinating character, where the film explores his life and his passion for solving mysteries and crimes."
       }
     ],
-    "keywords": "القتل 101, Murder 101, مسلسل, وثائقي, جريمة, دراما مراهقة, تحقيق جنائي, تينيسي"
+    "keywords": "كلب الصيد من باسكرفيل, فيلم, غموض, جريمة, دراما, شرلوك هولمز, تشارلز باسكرفيل, المذيع المريب, عصور قديمة, England, مشاهدة كلب الصيد من باسكرفيل, The Hound Baskervilles مترجم, تحميل كلب الصيد من باسكرفيل, كلب الصيد من باسكرفيل اون لاين, The Hound of the Baskervilles مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "100 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "",
-  "first_air_date": "2026-07-13",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "المملكة المتحدة",
+  "cast": "Eille Norwood Catina Campbell Rex McDougall Lewis Gilbert Hubert Willis Allan Jeayes Fred Raynham Miss Walker"
 }

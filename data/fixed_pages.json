@@ -7589,8 +7589,62 @@
       "file": "1658653.json",
       "title": "Vanishing Point",
       "fixed_at": "2026-08-20T21:02:51.207473"
+    },
+    {
+      "tmdb_id": "313369",
+      "file": "313369.json",
+      "title": "لا لا لاند",
+      "fixed_at": "2026-08-20T21:20:50.334152"
+    },
+    {
+      "tmdb_id": "270946",
+      "file": "270946.json",
+      "title": "مدغشقر بطاريق مدغشقر",
+      "fixed_at": "2026-08-20T21:20:57.585531"
+    },
+    {
+      "tmdb_id": "300954",
+      "file": "300954.json",
+      "title": "الزوج",
+      "fixed_at": "2026-08-20T21:21:14.871496"
+    },
+    {
+      "tmdb_id": "99312",
+      "file": "99312.json",
+      "title": "El da menos pensado",
+      "fixed_at": "2026-08-20T21:21:36.853956"
+    },
+    {
+      "tmdb_id": "155513",
+      "file": "155513.json",
+      "title": "GAP",
+      "fixed_at": "2026-08-20T21:21:44.234857"
+    },
+    {
+      "tmdb_id": "18334",
+      "file": "18334.json",
+      "title": "Guinea Pig: Devils Experiment",
+      "fixed_at": "2026-08-20T21:21:52.088140"
+    },
+    {
+      "tmdb_id": "325622",
+      "file": "325622.json",
+      "title": "Murder 101",
+      "fixed_at": "2026-08-20T21:22:03.649822"
+    },
+    {
+      "tmdb_id": "1057265",
+      "file": "1057265.json",
+      "title": "Peddi",
+      "fixed_at": "2026-08-20T21:22:14.258240"
+    },
+    {
+      "tmdb_id": "976",
+      "file": "976.json",
+      "title": "Sweet Smell of Success",
+      "fixed_at": "2026-08-20T21:22:24.452207"
     }
   ],
-  "last_updated": "2026-08-20T21:02:53.208962",
-  "total_fixed": 1265
+  "last_updated": "2026-08-20T21:22:26.455001",
+  "total_fixed": 1274
 }
