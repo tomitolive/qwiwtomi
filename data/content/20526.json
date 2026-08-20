@@ -9,7 +9,7 @@
   "backdrop_path": "/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
   "release_date": "2010-12-14",
   "vote_average": 6.5,
-  "vote_count": 7912,
+  "vote_count": 8080,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الكمبيوتر، يُحوّل برنامج الألعاب الإلكترونية إلى شخصية إلكترونية، مما يؤدي إلى فوضى ودمار في أنحاء الشبكة. في هذه الرحلة، يقوم ابنه البرنامج بالبحث عن والده ليكتشف أن البرنامج صنع حالة من الفوضى في النظام، ويقرر الدخول لإنقاذه.",
-    "desc_en": "In the world of computer, a program for electronic games turns into an electronic personality, leading to chaos and destruction throughout the network. In this journey, the program's son searches for his father to discover that the program created a state of chaos in the system, and decides to enter to save it.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم TRON: Legacy!",
-    "seo_title_ar": "مشاهدة فيلم TRON: Legacy مترجم اون لاين - توميتو",
-    "keywords": "فيلم TRON: Legacy مترجم, مشاهدة فيلم TRON: Legacy, TRON: Legacy مترجم, توميتو TRON: Legacy, مشاهدة TRON: Legacy 2010, قصة فيلم TRON: Legacy, أحداث TRON: Legacy بالتفصيل",
-    "opinion": "هو فيلم رائع يجمع بين المغامرة والحركة والخيال العلمي، مع قصة ممتعة وتصوير رائع.",
+    "intro": "يحكي فيلم ترون: تراث قصة ابنه للخالق الأصلي Kevin Flynn، سام فلين، الذي يحاول استكشاف اختفاء والده في عالم الكمبيوتر المعقد والمسمى The Grid.",
+    "desc_ar": "يحكي فيلم ترون: تراث قصة ابنه للخالق الأصلي Kevin Flynn، سام فلين، الذي يحاول استكشاف اختفاء والده في عالم الكمبيوتر المعقد والمسمى The Grid. يجد سام حليفه في برنامج غامض اسمه Quorra، ويتعاونان معًا لمنع الأب الروحي Clu من دخول العالم الحقيقي، حيث يتعرض العالم إلى فوضى ودمار. تظهر قوة سام وتفانيه في تحدي الأخطار والتحديات في هذا العالم المدهش، حيث يتحد مع Quorra لمواجهة الأخطار وإنقاذ العالم من قبضة Clu.",
+    "desc_en": "The film tells the story of Kevin Flynn's son, Sam Flynn, who investigates his father's disappearance in the complex computer world known as The Grid. Sam finds his ally in the mysterious program Quorra, and together they work to prevent the father figure Clu from entering the real world, where the world is threatened by chaos and destruction. Sam's strength and dedication are revealed as he faces the dangers and challenges in this amazing world, where he teams up with Quorra to face the threats and save the world from Clu's grip.",
+    "seo_title_ar": "مشاهدة فيلم ترون: تراث مترجم - توميتو",
+    "meta_desc": "TRON: Legacy, فيلم مغامرة, حركة, خيال علمي عن عالم الكمبيوتر المعقد The Grid, ترون: تراث, ترون , TRON: Legacy , TRON: Legacy , TRON: Legacy, TRON استم",
+    "outro": "تظهر قوة سام وتفانيه في تحدي الأخطار والتحديات في هذا العالم المدهش، حيث يتحد مع Quorra لمواجهة الأخطار وإنقاذ العالم من قبضة Clu.",
+    "opinion_ar": "فيلم ترون: تراث يظهر قوة الإبداع والتفان في عالم الكمبيوتر، حيث يتعرض العالم إلى تحديات وآثار، ويجد سام فلين حليفه في Quorra لمواجهة الأخطار.",
+    "opinion_en": "TRON: Legacy showcases the power of innovation and dedication in the world of computer, where the world is threatened by challenges and consequences, and Sam Flynn finds his ally in Quorra to face the threats.",
     "faq": [
       {
-        "q": "ما هو فيلم TRON: Legacy؟",
-        "a": "فيلم رائع يجمع بين المغامرة والحركة والخيال العلمي، مع قصة ممتعة وتصوير رائع."
+        "q": "ما هو فيلم ترون: تراث؟",
+        "a": "فيلم مغامرة, حركة, خيال علمي عن عالم الكمبيوتر المعقد The Grid.",
+        "q_en": "What is TRON: Legacy?",
+        "a_en": "A science fiction, action, adventure film about the complex computer world known as The Grid."
       },
       {
-        "q": "ما هو نوع فيلم TRON: Legacy؟",
-        "a": "فيلم مغامرة وحركة وخيال علمي."
+        "q": "من يلعب دور سام فلين في فيلم ترون: تراث؟",
+        "a": "جاستن بيترسون.",
+        "q_en": "Who plays the role of Sam Flynn in TRON: Legacy?",
+        "a_en": "Justin Paterickson."
       },
       {
-        "q": "ما هو أفضل ما في فيلم TRON: Legacy؟",
-        "a": "القصة الممتعة والتصوير الرائع"
+        "q": "من يلعب دور Quorra في فيلم ترون: تراث؟",
+        "a": "أوليفيا وايلد.",
+        "q_en": "Who plays the role of Quorra in TRON: Legacy?",
+        "a_en": "Olivia Wilde."
       }
-    ]
+    ],
+    "keywords": "ترون: تراث, ترون, TRON: Legacy, TRON, مغامرة, حركة, خيال علمي, عالم الكمبيوتر, The Grid, سام فلين, Quorra, كلاي, Clu., مشاهدة ترون: تراث, TRON: Legacy مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "126 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Garrett Hedlund Olivia Wilde Jeff Bridges Bruce Boxleitner James Frain"
+  "cast": "Garrett Hedlund Olivia Wilde Jeff Bridges Bruce Boxleitner James Frain Beau Garrett Michael Sheen Anis Cheurfa"
 }

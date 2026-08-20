@@ -1,17 +1,15 @@
 {
   "id": 94280,
-  "title": "Steven Universe Future",
-  "title_ar": "Steven Universe Future",
+  "title": "ستيفن يونيفرس فيوتشر",
+  "title_ar": "ستيفن يونيفرس فيوتشر",
   "title_en": "Steven Universe Future",
   "slug": "94280-steven-universe-future",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "بعد إنقاذ الكون، لا يزال ستيفن منشغلاً بحلّ جميع المشاكل العالقة. ومع نفاد مشاكل الآخرين التي كان عليه حلّها، سيضطر أخيرًا إلى مواجهة مشاكله الخاصة",
   "poster_path": "/WtYiQk6432J0jCi61UQzLFtCCX.jpg",
-  "backdrop_path": "/lVanQ6A5R6xFSEj7OMtujQMEPjz.jpg",
+  "backdrop_path": "/2yCZ1xzTNhX9d0rAGre58eBJEO5.jpg",
   "release_date": "2019-12-07",
   "vote_average": 8.2,
-  "vote_count": 763,
+  "vote_count": 779,
   "genres": [
     {
       "id": 16,
@@ -35,33 +33,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرسوم المتحركة، يلقي ستيفن يونيفيرس لوناً جديدةً على قصة الكرتون الكلاسيكية. يأخذنا إلى عالم من المغامرة والفانتازيا، حيث يلتقي ستيفن مع أصدقائه في مغامرات ممتازة، مع إمكانية التعاون والصداقة والخلاص. في هذه القصة، ستيفن يتعامل مع مشاكله الشخصية والاجتماعية، بينما يلقي نظرةً على المستقبل، ويحاول أن يجد مكاناً له في هذا العالم المليء بالعديد من الألغاز والمرحلة.",
-    "desc_en": "In a world of animated series, Steven Universe Future brings a new light to the classic cartoon story. It takes us to a world of adventure and fantasy, where Steven meets his friends in excellent adventures, with the possibility of cooperation, friendship, and salvation. In this story, Steven deals with his personal and social problems, while looking at the future, trying to find his place in this world full of puzzles and challenges.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Steven Universe Future!",
-    "seo_title_ar": "مشاهدة فيلم Steven Universe Future مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم كوميديا, فيلم خيال علمي وفانتازيا, فيلم عائلي, Steven Universe Future مترجم كامل, مشاهدة Steven Universe Future 2019, توميتو Steven Universe Future, أحداث Steven Universe Future بالتفصيل, قصة مسلسل Steven Universe Future",
-    "opinion": "هذه القصة هي المرة الأولى التي أرى فيها قصة كرتون تتعامل مع مشاكل الشخصية والاجتماعية في هذا النوع من القصص، وكانت النتيجة رائعة!",
+    "intro": "ستيفن يونيفرس فيوتشر هو مسلسل رسوم متحركة يجمع بين الحركة والمغامرة والكوميديا، ويحكي قصة ستيفن الذي يحارب لإنقاذ الكون.",
+    "desc_ar": "بعد إنقاذ الكون، لا يزال ستيفن منشغلاً بحلّ جميع المشاكل العالقة التي تهمه، ويتعين عليه الآن أن يلتزم بمسؤولياته كشخص متمرس في حلّ الأزمات. لكن مع نفاد المشاكل التي كان عليه حلّها لآخرين، يبدو أن ستيفن سيضطر أخيرًا إلى مواجهة أعماقه الداخلية ويتعامل مع مشاكله الخاصة، وهو ما قد يفتح عليه آفاق جديدة وذكريات غامرة. ستيفن يونيفرس فيوتشر يسير في طريق مهم، حيث يتحرك من مرحلة إلى أخرى، يحلّ كل مشاكلها، ويفتح آفاقا جديدة للعالم، ويتعامل مع نفسه كشخصية فريدة. وهكذا، يتعين على ستيفن أن يتعامل مع نفسه، ويجعل من نفسه شخصا أكثر ثقة ومتطورا، ويتنقل من مرحلة إلى أخرى، ويحافظ على سلامة الكون",
+    "desc_en": "After saving the universe, Steven is still at it, tying up every loose end. As he runs out of other people's problems to solve, he'll finally have to face his own and figure out who he is outside of his superhero life. Steven Universe Future is a journey of self-discovery and growth, as Steven navigates through new challenges and confronts his inner demons. With his unique personality and determination, Steven will make his way through this new chapter of his life, and the world will be a better place for it.",
+    "seo_title_ar": "مشاهدة ستيفن يونيفرس فيوتشر مسلسل مترجم - توميتو",
+    "meta_desc": "ستيفن يونيفرس فيوتشر مسلسل رسوم متحركة حركة ومغامرة كوميديا خيال علمي وفانتازيا عائلي استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "وهكذا، ستيفن يونيفرس فيوتشر هو مسلسل رسوم متحركة مثير يجمع بين الحركة والمغامرة والكوميديا، ويحكي قصة ستيفن الذي يحارب لإنقاذ الكون، ويجعل من نفسه شخصا أكثر ثقة ومتطورا.",
+    "opinion_ar": "ستيفن يونيفرس فيوتشر هو مسلسل رسوم متحركة مثير يجمع بين الحركة والمغامرة والكوميديا، ويحكي قصة ستيفن الذي يحارب لإنقاذ الكون.",
+    "opinion_en": "Steven Universe Future is an exciting animated series that combines action, adventure, and comedy, telling the story of Steven who fights to save the universe.",
     "faq": [
       {
-        "q": "ما هو Steven Universe Future؟",
-        "a": "هو سلسلة رسوم متحركة خيال علمي وفانتازيا، تتعامل مع مشاكل الشخصية والاجتماعية."
-      },
-      {
-        "q": "ما هو نوع القصة؟",
-        "a": "هو نوع قصة رسوم متحركة، خيال علمي وفانتازيا، كوميديا، عائلي."
-      },
-      {
-        "q": "ما هو ميزة القصة؟",
-        "a": "ميزة القصة هي أنها تتعامل مع مشاكل الشخصية والاجتماعية، مع إمكانية التعاون والصداقة والخلاص."
+        "q": "ما هو ستيفن يونيفرس فيوتشر؟",
+        "a": "ستيفن يونيفرس فيوتشر هو مسلسل رسوم متحركة يظهر قصة ستيفن بعد إنقاذ الكون.",
+        "q_en": "What is Steven Universe Future?",
+        "a_en": "Steven Universe Future is an animated series that shows the story of Steven after saving the universe."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, حركة ومغامرة, كوميديا, خيال علمي وفانتازيا, عائلي, ستيفن يونيفرس فيوتشر, مشاهدة ستيفن يونيفرس فيوتشر, Steven Universe Future مترجم, تحميل ستيفن يونيفرس فيوتشر, ستيفن يونيفرس فيوتشر اون لاين, Steven Universe Future, ستيفن يونيفرس فيوتشر جودة عالية, فيلم ستيفن يونيفرس فيوتشر, Steven Universe Future HD, ستيفن يونيفرس فيوتشر HD"
   },
   "fixed": true,
-  "first_air_date": "2019-12-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
-  "language": "الصينية",
-  "country": "الصين",
-  "cast": "-"
+  "duration": "11 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Zach Callison Estelle Deedee Magno Hall Michaela Dietz",
+  "first_air_date": "2019-12-07"
 }

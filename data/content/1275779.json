@@ -1,20 +1,16 @@
 {
   "id": 1275779,
-  "title": "Disclosure Day",
-  "title_ar": "Disclosure Day",
+  "title": "يوم الإفصاح",
+  "title_ar": "يوم الإفصاح",
   "title_en": "Disclosure Day",
   "slug": "1275779-disclosure-day",
-  "overview": "يوم الإفصاح: فيلم غامض ومثير يطرح تساؤلات حول اكتشاف وجود حياة أخرى. هل ستخيفك الحقيقة إذا ما كشفها أحدهم؟ هل أنت مستعد لمواجهة هذا اليوم؟ Disclosure Day فيلم خيال علمي مشوق.",
+  "overview": "يصبح خبير في الأمن السيبراني مُبلغ عن المخالفات بعد اكتشافه أسرارًا عن كائنات فضائية، فتطاردُه إحدى الشركات. وفي نفس الوقت، تتعاون معه خبيرة أرصاد جوية تواجه ظواهر غريبة ليثبتا وجود حياة تتجاوز فهمنا.",
   "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-  "backdrop_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+  "backdrop_path": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
   "release_date": "2026-06-10",
-  "vote_average": 8.4,
-  "vote_count": 7,
+  "vote_average": 7.5,
+  "vote_count": 2905,
   "genres": [
-    {
-      "id": 9648,
-      "name": "غموض"
-    },
     {
       "id": 878,
       "name": "خيال علمي"
@@ -25,23 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Disclosure Day (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يوم الإفصاح: فيلم غامض ومثير يطرح تساؤلات حول اكتشاف وجود حياة أخرى. هل ستخيفك الحقيقة إذا ما كشفها أحدهم؟ هل أنت مستعد لمواجهة هذا اليوم؟ Disclosure Day فيلم خيال علمي مشوق.",
-    "desc_en": "Disclosure Day: A thrilling mystery film that explores the revelation of extraterrestrial life. What if someone showed you the truth? Are you ready for this day? Disclosure Day is an exciting sci-fi adventure.",
-    "seo_title_ar": "مشاهدة فيلم يوم الإفصاح - Disclosure Day مترجم - توميتو",
-    "meta_desc": "يوم الإفصاح - فيلم غامض ومثير يكشف عن وجود حياة أخرى. هل أنت مستعد لمواجهة الحقيقة؟ Disclosure Day فيلم خيال علمي مشوق.",
-    "outro": "شاهد Disclosure Day الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "يوم الإفصاح فيلم مثير ومليء بالتشويق، يجعلك تفكر في إمكانية وجود حياة أخرى. إنه عمل سينمائي رائع يجب مشاهدته.",
-    "opinion_en": "Disclosure Day is a captivating film that leaves you questioning the existence of extraterrestrial life. A must-watch for sci-fi enthusiasts!",
+    "intro": "استمتع بمشاهدة فيلم يوم الإفصاح (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يصبح خبير في الأمن السيبراني مُبلغ عن المخالفات بعد اكتشافه أسرارًا عن كائنات فضائية، فتطاردُه إحدى الشركات. وفي نفس الوقت، تتعاون معه خبيرة أرصاد جوية تواجه ظواهر غريبة ليثبتا وجود حياة تتجاوز فهمنا.",
+    "desc_en": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "seo_title_ar": "مشاهدة فيلم Disclosure Day مترجم - توميتو",
+    "meta_desc": "مشاهدة يوم الإفصاح مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد يوم الإفصاح الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "هل يوم الإفصاح فيلم واقعي؟",
-        "a": "لا، يوم الإفصاح فيلم خيال علمي يطرح تساؤلات حول اكتشاف حياة أخرى، لكنه ليس واقعيًا.",
-        "q_en": "Is Disclosure Day a realistic film?",
-        "a_en": "No, Disclosure Day is a sci-fi film that explores the revelation of extraterrestrial life, but it is not realistic."
+        "q": "كيف يمكنني مشاهدة فيلم يوم الإفصاح?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Disclosure Day?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم يوم الإفصاح?",
+        "a": "يندرج العمل تحت تصنيف خيال علمي, إثارة.",
+        "q_en": "What is the genre of Disclosure Day?",
+        "a_en": "It falls under the genre of خيال علمي, إثارة."
+      },
+      {
+        "q": "ما هي قصة فيلم يوم الإفصاح?",
+        "a": "يصبح خبير في الأمن السيبراني مُبلغ عن المخالفات بعد اكتشافه أسرارًا عن كائنات فضائية، فتطاردُه إحدى الشركات. وفي نفس الوقت، تتعاون معه خبيرة أرصاد جوية تواجه ظواهر غريبة ليثبتا وجود حياة تتجاوز فهمنا.",
+        "q_en": "What is the story of Disclosure Day?",
+        "a_en": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces ..."
       }
     ],
-    "keywords": "يوم الإفصاح, Disclosure Day, فيلم, غموض, خيال علمي, إثارة, حياة أخرى, اكتشاف, تشويق"
+    "keywords": "يوم الإفصاح مترجم, Disclosure Day مترجم, مشاهدة يوم الإفصاح,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
