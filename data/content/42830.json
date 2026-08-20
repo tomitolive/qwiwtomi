@@ -4,9 +4,7 @@
   "title_ar": "Moribito: Guardian of the Spirit",
   "title_en": "Moribito: Guardian of the Spirit",
   "slug": "42830-moribito-guardian-of-the-spirit",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل موريبيتو: حارس الروح قصة حارسة حربية تدعى بالسا، وهي رجلية سيفية متحررة، تسعى إلى تحسين حياتها من خلال إنقاذ الأرواح، وبالتالي تعويض خطأ منعتها في الماضي. خلال رحلتها، تنجح بالسا في إنقاذ ولي عهد، وتُختار لتصبح حارساً لجسده، وهذا في الواقع ضروري، لأن والده الإمبراطور يرغب في قتل هذا الولي العهد. تزداد حكاية بالسا مع الوقت، وتكشف عن أسرار حول حالة شاغوم، وتعزز علاقة بالسا وولي العهد مع بعضهما البعض، وكذلك مع الآخرين.",
   "poster_path": "/1pJJbeDPqQ0XcOO3wLJr2ioXCln.jpg",
   "backdrop_path": "/ahSGkcH1QmrxmNJxY9nAOzIjjfA.jpg",
   "release_date": "2007-04-07",
@@ -31,35 +29,30 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تتخيل حياة مليئة بالخطر والاستكشاف، حيث تُكلف امرأة بحراسة حياة ولي العهد؟",
-    "desc_ar": "في عالم من الرسوم المتحركة، يتعامل البطل الرئيسي، كوما، مع قوة روحية قوية تهددها بتهديدات عديدة. مع ذلك، يجد كوما نفسه مرتبطاً بقوة روحية أخرى، تتمثل في سكا، التي تتميز بقوة عظيمة. في هذه الرحلة، سوف نرى كيف يتعامل كوما مع هذه القوة الروحية، التي تهددها بتهديدات عديدة، و كيف سكا تتميز بقوة عظيمة في هذه الرحلة.",
-    "seo_title_ar": "مشاهدة فيلم موريبيتو: حارس الروح مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Морибيتو: حارس الروح",
-    "outro": "إذا كنت تبحث عن قصة ملحمية تحملك إلى عوالم خيالية، فإن موريبیتو: حارِس الروح هي الخيار المثالي",
-    "opinion": "هذا الفيلم يحتوي على أحداث رائعة، ويحمل رسوم متحركة رائعة، ويحمل قصة رائعة، ويحمل رسوم متحركة رائعة",
+    "intro": "تدور أحداث مسلسل موريبيتو: حارس الروح في عالم مليء بالسحر والخيال العلمي، حيث تتعاون البشر مع الكائنات الخارقة لتكوين علاقة متينة.",
+    "desc_ar": "يحكي مسلسل موريبيتو: حارس الروح قصة حارسة حربية تدعى بالسا، وهي رجلية سيفية متحررة، تسعى إلى تحسين حياتها من خلال إنقاذ الأرواح، وبالتالي تعويض خطأ منعتها في الماضي. خلال رحلتها، تنجح بالسا في إنقاذ ولي عهد، وتُختار لتصبح حارساً لجسده، وهذا في الواقع ضروري، لأن والده الإمبراطور يرغب في قتل هذا الولي العهد. تزداد حكاية بالسا مع الوقت، وتكشف عن أسرار حول حالة شاغوم، وتعزز علاقة بالسا وولي العهد مع بعضهما البعض، وكذلك مع الآخرين.",
+    "desc_en": "Balsa the spearwoman is a wandering warrior, who takes on the task of saving lives, in atonement for a past sin. On her journey, she happens to save a prince, and is tasked with becoming his bodyguard. And he is going to need one, for his own father, the emperor, wants him dead. Throughout the story, Balsa's past will come to light and they will uncover mysteries about Chagum's condition while developing a family-like relationship with each other and others.",
+    "seo_title_ar": "مشاهدة مسلسل موريبيتو: حارس الروح مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل موريبيتو: حارس الروح مترجم - توميتو، حارسة حربية تسعى إلى إنقاذ الأرواح وتعويض خطأ ماض، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية ب",
+    "outro": "يستحق مسلسل موريبيتو: حارس الروح المشاهدة من أجل الحكاية المترامية الأطراف والجوانب الدرامية، واستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "opinion_ar": "موريبيتو: حارس الروح هو مسلسل رسوم متحركة وخيال علمي وفانتازيا يسلط الضوء على قصة حارسة حربية، تسعى إلى إنقاذ الأرواح وتعويض خطأ ماض، ويتميز بالحكاية المترامية الأطراف والجوانب الدرامية.",
+    "opinion_en": "Moribito: Guardian of the Spirit is an animated and science fantasy series that focuses on the story of a spearwoman who tries to save lives and make up for a past sin, it is characterized by a complex and dramatic narrative.",
     "faq": [
       {
-        "q": "ما هو موريبيتو؟",
-        "a": "هو فيلم رسوم متحركة رائع يحتوي على أحداث رائعة"
-      },
-      {
-        "q": "ما هو حارس الروح؟",
-        "a": "هو الشخص الرئيسي في الفيلم، كوما، الذي يتعامل مع قوة روحية قوية"
-      },
-      {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة، حركة ومغامرة، دراما، خيال علمي وفانتازيا"
+        "q": "ما هي قصة مسلسل موريبيتو: حارس الروح؟",
+        "a": "يتناول المسلسل قصة حارسة حربية تسعى إلى إنقاذ الأرواح وتعويض خطأ ماض، وتعرف على ولية عهد وشاغوم ووالده الإمبراطور.",
+        "q_en": "What is the story of Moribito: Guardian of the Spirit?",
+        "a_en": "The series focuses on the story of a spearwoman who tries to save lives and make up for a past sin, and follows the story of a prince, Chagum, and his father the emperor."
       }
     ],
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم موريبيتو, Moribito: Guardian of the Spirit مترجم كامل, قصة مسلسل Moribito: Guardian of the Spirit, توميتو Moribito: Guardian of the Spirit, مشاهدة Moribito: Guardian of the Spirit 2007, أحداث Moribito: Guardian of the Spirit بالتفصيل",
-    "desc_en": "In a world of animation, the main hero, Komasa, deals with a powerful spiritual force that threatens him with numerous dangers. However, Komasa finds himself connected to another powerful spiritual force, Ska, which is characterized by great power. In this journey, we will see how Komasa deals with this spiritual force, which threatens him with numerous dangers, and how Ska is characterized by great power in this journey."
+    "keywords": "موريبيتو حارس الروح مسلسل رسوم متحركة خيال علمي وفانتازيا دراما حركة ومغامرة, مشاهدة موريبيتو: حارس الروح, Moribito: Guardian Spirit مترجم, تحميل موريبيتو: حارس الروح, موريبيتو: حارس الروح اون لاين, Moribito: Guardian Spirit, موريبيتو: حارس الروح جودة عالية, فيلم موريبيتو: حارس الروح, Moribito: Guardian Spirit HD, موريبيتو: حارس الروح HD, مسلسل موريبيتو: حارس الروح, Moribito: Guardian Spirit مشاهدة, موريبيتو: حارس الروح توب سينما, موريبيتو: حارس الروح شاهدد, موريبيتو: حارس الروح توميتو"
   },
   "fixed": true,
-  "first_air_date": "2007-04-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Mabuki Ando Naoto Adachi Koji Tsujitani Ako Mayama Mayumi Asano Yoshinari Kobayashi Takkô Ishimori Hirofumi Nojima",
+  "first_air_date": "2007-04-07"
 }

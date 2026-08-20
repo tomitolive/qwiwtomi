@@ -7259,8 +7259,74 @@
       "file": "62211.json",
       "title": "جامعة المرعبين",
       "fixed_at": "2026-08-20T18:04:16.711734"
+    },
+    {
+      "tmdb_id": "79166",
+      "file": "79166.json",
+      "title": "Grand Blue Dreaming",
+      "fixed_at": "2026-08-20T18:27:17.250414"
+    },
+    {
+      "tmdb_id": "926393",
+      "file": "926393.json",
+      "title": "المعادل 3",
+      "fixed_at": "2026-08-20T18:27:28.816752"
+    },
+    {
+      "tmdb_id": "242",
+      "file": "242.json",
+      "title": "العراب : الجزء الثالث",
+      "fixed_at": "2026-08-20T18:27:39.867522"
+    },
+    {
+      "tmdb_id": "11563",
+      "file": "11563.json",
+      "title": "Bread",
+      "fixed_at": "2026-08-20T18:27:51.449287"
+    },
+    {
+      "tmdb_id": "93166",
+      "file": "93166.json",
+      "title": "The Capture",
+      "fixed_at": "2026-08-20T18:28:29.624968"
+    },
+    {
+      "tmdb_id": "47663",
+      "file": "47663.json",
+      "title": "The Ark",
+      "fixed_at": "2026-08-20T18:29:11.108884"
+    },
+    {
+      "tmdb_id": "119769",
+      "file": "119769.json",
+      "title": "سائق سيارة أجرة",
+      "fixed_at": "2026-08-20T18:29:38.612234"
+    },
+    {
+      "tmdb_id": "109096",
+      "file": "109096.json",
+      "title": "Great Escape Super Version",
+      "fixed_at": "2026-08-20T18:29:54.823074"
+    },
+    {
+      "tmdb_id": "43078",
+      "file": "43078.json",
+      "title": "Miss Fishers Murder Mysteries",
+      "fixed_at": "2026-08-20T18:30:21.579992"
+    },
+    {
+      "tmdb_id": "30020",
+      "file": "30020.json",
+      "title": "طعم يلاس",
+      "fixed_at": "2026-08-20T18:30:35.114371"
+    },
+    {
+      "tmdb_id": "42830",
+      "file": "42830.json",
+      "title": "Moribito: Guardian of the Spirit",
+      "fixed_at": "2026-08-20T18:30:51.323958"
     }
   ],
-  "last_updated": "2026-08-20T18:04:18.714757",
-  "total_fixed": 1210
+  "last_updated": "2026-08-20T18:30:53.326565",
+  "total_fixed": 1221
 }

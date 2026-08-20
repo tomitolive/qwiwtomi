@@ -1,17 +1,15 @@
 {
   "id": 93166,
-  "title": "The Capture",
-  "title_ar": "The Capture",
+  "title": "ذا كـابتشر",
+  "title_ar": "ذا كـابتشر",
   "title_en": "The Capture",
   "slug": "93166-the-capture",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تبدأ الأحداث مع جندي بريطاني يُبرَّأ من جريمة حرب بسبب خلل في أدلة الفيديو، لكنه يُتهم بعدها بجريمة جديدة اعتمادًا على تسجيلات كاميرات المراقبة ومع تقدم التحقيق تكتشف المحققة رايتشل كاري مؤامرة ضخمة تعتمد على التزييف العميق (Deepfake) والتلاعب ببث الفيديو المباشر.",
   "poster_path": "/6keUrgntgKt299a39UJCDYldb8b.jpg",
   "backdrop_path": "/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
   "release_date": "2019-09-03",
-  "vote_average": 7.7,
-  "vote_count": 316,
+  "vote_average": 7.6,
+  "vote_count": 339,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النمذجة، يتعقب المحققون الفتاة المفقودة، التي تتميز بسرعة الحركة والذكاء، في رحلة للاكتشاف والتحقيق في جريمة قتل، التي تثير الكثير من التساؤلات والشكوك. في هذه الرحلة، سوف نرى كيف يتعقب المحققون الفتاة المفقودة، وهم يبحثون عن الحقيقة، ويقومون بالتحقيق في جريمة قتل، التي تثير الكثير من التساؤلات والشكوك.",
-    "desc_en": "In the world of profiling, detectives are on the hunt for the missing girl, known for her speed and intelligence, as they embark on a journey to uncover and investigate a murder that raises many questions and suspicions. Along the way, we will see how detectives track down the missing girl, as they search for the truth and conduct an investigation into a murder that raises many questions and suspicions.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في جريمة قتل في (الاعتقال) - توميتو",
-    "keywords": "فيلم جريمة مترجم, مشاهدة فيلم دراما, توميتو The Capture, The Capture مترجم كامل, أحداث The Capture بالتفصيل, مشاهدة The Capture 2019, قصة مسلسل The Capture",
-    "seo_title_ar": "مشاهدة فيلم الاعتقال مترجم اون لاين - توميتو",
-    "opinion": "هذه الدراما التلفزيونية هي واحدة من أفضل ما عرضه التلفزيون، حيث تجمع بين الجريمة والدراما والغموض في سرد قصة ممتعة وملفتة للنظر.",
+    "intro": "يحكي مسلسل ذا كـابتشر قصة جندي بريطاني يُبرَّأ من جريمة حرب بسبب خلل في أدلة الفيديو، ولكن يُتهم بعدها بجريمة جديدة بسبب تسجيلات كاميرات المراقبة.",
+    "desc_ar": "يحكي مسلسل ذا كـابتشر قصة جندي بريطاني يُبرَّأ من جريمة حرب بسبب خلل في أدلة الفيديو، ولكن يُتهم بعدها بجريمة جديدة بسبب تسجيلات كاميرات المراقبة. تكتشف المحققة رايتشل كاري مؤامرة ضخمة تعتمد على التزييف العميق والتلاعب ببث الفيديو المباشر، مما يجعل من الضروري للجندي أن يحارك من أجل حريته من جديد.",
+    "desc_en": "The Capture follows the story of a British soldier who is acquitted of a war crime due to flawed video evidence, only to be accused of a new crime based on CCTV footage. As the investigation unfolds, detective Rachael Carey discovers a massive conspiracy involving deepfake technology and live video manipulation, forcing the soldier to fight for his freedom once again.",
+    "seo_title_ar": "مشاهدة مسلسل ذا كـابتشر مترجم - توميتو",
+    "meta_desc": "ذا كـابتشر: مسلسل جريمة ودراما غامض يحكي قصة جندي بريطاني يتهم بجرائم حرب. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "يُظهر مسلسل ذا كـابتشر مهارات التمثيل والممثلين بشكل جيد، ويحكي قصة جندي بريطاني يُتهم بجرائم حرب.",
+    "opinion_ar": "ذا كـابتشر هو مسلسل جريمة ودراما غامض يُحكي قصة جندي بريطاني يُتهم بجرائم حرب. يُظهر المسلسل مهارات التمثيل والممثلين بشكل جيد.",
+    "opinion_en": "The Capture is a gripping crime and drama series that tells the story of a British soldier accused of war crimes. The series showcases the actors' talents and performances well.",
     "faq": [
       {
-        "q": "ما هو قصة (الاعتقال)?",
-        "a": "هي قصة جريمة قتل، التي تثير الكثير من التساؤلات والشكوك."
-      },
-      {
-        "q": "ما هي أنواع الجرائم في (الاعتقال)?",
-        "a": "هناك أنواع مختلفة من الجرائم، مثل الجريمة والدراما والغموض."
-      },
-      {
-        "q": "ما هو هدف المحققين في (الاعتقال)?",
-        "a": "هدف المحققين هو اكتشاف الحقيقة والتحقيق في جريمة قتل، التي تثير الكثير من التساؤلات والشكوك."
+        "q": "ما هو موضوع مسلسل ذا كـابتشر؟",
+        "a": "يحكي مسلسل ذا كـابتشر قصة جندي بريطاني يُبرَّأ من جريمة حرب بسبب خلل في أدلة الفيديو، ولكن يُتهم بعدها بجريمة جديدة بسبب تسجيلات كاميرات المراقبة.",
+        "q_en": "What is the subject of The Capture series?",
+        "a_en": "The Capture series tells the story of a British soldier who is acquitted of a war crime due to flawed video evidence, only to be accused of a new crime based on CCTV footage."
       }
-    ]
+    ],
+    "keywords": "ذا كـابتشر, مسلسل جريمة, دراما, غموض, جندي بريطاني, جريمة حرب, تسجيلات كاميرات المراقبة, التزييف العميق, التلاعب ببث الفيديو المباشر, مشاهدة ذا كـابتشر, The Capture مترجم, تحميل ذا كـابتشر, ذا كـابتشر اون لاين, The Capture, ذا كـابتشر جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2019-09-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Holliday Grainger Ron Perlman Ben Miles Paapa Essiedu Indira Varma Tessa Wong Daisy Waterstone Killian Scott",
+  "first_air_date": "2019-09-03"
 }
