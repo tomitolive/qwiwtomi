@@ -4,12 +4,12 @@
   "title_ar": "Los creyentes",
   "title_en": "The Truthers",
   "slug": "1659155-the-truthers",
-  "overview": "فيلم \"Los \" أو \"The Truthers\" هو فيلم إثارة وغموض مثير. بعد وفاة والدتها المفاجئة، تعود روث إلى مسقط رأسها وتلتقي بوالدها، لكن سلوكه الغريب يثير تساؤلاتها حول ما حدث بالفعل. هل هناك سر مخفي؟",
+  "overview": "يحكي فيلم \"Los \" قصة عودة روث إلى hometownها بعد وفاة والدتها المفاجئة، حيث تقابل والدها الذي يظهر سلوكًا غريبًا، مما يجعلها تسأل نفسها عن الحقيقة الحقيقية. يبدو أن روث تعود إلى الأماكن التي ظلَت منذ زمن طويل، حيث وجدت نفسها في مواجهة مع والدتها التي تُحيي ذكرياتها، وسرعان ما وجدت نفسها في مواجهة مع والدها الذي يبدو أن لديه سرًا. يبدأ روث في التغلب على الحزن الذي يلتهب في قلبها، حيث تكتشف سرًا يُغير من حياتها ويدفعها إلى التعرف على الحقيقة الحقيقية.",
   "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
   "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
   "release_date": "2026-07-24",
-  "vote_average": 5.5,
-  "vote_count": 2,
+  "vote_average": 5.8,
+  "vote_count": 86,
   "genres": [
     {
       "id": 53,
@@ -25,29 +25,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Los creyentes (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "فيلم \"Los \" أو \"The Truthers\" هو فيلم إثارة وغموض مثير. بعد وفاة والدتها المفاجئة، تعود روث إلى مسقط رأسها وتلتقي بوالدها، لكن سلوكه الغريب يثير تساؤلاتها حول ما حدث بالفعل. هل هناك سر مخفي؟",
-    "desc_en": "In \"The Truthers\", Ruth's return to her hometown after her mother's death leads to a mysterious journey. Her father's strange behavior raises questions, leaving her to uncover the truth.",
-    "seo_title_ar": "مشاهدة فيلم Los The Truthers مترجم - توميتو",
-    "meta_desc": "Los : فيلم إثارة وغموض يسلط الضوء على رحلة روث بعد وفاة والدتها. هل هناك سر وراء سلوك والدها الغريب؟",
-    "outro": "شاهد Los creyentes الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"Los \" يقدم قصة غامضة ومثيرة، حيث يسلط الضوء على رحلة روث في البحث عن الحقيقة بعد وفاة والدتها.",
-    "opinion_en": "The Truthers is a captivating thriller that keeps you engaged. Ruth's journey is filled with suspense as she uncovers the truth behind her father's behavior.",
+    "intro": "يحكي فيلم \"Los creyentes\" قصة روث التي تعود إلى hometownها بعد وفاة والدتها المفاجئة.",
+    "desc_ar": "يحكي فيلم \"Los \" قصة عودة روث إلى hometownها بعد وفاة والدتها المفاجئة، حيث تقابل والدها الذي يظهر سلوكًا غريبًا، مما يجعلها تسأل نفسها عن الحقيقة الحقيقية. يبدو أن روث تعود إلى الأماكن التي ظلَت منذ زمن طويل، حيث وجدت نفسها في مواجهة مع والدتها التي تُحيي ذكرياتها، وسرعان ما وجدت نفسها في مواجهة مع والدها الذي يبدو أن لديه سرًا. يبدأ روث في التغلب على الحزن الذي يلتهب في قلبها، حيث تكتشف سرًا يُغير من حياتها ويدفعها إلى التعرف على الحقيقة الحقيقية.",
+    "desc_en": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened. It seems that Ruth is back in the places she has been away from for a long time, where she finds herself facing her mother's memories, and soon finds herself facing her father, who seems to have a secret. Ruth begins to overcome the grief that burns in her heart, where she discovers a secret that changes her life and drives her to uncover the truth.",
+    "seo_title_ar": "مشاهدة فيلم Los مترجم - The Truthers",
+    "meta_desc": "شاهد فيلم Los مترجم جودة عالية، حزين وغامض، يتعامل مع موت الأم المفاجئ وسر والدها. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بد استمتع ب",
+    "outro": "يعد فيلم \"Los creyentes\" تجربة هامة لروث، حيث تتعامل مع الحزن والغموض، وتبدأ في اكتشاف الحقيقة الحقيقية.",
+    "opinion_ar": "يعد فيلم \"Los \" تجربة هامة لروث، حيث تتعامل مع الحزن والغموض، وتبدأ في اكتشاف الحقيقة الحقيقية.",
+    "opinion_en": "The Truthers is an important experience for Ruth, where she deals with grief and mystery, and begins to uncover the truth.",
     "faq": [
       {
-        "q": "هل فيلم Los  مبني على قصة حقيقية؟",
-        "a": "لا، الفيلم من وحي الخيال ولا يستند إلى أحداث حقيقية.",
-        "q_en": "Is The Truthers based on a true story?",
-        "a_en": "No, the film is a work of fiction and not based on real events."
+        "q": "ما هو فيلم \"Los \"؟",
+        "a": "يحكي الفيلم قصة روث التي تعود إلى hometownها بعد وفاة والدتها المفاجئة.",
+        "q_en": "What is The Truthers?",
+        "a_en": "The film tells the story of Ruth who returns to her hometown after her mother's sudden death."
+      },
+      {
+        "q": "لماذا تعود روث إلى hometownها؟",
+        "a": "لزيارة والدها الذي يبدو أن لديه سرًا.",
+        "q_en": "Why does Ruth return to her hometown?",
+        "a_en": "To visit her father who seems to have a secret."
       }
     ],
-    "keywords": "Los, The Truthers, فيلم, إثارة, دراما, غموض, روث, رحلة, سر, وفاة, سلوك غريب"
+    "keywords": "فيلم, إثارة, دراما, غموض, روث, وفاة الأم المفاجئة, سر والدها, مشاهدة Los, The Truthers مترجم, تحميل Los, Los اون لاين, The Truthers, Los جودة عالية, فيلم Los, مشاهدة Los creyentes"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "106 دقيقة",
   "language": "الإسبانية",
   "country": "إسبانيا",
-  "cast": "Jose Coronado Stéphanie Magnin Fanny Gautier Alberto Olmo Israel Ruiz Olaya Lopez"
+  "cast": "Jose Coronado Stéphanie Magnin Fanny Gautier Alberto Olmo Israel Ruiz Mabel del Pozo Celine Fortenbacher Olaya Lopez"
 }

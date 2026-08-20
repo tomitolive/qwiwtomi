@@ -4,12 +4,12 @@
   "title_ar": "خلطبيطة بالصلصة",
   "title_en": "Ratatouille",
   "slug": "2062-ratatouille",
-  "overview": "ريمي ، المقيم في باريس ، يقدر الطعام الجيد ولديه حنك متطور. ويرغب بأن  يحب أن يصبح طاهياً ليتمكن من ابتكار روائع الطهي والاستمتاع بها. المشكلة الوحيدة هي أن ريمي فأر. عندما ينتهي به المطاف في المجاري أسفل أحد أرقى المطاعم في باريس ، يجد ذوّاقة القوارض نفسه في وضع مثالي لتحقيق حلمه.",
+  "overview": "\"ريمي\"، فأر يمتلك حاسة تذوق أكثر رُقيًا بكثير من بقية أبناء فصيلته. يحلم بأن يصبح طاهيًا، طاهيًا يبتكر الأطباق بدلًا من البحث عن بقايا الطعام. وعندما تقوده الأقدار إلى ما تحت أحد أرقى مطاعم باريس، يُقيم تحالفًا غير مألوف مع أحد العاملين الشباب في المطبخ، ساعيًا إلى تحقيق طموحاته في فن الطهي.  ومع انكشاف حياته المزدوجة، يجد \"ريمي\" نفسه مضطرًا للتعامل مع شكوك رئيس الطهاة المتحذلق \"سكينر\"، ورفض مستعمرته الخاصة له، والحضور المثير للرهبة لناقد الطعام الشهير \"أنتون إيغو\"، الذي يمكن لحكمه أن يصنع مستقبل الطاهي أو يحطمه.",
   "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-  "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+  "backdrop_path": "/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg",
   "release_date": "2007-06-28",
   "vote_average": 7.8,
-  "vote_count": 18456,
+  "vote_count": 18802,
   "genres": [
     {
       "id": 16,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "ريمي ، المقيم في باريس ، يقدر الطعام الجيد ولديه حنك متطور. ويرغب بأن يحب أن يصبح طاهياً ليتمكن من ابتكار روائع الطهي والاستمتاع بها. المشكلة الوحيدة هي أن ريمي فأر. عندما ينتهي به المطاف في المجاري أسفل أحد أرقى المطاعم في باريس ، يجد ذوّاقة القوارض نفسه في وضع مثالي لتحقيق حلمه.",
-    "desc_en": "Remy, a resident of Paris, has a refined palate and a developed sense of smell. He dreams of becoming a chef to create culinary masterpieces and enjoy them. The only problem is that Remy is a rat. When he finally reaches the sewers beneath one of the finest restaurants in Paris, he finds himself in the perfect position to achieve his dream.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رسوم متحركة كوميديا عائلي فانتازيا",
-    "seo_title_ar": "مشاهدة فيلم خلطبيطة بالصلصة مترجم اون لاين - توميتو",
-    "keywords": "Ratatouille, فيلم رسوم متحركة مترجم, مشاهدة فيلم رسوم متحركة كوميديا عائلي, مشاهدة خلطبيطة بالصلصة 2007, توميتو خلطبيطة بالصلصة, خلطبيطة بالصلصة مترجم, أحداث خلطبيطة بالصلصة بالتفصيل, قصة فيلم خلطبيطة بالصلصة",
-    "opinion": "هو فيلم رائع يجمع بين الكوميديا والفانتازيا والرسوم المتحركة لينتج فيلماً رائعاً",
+    "intro": "استمتع بمشاهدة فيلم خلطبيطة بالصلصة (2007) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "\"ريمي\"، فأر يمتلك حاسة تذوق أكثر رُقيًا بكثير من بقية أبناء فصيلته. يحلم بأن يصبح طاهيًا، طاهيًا يبتكر الأطباق بدلًا من البحث عن بقايا الطعام. وعندما تقوده الأقدار إلى ما تحت أحد أرقى مطاعم باريس، يُقيم تحالفًا غير مألوف مع أحد العاملين الشباب في المطبخ، ساعيًا إلى تحقيق طموحاته في فن الطهي.  ومع انكشاف حياته المزدوجة، يجد \"ريمي\" نفسه مضطرًا للتعامل مع شكوك رئيس الطهاة المتحذلق \"سكينر\"، ورفض مستعمرته الخاصة له، والحضور المثير للرهبة لناقد الطعام الشهير \"أنتون إيغو\"، الذي يمكن لحكمه أن يصنع مستقبل الطاهي أو يحطمه.",
+    "desc_en": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He aspires to become a chef, one who creates rather than scavenges. When fate leads him beneath one of Paris's finest restaurants, he forms an unusual alliance with a young kitchen worker to pursue his culinary ambitions. As his double life unfolds, Remy must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, whose judgment can make or break a chef's legacy.",
+    "seo_title_ar": "مشاهدة فيلم Ratatouille مترجم - توميتو",
+    "meta_desc": "مشاهدة خلطبيطة بالصلصة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد خلطبيطة بالصلصة الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم خلطبيطة بالصلصة؟",
-        "a": "هو فيلم رسوم متحركة كوميديا عائلي فانتازيا يروي قصة ريمي الراتو الذي يريد أن يصبح طاهياً"
+        "q": "كيف يمكنني مشاهدة فيلم خلطبيطة بالصلصة?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Ratatouille?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم خلطبيطة بالصلصة؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هو تصنيف فيلم خلطبيطة بالصلصة?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, عائلي, فانتازيا.",
+        "q_en": "What is the genre of Ratatouille?",
+        "a_en": "It falls under the genre of رسوم متحركة, كوميديا, عائلي, فانتازيا."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه فيلم خلطبيطة بالصلصة؟",
-        "a": "يحدث في باريس"
+        "q": "ما هي قصة فيلم خلطبيطة بالصلصة?",
+        "a": "\"ريمي\"، فأر يمتلك حاسة تذوق أكثر رُقيًا بكثير من بقية أبناء فصيلته. يحلم بأن يصبح طاهيًا، طاهيًا يبتكر الأطباق بدلًا من البحث عن بقايا الطعام. وعندما تقوده الأقدار إلى ما تحت أحد أرقى مطاعم باريس، يُق...",
+        "q_en": "What is the story of Ratatouille?",
+        "a_en": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He aspires to become a chef, one who creates rather than scavenges. When fate leads him beneath one of Paris's finest..."
       }
-    ]
+    ],
+    "keywords": "خلطبيطة بالصلصة مترجم, Ratatouille مترجم, مشاهدة خلطبيطة بالصلصة,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "111 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Patton Oswalt Ian Holm Lou Romano Brian Dennehy Peter Sohn"
+  "cast": "Patton Oswalt Ian Holm Lou Romano Brian Dennehy Peter Sohn Peter O'Toole Brad Garrett Janeane Garofalo"
 }

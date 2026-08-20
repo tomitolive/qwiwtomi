@@ -6617,8 +6617,86 @@
       "file": "37135.json",
       "title": "طرزان",
       "fixed_at": "2026-08-20T11:56:03.130985"
+    },
+    {
+      "tmdb_id": "58981",
+      "file": "58981.json",
+      "title": "The Thundermans",
+      "fixed_at": "2026-08-20T12:24:13.369371"
+    },
+    {
+      "tmdb_id": "510",
+      "file": "510.json",
+      "title": "أحدهم طار فوق عش الوقواق",
+      "fixed_at": "2026-08-20T12:24:50.366794"
+    },
+    {
+      "tmdb_id": "17737",
+      "file": "17737.json",
+      "title": "Jornal Hoje",
+      "fixed_at": "2026-08-20T12:25:01.803049"
+    },
+    {
+      "tmdb_id": "279471",
+      "file": "279471.json",
+      "title": "مالكوم في الوسط: حياة ليست عادلة",
+      "fixed_at": "2026-08-20T12:25:11.737035"
+    },
+    {
+      "tmdb_id": "10020",
+      "file": "10020.json",
+      "title": "الجميلة والوحش",
+      "fixed_at": "2026-08-20T12:25:22.399868"
+    },
+    {
+      "tmdb_id": "2174",
+      "file": "2174.json",
+      "title": "Just the Ten of Us",
+      "fixed_at": "2026-08-20T12:25:33.918053"
+    },
+    {
+      "tmdb_id": "75787",
+      "file": "75787.json",
+      "title": "Fox Spirit Matchmaker",
+      "fixed_at": "2026-08-20T12:25:53.891244"
+    },
+    {
+      "tmdb_id": "1659155",
+      "file": "1659155.json",
+      "title": "Los creyentes",
+      "fixed_at": "2026-08-20T12:26:03.180093"
+    },
+    {
+      "tmdb_id": "90937",
+      "file": "90937.json",
+      "title": "براءة ذئب",
+      "fixed_at": "2026-08-20T12:26:14.511815"
+    },
+    {
+      "tmdb_id": "517093",
+      "file": "517093.json",
+      "title": "Balkan Line",
+      "fixed_at": "2026-08-20T12:26:28.163184"
+    },
+    {
+      "tmdb_id": "2062",
+      "file": "2062.json",
+      "title": "خلطبيطة بالصلصة",
+      "fixed_at": "2026-08-20T12:26:37.514985"
+    },
+    {
+      "tmdb_id": "67178",
+      "file": "67178.json",
+      "title": "مارفيل: المعاقب",
+      "fixed_at": "2026-08-20T12:26:56.802800"
+    },
+    {
+      "tmdb_id": "318203",
+      "file": "318203.json",
+      "title": "Alice and Steve",
+      "fixed_at": "2026-08-20T12:27:10.786724"
     }
   ],
-  "last_updated": "2026-08-20T11:56:05.133730",
-  "total_fixed": 1103
+  "last_updated": "2026-08-20T12:27:12.789420",
+  "total_fixed": 1116
 }

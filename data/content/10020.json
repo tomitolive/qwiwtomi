@@ -4,12 +4,12 @@
   "title_ar": "الجميلة والوحش",
   "title_en": "Beauty and the Beast",
   "slug": "10020-beauty-and-the-beast",
-  "overview": "تدور أحداث الفيلم في فرنسا في القرن الثامن عشر، عندما يتحول أحد الأمراء إلى وحش دميم على يد ساحرة رفض أن يضيفها في قلعته، ولم تكتفى بتحويله وإنما حولت كل عاملي القصر من الخدم إلى أدوات منزلية على أن يعودوا لحالتهم الطبيعية إذا ما تعلم الأمير كيف يحِب، وعلى الجانب الآخر فتاة تدعى بل، كانت تعاني من الوحدة وعدم تفهم أهل القرية البسيطة لأحلامها وطموحاتها، ويلتقى الوحش ببل عندما تذهب للقصر لتحرير والدها موريس المحتجز من قِبل الوحش، وهنا تقوم بتحرير والدها مقابل أن تُحتجز مكانه، ويوماً فيوم تكتشف بل أن الوحش يملك قلباً طيباً رغم ملامحه البشعة، فبعد أن أنقذها من الذئاب عند محاولتها الهرب تغيرت طباعه بشأنها، وأصبح أكثر مودة من ذى قبل إلى أن حررها وتركها تعود لأبيها، وينتهى الفيلم عندما تقوم بل بالعودة إلى القصر في محاولة لمنع أهل القرية بقيادة المتعجرف جاستون قتل الوحش، وبالفعل تمنعه بعد أن يوقن الوحش بأن بل قد عادت من أجله، وهكذا يعود الوحش إلى صورته الطبيعية بعد أن عرف الحب الذي لم يكن يعرفه من قبل",
+  "overview": "تدور القصة حول مغامرات \"بيل\"، وهي شابة ذكية تجد نفسها في قلعة أمير لُعن وتحول إلى وحش غامض. وبمساعدة خدم القلعة المسحورين، تكتشف \"بيل\" أهم درس في الحياة: أن الجمال الحقيقي ينبع من الداخل.",
   "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
   "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
   "release_date": "1991-10-22",
   "vote_average": 7.7,
-  "vote_count": 10662,
+  "vote_count": 10829,
   "genres": [
     {
       "id": 10749,
@@ -29,26 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرماية والFantasy، تتعرف الجميلة بل على الوحش الدميم، الذي تحول من الأمير إلى وحش دميم على يد ساحرة، ويقوم بل بتحرير والدها من قِبل الوحش مقابل أن تُحتجز مكانه، ويوماً فيوم تكتشف بل أن الوحش يملك قلباً طيباً رغم ملامحه البشعة، ويقوم بل بالعودة إلى القصر في محاولة لمنع أهل القرية من قتل الوحش، ويحصل على النجاح في النهاية.",
-    "desc_en": "In a world of romance and fantasy, Beauty meets the Beast, a prince turned into a beast by a sorceress, and she must rescue her father from the beast's clutches in exchange for taking his place, and as she gets to know the beast, she discovers that it has a kind heart despite its monstrous appearance, and she returns to the castle to prevent the villagers from killing the beast, and she succeeds in the end.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الجميلة والوحش - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الجميلة والوحش مترجم اون لاين - توميتو",
-    "keywords": "Beauty and the Beast, فيلم الجميلة والوحش مترجم, مشاهدة فيلم الجميلة والوحش, قصة فيلم الجميلة والوحش, أحداث الجميلة والوحش بالتفصيل, مشاهدة الجميلة والوحش 1991, الجميلة والوحش مترجم, توميتو الجميلة والوحش",
-    "opinion": "فيلم الجميلة والوحش هو فيلم رومانسي فانتازي يجمع بين الرماية والFantasy في عالم من الإثارة والromance، ويحصل على النجاح في النهاية.",
+    "intro": "في عالم مليء بجمال ورومانسية، تجد شابة ذكية نفسها في قلعة أمير لُعن. وتتعرف على أهمية الصداقة والتفهم بين الناس في قصة رومانسية حقيقية.",
+    "desc_ar": "يحكي فيلم الجميلة والوحش قصة شابة ذكية تدعى بيل، التي تتعرض لعدة مغامرات بعد أن تجد نفسها في قلعة أمير غامض. مع مساعدة العاملين في القلعة الذين تم التخليص عنهم، تكتشف بيل درسًا مهمًا في الحياة: أن الجمال الحقيقي ينبع من الداخل. وتعيش بيل مع أمير القلعة، الذي تم تحوله إلى وحش غامض، وتتعرف على أهمية الصداقة والتفهم بين الناس.",
+    "desc_en": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within. As she lives with the Beast, Belle discovers the value of friendship and understanding between people.",
+    "seo_title_ar": "مشاهدة فيلم الجميلة والوحش مترجم - Beauty Beast - فيلم رومنسية عائلي رسوم متحركة فانتازيا",
+    "meta_desc": "استمتع بمشاهدة فيلم الجميلة والوحش بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. فيلم رومانسي عائلي رسوم متحركة فانتازيا من إخراج كينت غاكي، تدور أحداثه",
+    "outro": "فيلم الجميلة والوحش هو قصة رومانسية حقيقية، تدور حول مغامرات شابة ذكية في قلعة أمير لُعن. الفيلم يحتوي على دروس مهمة في الحياة، مثل أن الجمال الحقيقي ينبع من الداخل.",
+    "opinion_ar": "فيلم الجميلة والوحش هو قصة رومانسية حقيقية، تدور حول مغامرات شابة ذكية في قلعة أمير لُعن. الفيلم يحتوي على دروس مهمة في الحياة، مثل أن الجمال الحقيقي ينبع من الداخل.",
+    "opinion_en": "Beauty and the Beast is a beautiful romantic story, following the adventures of a bright young woman in the castle of a prince who's been turned into a mysterious beast. The film teaches us valuable lessons, such as that true beauty comes from within.",
     "faq": [
       {
-        "q": "ما هو فيلم الجميلة والوحش؟",
-        "a": "فيلم رومانسي فانتازي يجمع بين الرماية والFantasy في عالم من الإثارة والromance"
+        "q": "ما هو اسم الفيلم؟",
+        "a": "اسم الفيلم هو الجميلة والوحش.",
+        "q_en": "What is the title of the film?",
+        "a_en": "The title of the film is Beauty and the Beast."
       },
       {
-        "q": "ما هو نوع فيلم الجميلة والوحش؟",
-        "a": "فيلم رومنسية، عائلي، رسوم متحركة، فانتازيا"
+        "q": "من هو المخرج؟",
+        "a": "المخرج هو كينت غاكي.",
+        "q_en": "Who is the director?",
+        "a_en": "The director is Gary Trousdale and Kirk Wise."
       },
       {
-        "q": "ما هو المخرج من فيلم الجميلة والوحش؟",
-        "a": "لم يذكر المخرج في هذا الفيلم"
+        "q": "متى صدر الفيلم؟",
+        "a": "صدر الفيلم في عام 1991.",
+        "q_en": "When was the film released?",
+        "a_en": "The film was released in 1991."
       }
-    ]
+    ],
+    "keywords": "فيلم الجميلة والوحش, Beauty Beast, كينت غاكي, Gary Trousdale, Kirk Wise, 1991, فيلم رومانسي عائلي رسوم متحركة فانتازيا, مشاهدة الجميلة والوحش, Beauty Beast مترجم, تحميل الجميلة والوحش, الجميلة والوحش اون لاين, الجميلة والوحش جودة عالية, Beauty Beast HD, الجميلة والوحش HD, Beauty and the Beast مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +65,5 @@
   "duration": "84 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Paige O'Hara Robby Benson Richard White Jerry Orbach David Ogden Stiers"
+  "cast": "Paige O'Hara Robby Benson Richard White Jerry Orbach David Ogden Stiers Angela Lansbury Rex Everhart Jesse Corti"
 }

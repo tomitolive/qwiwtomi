@@ -4,14 +4,12 @@
   "title_ar": "The Thundermans",
   "title_en": "The Thundermans",
   "slug": "58981-the-thundermans",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تعرّفوا على عائلة ثاندرمان، وهي عائلة نموذجية تعيش في الضواحي، لكنها تمتلك قوى خارقة مذهلة. تدور أحداث القصة حول توأم ثاندرمان البالغين من العمر 14 عامًا، واللذين يتشاركان نفس الحمام، ونفس المدرسة، ونفس الأشقاء الصغار المزعجين. ما هو الفرق الوحيد بينهما؟ الأخت طالبة متفوقة ذات شخصية مرحة للغاية، وتتطلع بشدة لأن تصبح بطلة خارقة في يوم من الأيام، أما شقيقها التوأم فهو شرير خارق.",
   "poster_path": "/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
   "backdrop_path": "/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
   "release_date": "2013-10-14",
-  "vote_average": 8,
-  "vote_count": 599,
+  "vote_average": 8.0,
+  "vote_count": 607,
   "genres": [
     {
       "id": 10759,
@@ -31,35 +29,36 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن أن تكون الأسرة المثالية مختبئة وراء قوة خارقة?",
-    "desc_ar": "في عالم مليء بالمعجزة والفضائيات، عائلة ثندرمانز هي واحدة من أشهر عائلات في المدينة، ولكنها سرية عن حياتها الحقيقية كأبطال خارقين. في هذه المرة، يتعرضون لخطر كبير عندما يكتشفون أن هناك من يريد أن يستخدم قوتهم لصالحه، في حين يتعرضون لخطر كبير من فقدان هويتهم. سوف نرى كيف يتعاملون مع هذه الأزمة والخطر الذي يتهمهم؟",
-    "seo_title_ar": "مشاهدة مسلسل The Thundermans مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل The Thundermans - توميتو",
-    "outro": "إذا كنت تشتهي شيئاً من مشarged مع الإثارة، فلا تفوت على себе Thundermans",
-    "opinion": "هو مسلسل ممتاز يجمع بين الحركة والكوميديا والخيال العلمي، ويقدم لنا قصة رائعة عن عائلة مكونة من أبطال خارقين، ويحاول أن يلقي الضوء على أهمية الأسر والتعاون والصداقة.",
+    "intro": "يُعتبر مسلسل الرعد من أكثر المسلسلات رواجًا في الوقت الحالي، حيث يُعتبر من أفضل المسلسلات الخارقة.",
+    "desc_ar": "تعرفوا على عائلة الرعد، وهي عائلة عادية تعيش في الضواحي، لكنها تتمتع بقوى خارقة مذهلة. تتميز عائلة الرعد بتألقها في المجتمع، لكنها سرًّا تحمل سرًّا خارقًا. يتعرفنا على توأم الرعد، الأخت والاخ، اللذين يتعايشان في نفس المنزل، ويعيشان حياة معقدة بين حياتهم العادية والخارقة. تُستقطب الأخت، التي تُعتبر متفوقة، بقوى خارقة، بينما يُستقطب شقيقها التوأم بقوى شريرة.",
+    "desc_en": "Meet The Thundermans, a typical suburban family that happens to have astounding superpowers. At the center of the action are the 14-year-old Thunderman twins, who share the same bathroom, the same school, and the same annoying little siblings. Their only difference? The sister is a super student with a super sunny disposition who super looks forward to being a superhero someday, and her twin brother is a super villain.",
+    "seo_title_ar": "مشاهدة مسلسل الرعد مترجم - توميتو",
+    "meta_desc": "عائلة الرعد تعيش حياة عادية في الضواحي، لكنها تتمتع بقوى خارقة مذهلة. تعيش الأخت والاخ في نفس المنزل، مع قوى خارقة مختلفة. تتعانى عائلة الرعد بين حياتها ال",
+    "outro": "يُوصى بمراجعة مسلسل الرعد، حيث يُعتبر من أكثر المسلسلات رواجًا وجمالًا في الوقت الحالي.",
+    "opinion_ar": "يُعتبر مسلسل الرعد من أفضل المسلسلات الخارقة، حيث يُظهر تألق عائلة الرعد بين حياتها العادية والخارقة.",
+    "opinion_en": "The Thundermans is one of the best superhero shows, showcasing the Thunderman family's incredible abilities and their complex lives.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل The Thundermans؟",
-        "a": "هو مسلسل تلفزيوني من نوع حركة ومغامرة وكوميديا"
+        "q": "ما هو الفرق بين الأخت والاخ في عائلة الرعد؟",
+        "a": "يُعتبر الفرق الوحيد بين الأخت والاخ هو قوى الخارقة التي تتمتع بهما، حيث تُعتبر الأخت متفوقة وذات شخصية مرحة، بينما يُعتبر شقيقها التوأم شريرًا خارقًا.",
+        "q_en": "What is the difference between the Thunderman sister and brother?",
+        "a_en": "The only difference between the Thunderman sister and brother is their superpowers, where the sister is a super student with a super sunny disposition and her twin brother is a super villain."
       },
       {
-        "q": "ما هو نوع الأبطال في مسلسل The Thundermans؟",
-        "a": "هو أبطال خارقين"
-      },
-      {
-        "q": "ما هو نوع الأحداث في مسلسل The Thundermans؟",
-        "a": "هو أحداث ممتازة مليئة بالحركة والكوميديا"
+        "q": "كيف يعيش الأخت والاخ في نفس المنزل؟",
+        "a": "يعيش الأخت والاخ في نفس المنزل، مع قوى خارقة مختلفة، مما يجعل حياتهم معقدة بين حياتهم العادية والخارقة.",
+        "q_en": "How do the Thunderman sister and brother live together?",
+        "a_en": "The Thunderman sister and brother live together in the same house, with different superpowers, making their lives complex between their normal and superhero lives."
       }
     ],
-    "keywords": "فيلم حركة مترجم, مشاهدة مسلسل كوميديا, مشاهدة The Thundermans 2013, قصة مسلسل The Thundermans, توميتو The Thundermans, أحداث The Thundermans بالتفصيل, The Thundermans مترجم كامل",
-    "desc_en": "In a world full of magic and space, the Thunderman family is one of the most famous families in the city, but they keep their real life as superheroes a secret. This time, they face a big threat when they discover that someone wants to use their powers for their own gain, while they are at risk of losing their identity. We will see how they deal with this crisis and the danger that threatens them?"
+    "keywords": "الرعد, مسلسل الرعد, عائلة الرعد, قوى خارقة, خارق, شرير خارق, بطل خارق, كوميديا, حركة, مغامرة, عائلي, خيال علمي وفانتازيا, سورة الرعد, دعاء الرعد, صوت الرعد, الرعد والبرق, يسبح الرعد, سوره الرعد, سبح الرعد, يسبح الرعد بحمده, سبحان الذي يسبح الرعد"
   },
   "fixed": true,
-  "first_air_date": "2013-10-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "120 دقيقة",
+  "duration": "23 دقيقة",
   "language": "الإنجليزية",
-  "country": "كندا",
-  "cast": "Michael Ironside Stephen Ouimette Alberta Watson Victoria Snow George Buza"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Kira Kosarin Jack Griffo Addison Riecke Diego Velazquez Chris Tallman Rosa Blasi Maya Le Clark Edward Chiodo",
+  "first_air_date": "2013-10-14"
 }
