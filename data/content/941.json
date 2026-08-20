@@ -4,14 +4,12 @@
   "title_ar": "Lethal Weapon",
   "title_en": "Lethal Weapon",
   "slug": "941-lethal-weapon",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "الفيلم الأول في السلسلة الشهيرة (السلاح المميت)، حول الشرطيين (روجر) الشرطي الأسمر الذي يقترب من الخمسين، ويشعر بالاكتئاب بسبب أزمة منتصف العمر، و(مارتن) الذي يعاني من ميول انتحارية، لوفاة زوجته في حادث مروري، ويسبب عديدا من المشاكل في إدارة المخدرات؛ مما دفع زملاؤه لنقله إلى إدارة القتل مع (روجر)، يذهبان للتحقيق في قضية انتحار (أماندا) ابنة صديق (روجر)، يبدو تنافر الشرطيين واضحاً، لكن مع مرور الوقت تتوطد علاقتهما.",
   "poster_path": "/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
-  "backdrop_path": "/xQpCA4QIEKcfsLf7CSeSM0tHCY7.jpg",
+  "backdrop_path": "/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
   "release_date": "1987-03-06",
   "vote_average": 7.3,
-  "vote_count": 5031,
+  "vote_count": 5156,
   "genres": [
     {
       "id": 28,
@@ -27,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الشرطة، يوجد شرطيان منفصلان: روجر، الشرطي الأسمر المخضرم، والذي يتعثر في أزمة منتصف العمر، ويقترب من الخمسين، ويشعر بالاكتئاب؛ و مارتن، الذي يعاني من ميول انتحارية، لوفاة زوجته في حادث مروري، ويسبب عديدا من المشاكل في إدارة المخدرات، ويقود زملاؤه لنقله إلى إدارة القتل مع روجر، فيما يذهبان للتحقيق في قضية انتحار ابنة صديق روجر، أماندا، يبدو تنافر الشرطيين واضحاً، لكن مع مرور الوقت تتوطد علاقتهما.",
-    "desc_en": "In the world of police, there are two detectives: Roger, the seasoned, gray-haired detective, who is struggling with midlife crisis, and Martin, who is haunted by his wife's death in a car accident, and is causing a lot of problems in managing the drug department, leading his colleagues to transfer him to the homicide department with Roger, as they investigate the case of Amanda, the daughter of Roger's friend, who appears to be a mismatched pair, but as time passes, their relationship develops.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في السلاح المميت",
-    "seo_title_ar": "مشاهدة فيلم السلاح المميت مترجم اون لاين - توميتو",
-    "keywords": "فيلم السلاح المميت مترجم, مشاهدة فيلم السلاح المميت, Lethal Weapon مترجم, مشاهدة Lethal Weapon 1987, قصة فيلم Lethal Weapon, أحداث Lethal Weapon بالتفصيل, توميتو Lethal Weapon",
-    "opinion": "الفيلم الأول في السلسلة الشهيرة، السلاح المميت، هو فيلم حركة إثارة جريمة، يحتوي على الكثير من الأحداث الإثارة والكوميديا، ويحوي على شخصيات قوية والقصة الممتعة، مما يجعله فيلماً رائعاً",
+    "intro": "في عالم مليء بالجريمة والعنف، يتعين على الشرطيين العمل معاً لتحقيق الهدف المشترك.",
+    "desc_ar": "يحكي فيلم سلاح فتاك قصة الشرطي الأسمر (روجر) الذي يعاني من أزمة في منتصف العمر، ويشعر بالاكتئاب بسبب وفاة زوجته في حادث مروري. يتعين عليه العمل مع الشرطي الجديد (مارتن) الذي يعاني من ميول انتحارية، ويسبب مشاكل في إدارة المخدرات. يذهبون للتحقيق في قضية انتحار ابنة صديق (روجر)، ويبدأ تنافرهم في التلاشي مع مرور الوقت.",
+    "desc_en": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+    "seo_title_ar": "مشاهدة فيلم سلاح فتاك 1987 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم سلاح فتاك 1987 مترجم - فيلم حركة إثارة جريمة من إخراج ويل هارتن، يتابع الفيلم قصة الشرطي الأسمر روجر، وشرطي الجديد مارتن، الذين يتعين عليهم التعا",
+    "outro": "فيلم سلاح فتاك هو تحفة فنية رائعة تجمع بين الحركة والإثارة والجريمة، يُظهر كيف يمكن للشرطيين التعاون لتحقيق الهدف المشترك.",
+    "opinion_ar": "فيلم سلاح فتاك هو تحفة فنية رائعة تجمع بين الحركة والإثارة والجريمة، يُظهر كيف يمكن للشرطيين التعاون لتحقيق الهدف المشترك.",
+    "opinion_en": "Lethal Weapon is a masterpiece that combines action, suspense, and crime, showing how cops can work together to achieve a common goal.",
     "faq": [
       {
-        "q": "ما هو السلاح المميت؟",
-        "a": "السلاح المميت هو فيلم حركة إثارة جريمة، وهو الفيلم الأول في السلسلة الشهيرة"
+        "q": "من هو بطل فيلم سلاح فتاك؟",
+        "a": "بطل فيلم سلاح فتاك هو الشرطي الأسمر روجر.",
+        "q_en": "Who is the star of the movie Lethal Weapon?",
+        "a_en": "The star of the movie Lethal Weapon is the veteran cop Roger."
       },
       {
-        "q": "ما هو نوع السلاح المميت؟",
-        "a": "السلاح المميت هو فيلم حركة إثارة جريمة"
-      },
-      {
-        "q": "ما هو المخرج السلاح المميت؟",
-        "a": "لم يذكر المخرج في هذا الفيلم"
+        "q": "ما هو موضوع فيلم سلاح فتاك؟",
+        "a": "موضوع فيلم سلاح فتاك هو التعاون بين الشرطيين للكشف عن شبكة يل المخدرات.",
+        "q_en": "What is the subject of the movie Lethal Weapon?",
+        "a_en": "The subject of the movie Lethal Weapon is the collaboration between cops to uncover a heroin-smuggling ring."
       }
-    ]
+    ],
+    "keywords": "فيلم سلاح فتاك, سلاح فتاك, ليثل وون, فيلم حركة, فيلم إثارة, فيلم جريمة, روجر مور, ويل هارتن, فيلم 1987, مشاهدة سلاح فتاك, Lethal Weapon مترجم, تحميل سلاح فتاك, سلاح فتاك اون لاين, Lethal Weapon, سلاح فتاك جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "110 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Mel Gibson Danny Glover Gary Busey Mitchell Ryan Tom Atkins"
+  "cast": "Mel Gibson Danny Glover Gary Busey Mitchell Ryan Tom Atkins Darlene Love Traci Wolfe Jackie Swanson"
 }

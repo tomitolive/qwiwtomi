@@ -6,10 +6,10 @@
   "slug": "1061474-superman",
   "overview": "سوبرمان، مراسل مبتدئ في مدينة \"ميتروبوليس\"، ينطلق في رحلة للتوفيق بين إرثه الكريبتوني وتربيته البشرية كـ\"كلارك كينت\".",
   "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
-  "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+  "backdrop_path": "/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
   "release_date": "2025-07-09",
   "vote_average": 7.3,
-  "vote_count": 4771,
+  "vote_count": 5301,
   "genres": [
     {
       "id": 878,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة ميتروبوليس، يمراسل مبتدئ سوبرمان يتعقب أثر أبيه الكريبتوني، كلارك كينت، الذي يلقي بذرية بشرية، ويحاول أن يوازن بين إرثه الكريبتوني وتربيته البشرية، في رحلة ممتدة من المغامرة والحركة والخيال العلمي.",
-    "desc_en": "In the city of Metropolis, a young journalist named Superman follows the trail of his cryptic father, Clark Kent, who has left a human legacy, and tries to balance his cryptic heritage with his human upbringing, in a journey filled with adventure, action, and science fiction.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سوبرمان! فيلم خيال علمي، مغامرة، حركة!",
-    "seo_title_ar": "مشاهدة فيلم سوبرمان مترجم اون لاين - توميتو",
-    "keywords": "Superman, فيلم سوبرمان مترجم, مشاهدة فيلم سوبرمان, أحداث سوبرمان بالتفصيل, قصة فيلم سوبرمان, مشاهدة سوبرمان 2025, توميتو سوبرمان, سوبرمان مترجم",
-    "opinion": "سوبرمان فيلم رائع يجمع بين المغامرة والحركة والخيال العلمي، مع قصة رائعة تثير الإعجاب!",
+    "intro": "يحكي هذا الفيلم قصة سوبرمان، المراسل المبتدئ في مدينة ميتروبوليس، الذي يسعى إلى توحيد بين ميراثه الكريبتوني وتربيته البشرية.",
+    "desc_ar": "يحكي هذا الفيلم قصة سوبرمان، المراسل المبتدئ في مدينة ميتروبوليس، الذي يسعى إلى توحيد بين ميراثه الكريبتوني وتربيته البشرية ككلارك كينت. يبحث سوبرمان عن حلاً لتعايش بين هوية كريبتونيته وأخلاقه البشرية، ويجد نفسه مُطاردًا من قبل أعدائه في هذه المدينة الكبيرة. كما يتعامل سوبرمان مع التحديات التي تواجهه في حياته الشخصية ومسؤوليته تجاه الناس في ميتروبوليس.",
+    "desc_en": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent. He searches for a solution to coexist between his Kryptonian identity and human values, and finds himself pursued by his enemies in this big city. Also, Superman deals with the challenges he faces in his personal life and his responsibility towards the people of Metropolis.",
+    "seo_title_ar": "مشاهدة فيلم سوبرمان مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم سوبرمان مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يتعامل سوبرمان مع التحديات التي تواجهه في حياته الشخصية ومسؤوليته تجاه ال",
+    "outro": "يعد فيلم سوبرمان تجربة فنية رائعة، حيث يظهر سوبرمان في أروع مظاهره، ويحكي قصة توحيد الهويات المختلفة في المجتمع.",
+    "opinion_ar": "يعد فيلم سوبرمان تجربة فنية رائعة، حيث يظهر سوبرمان في أروع مظاهره. يعكس الفيلم الثقافة الأمريكية وتنوعاتها، ويسعى إلى التفاعل بين الهويات المختلفة في المجتمع.",
+    "opinion_en": "The Superman film is a great artistic experience, where Superman shows his finest features. The film reflects American culture and its diversities, and seeks to interact between the different identities in the society.",
     "faq": [
       {
-        "q": "ما هو سوبرمان؟",
-        "a": "سوبرمان هو فيلم خيال علمي، مغامرة، حركة يروي قصة مراسل مبتدئ في مدينة ميتروبوليس."
+        "q": "ما هو اسم الشخصية الرئيسية في الفيلم؟",
+        "a": "سوبرمان هو الشخصية الرئيسية في الفيلم.",
+        "q_en": "What is the name of the main character in the film?",
+        "a_en": "Superman is the main character in the film."
       },
       {
-        "q": "ما هو أثر أبيه الكريبتوني؟",
-        "a": "أثر أبيه الكريبتوني هو تراث كريبتوني يلقي بذرية بشرية، ويحاول سوبرمان أن يوازن بينهما."
+        "q": "من يلعب دور سوبرمان في الفيلم؟",
+        "a": "يلعب اسم الفنان دور سوبرمان في الفيلم.",
+        "q_en": "Who plays the role of Superman in the film?",
+        "a_en": "The actor actor name plays the role of Superman in the film."
       },
       {
-        "q": "ما هو فيلم سوبرمان عن؟",
-        "a": "فيلم سوبرمان عن رحلة مراسل مبتدئ في مدينة ميتروبوليس، حيث يحاول أن يوازن بين إرثه الكريبتوني وتربيته البشرية."
+        "q": "ما هي تاريخ إصدار الفيلم؟",
+        "a": "تم إصدار الفيلم في عام 2025.",
+        "q_en": "What is the release date of the film?",
+        "a_en": "The film was released in 2025."
       }
-    ]
+    ],
+    "keywords": "سوبرمان, فيلم, خيال علمي, مغامرة, حركة, ميتروبوليس, كلارك كينت, فيلم سوبرمان, فلم سوبرمان, افلام سوبرمان, سوبرمان اطفال, باتمان ضد سوبرمان فجر العدالة, إمينيم سوبرمان, الكوكب الذي جاء منه سوبرمان, شعار سوبرمان, فيلم باتمان ضد سوبرمان ويكيبيديا"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "130 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "David Corenswet Rachel Brosnahan Nicholas Hoult Edi Gathegi Nathan Fillion"
+  "cast": "David Corenswet Rachel Brosnahan Nicholas Hoult Edi Gathegi Nathan Fillion Isabela Merced María Gabriela de Faría Skyler Gisondo"
 }
