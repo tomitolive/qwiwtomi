@@ -793,7 +793,26 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
     slug = clean_slug(title_en) or f"{media_type}-{tmdb_id}"
     if media_type == 'movie' or 'tv' in media_type:
         slug = f"{tmdb_id}-{slug}"
+    
+    # Load existing JSON to preserve image paths when skip_images=True
+    existing_poster_path = None
+    existing_backdrop_path = None
+    if skip_images:
+        json_path = os.path.join(BASE_PATH, 'data', 'content', f"{tmdb_id}.json")
+        if os.path.exists(json_path):
+            try:
+                with open(json_path, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                existing_poster_path = existing_data.get('poster_path')
+                existing_backdrop_path = existing_data.get('backdrop_path')
+                log.info(f"📂 Preserving existing image paths for {tmdb_id}")
+            except Exception as e:
+                log.warning(f"Could not read existing JSON for {tmdb_id}: {e}")
+    
     poster_path = data.get('poster_path') or (en.get('poster_path') if en else None) or (ar.get('poster_path') if ar else None)
+    # Use existing poster path if skip_images=True and it exists
+    if skip_images and existing_poster_path:
+        poster_path = existing_poster_path
     if not poster_path:
         return None, None
     
@@ -823,6 +842,9 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
             poster_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
 
     backdrop_path = data.get('backdrop_path')
+    # Use existing backdrop path if skip_images=True and it exists
+    if skip_images and existing_backdrop_path:
+        backdrop_path = existing_backdrop_path
     if backdrop_path and not skip_images:
         download_tmdb_backdrop(backdrop_path)
 
