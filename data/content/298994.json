@@ -1,57 +1,51 @@
 {
   "id": 298994,
-  "title": "LV999",
-  "title_ar": "LV999",
-  "title_en": "The Villager of Level 999",
-  "slug": "298994-the-villager-of-level-999",
-  "overview": "LV999. مسلسل رسوم متحركة يجمع بين الحركة والمغامرة والخيال العلمي والفانتازيا. في عالم Earthclear، يولد الجميع في أدوار ثابتة، والفلاحون هم الأضعف على الإطلاق. ومعظمهم لا يرتقون أبدًا إلى ما فوق المستوى 5، باستثناء كوجي كاغامي، الذي هو في المستوى... 999؟! أثناء صيد الوحوش، يلتقي كوجي بأليس، ابنة ملك الشياطين، ويكتشفان أنهما يتشاركان حلمًا مستحيلًا: التعايش بين البشر والشياطين. في عالم محكوم عليه بالصراع، يخوضان معركة ضد القدر لتحدي المصير وكسر القواعد. The Villager  Level 999. مسلسل مشوق لا يمكن تفويته.",
+  "title": "Millowitsch Theater - Der Etappenhase",
+  "title_ar": "Millowitsch Theater - Der Etappenhase",
+  "title_en": "Millowitsch Theater - Der Etappenhase",
+  "slug": "298994-millowitsch-theater-der-etappenhase",
+  "overview": "يحكي مسرح ميلويتش - دير إيتابنهاس قصة متوترة ومليئة بالمرح، حيث يصطاد شاباً يسمى يوجين في جبال الألب السفلى، ولكن عليه أن يواجه تحديات خطيرة ومراوغين يهدفون إلى إيقافه في مسعاه. في هذا الفيلم الكوميدي، يظهر يوجين إصراره على التمسك بأهدافه، مع أن هذه التحديات تشكل تحديًا كبيرًا له. في النهاية، ينجح في إكمال مهمته بفضول وتنديه، ويتغلب على جميع التحديات التي واجهها.",
   "poster_path": "/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
-  "backdrop_path": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
-  "release_date": "2026-07-02",
-  "vote_average": 6.8,
-  "vote_count": 8,
+  "backdrop_path": null,
+  "release_date": "1959-09-12",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 35,
+      "name": "كوميديا"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل LV999 (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "LV999. مسلسل رسوم متحركة يجمع بين الحركة والمغامرة والخيال العلمي والفانتازيا. في عالم Earthclear، يولد الجميع في أدوار ثابتة، والفلاحون هم الأضعف على الإطلاق. ومعظمهم لا يرتقون أبدًا إلى ما فوق المستوى 5، باستثناء كوجي كاغامي، الذي هو في المستوى... 999؟! أثناء صيد الوحوش، يلتقي كوجي بأليس، ابنة ملك الشياطين، ويكتشفان أنهما يتشاركان حلمًا مستحيلًا: التعايش بين البشر والشياطين. في عالم محكوم عليه بالصراع، يخوضان معركة ضد القدر لتحدي المصير وكسر القواعد. The Villager  Level 999. مسلسل مشوق لا يمكن تفويته.",
-    "desc_en": "The Villager of Level 999 is an animated series blending action, adventure, sci-fi, and fantasy. In Earthclear, everyone is born into fixed roles, with villagers being the weakest. Most never rise above Level 5, except Koji Kagami, who is... Level 999?! On a monster hunt, he meets Alice, the Demon King's daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules. The Villager of Level 999 is an exciting series not to be missed.",
-    "seo_title_ar": "مشاهدة مسلسل LV999. The Villager Level 999 مترجم - توميتو",
-    "meta_desc": "مشاهدة LV999 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد LV999 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "LV999. مسلسل مشوق يجمع بين عناصر الخيال العلمي والفانتازيا، مع قصة فريدة عن التعايش بين البشر والشياطين. The Villager  Level 999. عمل ممتع ومختلف، يستحق المشاهدة.",
-    "opinion_en": "The Villager of Level 999 is an exciting series with a unique take on coexistence between humans and demons. A refreshing blend of sci-fi and fantasy, it's a must-watch.",
+    "intro": "يتناول الفيلم قصة شاب يسمى يوجين، الذي يصطاد في جبال الألب، ولكن عليه أن يواجه تحديات خطيرة.",
+    "desc_ar": "يحكي مسرح ميلويتش - دير إيتابنهاس قصة متوترة ومليئة بالمرح، حيث يصطاد شاباً يسمى يوجين في جبال الألب السفلى، ولكن عليه أن يواجه تحديات خطيرة ومراوغين يهدفون إلى إيقافه في مسعاه. في هذا الفيلم الكوميدي، يظهر يوجين إصراره على التمسك بأهدافه، مع أن هذه التحديات تشكل تحديًا كبيرًا له. في النهاية، ينجح في إكمال مهمته بفضول وتنديه، ويتغلب على جميع التحديات التي واجهها.",
+    "desc_en": "Millowitsch Theater - Der Etappenhase tells the story of a young man named Eugen who goes on a hunting trip in the Alps, but he faces challenges and obstacles that put his determination to the test. In this comedic film, Eugen shows his resolve to achieve his goals, despite the difficulties he encounters. In the end, he successfully completes his mission with courage and perseverance, overcoming all the challenges that come his way.",
+    "seo_title_ar": "مشاهدة فيلم مسرح ميلويتش - دير إيتابنهاس مترجم - توميتو",
+    "meta_desc": "مشاهدة مسرح ميلويتش - دير إيتابنهاس مترجم 1959 فيلم كوميدي، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. شاهد الآن. استمتع",
+    "outro": "في النهاية، ينجح يوجين في إكمال مهمته بفضول وتنديه، ويتغلب على جميع التحديات التي واجهها.",
+    "opinion_ar": "مسرح ميلويتش - دير إيتابنهاس هو فيلم كوميدي رائع يحتوي على قصص متوترة ومليئة بالمرح، يظهر فيه الشاب يوجين إصراره على التمسك بأهدافه.",
+    "opinion_en": "Millowitsch Theater - Der Etappenhase is a great comedic film that contains suspenseful and entertaining stories, showcasing Eugen's determination to achieve his goals.",
     "faq": [
       {
-        "q": "هل مسلسل LV999. مناسب لجميع الأعمار؟",
-        "a": "نعم، مسلسل LV999. مناسب لجميع الأعمار، فهو يجمع بين الرسوم المتحركة والمغامرة، مما يجعله ممتعًا ومشوقًا للصغار والكبار على حد سواء.",
-        "q_en": "Is The Villager of Level 999 suitable for all ages?",
-        "a_en": "Yes, The Villager of Level 999 is suitable for all ages. It combines animation and adventure, making it an enjoyable and exciting watch for both kids and adults."
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم كوميدي",
+        "q_en": "What type of film is this?",
+        "a_en": "Comedic film"
+      },
+      {
+        "q": "ما هو تاريخ إصدار الفيلم؟",
+        "a": "1959",
+        "q_en": "What is the release year of the film?",
+        "a_en": "1959"
       }
     ],
-    "keywords": "LV999, The Villager Level 999, رسوم متحركة, حركة, مغامرة, خيال علمي, فانتازيا, Earthclear, تعايش, صراع, مصير, معركة"
+    "keywords": "مسرح ميلويتش - دير إيتابنهاس, فيلم كوميدي, جبال الألب, الشباب, التحديات, الإصرار, الكوميديا, السينما الألمانية, 1959, مشاهدة مسرح ميلويتش - دير إيتابنهاس, Millowitsch Theater - Der Etappenhase مترجم, تحميل مسرح ميلويتش - دير إيتابنهاس, مسرح ميلويتش - دير إيتابنهاس اون لاين, Millowitsch Theater - Der Etappenhase, مسرح ميلويتش - دير إيتابنهاس جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Satoshi Inomata Nao Toyama Hiroya Egashira Manaka Iwami Nobunaga Shimazaki Aoi Koga Lynn",
-  "first_air_date": "2026-07-02",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الألمانية",
+  "country": "ألمانيا",
+  "cast": "Willy Millowitsch Lotti Krekel Hans Guido Weber Franz Schneider Christian Pippong"
 }

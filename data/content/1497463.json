@@ -4,12 +4,12 @@
   "title_ar": "Todo lo que nunca fuimos",
   "title_en": "All That We Never Were",
   "slug": "1497463-all-that-we-never-were",
-  "overview": "تدور أحداث فيلم \"Todo    \" أو \"All That We Never Were\" في قالب درامي رومانسي، حيث تروي قصة لياه البالغة من العمر 19 عامًا والتي تواجه رحلة نضج مؤثرة بعد حادث سيارة مأساوي أودى بحياة والديها. تنتقل لياه للعيش في بلدة ساحلية تحت رعاية صديق شقيقها المقرب أكسل، وتكافح للتعامل مع الحزن والأحلام المزعجة والشعور بالانكسار.",
+  "overview": "يحكي هذا العمل قصة الحياة التي لم تجها Leah بعد حادث سيارة مأساوي قتل فيها والديها، وتعيش الآن في بلدة ساحلية تحت رعاية أفضل صديق أخيها Axel. تعاني Leah من ألم الحزن وخواطر مروعة بعد تلك الأحداث، وتنقل بين هواها، وتجد نفسها مكسورة. في هذا الصراع، تعمل Leah على استكشاف هوية جديدة من خلال تجربة حياة جديدة في هذه المدينة الساحلية.",
   "poster_path": "/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg",
   "backdrop_path": "/6cJUqJYfRu5HqLKPmG5NVUMOjuD.jpg",
   "release_date": "2026-06-04",
-  "vote_average": 6.0,
-  "vote_count": 23,
+  "vote_average": 8.0,
+  "vote_count": 74,
   "genres": [
     {
       "id": 18,
@@ -21,23 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Todo lo que nunca fuimos (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث فيلم \"Todo    \" أو \"All That We Never Were\" في قالب درامي رومانسي، حيث تروي قصة لياه البالغة من العمر 19 عامًا والتي تواجه رحلة نضج مؤثرة بعد حادث سيارة مأساوي أودى بحياة والديها. تنتقل لياه للعيش في بلدة ساحلية تحت رعاية صديق شقيقها المقرب أكسل، وتكافح للتعامل مع الحزن والأحلام المزعجة والشعور بالانكسار.",
-    "desc_en": "The film \"All That We Never Were\" follows the coming-of-age journey of 19-year-old Leah after a tragic car accident takes her parents' lives. Relocated to a coastal town, under the care of her brother's best friend Axel, Leah grapples with grief, haunting nightmares, and a fractured sense of self.",
-    "seo_title_ar": "مشاهدة فيلم Todo مترجم - توميتو",
-    "meta_desc": "شاهد فيلم Todo أو All That We Never Were الدرامي الرومانسي. تروي قصة لياه التي تواجه رحلة نضج مؤثرة بعد حادث سيارة مأساوي. انتقلت للعيش في بلدة ساح",
-    "outro": "شاهد Todo lo que nunca fuimos الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"Todo    \" يقدم قصة مؤثرة ومثيرة للاهتمام، حيث يسلط الضوء على رحلة نضج لياه بعد فقدانها لوالديها. إنه فيلم درامي رومانسي يستحق المشاهدة.",
-    "opinion_en": "\"All That We Never Were\" is a captivating and emotional film that explores Leah's coming-of-age journey after a tragic loss. It's a must-watch romantic drama.",
+    "intro": "يحكي هذا العمل قصة Leah التي تعيش تجربة حياة جديدة في مدينة ساحلية بعد حادث سيارة مأساوي قتل فيها والديها.",
+    "desc_ar": "يحكي هذا العمل قصة الحياة التي لم تجها Leah بعد حادث سيارة مأساوي قتل فيها والديها، وتعيش الآن في بلدة ساحلية تحت رعاية أفضل صديق أخيها Axel. تعاني Leah من ألم الحزن وخواطر مروعة بعد تلك الأحداث، وتنقل بين هواها، وتجد نفسها مكسورة. في هذا الصراع، تعمل Leah على استكشاف هوية جديدة من خلال تجربة حياة جديدة في هذه المدينة الساحلية.",
+    "desc_en": "19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car accident that claims her parents. Relocated to a coastal town under the care of her brother's best friend Axel, Leah grapples with grief, haunting nightmares and a fractured sense of self. As she tries to rebuild her life, Leah embarks on a journey of self-discovery and growth, learning to let go of the past and find a new sense of purpose.",
+    "seo_title_ar": "مشاهدة فيلم Todo مترجم - All That We Never Were - توميتو",
+    "meta_desc": "All That We Never Were, فيلم درامي رومنسي 2026, عن حياة Leah بعد حادث سيارة مأساوي, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "في نهاية يوم، يُظهر هذا العمل كيف يمكننا أن نتعلم من الألم ونتعايش مع الصبر، ويفيدنا على أهمية الحفاظ على هويةنا الشخصية.",
+    "opinion_ar": "يعد هذا العمل تجربة حياة مأساوية ورومانسية معبرة عن التعايش مع الألم والصبر، ويحتوي على حقائق تاريخية مهمة.",
+    "opinion_en": "This film is a poignant coming-of-age story about navigating grief, trauma, and self-discovery. With its well-crafted narrative and strong performances, it's a must-watch for anyone looking for a thought-provoking and emotionally resonant film.",
     "faq": [
       {
-        "q": "ما هو موضوع فيلم \"Todo    \"؟",
-        "a": "يستكشف الفيلم رحلة نضج لياه بعد حادث سيارة مأساوي أودى بحياة والديها.",
-        "q_en": "What is the main theme of \"All That We Never Were\"?",
-        "a_en": "The film delves into Leah's coming-of-age journey after a tragic car accident that takes her parents' lives."
+        "q": "ما هو اسم الفيلم؟",
+        "a": "Todo",
+        "q_en": "What is the title of the film?",
+        "a_en": "All That We Never Were"
+      },
+      {
+        "q": "من بطولة الفيلم؟",
+        "a": "لا يوجد معلومات متاحة عن بطولة الفيلم.",
+        "q_en": "Who are the cast members?",
+        "a_en": "Unfortunately, we do not have information about the cast members at this time."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم درامي رومنسي",
+        "q_en": "What type of film is it?",
+        "a_en": "It is a drama-romance film."
       }
     ],
-    "keywords": "Todo, All That We Never Were, فيلم, دراما, رومانسي, رحلة نضج, حزن, أحلام مزعجة, بلدة ساحلية"
+    "keywords": "Todo, All That We Never Were, فيلم درامي رومنسي, Leah, Axel, حادث سيارة, مأساوي, حياة جديدة, مدينة ساحلية, مشاهدة Todo, All That We Never Were مترجم, تحميل Todo, Todo اون لاين, Todo جودة عالية, مشاهدة Todo lo que nunca fuimos"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -45,5 +57,5 @@
   "duration": "45 دقيقة",
   "language": "الإسبانية",
   "country": "إسبانيا",
-  "cast": "Margarida Corceiro Maxi Iglesias Natalia Rodríguez Sebastián Zurita Adriana Hormigos Marta Solaz Cruz Javier Tolosa Richard Holmes"
+  "cast": "Margarida Corceiro Maxi Iglesias Natalia Rodríguez Sebastián Zurita Adriana Hormigos Javier Tolosa Alan Miranda Joan Pedrola"
 }
