@@ -8921,8 +8921,26 @@
       "file": "55358.json",
       "title": "Mini Adventures of Winnie the Pooh",
       "fixed_at": "2026-08-21T23:19:00.061305"
+    },
+    {
+      "tmdb_id": "5483",
+      "file": "5483.json",
+      "title": "Lisa e il diavolo",
+      "fixed_at": "2026-08-21T23:50:00.182648"
+    },
+    {
+      "tmdb_id": "63770",
+      "file": "63770.json",
+      "title": "The Late Show with Stephen Colbert",
+      "fixed_at": "2026-08-21T23:50:11.251726"
+    },
+    {
+      "tmdb_id": "744114",
+      "file": "744114.json",
+      "title": "My Policeman",
+      "fixed_at": "2026-08-21T23:50:23.542319"
     }
   ],
-  "last_updated": "2026-08-21T23:19:02.064069",
-  "total_fixed": 1487
+  "last_updated": "2026-08-21T23:50:25.545026",
+  "total_fixed": 1490
 }
