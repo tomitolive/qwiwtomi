@@ -4,14 +4,12 @@
   "title_ar": "سولو ليفلينغ",
   "title_en": "Solo Leveling",
   "slug": "127532-solo-leveling",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "مضى أكثر من عقد على الظهور المفاجئ للسراديب المدعوة بالبوابات والتي تربط هذا العالم ببعد آخر واستفاقة الأشخاص ذوي القوى الخارقة المدعووين بالصيادين. يستعمل الصيادون قواهم الخارقة لغزو الدياميس التي بداخل البوابات لكسب عيشهم، وسون جينوو، صياد من أقل درجة، يُعتبر الصياد الأضعف في البشرية. في أحد الأيام يجد نفسه في ديماس مزدوج، وهو ديماس من درجة عالية مخفيّ في ديماس من درجة منخفضة. أمام جينوو المصاب بجروح بليغة، تظهر نافذة مهمة غامضة. بينما هو على شفير الموت، يقرر جينوو قبول المهمة، ما يجعله الشخص الوحيد القادر على رفع مستواه",
   "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
   "backdrop_path": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
   "release_date": "2024-01-07",
-  "vote_average": 8.6,
-  "vote_count": 1733,
+  "vote_average": 8.7,
+  "vote_count": 1936,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم البوابات، يُعتبر سون جينوو الصياد الأضعف في البشرية، لكنه يجد نفسه في ديماس مزدوج، وهو ديماس من درجة عالية مخفي في ديماس من درجة منخفضة. أمام جينوو المصاب بجروح بليغة، تظهر نافذة مهمة غامضة، ما يجعله الشخص الوحيد القادر على رفع مستواه.",
-    "desc_en": "In a world of gates, Son Jino is considered the weakest hunter in humanity, but he finds himself in a dual dimension, a high-grade demon hidden in a low-grade demon. With Jino wounded and battered, a mysterious window of opportunity appears, making him the only one capable of leveling up.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سولو ليفلينغ!",
-    "seo_title_ar": "مشاهدة فيلم سولو ليفلينغ مترجم اون لاين - توميتو",
-    "keywords": "Solo Leveling, فيلم سولو ليفلينغ مترجم, مشاهدة فيلم سولو ليفلينغ, قصة مسلسل سولو ليفلينغ, سولو ليفلينغ مترجم كامل, توميتو سولو ليفلينغ, أحداث سولو ليفلينغ بالتفصيل, مشاهدة سولو ليفلينغ 2024",
-    "opinion": "هو فيلم رائع يملأه الإثارة والفانتازيا، سولو ليفلينغ هو فيلم يملأه الإثارة والفانتازيا، يملأه الإثارة والفانتازيا!",
+    "intro": "استمتع بمشاهدة مسلسل سولو ليفلينغ (2024) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "مضى أكثر من عقد على الظهور المفاجئ للسراديب المدعوة بالبوابات والتي تربط هذا العالم ببعد آخر واستفاقة الأشخاص ذوي القوى الخارقة المدعووين بالصيادين. يستعمل الصيادون قواهم الخارقة لغزو الدياميس التي بداخل البوابات لكسب عيشهم، وسون جينوو، صياد من أقل درجة، يُعتبر الصياد الأضعف في البشرية. في أحد الأيام يجد نفسه في ديماس مزدوج، وهو ديماس من درجة عالية مخفيّ في ديماس من درجة منخفضة. أمام جينوو المصاب بجروح بليغة، تظهر نافذة مهمة غامضة. بينما هو على شفير الموت، يقرر جينوو قبول المهمة، ما يجعله الشخص الوحيد القادر على رفع مستواه",
+    "desc_en": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "seo_title_ar": "مشاهدة مسلسل Solo Leveling مترجم - توميتو",
+    "meta_desc": "مشاهدة سولو ليفلينغ مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد سولو ليفلينغ الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو سولو ليفلينغ؟",
-        "a": "هو فيلم رائع يملأه الإثارة والفانتازيا، يملأه الإثارة والفانتازيا!"
+        "q": "كيف يمكنني مشاهدة مسلسل سولو ليفلينغ?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Solo Leveling?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع سولو ليفلينغ؟",
-        "a": "هو فيلم رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا."
+        "q": "ما هو تصنيف مسلسل سولو ليفلينغ?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا.",
+        "q_en": "What is the genre of Solo Leveling?",
+        "a_en": "It falls under the genre of رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا."
       },
       {
-        "q": "ما هو ميزة سولو ليفلينغ؟",
-        "a": "هو فيلم يملأه الإثارة والفانتازيا، يملأه الإثارة والفانتازيا!"
+        "q": "ما هي قصة مسلسل سولو ليفلينغ?",
+        "a": "مضى أكثر من عقد على الظهور المفاجئ للسراديب المدعوة بالبوابات والتي تربط هذا العالم ببعد آخر واستفاقة الأشخاص ذوي القوى الخارقة المدعووين بالصيادين. يستعمل الصيادون قواهم الخارقة لغزو الدياميس التي بد...",
+        "q_en": "What is the story of Solo Leveling?",
+        "a_en": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwo..."
       }
-    ]
+    ],
+    "keywords": "سولو ليفلينغ مترجم, Solo Leveling مترجم, مشاهدة سولو ليفلينغ,"
   },
   "fixed": true,
-  "first_air_date": "2024-01-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Taito Ban Genta Nakamura Haruna Mikawa Reina Ueda Daisuke Hirakawa Hiroki Touchi Banjo Ginga Makoto Furukawa",
+  "first_air_date": "2024-01-07"
 }

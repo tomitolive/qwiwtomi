@@ -7991,8 +7991,44 @@
       "file": "324552.json",
       "title": "جون ويك: الفصل ٢",
       "fixed_at": "2026-08-21T03:33:01.940965"
+    },
+    {
+      "tmdb_id": "268",
+      "file": "268.json",
+      "title": "Batman",
+      "fixed_at": "2026-08-21T04:12:56.109337"
+    },
+    {
+      "tmdb_id": "127532",
+      "file": "127532.json",
+      "title": "سولو ليفلينغ",
+      "fixed_at": "2026-08-21T04:13:03.466370"
+    },
+    {
+      "tmdb_id": "39793",
+      "file": "39793.json",
+      "title": "Call the Midwife",
+      "fixed_at": "2026-08-21T04:13:11.487098"
+    },
+    {
+      "tmdb_id": "25126",
+      "file": "25126.json",
+      "title": "Fallen",
+      "fixed_at": "2026-08-21T04:13:19.559854"
+    },
+    {
+      "tmdb_id": "14976",
+      "file": "14976.json",
+      "title": "Independent Lens",
+      "fixed_at": "2026-08-21T04:13:27.252900"
+    },
+    {
+      "tmdb_id": "206679",
+      "file": "206679.json",
+      "title": "Na lovu",
+      "fixed_at": "2026-08-21T04:13:33.774948"
     }
   ],
-  "last_updated": "2026-08-21T03:33:03.943651",
-  "total_fixed": 1332
+  "last_updated": "2026-08-21T04:13:35.777633",
+  "total_fixed": 1338
 }

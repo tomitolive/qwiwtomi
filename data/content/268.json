@@ -1,15 +1,15 @@
 {
   "id": 268,
-  "title": "Batman",
-  "title_ar": "Batman",
+  "title": "باتمان",
+  "title_ar": "باتمان",
   "title_en": "Batman",
   "slug": "268-batman",
-  "overview": "",
+  "overview": "بعد أن شهد بروس واين، المليونير المحسن، مقتل والديه بوحشية في طفولته، يحارب الجريمة في مدينة غوثام متنكرًا في زي باتمان، البطل المقنع الذي يبث الرعب في قلوب الأشرار. ولكن عندما يستولي رجل مجنون مشوه يُعرف باسم \"الجوكر\" على زمام عالم الجريمة في غوثام، يجد باتمان نفسه مضطرًا لمواجهة ألدّ أعدائه على الإطلاق، بينما يحمي هويته وحبيبته، الصحفية فيكي فال",
   "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
   "backdrop_path": "/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
   "release_date": "1989-06-21",
   "vote_average": 7.2,
-  "vote_count": 8553,
+  "vote_count": 8716,
   "genres": [
     {
       "id": 14,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم غامق والرعب والخوف، يأتي باتمان، الرجل الذي يرتكب الجريمة، ليكون قوةً ضد القوة، ويحاول أن يوقف خيانتها، ولكن ما هو خيانتها؟ ما هو هدفها؟ باتمان يخوض معركة ضد خيانتها، فيما يكتشف المزيد عن نفسه، ويركب المزيد من الجرائم، فيما يصير المعركة بين الخيانتة والبطل، معركةً حقيقية.",
-    "desc_en": "In a dark and foreboding world of fear and dread, Batman, the man who commits crime, becomes a force against the force, trying to stop its betrayal, but what is its betrayal? What is its goal? Batman engages in a battle against its betrayal, as he discovers more about himself and commits more crimes, making the battle between the traitor and the hero a real one.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم باتمان",
-    "seo_title_ar": "مشاهدة فيلم باتمان مترجم اون لاين - توميتو",
-    "keywords": "فيلم باتمان مترجم, مشاهدة فيلم باتمان, مشاهدة Batman 1989, توميتو Batman, قصة فيلم Batman, أحداث Batman بالتفصيل, Batman مترجم",
-    "opinion": "فيلم باتمان هو فيلم رائع، مليء بالتension والدراما، والرعب والخوف، وهو يخلق عالماً غامقاً والرعب والخوف، ويحاول أن يوقف خيانتها، ولكن ما هو خيانتها؟ ما هو هدفها؟",
+    "intro": "يحكي باتمان قصة عائلة واين، التي وقعت تحت ضربة القتل الوحشي في طفولتها، مما دفع بروس واين إلى استغلال ثروته لتحسين المدينة التي قتل فيها والديه.",
+    "desc_ar": "يحكي باتمان قصة عائلة واين، التي وقعت تحت ضربة القتل الوحشي في طفولتها، مما دفع بروس واين إلى استغلال ثروته لتحسين المدينة التي قتل فيها والديه، ويستمر باتمان في رصد الجريمة في غوثام وتنفيذ العدالة مع زيته المرموقة، ولكن عندما يتحكم الجوكر في عالم الجريمة، يجد باتمان نفسه مضطرًا لمواجهة أقوى عدو له في الأزمنة السابقة، بينما يحمي هويته ومحبوبته فيكي فال",
+    "desc_en": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+    "seo_title_ar": "مشاهدة فيلم باتمان مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة باتمان فيلم بطولة ميك جايفر، يحيي هذا العمل قصة باتمان، البطل المقنع الذي يبث الرعب في قلوب الأشرار، ويحارب الجريمة في مدينة غوثام، بينما يح",
+    "outro": "باتمان هو فيلم رائع يُظهر بطلنا باتمان في معاركته ضد الجريمة في مدينة غوثام، ويُظهر أيضًا شخصيته الحقيقية المليونير بروس واين.",
+    "opinion_ar": "باتمان هو فيلم رائع يُظهر بطلنا باتمان في معاركته ضد الجريمة في مدينة غوثام، ويُظهر أيضًا شخصيته الحقيقية المليونير بروس واين.",
+    "opinion_en": "Batman is a great film that showcases our hero Batman in his battles against crime in Gotham City, also revealing his true personality as millionaire philanthropist Bruce Wayne.",
     "faq": [
       {
         "q": "ما هو باتمان؟",
-        "a": "باتمان هو الرجل الذي يرتكب الجريمة، ويحاول أن يوقف خيانتها"
+        "a": "باتمان هو بطل قوي يُظهر عزمه في تحقيق العدالة في مدينة غوثام.",
+        "q_en": "What is Batman?",
+        "a_en": "Batman is a strong hero who shows his determination to achieve justice in Gotham City."
       },
       {
-        "q": "ما هو خيانتة باتمان؟",
-        "a": "خيانتة باتمان هي خيانتة قوية والرعب والخوف، وهي تهدف إلىوقف باتمان"
-      },
-      {
-        "q": "ما هو هدف خيانتة باتمان؟",
-        "a": "هدف خيانتة باتمان هووقف باتمان، ولكن ما هو خيانتها؟"
+        "q": "من هو الجوكر؟",
+        "a": "الجوكر هو أحد أعداء باتمان الذين يتحكمون في عالم الجريمة في غوثام.",
+        "q_en": "Who is the Joker?",
+        "a_en": "The Joker is one of Batman's enemies who controls the underworld of crime in Gotham City."
       }
-    ]
+    ],
+    "keywords": "باتمان, باتمان فيلم, باتمان 1989, باتمان المليونير, باتمان الجوكر, باتمان مدينة غوثام, باتمان فيكي فال, باتمان ميك جايفر, فيلم باتمان, باتمان فلم, صور باتمان, شعار باتمان, افلام باتمان, سيارة باتمان, باتمان كرتون, لعبة باتمان, رولكس باتمان, صورة باتمان, بيضة كندر باتمان, باتمان لابس فستان, كيكة باتمان"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "126 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael Keaton Jack Nicholson Kim Basinger Robert Wuhl Pat Hingle"
+  "cast": "Michael Keaton Jack Nicholson Kim Basinger Robert Wuhl Pat Hingle Billy Dee Williams Michael Gough Jack Palance"
 }
