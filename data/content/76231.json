@@ -4,14 +4,12 @@
   "title_ar": "Mayans M.C.",
   "title_en": "Mayans M.C.",
   "slug": "76231-mayans-mc",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يخرج الصبي (إي زد رييس) من السجن بسبب سريان اتفاقية مبرمة بخصوص الحدود بين ولاية كاليفورنيا ودولة المكسيك، بحيث يجب عليه تغيير هويته بهوية جديدة تمكنه من بدء حياة جديدة بعيدة عن السجن.",
   "poster_path": "/510A0upV9WRAynEgs1E2B3eBxi5.jpg",
   "backdrop_path": "/bPt7NTQQvrEIBIqwfgWOkjDTIZn.jpg",
   "release_date": "2018-09-04",
-  "vote_average": 8,
-  "vote_count": 820,
+  "vote_average": 8.0,
+  "vote_count": 839,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد خروج الصبي (إي زد رييس) من السجن، يبدأ رحلة جديدة في حياته، حيث يكتشف نفسه في وسط قبيلة ميا، الذين يأخذونه تحت إمرتهم ويقومون بتغيير هويته بهوية جديدة، تمكنه من بدء حياة جديدة بعيدة عن السجن، ولكن ما ينتظرهم هو سلسلة من الأحداث المليئة بالمرحلة والغموض.",
-    "desc_en": "After leaving prison, the protagonist (Ei Zed Reis) begins a new journey in his life, where he discovers himself in the midst of the Mayans M.C. gang, who take him under their wing and change his identity to a new one, enabling him to start a new life far from prison, but what awaits them is a series of thrilling and suspenseful events.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Mayans M.C.!",
-    "seo_title_ar": "مشاهدة فيلم Mayans M.C. مترجم اون لاين - توميتو",
-    "keywords": "فيلم جريمة مترجم, مشاهدة فيلم دراما, مشاهدة Mayans M.C. 2018, أحداث Mayans M.C. بالتفصيل, توميتو Mayans M.C., Mayans M.C. مترجم كامل, قصة مسلسل Mayans M.C.",
-    "opinion": "هذا الفيلم يملأه الإثارة والغموض، حيث يأخذك في رحلة ممتعة مليئة بالمرحلة والتشويق، ولكن ما ينتظرك هو نهاية ممتعة تتركك تريد المزيد.",
+    "intro": "يحكي مسلسل ماينز إم سي. قصة إي زد رييس، الذي يخرج من السجن بعد اتفاقية بين الولايات المتحدة والمكسيك.",
+    "desc_ar": "يخرج الصبي (إي زد رييس) من السجن بعد سريان اتفاقية بين الولايات المتحدة والمكسيك، ويجد نفسه في حاجة إلى تغيير هويته وبدء حياة جديدة بعيدة عن السجن. ويحاول إي زد رييس أن يجد نفسه في هذا العالم الجديد، حيث كان dve قد استطاع أن يحقق حلم اليكية، ولكن الآن يجد نفسه في حاجة إلى إعادة تقييمpriorities. ويحاول إي زد رييس أن يثبت نفسه كعضو في النصرانية م.سي، ولكن يجد نفسه في مواجهة تحديات جديدة ومفاجآت مفاجئة.",
+    "desc_en": "Set in the aftermath of Jax Teller's death, Ezekiel 'EZ' Reyes is fresh out of prison and a prospect in the Mayans M.C. charter on the Cali/Mexi border. Now, EZ must carve out his new identity in a town where he was once the golden boy with the American Dream in his grasp. As EZ navigates this new world, he faces unexpected challenges and surprises that test his loyalty and dedication to the Mayans M.C.",
+    "seo_title_ar": "مشاهدة مسلسل ماينز إم سي. مترجم - توميتو",
+    "meta_desc": "شاهد ماينز إم سي. - مسلسل جريمة ودراما يروي قصة إي زد رييس، الذي يخرج من السجن بعد اتفاقية بين الولايات المتحدة والمكسيك. يستمر مسلسل ماينز إم سي. في إثارة",
+    "outro": "استمتع بمشاهدة ماينز إم سي. على توميتو، حيث ستجد تجربة مشاهدة رائعة وترجمة احترافية بدون إعلانات مزعجة.",
+    "opinion_ar": "يعد مسلسل ماينز إم سي. من أفضل المسلسلات التي قمت بمشاهدتها، حيث يجمع بين الجريمة والدراما في قصة مثيرة ومتعة.",
+    "opinion_en": "Mayans M.C. is one of the best shows I've ever seen, with a gripping storyline that combines crime and drama in a thrilling and entertaining way.",
     "faq": [
       {
-        "q": "ما هو Mayans M.C.؟",
-        "a": "هو فيلم دراما جريمة أمريكي يتبع قصة مجموعة من القبائل في ولاية كاليفورنيا"
-      },
-      {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "يتبع قصة主人 (إي زد رييس) بعد خروج السجن والبدء في حياة جديدة"
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم دراما جريمة أمريكي"
+        "q": "ما هو موضوع المسلسل ماينز إم سي؟",
+        "a": "يحكي مسلسل ماينز إم سي. قصة إي زد رييس، الذي يخرج من السجن بعد اتفاقية بين الولايات المتحدة والمكسيك.",
+        "q_en": "What is the plot of Mayans M.C.?",
+        "a_en": "Mayans M.C. tells the story of Ezekiel 'EZ' Reyes, who is released from prison after an agreement between the United States and Mexico."
       }
-    ]
+    ],
+    "keywords": "ماينز إم سي., مسلسل, جريمة, دراما, إي زد رييس, الولايات المتحدة, المكسيك, توميتو, مشاهدة ماينز إم سي., Mayans .. مترجم, تحميل ماينز إم سي., ماينز إم سي. اون لاين, Mayans .., ماينز إم سي. جودة عالية, فيلم ماينز إم سي."
   },
   "fixed": true,
-  "first_air_date": "2018-09-04",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "103 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Robert Taylor Kay Kendall Robert Morley George Cole Alec Clunes"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "J. D. Pardo Clayton Cardenas Edward James Olmos Sarah Bolger Michael Irby Antonio Jaramillo Danny Pino Carla Baratta",
+  "first_air_date": "2018-09-04"
 }

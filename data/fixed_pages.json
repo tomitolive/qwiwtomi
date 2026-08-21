@@ -8459,8 +8459,44 @@
       "file": "82591.json",
       "title": "Goblin Slayer",
       "fixed_at": "2026-08-21T12:24:40.484214"
+    },
+    {
+      "tmdb_id": "11174",
+      "file": "11174.json",
+      "title": "The Professionals",
+      "fixed_at": "2026-08-21T13:28:28.724499"
+    },
+    {
+      "tmdb_id": "114655",
+      "file": "114655.json",
+      "title": "The Curse",
+      "fixed_at": "2026-08-21T13:28:39.376392"
+    },
+    {
+      "tmdb_id": "76231",
+      "file": "76231.json",
+      "title": "Mayans M.C.",
+      "fixed_at": "2026-08-21T13:28:47.876900"
+    },
+    {
+      "tmdb_id": "38974",
+      "file": "38974.json",
+      "title": "Jessie",
+      "fixed_at": "2026-08-21T13:28:55.009826"
+    },
+    {
+      "tmdb_id": "1311031",
+      "file": "1311031.json",
+      "title": "قاتل الشياطين: قلعة اللانهاية الفصل الأول: عودة أكازا",
+      "fixed_at": "2026-08-21T13:29:03.399839"
+    },
+    {
+      "tmdb_id": "441168",
+      "file": "441168.json",
+      "title": "From Straight As to XXX",
+      "fixed_at": "2026-08-21T13:29:12.151721"
     }
   ],
-  "last_updated": "2026-08-21T12:24:42.487013",
-  "total_fixed": 1410
+  "last_updated": "2026-08-21T13:29:14.154422",
+  "total_fixed": 1416
 }
