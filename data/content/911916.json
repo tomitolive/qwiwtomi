@@ -4,13 +4,11 @@
   "title_ar": "Spider-Man: Beyond the Spider-Verse",
   "title_en": "Spider-Man: Beyond the Spider-Verse",
   "slug": "911916-spider-man-beyond-the-spider-verse",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "القصة المستمرة الإضافية لمايلز موراليس والعديد من الأشخاص العنكبوت الآخرين من حقائق مختلفة.",
   "poster_path": "/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
-  "backdrop_path": "/6yZgfrPJGhXEHD2jH7hzmRt9KpQ.jpg",
+  "backdrop_path": "/7tT2w75p69nll5PvALpWFCYx5dU.jpg",
   "release_date": "2027-06-17",
-  "vote_average": 7,
+  "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
@@ -26,41 +24,46 @@
       "name": "رسوم متحركة"
     },
     {
-      "id": 18,
-      "name": "دراما"
-    },
-    {
       "id": 878,
       "name": "خيال علمي"
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن قام ميلز موراليس وطاقمه من superheroes بالتخلي عن العالم، ظهرت مشكلات جديدة في عالم Spider-Man. في هذه القصة المستمرة الإضافية، سوف نرى كيف ساعدتteam Spider-Man على إيقاف الأخطاء والقضاء على الأشرار، بينما يتعرضون لخतरات جديدة من قبل الأشرار الذين يريدون أن يدمروا عالم Spider-Man.",
-    "desc_en": "After Miles Morales and his team of superheroes left the world, new problems emerged in the Spider-Man universe. In this additional story, we will see how the Spider-Man team helped to stop the mistakes and eliminate the villains, while exposing them to new threats from the villains who want to destroy the Spider-Man world.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Spider-Man: Beyond the Spider-Verse!",
-    "seo_title_ar": "مشاهدة فيلم سبايدر مان: Beyond the Spider-Verse مترجم اون لاين - توميتو",
-    "keywords": "فيلم سبايدر مان مترجم, مشاهدة فيلم سبايدر مان, مشاهدة Spider-Man: Beyond the Spider-Verse 2027, Spider-Man: Beyond the Spider-Verse مترجم, أحداث Spider-Man: Beyond the Spider-Verse بالتفصيل, توميتو Spider-Man: Beyond the Spider-Verse, قصة فيلم Spider-Man: Beyond the Spider-Verse",
-    "opinion": "هذه القصة المستمرة الإضافية ل Spider-Man هي واحدة من أفضل ما يمكن أن يحدث في عالم Spider-Man. مع قصة رائعة وتصوير رائع، ستشعرك هذه القصة بالراحة والمتعة.",
+    "intro": "يحكي فيلم \"الرجل العنكبوت: ما وراء الآية العنكبوتية\" قصة مائلز موراليس الذي يجد نفسه في أشد corners من عالم العنكبوت.",
+    "desc_ar": "يحكي فيلم \"الرجل العنكبوت: ما وراء الآية العنكبوتية\" قصة مائلز موراليس الذي يجد نفسه في أشد من عالم العنكبوت، حيث يتعرض لتهديدات من قبل جماعة العنكبوتية بقيادة ميغيل أو هارا، ويتعرض لخيانة من قبل أصدقائه. يبحث مائلز عن طريق للعودة إلى منزله، مع العلم أن عائلته لم تكن فقط تتعرض لفرقة، ولكنها أيضًا في خطر بسبب مكوانة مائلز.",
+    "desc_en": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
+    "seo_title_ar": "مشاهدة فيلم الرجل العنكبوت: ما وراء الآية العنكبوتية مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الرجل العنكبوت: ما وراء الآية العنكبوتية بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يتعرض مائلز موراليس لتهديدات من قبل جماعة ال",
+    "outro": "يعد فيلم \"الرجل العنكبوت: ما وراء الآية العنكبوتية\" تجربة روائية مثيرة ومتعة، حيث يتعرض المشاهد لمشاهدة تجارب مائلز موراليس في عالم العنكبوت.",
+    "opinion_ar": "يعد فيلم \"الرجل العنكبوت: ما وراء الآية العنكبوتية\" تجربة روائية مثيرة ومتعة، حيث يتعرض المشاهد لمشاهدة تجارب مائلز موراليس في عالم العنكبوت.",
+    "opinion_en": "This film is a thrilling and entertaining ride, where the audience gets to experience Miles Morales' adventures in the Spider-Verse.",
     "faq": [
       {
-        "q": "ما هو قصة Spider-Man: Beyond the Spider-Verse؟",
-        "a": "هذه القصة المستمرة الإضافية ل Spider-Man، حيث ساعدتteam Spider-Man على إيقاف الأخطاء والقضاء على الأشرار."
+        "q": "ما هو موضوع الفيلم؟",
+        "a": "يحكي الفيلم قصة مائلز موراليس الذي يجد نفسه في أشد من عالم العنكبوت.",
+        "q_en": "What is the topic of the film?",
+        "a_en": "The film tells the story of Miles Morales, who finds himself in the darkest corners of the Spider-Verse."
       },
       {
-        "q": "ما هو نوع فيلم Spider-Man: Beyond the Spider-Verse؟",
-        "a": "هو فيلم رسوم متحركة وحركة وخيال علمي."
+        "q": "من يخرج الفيلم؟",
+        "a": "يخرج الفيلم من قبل... (اسم المخرج)",
+        "q_en": "Who is directing the film?",
+        "a_en": "The film is directed by... (Director's name)"
       },
       {
-        "q": "ما هو المخرج من فيلم Spider-Man: Beyond the Spider-Verse؟",
-        "a": "هو فيلم من إنتاج [producer's name]"
+        "q": "ما هي أنواع الفيلم؟",
+        "a": "يعد الفيلم من فئة الحركة، المغامرة، الرسوم المتحركة، الخيال العلمي.",
+        "q_en": "What genres is the film?",
+        "a_en": "The film is an action, adventure, animated, and science fiction film."
       }
-    ]
+    ],
+    "keywords": "الرجل العنكبوت, ما وراء الآية العنكبوتية, فيلم, حركة, مغامرة, رسوم متحركة, خيال علمي, مائلز موراليس, عالم العنكبوت, مشاهدة الرجل العنكبوت: ما وراء الآية العنكبوتية, Spider-Man: Beyond Spider-Verse مترجم, تحميل الرجل العنكبوت: ما وراء الآية العنكبوتية, الرجل العنكبوت: ما وراء الآية العنكبوتية اون لاين, Spider-Man: Beyond Spider-Verse, الرجل العنكبوت: ما وراء الآية العنكبوتية جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Shameik Moore Hailee Steinfeld Brian Tyree Henry Luna Lauren Vélez Oscar Isaac"
+  "cast": "Shameik Moore Hailee Steinfeld Oscar Isaac Jason Schwartzman Jake Johnson Brian Tyree Henry Issa Rae Luna Lauren Vélez"
 }

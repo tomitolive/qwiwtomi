@@ -4,17 +4,13 @@
   "title_ar": "Vie prive",
   "title_en": "A Private Life",
   "slug": "1290432-a-private-life",
-  "overview": "",
+  "overview": "يحكي فيلم \"Vie \" قصة عالمة النفس المرموقة ليلى ستاينر، التي تصدر تحقيقًا خاصًا في وفاة أحد مرضاها الذي تشك في أن يكون قد قتل. وتظهر ليلى في هذا التحقيق كمُحققَة منغمسة في البحث عن الحقيقة، وتهتم بشأن وفاة مرضاها الذي يبدو أنها كانت موته متعمدًا. وتظهر ليلى في هذا التحقيق كمُحققَة منغمسة في البحث عن الحقيقة، وتهتم بشأن وفاة مرضاها الذي يبدو أنها كانت موته متعمدًا. وتتميز ليلى بمهاراتها في التحقيق والتحليل، وتستخدم خبرتها في عالم النفس لتحديد ما إذا كان هناك أي دليل على جريمة قتل.",
   "poster_path": "/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
   "backdrop_path": "/3fZ5HvkrjaS34sZERshWm9koXdF.jpg",
   "release_date": "2025-09-27",
-  "vote_average": 5.7,
-  "vote_count": 185,
+  "vote_average": 5.5,
+  "vote_count": 255,
   "genres": [
-    {
-      "id": 18,
-      "name": "دراما"
-    },
     {
       "id": 9648,
       "name": "غموض"
@@ -22,31 +18,36 @@
     {
       "id": 80,
       "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن للسرية أن تكون سلاحاً ذو حدين؟",
-    "desc_ar": "تدخلنا \"حياة خاصة\" في عالم الدكتورة ليليان ستاينر، الطبيبة النفسية الشهيرة التي تجد نفسها في دوامة من الشك والغموض. تشرع ليليان في تحقيق خاص بعد وفاة أحد مرضاها، مقتنعة بأن الأمر ليس مجرد حادثة عادية، بل جريمة قتل مدبرة. تتصاعد الأحداث مع كل خطوة تخطوها ليليان، حيث تتعمق في عالم مظلم من الأسرار والخفايا، وتكتشف أن الحياة الخاصة قد تكون أكثر خطورة مما توقعته.",
-    "seo_title_ar": "حياة خاصة: الغوص في عالم الغموض والسرية",
-    "meta_desc": "تتبع الدكتورة ليليان ستاينر خيوط تحقيق خاص بعد وفاة أحد مرضاها، لتكشف عن عالم مظلم من الأسرار والغموض.",
-    "outro": "إن كنت من عشاق أفلام الغموض والدراما، فلا تفوت فرصة مشاهدة \"حياة خاصة\"، حيث ستجد نفسك في رحلة مشوقة مليئة بالتشويق والتوتر. استعد لرحلة مليئة بالمفاجآت!",
-    "opinion": "فيلم \"حياة خاصة\" هو تجربة سينمائية فريدة، حيث يمزج بين الدراما النفسية والغموض بطريقة ممتعة ومثيرة. أداء الممثلين كان رائعاً، خاصةً في تجسيد الصراع الداخلي للبطلة.",
+    "intro": "يحكي فيلم \"Vie prive\" قصة عالمة النفس المرموقة ليلى ستاينر، التي تصدر تحقيقًا خاصًا في وفاة أحد مرضاها.",
+    "desc_ar": "يحكي فيلم \"Vie \" قصة عالمة النفس المرموقة ليلى ستاينر، التي تصدر تحقيقًا خاصًا في وفاة أحد مرضاها الذي تشك في أن يكون قد قتل. وتظهر ليلى في هذا التحقيق كمُحققَة منغمسة في البحث عن الحقيقة، وتهتم بشأن وفاة مرضاها الذي يبدو أنها كانت موته متعمدًا. وتظهر ليلى في هذا التحقيق كمُحققَة منغمسة في البحث عن الحقيقة، وتهتم بشأن وفاة مرضاها الذي يبدو أنها كانت موته متعمدًا. وتتميز ليلى بمهاراتها في التحقيق والتحليل، وتستخدم خبرتها في عالم النفس لتحديد ما إذا كان هناك أي دليل على جريمة قتل.",
+    "desc_en": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered. As she delves deeper into the case, she becomes increasingly obsessed with uncovering the truth behind the mysterious death. With her extensive experience in the field of psychology, Lilian uses her skills to analyze the evidence and determine whether the death was indeed a murder.",
+    "seo_title_ar": "مشاهدة فيلم Vie مترجم أون لاين - أسرار حياة خاصة",
+    "meta_desc": "شاهد فيلم Private Life (Vie ) 2025 مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية، وتعرف عل",
+    "outro": "يعد فيلم \"Vie prive\" تجربة مشاهدة ممتعة ومتفاعلة، حيث يقدم قصة غامضة ومليئة بالتحقيقات والتحليلات.",
+    "opinion_ar": "يعد فيلم \"Vie \" تجربة مشاهدة ممتعة ومتفاعلة، حيث يقدم قصة غامضة ومليئة بالتحقيقات والتحليلات.",
+    "opinion_en": "A Private Life is a thought-provoking and engaging film that offers a gripping story filled with investigation and analysis.",
     "faq": [
       {
-        "q": "هل الفيلم مبني على قصة حقيقية؟",
-        "a": "لا، الفيلم من وحي الخيال، ولكنه مستوحى من قصص حقيقية عن الأطباء النفسيين الذين يجدون أنفسهم في مواقف غامضة."
+        "q": "ما هو فيلم \"Vie \"؟",
+        "a": "فيلم غموض وجريمة درامي يتبع عالمة النفس المرموقة ليلى ستاينر في تحقيق خاص في وفاة أحد مرضاها.",
+        "q_en": "What is A Private Life?",
+        "a_en": "A Private Life is a mystery, crime, and drama film that follows renowned psychiatrist Lilian Steiner as she mounts a private investigation into the death of one of her patients."
       },
       {
-        "q": "ما هو تصنيف الفيلم؟",
-        "a": "يندرج الفيلم تحت تصنيف الدراما والغموض والجريمة، حيث يمزج بين هذه العناصر بطريقة مشوقة."
-      },
-      {
-        "q": "هل يناسب الفيلم جميع الأعمار؟",
-        "a": "قد لا يكون مناسباً للأطفال الصغار، حيث يحتوي على بعض المشاهد والمواضيع التي قد لا تناسبهم."
+        "q": "من بطولة فيلم \"Vie \"؟",
+        "a": "لا يوجد معلومات متوفرة عن بطولة الفيلم.",
+        "q_en": "Who stars in A Private Life?",
+        "a_en": "Unfortunately, we do not have information available about the cast of the film."
       }
     ],
-    "keywords": "A Private Life, قصة فيلم Vie prive, Vie prive مترجم, توميتو Vie prive, مشاهدة Vie prive 2025, أحداث Vie prive بالتفصيل",
-    "desc_en": "In 'A Private Life', we enter the world of Dr. Lillian Steiner, a famous psychologist who finds herself in a vortex of suspicion and mystery. Lillian embarks on a private investigation after the death of one of her patients, convinced that it's not just an ordinary accident, but a planned murder. Events escalate with every step Lillian takes, as she delves into a dark world of secrets and hidden truths, discovering that private life may be more dangerous than she expected."
+    "keywords": "فيلم Vie, Private Life, غموض, جريمة, دراما, فيلم 2025, مترجم, أون لاين, مشاهدة Vie, Private Life مترجم, تحميل Vie, Vie اون لاين, Vie جودة عالية, Private Life HD, مشاهدة Vie prive"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "108 دقيقة",
   "language": "الفرنسية",
   "country": "فرنسا",
-  "cast": "Jodie Foster Daniel Auteuil Virginie Efira Mathieu Amalric Vincent Lacoste"
+  "cast": "Jodie Foster Daniel Auteuil Virginie Efira Mathieu Amalric Vincent Lacoste Luàna Bajrami Noam Morgensztern Sophie Guillemin"
 }

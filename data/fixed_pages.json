@@ -7955,8 +7955,44 @@
       "file": "62835.json",
       "title": "Colombiana",
       "fixed_at": "2026-08-21T02:22:30.920427"
+    },
+    {
+      "tmdb_id": "911916",
+      "file": "911916.json",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "fixed_at": "2026-08-21T03:32:17.030415"
+    },
+    {
+      "tmdb_id": "680",
+      "file": "680.json",
+      "title": "خيال رخيص",
+      "fixed_at": "2026-08-21T03:32:25.113271"
+    },
+    {
+      "tmdb_id": "1290432",
+      "file": "1290432.json",
+      "title": "Vie prive",
+      "fixed_at": "2026-08-21T03:32:32.764189"
+    },
+    {
+      "tmdb_id": "876716",
+      "file": "876716.json",
+      "title": "مرحبا يا ألبرتو",
+      "fixed_at": "2026-08-21T03:32:44.428156"
+    },
+    {
+      "tmdb_id": "40096",
+      "file": "40096.json",
+      "title": "O Auto da Compadecida",
+      "fixed_at": "2026-08-21T03:32:54.933620"
+    },
+    {
+      "tmdb_id": "324552",
+      "file": "324552.json",
+      "title": "جون ويك: الفصل ٢",
+      "fixed_at": "2026-08-21T03:33:01.940965"
     }
   ],
-  "last_updated": "2026-08-21T02:22:41.145504",
-  "total_fixed": 1326
+  "last_updated": "2026-08-21T03:33:03.943651",
+  "total_fixed": 1332
 }
