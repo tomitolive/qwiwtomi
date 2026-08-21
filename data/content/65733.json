@@ -4,14 +4,12 @@
   "title_ar": "دورايمون",
   "title_en": "Doraemon",
   "slug": "65733-doraemon",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات ، وهو صبي كسول وغير منسق. يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه ، لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها.",
   "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
   "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
   "release_date": "2005-04-22",
-  "vote_average": 8,
-  "vote_count": 228,
+  "vote_average": 8.1,
+  "vote_count": 239,
   "genres": [
     {
       "id": 10759,
@@ -39,33 +37,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في القرن الثاني و العشرين، يتم إرسال القط الروبوتي دورايمون لإنقاذ نوبي البالغ من العمر 10 سنوات. دورايمون صبي كسول وغير منسق، لكنه يمكن أن يخلق أدوات سرية من جيب على بطنه. ومع ذلك، تسبب هذه الأدوات السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها.",
-    "desc_en": "In the 22nd century, the robotic cat Doraemon is sent to save Nobita, a 10-year-old boy. Doraemon is a lazy and disorganized boy, but he can create secret tools from a pocket on his back. However, these tools often cause more harm than good due to Nobita's tendency to misuse them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع دورايمون!",
-    "seo_title_ar": "مشاهدة فيلم دورايمون مترجم اون لاين - توميتو",
-    "keywords": "Doraemon, فيلم دورايمون مترجم, مشاهدة فيلم دورايمون, مشاهدة دورايمون 2005, توميتو دورايمون, أحداث دورايمون بالتفصيل, دورايمون مترجم كامل, قصة مسلسل دورايمون",
-    "opinion": "دورايمون سلسلة رسوم متحركة رائعة، تجمع بين المغامرة والكوميديا والخيال العلمي. لكن ما الذي يทำใหها فريدة؟ هو القدرة على التميز بين الخير والشر، والقدرة على التغلب على التحديات.",
+    "intro": "يحكي هذا المسلسل قصة دورايمون، القط الروبوتي الذي يتم إرساله من القرن الثاني والعشرين لحماية نوبي، صبياً يبلغ من العمر 10 سنوات وممتلئ بالطاقة، لكنه يفتقر للتنظيم.",
+    "desc_ar": "يحكي هذا المسلسل قصة دورايمون، القط الروبوتي الذي يتم إرساله من القرن الثاني والعشرين لحماية نوبي، صبياً يبلغ من العمر 10 سنوات وممتلئ بالطاقة، لكنه يفتقر للتنظيم. يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه، مما يتيح له إحداث تغييرات كبيرة في حياة نوبي، ولكنها عادة ما تسبب سوءاً أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها.",
+    "desc_en": "This series tells the story of Doraemon, a robotic cat who is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, which can change Noby's life dramatically, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "seo_title_ar": "مشاهدة مسلسل دورايمون مترجم - توميتو",
+    "meta_desc": "شاهد دورايمون مسلسل رسوم متحركة يجمع بين الحركة والمغامرة والخيال العلمي مع أطفال و عائلي، يتبع مسلسل دورايمون قصة دورايمون القط الروبوتي الذي يتم إرساليه",
+    "outro": "يعد دورايمون واحدًا من أكثر المسلسلات روعةً التي تجمع بين الحركة والمغامرة والخيال العلمي مع أطفال و عائلي، مما يجعلها تجربة مشاهدة رائعة.",
+    "opinion_ar": "يعد دورايمون واحدًا من أكثر المسلسلات روعةً التي تجمع بين الحركة والمغامرة والخيال العلمي مع أطفال و عائلي، مما يجعلها تجربة مشاهدة رائعة.",
+    "opinion_en": "Doraemon is one of the most exciting series that combines action, adventure, and science fiction with kids and family, making it a wonderful viewing experience.",
     "faq": [
       {
-        "q": "ما هو دورايمون؟",
-        "a": "دورايمون سلسلة رسوم متحركة رائعة، تجمع بين المغامرة والكوميديا والخيال العلمي."
+        "q": "ما هو دور دورايمون في المسلسل؟",
+        "a": "يتم إرسال دورايمون القط الروبوتي من القرن الثاني والعشرين لحماية نوبي، صبياً يبلغ من العمر 10 سنوات.",
+        "q_en": "What is the role of Doraemon in the series?",
+        "a_en": "Doraemon, the robotic cat, is sent back in time from the 22nd century to protect 10-year-old Noby."
       },
       {
-        "q": "ما هو هدف دورايمون؟",
-        "a": "هدف دورايمون هو إنقاذ نوبي البالغ من العمر 10 سنوات."
-      },
-      {
-        "q": "ما هو ميزة دورايمون؟",
-        "a": "ميزة دورايمون هي القدرة على التميز بين الخير والشر، والقدرة على التغلب على التحديات."
+        "q": "ما هي الميزات التي تجعل دورايمون مسلسلاً فريدًا؟",
+        "a": "يجمع دورايمون بين الحركة والمغامرة والخيال العلمي مع أطفال و عائلي، مما يجعلها تجربة مشاهدة رائعة.",
+        "q_en": "What are the features that make Doraemon a unique series?",
+        "a_en": "Doraemon combines action, adventure, and science fiction with kids and family, making it a wonderful viewing experience."
       }
-    ]
+    ],
+    "keywords": "دورايمون, مسلسل, رسوم متحركة, الحركة والمغامرة, الخيال العلمي, أطفال, عائلي, مشاهدة دورايمون, Doraemon مترجم, تحميل دورايمون, دورايمون اون لاين, Doraemon, دورايمون جودة عالية, فيلم دورايمون, Doraemon HD"
   },
   "fixed": true,
-  "first_air_date": "2005-04-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "93 دقيقة",
-  "language": "الإيطالية",
-  "country": "إيطاليا",
-  "cast": "Edwige Fenech Diego Abatantuono Liù Bosisio Mauro Di Francesco Enrico Maria Salerno"
+  "duration": "45 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Megumi Oohara Wasabi Mizuta Yumi Kakazu Tomokazu Seki Subaru Kimura Chiaki Kotono Mitsuishi Yasunori Matsumoto",
+  "first_air_date": "2005-04-22"
 }
