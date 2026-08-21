@@ -4,14 +4,12 @@
   "title_ar": "Goblin Slayer",
   "title_en": "Goblin Slayer",
   "slug": "82591-goblin-slayer",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "\"لستُ أنقذ العالم، أنا فقط أقتل العفاريت.\"  تقول الشائعات إن في نقابة ما في مكان ناءٍ، يوجد رجلٌ استثنائيٌّ ارتقى إلى رتبة الفضة بمجرد قتله للعفاريت. وفي النقابة نفسها، شكّلت كاهنةٌ حديثةُ العهد بالمغامرة فريقها الأول... والرجل الذي أنقذ هذا الفريق عندما وقعوا في مأزق ليس سوى قاتل العفاريت.",
   "poster_path": "/x8ZQyxAFjz9jtCGivbOMYUC4Tp3.jpg",
   "backdrop_path": "/65XyAN0PrUkkfqvGbFRLjk5x3wZ.jpg",
   "release_date": "2018-10-07",
-  "vote_average": 8,
-  "vote_count": 605,
+  "vote_average": 8.0,
+  "vote_count": 626,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالغoblins والوحوش، يأتي ريكس فلايدر، رجل من القوة والشجاعة، ليكون قائدًا لفرقة من المحاربين لقتال الغoblins. مع وصوله إلى القلعة، يكتشف ريكس أن الغoblins ليسوا فقط قتالًا، بل هم أيضًا قوةً كبيرةً في عالمه، ويبدأ رحلة ريكس في اكتشاف أسرار هذا العالم، وتحقيق حلمه في القتال ضد الغoblins.",
-    "desc_en": "In a world filled with goblins and monsters, Rikus Vlaider, a man of strength and courage, becomes the leader of a group of warriors to fight the goblins. Upon arriving at the castle, Rikus discovers that the goblins are not just a fight, but also a great power in his world, and Rikus' journey begins to uncover the secrets of this world and achieve his dream of fighting against the goblins.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رسوم متحركة Goblin Slayer!",
-    "seo_title_ar": "مشاهدة فيلم غoblin Slayer مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم رسوم متحركة, Goblin Slayer مترجم كامل, قصة مسلسل Goblin Slayer, توميتو Goblin Slayer, مشاهدة Goblin Slayer 2018, أحداث Goblin Slayer بالتفصيل",
-    "opinion": "فيلم غoblin Slayer هو فيلم رائع، مليء بالACTION والدراما، ويحوي أحداثاً إثارةً ومرحاً. يعتبر فيلم غoblin Slayer من أفضل الأفلام في نوعه.",
+    "intro": "يحكي مسلسل قاتل الغيلان قصة رجلٍ استثنائيٍّ يُلقب بـ \"قاتل الغيلان\"، حيث يجد نفسه في مواجهة للعديد من المخاطر والمغامرات في عالم مليء بالخيال والفانتازيا.",
+    "desc_ar": "يحكي مسلسل قاتل الغيلان قصة رجلٍ استثنائيٍّ يُلقب بـ \"قاتل الغيلان\"، حيث يجد نفسه في مواجهة للعديد من المخاطر والمغامرات في عالم مليء بالخيال والفانتازيا. يُعتبر هذا الرجل من أفضل قتاللي العفاريت في نقابة ما، حيث يجد نفسه في مواجهة للعديد من الأخطار والمخاطر التي يتعرض لها في كل مكان. من خلال قصة مسلسل قاتل الغيلان، نجد أنفسنا أمام رجلٍ استثنائيٍّ يجد نفسه في مواجهة للعديد من التحديات والمخاطر التي يتعرض لها في كل مكان.",
+    "desc_en": "I'm not saving the world. I just kill goblins. This is the story of a man known as the Goblin Slayer, who finds himself in a world filled with fantasy and adventure. He is a skilled goblin killer in a certain guild, and he faces many dangers and challenges in his daily life. Through the story of the Goblin Slayer, we find ourselves in the presence of an extraordinary man who faces many challenges and dangers in his daily life.",
+    "seo_title_ar": "مشاهدة مسلسل قاتل الغيلان مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل قاتل الغيلان مترجم - توميتو، قصة رجل استثنائي يلقب بـ قاتل الغيلان، حيث يجد نفسه في مواجهة للعديد من المخاطر والمغامرات في عالم",
+    "outro": "من خلال قصة مسلسل قاتل الغيلان، نجد أنفسنا أمام رجلٍ استثنائيٍّ يجد نفسه في مواجهة للعديد من التحديات والمخاطر التي يتعرض لها في كل مكان.",
+    "opinion_ar": "إنه مسلسل رائع يُظهر قوة الشخصية الرئيسية، حيث يجد نفسه في مواجهة للعديد من التحديات والمخاطر التي يتعرض لها في كل مكان. إنه مسلسل يُظهر قوة الشخصية الرئيسية، حيث يجد نفسه في مواجهة للعديد من التحديات والمخاطر التي يتعرض لها في كل مكان.",
+    "opinion_en": "It's a great anime that shows the strength of the main character, where he finds himself in a world filled with adventure and danger. It's a great anime that shows the strength of the main character, where he finds himself in a world filled with adventure and danger.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم غoblin Slayer؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هو قاتل الغيلان؟",
+        "a": "هو مسلسل رسوم متحركة يُظهر قصة رجلٍ استثنائيٍّ يُلقب بـ \"قاتل الغيلان\".",
+        "q_en": "What is Goblin Slayer?",
+        "a_en": "It is an anime that shows the story of an extraordinary man known as the Goblin Slayer."
       },
       {
-        "q": "ما هو موضوع فيلم غoblin Slayer؟",
-        "a": "يحوي فيلم غoblin Slayer قصة قتال ضد الغoblins"
-      },
-      {
-        "q": "ما هو نوع فيلم غoblin Slayer؟",
-        "a": "هو فيلم حركة ومغامرة"
+        "q": "ما هي النقابة التي يتعامل معها قاتل الغيلان؟",
+        "a": "هو يتعامل مع نقابة ما في مكان ما، حيث يجد نفسه في مواجهة للعديد من المخاطر والمغامرات.",
+        "q_en": "What is the guild that Goblin Slayer deals with?",
+        "a_en": "He deals with a certain guild in a certain place, where he finds himself in a world filled with adventure and danger."
       }
-    ]
+    ],
+    "keywords": "مسلسل قاتل الغيلان, رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, مشاهدة قاتل الغيلان, Goblin Slayer مترجم, تحميل قاتل الغيلان, قاتل الغيلان اون لاين, Goblin Slayer, قاتل الغيلان جودة عالية, فيلم قاتل الغيلان, Goblin Slayer HD, قاتل الغيلان HD, Goblin Slayer مشاهدة, قاتل الغيلان توب سينما"
   },
   "fixed": true,
-  "first_air_date": "2018-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Yuuichirou Umehara Yui Ogura Nao Toyama Yuka Iguchi Maaya Uchida Yuichi Nakamura Tomokazu Sugita Aya Endo",
+  "first_air_date": "2018-10-07"
 }

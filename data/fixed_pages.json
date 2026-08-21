@@ -8423,8 +8423,44 @@
       "file": "337339.json",
       "title": "مصير الغاضبين",
       "fixed_at": "2026-08-21T11:54:24.218944"
+    },
+    {
+      "tmdb_id": "1723013",
+      "file": "1723013.json",
+      "title": "Hibla 2",
+      "fixed_at": "2026-08-21T12:23:53.405464"
+    },
+    {
+      "tmdb_id": "52814",
+      "file": "52814.json",
+      "title": "هالو",
+      "fixed_at": "2026-08-21T12:24:01.216263"
+    },
+    {
+      "tmdb_id": "16807",
+      "file": "16807.json",
+      "title": "Jornal Nacional",
+      "fixed_at": "2026-08-21T12:24:11.925039"
+    },
+    {
+      "tmdb_id": "1986",
+      "file": "1986.json",
+      "title": "Va, vis et deviens",
+      "fixed_at": "2026-08-21T12:24:19.339331"
+    },
+    {
+      "tmdb_id": "52661",
+      "file": "52661.json",
+      "title": "Nayagi",
+      "fixed_at": "2026-08-21T12:24:28.824039"
+    },
+    {
+      "tmdb_id": "82591",
+      "file": "82591.json",
+      "title": "Goblin Slayer",
+      "fixed_at": "2026-08-21T12:24:40.484214"
     }
   ],
-  "last_updated": "2026-08-21T11:54:26.221870",
-  "total_fixed": 1404
+  "last_updated": "2026-08-21T12:24:42.487013",
+  "total_fixed": 1410
 }

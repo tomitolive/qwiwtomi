@@ -4,13 +4,11 @@
   "title_ar": "Nayagi",
   "title_en": "Nayagi",
   "slug": "52661-nayagi",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل ناياجي قصة شاب يجد نفسه وسط عاصفة حربيّة في الجزيرة الشرقيّة، ويتجول بين القوات المسلّحة ليعرف أنّ الحرب لا تحسم سوى النزاعات الدائمة بين القبائل وتنشر الفساد وعدم الاستقرار. يتّجه هذا الشاب نحو عالم الحرب ليتعرّف على أسبابها ونتائجها، ويتّصّف بهذه المعركة العميقة بين القبائل التي لا تريد إلاّ حكمها، بينما يغمره الشعور بالوحدة والشك ويتساءل عن أهمّية الحرب في حياته. خلال رحلته هذا، يتّصّف هذا الشاب بتجربته في الحرب ويتّضح له أنّ الحرب لا تحلّ سوى المشاكل، ويتّجه نحو السّلام والوئام",
   "poster_path": "/7nV1yxg3W49clBi4OeEzQzqPT7x.jpg",
   "backdrop_path": "/iNjuuL56s4sCaSJ3fhvva3qaKVk.jpg",
   "release_date": "2018-02-19",
-  "vote_average": 7,
+  "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
@@ -19,35 +17,36 @@
     }
   ],
   "ai_content": {
-    "intro": "ماذا يحدث عندما تقرر امرأة الثورة على تقاليد المجتمع وتكشف عن الحقائق المخفية؟",
-    "desc_ar": "في عالم من الغرور والكبرياء، يأتي ناياغي ليبيدل معالم من التاريخ والثقافة، ويقدم لنا قصة حقيقية عن حياة الفقراء والمرضى في المجتمع، ويبرز ما هو الأهم من النظرة إلى ما هو الأقل، ويقدم لنا رسالة مهمة عن أهمية الرحمة والتعايش بين البشر.",
-    "seo_title_ar": "مشاهدة فيلم ناياغي مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الدراما المثير في ناياغي - توميتو",
-    "outro": "إذا كنت تبحث عن قصة درامية مشوقة ومثيرة، فلا تفوت فرصة مشاهدة ناياجي",
-    "opinion": "ناياغي هو فيلم دراما رائع يأتي ليبيدل معالم من التاريخ والثقافة، ويقدم لنا قصة حقيقية عن حياة الفقراء والمرضى في المجتمع، ويبرز ما هو الأهم من النظرة إلى ما هو الأقل، ويقدم لنا رسالة مهمة عن أهمية الرحمة والتعايش بين البشر.",
+    "intro": "يتّصف مسلسل ناياجي بالدراما الحربيّة التي تتّسم بجدّية النصوص وعمق الحبكة.",
+    "desc_ar": "يحكي مسلسل ناياجي قصة شاب يجد نفسه وسط عاصفة حربيّة في الجزيرة الشرقيّة، ويتجول بين القوات المسلّحة ليعرف أنّ الحرب لا تحسم سوى النزاعات الدائمة بين القبائل وتنشر الفساد وعدم الاستقرار. يتّجه هذا الشاب نحو عالم الحرب ليتعرّف على أسبابها ونتائجها، ويتّصّف بهذه المعركة العميقة بين القبائل التي لا تريد إلاّ حكمها، بينما يغمره الشعور بالوحدة والشك ويتساءل عن أهمّية الحرب في حياته. خلال رحلته هذا، يتّصّف هذا الشاب بتجربته في الحرب ويتّضح له أنّ الحرب لا تحلّ سوى المشاكل، ويتّجه نحو السّلام والوئام",
+    "desc_en": "The series Nayagi tells the story of a young man who finds himself in the midst of a war in the eastern island, wandering between armed forces to learn that war only resolves permanent conflicts between tribes and spreads corruption and instability. He heads towards the war world to understand its causes and consequences, and is characterized by this deep conflict between tribes that do not want to rule, while being overwhelmed by feelings of loneliness and doubt, and wondering about the importance of war in his life. During his journey, he is characterized by his experience in war and it becomes clear to him that war only resolves problems, and he moves towards peace and reconciliation.",
+    "seo_title_ar": "مشاهدة مسلسل ناياجي مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل ناياجي مترجم - توميتو: دراما حربية تتسم بجدية النصوص وعمق الحبكة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إع",
+    "outro": "يتّوج مسلسل ناياجي بتوحيد القوّات المسلّحة والصلح بين القبائل، وتشير إلى أهمّية السلام والوئام في حياة الشعب.",
+    "opinion_ar": "يعد مسلسل ناياجي تجربة روائعة في تقديم دراما حربيّة معقدة وعميقة، ويتّسم بمعالجة مشاكل المجتمعات والقوّات المسلّحة في تلك المنطقة.",
+    "opinion_en": "The series Nayagi is a great experience in presenting a complex and deep war drama, and is characterized by dealing with the problems of communities and armed forces in that region.",
     "faq": [
       {
-        "q": "ما هو ناياغي؟",
-        "a": "ناياغي هو فيلم دراما رائع يأتي ليبيدل معالم من التاريخ والثقافة."
+        "q": "ما هو اسم المسلسل؟",
+        "a": "ناياجي",
+        "q_en": "What is the title of the series?",
+        "a_en": "Nayagi"
       },
       {
-        "q": "ما هو هدف فيلم ناياغي؟",
-        "a": "هدف فيلم ناياغي هو تقديم رسالة مهمة عن أهمية الرحمة والتعايش بين البشر."
-      },
-      {
-        "q": "ما هو نوع فيلم ناياغي؟",
-        "a": "ناياغي هو فيلم دراما مترجم اون لاين"
+        "q": "من هو المخرج؟",
+        "a": "المخرج غير معروف",
+        "q_en": "Who is the director?",
+        "a_en": "The director is unknown"
       }
     ],
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم دراما, توميتو Nayagi, Nayagi مترجم كامل, أحداث Nayagi بالتفصيل, قصة مسلسل Nayagi, مشاهدة Nayagi 2018",
-    "desc_en": "In a world of pride and arrogance, Nayagi comes to shatter the walls of history and culture, and presents a real story about the lives of the poor and the sick in society, highlighting what is most important and what is least important, and delivers an important message about the importance of mercy and coexistence among humans."
+    "keywords": "ناياجي, مسلسل, دراما, حرب, جزيرة, شرق, قوات مسلحة, فساد, Instability, سلم, سلام, سلم ووئام, مشاهدة ناياجي, Nayagi مترجم, تحميل ناياجي"
   },
   "fixed": true,
-  "first_air_date": "2018-02-19",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "98 دقيقة",
+  "duration": "19 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Richard Harris Edmond O'Brien Bradford Dillman Ann Turkel Constance Ford"
+  "country": "الهند",
+  "cast": "Vidhya Pradeep Dhilip Rayan Papri Ghosh Vetrivel Nakshathra Nagesh",
+  "first_air_date": "2018-02-19"
 }
