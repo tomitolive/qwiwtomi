@@ -8723,8 +8723,32 @@
       "file": "1159831.json",
       "title": "The Bride!",
       "fixed_at": "2026-08-21T18:30:19.243962"
+    },
+    {
+      "tmdb_id": "453",
+      "file": "453.json",
+      "title": "عقل جميل",
+      "fixed_at": "2026-08-21T19:10:11.603410"
+    },
+    {
+      "tmdb_id": "9410",
+      "file": "9410.json",
+      "title": "باسيليسك",
+      "fixed_at": "2026-08-21T19:10:19.589290"
+    },
+    {
+      "tmdb_id": "256694",
+      "file": "256694.json",
+      "title": "Adventure Time: Side Quests",
+      "fixed_at": "2026-08-21T19:10:27.746360"
+    },
+    {
+      "tmdb_id": "181808",
+      "file": "181808.json",
+      "title": "Star Wars: The Last Jedi",
+      "fixed_at": "2026-08-21T19:10:55.819772"
     }
   ],
-  "last_updated": "2026-08-21T18:30:21.246594",
-  "total_fixed": 1454
+  "last_updated": "2026-08-21T19:10:57.822710",
+  "total_fixed": 1458
 }

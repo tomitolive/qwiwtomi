@@ -1,57 +1,45 @@
 {
   "id": 256694,
-  "title": "Adventure Time: Side Quests",
-  "title_ar": "Adventure Time: Side Quests",
-  "title_en": "Adventure Time: Side Quests",
-  "slug": "256694-adventure-time-side-quests",
-  "overview": "تابع مغامرات البطل الشاب فين وكلبة السحري جيك في أرض أوو الخيالية في مسلسل \"وقت المغامرة: المهام الجانبية\"، حيث يخوضان مغامرات شيقة ويواجهان الأشرار في كل حلقة. استمتع بمشاهدة هذا المسلسل الممتع والمليء بالتشويق.",
+  "title": "El diario de Agustn",
+  "title_ar": "El diario de Agustn",
+  "title_en": "Agustins Newspaper",
+  "slug": "256694-agustins-newspaper",
+  "overview": "يحكي فيلم \"El Agustn\" قصة العائلة الشيليّة Edwards التي كانت تستخدم صحيفة \"El Mercurio\" لتكفيّف أعمالها السّياسيّة وتغطية انتهاكات حقوق الإنسان في عهد ديكتاتور تشيليّ بيونجر. في هذه القصة، يظهر دور العائلة في تغطية أحداث الديكتاتوريّة وتحديدها. يسلّط الفيلم الضوء على العلاقة بين العائلة والسلطة، ويتناول أهمّية الصحافة في تغطية أحداث تاريخيّة.",
   "poster_path": "/tDAObAvUx2tw4ZM6ohqo06pqQyW.jpg",
-  "backdrop_path": "/t340OwPGWrAftuGwfcekWJeqpKk.jpg",
-  "release_date": "2026-06-29",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": "/bxSjc2lOtDyhLE0F6Qehyi8mNXl.jpg",
+  "release_date": "2008-01-01",
+  "vote_average": 7.3,
+  "vote_count": 3,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Adventure Time: Side Quests (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تابع مغامرات البطل الشاب فين وكلبة السحري جيك في أرض أوو الخيالية في مسلسل \"وقت المغامرة: المهام الجانبية\"، حيث يخوضان مغامرات شيقة ويواجهان الأشرار في كل حلقة. استمتع بمشاهدة هذا المسلسل الممتع والمليء بالتشويق.",
-    "desc_en": "Join Finn and Jake on their adventures in the magical land of Ooo in \"Adventure Time: Side Quests\". This animated series follows their exciting journeys and battles against evil, offering a fun and action-packed watch.",
-    "seo_title_ar": "مشاهدة مسلسل وقت المغامرة: المهام الجانبية - توميتو",
-    "meta_desc": "شاهد وقت المغامرة: المهام الجانبية، مسلسل رسوم متحركة ممتع ومليء بالمغامرات، حيث يخوض فين وجيك مغامرات شيقة في أرض أوو الخيالية.",
-    "outro": "شاهد Adventure Time: Side Quests الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"وقت المغامرة: المهام الجانبية\" يقدم مزيجًا رائعًا من المغامرة والخيال، ويحمل رسائل إيجابية للأطفال والكبار على حد سواء.",
-    "opinion_en": "\"Adventure Time: Side Quests\" is a fantastic blend of adventure and fantasy, with a positive message that resonates with both kids and adults.",
+    "intro": "يحكي فيلم \"El diario de Agustn\" قصة العائلة الشيليّة Edwards التي كانت تستخدم صحيفة \"El Mercurio\" لتكفيّف أعمالها السّياسيّة وتغطية انتهاكات حقوق الإنسان في عهد ديكتاتور تشيليّ بيونجر.",
+    "desc_ar": "يحكي فيلم \"El Agustn\" قصة العائلة الشيليّة Edwards التي كانت تستخدم صحيفة \"El Mercurio\" لتكفيّف أعمالها السّياسيّة وتغطية انتهاكات حقوق الإنسان في عهد ديكتاتور تشيليّ بيونجر. في هذه القصة، يظهر دور العائلة في تغطية أحداث الديكتاتوريّة وتحديدها. يسلّط الفيلم الضوء على العلاقة بين العائلة والسلطة، ويتناول أهمّية الصحافة في تغطية أحداث تاريخيّة.",
+    "desc_en": "Agustins Newspaper is an expos of the CIA-financed efforts of the Edwards family of Chile to cover up the human rights abuses of the Pinochet dictatorship through its newspaper 'El Mercurio'. The film explores the family's role in shaping public opinion and the importance of journalism in exposing historical events. By examining the complex relationship between the family and the state, the film sheds light on the power dynamics at play.",
+    "seo_title_ar": "مشاهدة فيلم El Agustn مترجم - توميتو",
+    "meta_desc": "Agustins Newspaper, فيلم وثائقي عن العلاقة بين العائلة والسلطة في عهد ديكتاتور تشيلي بيونجر, يستعرض دور العائلة في تغطية أحداث الديكتاتورية وتحديدها, وا",
+    "outro": "يعد فيلم \"El diario de Agustn\" تجربة فنيّة ممتعة وملهمة، حيث يسلّط الفيلم الضوء على أهمّية الصحافة في تغطية أحداث تاريخيّة.",
+    "opinion_ar": "يعد فيلم \"El Agustn\" تجربة فنيّة ممتعة وملهمة، حيث يسلّط الفيلم الضوء على أهمّية الصحافة في تغطية أحداث تاريخيّة.",
+    "opinion_en": "Agustins Newspaper is a thought-provoking film that sheds light on the importance of journalism in exposing historical events. The film's exploration of the complex relationship between the family and the state is both engaging and informative.",
     "faq": [
       {
-        "q": "هل مسلسل وقت المغامرة: المهام الجانبية مناسب للأطفال؟",
-        "a": "نعم، المسلسل مناسب للأطفال، فهو يقدم مغامرات شيقة برسومات جذابة وأفكار إيجابية.",
-        "q_en": "Is Adventure Time: Side Quests suitable for kids?",
-        "a_en": "Absolutely! The series is kid-friendly, offering exciting adventures with appealing visuals and positive themes."
+        "q": "ما هو دور العائلة في تغطية أحداث الديكتاتوريّة في فيلم \"El Agustn\"؟",
+        "a": "تستخدم العائلة صحيفة \"El Mercurio\" لتكفيّف أعمالها السّياسيّة وتغطية انتهاكات حقوق الإنسان في عهد ديكتاتور تشيليّ بيونجر.",
+        "q_en": "What is the role of the family in covering up the human rights abuses of the Pinochet dictatorship in Agustins Newspaper?",
+        "a_en": "The family uses its newspaper 'El Mercurio' to cover up its political activities and human rights abuses during the Pinochet dictatorship."
       }
     ],
-    "keywords": "وقت المغامرة, المهام الجانبية, Adventure Time, رسوم متحركة, حركة, مغامرة, خيال علمي, فانتازيا, فين, جيك, أرض أوو"
+    "keywords": "فيلم وثائقي, العلاقة بين العائلة والسلطة, ديكتاتور تشيلي بيونجر, الصحافة والتغذية, حقوق الإنسان, إستخدام الصحافة لتغطية أحداث الديكتاتورية, مشاهدة El Agustn, Agustins Newspaper مترجم, تحميل El Agustn, El Agustn اون لاين, Agustins Newspaper, El Agustn جودة عالية, فيلم El Agustn, Agustins Newspaper HD, El Agustn HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "John DiMaggio Sasha Knight Tom Kenny Hynden Walch Olivia Olson Niki Yang",
-  "first_air_date": "2026-06-29",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "80 دقيقة",
+  "language": "الإسبانية",
+  "country": "تشيلي",
+  "cast": ""
 }
