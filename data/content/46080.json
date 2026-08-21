@@ -4,14 +4,12 @@
   "title_ar": "ماشا و الدب",
   "title_en": "Masha and the Bear",
   "slug": "46080-masha-and-the-bear",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتحدث المسلسل عن بنت صغيرة تدعى ماشا تعيش مع دب و تسميه سيد الدب يخوضون مغامرات رائعة ومواقف مضحكة، ويشاركهم أحيانا السيد أرنوب ويتألف المسلسل من 52 حلقة.",
   "poster_path": "/wPkeRunw71Mm10xQYKAwGG0NLgt.jpg",
   "backdrop_path": "/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
   "release_date": "2009-01-07",
   "vote_average": 6.8,
-  "vote_count": 415,
+  "vote_count": 420,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يتعقب ماشا و الدب مغامرات رائعة في الغابة، حيث يلتقيان بالسيد أرنوب الذي يأتي لزيارة سيد الدب، ويشاركهم في مغامراتهم المليئة بالمرح والفكاهة، ويتميز المسلسل بالرسوم المتحركة الجميلة والقصص الممتعة.",
-    "desc_en": "Masha and the Bear follows the adventures of a young girl named Masha who lives with a bear, whom she calls Sir Bear, as they embark on exciting and humorous journeys, often accompanied by Sir Rabbit, and characterized by beautiful animation and engaging stories.",
-    "meta_desc": "واش غيفلت؟ اكتشف مغامرات ماشا و الدب في الغابة!",
-    "seo_title_ar": "مشاهدة فيلم ماشا و الدب مترجم اون لاين - توميتو",
-    "keywords": "Masha and the Bear, فيلم رسوم متحركة, مشاهدة فيلم عائلي, فيلم أطفال, فيلم كوميديا, توميتو ماشا و الدب, ماشا و الدب مترجم كامل, مشاهدة ماشا و الدب 2009, قصة مسلسل ماشا و الدب, أحداث ماشا و الدب بالتفصيل",
-    "opinion": "هو المسلسل الذي يخلق جوً من المرح والفكاهة، ويحول الغابة إلى عالم من المغامرات والمرح، ويستحق المتابعة!",
+    "intro": "يحكي مسلسل ماشا و الدب قصة طفلة صغيرة تعيش مع دب كبير يُعرف باسم سيد الدب، ويحاولان من خلال مغامرات رائعة ومواقف مضحكة أن يحظران بعض الأوقات بالفرح والمرح.",
+    "desc_ar": "يحكي مسلسل ماشا و الدب قصة طفلة صغيرة اسمها ماشا التي تعيش مع دب كبير يُعرف باسم سيد الدب، ويحاولان من خلال مغامرات رائعة ومواقف مضحكة أن يحظران بعض الأوقات بالفرح والمرح، ويتنقلون بين العديد من الأماكن المثيرة والممتعة، ويشاركهم أحياناً الأصدقاء المقربون منهم، ويحاولون من خلال هذه المغامرات أن يتعلما من الأخطاء ويحققا الأهداف الصحيحة، ويحظران بالعديد من التجارب الصعبة والمثيرة التي تزيد من قدرتهم على التعامل مع الحياة.",
+    "desc_en": "Masha is an energetic three-year-old who cant seem to keep herself out of trouble. Bear is a warm, fatherly figure that does his best to guide his friend and keep her from harm, often ending up the unintended victim of her misadventures. Through their exciting adventures and hilarious situations, Masha and the Bear learn valuable lessons and achieve their goals, while also facing many challenging and exciting experiences that help them develop their problem-solving skills and learn to navigate the world around them.",
+    "seo_title_ar": "مشاهدة مسلسل ماشا و الدب مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل ماشا و الدب مترجم - توميتو, مسلسل رسوم متحركة عائلي كوميديا للمراهنين استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات م",
+    "outro": "ويجذبنا هذا المسلسل بمغامراته الرائعة ومواقفه المضحكة التي تجعلنا نتعلم من الأخطاء ويحققنا الأهداف الصحيحة.",
+    "opinion_ar": "من خلال مشاهدة مسلسل ماشا و الدب، يمكننا أن نتعلم العديد من الحقائق المثيرة والممتعة عن حياة الطفلة ماشا وصداقتها الدب الكبير، ويجذبنا هذا المسلسل بمغامراته الرائعة ومواقفه المضحكة التي تجعلنا نتعلم من الأخطاء ويحققنا الأهداف الصحيحة.",
+    "opinion_en": "Watching Masha and the Bear is a great way to learn about the exciting and entertaining life of the little girl Masha and her friendship with the big bear, and this show attracts us with its wonderful adventures and hilarious situations that teach us valuable lessons and help us achieve our goals.",
     "faq": [
       {
-        "q": "ما هو نوع ماشا و الدب؟",
-        "a": "هو مسلسل رسوم متحركة عائلي"
-      },
-      {
-        "q": "ما هو عدد حلقات ماشا و الدب؟",
-        "a": "يتألف المسلسل من 52 حلقة"
-      },
-      {
-        "q": "ما هو نوع المغامرات في ماشا و الدب؟",
-        "a": "يتميز المسلسل بالمرح والفكاهة وال مغامرات المليئة"
+        "q": "متى صدر مسلسل ماشا و الدب؟",
+        "a": "صدر مسلسل ماشا و الدب في عام 2009.",
+        "q_en": "When was Masha and the Bear released?",
+        "a_en": "Masha and the Bear was released in 2009."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, عائلي, أطفال, كوميديا, ماشا و الدب, مسلسل, مشاهدة ماشا و الدب, Masha Bear مترجم, تحميل ماشا و الدب, ماشا و الدب اون لاين, Masha Bear, ماشا و الدب جودة عالية, فيلم ماشا و الدب, Masha Bear HD, ماشا و الدب HD"
   },
   "fixed": true,
-  "first_air_date": "2009-01-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "7 دقيقة",
+  "language": "الروسية",
+  "country": "روسيا",
+  "cast": "Boris Kutnevich",
+  "first_air_date": "2009-01-07"
 }
