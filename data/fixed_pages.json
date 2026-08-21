@@ -8027,8 +8027,44 @@
       "file": "206679.json",
       "title": "Na lovu",
       "fixed_at": "2026-08-21T04:13:33.774948"
+    },
+    {
+      "tmdb_id": "71694",
+      "file": "71694.json",
+      "title": "Snowfall",
+      "fixed_at": "2026-08-21T05:06:06.195823"
+    },
+    {
+      "tmdb_id": "59",
+      "file": "59.json",
+      "title": "A History of Violence",
+      "fixed_at": "2026-08-21T05:06:12.755151"
+    },
+    {
+      "tmdb_id": "1242898",
+      "file": "1242898.json",
+      "title": "المفترس: الأراضي القاحلة",
+      "fixed_at": "2026-08-21T05:06:20.619350"
+    },
+    {
+      "tmdb_id": "1010755",
+      "file": "1010755.json",
+      "title": "The Strangers: Chapter 3",
+      "fixed_at": "2026-08-21T05:06:27.567854"
+    },
+    {
+      "tmdb_id": "243117",
+      "file": "243117.json",
+      "title": "Plus belle la vie, encore plus belle",
+      "fixed_at": "2026-08-21T05:06:35.500021"
+    },
+    {
+      "tmdb_id": "9880",
+      "file": "9880.json",
+      "title": "مذكرات الأميرة",
+      "fixed_at": "2026-08-21T05:07:04.217620"
     }
   ],
-  "last_updated": "2026-08-21T04:13:35.777633",
-  "total_fixed": 1338
+  "last_updated": "2026-08-21T05:07:06.220429",
+  "total_fixed": 1344
 }

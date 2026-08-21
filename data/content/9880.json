@@ -4,14 +4,12 @@
   "title_ar": "مذكرات الأميرة",
   "title_en": "The Princess Diaries",
   "slug": "9880-the-princess-diaries",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "(ميا) فتاة في الخامسة عشر من عمرها تهوى الرسم، وينعتها زملاؤها بغريبة الأطوار نظراً لخجلها وارتباكها، تفاجأ بأن جدتها لأبيها تطلبها كي تراها، وتعلم إنها حفيدة ملكة مملكة تدعى (جينوفيا)، تشعر بالرهبة من البروتوكولات الملكية، وتدريبات خطاب التتويج وتقرر التخلي عن اللقب، لكن رسالة من والدها الراحل تغير الأمر برمته.",
   "poster_path": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
-  "backdrop_path": "/d44RH1S9h1iQfhwsX9IX4zxhzjQ.jpg",
+  "backdrop_path": "/ktPixrzD9Rbet7Co4uUWxyR9191.jpg",
   "release_date": "2001-08-03",
-  "vote_average": 7,
-  "vote_count": 5264,
+  "vote_average": 7.0,
+  "vote_count": 5333,
   "genres": [
     {
       "id": 35,
@@ -27,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الملكية، تكتشف ميا، فتاة في الخامسة عشر من عمرها، أن جدتها لأبيها تطلبها كي تراها، وتعلم إنها حفيدة ملكة مملكة تدعى (جينوفيا). تتعامل ميا مع البروتوكولات الملكية، وتدريبات خطاب التتويج، وتقرر التخلي عن اللقب، لكن رسالة من والدها الراحل تغير الأمر برمته.",
-    "desc_en": "In the world of royalty, 15-year-old Mia discovers that her grandmother, the queen of Genovia, has summoned her. As Mia navigates the royal protocols and coronation preparations, she decides to give up her royal title, but a letter from her late father changes everything.",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في مذكرات الأميرة)",
-    "seo_title_ar": "مشاهدة فيلم مذكرات الأميرة مترجم اون لاين - توميتو",
-    "keywords": "The Princess Diaries, فيلم كوميديا مترجم, مشاهدة فيلم عائلي مترجم, فيلم رومنسية مترجم, قصة فيلم مذكرات الأميرة, مشاهدة مذكرات الأميرة 2001, توميتو مذكرات الأميرة, مذكرات الأميرة مترجم, أحداث مذكرات الأميرة بالتفصيل",
-    "opinion": "هذه المرة، نرى ميا، الفتاة الصغيرة، تتعامل مع الواقع الملكي، وتعلم أن الملكية ليست كل شيء، ولكنها أيضاً تكتشف قيمها الخاصة، وتعيش تجربة رائعة في مذكرات الأميرة",
+    "intro": "يحكي هذا العمل قصة فتاة شابة، تعيش في سان فرانسيسكو مع والدتها، وتتميز بغريبة الأطوار والخجل، لكنها سرعان ما تكتشف أنها أميرة في مملكة تدعى جينوفيا.",
+    "desc_ar": "يحكي فيلم مذكرات الأميرة قصة فتاة شابة، تعيش في سان فرانسيسكو مع والدتها، وتتميز بغريبة الأطوار والخجل، لكنها سرعان ما تكتشف أنها أميرة في مملكة تدعى جينوفيا، بسبب وفاة والدها، الذي كان الأمير على العرش، وتحديداً بعد أن كان غائبًا لسنوات طويلة، وتريد الأميرة أن تنجح في مهمتها، وتستغرق الوقت الذي تحتاجه لتعلم الإجراءات الملكية وتتخطى خوفها وتعقداتها.",
+    "desc_en": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne.",
+    "seo_title_ar": "مشاهدة فيلم مذكرات الأميرة مترجم - توميتو",
+    "meta_desc": "مشاهدة فيلم مذكرات الأميرة مترجم يوتيوب, The Princess Diaries مترجم, كوميديا, عائلي, رومنسية, فيلم 2001, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احتراف",
+    "outro": "يُعتبر فيلم مذكرات الأميرة من أكثر الأفلام روعة في العام 2001، حيث يُظهر بطلته الشابة أسلوبًا فريدًا في التعامل مع الأمراض الاجتماعية، ويُشدد على أهمية التعلم من الخيال.",
+    "opinion_ar": "يُعتبر فيلم مذكرات الأميرة من أكثر الأفلام روعة في العام 2001، حيث يُظهر بطلته الشابة أسلوبًا فريدًا في التعامل مع الأمراض الاجتماعية، ويُشدد على أهمية التعلم من الخيال.",
+    "opinion_en": "The Princess Diaries is one of the most iconic films of 2001, showcasing its lead character's unique approach to social awkwardness, and highlighting the importance of learning from imagination.",
     "faq": [
       {
-        "q": "ما هو فيلم مذكرات الأميرة؟",
-        "a": "هو فيلم كوميديا عائلي رومنسية يروي قصة فتاة في الخامسة عشر من عمرها التي تكتشف أنها حفيدة ملكة مملكة"
+        "q": "ما هو عنوان الفيلم باللغة العربية؟",
+        "a": "مذكرات الأميرة",
+        "q_en": "What is the title of the film in English?",
+        "a_en": "The Princess Diaries"
       },
       {
-        "q": "ما هو نوع فيلم مذكرات الأميرة؟",
-        "a": "هو فيلم كوميديا عائلي رومنسية"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه فيلم مذكرات الأميرة؟",
-        "a": "يحدث فيه مملكة جينوفيا"
+        "q": "ما هي أسماء الفيلم باللغة العربية؟",
+        "a": "مذكرات الأميرة, فيلم, كوميديا, عائلي, رومنسية",
+        "q_en": "What are the names of the film in English?",
+        "a_en": "The Princess Diaries, film, Comedy, Family, Romance"
       }
-    ]
+    ],
+    "keywords": "فيلم مذكرات الأميرة, The Princess Diaries, كوميديا, عائلي, رومنسية, فيلم 2001, جينوفيا, أميرة, ملكة, جودي دنش, آنا فرنك, فيلم أمريكي, مترجم, بدون إعلانات., مشاهدة مذكرات الأميرة"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +55,5 @@
   "duration": "115 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Anne Hathaway Julie Andrews Heather Matarazzo Caroline Goodall Héctor Elizondo"
+  "cast": "Anne Hathaway Julie Andrews Heather Matarazzo Caroline Goodall Héctor Elizondo Robert Schwartzman Erik von Detten Patrick John Flueger"
 }
