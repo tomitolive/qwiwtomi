@@ -9,7 +9,7 @@
   "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
   "release_date": "2011-09-28",
   "vote_average": 7.1,
-  "vote_count": 9124,
+  "vote_count": 9457,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الحلبة، حيث الروبوتات أصبحت السائبة، تشارلي كينتون، مقاتل متعثر، يتعاون مع ابنه المنفصل لإنشاء منافس غير متوقع، في رحلة مليئة بالتension والتشويق.",
-    "desc_en": "In a world where robots have become the norm, Charlie Kenton, a former boxer, teams up with his estranged son to build an unexpected competitor, in a thrilling journey filled with tension and suspense.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم حركة خيال علمي دراما «ريل ستيل» على توميتو!",
-    "seo_title_ar": "مشاهدة فيلم ريل ستيل مترجم اون لاين - توميتو",
-    "keywords": "فيلم ريل ستيل مترجم, مشاهدة فيلم ريل ستيل, توميتو Real Steel, Real Steel مترجم, أحداث Real Steel بالتفصيل, مشاهدة Real Steel 2011, قصة فيلم Real Steel",
-    "opinion": "في «ريل ستيل»، نرى كيف يمكن للروبوتات أن تتحول إلى منافسين غير متوقعين، ولكن ما هو الحال عندما يلزمك أن تتعاون مع ابنك المنفصل لإنشاء منافس جديد؟",
+    "intro": "يتناول هذا العمل قصة تشارلي كينتون، المقاتل المتعثر الذي يتعاون مع ابنه المنفصل على إعادة بناء وتدريب منافس غير متوقع في عالم المقاتلة الروبوتية.",
+    "desc_ar": "يتناول هذا العمل قصة تشارلي كينتون، مقاتل محترف تقاعد من الحلبة بعد استيلاء الروبوتات على هذه الرياضة. بعد أن تم تدمير روبوته، يلتقي تشارلي على مضض مع ابنه المنفصل، وهو شخص لم يلتق به منذ فترة طويلة. يتعاون الاثنان على إعادة بناء وتدريب منافس غير متوقع، وهو روبوت قد يغير مجريات هذه الرياضة. مع هذا المشروع، يتعلم تشارلي كيفية إعادة تأهيل نفسه ويعود إلى عالم المقاتلة. في هذه الرحلة، يكتشف تشارلي الأهمية الحقيقية للابن والروبوت في حياته.",
+    "desc_en": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender. Together, they work on reviving a robot that could change the course of this sport. As they navigate this project, Charlie learns to rekindle his passion for fighting and find his place in the world again. Through this journey, Charlie discovers the true value of his son and the robot in his life.",
+    "seo_title_ar": "مشاهدة فيلم Real Steel مترجم - فيلم حركة وخيال علمي ودراما",
+    "meta_desc": "استمتع بمشاهدة فيلم Real Steel عام 2011، وهو فيلم حركة وخيال علمي ودراما يتبع قصة تشارلي كينتون، المقاتل المتعثر الذي يتعاون مع ابنه المنفصل على إعادة بناء",
+    "outro": "يتميز هذا العمل بمواضيع متعددة، من أهمية العلاقات إلى روح الرياضية والتحول الشخصي. يعبر هذا العمل عن القيم الإنسانية التي تجعل الحياة غنية ومليئة بالتحديات والمواقف التي يتعلم منها المرء الكثير.",
+    "opinion_ar": "يعتبر هذا العمل تجربة رائعة للنظر في عالم المقاتلة الروبوتية، حيث يتعلم المرء الكثير عن أهمية العلاقات والروح الرياضية. من خلال قصة تشارلي كينتون، يجد المرء نفسه يتعاطف مع بطل هذا العمل ويصادف معه في رحلة التحول.",
+    "opinion_en": "This film is a great experience for those interested in the world of robot boxing, where one can learn a lot about the importance of relationships and sportsmanship. Through the story of Charlie Kenton, one finds themselves empathizing with the protagonist and accompanying him on a journey of transformation.",
     "faq": [
       {
-        "q": "ما هو فيلم ريل ستيل؟",
-        "a": "فيلم ريل ستيل هو فيلم حركة خيال علمي دراما يروي قصة تشارلي كينتون، مقاتل متعثر، والابن المنفصل"
+        "q": "ما هو موضوع هذا العمل؟",
+        "a": "يتناول هذا العمل قصة تشارلي كينتون، المقاتل المتعثر الذي يتعاون مع ابنه المنفصل على إعادة بناء وتدريب منافس غير متوقع.",
+        "q_en": "What is the subject of this film?",
+        "a_en": "The film follows the story of Charlie Kenton, a washed-up fighter who teams up with his estranged son to rebuild and train an unlikely contender."
       },
       {
-        "q": "ما هو نوع فيلم ريل ستيل؟",
-        "a": "فيلم ريل ستيل هو فيلم حركة خيال علمي دراما"
+        "q": "ما هي المدة الزمنية لظهور هذا العمل؟",
+        "a": "ظهر هذا العمل عام 2011.",
+        "q_en": "When was this film released?",
+        "a_en": "The film was released in 2011."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه فيلم ريل ستيل؟",
-        "a": "يحدث فيلم ريل ستيل في عالم الحلبة"
+        "q": "ما هي أبرز عناصر هذا العمل؟",
+        "a": "يتناول هذا العمل قصة تشارلي كينتون، المقاتل المتعثر، والروبوت الذي يتعاون مع ابنه المنفصل على تدريبه.",
+        "q_en": "What are the main elements of this film?",
+        "a_en": "The film follows the story of Charlie Kenton, a washed-up fighter, and the robot that he and his estranged son work on training."
       }
-    ]
+    ],
+    "keywords": "فيلم Real Steel, فيلم حركة, فيلم خيال علمي, فيلم دراما, تشارلي كينتون, روبوت المقاتلة, عالم الرياضة, قصة البطولة, أهمية العلاقات, روح الرياضية, التحول الشخصي, مشاهدة Real Steel, Real Steel مترجم, تحميل Real Steel, Real Steel اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "127 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Hugh Jackman Dakota Goyo Evangeline Lilly Kevin Durand Anthony Mackie"
+  "cast": "Hugh Jackman Dakota Goyo Evangeline Lilly Kevin Durand Anthony Mackie Hope Davis James Rebhorn Karl Yune"
 }

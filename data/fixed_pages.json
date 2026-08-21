@@ -7919,8 +7919,44 @@
       "file": "1426776.json",
       "title": "القشة الأخيرة",
       "fixed_at": "2026-08-21T00:36:49.160105"
+    },
+    {
+      "tmdb_id": "14955",
+      "file": "14955.json",
+      "title": "Point of View",
+      "fixed_at": "2026-08-21T02:20:39.808335"
+    },
+    {
+      "tmdb_id": "9739",
+      "file": "9739.json",
+      "title": "Demolition Man",
+      "fixed_at": "2026-08-21T02:20:50.260783"
+    },
+    {
+      "tmdb_id": "39254",
+      "file": "39254.json",
+      "title": "Real Steel",
+      "fixed_at": "2026-08-21T02:21:05.476567"
+    },
+    {
+      "tmdb_id": "66379",
+      "file": "66379.json",
+      "title": "Radio Disney Music Awards",
+      "fixed_at": "2026-08-21T02:22:07.335872"
+    },
+    {
+      "tmdb_id": "661374",
+      "file": "661374.json",
+      "title": "غلاس أونيون: أخرجوا السكاكين",
+      "fixed_at": "2026-08-21T02:22:16.495945"
+    },
+    {
+      "tmdb_id": "62835",
+      "file": "62835.json",
+      "title": "Colombiana",
+      "fixed_at": "2026-08-21T02:22:30.920427"
     }
   ],
-  "last_updated": "2026-08-21T00:36:51.162885",
-  "total_fixed": 1320
+  "last_updated": "2026-08-21T02:22:41.145504",
+  "total_fixed": 1326
 }
