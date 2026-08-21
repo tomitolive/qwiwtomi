@@ -1,53 +1,45 @@
 {
   "id": 14981,
-  "title": "The Late Late Show with Craig Ferguson",
-  "title_ar": "The Late Late Show with Craig Ferguson",
-  "title_en": "The Late Late Show with Craig Ferguson",
-  "slug": "14981-the-late-late-show-with-craig-ferguson",
-  "overview": "يعد \"العرض المتأخر مع كريج فيرجسون\" برنامج حوار كوميدي أمريكي، يستضيفه الممثل الكوميدي الأمريكي الأسكتلندي كريج فيرجسون، وهو ثالث مقدم منتظم لبرنامج \"The Late Late Show\"، حيث يلي برنامج \"Late Show  David Letterman\" في قائمة برامج CBS الليلية المتأخرة، ويعرض في أيام الأسبوع في الولايات المتحدة في تمام الساعة 12:37 صباحًا. يتم تسجيله أمام جمهور استوديو مباشر من الاثنين إلى الجمعة في مدينة تلفزيون CBS في لوس أنجلوس، كاليفورنيا، فوق استوديو بوب باركر مباشرةً. ينتجه شركة الإنتاج الخاصة بديفيد ليترمان، Worldwide Pants Incorporated، وCBS Television Studios.",
+  "title": "Welcome to Macintosh",
+  "title_ar": "Welcome to Macintosh",
+  "title_en": "Welcome to Macintosh",
+  "slug": "14981-welcome-to-macintosh",
+  "overview": "يحكي هذا العمل الوثائقي قصة شركة آبل منذ بداية تأسيسها، من أول جهاز كمبيوتر يصدرتُه وهي آبل-أي، إلى أحدث التطورات التي وقعت في الشركة. يتعرض العمل للفكر النقدي حول تأثيرات آبل في العالم، من خلال استكشاف تاريخ الشركة وتطوراتها في عالم التكنولوجيا. يعد هذا العمل الوثائقي فرصة لاستكشاف عالم آبل وتعرف على كيفية تأثيراتها على حياتنا.",
   "poster_path": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
-  "backdrop_path": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
-  "release_date": "2005-01-03",
-  "vote_average": 6.8,
-  "vote_count": 118,
+  "backdrop_path": "/yanne6sYcEf2lpahhX8Plt5ROZF.jpg",
+  "release_date": "2008-04-06",
+  "vote_average": 5.6,
+  "vote_count": 24,
   "genres": [
     {
-      "id": 35,
-      "name": "كوميديا"
-    },
-    {
-      "id": 10767,
-      "name": "حوار"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Late Late Show with Craig Ferguson (2005) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يعد \"العرض المتأخر مع كريج فيرجسون\" برنامج حوار كوميدي أمريكي، يستضيفه الممثل الكوميدي الأمريكي الأسكتلندي كريج فيرجسون، وهو ثالث مقدم منتظم لبرنامج \"The Late Late Show\"، حيث يلي برنامج \"Late Show  David Letterman\" في قائمة برامج CBS الليلية المتأخرة، ويعرض في أيام الأسبوع في الولايات المتحدة في تمام الساعة 12:37 صباحًا. يتم تسجيله أمام جمهور استوديو مباشر من الاثنين إلى الجمعة في مدينة تلفزيون CBS في لوس أنجلوس، كاليفورنيا، فوق استوديو بوب باركر مباشرةً. ينتجه شركة الإنتاج الخاصة بديفيد ليترمان، Worldwide Pants Incorporated، وCBS Television Studios.",
-    "desc_en": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish-American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.",
-    "seo_title_ar": "مشاهدة مسلسل العرض المتأخر مع كريج فيرجسون مترجم - توميتو",
-    "meta_desc": "مشاهدة العرض المتأخر مع كريج فيرجسون مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد The Late Late Show with Craig Ferguson الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "العرض المتأخر مع كريج فيرجسون هو برنامج حوار كوميدي ممتع، يقدمه كريج فيرجسون بأسلوبه الساحر، ويجمع بين الفكاهة والمحادثات العميقة، مما يجعل كل حلقة تجربة فريدة من نوعها.",
-    "opinion_en": "The Late Late Show with Craig Ferguson is a delightful late-night talk show, hosted by the charming Craig Ferguson. It offers a unique blend of comedy and insightful conversations, making each episode a unique and engaging experience.",
+    "intro": "يحكي هذا العمل الوثائقي قصة شركة آبل منذ بداية تأسيسها، مما يجعل من هذا العمل فرصة للاستكشاف والتعرف على تأثيرات الشركة في العالم.",
+    "desc_ar": "يحكي هذا العمل الوثائقي قصة شركة آبل منذ بداية تأسيسها، من أول جهاز كمبيوتر يصدرتُه وهي آبل-أي، إلى أحدث التطورات التي وقعت في الشركة. يتعرض العمل للفكر النقدي حول تأثيرات آبل في العالم، من خلال استكشاف تاريخ الشركة وتطوراتها في عالم التكنولوجيا. يعد هذا العمل الوثائقي فرصة لاستكشاف عالم آبل وتعرف على كيفية تأثيراتها على حياتنا.",
+    "desc_en": "Welcome to Macintosh is a documentary that mixes history, criticism and an unapologetic revelry of all things Apple. Whether a long time Mac fanatic or new to computers, Welcome to Macintosh explores the many ways Apple Computer (now Apple, Inc.) has changed the world, from the early days of the Apple-I to the latest the company has to offer.",
+    "seo_title_ar": "مشاهدة فيلم Welcome Macintosh مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Welcome Macintosh الوثائقي، الذي يتعرض للفكر النقدي حول تأثيرات شركة آبل في العالم، من خلال استكشاف تاريخ الشركة وتطوراتها في عالم التك",
+    "outro": "نحن بحاجة إلى فهم تأثيرات شركة آبل في حياتنا اليومية، ويعتبر هذا العمل الوثائقي فرصة للاستكشاف والتعرف على ذلك.",
+    "opinion_ar": "يعتبر هذا العمل الوثائقي فرصة للاستكشاف والتعرف على تأثيرات شركة آبل في العالم، مما يجعلها تجربة لا تُنسى.",
+    "opinion_en": "This documentary is a great opportunity to explore and learn about the impact of Apple on the world, making it an unforgettable experience.",
     "faq": [
       {
-        "q": "ما هو العرض المتأخر مع كريج فيرجسون؟",
-        "a": "برنامج حوار كوميدي أمريكي يستضيفه الممثل الكوميدي الأسكتلندي الأمريكي كريج فيرجسون.",
-        "q_en": "What is The Late Late Show with Craig Ferguson?",
-        "a_en": "An American late-night talk show hosted by Scottish-American comedian Craig Ferguson."
+        "q": "ما هو موضوع فيلم Welcome Macintosh؟",
+        "a": "يحكي هذا العمل الوثائقي قصة شركة آبل منذ بداية تأسيسها، من أول جهاز كمبيوتر يصدرتُه وهي آبل-أي، إلى أحدث التطورات التي وقعت في الشركة.",
+        "q_en": "What is the subject of the documentary Welcome to Macintosh?",
+        "a_en": "The documentary explores the history and development of Apple Computer (now Apple, Inc.) from its early days to the latest innovations."
       }
     ],
-    "keywords": "العرض المتأخر مع كريج فيرجسون, The Late Late Show Craig Ferguson, كوميديا, حوار, برنامج حواري, تلفزيون, CBS"
+    "keywords": "آبل, شركة آبل, Welcome Macintosh, فيلم وثائقي, تاريخ شركة آبل, تكنولوجيا, تأثيرات آبل, عالم التكنولوجيا, مشاهدة مرحبا بك في ماكنتوش, Welcome Macintosh مترجم, تحميل مرحبا بك في ماكنتوش, مرحبا بك في ماكنتوش اون لاين, مرحبا بك في ماكنتوش جودة عالية, فيلم مرحبا بك في ماكنتوش, Welcome to Macintosh مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "60 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Craig Ferguson",
-  "first_air_date": "2005-01-03",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": "Wayne Bibbens Vince Briel Charles DeVore Richard Halsey Andy Hertzfeld Leander Kahney Guy Kawasaki"
 }

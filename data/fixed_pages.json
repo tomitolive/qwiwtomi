@@ -8555,8 +8555,38 @@
       "file": "81665.json",
       "title": "Summer Camp Island",
       "fixed_at": "2026-08-21T15:05:53.949401"
+    },
+    {
+      "tmdb_id": "3763",
+      "file": "3763.json",
+      "title": "Dinosaurs",
+      "fixed_at": "2026-08-21T15:37:48.430069"
+    },
+    {
+      "tmdb_id": "413279",
+      "file": "413279.json",
+      "title": "Team Thor",
+      "fixed_at": "2026-08-21T15:37:58.239128"
+    },
+    {
+      "tmdb_id": "14981",
+      "file": "14981.json",
+      "title": "The Late Late Show with Craig Ferguson",
+      "fixed_at": "2026-08-21T15:38:06.747770"
+    },
+    {
+      "tmdb_id": "409",
+      "file": "409.json",
+      "title": "The English Patient",
+      "fixed_at": "2026-08-21T15:38:17.108304"
+    },
+    {
+      "tmdb_id": "294095",
+      "file": "294095.json",
+      "title": "قاتلة بحسن نية",
+      "fixed_at": "2026-08-21T15:38:27.249838"
     }
   ],
-  "last_updated": "2026-08-21T15:05:55.952193",
-  "total_fixed": 1426
+  "last_updated": "2026-08-21T15:38:29.252547",
+  "total_fixed": 1431
 }
