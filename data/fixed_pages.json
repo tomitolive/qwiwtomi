@@ -8099,8 +8099,44 @@
       "file": "62914.json",
       "title": "Merl",
       "fixed_at": "2026-08-21T06:02:05.416188"
+    },
+    {
+      "tmdb_id": "1654429",
+      "file": "1654429.json",
+      "title": "Crush The Wicked",
+      "fixed_at": "2026-08-21T06:27:04.352936"
+    },
+    {
+      "tmdb_id": "1560681",
+      "file": "1560681.json",
+      "title": "Kolory za: Czer",
+      "fixed_at": "2026-08-21T06:27:30.442081"
+    },
+    {
+      "tmdb_id": "557",
+      "file": "557.json",
+      "title": "الرجل العنكبوت",
+      "fixed_at": "2026-08-21T06:27:37.043137"
+    },
+    {
+      "tmdb_id": "14733",
+      "file": "14733.json",
+      "title": "Rich Man, Poor Man",
+      "fixed_at": "2026-08-21T06:27:43.968825"
+    },
+    {
+      "tmdb_id": "61565",
+      "file": "61565.json",
+      "title": "The Brokenwood Mysteries",
+      "fixed_at": "2026-08-21T06:27:53.564196"
+    },
+    {
+      "tmdb_id": "1511417",
+      "file": "1511417.json",
+      "title": "Bhubali: The Epic",
+      "fixed_at": "2026-08-21T06:28:01.298864"
     }
   ],
-  "last_updated": "2026-08-21T06:02:07.418985",
-  "total_fixed": 1350
+  "last_updated": "2026-08-21T06:28:03.301633",
+  "total_fixed": 1356
 }

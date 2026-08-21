@@ -4,14 +4,12 @@
   "title_ar": "The Brokenwood Mysteries",
   "title_en": "The Brokenwood Mysteries",
   "slug": "61565-the-brokenwood-mysteries",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل أسرار بروكينوود قصة مُرعبَة في بلدة صغيرة تُظهر كيف أنّ الأشباح تَحاصر الهدوء، وَتُخفي جرائم لم يَعُد لها نهاية. يُكتشف Detective Inspector Mike Shepherd، أحد أبرز المحققين، في هذه البلدة الصغيرة، وَيبدأ في استكشاف أسرارًا غامضة، وَيُصادِرها بِوضوح وِبُردة وَحشية. يَتَوَقّع Mike من حلّ هذه الجريمة، وَيُجَرّب كلّ وسائل التحقيق لمعرفة الحقيقة المُختبئة خلف هذا الأحداث الغامضة.",
   "poster_path": "/eWrrFMrBjZXtpXJzAtDz7MfoEQB.jpg",
   "backdrop_path": "/eUr4FdIkP2fgyrnH76Xb1OTxbwk.jpg",
   "release_date": "2014-09-28",
   "vote_average": 7.6,
-  "vote_count": 89,
+  "vote_count": 92,
   "genres": [
     {
       "id": 9648,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة بروكنود الصغيرة، يتعاون رجال الشرطة المحليون مع فريق من المحققين المدنيين ل حل الجرائم المخيفة التي تحدث في المدينة. من خلال تحليل الأحداث وال 증ديات، يتعاونون معًا لاكتشاف الأسرار والكشف عن الجرائم، فيما يتعرضون لخतरات كثيرة في كل مرحلة من مراحل التحقيق.",
-    "desc_en": "In the small town of Brokenwood, local police officers team up with a civilian investigation team to solve the terrifying crimes that occur in the town. Through analyzing events and evidence, they work together to uncover secrets and reveal crimes, while facing many dangers at every stage of the investigation.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بروكنود!",
-    "seo_title_ar": "مشاهدة فيلم بروكنود الميستريز مترجم اون لاين - توميتو",
-    "keywords": "فيلم غموض مترجم, مشاهدة فيلم دراما جريمة, قصة مسلسل The Brokenwood Mysteries, The Brokenwood Mysteries مترجم كامل, أحداث The Brokenwood Mysteries بالتفصيل, مشاهدة The Brokenwood Mysteries 2014, توميتو The Brokenwood Mysteries",
-    "opinion": "هذه السلسلة التلفزيونية هي واحدة من أفضل ما يمكن مشاهدة في مجال الغموض والدراما والجريمة. مع كل حلقة، يتعرض المشاهد لخतरات كثيرة ويتعاون رجال الشرطة مع فريق المحققين لاكتشاف الأسرار.",
+    "intro": "يتتبع Detective Inspector Mike Shepherd، أحد أبرز المحققين، أسرارًا غامضة في بلدة صغيرة تُظهر كيف أنّ الأشباح تَحاصر الهدوء، وَتُخفي جرائم لم يَعُد لها نهاية.",
+    "desc_ar": "يحكي مسلسل أسرار بروكينوود قصة مُرعبَة في بلدة صغيرة تُظهر كيف أنّ الأشباح تَحاصر الهدوء، وَتُخفي جرائم لم يَعُد لها نهاية. يُكتشف Detective Inspector Mike Shepherd، أحد أبرز المحققين، في هذه البلدة الصغيرة، وَيبدأ في استكشاف أسرارًا غامضة، وَيُصادِرها بِوضوح وِبُردة وَحشية. يَتَوَقّع Mike من حلّ هذه الجريمة، وَيُجَرّب كلّ وسائل التحقيق لمعرفة الحقيقة المُختبئة خلف هذا الأحداث الغامضة.",
+    "desc_en": "In a seemingly quiet country town, the newest resident, Detective Inspector Mike Shepherd, finds that murder lurks in even the most homely location. The series follows Mike as he begins to unravel the mysteries of this small town, and with each new discovery, he gets closer to the truth. As he delves deeper into the case, Mike must navigate the complex web of relationships and alliances that exist within the town, all while trying to stay one step ahead of the killer.",
+    "seo_title_ar": "مشاهدة مسلسل أسرار بروكينوود مترجم - توميتو",
+    "meta_desc": "أسرار بروكينوود, مسلسل غموض, دراما, جريمة, Detective Inspector Mike Shepherd, Mike, Mike Shepherd, أسرار بروكينوود, The Brokenwood Mysteries, 2014, استمتع",
+    "outro": "يُجَرّب Mike كلّ وسائل التحقيق لمعرفة الحقيقة المُختبئة خلف هذا الأحداث الغامضة، وَيُصادِرها بِوضوح وِبُردة وَحشية.",
+    "opinion_ar": "أسرار بروكينوود هو مسلسل غامض، وَمُتَسلسَل، يُحكى قصةً مُرعبَة في بلدة صغيرة تُظهر كيف أنّ الأشباح تَحاصر الهدوء، وَتُخفي جرائم لم يَعُد لها نهاية.",
+    "opinion_en": "The Brokenwood Mysteries is a captivating and intriguing series that follows the story of Detective Inspector Mike Shepherd as he unravels the mysteries of a small town. With its complex characters and intricate plot, this series will keep you guessing until the very end.",
     "faq": [
       {
-        "q": "ما هو بروكنود الميستريز؟",
-        "a": "هو سلسلة تلفزيونية غموضية درامية جريمة تتبع فريق من المحققين المدنيين الذين يتعاونون مع رجال الشرطة المحليين ل حل الجرائم في مدينة بروكنود."
+        "q": "ما هو موضوع مسلسل أسرار بروكينوود؟",
+        "a": "يحكي مسلسل أسرار بروكينوود قصة مُرعبَة في بلدة صغيرة تُظهر كيف أنّ الأشباح تَحاصر الهدوء، وَتُخفي جرائم لم يَعُد لها نهاية.",
+        "q_en": "What is the subject of The Brokenwood Mysteries?",
+        "a_en": "The series follows the story of Detective Inspector Mike Shepherd as he unravels the mysteries of a small town, and with each new discovery, he gets closer to the truth."
       },
       {
-        "q": "ما هو نوع بروكنود الميستريز؟",
-        "a": "هو نوع تلفزيوني غموضية درامية جريمة."
-      },
-      {
-        "q": "ما هو أفضل ما في بروكنود الميستريز؟",
-        "a": "هو أن كل حلقة تتعرض للمخاطر والخطر والتشويق، مما يทำใหها سلسلة تلفزيونية رائعة لمن يتابعون الغموض والدراما والجريمة."
+        "q": "متى صدر مسلسل أسرار بروكينوود؟",
+        "a": "صدر مسلسل أسرار بروكينوود في عام 2014.",
+        "q_en": "When was The Brokenwood Mysteries released?",
+        "a_en": "The series was released in 2014."
       }
-    ]
+    ],
+    "keywords": "أسرار بروكينوود, مسلسل, غموض, دراما, جريمة, Detective Inspector Mike Shepherd, Mike, Mike Shepherd, The Brokenwood Mysteries, 2014, مشاهدة أسرار بروكينوود, The Brokenwood Mysteries مترجم, تحميل أسرار بروكينوود, أسرار بروكينوود اون لاين, The Brokenwood Mysteries online"
   },
   "fixed": true,
-  "first_air_date": "2014-09-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "93 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Keeley Hawes Ben Miles Andrew Byrne Sheila Hancock Lorraine Pilkington"
+  "country": "New Zealand",
+  "cast": "Neill Rea Fern Sutherland Cristina Șerban-Ionda",
+  "first_air_date": "2014-09-28"
 }
