@@ -8135,8 +8135,44 @@
       "file": "1511417.json",
       "title": "Bhubali: The Epic",
       "fixed_at": "2026-08-21T06:28:01.298864"
+    },
+    {
+      "tmdb_id": "1771",
+      "file": "1771.json",
+      "title": "كابتن أمريكا المنتقم الأول",
+      "fixed_at": "2026-08-21T07:18:52.586390"
+    },
+    {
+      "tmdb_id": "92060",
+      "file": "92060.json",
+      "title": "Michael Jacksons Thriller",
+      "fixed_at": "2026-08-21T07:19:00.420125"
+    },
+    {
+      "tmdb_id": "1607",
+      "file": "1607.json",
+      "title": "A Bronx Tale",
+      "fixed_at": "2026-08-21T07:19:33.696247"
+    },
+    {
+      "tmdb_id": "1202033",
+      "file": "1202033.json",
+      "title": "Enola Holmes 3",
+      "fixed_at": "2026-08-21T07:19:41.276302"
+    },
+    {
+      "tmdb_id": "8988",
+      "file": "8988.json",
+      "title": "Huset p Christianshavn",
+      "fixed_at": "2026-08-21T07:19:48.416462"
+    },
+    {
+      "tmdb_id": "1242419",
+      "file": "1242419.json",
+      "title": "لص الأسطح",
+      "fixed_at": "2026-08-21T07:19:55.192692"
     }
   ],
-  "last_updated": "2026-08-21T06:28:03.301633",
-  "total_fixed": 1356
+  "last_updated": "2026-08-21T07:19:57.195461",
+  "total_fixed": 1362
 }

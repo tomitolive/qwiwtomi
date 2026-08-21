@@ -1,53 +1,65 @@
 {
   "id": 1202033,
-  "title": "Enola Holmes 3",
-  "title_ar": "Enola Holmes 3",
+  "title": "إينولا هولمز 3",
+  "title_ar": "إينولا هولمز 3",
   "title_en": "Enola Holmes 3",
   "slug": "1202033-enola-holmes-3",
-  "overview": "تعود المغامرة مع المحققة إينولا هولمز 3 إلى مالطا، حيث تتعقد خططها للزواج عندما يختفي شيرلوك، مما يدفعها إلى حالة خطيرة. فيلم مليء بالإثارة والغموض، حيث تتصدى إينولا لمهمة جديدة ومثيرة، وتكشف أسرارًا خطيرة. لا تفوتوا هذا الجزء المثير من سلسلة إينولا هولمز 3.",
+  "overview": "تتوجه المحققة \"إينولا هولمز\" إلى \"مالطا\" استعدادًا لبدء فصل جديد من حياتها، لكن اختفاء \"شيرلوك\" يقلب خططها للزواج رأسًا على عقب ويجرّها إلى مغامرة غامضة محفوفة بالمخاطر.",
   "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-  "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg",
-  "release_date": "2026-07-01",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+  "release_date": "2026-06-30",
+  "vote_average": 6.8,
+  "vote_count": 621,
   "genres": [
     {
       "id": 12,
       "name": "مغامرة"
     },
     {
-      "id": 9648,
-      "name": "غموض"
-    },
-    {
       "id": 80,
       "name": "جريمة"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Enola Holmes 3 (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تعود المغامرة مع المحققة إينولا هولمز 3 إلى مالطا، حيث تتعقد خططها للزواج عندما يختفي شيرلوك، مما يدفعها إلى حالة خطيرة. فيلم مليء بالإثارة والغموض، حيث تتصدى إينولا لمهمة جديدة ومثيرة، وتكشف أسرارًا خطيرة. لا تفوتوا هذا الجزء المثير من سلسلة إينولا هولمز 3.",
-    "desc_en": "In Enola Holmes 3, adventure takes a twist as Enola travels to Malta. Her plans for marriage unravel when Sherlock's disappearance leads her into a perilous case. This film promises an exciting journey, filled with mystery and crime, as Enola tackles a new challenge.",
-    "seo_title_ar": "مشاهدة فيلم إينولا هولمز 3 مترجم - توميتو",
-    "meta_desc": "إينولا هولمز 3: مغامرة جديدة في مالطا، حيث تختفي خطط الزواج وتظهر أسرار خطيرة. فيلم مثير ومليء بالغموض.",
-    "outro": "شاهد Enola Holmes 3 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "إينولا هولمز 3 يقدم مغامرة مشوقة ومثيرة، مع أداء رائع من الممثلة الرئيسية. الفيلم مليء باللحظات المثيرة والغموض، ويعد بتجربة مشاهدة ممتعة لمحبي أفلام المغامرة والغموض.",
-    "opinion_en": "Enola Holmes 3 offers an engaging and thrilling adventure. The lead actress delivers a stellar performance, and the film is packed with exciting moments and mystery, making it a must-watch for fans of adventure and crime.",
+    "intro": "استمتع بمشاهدة فيلم إينولا هولمز 3 (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تتوجه المحققة \"إينولا هولمز\" إلى \"مالطا\" استعدادًا لبدء فصل جديد من حياتها، لكن اختفاء \"شيرلوك\" يقلب خططها للزواج رأسًا على عقب ويجرّها إلى مغامرة غامضة محفوفة بالمخاطر.",
+    "desc_en": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+    "seo_title_ar": "مشاهدة فيلم Enola Holmes 3 مترجم - توميتو",
+    "meta_desc": "مشاهدة إينولا هولمز 3 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد إينولا هولمز 3 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "هل إينولا هولمز 3 مستوحى من كتب؟",
-        "a": "نعم، الفيلم مستوحى من سلسلة كتب إينولا هولمز للكاتبة نانسي سبرينغر.",
-        "q_en": "Is Enola Holmes 3 based on books?",
-        "a_en": "Yes, the film is based on the Enola Holmes book series by author Nancy Springer."
+        "q": "كيف يمكنني مشاهدة فيلم إينولا هولمز 3?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Enola Holmes 3?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم إينولا هولمز 3?",
+        "a": "يندرج العمل تحت تصنيف مغامرة, جريمة, غموض.",
+        "q_en": "What is the genre of Enola Holmes 3?",
+        "a_en": "It falls under the genre of مغامرة, جريمة, غموض."
+      },
+      {
+        "q": "ما هي قصة فيلم إينولا هولمز 3?",
+        "a": "تتوجه المحققة \"إينولا هولمز\" إلى \"مالطا\" استعدادًا لبدء فصل جديد من حياتها، لكن اختفاء \"شيرلوك\" يقلب خططها للزواج رأسًا على عقب ويجرّها إلى مغامرة غامضة محفوفة بالمخاطر.",
+        "q_en": "What is the story of Enola Holmes 3?",
+        "a_en": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case."
       }
     ],
-    "keywords": "إينولا هولمز 3, فيلم, مغامرة, غموض, جريمة, مالطا, زواج, اختفاء, شيرلوك, إثارة"
+    "keywords": "إينولا هولمز 3 مترجم, Enola Holmes 3 مترجم, مشاهدة إينولا هولمز 3,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "105 دقيقة",
+  "duration": "109 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Millie Bobby Brown Louis Partridge Himesh Patel Sharon Duncan-Brewster Henry Cavill Helena Bonham Carter"
+  "cast": "Millie Bobby Brown Henry Cavill Helena Bonham Carter Louis Partridge Himesh Patel Sharon Duncan-Brewster Hattie Morahan Susan Wokoma"
 }
