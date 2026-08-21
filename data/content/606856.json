@@ -9,38 +9,45 @@
   "backdrop_path": "/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
   "release_date": "2019-12-20",
   "vote_average": 8.1,
-  "vote_count": 2254,
+  "vote_count": 2341,
   "genres": [
     {
       "id": 12,
       "name": "مغامرة"
     },
     {
-      "id": 10751,
-      "name": "عائلي"
+      "id": 36,
+      "name": "تاريخ"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور أحداث القصة الحقيقية غير المروية في شتاء عام 1925 والتي تأخذك عبر التضاريس الغادرة لتندرا ألاسكا لمغامرة مبهجة وراقية ستختبر قوة وشجاعة وتصميم رجل واحد ، ليونارد سيبالا ، وكلبه الرئيسي للزلاجة ، توغو. سوف ترى كيف يتعامل رجل واحد مع التحديات والخطر والمرحلة القاسية في هذه المغامرة التي ستشكل قصة حقيقية غير مروية.",
-    "desc_en": "The true story, untold. The events of the true story unfold in the harsh winter of 1925, taking you on a thrilling and adventurous journey through the vast wilderness of Alaska, testing the strength, courage, and determination of one man, Leonard Seabala, and his loyal companion, Togo.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مغامرة توغو!",
-    "seo_title_ar": "مشاهدة فيلم توجو مترجم اون لاين - توميتو",
-    "keywords": "فيلم توجو مترجم, مشاهدة فيلم توجو, قصة فيلم Togo, توميتو Togo, مشاهدة Togo 2019, أحداث Togo بالتفصيل, Togo مترجم",
-    "opinion": "هذه المغامرة الحقيقية غير المروية ستشكل قصة حقيقية غير مروية في قلوبك، ستشكل قوة وشجاعة رجل واحد في وجه التحديات والخطر.",
+    "intro": "يحكي فيلم توغو قصة حقيقية غير مروية يبدأها رجل اسمه ليونارد سيبالا في وسط شتاء عام 1925.",
+    "desc_ar": "يحكي فيلم توغو قصة حقيقية غير مروية يبدأها رجل اسمه ليونارد سيبالا الذي يجد نفسه في منتصف شتاء عام 1925 وسط التضاريس الغادرة لتندرا ألاسكا. يأخذنا هذا الفيلم عبر مغامرة مبهجة وراقية تسعي وراء القوة والشجاعة والتصميم، حيث يصارع ليونارد مع كل التحديات ليكون قائدًا محتضنًا لوكلبه الرئيسي، توغو. تُعرف هذه القصة الحقيقية التي تمت دراستها بعناية شديدة لاستكشاف حياة ليونارد سيبالا ومغامراته مع توغو.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم توغو مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم توغو مترجم على توماتو، قصة حقيقية غير مروية عن شتاء عام 1925 في التندرا الألاسكية، حيث يصارع ليونارد سيبالا مع التحديات ليكون قائدا مح",
+    "outro": "تُعبر قصة فيلم توغو عن قوة الروح البشرية والتصميم والشجاعة في وجه التحديات.",
+    "opinion_ar": "يعد فيلم توغو من الأفلام التي تعبر عن قوة الروح البشرية، حيث يُظهر ليونارد سيبالا التصميم والشجاعة في وجه التحديات.",
+    "opinion_en": "This film showcases the human spirit's strength and courage in the face of adversity, as Leonhard Seppala demonstrates determination and bravery.",
     "faq": [
       {
-        "q": "ما هو فيلم توجو؟",
-        "a": "هو فيلم مغامرة عائلي يروي قصة رجل واحد في مغامرة مبهجة وراقية"
+        "q": "ما هو فيلم توغو؟",
+        "a": "يحكي فيلم توغو قصة حقيقية غير مروية عن شتاء عام 1925 في التندرا الألاسكية.",
+        "q_en": "What is the movie Togo about?",
+        "a_en": "The movie Togo tells the true story of a winter in 1925 in the Alaskan tundra."
       },
       {
-        "q": "ما هو نوع فيلم توجو؟",
-        "a": "هو فيلم مغامرة عائلي"
-      },
-      {
-        "q": "ما هو هدف فيلم توجو؟",
-        "a": "هو فيلم يهدف إلى إثارة الإثارة والمرحلة القاسية في هذه المغامرة"
+        "q": "من هو ليونارد سيبالا؟",
+        "a": "ليونارد سيبالا هو الرجل الذي يقود الزلاجة في قصة فيلم توغو.",
+        "q_en": "Who is Leonhard Seppala?",
+        "a_en": "Leonhard Seppala is the man who leads the sled in the story of the movie Togo."
       }
-    ]
+    ],
+    "keywords": "فيلم توغو, توغو, ليونارد سيبالا, شتاء عام 1925, التندرا الألاسكية, مغامرة, تاريخ, دراما, توغو ضد السودان, توغو موري, توغو ضد الكونغو الديمقراطية, دولة توغو, عاصمة توغو, المحقق توغو موري, موريتانيا ضد توغو, اين تقع توغو"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +55,5 @@
   "duration": "113 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Willem Dafoe Julianne Nicholson Christopher Heyerdahl Richard Dormer Adrien Dorval"
+  "cast": "Willem Dafoe Julianne Nicholson Christopher Heyerdahl Richard Dormer Adrien Dorval Madeline Wickins Michael Greyeyes Nive Nielsen"
 }
