@@ -8207,8 +8207,44 @@
       "file": "730647.json",
       "title": "Break the Silence: The Movie",
       "fixed_at": "2026-08-21T08:08:33.048577"
+    },
+    {
+      "tmdb_id": "119051",
+      "file": "119051.json",
+      "title": "وينزداي آدامز",
+      "fixed_at": "2026-08-21T09:09:41.439707"
+    },
+    {
+      "tmdb_id": "80671",
+      "file": "80671.json",
+      "title": "Cells at Work!",
+      "fixed_at": "2026-08-21T09:09:50.699287"
+    },
+    {
+      "tmdb_id": "451048",
+      "file": "451048.json",
+      "title": "رحلة بالغابة",
+      "fixed_at": "2026-08-21T09:09:58.691634"
+    },
+    {
+      "tmdb_id": "667257",
+      "file": "667257.json",
+      "title": "Cosas imposibles",
+      "fixed_at": "2026-08-21T09:10:06.011015"
+    },
+    {
+      "tmdb_id": "987032",
+      "file": "987032.json",
+      "title": "الطريق إلى القلب",
+      "fixed_at": "2026-08-21T09:10:14.345536"
+    },
+    {
+      "tmdb_id": "2651",
+      "file": "2651.json",
+      "title": "Profiler",
+      "fixed_at": "2026-08-21T09:10:22.705161"
     }
   ],
-  "last_updated": "2026-08-21T08:08:35.051195",
-  "total_fixed": 1368
+  "last_updated": "2026-08-21T09:10:24.707893",
+  "total_fixed": 1374
 }

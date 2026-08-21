@@ -9,42 +9,39 @@
   "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
   "release_date": "2021-07-28",
   "vote_average": 7.3,
-  "vote_count": 6161,
+  "vote_count": 6269,
   "genres": [
     {
       "id": 14,
       "name": "فانتازيا"
     },
     {
-      "id": 12,
-      "name": "مغامرة"
-    },
-    {
       "id": 35,
       "name": "كوميديا"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
     }
   ],
   "ai_content": {
-    "desc_ar": "يحوي فيلم رحلة بالغابة مغامرة رائعة مع الدكتورة ليلي هوتون والربان الحكيم فرانك وولف الذين يبحثون عن شجرة قديمة تمتلك القدرة على الشفاء في قاربه المتداعي. معاً، يتعاملون مع العديد من المغامرات والكوميديا في رحلة ممتعة.",
-    "desc_en": "Jungle Cruise is an exciting adventure film featuring Dr. Lily Houghton and Frank Wolff, who embark on a quest to find an ancient tree with healing powers in the Amazon rainforest. Along the way, they face many challenges and comedic moments in a thrilling journey.",
-    "meta_desc": "واش غيفلت؟ اكتشف المغامرة الرائعة مع الدكتورة ليلي هوتون والربان الحكيم فرانك وولف في رحلة بالغابة!",
-    "seo_title_ar": "مشاهدة فيلم رحلة بالغابة مترجم اون لاين - توميتو",
-    "keywords": "Jungle Cruise, فيلم رحلة بالغابة مترجم, مشاهدة فيلم رحلة بالغابة, مشاهدة رحلة بالغابة 2021, رحلة بالغابة مترجم, أحداث رحلة بالغابة بالتفصيل, قصة فيلم رحلة بالغابة, توميتو رحلة بالغابة",
-    "opinion": "فيلم رحلة بالغابة هو مغامرة رائعة مع الكوميديا والفانتازيا. يحتوي على العديد من الأحداث المثيرة والقوية، مما يجعله فيلماً ممتعاً لجميع المتابعين.",
+    "intro": "تتبادروا إلى الأمازون في رحلة مليئة بالسحر والفانتازيا، حيث يبحثون عن الكنز القديم.",
+    "desc_ar": "يحكي فيلم رحلة بالغابة قصة در. ليلى هاوتن التي تتجه إلى الأمازون في قاربها المتداعي مع الربان الحكيم فرانك وولف، في رحلة طويلة ومثيرة لاستكشاف شجرة قديمة تمتلك القدرة على الشفاء، وهذا الاكتشاف سيغير مستقبل الطب بشكل كبير. سيحمل الفيلم المشاهد إلى عالم غني بالسحر والفانتازيا، حيث يتجولون في الغابة بحثاً عن الكنز القديم.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم رحلة بالغابة مترجم - رحلة كوميدية فانتازيا مغامرة 2021",
+    "meta_desc": "شاهد رحلة بالغابة 2021 - فيلم فانتازيا كوميدي مغامرة مترجم - رحلة ممتعة ومثيرة إلى الأمازون، مع در. ليلى هاوتن وربان الأمازون فرانك وولف، في سباق للوصول إل",
+    "outro": "سيحمل فيلم رحلة بالغابة المشاهد إلى عالم غني بالسحر والفانتازيا، حيث يتجولون في الغابة بحثاً عن الكنز القديم.",
+    "opinion_ar": "يعد رحلة بالغابة تجربة فنية مثيرة ومليئة بالفانتازيا، حيث تتبادروا إلى الأمازون بحثاً عن الكنز القديم.",
+    "opinion_en": "Jungle Cruise is an exciting adventure filled with fantasy, where they embark on a thrilling journey to the Amazon to find the ancient treasure.",
     "faq": [
       {
         "q": "ما هو فيلم رحلة بالغابة؟",
-        "a": "فيلم رحلة بالغابة هو مغامرة رائعة مع الكوميديا والفانتازيا."
-      },
-      {
-        "q": "ما هو موضوع فيلم رحلة بالغابة؟",
-        "a": "يحوي فيلم رحلة بالغابة موضوعاً عن المغامرة والكوميديا في رحلة ممتعة."
-      },
-      {
-        "q": "ما هو نوع فيلم رحلة بالغابة؟",
-        "a": "فيلم رحلة بالغابة هو فيلم فانتازيا مغامرة كوميديا"
+        "a": "هو فيلم فانتازيا كوميدي مغامرة يتبع قصة در. ليلى هاوتن وربان الأمازون فرانك وولف في رحلة إلى الأمازون.",
+        "q_en": "What is Jungle Cruise?",
+        "a_en": "It is a fantasy comedy adventure film that follows the story of Dr. Lily Houghton and skipper Frank Wolff on a journey to the Amazon."
       }
-    ]
+    ],
+    "keywords": "فيلم, رحلة بالغابة, رحلة, كوميديا, فانتازيا, مغامرة, مترجم, 2021, در. ليلى هاوتن, فرانك وولف, مشاهدة رحلة بالغابة, Jungle Cruise مترجم, تحميل رحلة بالغابة, رحلة بالغابة اون لاين, Jungle Cruise"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "127 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dwayne Johnson Emily Blunt Edgar Ramírez Jack Whitehall Jesse Plemons"
+  "cast": "Dwayne Johnson Emily Blunt Edgar Ramírez Jack Whitehall Jesse Plemons Paul Giamatti Veronica Falcón Dani Rovira"
 }

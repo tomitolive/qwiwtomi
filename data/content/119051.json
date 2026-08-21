@@ -4,14 +4,12 @@
   "title_ar": "وينزداي آدامز",
   "title_en": "Wednesday",
   "slug": "119051-wednesday",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تحقّق \"وينزداي آدامز\"، الفتاة الذكية والساخرة ومتبلّدة المشاعر، في ألغاز غامضة في الوقت الذي تكسب فيه الأصدقاء والأعداء الجُدد في أكاديمية \"نيفرمور\".",
   "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
   "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
   "release_date": "2022-11-23",
   "vote_average": 8.3,
-  "vote_count": 10520,
+  "vote_count": 10755,
   "genres": [
     {
       "id": 10765,
@@ -27,19 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تحقّق \"وينزداي آدامز\"، الفتاة الذكية والساخرة ومتبلّدة المشاعر، في ألغاز غامضة في الوقت الذي تكسب فيه الأصدقاء والأعداء الجُدد في أكاديمية \"نيفرمور\".",
-    "desc_en": "تحقّق \"وينزداي آدامز\"، الفتاة الذكية والساخرة ومتبلّدة المشاعر، في ألغاز غامضة في الوقت الذي تكسب فيه الأصدقاء والأعداء الجُدد في أكاديمية \"نيفرمور\".",
-    "meta_desc": "مشاهدة وينزداي آدامز مترجم بجودة عالية على توميتو.",
-    "keywords": "Wednesday, وينزداي آدامز مترجم, توميتو وينزداي آدامز, مشاهدة وينزداي آدامز 2026, أحداث وينزداي آدامز بالتفصيل, قصة فيلم وينزداي آدامز",
-    "seo_title_ar": "مشاهدة وينزداي آدامز مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يسعدني إقتراح مشاهدة هذا المسلسل الغامض والمميز، الذي يفتح عينيك على العالم الغامض والمظلم الذي تعيش به.",
+    "desc_ar": "يحكي مسلسل \"وينزداي آدامز\" قصة فتاة ذكية وساخرة ومتبلّدة المشاعر، وينزداي آدامز، التي تتحقّق في ألغاز غامضة في الوقت الذي تكسب فيه الأصدقاء والأعداء الجُدد في أكاديمية \"نيفرمور\". هذه المرأة الغامضة ومميزة تفتح عينيك على العالم الغامض والمظلم الذي تعيش به، وترى في كل شيء خبايا وأسرارًا تحت السطح. سوف تتعرّف على شخصيات غريبة ومميزة، وتستكشف معهم أسرارًا غامضة، وتُكشف للكائنات الغامضة في العالم.",
+    "desc_en": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends and foes at Nevermore Academy.",
+    "seo_title_ar": "مشاهدة مسلسل وينزداي آدامز مترجم - توميتو",
+    "meta_desc": "مسلسل خيال علمي وفانتازيا غامض ومميز، يتبع قصة فتاة ذكية وساخرة ومتبلدة المشاعر في أكاديمية نيفرمور. يتعقب هذا المسلسل مغامرات هذه المرأة الغامضة ومميز",
+    "outro": "أتمنى أن تكون قد استمتعت بمشاهدة هذا المسلسل الغامض والمميز. إن شخصياته الغريبة والمميزة، والمغامرات الغامضة التي تجريها، تجعل هذا المسلسل تجربة فريدة وممتعة.",
+    "opinion_ar": "يسعدني مشاهدة هذا المسلسل الغامض والمميز، الذي يفتح عينيك على العالم الغامض والمظلم الذي تعيش به. إن شخصياته الغريبة والمميزة، والمغامرات الغامضة التي تجريها، تجعل هذا المسلسل تجربة فريدة وممتعة.",
+    "opinion_en": "I enjoy watching this show, which opens your eyes to a dark and mysterious world. Its unique and quirky characters, and the twisted mysteries they investigate, make for a unique and engaging experience.",
+    "faq": [
+      {
+        "q": "ما هو مسلسل \"وينزداي آدامز\"؟",
+        "a": "مسلسل خيال علمي وفانتازيا غامض ومميز، يتبع قصة فتاة ذكية وساخرة ومتبلّدة المشاعر في أكاديمية \"نيفرمور\".",
+        "q_en": "What is Wednesday Addams?",
+        "a_en": "A dark and twisted mystery series that follows the story of Wednesday Addams, a smart and sarcastic girl at Nevermore Academy."
+      },
+      {
+        "q": "ما هو نوع المسلسل؟",
+        "a": "مسلسل خيال علمي وفانتازيا غامض ومميز.",
+        "q_en": "What type of show is Wednesday Addams?",
+        "a_en": "A dark and twisted mystery series with a focus on science fiction and fantasy."
+      }
+    ],
+    "keywords": "مسلسل, خيال علمي وفانتازيا, غموض, كوميديا, ألغاز غامضة, أكاديمية نيفرمور, أسرار غامضة, شخصيات غريبة, مغامرات غامضة, مسلسل وينزداي آدامز, مشاهدة وينزداي آدامز, Wednesday مترجم, تحميل وينزداي آدامز, وينزداي آدامز اون لاين, Wednesday"
   },
   "fixed": true,
-  "first_air_date": "2022-11-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jenna Ortega Steve Buscemi Emma Myers Hunter Doohan Joy Sunday Moosa Mostafa Georgie Farmer Isaac Ordonez",
+  "first_air_date": "2022-11-23"
 }
