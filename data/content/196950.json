@@ -1,17 +1,15 @@
 {
   "id": 196950,
-  "title": "ورشة قبعة الساحرة",
-  "title_ar": "ورشة قبعة الساحرة",
+  "title": "ورشة ذوي القبعات",
+  "title_ar": "ورشة ذوي القبعات",
   "title_en": "Witch Hat Atelier",
   "slug": "196950-witch-hat-atelier",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في عالمٍ يُعد فيه السحر هبةً تولد مع البعض فقط، تحلم 'كوكو' الفتاة القروية البسيطة بأن تصبح ساحرة، رغم علمها باستحالة ذلك. لكن حياتها تنقلب رأساً على عقب عندما تكتشف بالصدفة السر الحقيقي وراء إلقاء التعاويذ؛ وهو أن السحر يُرسم ولا يُورث. بعد حادثة مأساوية تسببت بها جهلها بالقواعد، يقرر الساحر 'كيفري' اتخاذها تلميذة له. تبدأ كوكو رحلتها في 'المرسم' لتعلم فن رسم السحر، في قصة تمزج بين بهجة الاكتشاف ومرارة اليأس والسعي نحو الأمل",
   "poster_path": "/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
-  "backdrop_path": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+  "backdrop_path": "/5NmmaK9dt38UXOwzPC2t9yR3HTv.jpg",
   "release_date": "2026-04-06",
-  "vote_average": 9.3,
-  "vote_count": 64,
+  "vote_average": 8.8,
+  "vote_count": 170,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالمٍ يُعد فيه السحر هبةً تولد مع البعض فقط، تحلم 'كوكو' الفتاة القروية البسيطة بأن تصبح ساحرة، رغم علمها باستحالة ذلك. لكن حياتها تنقلب رأساً على عقب عندما تكتشف بالصدفة السر الحقيقي وراء إلقاء التعاويذ؛ وهو أن السحر يُرسم ولا يُورث.",
-    "desc_en": "In a world where magic is a rare gift, 'Koko' the simple country girl dreams of becoming a witch, despite knowing it's impossible. But her life takes a dramatic turn when she discovers the true secret behind casting spells; magic is drawn, not inherited. After a tragic event caused by her ignorance of the rules, the witch 'Kivri' decides to take her as his apprentice. Koko's journey begins in the 'Atelier' to learn the art of drawing magic, in a story that weaves together the joy of discovery, the bitterness of despair, and the pursuit of hope.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ورشة قبعة الساحرة!",
-    "seo_title_ar": "مشاهدة فيلم ورشة قبعة الساحرة مترجم اون لاين - توميتو",
-    "keywords": "Witch Hat Atelier, فيلم رسوم متحركة, مشاهدة فيلم دراما, فيلم خيال علمي وفانتازيا, ورشة قبعة الساحرة مترجم كامل, توميتو ورشة قبعة الساحرة, قصة مسلسل ورشة قبعة الساحرة, أحداث ورشة قبعة الساحرة بالتفصيل, مشاهدة ورشة قبعة الساحرة 2026",
-    "opinion": "هي قصة تحول، قصة عنقاء، قصة عنقاء تحول، هي قصة تحول، هي قصة تحول",
+    "intro": "في عالمٍ يُعد فيه السحر هبةً تولد مع البعض فقط، تحلم 'كوكو' الفتاة القروية البسيطة بأن تصبح ساحرة.",
+    "desc_ar": "يحكي مسلسل 'ورشة ذوي القبعات' قصة فتاة قروية تسمى 'كوكو' التي تحلم بأن تصبح ساحرة، رغم علمها بأن السحر في عالمها يُعد هبةً تولد مع البعض فقط. ولكن حياتها تتغير عندما تكتشف بالصدفة أن السحر يُرسم ولا يُورث، مما يجعلها تريد أن تتعلم فن رسم السحر. يقرر الساحر 'كيفري' أن ياخذها تلميذة له، وتبدأ كوكو رحلتها في 'المرسم' لتعلم فن رسم السحر، في قصة تمزج بين بهجة الاكتشاف ومرارة اليأس والسعي نحو الأمل.",
+    "desc_en": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the \"absolute secret,\" becomes Qifrey's apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
+    "seo_title_ar": "مشاهدة مسلسل ورشة ذوي القبعات مترجم - توميتو",
+    "meta_desc": "ورشة ذوي القبعات مسلسل رسوم متحركة دراما خيال علمي وفانتازيا عام 2026 يحكي قصة فتاة قروية تحلم بأن تصبح ساحرة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة",
+    "outro": "يُعد مسلسل 'ورشة ذوي القبعات' تجربة غنية في عالم السحر، حيث نرى فتاة قروية تحلم بأن تصبح ساحرة.",
+    "opinion_ar": "إن 'ورشة ذوي القبعات' هو مسلسل رسوم متحركة يهز العواطف، حيث نرى فتاة قروية تحلم بأن تصبح ساحرة، وتبدأ رحلتها في عالم السحر. يُعد هذا العمل من أفضل المسلسلات التي تعلمت منها.",
+    "opinion_en": "Witch Hat Atelier is an animated series that touches the heart, as we see a young girl from a rural village dream of becoming a witch and embarking on a journey of learning magic. This is one of the best series I've learned from.",
     "faq": [
       {
-        "q": "ما هو هدف ورشة قبعة الساحرة؟",
-        "a": "هدف ورشة قبعة الساحرة هو اكتشاف سر السحر والتعلم من فن رسم السحر."
+        "q": "ما هي قصة مسلسل ورشة ذوي القبعات؟",
+        "a": "يحكي مسلسل 'ورشة ذوي القبعات' قصة فتاة قروية تحلم بأن تصبح ساحرة.",
+        "q_en": "What is the story of Witch Hat Atelier?",
+        "a_en": "The story of Witch Hat Atelier follows a young girl from a rural village who dreams of becoming a witch."
       },
       {
-        "q": "ما هو دور الساحر 'كيفري' في القصة؟",
-        "a": "الساحر 'كيفري' دور مهم في القصة، فهو يقرر اتخاذ كوكو تلميذة له ويبدأ رحلتها في 'المرسم'."
-      },
-      {
-        "q": "ما هو النهاية القصيرة لورشة قبعة الساحرة؟",
-        "a": "النهاية القصيرة لورشة قبعة الساحرة هي اكتشاف سر السحر والتعلم من فن رسم السحر، ولكنها أيضاً تفتح أبواب جديدة لما هو قادم"
+        "q": "ما هي نوعية مسلسل ورشة ذوي القبعات؟",
+        "a": "مُسلسل رسوم متحركة دراما خيال علمي وفانتازيا.",
+        "q_en": "What type of series is Witch Hat Atelier?",
+        "a_en": "An animated series of drama, science fiction, and fantasy."
       }
-    ]
+    ],
+    "keywords": "ورشة ذوي القبعات مسلسل رسوم متحركة دراما خيال علمي وفانتازيا 2026 توميتو, مشاهدة ورشة ذوي القبعات, Witch Hat Atelier مترجم, تحميل ورشة ذوي القبعات, ورشة ذوي القبعات اون لاين, Witch Hat Atelier, ورشة ذوي القبعات جودة عالية, فيلم ورشة ذوي القبعات, Witch Hat Atelier HD, ورشة ذوي القبعات HD, مسلسل ورشة ذوي القبعات, Witch Hat Atelier مشاهدة, ورشة ذوي القبعات توب سينما, ورشة ذوي القبعات شاهدد, ورشة ذوي القبعات توميتو"
   },
   "fixed": true,
-  "first_air_date": "2026-04-06",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "81 دقيقة",
-  "language": "الفرنسية",
-  "country": "بلجيكا",
-  "cast": "Marc Barbé Roland Amstutz Samuel Dupuy Jacques Bataille Pascal Cervo"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Rena Motomura Natsuki Hanae Hibiku Yamamura Kurumi Haruki Hika Tsukishiro",
+  "first_air_date": "2026-04-06"
 }

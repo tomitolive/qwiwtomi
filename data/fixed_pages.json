@@ -8615,8 +8615,38 @@
       "file": "63174.json",
       "title": "لوسيفر",
       "fixed_at": "2026-08-21T16:22:01.996860"
+    },
+    {
+      "tmdb_id": "13223",
+      "file": "13223.json",
+      "title": "غران تورينو",
+      "fixed_at": "2026-08-21T17:02:38.570714"
+    },
+    {
+      "tmdb_id": "196950",
+      "file": "196950.json",
+      "title": "ورشة قبعة الساحرة",
+      "fixed_at": "2026-08-21T17:02:46.305702"
+    },
+    {
+      "tmdb_id": "11688",
+      "file": "11688.json",
+      "title": "حياة الإمبراطور الجديدة",
+      "fixed_at": "2026-08-21T17:02:53.739164"
+    },
+    {
+      "tmdb_id": "245842",
+      "file": "245842.json",
+      "title": "Tsue to Tsurugi no Wistoria",
+      "fixed_at": "2026-08-21T17:03:03.796285"
+    },
+    {
+      "tmdb_id": "61379",
+      "file": "61379.json",
+      "title": "Monthly Girls Nozaki-kun",
+      "fixed_at": "2026-08-21T17:03:15.465869"
     }
   ],
-  "last_updated": "2026-08-21T16:22:03.999622",
-  "total_fixed": 1436
+  "last_updated": "2026-08-21T17:03:17.468768",
+  "total_fixed": 1441
 }
