@@ -4,14 +4,12 @@
   "title_ar": "I Dream of Jeannie",
   "title_en": "I Dream of Jeannie",
   "slug": "1660-i-dream-of-jeannie",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"أحلم بجيني\" قصة رائد فضاء أمريكي يدعى كابتن توني نيلسون، الذي يحط رحلاً طارئة في جنوب المحيط الهادئ، مما يؤدي إلى اكتشاف جيني - النفسة الخيالية من القرن الثاني الميلادي - في عُقدها الثانية الألفية، في عُقدها الفتى، في عُقدها الفتاة. تتبع جيني كابتن نيلسون إلى الأرض، وتتعهد بالولاء التام لصاحبها الجديد، مما يمنح كابتن نيلسون ثلاثة أمنيات متتالية.",
   "poster_path": "/ljlyB3C3uU8Hd1krfEsYn2BVyaj.jpg",
   "backdrop_path": "/z5yI0aIRyogoflSXdI17iwTqzjG.jpg",
   "release_date": "1965-09-18",
   "vote_average": 7.8,
-  "vote_count": 814,
+  "vote_count": 836,
   "genres": [
     {
       "id": 10765,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الخيال العلمي والفنتازيا، يلتقي رجل أعمال ناجح مع جين، جنيان مأخوذة من عالم آخر، وتقوم بدور خادمة له، ولكنها تكتشف أنها تملك القدرة على التحكم بالعالم، وتقوم بتغيير حياته بشكل كبير.",
-    "desc_en": "In a world of science fiction and fantasy, a successful businessman meets Jeannie, a genie taken from another world, who serves as his maid, but discovers she has the power to control the world and changes his life significantly.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل خيال علمي وفانتازيا «أنا أخوض جنيان»",
-    "seo_title_ar": "مشاهدة مسلسل أنا أخوض جنيان مترجم اون لاين - توميتو",
-    "keywords": "فيلم خيال علمي, مشاهدة فيلم فانتازيا, مسلسل كوميدي, عائلي, أحداث I Dream of Jeannie بالتفصيل, قصة مسلسل I Dream of Jeannie, مشاهدة I Dream of Jeannie 1965, توميتو I Dream of Jeannie, I Dream of Jeannie مترجم كامل",
-    "opinion": "هو مسلسل رائع يجمع بين الخيال العلمي والكوميديا، ويقدم لنا أحداثاً إثارةً وملذظةً",
+    "intro": "يحمل مسلسل \"أحلم بجيني\" قصة رائد فضاء أمريكي يدعى كابتن توني نيلسون، الذي يحط رحلاً طارئة في جنوب المحيط الهادئ.",
+    "desc_ar": "يحكي مسلسل \"أحلم بجيني\" قصة رائد فضاء أمريكي يدعى كابتن توني نيلسون، الذي يحط رحلاً طارئة في جنوب المحيط الهادئ، مما يؤدي إلى اكتشاف جيني - النفسة الخيالية من القرن الثاني الميلادي - في عُقدها الثانية الألفية، في عُقدها الفتى، في عُقدها الفتاة. تتبع جيني كابتن نيلسون إلى الأرض، وتتعهد بالولاء التام لصاحبها الجديد، مما يمنح كابتن نيلسون ثلاثة أمنيات متتالية.",
+    "desc_en": "While on a mission, American astronaut Captain Tony Nelson is forced to make an emergency landing that will forever change his life. On a deserted South Pacific island, Captain Nelson happens upon a bottle containing a beautiful two-thousand-year-old female genie named Jeannie. Rescuing her from the bottle nets Tony the requisite three wishes, and then some, when Jeannie pledges total devotion to her new 'master'.",
+    "seo_title_ar": "مشاهدة مسلسل أحلم بجيني مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل أحلم بجيني على توميتو - مسلسل خيال علمي وفانتازيا كوميدي عائلي يضم أحلم بجيني في دور كابتن توني نيلسون. استمتع بمشاهدة هذا العمل بجودة عالية",
+    "outro": "يعد مسلسل \"أحلم بجيني\" تجربة فريدة وممتعة، حيث يجمع بين الخيال العلمي والفانتازيا والكوميديا والدراما، مما يجعلها مسلسلًا يستحق المشاهدة.",
+    "opinion_ar": "يعد مسلسل \"أحلم بجيني\" تجربة فريدة وممتعة، حيث يجمع بين الخيال العلمي والفانتازيا والكوميديا والدراما، مما يجعلها مسلسلًا يستحق المشاهدة.",
+    "opinion_en": "I Dream of Jeannie is a unique and entertaining experience, combining science fiction, fantasy, comedy, and drama to create a series worth watching.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل أنا أخوض جنيان؟",
-        "a": "هو مسلسل خيال علمي وفانتازيا"
+        "q": "من بطولة مسلسل \"أحلم بجيني\"؟",
+        "a": "يحمل مسلسل \"أحلم بجيني\" بطولة كابتن توني نيلسون، وهو رائد فضاء أمريكي.",
+        "q_en": "Who stars in the series I Dream of Jeannie?",
+        "a_en": "The series I Dream of Jeannie stars Captain Tony Nelson, an American astronaut."
       },
       {
-        "q": "ما هو نوع مسلسل أنا أخوض جنيان؟",
-        "a": "هو مسلسل كوميدي عائلي"
-      },
-      {
-        "q": "ما هو النوع الذي يلعب فيه الشخصيات الرئيسية؟",
-        "a": "هو خيال علمي وفانتازيا"
+        "q": "ما هو نوع مسلسل \"أحلم بجيني\"؟",
+        "a": "يعد مسلسل \"أحلم بجيني\" مسلسلًا خياليًا علميًا وفانتازيا كوميديًا عائليًا.",
+        "q_en": "What type of series is I Dream of Jeannie?",
+        "a_en": "I Dream of Jeannie is a science fiction, fantasy, comedy, and family series."
       }
-    ]
+    ],
+    "keywords": "أحلم بجيني, مسلسل, خيال علمي, فانتازيا, كوميديا, عائلي, كابتن توني نيلسون, جيني, مشاهدة أحلم بجيني, Dream Jeannie مترجم, تحميل أحلم بجيني, أحلم بجيني اون لاين, Dream Jeannie, أحلم بجيني جودة عالية, فيلم أحلم بجيني"
   },
   "fixed": true,
-  "first_air_date": "1965-09-18",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "104 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Jean-François Stévenin Virginie Thévenet Chantal Mercier Tania Torrens Nicole Félix"
+  "duration": "25 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Barbara Eden Larry Hagman",
+  "first_air_date": "1965-09-18"
 }
