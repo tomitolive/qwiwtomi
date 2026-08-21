@@ -4,12 +4,12 @@
   "title_ar": "The Odyssey",
   "title_en": "The Odyssey",
   "slug": "1698863-the-odyssey",
-  "overview": "الأوديسة: فيلم مغامرة وفانتازيا وحركة مترجم. تستند القصة إلى الملحمة اليونانية القديمة، حيث يعود الملك أوديسيوس بعد عشر سنوات من الحرب إلى إيثاكا، متلهفًا للاجتماع بمحبوبته. لكن رحلته إلى الوطن أكثر خطورة من ساحة المعركة، حيث يواجه وحوشًا قاتلة وآلهة انتقامية للبقاء على قيد الحياة.",
+  "overview": "يحكي فيلم الأوديسة قصة الملك أوديسيوس الذي يبحث عن العودة إلى أيتشكا بعد مرور عشر سنوات من الحرب. ولكن رحلته نحو الوطن أكثر خطورة من معارك الميدان، حيث يواجب أوديسيوس مواجهة الوحوش القاتلة والآلهة الغاضبة للقضاء على تحديات رحلته.",
   "poster_path": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
   "backdrop_path": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
   "release_date": "2026-07-03",
-  "vote_average": 5.5,
-  "vote_count": 4,
+  "vote_average": 4.0,
+  "vote_count": 300,
   "genres": [
     {
       "id": 12,
@@ -25,23 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم The Odyssey (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "الأوديسة: فيلم مغامرة وفانتازيا وحركة مترجم. تستند القصة إلى الملحمة اليونانية القديمة، حيث يعود الملك أوديسيوس بعد عشر سنوات من الحرب إلى إيثاكا، متلهفًا للاجتماع بمحبوبته. لكن رحلته إلى الوطن أكثر خطورة من ساحة المعركة، حيث يواجه وحوشًا قاتلة وآلهة انتقامية للبقاء على قيد الحياة.",
-    "desc_en": "The Odyssey: An action-packed adventure fantasy film. Based on the Ancient Greek epic, King Odysseus sets sail for Ithaca, eager to reunite with his beloved after a decade of war. His journey home is a perilous one, filled with deadly encounters and divine wrath.",
-    "seo_title_ar": "مشاهدة فيلم الأوديسة The Odyssey مترجم - توميتو",
-    "meta_desc": "الأوديسة: فيلم مغامرة وفانتازيا وحركة. تستند القصة إلى الملحمة اليونانية القديمة، حيث يعود الملك أوديسيوس إلى إيثاكا بعد عشر سنوات من الحرب.",
-    "outro": "شاهد The Odyssey الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "الأوديسة: فيلم ملحمي يمزج بين المغامرة والفانتازيا، ويأخذك في رحلة مليئة بالإثارة والتشويق. إنه تجسيد رائع للأسطورة اليونانية القديمة.",
-    "opinion_en": "The Odyssey: An epic adventure fantasy film that brings the ancient Greek myth to life. It's an action-packed journey with stunning visuals and an engaging narrative.",
+    "intro": "يحكي فيلم الأوديسة قصة الملك أوديسيوس الذي يبحث عن العودة إلى أيتشكا بعد مرور عشر سنوات من الحرب.",
+    "desc_ar": "يحكي فيلم الأوديسة قصة الملك أوديسيوس الذي يبحث عن العودة إلى أيتشكا بعد مرور عشر سنوات من الحرب. ولكن رحلته نحو الوطن أكثر خطورة من معارك الميدان، حيث يواجب أوديسيوس مواجهة الوحوش القاتلة والآلهة الغاضبة للقضاء على تحديات رحلته.",
+    "desc_en": "Based on the Ancient Greek epic, The Odyssey follows King Odysseus as he sets sail for Ithaca after ten years of war, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+    "seo_title_ar": "مشاهدة فيلم الأوديسة مترجم - فيلم مغامرة فانتازيا حركة 2026 - توميتو",
+    "meta_desc": "شاهد فيلم الأوديسة مترجم 2026 فيلم مغامرة فانتازيا حركة عن قصة الملك أوديسيوس الذي يبحث عن العودة إلى أيتشكا بعد مرور عشر سنوات من الحرب. استمتع بمشاهدة هذ",
+    "outro": "يترك فيلم الأوديسة أثراً عميقاً في قلوبنا، مع تعليمات عن كيفية التعامل مع التحديات والشوق في الحياة.",
+    "opinion_ar": "فيلم الأوديسة يأخذنا على رحلة مليئة بالتحديات والجوانب الغامرة للفرد البشري. من خلال قصة الملك أوديسيوس، نتعلم كيف يتعامل البشر مع الفشل والنجاح، وكم يهيمن الشوق على قلوبنا.",
+    "opinion_en": "The Odyssey takes us on a journey filled with challenges and the complexities of human nature. Through the story of King Odysseus, we learn how humans cope with failure and success, and how longing can dominate our hearts.",
     "faq": [
       {
-        "q": "ما هي الأوديسة؟",
-        "a": "الأوديسة هي ملحمة شعرية يونانية قديمة تروي قصة الملك أوديسيوس ورحلته الطويلة للعودة إلى وطنه إيثاكا بعد حرب طروادة.",
+        "q": "ما هو فيلم الأوديسة؟",
+        "a": "فيلم مغامرة فانتازيا حركة يروي قصة الملك أوديسيوس الذي يبحث عن العودة إلى أيتشكا بعد مرور عشر سنوات من الحرب.",
         "q_en": "What is The Odyssey?",
-        "a_en": "The Odyssey is an ancient Greek epic poem that tells the story of King Odysseus and his long journey back home to Ithaca after the Trojan War."
+        "a_en": "An adventure fantasy action film that tells the story of King Odysseus who is searching for a return to Ithaca after ten years of war."
+      },
+      {
+        "q": "ما هي أهمية فيلم الأوديسة؟",
+        "a": "يحمل فيلم الأوديسة أهمية كبيرة في تعليمنا كيفية التعامل مع التحديات والشوق.",
+        "q_en": "What is the importance of The Odyssey?",
+        "a_en": "The Odyssey has great importance in teaching us how to deal with challenges and longing."
       }
     ],
-    "keywords": "الأوديسة, فيلم, مغامرة, فانتازيا, حركة, ملحمة, يونانية, أوديسيوس, إيثاكا"
+    "keywords": "فيلم الأوديسة, فيلم مغامرة, فيلم فانتازيا, فيلم حركة, قصة الملك أوديسيوس, عودة إلى أيتشكا, الحرب, التحديات, الشوق, الإنسان, الفرد, النجاح والفشل, مشاهدة الأوديسة, The Odyssey مترجم, تحميل الأوديسة"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

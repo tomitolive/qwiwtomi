@@ -8867,8 +8867,26 @@
       "file": "72637.json",
       "title": "O11CE",
       "fixed_at": "2026-08-21T21:50:34.812663"
+    },
+    {
+      "tmdb_id": "1698863",
+      "file": "1698863.json",
+      "title": "The Odyssey",
+      "fixed_at": "2026-08-21T22:17:53.673354"
+    },
+    {
+      "tmdb_id": "640028",
+      "file": "640028.json",
+      "title": "El Secreto del Doctor Grinberg",
+      "fixed_at": "2026-08-21T22:17:59.844302"
+    },
+    {
+      "tmdb_id": "1336770",
+      "file": "1336770.json",
+      "title": "II",
+      "fixed_at": "2026-08-21T22:18:06.280227"
     }
   ],
-  "last_updated": "2026-08-21T21:50:36.815447",
-  "total_fixed": 1478
+  "last_updated": "2026-08-21T22:18:16.569820",
+  "total_fixed": 1481
 }
