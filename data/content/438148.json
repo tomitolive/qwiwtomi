@@ -9,23 +9,23 @@
   "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
   "release_date": "2022-06-29",
   "vote_average": 7.3,
-  "vote_count": 4009,
+  "vote_count": 4119,
   "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
     {
       "id": 35,
       "name": "كوميديا"
-    },
-    {
-      "id": 80,
-      "name": "جريمة"
     },
     {
       "id": 878,
       "name": "خيال علمي"
     },
     {
-      "id": 16,
-      "name": "رسوم متحركة"
+      "id": 80,
+      "name": "جريمة"
     },
     {
       "id": 10751,
@@ -33,12 +33,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "الشرير سوف يرتفع.  يخطط غرو ، وهو معجب بمجموعة خارقة تعرف باسم الشرير 6  ، ليصبح شريرا بما يكفي للانضمام إليهم ، مع دعم أتباعه ، التوابع .",
-    "desc_en": "الشرير سوف يرتفع.  يخطط غرو ، وهو معجب بمجموعة خارقة تعرف باسم الشرير 6  ، ليصبح شريرا بما يكفي للانضمام إليهم ، مع دعم أتباعه ، التوابع .",
-    "meta_desc": "مشاهدة المينيونز 2 صعود جرو مترجم بجودة عالية على توميتو.",
-    "keywords": "Minions: The Rise of Gru, قصة فيلم المينيونز 2 صعود جرو, توميتو المينيونز 2 صعود جرو, مشاهدة المينيونز 2 صعود جرو 2026, المينيونز 2 صعود جرو مترجم, أحداث المينيونز 2 صعود جرو بالتفصيل",
-    "seo_title_ar": "مشاهدة المينيونز 2 صعود جرو مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي هذا الفيلم قصة غرو ، المعجب المتحمس للمجموعة الخارقة المعروفة باسم الشرير 6 ، الذي يخطط لتصبح شريراً بما يكفي ليصبح عضوًا فيهم ، مع دعم أتباعه ، التوابع الملتزمين بمساعدته.",
+    "desc_ar": "الشرير سوف يرتفع. يخطط غرو ، وهو معجب بمجموعة خارقة تعرف باسم الشرير 6 ، ليصبح شريرا بما يكفي للانضمام إليهم ، مع دعم أتباعه ، التوابع .",
+    "desc_en": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions. He searches for a way to improve his evil skills, and teams up with his Minions in a dangerous mission to achieve his dream. However, he will face many challenges, and his power and intelligence will be put to the test. In the end, he will succeed in joining the Minions to the supergroup, but at a great cost.",
+    "seo_title_ar": "مشاهدة فيلم المينيونز 2 صعود جرو مترجم - توميتو",
+    "meta_desc": "مشاهدة المينيونز 2 صعود جرو مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "في النهاية ، سينجح في انضمام المينيونز إلى المجموعة الخارقة ، ولكن به ثمن كبير.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "Minions: The Rise of Gru is an entertaining and fun experience for all ages. It features vibrant animation and stunning visual effects. However, it is worth noting that the film contains some religious and cultural references that may affect some viewers.",
+    "faq": [
+      {
+        "q": "ما هو تاريخ إطلاق فيلم المينيونز 2 صعود جرو؟",
+        "a": "تم إطلاق فيلم المينيونز 2 صعود جرو في عام 2022.",
+        "q_en": "What is the release date of Minions: The Rise of Gru?",
+        "a_en": "Minions: The Rise of Gru was released in 2022."
+      }
+    ],
+    "keywords": "المينيونز 2 صعود جرو, رسوم متحركة, كوميديا, خيال علمي, جريمة, عائلي, فيلم, 2022, مترجم, بدون إعلانات, مشاهدة المينيونز 2 صعود جرو, Minions: The Rise Gru مترجم, تحميل المينيونز 2 صعود جرو, المينيونز 2 صعود جرو اون لاين, Minions: The Rise Gru"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +57,5 @@
   "duration": "87 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Steve Carell Pierre Coffin Alan Arkin Taraji P. Henson Julie Andrews"
+  "cast": "Steve Carell Pierre Coffin Alan Arkin Taraji P. Henson 楊紫瓊 Julie Andrews Russell Brand Jean-Claude Van Damme"
 }

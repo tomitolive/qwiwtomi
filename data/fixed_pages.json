@@ -7877,8 +7877,50 @@
       "file": "79.json",
       "title": "Hero",
       "fixed_at": "2026-08-20T23:52:38.479037"
+    },
+    {
+      "tmdb_id": "14424",
+      "file": "14424.json",
+      "title": "Malhao",
+      "fixed_at": "2026-08-21T00:36:04.732898"
+    },
+    {
+      "tmdb_id": "245026",
+      "file": "245026.json",
+      "title": "Wizards Beyond Waverly Place",
+      "fixed_at": "2026-08-21T00:36:11.956275"
+    },
+    {
+      "tmdb_id": "438148",
+      "file": "438148.json",
+      "title": "المينيونز 2 صعود جرو",
+      "fixed_at": "2026-08-21T00:36:18.883794"
+    },
+    {
+      "tmdb_id": "335360",
+      "file": "335360.json",
+      "title": "My Little Pony: The Movie",
+      "fixed_at": "2026-08-21T00:36:26.647872"
+    },
+    {
+      "tmdb_id": "2093",
+      "file": "2093.json",
+      "title": "Matlock",
+      "fixed_at": "2026-08-21T00:36:33.395525"
+    },
+    {
+      "tmdb_id": "698687",
+      "file": "698687.json",
+      "title": "المتحولون 1",
+      "fixed_at": "2026-08-21T00:36:41.365569"
+    },
+    {
+      "tmdb_id": "1426776",
+      "file": "1426776.json",
+      "title": "القشة الأخيرة",
+      "fixed_at": "2026-08-21T00:36:49.160105"
     }
   ],
-  "last_updated": "2026-08-20T23:52:40.481717",
-  "total_fixed": 1313
+  "last_updated": "2026-08-21T00:36:51.162885",
+  "total_fixed": 1320
 }
