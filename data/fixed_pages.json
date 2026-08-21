@@ -8819,8 +8819,32 @@
       "file": "19885.json",
       "title": "شرلوك",
       "fixed_at": "2026-08-21T20:53:05.446098"
+    },
+    {
+      "tmdb_id": "7345",
+      "file": "7345.json",
+      "title": "دماء في الأفق",
+      "fixed_at": "2026-08-21T21:17:34.046953"
+    },
+    {
+      "tmdb_id": "11362",
+      "file": "11362.json",
+      "title": "The Count of Monte Cristo",
+      "fixed_at": "2026-08-21T21:17:43.842136"
+    },
+    {
+      "tmdb_id": "1084199",
+      "file": "1084199.json",
+      "title": "قرين",
+      "fixed_at": "2026-08-21T21:17:52.373581"
+    },
+    {
+      "tmdb_id": "1127110",
+      "file": "1127110.json",
+      "title": "Diablo",
+      "fixed_at": "2026-08-21T21:18:03.861078"
     }
   ],
-  "last_updated": "2026-08-21T20:53:07.448925",
-  "total_fixed": 1470
+  "last_updated": "2026-08-21T21:18:05.863691",
+  "total_fixed": 1474
 }
