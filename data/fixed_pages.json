@@ -8243,8 +8243,44 @@
       "file": "2651.json",
       "title": "Profiler",
       "fixed_at": "2026-08-21T09:10:22.705161"
+    },
+    {
+      "tmdb_id": "105001",
+      "file": "105001.json",
+      "title": "Iceman",
+      "fixed_at": "2026-08-21T10:01:18.688843"
+    },
+    {
+      "tmdb_id": "1646787",
+      "file": "1646787.json",
+      "title": "Sundutan",
+      "fixed_at": "2026-08-21T10:01:27.119872"
+    },
+    {
+      "tmdb_id": "6390",
+      "file": "6390.json",
+      "title": "Escape to the Country",
+      "fixed_at": "2026-08-21T10:01:36.168111"
+    },
+    {
+      "tmdb_id": "84200",
+      "file": "84200.json",
+      "title": "Justice League Unlimited",
+      "fixed_at": "2026-08-21T10:01:45.232323"
+    },
+    {
+      "tmdb_id": "158326",
+      "file": "158326.json",
+      "title": "Jezioro Bodeskie",
+      "fixed_at": "2026-08-21T10:01:52.293265"
+    },
+    {
+      "tmdb_id": "177572",
+      "file": "177572.json",
+      "title": "الأبطال الستة",
+      "fixed_at": "2026-08-21T10:02:00.958935"
     }
   ],
-  "last_updated": "2026-08-21T09:10:24.707893",
-  "total_fixed": 1374
+  "last_updated": "2026-08-21T10:02:02.961697",
+  "total_fixed": 1380
 }

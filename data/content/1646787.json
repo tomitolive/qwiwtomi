@@ -4,11 +4,11 @@
   "title_ar": "Sundutan",
   "title_en": "Sundutan",
   "slug": "1646787-sundutan",
-  "overview": "",
+  "overview": "تحكي قصة سوندوتان عن صدفة تقود امرأتين إلى اتصال عاطفي وبدني بينهما. تفتح الفجوة بينهم أبواباً متعددة للأفكار والمشاعر، لكنها تترجح بين الحب والمال والخيانة... وماذا وراء هذه الفجوة؟ وكم يمكنهن من الحفاظ على السر؟",
   "poster_path": "/2neZgVuY7prWIak5hhNKT53Hk0N.jpg",
   "backdrop_path": "/zYm62AouAahA71AoOWHE5Qb0FYH.jpg",
   "release_date": "2026-03-06",
-  "vote_average": 4,
+  "vote_average": 4.0,
   "vote_count": 1,
   "genres": [
     {
@@ -17,32 +17,41 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم متشابهاً باللوعة والشقاء، يمرر سندوتان من خلال رحلة من الألم والشوق، حيث يتعرض للاختبارات والتحديات في محاولة لاستعادة حياته، ويحاول أن يجد من يهتم به ويقبل به، فيما يتعرض للاختبارات والتحديات في محاولة لاستعادة حياته.",
-    "desc_en": "In a world filled with pain and suffering, Sundutan navigates a journey of grief and longing, as he faces challenges and tests in an attempt to regain his life, and tries to find someone who cares for him and accepts him, as he faces challenges and tests in an attempt to regain his life.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم دراما Sundutan",
-    "seo_title_ar": "مشاهدة فيلم Sundutan مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم دراما, مشاهدة Sundutan 2026, قصة فيلم Sundutan, Sundutan مترجم, توميتو Sundutan, أحداث Sundutan بالتفصيل",
-    "opinion": "هو فيلم دراما رائع يأخذك في رحلة من الألم والشوق، حيث يتعرض سندوتان للاختبارات والتحديات في محاولة لاستعادة حياته، ويحاول أن يجد من يهتم به ويقبل به، فيما يتعرض للاختبارات والتحديات في محاولة لاستعادة حياته.",
+    "intro": "يعد فيلم سوندوتان تجربة فنية فريدة وممتعة، حيث يتعرض المشاهد لمسار قصة حب مرهق ومليء بالتحديات.",
+    "desc_ar": "تحكي قصة سوندوتان عن صدفة تقود امرأتين إلى اتصال عاطفي وبدني بينهما. تفتح الفجوة بينهم أبواباً متعددة للأفكار والمشاعر، لكنها تترجح بين الحب والمال والخيانة... وماذا وراء هذه الفجوة؟ وكم يمكنهن من الحفاظ على السر؟",
+    "desc_en": "A hole on the wall accidentally connects two women emotionally and physically. Forbidden love, greed, betrayal... what lies beyond the hole? And for how long can they keep covering it up?",
+    "seo_title_ar": "مشاهدة فيلم سوندوتان مترجم - دراما 2026 - توميتو",
+    "meta_desc": "شاهد فيلم سوندوتان مترجم 2026 - دراما روعة ومليئة بالتحديات والاستكشاف. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمت",
+    "outro": "استمتع بمشاهدة فيلم سوندوتان مترجم 2026، دراما روعة ومليئة بالتحديات والاستكشاف.",
+    "opinion_ar": "يعد فيلم سوندوتان تجربة فنية فريدة وممتعة، حيث يتعرض المشاهد لمسار قصة حب مرهق ومليء بالتحديات.",
+    "opinion_en": "Sundutan is a unique and engaging cinematic experience, where the audience is taken through a challenging and emotional journey of forbidden love.",
     "faq": [
       {
-        "q": "ما هو فيلم Sundutan؟",
-        "a": "هو فيلم دراما رائع يأخذك في رحلة من الألم والشوق"
+        "q": "ما هو فيلم سوندوتان؟",
+        "a": "يحكي فيلم سوندوتان قصة امرأتين متصلة عاطفيًا وبدنيًا من خلال فجوة على الجدار.",
+        "q_en": "What is Sundutan?",
+        "a_en": "Sundutan is a film about two women connected emotionally and physically through a hole on the wall."
       },
       {
-        "q": "ما هو نوع فيلم Sundutan؟",
-        "a": "هو فيلم دراما"
+        "q": "ما هي قصة فيلم سوندوتان؟",
+        "a": "يحكي الفيلم عن صدفة تقود امرأتين إلى اتصال عاطفي وبدني بينهما، وتفتح بينهما أبوابًا متعددة للأفكار والمشاعر.",
+        "q_en": "What is the story of Sundutan?",
+        "a_en": "The film tells the story of a chance encounter that connects two women emotionally and physically, opening doors to multiple ideas and emotions."
       },
       {
-        "q": "ما هو أفضل ما في فيلم Sundutan؟",
-        "a": "هو فيلم دراما رائع يأخذك في رحلة من الألم والشوق"
+        "q": "ما هو نوع فيلم سوندوتان؟",
+        "a": "هو فيلم درامي.",
+        "q_en": "What type of film is Sundutan?",
+        "a_en": "Sundutan is a drama film."
       }
-    ]
+    ],
+    "keywords": "فيلم دراما سوندوتان مترجم 2026، فيلم سوندوتان، دراما، فيلم سوندوتان مترجم، قصة حب مرهق، تحديات، استكشاف، فيلم درامي, مشاهدة سوندوتان, Sundutan مترجم, تحميل سوندوتان, سوندوتان اون لاين, Sundutan, سوندوتان جودة عالية, فيلم سوندوتان, Sundutan HD, سوندوتان HD, مسلسل سوندوتان, Sundutan مشاهدة, سوندوتان توب سينما, سوندوتان شاهدد, سوندوتان توميتو"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "70 دقيقة",
-  "language": "tl",
-  "country": "الفلبين",
+  "language": "الإنجليزية",
+  "country": "Philippines",
   "cast": "Allison Ross Jade Esguerra Mark Dionisio Zia Zamora Primo Angeles"
 }
