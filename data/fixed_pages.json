@@ -8315,8 +8315,44 @@
       "file": "934433.json",
       "title": "الصرخة ٦",
       "fixed_at": "2026-08-21T10:26:56.285802"
+    },
+    {
+      "tmdb_id": "98177",
+      "file": "98177.json",
+      "title": "Trying",
+      "fixed_at": "2026-08-21T10:58:36.834984"
+    },
+    {
+      "tmdb_id": "277217",
+      "file": "277217.json",
+      "title": "Descendants",
+      "fixed_at": "2026-08-21T10:58:45.451954"
+    },
+    {
+      "tmdb_id": "46004",
+      "file": "46004.json",
+      "title": "Date A Live",
+      "fixed_at": "2026-08-21T10:58:54.888402"
+    },
+    {
+      "tmdb_id": "4087",
+      "file": "4087.json",
+      "title": "ملفات إكس",
+      "fixed_at": "2026-08-21T10:59:02.948644"
+    },
+    {
+      "tmdb_id": "3497",
+      "file": "3497.json",
+      "title": "Moesha",
+      "fixed_at": "2026-08-21T10:59:10.586183"
+    },
+    {
+      "tmdb_id": "1477317",
+      "file": "1477317.json",
+      "title": "Your Fault: London",
+      "fixed_at": "2026-08-21T10:59:18.459129"
     }
   ],
-  "last_updated": "2026-08-21T10:26:58.288496",
-  "total_fixed": 1386
+  "last_updated": "2026-08-21T10:59:20.461896",
+  "total_fixed": 1392
 }

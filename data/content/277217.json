@@ -9,7 +9,7 @@
   "backdrop_path": "/20ncMtoy9Cxy6OQxgXZemHoFymz.jpg",
   "release_date": "2015-07-31",
   "vote_average": 7.2,
-  "vote_count": 2507,
+  "vote_count": 2565,
   "genres": [
     {
       "id": 10751,
@@ -26,19 +26,26 @@
     {
       "id": 10770,
       "name": "فيلم تلفازي"
-    },
-    {
-      "id": 10402,
-      "name": "موسيقى"
     }
   ],
   "ai_content": {
-    "desc_ar": "يقدم بن، وهو الابن المراهق للملكة والملك أورادون، الفرصة للأطفال الأشرار الذين يواجهون مشاكل بالالتحاق بالمدرسة الإعدادية في المملكة بالرغم من عدم جاهزيته أمام هكذا مهمة.",
-    "desc_en": "يقدم بن، وهو الابن المراهق للملكة والملك أورادون، الفرصة للأطفال الأشرار الذين يواجهون مشاكل بالالتحاق بالمدرسة الإعدادية في المملكة بالرغم من عدم جاهزيته أمام هكذا مهمة.",
-    "meta_desc": "مشاهدة Descendants مترجم بجودة عالية على توميتو.",
-    "keywords": "قصة فيلم Descendants, Descendants مترجم, أحداث Descendants بالتفصيل, مشاهدة Descendants 2026, توميتو Descendants",
-    "seo_title_ar": "مشاهدة Descendants مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"أحفاد\" قصة عن الأبناء الأشرار الذين يحاولون التغلب على سلوكهم السلبي وإنشاء مستقبل أفضل.",
+    "desc_ar": "يحكي فيلم \"أحفاد\" قصة عالم خيالي حيث يتحول الأبناء الأشرار للقصص الكلاسيكية عن الأشرار إلى أفراد صالحين في المجتمع. يمنح بن، ابن الملكة والملك أورادون، الفرصة للناس الذين يحتاجون إلى إصلاح وفرصتهم للعيش حياة أفضل. في هذا العالم الخيالي، يجد الأبناء الأشرار فرصة للاستغناء عن سلوكهم السلبي وإنشاء مستقبل أفضل. ولكن هل سوف يستطيعون التغلب على غياب الإرادة والقيم السلبية التي تمسهم؟",
+    "desc_en": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay). The story revolves around the transformation of these villains' children into productive members of society, giving them a chance to redeem themselves and start anew. However, can they overcome their lack of motivation and negative values that have been holding them back?",
+    "seo_title_ar": "مشاهدة فيلم أحفاد مترجم - أحفاد 2015 - توميتو",
+    "meta_desc": "أحفاد فيلم 2015 عن الأبناء الأشرار للقصص الكلاسيكية عن الأشرار. يستطيعون التغلب على سلوكهم السلبي؟ استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدو",
+    "outro": "يعد فيلم \"أحفاد\" تجربة مشاهدة ممتعة ومفيدة. يستطيع الأبناء الأشرار التغلب على سلوكهم السلبي وإنشاء مستقبل أفضل؟",
+    "opinion_ar": "يعد فيلم \"أحفاد\" تجربة مشاهدة ممتعة ومفيدة. يسلط الضوء على أهمية إصلاح السلوك السلبي وتحقيق الأهداف.",
+    "opinion_en": "Descendants is a fun and informative movie. It highlights the importance of overcoming negative behavior and achieving goals.",
+    "faq": [
+      {
+        "q": "من هم الأبناء الأشرار في فيلم أحفاد؟",
+        "a": "الأبناء الأشرار هم أبناء القصص الكلاسيكية عن الأشرار مثل كرويلا ديفيل وماليفتنت والملكة الشريرة وجافار.",
+        "q_en": "Who are the troublemaking offspring in Descendants?",
+        "a_en": "The troublemaking offspring are the children of Disney's classic villains, including Cruella De Vil, Maleficent, the Evil Queen, and Jafar."
+      }
+    ],
+    "keywords": "فيلم أحفاد, أحفاد 2015, أشرار, قصص كلاسيكية, سلوك سلبى, إصلاح, الأهداف, أحفاد الشمس, مسلسل أحفاد الشمس, مشاهدة أحفاد, Descendants مترجم, تحميل أحفاد, أحفاد اون لاين, Descendants, أحفاد جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +53,5 @@
   "duration": "112 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dove Cameron Sofia Carson Cameron Boyce Booboo Stewart Mitchell Hope"
+  "cast": "Dove Cameron Sofia Carson Cameron Boyce Booboo Stewart Brenna D'Amico Mitchell Hope Sarah Jeffery Jedidiah Goodacre"
 }

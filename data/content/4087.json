@@ -4,14 +4,12 @@
   "title_ar": "ملفات إكس",
   "title_en": "The X-Files",
   "slug": "4087-the-x-files",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يجب على العميلان مولدر وسكالي محاربة الحكومة في مؤامرة وإيجاد الحقيقة المجردة حول استعمار أجنبي للأرض.",
+  "overview": "الحقيقة تختبئ في مكان ما، ويطاردها عميلان بمكتب التحقيقات الفيدرالي في دراما خيال علمي وظواهر خارقة.",
   "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
   "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
   "release_date": "1993-09-10",
   "vote_average": 8.4,
-  "vote_count": 3555,
+  "vote_count": 3671,
   "genres": [
     {
       "id": 9648,
@@ -27,35 +25,36 @@
     }
   ],
   "ai_content": {
-    "intro": "ماذا يحدث عندما يتجسد الشك في صورة casos غامضة لا تحمل معها سوى الظن والأحجية؟",
-    "desc_ar": "في عالم مليء بالغموض والخوف، يلتقي المولدر وسكالي في رحلة بحث عن الحقيقة المجردة حول استعمار أجنبي للأرض. معاً، يخوضان المعركة ضد الحكومة التي تريد إخفاء الحقيقة عن العالم. سوف نكتشف معهم أسرار غامضة وستقبلنا في عالم من الخيال والواقع.",
-    "seo_title_ar": "مشاهدة فيلم ملفات إكس مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ملفات إكس - توميتو",
-    "outro": "إذا كنت تحب التحدي والغموض، فلا تفوت فرصة مشاهدة ملفات إكس",
-    "opinion": "هو فيلم من نوعه، ملفات إكس هو فيلم غامض مليء بالتension والتشويق. سوف نكتشف مع المولدر وسكالي أسرار غامضة وستقبلنا في عالم من الخيال والواقع.",
+    "intro": "في هذا العمل، نرى كيف يعمل العاملان معا في تحقيقهم لمعرفة الحقيقة وراء هذه الأحداث الغامضة. يعتقد أحد العاملين في المكتب بوجود aliens و الظواهر الخارقة بينما يعارضه الآخر.",
+    "desc_ar": "يحكي هذا العمل قصة جريمة خيالية يتوجب على اثنين من عمال مكتب التحقيقات الفيدرالي البحث في حالات محسورة ظهرت في ظهورات خارقة. يعتقد أحد العاملين في المكتب بوجود و الظواهر الخارقة بينما يعارضه الآخر، وعلى هذا الأساس يتعين عليهما العمل معا لتحديد الحقيقة وراء هذه الظواهر الغامضة. و في هذا المسلسل، نرى كيف يعمل العاملان معا في تحقيقهم لمعرفة الحقيقة وراء هذه الأحداث الغامضة.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words. The X-Files follows the investigations of FBI Special Agents Fox Mulder and Dana Scully, as they delve into unsolved cases involving paranormal phenomena. With Mulder's strong belief in the existence of aliens and the paranormal, and Scully's skeptical approach, they form an unlikely duo, working together to uncover the truth behind these mysterious events.",
+    "seo_title_ar": "مشاهدة مسلسل ملفات إكس مترجم - توميتو",
+    "meta_desc": "ملفات إكس: مسلسل غموض خيال علمي وفانتازيا يتبع عمال مكتب التحقيقات الفيدرالي في دراما ممتعة وغامضة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بد",
+    "outro": "في نهاية العمل، نرى كيف يعمل العاملان معا لتحديد الحقيقة وراء هذه الأحداث الغامضة. وهذا ما يجعل مسلسل ملفات إكس من بين أفضل المسلسلات الغامضة التي تتناول ظواهر خارقة.",
+    "opinion_ar": "ملفات إكس هو واحد من أفضل المسلسلات الغامضة التي تتناول ظواهر خارقة، حيث يعمل العاملان في المكتب معا لتحديد الحقيقة وراء هذه الأحداث الغامضة.",
+    "opinion_en": "The X-Files is one of the best paranormal mystery series that explores unexplained phenomena, as the two agents work together to uncover the truth behind these mysterious events.",
     "faq": [
       {
-        "q": "ما هو ملفات إكس؟",
-        "a": "هو فيلم غامض مليء بالتension والتشويق."
+        "q": "ما هي قصة مسلسل ملفات إكس؟",
+        "a": "يحكي مسلسل ملفات إكس قصة جريمة خيالية يتوجب على اثنين من عمال مكتب التحقيقات الفيدرالي البحث في حالات محسورة ظهرت في ظهورات خارقة.",
+        "q_en": "What is the story of The X-Files?",
+        "a_en": "The X-Files follows the investigations of FBI Special Agents Fox Mulder and Dana Scully, as they delve into unsolved cases involving paranormal phenomena."
       },
       {
-        "q": "ما هو نوع ملفات إكس؟",
-        "a": "هو فيلم غموض، خيال علمي وفانتازيا، جريمة."
-      },
-      {
-        "q": "ما هو أفضل شيء في ملفات إكس؟",
-        "a": "هو عالم من الخيال والواقع، مليء بالتension والتشويق."
+        "q": "ما هو موضوع مسلسل ملفات إكس؟",
+        "a": "يتناول مسلسل ملفات إكس ظواهر خارقة وعوامل غامضة، حيث يعمل العاملان في المكتب معا لتحديد الحقيقة وراء هذه الأحداث الغامضة.",
+        "q_en": "What is the subject of The X-Files?",
+        "a_en": "The X-Files explores paranormal phenomena and unsolved cases, as the two agents work together to uncover the truth behind these mysterious events."
       }
     ],
-    "keywords": "The X-Files, فيلم ملفات إكس مترجم, مشاهدة فيلم ملفات إكس, غموض, خيال علمي وفانتازيا, جريمة, مشاهدة ملفات إكس 1993, توميتو ملفات إكس, أحداث ملفات إكس بالتفصيل, قصة مسلسل ملفات إكس, ملفات إكس مترجم كامل",
-    "desc_en": "In a world full of mystery and fear, Mulder and Scully embark on a journey to uncover the truth about an alien invasion. Together, they take on the government, which wants to hide the truth from the world. We will discover with them the secrets of the unknown and enter a world of fantasy and reality."
+    "keywords": "ملفات إكس, مسلسل غموض خيال علمي وفانتازيا, جريمة, مكتب التحقيقات الفيدرالي, عمال مكتب التحقيقات, ظواهر خارقة, حوادث غامضة, مسلسل خيال علمي وفانتازيا, دراما غامضة, مشاهدة ملفات إكس, The -Files مترجم, تحميل ملفات إكس, ملفات إكس اون لاين, The -Files, ملفات إكس جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "1993-09-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "David Duchovny Gillian Anderson Mitch Pileggi",
+  "first_air_date": "1993-09-10"
 }
