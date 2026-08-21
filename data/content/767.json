@@ -9,7 +9,7 @@
   "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
   "release_date": "2009-07-15",
   "vote_average": 7.7,
-  "vote_count": 20763,
+  "vote_count": 21084,
   "genres": [
     {
       "id": 12,
@@ -21,12 +21,35 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة فيلم هاري بوتر والأمير الهجين (2009) مترجم بجودة عالية على توميتو.",
     "desc_ar": "مع بداية عامه السادس في هوجورتس، يكتشف هاري بوتر كتابًا قديمًا يحمل علامة \"ملكية الأمير الهجين\"، ويبدأ في التعرف أكثر على ماضي اللورد فولدمورت المظلم.",
-    "desc_en": "مع بداية عامه السادس في هوجورتس، يكتشف هاري بوتر كتابًا قديمًا يحمل علامة \"ملكية الأمير الهجين\"، ويبدأ في التعرف أكثر على ماضي اللورد فولدمورت المظلم.",
-    "meta_desc": "مشاهدة هاري بوتر والأمير الهجين مترجم بجودة عالية على توميتو.",
-    "keywords": "Harry Potter and the Half-Blood Prince, أحداث هاري بوتر والأمير الهجين بالتفصيل, هاري بوتر والأمير الهجين مترجم, مشاهدة هاري بوتر والأمير الهجين 2026, قصة فيلم هاري بوتر والأمير الهجين, توميتو هاري بوتر والأمير الهجين",
-    "seo_title_ar": "مشاهدة هاري بوتر والأمير الهجين مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
+    "seo_title_ar": "مشاهدة فيلم Harry Potter and the Half-Blood Prince مترجم - توميتو",
+    "meta_desc": "مشاهدة هاري بوتر والأمير الهجين مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات م",
+    "outro": "شاهد هاري بوتر والأمير الهجين الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة فيلم هاري بوتر والأمير الهجين?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Harry Potter and the Half-Blood Prince?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم هاري بوتر والأمير الهجين?",
+        "a": "يندرج العمل تحت تصنيف مغامرة, فانتازيا.",
+        "q_en": "What is the genre of Harry Potter and the Half-Blood Prince?",
+        "a_en": "It falls under the genre of مغامرة, فانتازيا."
+      },
+      {
+        "q": "ما هي قصة فيلم هاري بوتر والأمير الهجين?",
+        "a": "مع بداية عامه السادس في هوجورتس، يكتشف هاري بوتر كتابًا قديمًا يحمل علامة \"ملكية الأمير الهجين\"، ويبدأ في التعرف أكثر على ماضي اللورد فولدمورت المظلم.",
+        "q_en": "What is the story of Harry Potter and the Half-Blood Prince?",
+        "a_en": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds."
+      }
+    ],
+    "keywords": "هاري بوتر والأمير الهجين مترجم, Harry Potter and the Half-Blood Prince مترجم, مشاهدة هاري بوتر والأمير الهجين,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +57,5 @@
   "duration": "153 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Daniel Radcliffe Rupert Grint Emma Watson Jim Broadbent Michael Gambon"
+  "cast": "Daniel Radcliffe Rupert Grint Emma Watson Jim Broadbent Michael Gambon Tom Felton Alan Rickman Bonnie Wright"
 }

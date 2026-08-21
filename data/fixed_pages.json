@@ -8351,8 +8351,44 @@
       "file": "1477317.json",
       "title": "Your Fault: London",
       "fixed_at": "2026-08-21T10:59:18.459129"
+    },
+    {
+      "tmdb_id": "767",
+      "file": "767.json",
+      "title": "هاري بوتر والأمير الهجين",
+      "fixed_at": "2026-08-21T11:20:37.839214"
+    },
+    {
+      "tmdb_id": "128098",
+      "file": "128098.json",
+      "title": "Interview with the Vampire",
+      "fixed_at": "2026-08-21T11:20:48.932388"
+    },
+    {
+      "tmdb_id": "607",
+      "file": "607.json",
+      "title": "الرجال ذي الحلل السوداء",
+      "fixed_at": "2026-08-21T11:20:57.572244"
+    },
+    {
+      "tmdb_id": "20222",
+      "file": "20222.json",
+      "title": "Sexo con amor",
+      "fixed_at": "2026-08-21T11:21:06.519781"
+    },
+    {
+      "tmdb_id": "1600",
+      "file": "1600.json",
+      "title": "La Double Vie de Vronique",
+      "fixed_at": "2026-08-21T11:21:15.372872"
+    },
+    {
+      "tmdb_id": "65708",
+      "file": "65708.json",
+      "title": "تابو",
+      "fixed_at": "2026-08-21T11:21:23.713493"
     }
   ],
-  "last_updated": "2026-08-21T10:59:20.461896",
-  "total_fixed": 1392
+  "last_updated": "2026-08-21T11:21:25.716228",
+  "total_fixed": 1398
 }
