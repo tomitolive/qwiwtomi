@@ -8645,8 +8645,38 @@
       "file": "61379.json",
       "title": "Monthly Girls Nozaki-kun",
       "fixed_at": "2026-08-21T17:03:15.465869"
+    },
+    {
+      "tmdb_id": "289763",
+      "file": "289763.json",
+      "title": "See You at Work Tomorrow!",
+      "fixed_at": "2026-08-21T17:30:00.703985"
+    },
+    {
+      "tmdb_id": "381284",
+      "file": "381284.json",
+      "title": "أشخاص في الخفاء",
+      "fixed_at": "2026-08-21T17:30:10.682209"
+    },
+    {
+      "tmdb_id": "1384",
+      "file": "1384.json",
+      "title": "Four Corners",
+      "fixed_at": "2026-08-21T17:30:19.501124"
+    },
+    {
+      "tmdb_id": "11726",
+      "file": "11726.json",
+      "title": "Engrenages",
+      "fixed_at": "2026-08-21T17:30:26.666414"
+    },
+    {
+      "tmdb_id": "87382",
+      "file": "87382.json",
+      "title": "رامي",
+      "fixed_at": "2026-08-21T17:31:02.198829"
     }
   ],
-  "last_updated": "2026-08-21T17:03:17.468768",
-  "total_fixed": 1441
+  "last_updated": "2026-08-21T17:31:04.201570",
+  "total_fixed": 1446
 }

@@ -4,14 +4,12 @@
   "title_ar": "رامي",
   "title_en": "Ramy",
   "slug": "87382-ramy",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "رامي ، نجل المهاجرين المصريين ، يقوم برحلة متعارضة روحياً في الحي الذي يعيش فيه ، حيث يتم جره بين مجتمعه المسلم الذي يعتقد أن الحياة اختبار دائم ، وأصدقائه الألفيون الذين يعتقدون أن الحياة مليئة بالاحتمالات.",
   "poster_path": "/1BWoA3zIfTameIGFZNFZYSyFB5e.jpg",
   "backdrop_path": "/zrFFyov14QWKV4puDWLO6OqKf9k.jpg",
   "release_date": "2019-04-19",
   "vote_average": 7.3,
-  "vote_count": 145,
+  "vote_count": 153,
   "genres": [
     {
       "id": 35,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "رامي ، نجل المهاجرين المصريين ، يقوم برحلة متعارضة روحياً في الحي الذي يعيش فيه ، حيث يتم جره بين مجتمعه المسلم الذي يعتقد أن الحياة اختبار دائم ، وأصدقائه الألفيون الذين يعتقدون أن الحياة مليئة بالاحتمالات. في هذه الرحلة ، سيتعرف رامي على نفسه والآخرين ، وسيتعلم أن الحياة ليست اختبار دائم ، بل هي أيضاً فرصة للاختراق والبحث عن النفس.",
-    "desc_en": "Ramy, the son of Egyptian immigrants, embarks on a spiritual journey in his neighborhood, torn between his Muslim community that believes life is a constant test, and his friends who think life is full of possibilities. In this journey, Ramy will discover himself and others, and learn that life is not just a test, but also an opportunity for self-discovery and exploration.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في رامي - توميتو",
-    "seo_title_ar": "مشاهدة فيلم رامي مترجم اون لاين - توميتو",
-    "keywords": "Ramy, فيلم كوميدي دراما مترجم, مشاهدة فيلم رامي, قصة مسلسل رامي, مشاهدة رامي 2019, توميتو رامي, أحداث رامي بالتفصيل, رامي مترجم كامل",
-    "opinion": "رامي هو فيلم كوميدي دراما يلقي بظلاله على حياة رامي ، نجل المهاجرين المصريين. الفيلم يلقي بظلاله على حياة رami ، نجل المهاجرين المصريين. الفيلم يلقي بظلاله على حياة رami ، نجل المهاجرين المصريين.",
+    "intro": "يحكي مسلسل رامي قصة رامي، نجل المهاجرين المصريين، في الحي الذي يعيش فيه، حيث يتعرض لآراء متضاربة من مجتمعه المسلم ومواقف أصدقائه الألفيون.",
+    "desc_ar": "رامي ، نجل المهاجرين المصريين ، يقوم برحلة متعارضة روحياً في الحي الذي يعيش فيه ، حيث يتم جره بين مجتمعه المسلم الذي يعتقد أن الحياة اختبار دائم ، وأصدقائه الألفيون الذين يعتقدون أن الحياة مليئة بالاحتمالات.",
+    "desc_en": "Ramy, the son of Egyptian immigrants, navigates a spiritually conflicting journey in his New Jersey neighborhood. He is pulled between his Muslim community that thinks life is a constant test, his millennial friends who think life is full of endless possibilities, and a God who's always watching. Ramy experiences a unique journey in this neighborhood, where he encounters different cultures and conflicting perspectives. Ultimately, he finds himself expressing his emotions and life experiences.",
+    "seo_title_ar": "مشاهدة مسلسل رامي مترجم - توميتو",
+    "meta_desc": "رامي مسلسل درامي كوميدي يعرض قصة رامي، نجل المهاجرين المصريين، في الحي الذي يعيش فيه، حيث يتعرض لآراء متضاربة من مجتمعه المسلم ومواقف أصدقائه الألفيون، ويش",
+    "outro": "يعيش رامي تجربة فريدة في هذا الحي، حيث يتعرف على الثقافات المختلفة والمواقف المتناقضة، ويجد نفسه معبرًا عن مشاعره وتجارب حياته.",
+    "opinion_ar": "يعد مسلسل رامي تجربة فريدة في عالم السينما، حيث يعرض قصة رامي وتجارب حياته في الحي الذي يعيش فيه. يُظهر المسلسل الثقافات المختلفة والمواقف المتناقضة في الحي، ويُشكِّل رامي وظيفة فريدة في عالم السينما.",
+    "opinion_en": "Ramy is a unique experience in the world of cinema, showcasing Ramy's story and life experiences in his New Jersey neighborhood. The series presents different cultures and conflicting perspectives in the neighborhood, and Ramy's character serves as a unique function in the world of cinema.",
     "faq": [
       {
-        "q": "ما هو رامي؟",
-        "a": "رامي هو فيلم كوميدي دراما يلقي بظلاله على حياة رami ، نجل المهاجرين المصريين."
+        "q": "ما هو مسلسل رامي؟",
+        "a": "يعرض مسلسل رامي قصة رامي، نجل المهاجرين المصريين، في الحي الذي يعيش فيه، حيث يتعرض لآراء متضاربة من مجتمعه المسلم ومواقف أصدقائه الألفيون.",
+        "q_en": "What is Ramy?",
+        "a_en": "Ramy is a series that showcases Ramy's story and life experiences in his New Jersey neighborhood."
       },
       {
-        "q": "ما هو نوع رامي؟",
-        "a": "رامي هو نوع كوميدي دراما."
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه رامي؟",
-        "a": "رامي يحدث في الحي الذي يعيش فيه رami ، نجل المهاجرين المصريين."
+        "q": "ما هي قصة مسلسل رامي؟",
+        "a": "يعرض المسلسل قصة رامي وتجارب حياته في الحي الذي يعيش فيه، حيث يتعرض لآراء متضاربة من مجتمعه المسلم ومواقف أصدقائه الألفيون.",
+        "q_en": "What is the story of Ramy?",
+        "a_en": "The series presents Ramy's story and life experiences in his New Jersey neighborhood, where he encounters different cultures and conflicting perspectives."
       }
-    ]
+    ],
+    "keywords": "رامي, مسلسل, دراما, كوميديا, قصة, تجربة, حي, ثقافات, مواقف متناقضة, الله, إيمان, تعلم, مشاهدة رامي, Ramy مترجم, تحميل رامي"
   },
   "fixed": true,
-  "first_air_date": "2019-04-19",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "98 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Archibald Eser Luitgard Im Werner Bruhns Irina von Bentheim Susanne Uhlen"
+  "duration": "30 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Ramy Youssef May Calamawy Hiam Abbass Amr Waked Laith Nakli Mo Amer Dave Merheje",
+  "first_air_date": "2019-04-19"
 }
