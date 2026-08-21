@@ -1,18 +1,20 @@
 {
   "id": 218342,
-  "title": "A Good Girls Guide to Murder",
-  "title_ar": "A Good Girls Guide to Murder",
+  "title": "دليل جرائم القتل من فتاة صالحة",
+  "title_ar": "دليل جرائم القتل من فتاة صالحة",
   "title_en": "A Good Girls Guide to Murder",
   "slug": "218342-a-good-girls-guide-to-murder",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "بعد مرور خمس سنوات على وفاة طالبة المدرسة آندي بيل، تبدأ بيبا فيتز أموبي رحلة للكشف عما حدث لها بالفعل. لقد اعترف سال سينغ، صديق آندي، بالجريمة قبل أن ينهي حياته، لكن بيب لا تصدق أنه المسؤول، وتتعاون مع رافي، شقيق سال، لكشف الحقيقة. إذا لم يكن سال سينغ قاتلاً وكان القاتل الحقيقي لا يزال طليقاً، فإلى أي مدى قد يذهب لمنع بيب من معرفة الحقيقة؟",
   "poster_path": "/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
-  "backdrop_path": "/8H3KFYBklgxPiGsc8yWNWqGPZ9G.jpg",
+  "backdrop_path": "/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
   "release_date": "2024-07-10",
-  "vote_average": 7.4,
-  "vote_count": 301,
+  "vote_average": 7.5,
+  "vote_count": 365,
   "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
     {
       "id": 80,
       "name": "جريمة"
@@ -20,42 +22,39 @@
     {
       "id": 9648,
       "name": "غموض"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "",
-    "desc_ar": "في عالم مليء بالسرية والخداع، تكتشف فتاة صغيرة اسمها بيرنيسا أنها قتلت رجلها، ولكنها لم تكن الوحيدة، فهناك شخصان آخرين قتلوا في نفس الليلة، ويبدأ البحث عن القاتل، ولكن ما الذي ينتظر بيرنيسا؟",
-    "seo_title_ar": "مشاهدة فيلم أيد جيرلز جايد تو ميردر مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم جريمة غموض دراما",
-    "outro": "",
-    "opinion": "هذا الفيلم هو مثال رائع لجريمة غموض دراما، حيث يجمع بين الحبكة الجريئة والشخصيات القوية، ويحولك إلى عالم مليء بالسرية والخداع",
+    "intro": "في عالم مليء بالغموض والسرور، يبحث بيبا فيتز أموبي عن الحقيقة وراء وفاة صديقتها آندي بيل.",
+    "desc_ar": "في هذه الدراما الغامضة، يبحث بيبا فيتز أموبي عن الحقيقة وراء وفاة صديقتها آندي بيل، التي اعترف صديق آندي بالجريمة قبل أن ينجح في انتحاره. لكن بيب لا تعتقد أن صديق آندي كان المسؤول، وتصطاد مع شقيق الصديق، رافي، لكي تكشف الحقيقة. سوف يصلان إلى حقيقة صادمة في عالم مليء بالسرور والغموض.",
+    "desc_en": "Five years after the death of schoolgirl Andie Bell, Pippa Fitz-Amobi sets out to uncover what really happened to her. Sal Singh, Andie's boyfriend, admitted to the murder before taking his own life, but Pip doesn't believe he's responsible and teams up with Sal's brother Ravi to uncover the truth. If Sal Singh isn't a murderer and the real killer is still out there, how far will they go to keep Pip from finding out the truth?",
+    "seo_title_ar": "مشاهدة دليل جرائم القتل من فتاة صالحة مترجم - توماتو",
+    "meta_desc": "شاهد مسلسل دليل جرائم القتل من فتاة صالحة 2024 مترجم على توماتو، دراما غامضة، جريمة، غموض، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "سوف يصلان بيبا ورفيقها رافي إلى حقيقة صادمة في هذا العمل الدرامي الغامض، دليل جرائم القتل من فتاة صالحة.",
+    "opinion_ar": "مسلسل دليل جرائم القتل من فتاة صالحة هو تجربة مثيرة ومفاجئة تجعلك تتساءل عن الحقيقة وراء كل ما يحدث في هذا العمل الدرامي الغامض.",
+    "opinion_en": "A Good Girls Guide to Murder is an exciting and surprising experience that makes you question the truth behind every event in this intriguing drama.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم جريمة غموض دراما"
+        "q": "ما هي حكاية مسلسل دليل جرائم القتل من فتاة صالحة؟",
+        "a": "يتناول المسلسل حكاية بيبا فيتز أموبي التي تذهب للكشف عن الحقيقة وراء وفاة صديقتها آندي بيل.",
+        "q_en": "What is the story of A Good Girls Guide to Murder?",
+        "a_en": "The series follows Pippa Fitz-Amobi's journey to uncover the truth behind her friend Andie Bell's death."
       },
       {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "يحكي قصة قتل وسرية والبحث عن القاتل"
-      },
-      {
-        "q": "ما هو ما ينتظر بيرنيسا؟",
-        "a": "ما هو ما ينتظر بيرنيسا؟ هو ما ينتظرها في النهاية"
+        "q": "من بطولة مسلسل دليل جرائم القتل من فتاة صالحة؟",
+        "a": "يشارك بيبا فيتز أموبي في هذا العمل مع رافي، شقيق صديق آندي، في رحلة كشف الحقيقة.",
+        "q_en": "Who stars in A Good Girls Guide to Murder?",
+        "a_en": "Pippa Fitz-Amobi stars alongside Ravi, Andie's brother, in this journey to uncover the truth."
       }
     ],
-    "keywords": "فيلم جريمة غموض, مشاهدة فيلم جريمة, فيلم دراما, مشاهدة A Good Girls Guide to Murder 2024, A Good Girls Guide to Murder مترجم كامل, أحداث A Good Girls Guide to Murder بالتفصيل, توميتو A Good Girls Guide to Murder, قصة مسلسل A Good Girls Guide to Murder",
-    "desc_en": "In a world full of secrets and deceit, a young girl named Bernice discovers she killed her husband, but she's not the only one. There are two other men who were killed on the same night, and the search for the killer begins. But what's waiting for Bernice?"
+    "keywords": "دليل جرائم القتل من فتاة صالحة, مسلسل, دراما, جريمة, غموض, 2024, بيبا فيتز أموبي, رافي, آندي بيل, سال سينغ, مشاهدة دليل جرائم القتل من فتاة صالحة, Good Girls Guide Murder مترجم, تحميل دليل جرائم القتل من فتاة صالحة, دليل جرائم القتل من فتاة صالحة اون لاين, Good Girls Guide Murder"
   },
   "fixed": true,
-  "first_air_date": "2024-07-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "72 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Walter Abel Frieda Inescort Neil Hamilton Heather Angel Ruth Donnelly"
+  "country": "ألمانيا",
+  "cast": "Emma Myers Zain Iqbal Asha Banks Yasmin Al-Khudhairi Henry Ashton Yali Topol Margalith Jude Morgan-Collie",
+  "first_air_date": "2024-07-10"
 }

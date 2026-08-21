@@ -8063,8 +8063,44 @@
       "file": "9880.json",
       "title": "مذكرات الأميرة",
       "fixed_at": "2026-08-21T05:07:04.217620"
+    },
+    {
+      "tmdb_id": "750",
+      "file": "750.json",
+      "title": "Where the Heart Is",
+      "fixed_at": "2026-08-21T06:01:24.188527"
+    },
+    {
+      "tmdb_id": "497698",
+      "file": "497698.json",
+      "title": "الأرملة السوداء",
+      "fixed_at": "2026-08-21T06:01:31.600963"
+    },
+    {
+      "tmdb_id": "89393",
+      "file": "89393.json",
+      "title": "9-1-1: Lone Star",
+      "fixed_at": "2026-08-21T06:01:42.959914"
+    },
+    {
+      "tmdb_id": "218342",
+      "file": "218342.json",
+      "title": "A Good Girls Guide to Murder",
+      "fixed_at": "2026-08-21T06:01:49.836473"
+    },
+    {
+      "tmdb_id": "120",
+      "file": "120.json",
+      "title": "سيد الخواتم: رفقة الخاتم",
+      "fixed_at": "2026-08-21T06:01:57.172528"
+    },
+    {
+      "tmdb_id": "62914",
+      "file": "62914.json",
+      "title": "Merl",
+      "fixed_at": "2026-08-21T06:02:05.416188"
     }
   ],
-  "last_updated": "2026-08-21T05:07:06.220429",
-  "total_fixed": 1344
+  "last_updated": "2026-08-21T06:02:07.418985",
+  "total_fixed": 1350
 }

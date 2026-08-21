@@ -1,53 +1,59 @@
 {
   "id": 62914,
-  "title": "Merl",
-  "title_ar": "Merl",
-  "title_en": "Merl",
-  "slug": "62914-merl",
-  "overview": "ميرل، مسلسل كوميدي درامي، يسلط الضوء على الأستاذ الفلسفي الجديد ميرلي، الذي سيغير حياة طلابه للأبد. إنه شخص صعب المراس، وغير تقليدي، وصريح للغاية، وسيقدم لهم نظرة جديدة للعالم داخل وخارج الفصل الدراسي. \"ميرل\"، مسلسل إسباني ممتع ومثير للاهتمام.",
+  "title": "Santo en el hotel de la muerte",
+  "title_ar": "Santo en el hotel de la muerte",
+  "title_en": "Santo in the Hotel of Death",
+  "slug": "62914-santo-in-the-hotel-of-death",
+  "overview": "يحكي فيلم \"Santo \" قصة مجموعة من السياح الذين زاروا الأهرامات في المكسيك، فقط لتجدوا أنفسهم في وسط سلسلة من الوفيات والانفلوجنات المفجئة، أثناء إقامتهم في فندق قريب. يتعامل شرطيون يعملون في المكسيك مع الصحفية Veronica، التي هي أيضاً حبيبة الشرطي Fernando، في محاولة للاستكشاف والتحقيق في هذه الأحداث الغامضة، مع مساعدة الرجل العنيف Santo. يبذل الشرطيون والمساعدة من Santo كل ما في وسعهم لاكتشاف الجواب عن هذه الحادثة الغامضة، التي تسبب في إزعاج وقلق الجميع.",
   "poster_path": "/9vgRQG0lFpqgcWg3KsS6UcQBW4U.jpg",
-  "backdrop_path": "/1p7cUZ0X9YXX4FZ4aTdLYLdH64S.jpg",
-  "release_date": "2015-09-14",
-  "vote_average": 8.6,
-  "vote_count": 1177,
+  "backdrop_path": "/dJmz2YMEAdY5dsKoHM7IvAkJz2Q.jpg",
+  "release_date": "1963-01-25",
+  "vote_average": 4.6,
+  "vote_count": 12,
   "genres": [
     {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 28,
+      "name": "حركة"
     },
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Merl (2015) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "ميرل، مسلسل كوميدي درامي، يسلط الضوء على الأستاذ الفلسفي الجديد ميرلي، الذي سيغير حياة طلابه للأبد. إنه شخص صعب المراس، وغير تقليدي، وصريح للغاية، وسيقدم لهم نظرة جديدة للعالم داخل وخارج الفصل الدراسي. \"ميرل\"، مسلسل إسباني ممتع ومثير للاهتمام.",
-    "desc_en": "Meet Merl, the new philosophy teacher who's about to shake things up. He's a unique character, blunt and unorthodox, and he'll change the way students view the world. \"Merl\" is a Spanish series that offers a fresh and engaging take on education and life.",
-    "seo_title_ar": "مشاهدة مسلسل ميرل مترجم - توميتو",
-    "meta_desc": "ميرل، مسلسل إسباني مثير للاهتمام، يسلط الضوء على الأستاذ ميرلي، الذي يغير حياة طلابه. إنه شخصية فريدة، صريحة وغير تقليدية، وتجربة مشاهدة ممتعة.",
-    "outro": "شاهد Merl الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "ميرل، مسلسل رائع ومختلف، يجعلك تفكر في الحياة من زاوية جديدة. الأستاذ ميرلي شخصية فريدة من نوعها، وستستمتع بالتأكيد بمشاهدة هذا المسلسل.",
-    "opinion_en": "Merl is a unique and thought-provoking series. The character of Merlí is captivating, and the show offers a fresh perspective on education and life. A must-watch!",
+    "intro": "يحكي فيلم \"Santo en el hotel de la muerte\" قصة مجموعة من السياح الذين زاروا الأهرامات في المكسيك، فقط لتجدوا أنفسهم في وسط سلسلة من الوفيات والانفلوجنات المفجئة.",
+    "desc_ar": "يحكي فيلم \"Santo \" قصة مجموعة من السياح الذين زاروا الأهرامات في المكسيك، فقط لتجدوا أنفسهم في وسط سلسلة من الوفيات والانفلوجنات المفجئة، أثناء إقامتهم في فندق قريب. يتعامل شرطيون يعملون في المكسيك مع الصحفية Veronica، التي هي أيضاً حبيبة الشرطي Fernando، في محاولة للاستكشاف والتحقيق في هذه الأحداث الغامضة، مع مساعدة الرجل العنيف Santo. يبذل الشرطيون والمساعدة من Santo كل ما في وسعهم لاكتشاف الجواب عن هذه الحادثة الغامضة، التي تسبب في إزعاج وقلق الجميع.",
+    "desc_en": "Tourists visiting the pyramids in Mexico experience a string of deaths and disappearances while staying at a nearby hotel. Police investigators Fernando and Cornado are assigned to the case and attempt to solve the mystery with the help of reporter (and girlfriend of Fernando) Veronica and the wrestler Santo.",
+    "seo_title_ar": "مشاهدة Santo مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Santo Hotel Death مع ترجمة احترافية وبدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية في TOMITO. Santo Hotel Death فيلم استمتع بمش",
+    "outro": "يُعد فيلم \"Santo en el hotel de la muerte\" من الأفلام المثيرة والممتعة، حيث يتعامل الشرطيون والمساعدة Santo في محاولة لاكتشاف الجواب عن سلسلة من الوفيات الغامضة في فندق قريب.",
+    "opinion_ar": "يعد فيلم \"Santo \" من الأفلام المثيرة والممتعة، حيث يتعامل الشرطيون والمساعدة Santo في محاولة لاكتشاف الجواب عن سلسلة من الوفيات الغامضة في فندق قريب. يُعد هذا العمل من بين أفضل الأفلام في جنس الفيلم الحركة والرعب والتشويق.",
+    "opinion_en": "Santo in the Hotel of Death is an exciting and entertaining film where the police investigators and Santo attempt to solve the mystery of a series of deaths and disappearances at a nearby hotel.",
     "faq": [
       {
-        "q": "ما هو مسلسل ميرل؟",
-        "a": "مسلسل ميرل هو مسلسل إسباني كوميدي درامي، يروي قصة أستاذ فلسفة جديد يدعى ميرلي، وكيف يغير حياة طلابه.",
-        "q_en": "What is Merl about?",
-        "a_en": "Merl is a Spanish series that follows the story of a new philosophy teacher, Merlí, and how he impacts his students' lives."
+        "q": "ما هي قصة فيلم \"Santo \"؟",
+        "a": "يحكي الفيلم قصة مجموعة من السياح الذين زاروا الأهرامات في المكسيك وتمكنا من إكتشاف سلسلة من الوفيات والانفلوجنات المفجئة.",
+        "q_en": "What is the story of Santo in the Hotel of Death?",
+        "a_en": "The film tells the story of a group of tourists who visited the pyramids in Mexico and discovered a series of deaths and disappearances."
+      },
+      {
+        "q": "من بطولة فيلم \"Santo \"؟",
+        "a": "يشارك في الفيلم الممثلين في دور الشرطي Fernando و Cornado و Veronica و Santo.",
+        "q_en": "Who are the actors in Santo in the Hotel of Death?",
+        "a_en": "The film features actors playing the roles of police investigators Fernando and Cornado, reporter Veronica, and wrestler Santo."
       }
     ],
-    "keywords": "ميرل, Merl, مسلسل, كوميديا, دراما, أستاذ, فلسفة, حياة, طلاب, إسباني, ميرل ستريب"
+    "keywords": "فيلم الحركة, فيلم الرعب, فيلم الإثارة, Santo, Santo Hotel Death, فيلم 1963, فيلم المكسيك, توميتو, مشاهدة Santo, Santo Hotel Death مترجم, تحميل Santo, Santo اون لاين, Santo جودة عالية, فيلم Santo, مشاهدة Santo en el hotel de la muerte"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "40 دقيقة",
-  "language": "الإنجليزية",
-  "country": "إسبانيا",
-  "cast": "Francesc Orella Carlos Cuevas David Solans Elisabet Casanovas Adrian Grösser Marcos Franz Júlia Creus Albert Baró",
-  "first_air_date": "2015-09-14",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "86 دقيقة",
+  "language": "الإسبانية",
+  "country": "المكسيك",
+  "cast": "El Santo Fernando Casanova Ana Bertha Lepe Roberto Ramírez Garza Alfredo Wally Barrón Luis Aragón Alejandro Parodi Augusto Benedico"
 }
