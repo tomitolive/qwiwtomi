@@ -4,14 +4,12 @@
   "title_ar": "شرلوك",
   "title_en": "Sherlock",
   "slug": "19885-sherlock",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "المسلسل يصوّر شرلوك هولمز وهو \"محققٌ مستشارٌ\" يُساعد شرطة ميتروبوليتان، على الأخص المحقق المفتش جريج لستراد (روبرت غريفز) أثناء حلّه للجرائم، يُساعد هولمز زميله في السكن د. جون واطسون الذي عاد من خدمته العسكرية، وعلى الرغم من أن المسلسل يعرض جرائماً مختلفةً، إلا أنه يعرض وبشكلٍ مستمرٍ صراع هولمز مع عدوه اللدود جيم مورياتي (أندرو سكوت). من حينٍ لآخر، تُساعد عالمة الأمراض مولي هوبر (لويز بريلي) شرلوك لحلّ قضاياه. تشمل الأدوار الأخرى أونا ستابس بدور السيدة هدسن ومارك جاتس بدور مايكروفت هولمز الشقيق الأكبر لشرلوك.",
   "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
   "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
   "release_date": "2010-07-25",
   "vote_average": 8.5,
-  "vote_count": 6399,
+  "vote_count": 6624,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجريمة والغموض، يصوّر شرلوك هولمز، المحقق المستشار، الذي يُساعد شرطة ميتروبوليتان في حلّ الجرائم، مع زميله في السكن د. جون واطسون، وعالمة الأمراض مولي هوبر، الذين يُساعدونهم في حلّ قضاياهم، فيما يصارع هولمز مع عدوه اللدود جيم مورياتي في صراع مستمر.",
-    "desc_en": "In the world of crime and mystery, Sherlock Holmes, the consulting detective, helps the Metropolitan Police Service solve crimes, alongside his roommate Dr. John Watson, and Dr. Molly Hooper, who assist them in solving their cases, as Holmes struggles with his arch-nemesis, Jim Moriarty, in a continuous battle.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل شرلوك!",
-    "seo_title_ar": "مشاهدة فيلم شرلوك مترجم اون لاين - توميتو",
-    "keywords": "Sherlock, فيلم شرلوك مترجم, مشاهدة فيلم شرلوك, مشاهدة شرلوك 2010, شرلوك مترجم كامل, قصة مسلسل شرلوك, أحداث شرلوك بالتفصيل, توميتو شرلوك",
-    "opinion": "هو مسلسل رائع يجمع بين الجريمة والغموض والدراما، مع شخصيات رائعة مثل شرلوك هولمز وجيم مورياتي، ويحملك على رحلة ممتعة من الاستكشاف والتشويق.",
+    "intro": "يحكي مسلسل شرلوك قصة المحقق المتميز شرلوك هولمز الذي يعمل مع الشرطة الملكية، حيث يساعد الشرطة في حل الجرائم واكتشاف المزيد من المعلومات عن المخربين.",
+    "desc_ar": "يحكي مسلسل شرلوك قصة المحقق المتميز شرلوك هولمز الذي يعمل مع الشرطة الملكية، حيث يساعد الشرطة في حل الجرائم واكتشاف المزيد من المعلومات عن المخربين، ويقدم هولمز دعمًا قويًا لزميله في السكن الدكتور جون واطسون، ومع ذلك، يظل هولمز معادًٍا قويمًا لعدوته المستمرة جيم مورياتي، ويستفيد هولمز أيضًا من خبرة عالمة الأمراض مولي هوبر في حل القضايا",
+    "desc_en": "In the modern update of the classic series, the brilliant detective Sherlock Holmes and his doctor partner solve crimes in 21st century London, relying on their exceptional skills and expertise to uncover the truth and bring justice to those responsible.",
+    "seo_title_ar": "مشاهدة مسلسل شرلوك مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل شرلوك مترجم من إنجليزي إلى عربي، مع ترجمة احترافية وبدون إعلانات، واستمتع بمشاهدة هذا العمل الرائع مع ترجمة عالية الجودة. استمتع بمشاهدة هذ",
+    "outro": "يعد مسلسل شرلوك أحد أكثر المسلسلات روعةً في القرن الحادي والعشرين، حيث يضمن محاكاة مثيرة لشخصية شرلوك هولمز.",
+    "opinion_ar": "يعد مسلسل شرلوك أحد أكثر المسلسلات روعةً في القرن الحادي والعشرين، حيث يضمن محاكاة مثيرة لشخصية شرلوك هولمز.",
+    "opinion_en": "This modern adaptation of the classic series is a thrilling ride, with exceptional performances and clever plot twists that will keep you on the edge of your seat.",
     "faq": [
       {
-        "q": "ما هو شرلوك؟",
-        "a": "شرلوك هو مسلسل جريمة وغموض بريطاني يصوّر شرلوك هولمز، المحقق المستشار."
+        "q": "ما هو قصة مسلسل شرلوك؟",
+        "a": "يحكي مسلسل شرلوك قصة المحقق المتميز شرلوك هولمز الذي يعمل مع الشرطة الملكية.",
+        "q_en": "What is the story of the Sherlock series?",
+        "a_en": "The series follows the brilliant detective Sherlock Holmes and his doctor partner as they solve crimes in 21st century London."
       },
       {
-        "q": "من يلعب دور شرلوك هولمز؟",
-        "a": "يُلعب دور شرلوك هولمز رجلبرت غريفز."
-      },
-      {
-        "q": "ما هو علاقة شرلوك مع جيم مورياتي؟",
-        "a": "شرلوك يصارع مع عدوه اللدود جيم مورياتي في صراع مستمر."
+        "q": "من هو شرلوك هولمز؟",
+        "a": "هو المحقق المتميز الذي يعمل مع الشرطة الملكية.",
+        "q_en": "Who is Sherlock Holmes?",
+        "a_en": "He is the brilliant detective who works with the Metropolitan Police Service."
       }
-    ]
+    ],
+    "keywords": "شرلوك, مسلسل, جريمة, دراما, غموض, شرلوك هولمز, جيم مورياتي, مولي هوبر, د. جون واطسون, مشاهدة شرلوك, Sherlock مترجم, تحميل شرلوك, شرلوك اون لاين, Sherlock, شرلوك جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2010-07-25",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Benedict Cumberbatch Martin Freeman",
+  "first_air_date": "2010-07-25"
 }

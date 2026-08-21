@@ -9,7 +9,7 @@
   "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
   "release_date": "1997-12-18",
   "vote_average": 7.9,
-  "vote_count": 27134,
+  "vote_count": 27574,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,33 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تروي روز ديويت بوكاتر البالغة من العمر 101 عامًا قصة حياتها على متن تيتانيك ، بعد 84 عامًا. روز شابة تصعد على متن السفينة مع والدتها وخطيبها. في هذه الأثناء ، فاز جاك داوسون وفابريزيو دي روسي بتذاكر درجة ثالثة على متن السفينة. تروي روز القصة الكاملة من رحيل تيتانيك حتى وفاتها - في رحلتها الأولى والأخيرة - في 15 أبريل 1912.",
-    "desc_en": "Rose DeWitt Bukater, a 101-year-old woman, tells the story of her life on the Titanic, 84 years after the event. The young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third prize on the ship. Rose tells the complete story of the Titanic's departure and her death - in her first and last journey - on April 15, 1912.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم تيتانيك الدراما الرومنسية",
-    "seo_title_ar": "مشاهدة فيلم تيتانيك مترجم اون لاين - توميتو",
-    "keywords": "Titanic, فيلم تيتانيك مترجم, مشاهدة فيلم تيتانيك, أحداث تيتانيك بالتفصيل, توميتو تيتانيك, قصة فيلم تيتانيك, مشاهدة تيتانيك 1997, تيتانيك مترجم",
-    "opinion": "فيلم تيتانيك أحد أشهر الأفلام التاريخية، ويحكي قصة حب بين روز وjack في رحلة تيتانيك، التي انتهت في كارثة، ويحكي الفيلم قصة حب ومرحلة وتهويل",
+    "intro": "تروي روز ديويت بوكاتر قصة حياتها على متن السفينة التي غرقت في 15 أبريل 1912، في رحلتها الأولى والأخيرة.",
+    "desc_ar": "يحكي فيلم تيتانيك قصة روز ديويت بوكاتر البالغة من العمر 101 عامًا، التي تعود إلى ماضيها على متن السفينة التي غرقت في 15 أبريل 1912، بعد 84 عامًا من هذه الفاجعة. كانت روز شابة تعيش لحظة لحظة على متن السفينة مع والدتها والرجل الذي خطبته. في هذه الأثناء، فاز جاك داوسون وفابريزيو دي روسي بتذاكر درجة ثالثة على متن السفينة، مما أدى إلى صدور أحداث لا يمكن توقعه. تروي روز القصة الكاملة من رحيل السفينة إلى لحظاتها الأخيرة، في رحلتها الأولى والأخيرة.",
+    "desc_en": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its deathon its first and last voyageon April 15, 1912.",
+    "seo_title_ar": "مشاهدة فيلم تيتانيك مترجم - توميتو",
+    "meta_desc": "تيتانيك, فيلم درامي رومنسي عن حب شاب وفتاة من الطبقة العليا على متن السفينة التي غرقت في 15 أبريل 1912. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافي",
+    "outro": "يحكي فيلم تيتانيك قصة حب شاب وفتاة من الطبقة العليا على متن السفينة التي غرقت في 15 أبريل 1912، في رحلتها الأولى والأخيرة.",
+    "opinion_ar": "فيلم تيتانيك هو واحد من أروع الأعمال التي تروي قصة حب شاب وفتاة من الطبقة العليا على متن السفينة التي غرقت في 15 أبريل 1912.",
+    "opinion_en": "Titanic is one of the most memorable works that tells the story of a young couple's love on the ill-fated ship.",
     "faq": [
       {
         "q": "ما هو فيلم تيتانيك؟",
-        "a": "فيلم دراما رومنسية تاريخي يروي قصة حب بين روز وjack في رحلة تيتانيك"
+        "a": "فيلم درامي رومنسي عن حب شاب وفتاة من الطبقة العليا على متن السفينة التي غرقت في 15 أبريل 1912."
       },
       {
-        "q": "ما هو سبب كارثة تيتانيك؟",
-        "a": "كارثة تيتانيك ناتجة عن اصطدام السفينة بiceberg"
+        "q": "متى صدر فيلم تيتانيك؟",
+        "a": "صدر فيلم تيتانيك في عام 1997."
       },
       {
-        "q": "ما هو أهم ما في فيلم تيتانيك؟",
-        "a": "أهم ما في فيلم تيتانيك هو قصة الحب بين روز وjack"
+        "q": "من هو بطل فيلم تيتانيك؟",
+        "a": "بطولة فيلم تيتانيك من قبل ليوناردو دي كابريو وجوليا روبرتس."
+      },
+      {
+        "q": "ما هو نوع فيلم تيتانيك؟",
+        "a": "فيلم درامي رومنسي."
       }
-    ]
+    ],
+    "keywords": "تيتانيك, فيلم درامي, رومنسي, حب, شاب, فتاة, الطبقة العليا, السفينة, 15 أبريل 1912, فيلم تيتانيك, تيتانيك بيتش, مشاهدة تيتانيك, Titanic مترجم, تحميل تيتانيك, تيتانيك اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +55,5 @@
   "duration": "194 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Leonardo DiCaprio Kate Winslet Billy Zane Kathy Bates Frances Fisher"
+  "cast": "Leonardo DiCaprio Kate Winslet Billy Zane Kathy Bates Frances Fisher Gloria Stuart Bill Paxton Bernard Hill"
 }
