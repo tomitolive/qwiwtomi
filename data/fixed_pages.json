@@ -8171,8 +8171,44 @@
       "file": "1242419.json",
       "title": "لص الأسطح",
       "fixed_at": "2026-08-21T07:19:55.192692"
+    },
+    {
+      "tmdb_id": "10193",
+      "file": "10193.json",
+      "title": "حكاية لعبة 3",
+      "fixed_at": "2026-08-21T08:06:56.679759"
+    },
+    {
+      "tmdb_id": "1621",
+      "file": "1621.json",
+      "title": "Trading Places",
+      "fixed_at": "2026-08-21T08:07:04.446824"
+    },
+    {
+      "tmdb_id": "240993",
+      "file": "240993.json",
+      "title": "رانسوم كانيون",
+      "fixed_at": "2026-08-21T08:07:18.356490"
+    },
+    {
+      "tmdb_id": "755",
+      "file": "755.json",
+      "title": "From Dusk Till Dawn",
+      "fixed_at": "2026-08-21T08:07:44.950476"
+    },
+    {
+      "tmdb_id": "1102883",
+      "file": "1102883.json",
+      "title": "Mother Mary",
+      "fixed_at": "2026-08-21T08:08:25.454051"
+    },
+    {
+      "tmdb_id": "730647",
+      "file": "730647.json",
+      "title": "Break the Silence: The Movie",
+      "fixed_at": "2026-08-21T08:08:33.048577"
     }
   ],
-  "last_updated": "2026-08-21T07:19:57.195461",
-  "total_fixed": 1362
+  "last_updated": "2026-08-21T08:08:35.051195",
+  "total_fixed": 1368
 }
