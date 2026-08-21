@@ -8675,8 +8675,32 @@
       "file": "87382.json",
       "title": "رامي",
       "fixed_at": "2026-08-21T17:31:02.198829"
+    },
+    {
+      "tmdb_id": "273481",
+      "file": "273481.json",
+      "title": "سكاريو",
+      "fixed_at": "2026-08-21T17:56:15.956283"
+    },
+    {
+      "tmdb_id": "376290",
+      "file": "376290.json",
+      "title": "Miss Sloane",
+      "fixed_at": "2026-08-21T17:56:51.120779"
+    },
+    {
+      "tmdb_id": "391757",
+      "file": "391757.json",
+      "title": "Never Back Down: No Surrender",
+      "fixed_at": "2026-08-21T17:56:59.722165"
+    },
+    {
+      "tmdb_id": "279323",
+      "file": "279323.json",
+      "title": "القصر الشرقي",
+      "fixed_at": "2026-08-21T17:57:07.931247"
     }
   ],
-  "last_updated": "2026-08-21T17:31:04.201570",
-  "total_fixed": 1446
+  "last_updated": "2026-08-21T17:57:44.167887",
+  "total_fixed": 1450
 }

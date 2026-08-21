@@ -1,57 +1,49 @@
 {
   "id": 279323,
-  "title": "القصر الشرقي",
-  "title_ar": "القصر الشرقي",
-  "title_en": "The East Palace",
-  "slug": "279323-the-east-palace",
-  "overview": "يدخل خبير في عالم الأرواح وشابّة من البلاط تستطيع سماع أصوات الموتى إلى \"القصر الشرقي\" بأمر من الملك... فهل يتمكّنان من كشف أسراره المظلمة؟",
+  "title": "The Planets",
+  "title_ar": "The Planets",
+  "title_en": "The Planets",
+  "slug": "279323-the-planets",
+  "overview": "يحكي هذا العمل الفني قصة رحلة فنية فريدة مع الكواكب في النظام الشمسي، حيث يقودنا المخرج كين روسيل في رحلة استكشافية فنية وواقعية إلى أعماق الكون، مما يؤكد أن الفن والفضاء يمكن أن يكونا متشابكين بشكل لا يصدق.",
   "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-  "backdrop_path": "/vmbCoMrDtIo4LLW38WsNWJUyOhu.jpg",
-  "release_date": "2026-07-17",
-  "vote_average": 10.0,
-  "vote_count": 1,
+  "backdrop_path": null,
+  "release_date": "1983-01-30",
+  "vote_average": 7.3,
+  "vote_count": 6,
   "genres": [
     {
-      "id": 9648,
-      "name": "غموض"
+      "id": 10402,
+      "name": "موسيقى"
     },
     {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 10770,
+      "name": "فيلم تلفازي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل القصر الشرقي (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"القصر الشرقي\" أو \"The East Palace\" في عالم غامض ومليء بالمفاجآت، حيث يجمع بين خبير في عالم الأرواح وشابة من البلاط الملكي تمتلك قدرة فريدة على سماع أصوات الموتى. معاً، يدخلان \"القصر الشرقي\" بأمر من الملك، ويكتشفان أسراراً مظلمة ومثيرة. هل سيتمكنان من حل اللغز وكشف الحقيقة؟",
-    "desc_en": "The East Palace, a thrilling series, follows an expert in the spirit world and a court lady with a unique ability to hear the dead. Together, they enter the East Palace by royal decree, uncovering dark and mysterious secrets. Will they solve the enigma and reveal the truth?",
-    "seo_title_ar": "مشاهدة مسلسل القصر الشرقي The East Palace مترجم - توميتو",
-    "meta_desc": "مشاهدة القصر الشرقي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد القصر الشرقي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"القصر الشرقي\" أو \"The East Palace\" يقدم مزيجاً فريداً من الغموض والخيال العلمي، مع أداء مميز للممثلين. إنه رحلة مشوقة في عالم مليء بالأسرار.",
-    "opinion_en": "The East Palace is a captivating series that blends mystery and sci-fi elements seamlessly. The cast's performances are outstanding, making it an engaging watch.",
+    "intro": "استمتع بمشاهدة فيلم الكواكب The Planets مترجم 1983 مترجم، الذي يأخذنا في رحلة استكشافية فنية وواقعية إلى أعماق الكون.",
+    "desc_ar": "يحكي هذا العمل الفني قصة رحلة فنية فريدة مع الكواكب في النظام الشمسي، حيث يقودنا المخرج كين روسيل في رحلة استكشافية فنية وواقعية إلى أعماق الكون، مما يؤكد أن الفن والفضاء يمكن أن يكونا متشابكين بشكل لا يصدق.",
+    "desc_en": "Based on the famous Gustav Holst musical suite, Ken Russell's musical delight takes viewers on a magnificent journey of the planets of the Solar System, showcasing the beauty and complexity of the cosmos through a unique blend of art and science.",
+    "seo_title_ar": "مشاهدة فيلم الكواكب The Planets مترجم 1983 مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الكواكب The Planets مترجم 1983 مترجم، مع قصة خيالية رائعة وتصميم فني من الدرجة الأولى، في تجربة فنية وواقعية لا تكرر. استمتع بمشاه",
+    "outro": "يبقى فيلم الكواكب The Planets ملهماً للتفكير والاستكشاف، حيث يربط بين الفن والفضاء في تجربة فنية وواقعية لا تكرر.",
+    "opinion_ar": "يعد فيلم الكواكب The Planets من بين أروع وأروع الأعمال الفنية التي استخدمت الفضاء والكوكب كموضوع رئيسي.",
+    "opinion_en": "The Planets is one of the most imaginative and visually stunning films to explore the cosmos and the planets as its central theme.",
     "faq": [
       {
-        "q": "ما هو القصر الشرقي؟",
-        "a": "القصر الشرقي هو عنوان المسلسل، وهو مكان غامض ومليء بالأسرار.",
-        "q_en": "What is The East Palace?",
-        "a_en": "The East Palace is the title of the series, and it refers to a mysterious place filled with secrets."
+        "q": "ما هو موضوع فيلم الكواكب The Planets؟",
+        "a": "يحكي فيلم الكواكب The Planets قصة رحلة فنية فريدة مع الكواكب في النظام الشمسي.",
+        "q_en": "What is the subject of The Planets film?",
+        "a_en": "The Planets film tells the story of a unique and imaginative journey of the planets in the Solar System."
       }
     ],
-    "keywords": "القصر الشرقي, The East Palace, مسلسل, غموض, حركة, مغامرة, خيال علمي, فانتازيا, أرواح, أسرار, 2026"
+    "keywords": "كواكب, الفضاء, الفن, الموسيقى, فيلم, تلفزيون, 1983, كين روسيل, غوستاف هولست, نظام شمسي, رحلة فنية, مشاهدة الكواكب, The Planets مترجم, تحميل الكواكب, الكواكب اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Nam Joo-hyuk Roh Yoon-seo Cho Seung-woo Park Soo-yeon Jang Young-nam",
-  "first_air_date": "2026-07-17",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "50 دقيقة",
+  "language": "الإنجليزية",
+  "country": "المملكة المتحدة",
+  "cast": ""
 }
