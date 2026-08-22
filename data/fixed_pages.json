@@ -8957,8 +8957,26 @@
       "file": "319077.json",
       "title": "The Vacation Principle",
       "fixed_at": "2026-08-22T00:35:55.728862"
+    },
+    {
+      "tmdb_id": "237964",
+      "file": "237964.json",
+      "title": "Muertos S.L.",
+      "fixed_at": "2026-08-22T02:02:02.918335"
+    },
+    {
+      "tmdb_id": "1078446",
+      "file": "1078446.json",
+      "title": "Violent Night 2",
+      "fixed_at": "2026-08-22T02:02:13.579600"
+    },
+    {
+      "tmdb_id": "7220",
+      "file": "7220.json",
+      "title": "The Punisher",
+      "fixed_at": "2026-08-22T02:02:24.554623"
     }
   ],
-  "last_updated": "2026-08-22T00:35:57.731434",
-  "total_fixed": 1493
+  "last_updated": "2026-08-22T02:02:26.557536",
+  "total_fixed": 1496
 }
