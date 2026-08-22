@@ -4,14 +4,12 @@
   "title_ar": "عالم غامبول المدهش",
   "title_en": "The Amazing World of Gumball",
   "slug": "37606-the-amazing-world-of-gumball",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "حياة غامبول واترسون ، قطة تبلغ من العمر 12 عاما تلتحق بالمدرسة المتوسطة في إلمور. برفقة حيوانه الأليف وشقيقه بالتبني وصديقه المفضل داروين واترسون ، يجد نفسه في كثير من الأحيان متورطا في العديد من الخدع في جميع أنحاء المدينة ، حيث يتفاعل مع مختلف أفراد الأسرة: أنايس وريتشارد ونيكول واترسون وغيرهم من المواطنين المختلفين.",
   "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
   "backdrop_path": "/gmO3aezFgDcrhcymhNSJLGZ3CT.jpg",
   "release_date": "2011-05-03",
   "vote_average": 8.5,
-  "vote_count": 1731,
+  "vote_count": 1777,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم غامبول المدهش، نرى حياة غامبول واترسون، القطة التي تبلغ من العمر 12 عاما، تلتحق بالمدرسة المتوسطة في إلمور. برفقة حيوانه الأليف وشقيقه بالتبني وصديقه المفضل داروين واترسون، يجد نفسه في كثير من الأحيان متورطا في العديد من الخدع في جميع أنحاء المدينة، حيث يتفاعل مع مختلف أفراد الأسرة: أنايس وريتشارد ونيكول واترسون وغيرهم من المواطنين المختلفين.",
-    "desc_en": "In The Amazing World of Gumball, we follow the life of Gumball Watson, a 12-year-old cat, as he enrolls in middle school in Elmore. Alongside his pet, his adoptive brother Darwin Watson, and his best friend, Gumball finds himself often entangled in various schemes throughout the city, interacting with different family members: Anais, Richard, and Nicole Watson, and other diverse citizens.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عالم غامبول المدهش!",
-    "seo_title_ar": "مشاهدة فيلم عالم غامبول المدهش مترجم اون لاين - توميتو",
-    "keywords": "The Amazing World of Gumball, فيلم كوميديا, مشاهدة فيلم رسوم متحركة, عالم غامبول المدهش مترجم, مشاهدة عالم غامبول المدهش 2011, عالم غامبول المدهش مترجم كامل, قصة مسلسل عالم غامبول المدهش, توميتو عالم غامبول المدهش, أحداث عالم غامبول المدهش بالتفصيل",
-    "opinion": "عالم غامبول المدهش هو فيلم كوميديا رائع يلفت الانتباه، مع شخصيات ممتعة و humor رائع، يجعلك تبتسم كثيراً!",
+    "intro": "يتجول مسلسل \"عالم غامبول المدهش\" في عالم مليء بالحكايات والمواقف الخيالية، حيث يتعرض المشاهد لمختلف المواقف التي تجعله يبتسم.",
+    "desc_ar": "يحكي مسلسل \"عالم غامبول المدهش\" قصة غامبول واترسون، قطة تبلغ من العمر 12 عاما تلتحق بالمدرسة المتوسطة في إلمور، حيث يجد نفسه في كثير من الأحيان متورطا في العديد من الخدع في جميع أنحاء المدينة، يقضي مع حيوانه الأليف وشقيقه بالتبني داروين واترسون، مع صديقه المفضل داروين، يتفاعل مع مختلف أفراد الأسرة، كأنايس وريتشارد ونيكول واترسون، وغيرهم من المواطنين المختلفين، يتعامل مع تحديات الحياة اليومية مع اسلوبه المدهش.",
+    "desc_en": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore, is a series of various shenanigans and adventures, as he interacts with his family members and the citizens of the city, often finding himself in trouble and learning valuable lessons about life and friendship.",
+    "seo_title_ar": "مشاهدة مسلسل عالم غامبول المدهش مترجم - توميتو",
+    "meta_desc": "عالم غامبول المدهش مسلسل رسوم متحركة خيال علمي وفانتازيا كوميديا عائلي يتبع حياة غامبول واترسون في إلمور، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترا",
+    "outro": "نهاية مسلسل \"عالم غامبول المدهش\" هي تجربة مشاهدة مثيرة ومثيرة، حيث يتعرض الزوار لمواقف حية ومثيرة وممتعة.",
+    "opinion_ar": "يعد مسلسل \"عالم غامبول المدهش\" تجربة مشاهدة ممتعة ومثيرة، حيث يتعرض الزوار لمواقف خيالية ورسوم متحركة حية.",
+    "opinion_en": "The Amazing World of Gumball is an entertaining and engaging series, offering a unique blend of humor, adventure, and relatable characters that make it a must-watch for audiences of all ages.",
     "faq": [
       {
-        "q": "ما هو عالم غامبول المدهش؟",
-        "a": "هو فيلم رسوم متحركة كوميديا يتبع حياة غامبول واترسون في مدينة إلمور."
+        "q": "ما هو موضوع مسلسل \"عالم غامبول المدهش\"؟",
+        "a": "يحكي المسلسل قصة غامبول واترسون، قطة تبلغ من العمر 12 عاما تلتحق بالمدرسة المتوسطة في إلمور.",
+        "q_en": "What is the subject of The Amazing World of Gumball?",
+        "a_en": "The series follows the story of Gumball Watterson, a 12-year old cat who attends middle school in Elmore."
       },
       {
-        "q": "ما هو نوع عالم غامبول المدهش؟",
-        "a": "هو فيلم رسوم متحركة، عائلي، خيال علمي وفانتازيا، كوميديا."
+        "q": "متى تم إنتاج مسلسل \"عالم غامبول المدهش\"؟",
+        "a": "تم إنتاج المسلسل في عام 2011.",
+        "q_en": "When was The Amazing World of Gumball produced?",
+        "a_en": "The series was produced in 2011."
       },
       {
-        "q": "ما هو أفضل ما في عالم غامبول المدهش؟",
-        "a": "أفضل ما في الفيلم هو شخصياته الممتعة والهumor الرائع والقصة الممتعة"
+        "q": "ما هي أنواع مسلسل \"عالم غامبول المدهش\"؟",
+        "a": "يتضمن المسلسل أنواع رسوم متحركة، عائلي، خيال علمي وفانتازيا، كوميديا.",
+        "q_en": "What are the types of The Amazing World of Gumball?",
+        "a_en": "The series includes animated, family, science fiction, fantasy, and comedy genres."
       }
-    ]
+    ],
+    "keywords": "عالم غامبول المدهش, مسلسل, رسوم متحركة, عائلي, خيال علمي وفانتازيا, كوميديا, عالم غامبول المدهش الغريب, عالم غامبول المدهش الغريب الحلقة 1, عالم غامبول المدهش الموسم الثاني, مشاهدة عالم غامبول المدهش, The Amazing World Gumball مترجم, تحميل عالم غامبول المدهش, عالم غامبول المدهش اون لاين, The Amazing World Gumball, عالم غامبول المدهش جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2011-05-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "137 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "فرنسا",
-  "cast": "Colin Firth Annette Bening Meg Tilly Fairuza Balk Siân Phillips"
+  "country": "المملكة المتحدة",
+  "cast": "Nicolas Cantu Kyla Kowalewski Donielle T. Hansley Jr. Christian J. Simon Teresa Gallagher Dan Russell Kerry Shale",
+  "first_air_date": "2011-05-03"
 }
