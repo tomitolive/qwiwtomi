@@ -9215,8 +9215,14 @@
       "file": "65294.json",
       "title": "A Series of Unfortunate Events",
       "fixed_at": "2026-08-22T10:17:43.166978"
+    },
+    {
+      "tmdb_id": "12271",
+      "file": "12271.json",
+      "title": "The Block",
+      "fixed_at": "2026-08-22T10:52:54.389426"
     }
   ],
-  "last_updated": "2026-08-22T10:17:45.169730",
-  "total_fixed": 1536
+  "last_updated": "2026-08-22T10:52:56.392046",
+  "total_fixed": 1537
 }
