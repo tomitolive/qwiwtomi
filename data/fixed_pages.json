@@ -9227,8 +9227,14 @@
       "file": "213703.json",
       "title": "Agent from Above",
       "fixed_at": "2026-08-22T11:14:21.194085"
+    },
+    {
+      "tmdb_id": "198182",
+      "file": "198182.json",
+      "title": "Throne of Seal",
+      "fixed_at": "2026-08-22T11:47:24.333511"
     }
   ],
-  "last_updated": "2026-08-22T11:14:23.196806",
-  "total_fixed": 1538
+  "last_updated": "2026-08-22T11:47:26.336191",
+  "total_fixed": 1539
 }

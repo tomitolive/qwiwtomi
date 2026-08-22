@@ -4,14 +4,12 @@
   "title_ar": "Throne of Seal",
   "title_en": "Throne of Seal",
   "slug": "198182-throne-of-seal",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "في عالم مليء بالخطر، يظهر إله الشيطان ويحول الخلائق إلى أرواح شريرة. خلق البشر ستة معابد لقتال الأرواح الشريرة. يoin Long Haochen إلى معبد الفرسان، ويحصل على اعتراف الآخرين ويتحالف مع ستة معابد لقتال الأرواح الشريرة من أجل الإنسانية. يضحي نفسه لحراسة الناس، ولكن هل يمكن Long أن يفوز بعرش الختم وتكريم أعلى في معبد الفرسان؟",
   "poster_path": "/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
-  "backdrop_path": "/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
+  "backdrop_path": "/9fOsc3Hmvy6G5Hw8tTOGRFGWp73.jpg",
   "release_date": "2022-04-28",
   "vote_average": 8.6,
-  "vote_count": 31,
+  "vote_count": 32,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مأزق، حيث الملكية والقوة تسيطر على كل شيء، يظهر الملك على العرش، ملكاً يملك كل شيء، ولكن ما هو سره؟ ما هو مفتاحه؟ في هذه القصة، نرى كيف يتعامل الملك مع هذه القوة، وكيف يتصرف معها، وكم هو قوي، ويقيننا في أن الملك هو الذي يملك كل شيء، ولكن ما هو سره؟",
-    "desc_en": "In a world where power and control reign supreme, the King of the Throne appears, a monarch who possesses everything. But what is his secret? What is his key? In this story, we see how the King deals with this power, how he behaves with it, and how strong he is, and we are convinced that the King is the one who possesses everything, but what is his secret?",
-    "meta_desc": "واش غيفلت؟ اكتشف سر ملك العرش في هذه القصة المدهشة!",
-    "seo_title_ar": "مشاهدة فيلم ملك العرش مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم حركة ومغامرة, فيلم دراما, فيلم خيال علمي وفانتازيا, قصة مسلسل Throne of Seal, Throne of Seal مترجم كامل, أحداث Throne of Seal بالتفصيل, مشاهدة Throne of Seal 2022, توميتو Throne of Seal",
-    "opinion": "هذه القصة المدهشة هي واحدة من أفضل ما يمكن أن يشاهده المرء، فهي تجمع بين الرسوم المتحركة والحركة والمغامرة والدراما، وهي تملك كل ما يلزم ليكون فيلماً رائعاً",
+    "intro": "مسلسل عرش الختم هو تجربة رائعة في عالم الخيال العلمي والفانتازيا، يحتوي على دراما ومغامرة وعلم وفن",
+    "desc_ar": "في عالم مليء بالخطر، يظهر إله الشيطان ويحول الخلائق إلى أرواح شريرة. خلق البشر ستة معابد لقتال الأرواح الشريرة. يoin Long Haochen إلى معبد الفرسان، ويحصل على اعتراف الآخرين ويتحالف مع ستة معابد لقتال الأرواح الشريرة من أجل الإنسانية. يضحي نفسه لحراسة الناس، ولكن هل يمكن Long أن يفوز بعرش الختم وتكريم أعلى في معبد الفرسان؟",
+    "desc_en": "Six thousand years ago, the Demon God appeared and creatures were turned into demons. Long Haochen joins the Knights Temple and wins the recognition of others as he fights with the Six Temples against the demons for the sake of human beings. He sacrifices himself to protect the people, but can Long win the Throne of Seal and be granted the highest honor in the Knights' Temple?",
+    "seo_title_ar": "مشاهدة مسلسل عرش الختم مترجم - عرش الختم 2022",
+    "meta_desc": "عرض مسلسل عرش الختم مترجم بالكامل، مع دراما ومغامرة وعلم فانتازيا، يأتي هذا العمل من عام 2022. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بد",
+    "outro": "عرض مسلسل عرش الختم هو تجربة لا تُنسى في عالم الخيال العلمي والفانتازيا، يحتوي على دراما ومغامرة وعلم وفن",
+    "opinion_ar": "عرض مسلسل عرش الختم هو تجربة رائعة في عالم الخيال العلمي والفانتازيا، يحتوي على دراما ومغامرة وعلم وفن",
+    "opinion_en": "The Throne of Seal is a great experience in the world of science fiction and fantasy, containing drama, adventure, and art",
     "faq": [
       {
-        "q": "ما هو سر ملك العرش؟",
-        "a": "هو سر ملك العرش هو سر كل شيء، هو سر كل ما يلزم ليكون فيلماً رائعاً"
-      },
-      {
-        "q": "ما هو مفتاح ملك العرش؟",
-        "a": "هو مفتاح ملك العرش هو مفتاح كل شيء، هو مفتاح كل ما يلزم ليكون فيلماً رائعاً"
-      },
-      {
-        "q": "ما هو نوع ملك العرش؟",
-        "a": "هو نوع ملك العرش هو نوع رسوم متحركة، هو نوع حركة ومغامرة، هو نوع دراما، هو نوع خيال علمي وفانتازيا"
+        "q": "ما هي قصة مسلسل عرش الختم؟",
+        "a": "يتناول المسلسل قصة الخلق والصراع بين البشر والأرواح الشريرة، ويحكي عن رحلة اكتشاف وطموح للمشخص Long Haochen.",
+        "q_en": "What is the story of Throne of Seal?",
+        "a_en": "The series tells the story of creation and the struggle between humans and evil demons, and it follows the journey of discovery and ambition of Long Haochen."
       }
-    ]
+    ],
+    "keywords": "عرض مسلسل عرش الختم مترجم, رسوم متحركة, حركة ومغامرة, دراما, خيال علمي وفانتازيا, مسلسل عرش الختم, Throne Seal, 2022, مشاهدة عرش الختم, Throne Seal مترجم, تحميل عرش الختم, عرش الختم اون لاين, عرش الختم جودة عالية, فيلم عرش الختم, Throne of Seal مترجم"
   },
   "fixed": true,
-  "first_air_date": "2022-04-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "79 دقيقة",
+  "duration": "15 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Cristin Milioti Michael Rady Toby Huss James Urbaniak Macey Cruthird"
+  "country": "الصين",
+  "cast": "Chang Rongshan Shen Nianru Liu Mingyue Ye Zhiqiu Sheng Feng Yang Tianxiang Yeqiao Yan Guo Haoran",
+  "first_air_date": "2022-04-28"
 }
