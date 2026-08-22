@@ -9281,8 +9281,14 @@
       "file": "406.json",
       "title": "La Haine",
       "fixed_at": "2026-08-22T17:51:06.594983"
+    },
+    {
+      "tmdb_id": "2755",
+      "file": "2755.json",
+      "title": "Rules of Engagement",
+      "fixed_at": "2026-08-22T18:16:52.019330"
     }
   ],
-  "last_updated": "2026-08-22T17:51:08.597774",
-  "total_fixed": 1547
+  "last_updated": "2026-08-22T18:16:54.022068",
+  "total_fixed": 1548
 }
