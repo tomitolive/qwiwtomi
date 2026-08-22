@@ -9137,8 +9137,26 @@
       "file": "615121.json",
       "title": "The Thomas Crown Affair",
       "fixed_at": "2026-08-22T07:56:52.705905"
+    },
+    {
+      "tmdb_id": "1647508",
+      "file": "1647508.json",
+      "title": "Winter: Battleground",
+      "fixed_at": "2026-08-22T08:19:13.072556"
+    },
+    {
+      "tmdb_id": "389",
+      "file": "389.json",
+      "title": "١٢ رجلا غاضبا",
+      "fixed_at": "2026-08-22T08:19:19.340251"
+    },
+    {
+      "tmdb_id": "289324",
+      "file": "289324.json",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi",
+      "fixed_at": "2026-08-22T08:19:27.504520"
     }
   ],
-  "last_updated": "2026-08-22T07:56:54.708615",
-  "total_fixed": 1523
+  "last_updated": "2026-08-22T08:19:29.507269",
+  "total_fixed": 1526
 }
