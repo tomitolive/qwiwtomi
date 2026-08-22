@@ -9287,8 +9287,14 @@
       "file": "2755.json",
       "title": "Rules of Engagement",
       "fixed_at": "2026-08-22T18:16:52.019330"
+    },
+    {
+      "tmdb_id": "1101383",
+      "file": "1101383.json",
+      "title": "نهاية شارع أوك",
+      "fixed_at": "2026-08-22T19:00:59.646179"
     }
   ],
-  "last_updated": "2026-08-22T18:16:54.022068",
-  "total_fixed": 1548
+  "last_updated": "2026-08-22T19:01:01.648754",
+  "total_fixed": 1549
 }
