@@ -4,14 +4,12 @@
   "title_ar": "A Series of Unfortunate Events",
   "title_en": "A Series of Unfortunate Events",
   "slug": "65294-a-series-of-unfortunate-events",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يواجه أطفال \"بودلير\" اليتامى المصاعب والمحن بالإضافة إلى الكونت \"أولاف\" الشرير، في مسعاهم المصيري لكشف أسرارهم العائلية الدفينة.",
   "poster_path": "/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg",
   "backdrop_path": "/scQYe3wMt98baZAPhuBcewEqns7.jpg",
   "release_date": "2017-01-13",
   "vote_average": 7.4,
-  "vote_count": 1019,
+  "vote_count": 1057,
   "genres": [
     {
       "id": 10759,
@@ -31,19 +29,32 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يواجه أطفال \"بودلير\" اليتامى المصاعب والمحن بالإضافة إلى الكونت \"أولاف\" الشرير، في مسعاهم المصيري لكشف أسرارهم العائلية الدفينة.",
-    "desc_en": "يواجه أطفال \"بودلير\" اليتامى المصاعب والمحن بالإضافة إلى الكونت \"أولاف\" الشرير، في مسعاهم المصيري لكشف أسرارهم العائلية الدفينة.",
-    "meta_desc": "مشاهدة A Series of Unfortunate Events مترجم بجودة عالية على توميتو.",
-    "keywords": "توميتو A Series of Unfortunate Events, أحداث A Series of Unfortunate Events بالتفصيل, مشاهدة A Series of Unfortunate Events 2026, A Series of Unfortunate Events مترجم, قصة فيلم A Series of Unfortunate Events",
-    "seo_title_ar": "مشاهدة A Series of Unfortunate Events مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي مسلسل سلسلة من الأحداث المؤسفة قصة ثلاثة أطفال فقراء، بارت، كلاود وسنت، الذين يتعرضون لمسار حياتهم المؤسف بعد أن يجدون أنفسهم وريثين للعديد من المال.",
+    "desc_ar": "تحكي سلسلة من الأحداث المؤسفة قصة ثلاثة أطفال فقراء، بارت، كلاود وسنت، الذين يتعرضون لمسار حياتهم المؤسف بعد أن يجدون أنفسهم وريثين للعديد من المال، ويجدون أنفسهم في رحلة لاكتشاف الأسرار التي تغطيها أموالهم الضخمة. في هذه الرحلة، يجدون أنفسهم مواجهين لعدة تحديات، وقصص مرعبة، ومع ذلك، فإنهم يبذلون كل ما في وسعهم للعثور على الحقيقة، واكتشاف سر وفاة والدتهم. في هذا المسلسل، يجدون أنفسهم مواجهين للشخص الشرير، الكونت أولاف، الذي يسعى للتحكم في ممتلكاتهم، ويحاول أن يبتعد عن أنظارهم. في النهاية، يجب عليهم أن يتعلموا كيف يتعاملون مع المخاطر، والصعاب، والصبر في طريقه لاكتشاف الحقيقة.",
+    "desc_en": "A Series of Unfortunate Events follows the story of three orphans, Baudelaire, who find themselves on a journey to uncover the secrets behind their vast fortune after discovering they are the heirs to a large sum of money. In this journey, they face many challenges, terrifying stories, and obstacles, but they strive to find the truth and uncover the secrets behind their parents' death. In this series, they face the evil Count Olaf, who tries to take control of their fortune and avoid their attention. In the end, they must learn to deal with risks, hardships, and patience on their way to uncovering the truth.",
+    "seo_title_ar": "مشاهدة مسلسل سلسلة من الأحداث المؤسفة مترجم - توميتو",
+    "meta_desc": "سلسلة من الأحداث المؤسفة مسلسل درامي غامض، يحكي قصة ثلاثة أطفال فقراء، يتعرضون لمسار حياتهم المؤسف، ويجدون أنفسهم مواجهين لعدة تحديات، وقصص مرعبة، ويشهدون",
+    "outro": "ينتهي مسلسل سلسلة من الأحداث المؤسفة بتوضيح الأسرار التي تغطيها أموالهم الضخمة، واكتشاف سر وفاة والدتهم، ومساعدة الأطفال على التعلم كيف يتعاملون مع المخاطر والصعاب والصبر في طريقه لاكتشاف الحقيقة.",
+    "opinion_ar": "سلسلة من الأحداث المؤسفة هي واحدة من أفضل المسلسلات التي شاهدتها، حيث توفر قصة مثيرة ومغامرة، مع شخصيات رائعة وتصورًا غامضًا.",
+    "opinion_en": "A Series of Unfortunate Events is one of the best series I've watched, offering an exciting and adventurous story, with great characters and a mysterious setting.",
+    "faq": [
+      {
+        "q": "ما هي قصة مسلسل سلسلة من الأحداث المؤسفة؟",
+        "a": "تحكي قصة ثلاثة أطفال فقراء، بارت، كلاود وسنت، الذين يتعرضون لمسار حياتهم المؤسف بعد أن يجدون أنفسهم وريثين للعديد من المال، ويجدون أنفسهم في رحلة لاكتشاف الأسرار التي تغطيها أموالهم الضخمة."
+      },
+      {
+        "q_en": "What is the story of A Series of Unfortunate Events?",
+        "a_en": "The story follows three orphans, Baudelaire, who find themselves on a journey to uncover the secrets behind their vast fortune after discovering they are the heirs to a large sum of money."
+      }
+    ],
+    "keywords": "مسلسل درامي, غموض, عائلي, كوميديا, حركة, مغامرة, سلسلة من الأحداث المؤسفة, توميتو, مشاهدة سلسلة من الأحداث المؤسفة, Series Unfortunate Events مترجم, تحميل سلسلة من الأحداث المؤسفة, سلسلة من الأحداث المؤسفة اون لاين, Series Unfortunate Events, سلسلة من الأحداث المؤسفة جودة عالية, فيلم سلسلة من الأحداث المؤسفة"
   },
   "fixed": true,
-  "first_air_date": "2017-01-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "95 دقيقة",
+  "duration": "52 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Bill Bixby Lou Ferrigno Susan Sullivan Jack Colvin Susan Batson"
+  "country": "كندا",
+  "cast": "Neil Patrick Harris Patrick Warburton Malina Weissman Louis Hynes K. Todd Freeman Presley Smith",
+  "first_air_date": "2017-01-13"
 }

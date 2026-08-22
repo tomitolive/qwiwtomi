@@ -9209,8 +9209,14 @@
       "file": "69050.json",
       "title": "ريفرديل",
       "fixed_at": "2026-08-22T09:53:00.923916"
+    },
+    {
+      "tmdb_id": "65294",
+      "file": "65294.json",
+      "title": "A Series of Unfortunate Events",
+      "fixed_at": "2026-08-22T10:17:43.166978"
     }
   ],
-  "last_updated": "2026-08-22T09:53:02.926717",
-  "total_fixed": 1535
+  "last_updated": "2026-08-22T10:17:45.169730",
+  "total_fixed": 1536
 }
