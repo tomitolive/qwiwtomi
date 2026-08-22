@@ -8993,8 +8993,26 @@
       "file": "44606.json",
       "title": "Beauty and the Beast",
       "fixed_at": "2026-08-22T02:54:53.593610"
+    },
+    {
+      "tmdb_id": "287620",
+      "file": "287620.json",
+      "title": "Stuart Fails to Save the Universe",
+      "fixed_at": "2026-08-22T03:37:13.239313"
+    },
+    {
+      "tmdb_id": "489",
+      "file": "489.json",
+      "title": "العقل الجيد المصير",
+      "fixed_at": "2026-08-22T03:37:20.362753"
+    },
+    {
+      "tmdb_id": "213194",
+      "file": "213194.json",
+      "title": "شراب التوت",
+      "fixed_at": "2026-08-22T03:37:27.887513"
     }
   ],
-  "last_updated": "2026-08-22T02:54:55.596235",
-  "total_fixed": 1499
+  "last_updated": "2026-08-22T03:37:29.890273",
+  "total_fixed": 1502
 }
