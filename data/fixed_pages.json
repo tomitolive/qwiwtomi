@@ -9173,8 +9173,26 @@
       "file": "39525.json",
       "title": "Wilfred",
       "fixed_at": "2026-08-22T08:59:48.600879"
+    },
+    {
+      "tmdb_id": "4357",
+      "file": "4357.json",
+      "title": "Mission: Impossible",
+      "fixed_at": "2026-08-22T09:20:07.689587"
+    },
+    {
+      "tmdb_id": "420817",
+      "file": "420817.json",
+      "title": "علاء الدين",
+      "fixed_at": "2026-08-22T09:20:15.139326"
+    },
+    {
+      "tmdb_id": "1081422",
+      "file": "1081422.json",
+      "title": "Kunwari Dulhan",
+      "fixed_at": "2026-08-22T09:20:25.885511"
     }
   ],
-  "last_updated": "2026-08-22T08:59:50.603654",
-  "total_fixed": 1529
+  "last_updated": "2026-08-22T09:20:27.888192",
+  "total_fixed": 1532
 }

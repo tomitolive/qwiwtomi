@@ -4,14 +4,12 @@
   "title_ar": "Mission: Impossible",
   "title_en": "Mission: Impossible",
   "slug": "4357-mission-impossible",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل المهمة: مستحيلة قصة فريق عسكري سرّي يتلقى غير مسبوقة من وكلاء حكوميين. يُظهر المسلسل قصة فريق الشؤون غير الممكنة الذي يقوم بمهام سرية معقدة تحت قيادة ضباط برواتق. يُعد المسلسل من أهم الأعمال التلفزيونية في القرن العشرين، ويُعتبر مصدر إلهام لعدد من الأفلام السينمائية المثيرة.",
   "poster_path": "/1PnUBKbDR1F2w5qicblLg1QGTif.jpg",
   "backdrop_path": "/com4DoP6rNkf1fs5KiuLPCRVK6V.jpg",
   "release_date": "1966-09-17",
   "vote_average": 7.6,
-  "vote_count": 307,
+  "vote_count": 317,
   "genres": [
     {
       "id": 10759,
@@ -27,35 +25,42 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تريد أن تشاهد فيلمًا يجمع بين الحركة والتشويق والتعصب؟",
-    "desc_ar": "في عالم المخابرات، يتعامل агент إيميت فاولر (توم كريت) مع مخاطر كبيرة لإنقاذ العالم من الارهاب. في هذه المهمة، سيتعامل فاولر مع مجموعة من المخاطر الخطيرة، من أجل إنقاذ العالم من الارهاب.",
-    "seo_title_ar": "مشاهدة فيلم Mission: Impossible مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Mission: Impossible!",
-    "outro": "إذا كنت من محبي أفلام الحركة والمغامرة thì هذا الفيلمเหมาะ لك",
-    "opinion": "هذه المهمة هي واحدة من أفضل ما شاهدناه في عالم المخابرات. فاولر يتعامل مع المخاطر الخطيرة مع فكاهة وسرعة، مما يทำใหها تجربة رائعة.",
+    "intro": "يحكي مسلسل المهمة: مستحيلة قصة فريق عسكري سرّي يتلقى missions غير مسبوقة من وكلاء حكوميين.",
+    "desc_ar": "يحكي مسلسل المهمة: مستحيلة قصة فريق عسكري سرّي يتلقى غير مسبوقة من وكلاء حكوميين. يُظهر المسلسل قصة فريق الشؤون غير الممكنة الذي يقوم بمهام سرية معقدة تحت قيادة ضباط برواتق. يُعد المسلسل من أهم الأعمال التلفزيونية في القرن العشرين، ويُعتبر مصدر إلهام لعدد من الأفلام السينمائية المثيرة.",
+    "desc_en": "Mission: Impossible is an American television series that chronicles the missions of a team of secret government agents known as the Impossible Missions Force. The series follows the team as they receive and complete complex and high-stakes missions under the leadership of experienced government agents. The show is considered a classic of the television series and has inspired a number of successful film adaptations.",
+    "seo_title_ar": "مشاهدة مسلسل المهمة: مستحيلة مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل المهمة: مستحيلة، العمل التلفزيوني الكلاسيكي الذي يتبع فريقا من ضباط حكوميين سرين في مهماتهم الغامرة، واستمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "مُسلسل المهمة: مستحيلة هو عمل فني رائع، حيث يُظهر قصة فريق الشؤون غير الممكنة في مهماتهم الغامرة.",
+    "opinion_ar": "مُسلسل المهمة: مستحيلة هو عمل فني رائع، حيث يُظهر قصة فريق الشؤون غير الممكنة في مهماتهم الغامرة. يُعد هذا العمل من أهم الأعمال التلفزيونية في القرن العشرين، ويُعتبر مصدر إلهام لعدد من الأفلام السينمائية المثيرة.",
+    "opinion_en": "Mission: Impossible is a fantastic television series that showcases the story of a team of secret government agents as they complete complex and high-stakes missions. This show is considered a classic of the television series and has inspired a number of successful film adaptations.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم حركة ومغامرة"
+        "q": "ما هو قصة مسلسل المهمة: مستحيلة؟",
+        "a": "يحكي مسلسل المهمة: مستحيلة قصة فريق عسكري سرّي يتلقى غير مسبوقة من وكلاء حكوميين.",
+        "q_en": "What is the story of Mission: Impossible?",
+        "a_en": "The series follows the story of a team of secret government agents as they receive and complete complex and high-stakes missions."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم دراما"
+        "q": "من هو المخرج المسلسل؟",
+        "a": "تم إنتاج مسلسل المهمة: مستحيلة من قبل Bruce Geller.",
+        "q_en": "Who is the director of Mission: Impossible?",
+        "a_en": "The series was created and initially produced by Bruce Geller."
       },
       {
-        "q": "ما هو هدف هذا الفيلم؟",
-        "a": "هدف الفيلم هو إنقاذ العالم من الارهاب"
+        "q": "ما هو نوع مسلسل المهمة: مستحيلة؟",
+        "a": "يُعد مسلسل المهمة: مستحيلة مسلسلًا من نوع الحركة والمغامرة والجريمة والدراما.",
+        "q_en": "What type of series is Mission: Impossible?",
+        "a_en": "The series is an action-adventure, crime, and drama series."
       }
     ],
-    "keywords": "فيلم حركة مترجم, مشاهدة فيلم مغامرة, قصة مسلسل Mission: Impossible, أحداث Mission: Impossible بالتفصيل, توميتو Mission: Impossible, Mission: Impossible مترجم كامل, مشاهدة Mission: Impossible 1966",
-    "desc_en": "In the world of espionage, agent Ethan Hunt (Tom Cruise) faces great risks to save the world from terrorism. In this mission, Hunt will face a series of high-stakes risks to save the world from terrorism."
+    "keywords": "المهمة: مستحيلة, Bruce Geller, مسلسل, حركة ومغامرة, جريمة, دراما, فريق الشؤون غير الممكنة, مشاهدة المهمة: مستحيلة, Mission: Impossible مترجم, تحميل المهمة: مستحيلة, المهمة: مستحيلة اون لاين, Mission: Impossible, المهمة: مستحيلة جودة عالية, فيلم المهمة: مستحيلة, Mission: Impossible HD"
   },
   "fixed": true,
-  "first_air_date": "1966-09-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Peter Graves Greg Morris Peter Lupus Lynda Day George Bob Johnson",
+  "first_air_date": "1966-09-17"
 }
