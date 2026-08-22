@@ -8,8 +8,8 @@
   "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
   "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
   "release_date": "1990-09-12",
-  "vote_average": 8.5,
-  "vote_count": 14332,
+  "vote_average": 8.4,
+  "vote_count": 14646,
   "genres": [
     {
       "id": 18,
@@ -21,12 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يروي رجل العصابات السابق \"هنري هيل\" قصّة صعوده وسقوطه المثيرة والعنيفة وسط عائلة إجرامية في \"نيويورك\"، حيث يتحوّل حلم كبير إلى كابوس مرعب.",
-    "desc_en": "يروي رجل العصابات السابق \"هنري هيل\" قصّة صعوده وسقوطه المثيرة والعنيفة وسط عائلة إجرامية في \"نيويورك\"، حيث يتحوّل حلم كبير إلى كابوس مرعب.",
-    "meta_desc": "مشاهدة الرفاق الصالحون مترجم بجودة عالية على توميتو.",
-    "keywords": "GoodFellas, مشاهدة الرفاق الصالحون 2026, قصة فيلم الرفاق الصالحون, توميتو الرفاق الصالحون, أحداث الرفاق الصالحون بالتفصيل, الرفاق الصالحون مترجم",
-    "seo_title_ar": "مشاهدة الرفاق الصالحون مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي هذا العمل قصة رجل عصابات سابق اسمه هنري هيل، الذي ينحدر من عائلة أمريكية أصولها إيرلندية وسيشيلية.",
+    "desc_ar": "يحكي هذا العمل قصة رجل عصابات سابق اسمه هنري هيل، الذي ينحدر من عائلة أمريكية أصولها إيرلندية وسيشيلية، ويتعرض لأفكار ومفاهيم جديدة عن العائلة والجماعة، ويُصعد في صفوف عائلة إجرامية في مدينة نيويورك تحت إشراف جيمي كونواي، ويصل إلى قمم السلطة والثراء، لكنه في النهاية يتعرض للقضاء على نفسه، ويتحول حلمه إلى كابوس مرعب.",
+    "desc_en": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "seo_title_ar": "مشاهدة فيلم الرفاق الصالحون مترجم - توميتو",
+    "meta_desc": "يحكي هذا العمل قصة رجل عصابات سابق اسمه هنري هيل، الذي ينحدر من عائلة أمريكية أصولها إيرلندية وسيشيلية، ويتعرض لأفكار ومفاهيم جديدة عن العائلة والجماعة، وي",
+    "outro": "في النهاية، يتعرض هنري هيل للقضاء على نفسه، ويتحول حلمه إلى كابوس مرعب.",
+    "opinion_ar": "يعتبر هذا العمل من أهم الأفلام التي تتناول موضوع العصابات والجماعة، حيث يُبرز تأثيرات العنف والعنصرية على الأفراد والمجتمعات.",
+    "opinion_en": "This film is one of the most important works that deal with the subject of gangs and communities, where the effects of violence and racism on individuals and societies are highlighted.",
+    "faq": [
+      {
+        "q": "ما هي قصة الرفاق الصالحون؟",
+        "a": "يعتبر فيلم الرفاق الصالحون قصة حقيقية عن رجل عصابات اسمه هنري هيل، الذي ينحدر من عائلة أمريكية أصولها إيرلندية وسيشيلية، ويتعرض لأفكار ومفاهيم جديدة عن العائلة والجماعة.",
+        "q_en": "What is the story of GoodFellas?",
+        "a_en": "GoodFellas is a true story about a gangster named Henry Hill, who is a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway."
+      }
+    ],
+    "keywords": "الرفاق الصالحون, جريمة, دراما, هنري هيل, جيمي كونواي, مدينة نيويورك, العصابات, الجماعة, الأفلام, السينما, مشاهدة الرفاق الصالحون, GoodFellas مترجم, تحميل الرفاق الصالحون, الرفاق الصالحون اون لاين, GoodFellas"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +45,5 @@
   "duration": "145 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Robert De Niro Ray Liotta Joe Pesci Lorraine Bracco Paul Sorvino"
+  "cast": "Robert De Niro Ray Liotta Joe Pesci Lorraine Bracco Paul Sorvino Frank Sivero Tony Darrow Mike Starr"
 }
