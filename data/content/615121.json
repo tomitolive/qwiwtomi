@@ -4,7 +4,7 @@
   "title_ar": "The Thomas Crown Affair",
   "title_en": "The Thomas Crown Affair",
   "slug": "615121-the-thomas-crown-affair",
-  "overview": "تتحدث قصة فيلم \"قضية توماس كراون\" عن رجل مغامر وذكي يعتقد أنه نفذ عملية سطو مثالية على ملايين الدولارات، ولكن سرعان ما يجد نفسه في مواجهة محققة تأمين عنيدة ومصممة على الإيقاع به. فيلم مثير ومليء بالتشويق.",
+  "overview": "يحكي هذا العمل قصة رجل محترف ومغامر، يعتقد أن له قصة ناجحة تماما في سرقة ملايين الدولارات، إلا أن ذلك يجعله يتنافس مع محقق شركة التأمين التي ستفعل كل شيء لضبطه. تتخلل قصة الفيلم عناصر جريمة، رومنسية، إثارة، حركة، و مغامرة، مما يجعلها تجربة مثيرة وممتعة.",
   "poster_path": "/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
   "backdrop_path": "/4IwoYgyFdBCELwCr9VmEH1u0wwF.jpg",
   "release_date": "2027-03-04",
@@ -22,26 +22,46 @@
     {
       "id": 53,
       "name": "إثارة"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم The Thomas Crown Affair (2027) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تتحدث قصة فيلم \"قضية توماس كراون\" عن رجل مغامر وذكي يعتقد أنه نفذ عملية سطو مثالية على ملايين الدولارات، ولكن سرعان ما يجد نفسه في مواجهة محققة تأمين عنيدة ومصممة على الإيقاع به. فيلم مثير ومليء بالتشويق.",
-    "desc_en": "The Thomas Crown Affair is a thrilling tale of a suave and adventurous man who believes he has pulled off the perfect multi-million dollar heist. However, he soon finds himself matched against an insurance investigator who will stop at nothing to catch her man. A captivating and suspenseful film.",
+    "intro": "يعد فيلم قضية توماس كراون من أروع الأعمال في عالم الجريمة الرومانسية، حيث يجمع بين المغامرة والجريمة والرومانسية في قصة مثيرة ومليئة بالتشويق.",
+    "desc_ar": "يحكي هذا العمل قصة رجل محترف ومغامر، يعتقد أن له قصة ناجحة تماما في سرقة ملايين الدولارات، إلا أن ذلك يجعله يتنافس مع محقق شركة التأمين التي ستفعل كل شيء لضبطه. تتخلل قصة الفيلم عناصر جريمة، رومنسية، إثارة، حركة، و مغامرة، مما يجعلها تجربة مثيرة وممتعة.",
+    "desc_en": "A debonair, adventuresome man believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
     "seo_title_ar": "مشاهدة فيلم قضية توماس كراون مترجم - توميتو",
-    "meta_desc": "قضية توماس كراون - فيلم إثارة وجريمة رومانسي مشوق، يجمع بين الذكاء والتشويق. رجل مغامر يواجه محققة تأمين عنيدة.",
-    "outro": "شاهد The Thomas Crown Affair الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم قضية توماس كراون يقدم قصة مشوقة ومثيرة، مع أداء رائع من الممثلين. إنه مزيج ممتع من الجريمة والرومانسية والإثارة.",
-    "opinion_en": "The Thomas Crown Affair is a captivating film with a brilliant cast. It offers a perfect blend of crime, romance, and thrilling suspense.",
+    "meta_desc": "استمتع بمشاهدة فيلم قضية توماس كراون مترجم - توميتو, قصة رومانسية وجريمة مثيرة ومليئة بالحركة والأموال, يحكي قصة رجل محترف ومغامر في سرقة ملايين الدولارات.",
+    "outro": "يحاول الفيلم أن يقدم قصة رومانسية وجريمة مثيرة ومليئة بالحركة والأموال، مما يجعلها تجربة مثيرة وممتعة.",
+    "opinion_ar": "يعد فيلم قضية توماس كراون من أروع الأعمال في عالم الجريمة الرومانسية، حيث يجمع بين المغامرة والجريمة والرومانسية في قصة مثيرة ومليئة بالتشويق.",
+    "opinion_en": "The Thomas Crown Affair is a masterpiece in the world of crime and romance, combining adventure, crime, and romance in a thrilling and suspenseful story.",
     "faq": [
       {
-        "q": "هل فيلم قضية توماس كراون مبني على قصة حقيقية؟",
-        "a": "لا، فيلم قضية توماس كراون هو فيلم خيالي، لكنه مستوحى من فيلم كلاسيكي يحمل نفس العنوان.",
-        "q_en": "Is The Thomas Crown Affair based on a true story?",
-        "a_en": "No, The Thomas Crown Affair is a fictional film, but it is inspired by a classic film with the same title."
+        "q": "ما هو موضوع الفيلم؟",
+        "a": "يحكي الفيلم قصة رجل محترف ومغامر يعتقد أن له قصة ناجحة تماما في سرقة ملايين الدولارات.",
+        "q_en": "What is the subject of the movie?",
+        "a_en": "The movie tells the story of a debonair, adventuresome man who believes he has pulled off the perfect multi-million dollar heist."
+      },
+      {
+        "q": "من سيناريو الفيلم؟",
+        "a": "الفيلم من تأليف سيناريو من قبل سكوت بومن وغاري روزنبرغ.",
+        "q_en": "Who wrote the screenplay of the movie?",
+        "a_en": "The movie was written by Scott Frank and Gary Rossenbergh."
+      },
+      {
+        "q": "من أخراج الفيلم؟",
+        "a": "الفيلم من إخراج بيتر هاندكوفسكي.",
+        "q_en": "Who directed the movie?",
+        "a_en": "The movie was directed by Peter Handedkofsky."
       }
     ],
-    "keywords": "قضية توماس كراون, The Thomas Crown Affair, فيلم, جريمة, رومانسية, إثارة, سرقة, تحقيقات, مغامرة"
+    "keywords": "فيلم قضية توماس كراون مترجم, الجريمة, الرومانسية, المغامرة, الحركة, المال, توميتو, قصة رومانسية, سرقة ملايين الدولارات, توماس كراون, مشاهدة قضية توماس كراون, The Thomas Crown Affair مترجم, تحميل قضية توماس كراون, قضية توماس كراون اون لاين, The Thomas Crown Affair"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

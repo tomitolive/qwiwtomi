@@ -9119,8 +9119,26 @@
       "file": "1532.json",
       "title": "Starsky Hutch",
       "fixed_at": "2026-08-22T07:14:00.972627"
+    },
+    {
+      "tmdb_id": "1089",
+      "file": "1089.json",
+      "title": "نقطة فاصلة",
+      "fixed_at": "2026-08-22T07:56:36.720977"
+    },
+    {
+      "tmdb_id": "3752",
+      "file": "3752.json",
+      "title": "Fort Boyard",
+      "fixed_at": "2026-08-22T07:56:43.861854"
+    },
+    {
+      "tmdb_id": "615121",
+      "file": "615121.json",
+      "title": "The Thomas Crown Affair",
+      "fixed_at": "2026-08-22T07:56:52.705905"
     }
   ],
-  "last_updated": "2026-08-22T07:14:02.975396",
-  "total_fixed": 1520
+  "last_updated": "2026-08-22T07:56:54.708615",
+  "total_fixed": 1523
 }
