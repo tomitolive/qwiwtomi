@@ -4,14 +4,12 @@
   "title_ar": "Wilfred",
   "title_en": "Wilfred",
   "slug": "39525-wilfred",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يتناول مسلسل ويلفريد قصة ريان، الذي يرى في الكلب ويلفريد شخصًا Down Under، يعيش في زي كلب بسعر زهيد. ويلفريد هو شخصًا صارمًا ومستقلًا، لكنه أيضًا صادق ومستعد للخطر. خلال سلسلة من المغامرات الكوميدية والاستفهامية، يظهر ويلفريد للراوي كيفية تجاوز مخاوفه واستيعاب عدم اليقين والغموض الذي يحيط بنا. ويأخذنا ويلفريد إلى رحلات دسمة وممتعة، حيث نرى العالم من زاوية مختلفة، ونتعلم كيف نستمتع بالحياة بكل عفوية.",
   "poster_path": "/2cUYCkmHEWsxaNiVTQnFqxyq5Ij.jpg",
   "backdrop_path": "/f43EKMX1QHJhiieDfhRgh5M1fZj.jpg",
   "release_date": "2011-06-23",
   "vote_average": 7.5,
-  "vote_count": 445,
+  "vote_count": 457,
   "genres": [
     {
       "id": 35,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الكوميديا والدراما والغموض، يأتي ويلفريد، المسلسل التلفزيوني الذي يلقي باللوم على كل ما هو غريب في الحياة. من خلال شخصياته المتنوعة، يبرز ويلفريد أهمية العلاقات بين الأشخاص، والغموض الذي يحيط بنا في كل لحظة. مع كل حلقة، نرى كيف يتعامل characters مع الأحداث المضطربة، مما يخلق جو من التوتر والرغبة في معرفة ما يخبئ المستقبل.",
-    "desc_en": "In a world of comedy, drama, and mystery, Wilfred comes, a television series that sheds light on all that is strange in life. Through its diverse characters, Wilfred highlights the importance of human relationships, and the mystery that surrounds us in every moment. With each episode, we see how characters deal with the chaotic events, creating a tense and suspenseful atmosphere.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل ويلفريد - توميتو",
-    "seo_title_ar": "مشاهدة مسلسل ويلفريد مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم دراما, مسلسل غموض مترجم, مشاهدة Wilfred 2011, Wilfred مترجم كامل, أحداث Wilfred بالتفصيل, قصة مسلسل Wilfred, توميتو Wilfred",
-    "opinion": "هو مسلسل رائع يلقي باللوم على كل ما هو غريب في الحياة، ويبرز أهمية العلاقات بين الأشخاص، والغموض الذي يحيط بنا في كل لحظة.",
+    "intro": "يتناول مسلسل ويلفريد قصة ريان، الذي يرى في الكلب ويلفريد شخصًا Down Under، يعيش في زي كلب بسعر زهيد.",
+    "desc_ar": "يتناول مسلسل ويلفريد قصة ريان، الذي يرى في الكلب ويلفريد شخصًا Down Under، يعيش في زي كلب بسعر زهيد. ويلفريد هو شخصًا صارمًا ومستقلًا، لكنه أيضًا صادق ومستعد للخطر. خلال سلسلة من المغامرات الكوميدية والاستفهامية، يظهر ويلفريد للراوي كيفية تجاوز مخاوفه واستيعاب عدم اليقين والغموض الذي يحيط بنا. ويأخذنا ويلفريد إلى رحلات دسمة وممتعة، حيث نرى العالم من زاوية مختلفة، ونتعلم كيف نستمتع بالحياة بكل عفوية.",
+    "desc_en": "Everyone else sees Wilfred as just a dog, but Ryan sees a crude and somewhat surly, yet irrepressibly brave and honest Australian bloke in a cheap dog suit. While leading him through a series of comedic and existential adventures, Wilfred the dog shows Ryan the man how to overcome his fears and joyfully embrace the unpredictability and insanity of the world around him.",
+    "seo_title_ar": "مشاهدة مسلسل ويلفريد مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل ويلفريد مترجم، الذي يتبع قصة ريان في رحلاته الكوميدية مع الكلب ويلفريد. يظهر ويلفريد شخصا Down Under، يعيش في زي كلب بسعر زهيد. يتجاو",
+    "outro": "يتجاوز مخاوفه واستيعاب عدم اليقين والغموض الذي يحيط بنا، عبر رحلاته الكوميدية مع الكلب ويلفريد.",
+    "opinion_ar": "عندما ترى في الكلب ويلفريد شخصًا Down Under، تعلم أن الحياة مليئة بالغموض والغفلة، لكنها أيضًا فرصة للتعلم والتنمية.",
+    "opinion_en": "Wilfred the dog shows us that life is full of mystery and absurdity, but also full of opportunities for growth and development.",
     "faq": [
       {
-        "q": "ما هو ويلفريد؟",
-        "a": "هو مسلسل تلفزيوني كوميديا ودراما وغموض يلقي باللوم على كل ما هو غريب في الحياة."
+        "q": "ما هو مسلسل ويلفريد؟",
+        "a": "يتناول مسلسل ويلفريد قصة ريان، الذي يرى في الكلب ويلفريد شخصًا Down Under، يعيش في زي كلب بسعر زهيد.",
+        "q_en": "What is Wilfred?",
+        "a_en": "Wilfred is a TV series that follows the story of Ryan, who sees the dog Wilfred as a person from Australia living in a cheap dog suit."
       },
       {
-        "q": "ما هو هدف ويلفريد؟",
-        "a": "يهدف ويلفريد إلى برز أهمية العلاقات بين الأشخاص، والغموض الذي يحيط بنا في كل لحظة."
-      },
-      {
-        "q": "ما هو أفضل جزء من ويلفريد؟",
-        "a": "أفضل جزء من ويلفريد هو كيف يتعامل characters مع الأحداث المضطربة، مما يخلق جو من التوتر والرغبة في معرفة ما يخبئ المستقبل."
+        "q": "ما هي قصة مسلسل ويلفريد؟",
+        "a": "يتناول مسلسل ويلفريد قصة ريان في رحلاته الكوميدية مع الكلب ويلفريد.",
+        "q_en": "What is the story of Wilfred?",
+        "a_en": "The story of Wilfred follows Ryan's comedic adventures with the dog Wilfred."
       }
-    ]
+    ],
+    "keywords": "كوميديا, دراما, غموض, مسلسل, ويلفريد, ريان, الكلب ويلفريد, مشاهدة ويلفريد, Wilfred مترجم, تحميل ويلفريد, ويلفريد اون لاين, Wilfred, ويلفريد جودة عالية, فيلم ويلفريد, Wilfred HD"
   },
   "fixed": true,
-  "first_air_date": "2011-06-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "160 دقيقة",
-  "language": "ta",
-  "country": "الهند",
-  "cast": "Anjali Mahesh Pandi A. Venkatesh Pazha Karuppaiah"
+  "duration": "30 دقيقة",
+  "language": "الإنجليزية",
+  "country": "أستراليا",
+  "cast": "Elijah Wood Jason Gann Fiona Gubelmann Dorian Brown Pham",
+  "first_air_date": "2011-06-23"
 }

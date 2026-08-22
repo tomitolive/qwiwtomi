@@ -9155,8 +9155,26 @@
       "file": "289324.json",
       "title": "Star Wars: Visions Presents - The Ninth Jedi",
       "fixed_at": "2026-08-22T08:19:27.504520"
+    },
+    {
+      "tmdb_id": "601666",
+      "file": "601666.json",
+      "title": "I Care a Lot",
+      "fixed_at": "2026-08-22T08:59:14.449974"
+    },
+    {
+      "tmdb_id": "840464",
+      "file": "840464.json",
+      "title": "غرينلاند ٢: الهجرة",
+      "fixed_at": "2026-08-22T08:59:39.935796"
+    },
+    {
+      "tmdb_id": "39525",
+      "file": "39525.json",
+      "title": "Wilfred",
+      "fixed_at": "2026-08-22T08:59:48.600879"
     }
   ],
-  "last_updated": "2026-08-22T08:19:29.507269",
-  "total_fixed": 1526
+  "last_updated": "2026-08-22T08:59:50.603654",
+  "total_fixed": 1529
 }
