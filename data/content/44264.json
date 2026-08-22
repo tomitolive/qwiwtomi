@@ -4,14 +4,12 @@
   "title_ar": "Endeavour",
   "title_en": "Endeavour",
   "slug": "44264-endeavour",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل سعي قصة الفتى المخضرم إنديفور مورس، الذي يبدأ رحلته في الجريمة كضابط شرطة في أوكسفورد، وتحديداً في أوكسفورد سيتي بوليس، حيث سيخوض تجارب لا تنسى وسينقلب عليها فيما بعد. يتجول إنديفور في شوارع أوكسفورد، حيث يتعامل مع جرائم مختلفة، ويبدأ في اكتساب الخبرة التي ستشكل مستقبله في عالم الجريمة. ستحكي هذه القصة كيف ينمو مورس إلى أن يصبح محققاً بارعاً ويتعامل مع الجرائم الأكثر تعقيداً.",
   "poster_path": "/suX3F5e8XN9emrb52CQSwt2mRwx.jpg",
   "backdrop_path": "/52UMX6fg1PHgkgZicP8eBktR7Ay.jpg",
   "release_date": "2013-04-14",
   "vote_average": 8.1,
-  "vote_count": 281,
+  "vote_count": 290,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النخيل، يبحث المحقق جيمسون عن القاتل المisterioso، الذي قتل رجلًا في حفلة، وبدأ يبحث عن دلائل الحقيقة، بينما يتعثر بالعديد من الأسرار والسرائر، في عالم مليء بالغموض والخطر.",
-    "desc_en": "In the world of the elite, Detective Jameson is on the hunt for the mysterious killer who murdered a man at a party, and he's searching for clues to uncover the truth, but he's getting entangled in a web of secrets and lies, in a world full of mystery and danger.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل جريمة الدراما غموض «Endeavour» على توميتو!",
-    "keywords": "فيلم جريمة مترجم, مشاهدة مسلسل جريمة الدراما غموض, مشاهدة Endeavour 2013, توميتو Endeavour, أحداث Endeavour بالتفصيل, قصة مسلسل Endeavour, Endeavour مترجم كامل",
-    "seo_title_ar": "مشاهدة مسلسل جريمة الدراما غموض «Endeavour» مترجم اون لاين - توميتو",
-    "opinion": "هو فيلم رائع، مليء بالغموض والخطر، يجعلك تنتظر ما هو القادم، ويجعلك تสงع فيما هو الحقيقة.",
+    "intro": "ينطلق مسلسل سعي في رحلة مثيرة ومثيرة، حيث يتعامل إنديفور مورس مع جرائم مختلفة في أوكسفورد.",
+    "desc_ar": "يحكي مسلسل سعي قصة الفتى المخضرم إنديفور مورس، الذي يبدأ رحلته في الجريمة كضابط شرطة في أوكسفورد، وتحديداً في أوكسفورد سيتي بوليس، حيث سيخوض تجارب لا تنسى وسينقلب عليها فيما بعد. يتجول إنديفور في شوارع أوكسفورد، حيث يتعامل مع جرائم مختلفة، ويبدأ في اكتساب الخبرة التي ستشكل مستقبله في عالم الجريمة. ستحكي هذه القصة كيف ينمو مورس إلى أن يصبح محققاً بارعاً ويتعامل مع الجرائم الأكثر تعقيداً.",
+    "desc_en": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future.",
+    "seo_title_ar": "مشاهدة مسلسل سعي مترجم - نوع مسلسل جريمة دراما غموض - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل سعي مترجم - نوع مسلسل جريمة دراما غموض - تقدم جودة عالية وترجمة احترافية بدون إعلانات مزعجة، والمسلسل يتميز بممثلين بارعين ومحققا ذا",
+    "outro": "سوف نرى فيما بعد كيف يصبح إنديفور مورس محققاً بارعاً ويتعامل مع الجرائم الأكثر تعقيداً.",
+    "opinion_ar": "مشاهدة مسلسل سعي للاستمتاع بمواقف غريبة ومحقق ذا خبرة عالية.",
+    "opinion_en": "Watch Endeavour for the gripping story and the experienced detective's unique approach.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل «Endeavour»؟",
-        "a": "هو مسلسل جريمة دراما غموض"
+        "q": "ما هو نوع مسلسل سعي؟",
+        "a": "نوع مسلسل جريمة دراما غموض",
+        "q_en": "What type of show is Endeavour?",
+        "a_en": "A crime drama mystery series."
       },
       {
-        "q": "ما هو موضوع مسلسل «Endeavour»؟",
-        "a": "يحكى قصة المحقق جيمسون في البحث عن القاتل المisterioso"
-      },
-      {
-        "q": "هل مسلسل «Endeavour» جيد؟",
-        "a": "نعم، هو فيلم رائع، مليء بالغموض والخطر"
+        "q": "ما هي قصة مسلسل سعي؟",
+        "a": "حسناً، سأخبرك! مسلسل سعي يحكي قصة الفتى المخضرم إنديفور مورس.",
+        "q_en": "What is the story of Endeavour?",
+        "a_en": "It tells the story of young Endeavour Morse, a detective constable with the Oxford City Police."
       }
-    ]
+    ],
+    "keywords": "سعي, مسلسل, جريمة, دراما, غموض, إنديفور مورس, أوكسفورد سيتي بوليس, تجارب, خبرة, مستقبل, سعي الحج, دعاء سعي, سعي مشكور, هل طواف الافاضه معه سعي, هل طواف الوداع معه سعي, سعي مشكور وذنب مغفور, دعاء السعي, هل يجوز للمفرد ان يسعى سعي الحج بعد طواف القدوم"
   },
   "fixed": true,
-  "first_air_date": "2013-04-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "110 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jeff Bridges Hailee Steinfeld Matt Damon Josh Brolin Barry Pepper"
+  "country": "المملكة المتحدة",
+  "cast": "Shaun Evans Roger Allam James Bradshaw Sean Rigby Caroline O'Neill Abigail Thaw Sara Vickers Anton Lesser",
+  "first_air_date": "2013-04-14"
 }

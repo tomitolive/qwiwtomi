@@ -9065,8 +9065,26 @@
       "file": "399106.json",
       "title": "Piper",
       "fixed_at": "2026-08-22T05:22:36.173419"
+    },
+    {
+      "tmdb_id": "1710008",
+      "file": "1710008.json",
+      "title": "Jusquau bout",
+      "fixed_at": "2026-08-22T05:54:07.754972"
+    },
+    {
+      "tmdb_id": "44264",
+      "file": "44264.json",
+      "title": "Endeavour",
+      "fixed_at": "2026-08-22T05:54:16.316003"
+    },
+    {
+      "tmdb_id": "95842",
+      "file": "95842.json",
+      "title": "Joy of Life",
+      "fixed_at": "2026-08-22T05:54:25.137731"
     }
   ],
-  "last_updated": "2026-08-22T05:22:38.176234",
-  "total_fixed": 1511
+  "last_updated": "2026-08-22T05:54:27.140526",
+  "total_fixed": 1514
 }
