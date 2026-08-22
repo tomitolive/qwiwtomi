@@ -9101,8 +9101,26 @@
       "file": "588228.json",
       "title": "حرب الغد",
       "fixed_at": "2026-08-22T06:24:33.981214"
+    },
+    {
+      "tmdb_id": "37632",
+      "file": "37632.json",
+      "title": "Switched at Birth",
+      "fixed_at": "2026-08-22T07:13:42.532845"
+    },
+    {
+      "tmdb_id": "12155",
+      "file": "12155.json",
+      "title": "أليس في بلاد العجائب 2010",
+      "fixed_at": "2026-08-22T07:13:51.787589"
+    },
+    {
+      "tmdb_id": "1532",
+      "file": "1532.json",
+      "title": "Starsky Hutch",
+      "fixed_at": "2026-08-22T07:14:00.972627"
     }
   ],
-  "last_updated": "2026-08-22T06:24:35.984037",
-  "total_fixed": 1517
+  "last_updated": "2026-08-22T07:14:02.975396",
+  "total_fixed": 1520
 }

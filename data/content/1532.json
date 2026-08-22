@@ -4,14 +4,12 @@
   "title_ar": "Starsky Hutch",
   "title_en": "Starsky Hutch",
   "slug": "1532-starsky-hutch",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة الشرطة المثيرة في مدينة باي سيتي، حيث يلتقي شرطي الخبرة ستارسكي هاتش مع شرطي مثقف، هاتش هاتشينسون، لمراقبة الأمن و حماية المواطنين. يتعامل ستارسكي هاتش مع جريمة الغرام والقتل في المدينة، مع تحدياته في مراقبة السجون ومكافحة الجريمة. بينما يحاول هاتش هاتشينسون إقناع ستارسكي هاتش بأهمية تحليل البيانات، يجد ستارسكي هاتش نفسه في صراع مع قواعد القانون. مع كل ذلك، يتعاون ستارسكي هاتش وهاتش هاتشينسون بشكل أفضل مع مرور الوقت، مع تحدياتهم في مكافحة الجريمة والوصول إلى الحقيقة.",
   "poster_path": "/aBj5oTi1uibVcXDoCJeKseJNY2d.jpg",
   "backdrop_path": "/9GEghzkUfxWNQ65BbRwfysKOVoS.jpg",
   "release_date": "1975-09-10",
   "vote_average": 7.3,
-  "vote_count": 195,
+  "vote_count": 204,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخدرات والجريمة، يلتقي اثنان من الأصدقاء القدامى، هوتش وستارски، ليكونوا فريقاً قويًا يلتهم الجريمة في مدينة نيويورك. مع وصولهم إلى أماكن غير متوقعة، سوف يكتشفون أن هناك الكثير من الأسرار والسرائر التي تنتظرهم.",
-    "desc_en": "In a world of drugs and crime, two old friends, Hutch and Starsky, meet to become a powerful team that takes on crime in New York City. As they arrive at unexpected places, they will discover that there are many secrets and surprises waiting for them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع هوتش وستارски في مدينة نيويورك!",
-    "seo_title_ar": "مشاهدة فيلم ستارски هوتش مترجم اون لاين - توميتو",
-    "keywords": "فيلم ستارски هوتش مترجم, مشاهدة فيلم ستارски هوتش, Starsky Hutch مترجم كامل, توميتو Starsky Hutch, مشاهدة Starsky Hutch 1975, قصة مسلسل Starsky Hutch, أحداث Starsky Hutch بالتفصيل",
-    "opinion": "هذا الفيلم هو مثال رائع لما هو可能 أن يفعله فريق من الأصدقاء القدامى في عالم المخدرات والجريمة. مع وصولهم إلى أماكن غير متوقعة، سوف يكتشفون أن هناك الكثير من الأسرار والسرائر التي تنتظرهم.",
+    "intro": "يحكي هذا العمل قصة الشرطة المثيرة في مدينة باي سيتي, حيث يلتقي شرطي الخبرة ستارسكي هاتش مع شرطي مثقف.",
+    "desc_ar": "يحكي هذا العمل قصة الشرطة المثيرة في مدينة باي سيتي، حيث يلتقي شرطي الخبرة ستارسكي هاتش مع شرطي مثقف، هاتش هاتشينسون، لمراقبة الأمن و حماية المواطنين. يتعامل ستارسكي هاتش مع جريمة الغرام والقتل في المدينة، مع تحدياته في مراقبة السجون ومكافحة الجريمة. بينما يحاول هاتش هاتشينسون إقناع ستارسكي هاتش بأهمية تحليل البيانات، يجد ستارسكي هاتش نفسه في صراع مع قواعد القانون. مع كل ذلك، يتعاون ستارسكي هاتش وهاتش هاتشينسون بشكل أفضل مع مرور الوقت، مع تحدياتهم في مكافحة الجريمة والوصول إلى الحقيقة.",
+    "desc_en": "Streetwise Detective David Starsky partners up with a more intellectual partner, Kenneth 'Hutch' Hutchinson, to protect citizens and patrol the streets of Bay City. Starsky faces challenges in investigating crime and corruption in the city, while Hutch tries to convince Starsky of the importance of analyzing data. As they work together, Starsky and Hutch face off against the law and try to uncover the truth behind the crimes.",
+    "seo_title_ar": "مشاهدة ستارسكي هاتش مسلسل حركة ومغامرة مترجم - توميتو",
+    "meta_desc": "ستارسكي هاتش: مسلسل حركة ومغامرة, دراما, جريمة, يروي قصة الشرطة في مدينة باي سيتي, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "ستارسكي هاتش هو مسلسل مثير للغاية يدمج بين الحركة والمغامرة والدراما, مع قصة شرطة ممتعة وغامرة.",
+    "opinion_ar": "ستارسكي هاتش هو مسلسل مثير للغاية يدمج بين الحركة والمغامرة والدراما, مع قصة شرطة ممتعة وغامرة.",
+    "opinion_en": "Starsky Hutch is an exciting series that combines action, adventure, and drama, with a fun and thrilling police story.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم ستارски هوتش؟",
-        "a": "هو فيلم حركة ومغامرة ودراما و جريمة"
+        "q": "ما هو قصة ستارسكي هاتش؟",
+        "a": "يحكي هذا العمل قصة الشرطة المثيرة في مدينة باي سيتي.",
+        "q_en": "What is the story of Starsky Hutch?",
+        "a_en": "The series follows a thrilling police story in Bay City."
       },
       {
-        "q": "ما هو مكان الأحداث في فيلم ستارски هوتش؟",
-        "a": "الأحداث تtakes مكانها في مدينة نيويورك"
-      },
-      {
-        "q": "ما هو نوع فريق هوتش وستارски؟",
-        "a": "هو فريق من الأصدقاء القدامى الذين يلتهم الجريمة في مدينة نيويورك"
+        "q": "من هم الشخصيات الرئيسية في ستارسكي هاتش؟",
+        "a": "ستارسكي هاتش وهاتش هاتشينسون هما الشخصيتان الرئيسيتان في المسلسل.",
+        "q_en": "Who are the main characters in Starsky Hutch?",
+        "a_en": "David Starsky and Kenneth 'Hutch' Hutchinson are the main characters in the series."
       }
-    ]
+    ],
+    "keywords": "ستارسكي هاتش, مسلسل حركة ومغامرة, دراما, جريمة, باي سيتي, الشرطة, المخدرات, الجريمة, العمل, الحركة, المغامرة, مشاهدة ستارسكي هاتش, Starsky Hutch مترجم, تحميل ستارسكي هاتش, ستارسكي هاتش اون لاين"
   },
   "fixed": true,
-  "first_air_date": "1975-09-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "David Soul Paul Michael Glaser Antonio Fargas Bernie Hamilton",
+  "first_air_date": "1975-09-10"
 }
