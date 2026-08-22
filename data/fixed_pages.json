@@ -9191,8 +9191,26 @@
       "file": "1081422.json",
       "title": "Kunwari Dulhan",
       "fixed_at": "2026-08-22T09:20:25.885511"
+    },
+    {
+      "tmdb_id": "1384216",
+      "file": "1384216.json",
+      "title": "The Dog Stars",
+      "fixed_at": "2026-08-22T09:52:42.599435"
+    },
+    {
+      "tmdb_id": "760517",
+      "file": "760517.json",
+      "title": "Love and Leashes",
+      "fixed_at": "2026-08-22T09:52:53.066966"
+    },
+    {
+      "tmdb_id": "69050",
+      "file": "69050.json",
+      "title": "ريفرديل",
+      "fixed_at": "2026-08-22T09:53:00.923916"
     }
   ],
-  "last_updated": "2026-08-22T09:20:27.888192",
-  "total_fixed": 1532
+  "last_updated": "2026-08-22T09:53:02.926717",
+  "total_fixed": 1535
 }

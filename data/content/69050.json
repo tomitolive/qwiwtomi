@@ -4,14 +4,12 @@
   "title_ar": "ريفرديل",
   "title_en": "Riverdale",
   "slug": "69050-riverdale",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "أرشي، بيتي، فيرونيكا وأصدقائهم، يستكشفون حياة بلدة صغيرة، الظلام والغرابة تنشب تحت المظهر الزائف لبلدة ريفرديل.",
   "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
   "backdrop_path": "/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
   "release_date": "2017-01-26",
   "vote_average": 8.4,
-  "vote_count": 13717,
+  "vote_count": 13773,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في بلدة ريفرديل الصغيرة، يلعب الأطفال دوراً رئيسياً في حياة البلدة، حيث يتعاون أرشي، بيتي، فيرونيكا وأصدقائهم لاستكشاف أسرار البلدة، بينما يخفي الظلام والغرابة تحت المظهر الزائف لبلدة ريفرديل، مما يثير سلاسل من الأحداث الإثارة والغموض.",
-    "desc_en": "In the small town of Riverdale, children play a major role in the town's life, as Archie, Betty, Veronica, and their friends work together to uncover the secrets of the town, while the darkness and mystery hide under the fake facade of Riverdale, leading to a series of thrilling and mysterious events.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ريفرديل!",
-    "seo_title_ar": "مشاهدة ريفرديل مترجم اون لاين - توميتو",
-    "keywords": "Riverdale, فيلم ريفرديل مترجم, مشاهدة ريفرديل, توميتو ريفرديل, أحداث ريفرديل بالتفصيل, قصة مسلسل ريفرديل, مشاهدة ريفرديل 2017, ريفرديل مترجم كامل",
-    "opinion": "ريفرديل هو مسلسل دراما جريمة غموض رائع، حيث يلعب الأطفال دوراً رئيسياً في حياة البلدة، مما يخلق سلاسل من الأحداث الإثارة والغموض.",
+    "intro": "يتجول مسلسل ريفرديل في عالم من الغموض والتحديات، حيث يأخذك إلى بلدة ريفرديل، التي تُخفى وراءها عالمًا من الأسرار.",
+    "desc_ar": "يحكي هذا المسلسل قصة مجموعة من الأصدقاء الشباب، مثل أرشي، بيتي، فيرونيكا، الذين يتعرضون لظروف الحياة العصيبة في بلدة ريفرديل، التي تُخفى وراءها عالمًا من الغموض والجريمة. يتجولون في الشوارع، يبحثون عن الحقيقة، ويستكشفون أسرار البلدة التي تتحول من مكان هادئ إلى معقل للعواطف والتحديات. يظهر هذا المسلسل الطابع السرّي للعوالم الصغيرة، حيث يتناقض بين الأذواق الساحرة للمجتمع ومخاوف وأخطار لا تُغفَل.",
+    "desc_en": "This series offers a bold, subversive take on Archie, Betty, Veronica, and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale's wholesome facade. The story delves into the complexities of human relationships, the intricacies of friendships, and the mysteries that lie beneath the surface of this seemingly idyllic town.",
+    "seo_title_ar": "مشاهدة مسلسل ريفرديل مترجم - توميتو",
+    "meta_desc": "ريفرديل: المسلسل الحقيقي عن حياة وأسرار بلدة ريفرديل، شاهد الآن مترجما بشكل احترافي، بدون إعلانات، استمتع بقراءة هذا العمل. استمتع بمشاهدة هذا العمل",
+    "outro": "يتجاوز هذا المسلسل حدود العواطف، حيث يأخذك إلى عالم من الغموض والتحديات، ويقدم لك تجربة مشاهدة غامرة، استمتع بقراءة هذا العمل.",
+    "opinion_ar": "يتجاوز هذا المسلسل حدود العواطف، حيث يأخذك إلى عالم من الغموض والتحديات، ويقدم لك تجربة مشاهدة غامرة.",
+    "opinion_en": "This series exceeds emotional boundaries, taking you on a journey through the mysteries and challenges of Riverdale, offering a captivating viewing experience.",
     "faq": [
       {
-        "q": "ما هو ريفرديل؟",
-        "a": "ريفرديل هو مسلسل دراما جريمة غموض يلعب الأطفال دوراً رئيسياً في حياة البلدة."
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه ريفرديل؟",
-        "a": "ريفرديل يحدث في بلدة صغيرة اسمها ريفرديل."
-      },
-      {
-        "q": "ما هو نوع ريفرديل؟",
-        "a": "ريفرديل هو مسلسل دراما جريمة غموض"
+        "q": "ما هي قصة مسلسل ريفرديل؟",
+        "a": "يحكي هذا المسلسل قصة مجموعة من الأصدقاء الشباب، مثل أرشي، بيتي، فيرونيكا، الذين يتعرضون لظروف الحياة العصيبة في بلدة ريفرديل.",
+        "q_en": "What is the story of Riverdale?",
+        "a_en": "The series follows the story of a group of young friends, including Archie, Betty, and Veronica, as they navigate the complexities of life in the small town of Riverdale."
       }
-    ]
+    ],
+    "keywords": "ريفرديل, مسلسل, جريمة, دراما, غموض, ريفرديل مسلسل, ممثلين ريفرديل, مشاهدة ريفرديل, Riverdale مترجم, تحميل ريفرديل, ريفرديل اون لاين, Riverdale, ريفرديل جودة عالية, فيلم ريفرديل, Riverdale online"
   },
   "fixed": true,
-  "first_air_date": "2017-01-26",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "42 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael Jordan Tyrin Turner Christopher Reid Christopher Martin Doc Ice"
+  "cast": "KJ Apa Lili Reinhart Camila Mendes Cole Sprouse Madelaine Petsch Casey Cott Drew Ray Tanner Vanessa Morgan",
+  "first_air_date": "2017-01-26"
 }
