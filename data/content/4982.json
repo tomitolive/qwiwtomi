@@ -6,10 +6,10 @@
   "slug": "4982-american-gangster",
   "overview": "في أمريكا 1970، يعمل المخبر لاسقاط امبراطور المخدرات فرانك لوكاس، مبدأة الرئيسي هو تهريب المخدرات إلى داخل البلاد من الشرق الأقصى",
   "poster_path": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
-  "backdrop_path": "/bdsxhTLpYIMlO88yQH0AzGUCXPI.jpg",
+  "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
   "release_date": "2007-11-02",
   "vote_average": 7.6,
-  "vote_count": 6029,
+  "vote_count": 6161,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخدرات الأمريكي، يتعامل فرانك لوكاس، المخبر الأمبراطور، مع تهريب المخدرات إلى داخل البلاد من الشرق الأقصى. في هذه الأثناء، يتعامل رجل عصابات آخر، ريكو هارفي، مع تهريب المخدرات إلى داخل البلاد من الشرق الأقصى. في النهاية، سوف يتعامل فرانك لوكاس مع ريكو هارفي في معركة قانونية.",
-    "desc_en": "In the world of American drug trafficking, Frank Lucas, the emperor of drugs, deals with smuggling drugs into the country from the Far East. Meanwhile, another gangster, Rico Harve, deals with smuggling drugs into the country from the Far East. In the end, Frank Lucas will deal with Rico Harve in a legal battle.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رجل عصابات أمريكي مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم رجل عصابات أمريكي مترجم اون لاين - توميتو",
-    "keywords": "American Gangster, فيلم رجل عصابات أمريكي مترجم, مشاهدة فيلم رجل عصابات أمريكي, رجل عصابات أمريكي مترجم, توميتو رجل عصابات أمريكي, مشاهدة رجل عصابات أمريكي 2007, قصة فيلم رجل عصابات أمريكي, أحداث رجل عصابات أمريكي بالتفصيل",
-    "opinion": "هو فيلم رائع يلقي الضوء على عالم المخدرات الأمريكي، ويحكي قصة فرانك لوكاس، المخبر الأمبراطور، الذي يتعامل مع تهريب المخدرات إلى داخل البلاد من الشرق الأقصى.",
+    "intro": "يحكي فيلم رجل عصابات أمريكي قصة فرانك لوكاس, زعيم عصابات أمريكي, الذي كان يسيطر على تجارة المخدرات في أمريكا في السبعينيات من القرن الماضي.",
+    "desc_ar": "يحكي فيلم رجل عصابات أمريكي قصة فرانك لوكاس، زعيم عصابات أمريكي، الذي كان يسيطر على تجارة المخدرات في أمريكا في السبعينيات من القرن الماضي. في ذلك الوقت، كان فرانك يهدر المخدرات من الشرق الأقصى إلى داخل البلاد من خلال استخدام طائرات الخدمة الأمريكية العائدة من حرب فيتنام. حاولت الشرطة توقيعه، ولكن فرانك كان دائمًا يخطط أقدامه بحرص. في النهاية، تم توقيعه وأدين بجرائم مخدرات خطيرة.",
+    "desc_en": "Loosely based on the true story of Frank Lucas, a notorious American gangster, American Gangster tells the tale of how he rose to power in the 1970s and became a key figure in the US heroin trade. Lucas, a cunning and resourceful man, managed to smuggle large quantities of heroin into the country by using American service planes returning from the Vietnam War. However, his reign of terror was eventually brought to an end when he was apprehended by a team of determined detectives led by Richie Roberts.",
+    "seo_title_ar": "مشاهدة فيلم رجل عصابات أمريكي مترجم - American Gangster - توميتو",
+    "meta_desc": "رجل عصابات أمريكي: فيلم درامي عن تجارة المخدرات في أمريكا في السبعينيات, يحكي قصة فرانك لوكاس, زعيم عصابات أمريكي, استمتع بمشاهدة هذا العمل بجودة عالية وتر",
+    "outro": "في النهاية, تم توقيعه وأدين بجرائم مخدرات خطيرة, حكاية فرانك لوكاس هي حكاية عن التجربة الإنسانية, والحرب الدائمة ضد المخدرات في أمريكا.",
+    "opinion_ar": "رجل عصابات أمريكي هو فيلم درامي حافل بالتجربة الإنسانية, يُحكي قصة فرانك لوكاس, زعيم عصابات أمريكي, الذي كان يسيطر على تجارة المخدرات في أمريكا في السبعينيات من القرن الماضي.",
+    "opinion_en": "American Gangster is a gripping drama that tells the true story of Frank Lucas, a notorious American gangster who rose to power in the 1970s and became a key figure in the US heroin trade.",
     "faq": [
       {
+        "q": "من هو فرانك لوكاس؟",
+        "a": "فرانك لوكاس هو زعيم عصابات أمريكي, كان يسيطر على تجارة المخدرات في أمريكا في السبعينيات من القرن الماضي.",
+        "q_en": "Who is Frank Lucas?",
+        "a_en": "Frank Lucas is a notorious American gangster who was a key figure in the US heroin trade in the 1970s."
+      },
+      {
         "q": "ما هو فيلم رجل عصابات أمريكي؟",
-        "a": "هو فيلم دراما جريمة أمريكي يلقي الضوء على عالم المخدرات الأمريكي."
-      },
-      {
-        "q": "ما هو قصة فيلم رجل عصابات أمريكي؟",
-        "a": "القصة حول فرانك لوكاس، المخبر الأمبراطور، الذي يتعامل مع تهريب المخدرات إلى داخل البلاد من الشرق الأقصى."
-      },
-      {
-        "q": "ما هو نوع فيلم رجل عصابات أمريكي؟",
-        "a": "هو فيلم دراما جريمة أمريكي"
+        "a": "فيلم رجل عصابات أمريكي هو فيلم درامي, يحكي قصة فرانك لوكاس, زعيم عصابات أمريكي, الذي كان يسيطر على تجارة المخدرات في أمريكا في السبعينيات من القرن الماضي.",
+        "q_en": "What is American Gangster?",
+        "a_en": "American Gangster is a drama film that tells the true story of Frank Lucas, a notorious American gangster who rose to power in the 1970s and became a key figure in the US heroin trade."
       }
-    ]
+    ],
+    "keywords": "فيلم رجل عصابات أمريكي, دراما, جريمة, فرانك لوكاس, تجارة المخدرات, أمريكا, السبعينيات, فيلم أمريكي, مترجم, توميتو, مشاهدة رجل عصابات أمريكي, American Gangster مترجم, تحميل رجل عصابات أمريكي, رجل عصابات أمريكي اون لاين, American Gangster"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +51,5 @@
   "duration": "157 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Denzel Washington Russell Crowe Josh Brolin Chiwetel Ejiofor Cuba Gooding Jr."
+  "cast": "Denzel Washington Russell Crowe Josh Brolin Chiwetel Ejiofor Cuba Gooding Jr. Lymari Nadal Ted Levine Armand Assante"
 }
