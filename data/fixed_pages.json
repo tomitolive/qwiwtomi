@@ -9263,8 +9263,14 @@
       "file": "2593.json",
       "title": "Without a Trace",
       "fixed_at": "2026-08-22T14:49:24.270031"
+    },
+    {
+      "tmdb_id": "296989",
+      "file": "296989.json",
+      "title": "AV",
+      "fixed_at": "2026-08-22T16:52:34.936367"
     }
   ],
-  "last_updated": "2026-08-22T16:14:57.538663",
-  "total_fixed": 1544
+  "last_updated": "2026-08-22T16:52:36.939108",
+  "total_fixed": 1545
 }
