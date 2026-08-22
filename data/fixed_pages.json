@@ -9317,8 +9317,14 @@
       "file": "14210.json",
       "title": "Polizeiruf 110",
       "fixed_at": "2026-08-22T20:51:44.973176"
+    },
+    {
+      "tmdb_id": "1288445",
+      "file": "1288445.json",
+      "title": "Mutiny",
+      "fixed_at": "2026-08-22T21:46:49.864570"
     }
   ],
-  "last_updated": "2026-08-22T21:15:18.826242",
-  "total_fixed": 1553
+  "last_updated": "2026-08-22T21:46:51.867317",
+  "total_fixed": 1554
 }
