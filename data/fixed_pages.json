@@ -9245,8 +9245,14 @@
       "file": "1616674.json",
       "title": "Aku Sebelum Aku",
       "fixed_at": "2026-08-22T13:10:41.508083"
+    },
+    {
+      "tmdb_id": "670",
+      "file": "670.json",
+      "title": "الفتى العجوز",
+      "fixed_at": "2026-08-22T13:55:18.604737"
     }
   ],
-  "last_updated": "2026-08-22T13:10:43.510760",
-  "total_fixed": 1541
+  "last_updated": "2026-08-22T13:55:20.607652",
+  "total_fixed": 1542
 }
