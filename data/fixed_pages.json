@@ -9047,8 +9047,26 @@
       "file": "4327.json",
       "title": "مستر بين",
       "fixed_at": "2026-08-22T05:03:06.511372"
+    },
+    {
+      "tmdb_id": "49529",
+      "file": "49529.json",
+      "title": "John Carter",
+      "fixed_at": "2026-08-22T05:21:52.324835"
+    },
+    {
+      "tmdb_id": "12415",
+      "file": "12415.json",
+      "title": "Egoli: Place of Gold",
+      "fixed_at": "2026-08-22T05:22:26.627401"
+    },
+    {
+      "tmdb_id": "399106",
+      "file": "399106.json",
+      "title": "Piper",
+      "fixed_at": "2026-08-22T05:22:36.173419"
     }
   ],
-  "last_updated": "2026-08-22T05:03:08.514170",
-  "total_fixed": 1508
+  "last_updated": "2026-08-22T05:22:38.176234",
+  "total_fixed": 1511
 }
