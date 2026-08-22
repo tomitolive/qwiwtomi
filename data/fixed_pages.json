@@ -9083,8 +9083,26 @@
       "file": "95842.json",
       "title": "Joy of Life",
       "fixed_at": "2026-08-22T05:54:25.137731"
+    },
+    {
+      "tmdb_id": "60626",
+      "file": "60626.json",
+      "title": "From Dusk Till Dawn: The Series",
+      "fixed_at": "2026-08-22T06:24:16.647140"
+    },
+    {
+      "tmdb_id": "580",
+      "file": "580.json",
+      "title": "Star Trek: Deep Space Nine",
+      "fixed_at": "2026-08-22T06:24:25.064513"
+    },
+    {
+      "tmdb_id": "588228",
+      "file": "588228.json",
+      "title": "حرب الغد",
+      "fixed_at": "2026-08-22T06:24:33.981214"
     }
   ],
-  "last_updated": "2026-08-22T05:54:27.140526",
-  "total_fixed": 1514
+  "last_updated": "2026-08-22T06:24:35.984037",
+  "total_fixed": 1517
 }
