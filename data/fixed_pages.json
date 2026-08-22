@@ -8939,8 +8939,26 @@
       "file": "744114.json",
       "title": "My Policeman",
       "fixed_at": "2026-08-21T23:50:23.542319"
+    },
+    {
+      "tmdb_id": "1174024",
+      "file": "1174024.json",
+      "title": "Et plus si affinits",
+      "fixed_at": "2026-08-22T00:35:21.760509"
+    },
+    {
+      "tmdb_id": "127865",
+      "file": "127865.json",
+      "title": "رجل الكستناء",
+      "fixed_at": "2026-08-22T00:35:28.319391"
+    },
+    {
+      "tmdb_id": "319077",
+      "file": "319077.json",
+      "title": "The Vacation Principle",
+      "fixed_at": "2026-08-22T00:35:55.728862"
     }
   ],
-  "last_updated": "2026-08-21T23:50:25.545026",
-  "total_fixed": 1490
+  "last_updated": "2026-08-22T00:35:57.731434",
+  "total_fixed": 1493
 }
