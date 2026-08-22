@@ -9257,8 +9257,14 @@
       "file": "4982.json",
       "title": "رجل عصابات أمريكي",
       "fixed_at": "2026-08-22T14:16:04.062802"
+    },
+    {
+      "tmdb_id": "2593",
+      "file": "2593.json",
+      "title": "Without a Trace",
+      "fixed_at": "2026-08-22T14:49:24.270031"
     }
   ],
-  "last_updated": "2026-08-22T14:16:06.065611",
-  "total_fixed": 1543
+  "last_updated": "2026-08-22T14:49:26.272693",
+  "total_fixed": 1544
 }
