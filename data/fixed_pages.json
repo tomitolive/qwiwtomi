@@ -8975,8 +8975,26 @@
       "file": "7220.json",
       "title": "The Punisher",
       "fixed_at": "2026-08-22T02:02:24.554623"
+    },
+    {
+      "tmdb_id": "62871",
+      "file": "62871.json",
+      "title": "Quartier Lointain",
+      "fixed_at": "2026-08-22T02:54:36.696121"
+    },
+    {
+      "tmdb_id": "10160",
+      "file": "10160.json",
+      "title": "Big Brother",
+      "fixed_at": "2026-08-22T02:54:44.043486"
+    },
+    {
+      "tmdb_id": "44606",
+      "file": "44606.json",
+      "title": "Beauty and the Beast",
+      "fixed_at": "2026-08-22T02:54:53.593610"
     }
   ],
-  "last_updated": "2026-08-22T02:02:26.557536",
-  "total_fixed": 1496
+  "last_updated": "2026-08-22T02:54:55.596235",
+  "total_fixed": 1499
 }
