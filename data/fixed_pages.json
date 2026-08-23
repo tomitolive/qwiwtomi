@@ -9419,8 +9419,14 @@
       "file": "28322.json",
       "title": "Vacanze per un massacro",
       "fixed_at": "2026-08-23T09:20:01.907849"
+    },
+    {
+      "tmdb_id": "321612",
+      "file": "321612.json",
+      "title": "الجميلة والوحش",
+      "fixed_at": "2026-08-23T09:53:20.185547"
     }
   ],
-  "last_updated": "2026-08-23T09:20:03.910500",
-  "total_fixed": 1570
+  "last_updated": "2026-08-23T09:53:22.188353",
+  "total_fixed": 1571
 }
