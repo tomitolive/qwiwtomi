@@ -4,14 +4,12 @@
   "title_ar": "بوكيمون",
   "title_en": "Pokmon",
   "slug": "60572-pokmon",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "انضم إلى - اش كاتشم -  برفقه شريكه - بيكاتشو - وهو يسافر عبر العديد من المناطق، ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر.",
   "poster_path": "/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
   "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
   "release_date": "1997-04-01",
-  "vote_average": 8,
-  "vote_count": 2174,
+  "vote_average": 8.0,
+  "vote_count": 2233,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم بوكيمون، يلعب ash كاتشم دور الرائد، الذي يبحث عن بوكيمون الماستر. خلال رحلته، يلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه لتحقيق حلمه. من المنطقة إلى أخرى، يتعامل ash مع مختلف أنواع بوكيمون والتحديات التي تواجهه.",
-    "desc_en": "In the world of Pokémon, Ash Ketchum plays the lead role, who is searching for the Pokémon Master. During his journey, he meets new friends and faces new challenges in his pursuit of his dream. From region to region, Ash deals with different types of Pokémon and the challenges that come his way.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بوكيمون!",
-    "seo_title_ar": "مشاهدة فيلم بوكيمون مترجم اون لاين - توميتو",
-    "keywords": "Pokmon, فيلم بوكيمون مترجم, مشاهدة فيلم بوكيمون, مشاهدة بوكيمون 1997, توميتو بوكيمون, بوكيمون مترجم كامل, أحداث بوكيمون بالتفصيل, قصة مسلسل بوكيمون",
-    "opinion": "هو فيلم رائع يملأ القلب بالحماس والمرح. بوكيمون هو فيلم يجمع بين الخيال العلمي والحركة والمغامرة في عالم بوكيمون.",
+    "intro": "يتابع المسلسل قصة - بوكيمون - الذي يتبع - اش كاتشم - في رحلته للتصبح بوكيمون ماستر.",
+    "desc_ar": "يحكي هذا المسلسل قصة - بوكيمون - الذي يتبع - اش كاتشم - وهو يسافر عبر العديد من المناطق، ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر، حيث يقابل - بيكاتشو - شريكه المخلص الذي يساعده في رحلته، ويتعلم من تجاربه التي تتيح له الفهم بوكيمون.",
+    "desc_en": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokmon Master, where he encounters new trainers and learns from his experiences that help him understand the world of Pokmon.",
+    "seo_title_ar": "مشاهدة مسلسل بوكيمون مترجم 1997 - بوكيمون - توميتو",
+    "meta_desc": "شاهد مسلسل بوكيمون مترجم 1997, في عالم مليء بحركة ومغامرة، رسوم متحركة، خيال علمي وفانتازيا, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلا",
+    "outro": "استمتع بمشاهدة مسلسل بوكيمون مترجم 1997, حيث تقدم هذه المسلسل دراما رائعة ورسوم متحركة مذهلة.",
+    "opinion_ar": "مشاهدة مسلسل بوكيمون 1997 هو تجربة رائعة للمحبيين من جميع الأعمار، حيث يقدم هذه المسلسل دراما رائعة ورسوم متحركة مذهلة.",
+    "opinion_en": "Watching Pokmon 1997 is a great experience for fans of all ages, as this series offers great drama and amazing animated graphics.",
     "faq": [
       {
-        "q": "ما هو بوكيمون؟",
-        "a": "هو عالم يملأ بالبوكيمون والتحديات والمرح."
-      },
-      {
-        "q": "ما هو دور ash كاتشم؟",
-        "a": "هو الرائد الرئيسي في العالم بوكيمون."
-      },
-      {
-        "q": "ما هو هدف ash؟",
-        "a": "هو يسعى لتحقيق حلمه بأن يصبح بوكيمون ماستر."
+        "q": "ما هي قصة مسلسل بوكيمون؟",
+        "a": "يحكي المسلسل قصة - بوكيمون - الذي يتبع - اش كاتشم - في رحلته للتصبح بوكيمون ماستر.",
+        "q_en": "What is the story of the Pokmon series?",
+        "a_en": "The series follows the story of Ash Ketchum and his journey to become a Pokmon Master."
       }
-    ]
+    ],
+    "keywords": "بوكيمون, مسلسل, رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, بوكيمون ماستر, اش كاتشم, بيكاتشو, بطاقات بوكيمون, اسم بوكيمون, لعبة بوكيمون, كروت بوكيمون, انمي بوكيمون, بطايق بوكيمون, صور بوكيمون, بوكيمون الجزء الاول, العاب بوكيمون, كرتون بوكيمون, بوكيمون بولباسور, اغنية بوكيمون"
   },
   "fixed": true,
-  "first_air_date": "1997-04-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "45 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Rica Matsumoto Ikue Otani Daiki Yamashita Kenyu Horiuchi",
+  "first_air_date": "1997-04-01"
 }

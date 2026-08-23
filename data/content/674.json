@@ -9,7 +9,7 @@
   "backdrop_path": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
   "release_date": "2005-11-16",
   "vote_average": 7.8,
-  "vote_count": 22144,
+  "vote_count": 22526,
   "genres": [
     {
       "id": 12,
@@ -21,26 +21,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحوّل هاري بوتر نفسه منخرطًا في بطولة خطيرة بين مدارس السحر المتنافسة، حيث يخوض معركة ضد الكوابيس المتكررة التي تشتت انتباهه، ويحاول أن يفوز بالكأس النار الذي يكن معيار النجاح في هذه البطولة، ولكن ما يخبئه المستقبل؟",
-    "desc_en": "Harry Potter finds himself entangled in a treacherous tournament between rival wizarding schools, where he faces off against recurring nightmares that distract him, and tries to win the Goblet of Fire, which is the benchmark of success in this tournament, but what does the future hold?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم هاري بوتر وكأس النار",
-    "seo_title_ar": "مشاهدة فيلم هاري بوتر وكأس النار مترجم اون لاين - توميتو",
-    "keywords": "Harry Potter and the Goblet of Fire, فيلم هاري بوتر وكأس النار مترجم, مشاهدة فيلم هاري بوتر, قصة فيلم هاري بوتر وكأس النار, توميتو هاري بوتر وكأس النار, هاري بوتر وكأس النار مترجم, أحداث هاري بوتر وكأس النار بالتفصيل, مشاهدة هاري بوتر وكأس النار 2005",
-    "opinion": "فيلم هاري بوتر وكأس النار هو فيلم رائع يلقي بظلال السحرة على الشاشة، حيث يلقي بظلال السحرة على الشاشة، ويحولنا إلى عالم السحر والFantasy",
+    "intro": "يحكي هذا العمل قصة هاري بوتر، الذي يجد نفسه مُختارًا لخوض بطولة خطيرة بين مدارس السحر المتنافسة.",
+    "desc_ar": "يحكي هذا العمل قصة هاري بوتر، الذي يجد نفسه مُختارًا لخوض بطولة خطيرة بين مدارس السحر المتنافسة، لكن الكوابيس المتكررة تشتت انتباهه. يتجلى وجود السيد بليدس مرة أخرى، مما يثير إشاعات عودة فولدمور. يُعد هاري بوتر والصديقون المخلصون جاهزين لخوض التحديات المتوقعة في مسابقة كأس النار. في هذه الخطوة الرهيفة، يتعهد هاري بوتر بالاستمرار في تحدياته، بينما يُظهر صديقاه الحب والولاء لصديقه المفضل.",
+    "desc_en": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament. With his courage and loyalty, Harry Potter takes on the challenges of the tournament, while his friends demonstrate their unwavering support and love for him.",
+    "seo_title_ar": "مشاهدة فيلم هاري بوتر وكأس النار مترجم - توميتو",
+    "meta_desc": "هاري بوتر وكأس النار: فيلم مغامرة و فانتازيا يرى في عام 2005، حيث يخوض هاري بوتر بطولة كأس النار مع مدارس السحر المتنافسة. يستعد هاري بوتر والصديقون المخل",
+    "outro": "يُعد هاري بوتر وكأس النار فيلمًا رائعًا يُعبر عن أهمية الصداقة والولاء في مواجهة التحديات.",
+    "opinion_ar": "هاري بوتر وكأس النار هو فيلم رائع يُعبر عن أهمية الصداقة والولاء في مواجهة التحديات، كما يُظهر القوة والشجاعة في مواجهة الأخطار.",
+    "opinion_en": "Harry Potter and the Goblet of Fire is a wonderful film that highlights the importance of friendship and loyalty in the face of challenges, as well as the power and courage in the face of danger.",
     "faq": [
       {
-        "q": "ما هو فيلم هاري بوتر وكأس النار؟",
-        "a": "فيلم رائع يلقي بظلال السحرة على الشاشة"
+        "q": "ما هو عنوان هذا العمل؟",
+        "a": "عنوان هذا العمل هو هاري بوتر وكأس النار.",
+        "q_en": "What is the title of this work?",
+        "a_en": "The title of this work is Harry Potter and the Goblet of Fire."
       },
       {
-        "q": "ما هو نوع فيلم هاري بوتر وكأس النار؟",
-        "a": "فيلم مغامرة وفانتازيا"
+        "q": "من هو المخرج لهذا العمل؟",
+        "a": "المخرج لهذا العمل هو آلفونسو كوارون.",
+        "q_en": "Who is the director of this work?",
+        "a_en": "The director of this work is Alfonso Cuarn."
       },
       {
-        "q": "ما هو أفضل جزء في فيلم هاري بوتر وكأس النار؟",
-        "a": "جميع الأجزاء رائعة، ولكن الجزء الأكثر إثارة هو الجزء الأخير"
+        "q": "ما هي نوعية هذا العمل؟",
+        "a": "نوعية هذا العمل هي مغامرة و فانتازيا.",
+        "q_en": "What is the genre of this work?",
+        "a_en": "The genre of this work is Adventure and Fantasy."
       }
-    ]
+    ],
+    "keywords": "هاري بوتر وكأس النار, مغامرة, فانتازيا, فيلم, 2005, كأس النار, هاري بوتر, السيد بليدس, فولدمور, مشاهدة هاري بوتر وكأس النار, Harry Potter Goblet Fire مترجم, تحميل هاري بوتر وكأس النار, هاري بوتر وكأس النار اون لاين, Harry Potter Goblet Fire, هاري بوتر وكأس النار جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +57,5 @@
   "duration": "157 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Daniel Radcliffe Rupert Grint Emma Watson Brendan Gleeson Michael Gambon"
+  "cast": "Daniel Radcliffe Rupert Grint Emma Watson Brendan Gleeson Michael Gambon Robert Pattinson Ralph Fiennes Robbie Coltrane"
 }

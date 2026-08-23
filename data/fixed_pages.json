@@ -9869,8 +9869,164 @@
       "file": "40663.json",
       "title": "AIBOU: Tokyo Detective Duo",
       "fixed_at": "2026-08-23T23:07:21.922054"
+    },
+    {
+      "tmdb_id": "93740",
+      "file": "93740.json",
+      "title": "Foundation",
+      "fixed_at": "2026-08-23T23:11:19.059892"
+    },
+    {
+      "tmdb_id": "155226",
+      "file": "155226.json",
+      "title": "الفم الكبير",
+      "fixed_at": "2026-08-23T23:11:26.393397"
+    },
+    {
+      "tmdb_id": "94954",
+      "file": "94954.json",
+      "title": "فندق هازبن",
+      "fixed_at": "2026-08-23T23:11:37.944832"
+    },
+    {
+      "tmdb_id": "504056",
+      "file": "504056.json",
+      "title": "Big Brother",
+      "fixed_at": "2026-08-23T23:11:51.103143"
+    },
+    {
+      "tmdb_id": "62699",
+      "file": "62699.json",
+      "title": "The Young Pope",
+      "fixed_at": "2026-08-23T23:12:04.325271"
+    },
+    {
+      "tmdb_id": "289147",
+      "file": "289147.json",
+      "title": "The Ferry Man 10th Anniversary",
+      "fixed_at": "2026-08-23T23:12:14.210571"
+    },
+    {
+      "tmdb_id": "4194",
+      "file": "4194.json",
+      "title": "حرب النجوم: حروب المستنسخين",
+      "fixed_at": "2026-08-23T23:12:22.632209"
+    },
+    {
+      "tmdb_id": "5176",
+      "file": "5176.json",
+      "title": "3:10 to Yuma",
+      "fixed_at": "2026-08-23T23:12:40.111705"
+    },
+    {
+      "tmdb_id": "130013",
+      "file": "130013.json",
+      "title": "Show! Champion",
+      "fixed_at": "2026-08-23T23:13:00.189554"
+    },
+    {
+      "tmdb_id": "60572",
+      "file": "60572.json",
+      "title": "بوكيمون",
+      "fixed_at": "2026-08-23T23:13:07.882053"
+    },
+    {
+      "tmdb_id": "88329",
+      "file": "88329.json",
+      "title": "هوك أي",
+      "fixed_at": "2026-08-23T23:13:46.979379"
+    },
+    {
+      "tmdb_id": "80240",
+      "file": "80240.json",
+      "title": "رينا ديل فلو",
+      "fixed_at": "2026-08-23T23:14:00.362721"
+    },
+    {
+      "tmdb_id": "4766",
+      "file": "4766.json",
+      "title": "Q",
+      "fixed_at": "2026-08-23T23:14:19.945436"
+    },
+    {
+      "tmdb_id": "42009",
+      "file": "42009.json",
+      "title": "Black Mirror",
+      "fixed_at": "2026-08-23T23:14:29.723714"
+    },
+    {
+      "tmdb_id": "851644",
+      "file": "851644.json",
+      "title": "فتاة القرن العشرين",
+      "fixed_at": "2026-08-23T23:14:39.075749"
+    },
+    {
+      "tmdb_id": "1241436",
+      "file": "1241436.json",
+      "title": "حرب",
+      "fixed_at": "2026-08-23T23:14:49.206157"
+    },
+    {
+      "tmdb_id": "91759",
+      "file": "91759.json",
+      "title": "Come Home Love: Lo and Behold",
+      "fixed_at": "2026-08-23T23:15:05.138997"
+    },
+    {
+      "tmdb_id": "516486",
+      "file": "516486.json",
+      "title": "Greyhound",
+      "fixed_at": "2026-08-23T23:15:13.956255"
+    },
+    {
+      "tmdb_id": "655",
+      "file": "655.json",
+      "title": "Star Trek: The Next Generation",
+      "fixed_at": "2026-08-23T23:15:23.265457"
+    },
+    {
+      "tmdb_id": "8840",
+      "file": "8840.json",
+      "title": "Fightland",
+      "fixed_at": "2026-08-23T23:15:33.067457"
+    },
+    {
+      "tmdb_id": "18311",
+      "file": "18311.json",
+      "title": "Days of Being Wild",
+      "fixed_at": "2026-08-23T23:15:48.138339"
+    },
+    {
+      "tmdb_id": "674",
+      "file": "674.json",
+      "title": "هاري بوتر وكأس النار",
+      "fixed_at": "2026-08-23T23:15:56.750479"
+    },
+    {
+      "tmdb_id": "21641",
+      "file": "21641.json",
+      "title": "Good Luck Charlie",
+      "fixed_at": "2026-08-23T23:16:08.032251"
+    },
+    {
+      "tmdb_id": "976573",
+      "file": "976573.json",
+      "title": "مدينة العناصر",
+      "fixed_at": "2026-08-23T23:16:32.671829"
+    },
+    {
+      "tmdb_id": "1325734",
+      "file": "1325734.json",
+      "title": "الدراما",
+      "fixed_at": "2026-08-23T23:16:40.827261"
+    },
+    {
+      "tmdb_id": "33238",
+      "file": "33238.json",
+      "title": "الرجل الجاري",
+      "fixed_at": "2026-08-23T23:16:49.079727"
     }
   ],
-  "last_updated": "2026-08-23T23:07:24.565828",
-  "total_fixed": 1645
+  "last_updated": "2026-08-23T23:16:51.550198",
+  "total_fixed": 1671
 }

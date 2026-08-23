@@ -4,14 +4,12 @@
   "title_ar": "رينا ديل فلو",
   "title_en": "The Queen of Flow",
   "slug": "80240-the-queen-of-flow",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد قضاء سبعة عشر عاما في السجن بشكل غير عادل، تسعى كاتبة أغاني موهوبة إلى الانتقام من الرجال الذين أغرقوها وقتلوا عائلتها.",
   "poster_path": "/is0hvQi9ySVunaTyigvWOQwP1ll.jpg",
-  "backdrop_path": "/lq64DZcGCtOwrJ59ArhzMZdFX8o.jpg",
+  "backdrop_path": "/uxKS3Wmi5xH3zRxZCo7retMpvPR.jpg",
   "release_date": "2018-06-12",
-  "vote_average": 8,
-  "vote_count": 1565,
+  "vote_average": 8.0,
+  "vote_count": 1576,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد قضاء سبعة عشر عاما في السجن بشكل غير عادل، تسعى كاتبة أغاني موهوبة إلى الانتقام من الرجال الذين أغرقوها وقتلوا عائلتها. في رحلة مليئة بالسفور والانتقام، ستعرف كيف تتصارع ضد الظلم وتحصل على العدالة.",
-    "desc_en": "After spending 17 years in an unjust prison, a talented songwriter seeks revenge against the men who ruined her life and killed her family. In a journey filled with revenge and redemption, you'll see how she struggles against injustice and achieves justice.",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في رينا ديل فلو)",
-    "seo_title_ar": "مشاهدة فيلم رينا ديل فلو مترجم اون لاين - توميتو",
-    "keywords": "The Queen of Flow, فيلم دراما جريمة مترجم, مشاهدة فيلم رينا ديل فلو, مشاهدة رينا ديل فلو 2018, أحداث رينا ديل فلو بالتفصيل, رينا ديل فلو مترجم كامل, قصة مسلسل رينا ديل فلو, توميتو رينا ديل فلو",
-    "opinion": "هذه الدراما الجريمة هي قصة انتقام رائعة، حيث تتصارع heroine ضد الظلم وتحصل على العدالة. سوف تري كيف تتصارع ضد الظلم وتحصل على العدالة.",
+    "intro": "في عالم مليء بالغموض والتشويش، تتعين على كاتبة موهوبة تعود من السجن أن تجد لنفسها من جديد وتعيد بناء حياتها المدمرة.",
+    "desc_ar": "بعد مرور سبعة عشر عاما على الحكم العادل، تُجبر كاتبة موهوبة تعود من السجن على تحقيق الانتقام من الرجال الذين أوجدوا لها هزيمة مؤلمة وقتلوا عائلتها البطلة. في رحلتها المثيرة، يتعين على الراوية أن تجد لنفسها من جديد وتعيد بناء حياتها المدمرة، بينما تحاول أن تؤدي العدالة وتسحق الأعداء الذين خانوها. مع كل خطوة تقوم بها، تكتشف جديدة من الأسرار والغموض الذي يحيط بقتها، مما يُجعل منها قصة حرب لا رحمة فيها.",
+    "desc_en": "Seventeen years after being wrongly imprisoned, a talented songwriter seeks justice against the men who caused her downfall and killed her family. In her thrilling journey, the protagonist must find herself again and rebuild her shattered life, while trying to do justice and crush the enemies who betrayed her. With every step she takes, she discovers new secrets and mysteries surrounding her case, making her a story of war with no mercy.",
+    "seo_title_ar": "مشاهدة مسلسل رينا ديل فلو مترجم - قصة انتقامي عن كاتبة موهوبة - توميتو",
+    "meta_desc": "شاهد مسلسل رينا ديل فلو مترجم، قصة انتقامي عن كاتبة موهوبة تعود من السجن، مع انتقاميها من الرجال الذين أوجدوا لها هزيمة مؤلمة وقتلوا عائلتها، وستجد لنفسها",
+    "outro": "في النهاية، تكتشف الراوية أن الانتقام لا يزال بعيدًا، ولكنها لا تنسى أن قصة انتقامي لا تنتهي، وستستمر في رحلتها لتحقيق العدالة.",
+    "opinion_ar": "رينا ديل فلو هي قصة انتقامي مثيرة ومثيرة، تُحكي عن قصة انتقامي لكاتبة موهوبة تعود من السجن، وتحاول أن تؤدي العدالة وتسحق الأعداء الذين خانوها.",
+    "opinion_en": "The Queen of Flow is an exciting and thrilling story of revenge, telling the story of a talented songwriter who returns from prison and tries to do justice and crush the enemies who betrayed her.",
     "faq": [
       {
-        "q": "ما هو قصة رينا ديل فلو؟",
-        "a": "هي قصة انتقام رائعة، حيث تتصارع heroine ضد الظلم وتحصل على العدالة."
+        "q": "ما هوplot مسلسل رينا ديل فلو؟",
+        "a": "يحكي مسلسل رينا ديل فلو قصة انتقامي لكاتبة موهوبة تعود من السجن وتحاول أن تؤدي العدالة وتسحق الأعداء الذين خانوها.",
+        "q_en": "What is the plot of The Queen of Flow?",
+        "a_en": "The Queen of Flow is a story of revenge, telling the story of a talented songwriter who returns from prison and tries to do justice and crush the enemies who betrayed her."
       },
       {
-        "q": "ما هو نوع رينا ديل فلو؟",
-        "a": "هو نوع دراما جريمة"
+        "q": "من هو بطل مسلسل رينا ديل فلو؟",
+        "a": "بطل مسلسل رينا ديل فلو هي كاتبة موهوبة تعود من السجن وتحاول أن تؤدي العدالة وتسحق الأعداء الذين خانوها.",
+        "q_en": "Who is the protagonist of The Queen of Flow?",
+        "a_en": "The protagonist of The Queen of Flow is a talented songwriter who returns from prison and tries to do justice and crush the enemies who betrayed her."
       },
       {
-        "q": "ما هو المخرج رينا ديل فلو؟",
-        "a": "لا يوجد معلومات عن المخرج"
+        "q": "ما هو نوع مسلسل رينا ديل فلو؟",
+        "a": "مستله مسلسل رينا ديل فلو هو دراما وجريمة.",
+        "q_en": "What is the genre of The Queen of Flow?",
+        "a_en": "The genre of The Queen of Flow is drama and crime."
       }
-    ]
+    ],
+    "keywords": "رينا ديل فلو, مسلسل, انتقامي, دراما, جريمة, كاتبة موهوبة, انتقام, عدالة, أعداء, خانة, حرب, رحلة, تعود, بناء, حياتها, المدمرة"
   },
   "fixed": true,
-  "first_air_date": "2018-06-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "540 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "John Cena Bryan Danielson Jim Ross Jerry Lawler David Otunga"
+  "duration": "53 دقيقة",
+  "language": "الإسبانية",
+  "country": "كولومبيا",
+  "cast": "Carolina Ramírez Carlos Torres Juan Manuel Restrepo Mariana Gómez Alisson Joan",
+  "first_air_date": "2018-06-12"
 }

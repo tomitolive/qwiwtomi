@@ -1,49 +1,57 @@
 {
   "id": 130013,
-  "title": "Show! Champion",
-  "title_ar": "Show! Champion",
-  "title_en": "Show! Champion",
-  "slug": "130013-show-champion",
-  "overview": "يعرض!بطل هو برنامج موسيقي كوري جنوبي يبث مباشرة على قناة MBC  كل يوم أربعاء في مركز بث Bitmaru في إلسان. يسلط البرنامج الضوء على أحدث الأغاني والفنانين الكوريين، ويوفر منصة رائعة لعشاق الموسيقى للاستمتاع بأداء نجومهم المفضلين.",
+  "title": "Gumball 3000: Number 13",
+  "title_ar": "Gumball 3000: Number 13",
+  "title_en": "Gumball 3000: Number 13",
+  "slug": "130013-gumball-3000-number-13",
+  "overview": "استمتع بمشاهدة فيلم غامبول 3000: رقم 13 مترجم بجودة عالية.",
   "poster_path": "/9SoRDu5oh1HN2xZIbnfHC9A7C7U.jpg",
-  "backdrop_path": "/pXjrO8dgtXKYPfN6U1Q2jkBb0fN.jpg",
-  "release_date": "2012-02-14",
-  "vote_average": 8.5,
-  "vote_count": 2,
+  "backdrop_path": null,
+  "release_date": "2012-03-15",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Show! Champion (2012) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يعرض!بطل هو برنامج موسيقي كوري جنوبي يبث مباشرة على قناة MBC  كل يوم أربعاء في مركز بث Bitmaru في إلسان. يسلط البرنامج الضوء على أحدث الأغاني والفنانين الكوريين، ويوفر منصة رائعة لعشاق الموسيقى للاستمتاع بأداء نجومهم المفضلين.",
-    "desc_en": "Show! Champion is a South Korean music program that airs live every Wednesday on MBC M. The show features the latest K-pop songs and artists, providing a great platform for music lovers to enjoy their favorite stars' performances. \"Show! Champion\" is a must-watch for K-pop enthusiasts.",
-    "seo_title_ar": "مشاهدة يعرض!بطل Show! Champion مترجم - توميتو",
-    "meta_desc": "شاهد يعرض!بطل، برنامج الموسيقى الكوري الجنوبي المباشر الذي يعرض أحدث الأغاني والفنانين الكوريين. استمتع بأداء نجومك المفضلين على قناة MBC كل أسبوع.",
-    "outro": "شاهد Show! Champion الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "يعرض!بطل هو برنامج موسيقي ممتع ومحبب لعشاق الموسيقى الكورية، حيث يقدم تجربة مشاهدة مباشرة ومثيرة. لا تفوتوا متابعة هذا البرنامج المميز!",
-    "opinion_en": "Show! Champion is an exciting and engaging music program for K-pop fans. The live performances and latest music releases make it a must-watch for anyone interested in Korean music culture.",
+    "intro": "استمتع بمشاهدة فيلم Gumball 3000: Number 13 (2012) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم غامبول 3000: رقم 13 مترجم بجودة عالية.",
+    "desc_en": "The 13th Gumball 3000 film follows the story of MTV's Dirty Sanchez stars Lee Dainton and Matthew Pritchard participating in the famous 3000 mile road trip. Driving alongside the most incredible array of supercars ever seen together their humble ride is a 20 year old VW van that they bought for just £850! From London to Istanbul, driving 3000 miles across 13 countries in just 7 days with insane parties each night takes its toll on the Dirty Sanchez duo and the rest of the Gumballers. Featuring Bun B, EVE, Ndamukong Suh, The Dudesons, Tamer Hassan, Costas Mandylor, Shane Lynch, Maximillion Cooper, David Hasselhoff, David Guetta, and incorporating the Monaco F1...its one hell of a week!",
+    "seo_title_ar": "مشاهدة فيلم Gumball 3000: Number 13 مترجم - توميتو",
+    "meta_desc": "مشاهدة غامبول 3000: رقم 13 مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد Gumball 3000: Number 13 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو يعرض!بطل؟",
-        "a": "إجابة عن يعرض!بطل",
-        "q_en": "What is Show! Champion?",
-        "a_en": "Show! Champion is a South Korean music program that airs live on MBC M, featuring the latest K-pop songs and artists."
+        "q": "كيف يمكنني مشاهدة فيلم غامبول 3000: رقم 13?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Gumball 3000: Number 13?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم غامبول 3000: رقم 13?",
+        "a": "يندرج العمل تحت تصنيف وثائقي.",
+        "q_en": "What is the genre of Gumball 3000: Number 13?",
+        "a_en": "It falls under the genre of وثائقي."
+      },
+      {
+        "q": "ما هي قصة فيلم غامبول 3000: رقم 13?",
+        "a": "",
+        "q_en": "What is the story of Gumball 3000: Number 13?",
+        "a_en": "The 13th Gumball 3000 film follows the story of MTV's Dirty Sanchez stars Lee Dainton and Matthew Pritchard participating in the famous 3000 mile road trip. Driving alongside the most incredible array..."
       }
     ],
-    "keywords": "يعرض!بطل, Show! Champion, برنامج موسيقي, كوري جنوبي, MBC, موسيقى كورية, بث مباشر, -, أغاني كورية, فنانين كوريين"
+    "keywords": "غامبول 3000: رقم 13 مترجم, Gumball 3000: Number 13 مترجم, مشاهدة غامبول 3000: رقم 13,"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "75 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Geum Dong-hyun Gaon Nana Tsuki Moon Sua Moon Bin Yoon San-ha Yoo Kang-min",
-  "first_air_date": "2012-02-14",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "المملكة المتحدة",
+  "cast": "Maximillion Cooper Lee Dainton Mathew Pritchard Jarppi Leppälä Jarno Laasala Hannu-Pekka Parviainen Derek Butler Kim Dotcom"
 }

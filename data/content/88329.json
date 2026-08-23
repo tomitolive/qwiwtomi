@@ -4,14 +4,12 @@
   "title_ar": "هوك أي",
   "title_en": "Hawkeye",
   "slug": "88329-hawkeye",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد سلسلة من المتاعب التي تورط بها بعد أحداث (Avengers: Infinity War)، يعود كلينت بارون مجددًا في مغامرة جديدة على أمل البدء في حياة جديدة والتخلص من الماضي الذي يُطارده، وسرعان ما يتقابل مع فتاه تُشبهه تُدعى كيت بيشوب.",
   "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
-  "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+  "backdrop_path": "/9QNv2Al3GfCND8BwuLmu2GwVht7.jpg",
   "release_date": "2021-11-24",
   "vote_average": 7.8,
-  "vote_count": 3698,
+  "vote_count": 3812,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد سلسلة من المتاعب التي تورط به كلينت بارون مجددًا في مغامرة جديدة، يبحث عن بدء حياة جديدة والتخلص من الماضي الذي يُطارده. في هذه الرحلة، يلتقي بفتاة تُشبهه تُدعى كيت بيشوب، والتي ستغير مسار حياته للأبد.",
-    "desc_en": "After a series of troubles that entangle Clint Barton again in a new adventure, he searches for a new beginning and the escape from the past that haunts him. In this journey, he meets a woman who resembles him, called Kate Bishop, who will change the course of his life forever.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في هوك أي (Hawkeye) - دراما كوميديا حركة مغامرة - توميتو",
-    "seo_title_ar": "مشاهدة فيلم هوك أي مترجم اون لاين - توميتو",
-    "keywords": "Hawkeye, فيلم هوك أي مترجم, مشاهدة فيلم هوك أي, هوك أي مترجم كامل, أحداث هوك أي بالتفصيل, توميتو هوك أي, قصة مسلسل هوك أي, مشاهدة هوك أي 2021",
-    "opinion": "هوك أي هو أكثر من مجرد مغامرة رائعة، هو رحلة داخل النفس، حيث نرى كلينت بارون يبحث عن نفسه في عالم مليء بالمرحلة والكوميديا",
+    "intro": "في هذا المسلسل الدرامي، يتعرض كلينت بارون لتحديات جديدة ويحصل على الدعم من كيت بيشوب.",
+    "desc_ar": "يحكي مسلسل هوك أي قصة كلينت بارون، أحد أعضاء فرقة العدالة التي عانت من سلسلة من المتاعب بعد أحداث (Avengers: Infinity War)، ويحاول البدء في حياة جديدة والتخلص من الماضي الذي يُطارده، لكنه يتعرض لخطورة جديدة عندما يلتقي بشابة تُشبهه في مهاراتها في القوس والنشاب، تدعى كيت بيشوب، وتظهر هذه الفتاة أنه لا شيء يسير كما هو المتوقع، لأنها تحمل أحلاماً كبيرة في التميز ككشاف، وبينما يحاول كلينت أن يلعب دوراً في حياته العائلية في عيد الميلاد، يتعرض لخطر يهدد عدم فقط الروح المعنوية، ولكن يهدد أمنه وذكرياته.",
+    "desc_en": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Bartons past threatens to derail far more than the festive spirit.",
+    "seo_title_ar": "مشاهدة هوك أي مسلسل درامي كوميدي حركي على قناة Disney",
+    "meta_desc": "مشاهدة هوك أي مسلسل درامي كوميدي حركي على قناة Disney في جودة عالية وترجمة احترافية. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "هوك أي هو مسلسل درامي رائع يجمع بين الأحداث الدرامية والكوميديا والحركة، يتعرض كلينت بارون لتحديات جديدة ويحصل على الدعم من كيت بيشوب.",
+    "opinion_ar": "هوك أي هو مسلسل درامي رائع يجمع بين الأحداث الدرامية والكوميديا والحركة، يتعرض كلينت بارون لتحديات جديدة ويحصل على الدعم من كيت بيشوب.",
+    "opinion_en": "Hawkeye is a great drama series that combines dramatic and comedic elements, as Clint Barton faces new challenges with the help of Kate Bishop.",
     "faq": [
       {
         "q": "ما هو هوك أي؟",
-        "a": "هوك أي هو مسلسل تلفزيوني دراما كوميديا حركة مغامرة يتبع مغامرة كلينت بارون"
+        "a": "هوك أي هو مسلسل درامي رائع يجمع بين الأحداث الدرامية والكوميديا والحركة.",
+        "q_en": "What is Hawkeye?",
+        "a_en": "Hawkeye is a great drama series that combines dramatic and comedic elements."
       },
       {
-        "q": "ما هو نوع هوك أي؟",
-        "a": "هوك أي هو مسلسل تلفزيوني"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه هوك أي؟",
-        "a": "يحدث في هوك أي في عالم مليء بالمرحلة والكوميديا"
+        "q": "متى يصدر هوك أي؟",
+        "a": "صدر هوك أي في عام 2021 على قناة Disney",
+        "q_en": "When is Hawkeye released?",
+        "a_en": "Hawkeye was released in 2021 on Disney"
       }
-    ]
+    ],
+    "keywords": "هوك أي, مسلسل درامي, كوميديا, حركة, مغامرة, Disney, كلينت بارون, كيت بيشوب, عيد الميلاد, مشاهدة هوك أي, Hawkeye مترجم, تحميل هوك أي, هوك أي اون لاين, Hawkeye, هوك أي جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2021-11-24",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jeremy Renner Hailee Steinfeld Tony Dalton Alaqua Cox Fra Fee Aleks Paunovic Piotr Adamczyk Vera Farmiga",
+  "first_air_date": "2021-11-24"
 }
