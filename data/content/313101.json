@@ -1,15 +1,15 @@
 {
   "id": 313101,
-  "title": "Musafir Cafe",
-  "title_ar": "Musafir Cafe",
-  "title_en": "Musafir Cafe",
-  "slug": "313101-musafir-cafe",
-  "overview": "مقهى المسافر، مسلسل دراما رومانسي، يسلط الضوء على قصة حب مؤثرة بين تشاندر وشوذا. بعد سنوات، يبدأ تشاندر حياة جديدة في الجبال مع بريتي، لكن ذكريات الماضي لا تزال تلاحقه. Musafir Cafe، مسلسل هندي مثير للاهتمام، يجمع بين الرومانسية والدراما في قالب مشوق.",
+  "title": "Souls of the Wind",
+  "title_ar": "Souls of the Wind",
+  "title_en": "Souls of the Wind",
+  "slug": "313101-souls-of-the-wind",
+  "overview": "يحكي فيلم أرواح الريح قصة رائعة عن عالم الفنون والتصميم، حيث يتعامل المخرج الرائع بيتر يونغ مع خیال الشباب وتأثيرات الفن على حياتهم. في عام 1982، أخرج بيتر يونغ هذا العمل الفني الرائع، الذي أضفى على عالم الفنون والتصميم أبعادا جديدة ومتنوعة. يظهر الفيلم تأثيرات الفن على الشباب، وتأثيرات الشباب على الفن، مما يجعل الفيلم شغوفًا ومتفاعلا مع الزوايا المختلفة للفن والتصميم.",
   "poster_path": "/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
-  "backdrop_path": "/mQFlpu6IH7dRIjLYZbflzn4H6uV.jpg",
-  "release_date": "2026-07-24",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": null,
+  "release_date": "1982-12-23",
+  "vote_average": 5.8,
+  "vote_count": 4,
   "genres": [
     {
       "id": 18,
@@ -17,33 +17,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Musafir Cafe (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مقهى المسافر، مسلسل دراما رومانسي، يسلط الضوء على قصة حب مؤثرة بين تشاندر وشوذا. بعد سنوات، يبدأ تشاندر حياة جديدة في الجبال مع بريتي، لكن ذكريات الماضي لا تزال تلاحقه. Musafir Cafe، مسلسل هندي مثير للاهتمام، يجمع بين الرومانسية والدراما في قالب مشوق.",
-    "desc_en": "Musafir Cafe, a romantic drama series, showcases the captivating love story of Chander and Sudha. Years later, Chander builds a new life in the hills with Preeti, but the memories of his past linger. This Indian series offers a blend of romance and drama, keeping viewers engaged.",
-    "seo_title_ar": "مشاهدة مسلسل مقهى المسافر Musafir Cafe مترجم - توميتو",
-    "meta_desc": "مقهى المسافر - Musafir Cafe: مسلسل دراما رومانسي يجمع بين الحب والذكريات. قصة تشاندر وشوذا المؤثرة تترك أثرها في الماضي والحاضر.",
-    "outro": "شاهد Musafir Cafe الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مقهى المسافر، مسلسل دراما رومانسي ممتع، يجمع بين الحب والذكريات. القصة المؤثرة والشخصيات العميقة تجعل من هذا المسلسل تجربة مشاهدة ممتعة.",
-    "opinion_en": "Musafir Cafe is a captivating romantic drama series. The story's blend of love and memories creates a compelling watch, with well-developed characters.",
+    "intro": "يحكي فيلم أرواح الريح قصة رائعة عن عالم الفنون والتصميم، حيث يتعامل المخرج الرائع بيتر يونغ مع خیال الشباب وتأثيرات الفن على حياتهم.",
+    "desc_ar": "يحكي فيلم أرواح الريح قصة رائعة عن عالم الفنون والتصميم، حيث يتعامل المخرج الرائع بيتر يونغ مع خیال الشباب وتأثيرات الفن على حياتهم. في عام 1982، أخرج بيتر يونغ هذا العمل الفني الرائع، الذي أضفى على عالم الفنون والتصميم أبعادا جديدة ومتنوعة. يظهر الفيلم تأثيرات الفن على الشباب، وتأثيرات الشباب على الفن، مما يجعل الفيلم شغوفًا ومتفاعلا مع الزوايا المختلفة للفن والتصميم.",
+    "desc_en": "A drama film directed by Hong Kong New Wave filmmaker Peter Yung, Souls of the Wind is a thought-provoking exploration of the intersection of art and design. In 1982, Peter Yung brought this masterpiece to life, showcasing the profound impact of art on the lives of young people. The film delves into the ways in which art influences the youth, and vice versa, making it an engaging and interactive exploration of the multifaceted world of art and design.",
+    "seo_title_ar": "مشاهدة أرواح الريح فيلم دراما مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة أرواح الريح فيلم دراما من إخراج بيتر يونغ - تم إصداره في عام 1982 - وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "يعد أرواح الريح فيلمًا فنيًا رائعًا يُظهر تأثيرات الفن على الشباب ويعكس تأثيرات الشباب على الفن.",
+    "opinion_ar": "يعد أرواح الريح فيلمًا فنيًا رائعًا يُظهر تأثيرات الفن على الشباب ويعكس تأثيرات الشباب على الفن.",
+    "opinion_en": "Souls of the Wind is a visually stunning film that thoughtfully explores the dynamic relationship between art and youth.",
     "faq": [
       {
-        "q": "هل مقهى المسافر مسلسل هندي؟",
-        "a": "نعم، مقهى المسافر مسلسل هندي من نوع الدراما الرومانسية.",
-        "q_en": "Is Musafir Cafe an Indian series?",
-        "a_en": "Yes, Musafir Cafe is an Indian series, a romantic drama."
+        "q": "متى تم إصدار فيلم أرواح الريح؟",
+        "a": "تم إصدار الفيلم في عام 1982.",
+        "q_en": "When was the film Souls of the Wind released?",
+        "a_en": "The film was released in 1982."
+      },
+      {
+        "q": "من هو المخرج الرئيسي لفيلم أرواح الريح؟",
+        "a": "المخرج الرئيسي هو بيتر يونغ.",
+        "q_en": "Who is the main director of the film Souls of the Wind?",
+        "a_en": "The main director is Peter Yung."
       }
     ],
-    "keywords": "مقهى المسافر, Musafir Cafe, مسلسل, دراما, رومانسي, هندي, حب, ذكريات"
+    "keywords": "أرواح الريح, فيلم دراما, بيتر يونغ, 1982, فن, تصميم, شباب, تأثيرات الفن, مشاهدة أرواح الريح, Souls Wind مترجم, تحميل أرواح الريح, أرواح الريح اون لاين, Souls Wind, أرواح الريح جودة عالية, فيلم أرواح الريح"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "87 دقيقة",
   "language": "الإنجليزية",
-  "country": "الهند",
-  "cast": "Vikrant Massey Vedika Pinto Mahima Makwana Adil Hussain Rajeev Siddhartha Anubha Fatehpuria Loveleen Mishra Sadiya Siddiqui",
-  "first_air_date": "2026-07-24",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Hong Kong",
+  "cast": "Si Wai Yiu Wai Tiu Yi-Shun"
 }
