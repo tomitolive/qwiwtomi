@@ -1,7 +1,7 @@
 {
   "id": 1726,
-  "title": "الرجل الحديدي",
-  "title_ar": "الرجل الحديدي",
+  "title": "آيرون مان",
+  "title_ar": "آيرون مان",
   "title_en": "Iron Man",
   "slug": "1726-iron-man",
   "overview": "بعد أن تم احتجازه أسيراً في كهف أفغاني، قام المهندس الملياردير توني ستارك بصنع بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر.",
@@ -9,7 +9,7 @@
   "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
   "release_date": "2008-04-30",
   "vote_average": 7.7,
-  "vote_count": 28111,
+  "vote_count": 28650,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالعديد من الألغاز، يأتي المهندس الملياردير توني ستارك ليكون الرجل الحديدي، بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر. بعد أن تم احتجازه أسيراً في كهف أفغاني، قام توني بصنع بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر. في هذه الرحلة، سيركب توني بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر لإنقاذ العالم من الشر.",
-    "desc_en": "In a world filled with many puzzles, Tony Stark becomes Iron Man, a unique suit of armor equipped with weapons to fight against evil. After being held captive in an Afghan cave, Tony creates a unique suit of armor equipped with weapons to fight against evil. On this journey, Tony will wear a unique suit of armor equipped with weapons to fight against evil to save the world from evil.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الرجل الحديدي مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الرجل الحديدي مترجم اون لاين - توميتو",
-    "keywords": "Iron Man, فيلم الرجل الحديدي مترجم, مشاهدة فيلم الرجل الحديدي, توميتو الرجل الحديدي, الرجل الحديدي مترجم, مشاهدة الرجل الحديدي 2008, أحداث الرجل الحديدي بالتفصيل, قصة فيلم الرجل الحديدي",
-    "opinion": "هو فيلم رائع يجمع بين الحركة والخيال العلمي، يخلق عالمًا مليء بالعديد من الألغاز والمرحلة، ويحولنا إلى عالم من الخيال والواقع.",
+    "intro": "تدور أحداث فيلم آيرون مان حول قصة توني ستارك، المهندس الملياردير الذي يتعرض للاسير في كهف أفغاني.",
+    "desc_ar": "بعد الأسر في كهف أفغاني، اكتشف المهندس الملياردير توني ستارك قوة التكنولوجيا في بناء درع فائق التقدم، يستخدمه في محاربة الشر وأسره، مما يدفعَه إلى إنشاء أسلحة استكشافية قوية تساعده على تحقيق انتصار، مع تعلم اللاهوت في كيفية استغلال التكنولوجيا لصالح البشر.",
+    "desc_en": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil, using his ingenuity to develop cutting-edge technology that helps him escape and ultimately leads to a triumphant victory, with a newfound understanding of harnessing technology for the betterment of humanity.",
+    "seo_title_ar": "مشاهدة فيلم آيرون مان مترجم - فيلم حركة خيال علمي مغامرة - توميتو",
+    "meta_desc": "شاهد فيلم آيرون مان مترجم 2008 - فيلم حركة خيال علمي مغامرة، يحكي قصة توني ستارك الذي يبني درعا فائق التقدم لمحاربة الشر، واستمتع بمشاهدة هذا العمل بجودة",
+    "outro": "يعد فيلم آيرون مان من أبرز الأفلام التي تتناول موضوع التكنولوجيا والقوة، مع تأثير كبير على المشاهدين.",
+    "opinion_ar": "فيلم آيرون مان يعد من أبرز الأفلام التي تتناول موضوع التكنولوجيا والقوة، مع تأثير كبير على المشاهدين.",
+    "opinion_en": "Iron Man is a standout film that explores the themes of technology and power, with a significant impact on audiences.",
     "faq": [
       {
-        "q": "ما هو فيلم الرجل الحديدي؟",
-        "a": "فيلم الرجل الحديدي هو فيلم حركة خيال علمي يتبع قصة المهندس الملياردير توني ستارك الذي يصبح الرجل الحديدي."
+        "q": "ما هو فيلم آيرون مان؟",
+        "a": "فيلم حركة خيال علمي مغامرة يروي قصة توني ستارك، الذي يبني درعًا فائق التقدم لمحاربة الشر.",
+        "q_en": "What is Iron Man?",
+        "a_en": "A superhero action film that tells the story of Tony Stark, who creates a cutting-edge suit of armor to fight evil."
       },
       {
-        "q": "ما هو الرجل الحديدي؟",
-        "a": "الرجل الحديدي هو بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر."
-      },
-      {
-        "q": "ما هو توني ستارك؟",
-        "a": "توني ستارك هو المهندس الملياردير الرئيسي في شركة ستارك إنترناشيونال"
+        "q": "من بطولة فيلم آيرون مان؟",
+        "a": "الفيلم من بطولة روبرت داوني جونيور، جود لو، وبيفان أندرسون.",
+        "q_en": "Who stars in Iron Man?",
+        "a_en": "The film stars Robert Downey Jr., Gwyneth Paltrow, and Jeff Bridges."
       }
-    ]
+    ],
+    "keywords": "آيرون مان, فيلم, حركة, خيال علمي, مغامرة, توني ستارك, درع فائق التقدم, الشر, القوة, التكنولوجيا, مشاهدة آيرون مان, Iron Man مترجم, تحميل آيرون مان, آيرون مان اون لاين, Iron Man"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "126 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Robert Downey Jr. Terrence Howard Jeff Bridges Gwyneth Paltrow Leslie Bibb"
+  "cast": "Robert Downey Jr. Terrence Howard Jeff Bridges Gwyneth Paltrow Leslie Bibb Shaun Toub Faran Tahir Clark Gregg"
 }

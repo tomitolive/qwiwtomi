@@ -9,15 +9,15 @@
   "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
   "release_date": "2022-03-24",
   "vote_average": 7.7,
-  "vote_count": 1593,
+  "vote_count": 1669,
   "genres": [
     {
       "id": 28,
       "name": "حركة"
     },
     {
-      "id": 12,
-      "name": "مغامرة"
+      "id": 36,
+      "name": "تاريخ"
     },
     {
       "id": 18,
@@ -25,32 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الحركة وال مغامرة، يلتقي اثنان من الثوار الأسطوريين، الذين تركوا وطنهم ورحلوا بعيداً عن منازلهم قبل البدء في القتال من أجل بلدهم في فترة العشرينات بالقرن العشرين. معهم يأتي الكثير من الأحداث المدهشة والقتال الشديد، مما يجعلهما يخدمان بلدهم في هذه الفترة الحساسة.",
-    "desc_en": "In a world of action and adventure, two legendary revolutionaries meet, who left their homeland and homes to start a fight for their country in the 1920s. With them comes a lot of astonishing events and fierce battles, making them heroes of their country in this sensitive period.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم RRR - توميتو",
-    "seo_title_ar": "مشاهدة فيلم RRR مترجم اون لاين - توميتو",
-    "keywords": "فيلم RRR مترجم, مشاهدة فيلم RRR, توميتو RRR, أحداث RRR بالتفصيل, مشاهدة RRR 2022, RRR مترجم, قصة فيلم RRR",
-    "opinion": "فيلم رائع، مليء بالحركة وال مغامرة، يخدمان بلدهم في هذه الفترة الحساسة.",
+    "intro": "يحكي فيلم RRR قصة اثنين من الثوار الأسطوريين الذين رحلوا بعيدا عن وطنهما في منتصف القرن العشرين.",
+    "desc_ar": "يحكي فيلم RRR قصة اثنين من الثوار الأسطوريين الذين رحلوا بعيدا عن وطنهما في منتصف القرن العشرين، قبل أن يبدأوا في القتال من أجل بلدهم في الثلاثينات. تمثّل هذه القصة فترة من الفوضى والاضطراب، حيث كان الثوار يتنقلون من مكان لآخر، يبحثون عن فرص لتحقيق حلمهم الوطني. وكان الثوار متميزين بالشجاعة والرغبة في الحرية، مما جعلهم يغيرون تاريخ بلدهم لتواجدهم. وتمثّل هذا الفيلم تمثّلًا لروح الثورة والجهد الإنساني الذي يبذله الأفراد من أجل الحرية والعدالة.",
+    "desc_en": "RRR is a fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s. The story takes place in a time of turmoil and chaos, where the revolutionaries were constantly on the move, seeking opportunities to achieve their national dream. The film showcases the bravery and desire for freedom of these two men, who left an indelible mark on their country's history. This cinematic masterpiece tells the story of the human struggle for justice and equality.",
+    "seo_title_ar": "مشاهدة فيلم RRR مترجم - توميتو",
+    "meta_desc": "RRR, فيلم تاريخي ودرامي عن الثورة والجهد الإنساني في منتصف القرن العشرين, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. است",
+    "outro": "يعد فيلم RRR تجربة روائية ملهمة وملهمة، تسلط الضوء على القوة والرغبة في الحرية التي يمتلكها البشر.",
+    "opinion_ar": "يعد فيلم RRR تجربة روائية ملهمة وملهمة، تسلط الضوء على القوة والرغبة في الحرية التي يمتلكها البشر.",
+    "opinion_en": "RRR is a thought-provoking and inspiring cinematic experience, highlighting the power and desire for freedom that humans possess.",
     "faq": [
       {
-        "q": "ما هو فيلم RRR؟",
-        "a": "فيلم RRR هو فيلم حركة مغامرة دراما يخدمان بلدهم في هذه الفترة الحساسة."
-      },
-      {
-        "q": "ما هو نوع فيلم RRR؟",
-        "a": "فيلم RRR هو فيلم حركة مغامرة دراما"
-      },
-      {
-        "q": "ما هو أفضل شيء في فيلم RRR؟",
-        "a": "أفضل شيء في فيلم RRR هو حركته وال مغامرة وال دراما"
+        "q": "ما هو تاريخ فيلم RRR؟",
+        "a": "تم إنتاج فيلم RRR في عام 2022.",
+        "q_en": "What is the release date of RRR?",
+        "a_en": "The film was released in 2022."
       }
-    ]
+    ],
+    "keywords": "RRR, فيلم تاريخي, دراما, حركة, ثورة, جهد إنساني, الحرية, العدالة, فيلم, مشاهدة RRR, RRR مترجم, تحميل RRR, RRR اون لاين, RRR online, RRR جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "187 دقيقة",
-  "language": "te",
+  "language": "الإنجليزية",
   "country": "الهند",
-  "cast": "N.T. Rama Rao Jr. Ram Charan Olivia Morris Ray Stevenson Alison Doody"
+  "cast": "N.T. Rama Rao Jr. Ram Charan Olivia Morris Ray Stevenson Alison Doody Ajay Devgn Alia Bhatt Samuthirakani"
 }

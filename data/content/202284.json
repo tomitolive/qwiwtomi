@@ -1,17 +1,15 @@
 {
   "id": 202284,
-  "title": "Ninja Kamui",
-  "title_ar": "Ninja Kamui",
+  "title": "نينجا كاموي",
+  "title_ar": "نينجا كاموي",
   "title_en": "Ninja Kamui",
   "slug": "202284-ninja-kamui",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "ينتقم فريق من القتلة انتقامًا دمويًا من جو لوغان، النينجا السابق الذي هرب من عشيرته، وعائلته لخيانة قانونهم القديم. ينهض جو من \"موته\" الظاهري، ليعود إلى هيئته السابقة - النينجا كاموي - لينتقم لعائلته وأصدقائه ويسقط العشيرة التي صنعته",
   "poster_path": "/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg",
   "backdrop_path": "/834v3mld18rCJuIUYC2JJvthifT.jpg",
   "release_date": "2024-02-11",
-  "vote_average": 8.2,
-  "vote_count": 346,
+  "vote_average": 8.1,
+  "vote_count": 360,
   "genres": [
     {
       "id": 16,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المانга، يأتي كأموي، النينجا المخيف، ليكون قائدًا لفرقة النينجا Kamui. لكن، مع وصوله إلى القوة، يكتشف كأموي أن هناك أكثر من مجرد قوة في العالم. يبدأ رحلة كأموي لاكتشاف الحقائق والسياسات، بينما يتعامل مع الألغاز والخداعات التي تهددها فرقته.",
-    "desc_en": "In the world of manga, Kamui, the fearsome ninja, becomes the leader of the Kamui ninja group. However, as he gains power, Kamui discovers that there is more to the world than just power. He begins a journey to uncover the truth and policies, while dealing with the puzzles and deceptions that threaten his group.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Ninja Kamui!",
-    "seo_title_ar": "مشاهدة فيلم Ninja Kamui مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم حركة ومغامرة, قصة مسلسل Ninja Kamui, مشاهدة Ninja Kamui 2024, أحداث Ninja Kamui بالتفصيل, توميتو Ninja Kamui, Ninja Kamui مترجم كامل",
-    "opinion": "نinja Kamui هو فيلم مانجا رائع يملأه الإثارة والفكاهة. يلقي القصة بسرعة على القارئ، مما يجعلها صعبة التوقف. الرسوم المتحركة الرائعة والقصة المليئة بالتنشيط تجعل Ninja Kamui فيلم مانجا رائع.",
+    "intro": "يتنقل فريق من الأقوياء عبر السيناريوهات اللاعقلانية في البحث عن انتقامه، لكنهم وجدوا نفسهم في مواجهة جو لوغان، النينجا المخلوع الذي هرب من عشيرته بسبب خيانته للقانون القديم.",
+    "desc_ar": "يتنقل فريق من الأقوياء عبر السيناريوهات اللاعقلانية في البحث عن انتقامه، لكنهم وجدوا نفسهم في مواجهة جو لوغان، النينجا المخلوع الذي هرب من عشيرته بسبب خيانته للقانون القديم. يبدو أن جو قد مات، لكنه يعود إلى هيئته السابقة - نينجا كاموي - لينتقم من العشيرة التي ساءت معاملته، ويحقق العدالة لشعبه وأصدقائه. في رحلة انتقامية حامية، يجد جو نفسه في مواجهة أشد من قبل العشيرة التي تنتظر تحديه.",
+    "desc_en": "A former ninja, Joe Logan, seeks revenge against his clan for betraying him, and his family for their treachery. Rising from his seeming 'death,' Joe will re-emerge as his former self Ninja Kamui to avenge his family and friends and bring down the very clan that made him. In a bloody quest for retribution, Joe will face off against the very people who wronged him, in a battle that will test his skills and his will to survive.",
+    "seo_title_ar": "مشاهدة مسلسل نينجا كاموي مترجم - توميتو",
+    "meta_desc": "نينجا كاموي: مسلسل رسوم متحركة عن انتقام النينجا جو لوغان من عائلته وأصدقائه، يعود إلى هيئته السابقة - نينجا كاموي - لينتقم ويسقط العشيرة التي صنعته. استمت",
+    "outro": "في رحلة انتقامية حامية، يجد جو نفسه في مواجهة أشد من قبل العشيرة التي تنتظر تحديه.",
+    "opinion_ar": "مؤسس مسلسل نينجا كاموي هو سيناريوهات معقدة وتصوير متحرك رائع، معقتد بهذا العمل في وقت متأخر من الليل.",
+    "opinion_en": "The creator of Ninja Kamui is a complex and well-crafted narrative, accompanied by impressive animation, making this show a must-watch in the late hours of the night.",
     "faq": [
       {
-        "q": "ما هو Ninja Kamui؟",
-        "a": "هو فيلم مانجا رائع يملأه الإثارة والفكاهة."
+        "q": "ما هو مسلسل نينجا كاموي؟",
+        "a": "مسلسل رسوم متحركة يروي قصة انتقام النينجا جو لوغان من عائلته وأصدقائه.",
+        "q_en": "What is Ninja Kamui?",
+        "a_en": "Ninja Kamui is an animated series that tells the story of the ninja Joe Logan's revenge against his family and friends."
       },
       {
-        "q": "ما هو نوع Ninja Kamui؟",
-        "a": "هو فيلم رسوم متحركة وحركة ومغامرة."
-      },
-      {
-        "q": "ما هو أفضل ما في Ninja Kamui؟",
-        "a": "هو القصة المليئة بالتنشيط والرسوم المتحركة الرائعة."
+        "q": "لماذا يجب على الجميع مشاهدته؟",
+        "a": "لما يحتوي على سيناريوهات معقدة وتصوير متحرك رائع، مما يجعل هذا العمل يستحق المشاهدة في وقت متأخر من الليل.",
+        "q_en": "Why should everyone watch it?",
+        "a_en": "Because it contains complex storylines and impressive animation, making this show a must-watch in the late hours of the night."
       }
-    ]
+    ],
+    "keywords": "نينجا كاموي, مسلسل رسوم متحركة, انتقام النينجا, جو لوغان, العشيرة, النينجا كاموي, رسوم متحركة, حركة ومغامرة, مشاهدة نينجا كاموي, Ninja Kamui مترجم, تحميل نينجا كاموي, نينجا كاموي اون لاين, Ninja Kamui, نينجا كاموي جودة عالية, فيلم نينجا كاموي"
   },
   "fixed": true,
-  "first_air_date": "2024-02-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "7 دقيقة",
+  "duration": "24 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Mae Questel Gus Wicke Everett Clark Jack Mercer"
+  "country": "اليابان",
+  "cast": "Kenjiro Tsuda Atsushi Ono",
+  "first_air_date": "2024-02-11"
 }

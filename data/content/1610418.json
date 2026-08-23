@@ -4,12 +4,12 @@
   "title_ar": "The House on Haunted Grounds",
   "title_en": "The House on Haunted Grounds",
   "slug": "1610418-the-house-on-haunted-grounds",
-  "overview": "",
+  "overview": "استمتع بمشاهدة فيلم المنزل على أرض مسكون مترجم بجودة عالية.",
   "poster_path": "/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
   "backdrop_path": "/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
   "release_date": "2026-01-09",
-  "vote_average": 5.8,
-  "vote_count": 7,
+  "vote_average": 6.3,
+  "vote_count": 27,
   "genres": [
     {
       "id": 27,
@@ -17,26 +17,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذا الفيلم، نرى كيف عائلة كاملة تتعرض للاختناقات والشعور بالذعر عندما تهاجم من قبل الأرواح الشريرة التي تهاجم منزلهم. ما هو سر هذا المنزل المخيف؟ اكتشف أحداث الإثارة والشعور بالرعب في هذا الفيلم الرائع.",
-    "desc_en": "In this film, we see how a whole family is subjected to terror and fear when they are haunted by the malevolent spirits that haunt their home. What is the secret of this haunted house? Discover the thrilling events and sense of horror in this great film.",
-    "meta_desc": "واش غيفلت؟ اكتشف سر منزلهم المخيف في هذا الفيلم الرائع!",
-    "seo_title_ar": "مشاهدة فيلم المنزل على أرض الموت مترجم اون لاين - توميتو",
-    "keywords": "فيلم رعب مترجم, مشاهدة فيلم رعب اون لاين, The House on Haunted Grounds مترجم, مشاهدة The House on Haunted Grounds 2026, أحداث The House on Haunted Grounds بالتفصيل, توميتو The House on Haunted Grounds, قصة فيلم The House on Haunted Grounds",
-    "opinion": "هذا الفيلم يخيفك من الداخل، مع أحداث إثارة تمنحك الشعور بالرعب والخوف. أهلاً بمنزل ميت، أهلاً بالشعور بالذعر!",
+    "intro": "استمتع بمشاهدة فيلم The House on Haunted Grounds (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم المنزل على أرض مسكون مترجم بجودة عالية.",
+    "desc_en": "What begins as a routine investigation into a house slated for demolition turns into a nightmare when the team faces an evil force, leaving behind only the recovered footage.",
+    "seo_title_ar": "مشاهدة فيلم The House on Haunted Grounds مترجم - توميتو",
+    "meta_desc": "مشاهدة المنزل على أرض مسكون مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "شاهد The House on Haunted Grounds الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو سر هذا المنزل المخيف؟",
-        "a": "السر هو أن المنزل يخدمنا من قبل الأرواح الشريرة."
+        "q": "كيف يمكنني مشاهدة فيلم المنزل على أرض مسكون?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The House on Haunted Grounds?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رعب مترجم."
+        "q": "ما هو تصنيف فيلم المنزل على أرض مسكون?",
+        "a": "يندرج العمل تحت تصنيف رعب.",
+        "q_en": "What is the genre of The House on Haunted Grounds?",
+        "a_en": "It falls under the genre of رعب."
       },
       {
-        "q": "ما هو أفضل شيء في هذا الفيلم؟",
-        "a": "أفضل شيء هو الشعور بالرعب والخوف الذي يمنحه لك"
+        "q": "ما هي قصة فيلم المنزل على أرض مسكون?",
+        "a": "",
+        "q_en": "What is the story of The House on Haunted Grounds?",
+        "a_en": "What begins as a routine investigation into a house slated for demolition turns into a nightmare when the team faces an evil force, leaving behind only the recovered footage."
       }
-    ]
+    ],
+    "keywords": "المنزل على أرض مسكون مترجم, The House on Haunted Grounds مترجم, مشاهدة المنزل على أرض مسكون,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -44,5 +53,5 @@
   "duration": "69 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Logan Wallace Andrew Thomas Stuart Maxheimer Cashmere Moniqué Dylan DeVane"
+  "cast": "Logan Wallace Andrew Thomas Stuart Maxheimer Cashmere Moniqué Dylan DeVane Brent Downs Austin J. Rhodes Kellan Rudnicki"
 }
