@@ -9449,8 +9449,14 @@
       "file": "59440.json",
       "title": "Warrior",
       "fixed_at": "2026-08-23T11:47:25.302481"
+    },
+    {
+      "tmdb_id": "1568",
+      "file": "1568.json",
+      "title": "Til Death",
+      "fixed_at": "2026-08-23T12:18:24.008049"
     }
   ],
-  "last_updated": "2026-08-23T11:47:27.305237",
-  "total_fixed": 1575
+  "last_updated": "2026-08-23T12:18:26.010703",
+  "total_fixed": 1576
 }
