@@ -1,7 +1,7 @@
 {
   "id": 59440,
-  "title": "Warrior",
-  "title_ar": "Warrior",
+  "title": "محارب",
+  "title_ar": "محارب",
   "title_en": "Warrior",
   "slug": "59440-warrior",
   "overview": "يعود الابن الأصغر لملاكم سابق مدمن على الكحول إلى المنزل ، حيث تدرب على يد والده للمنافسة في بطولة فنون القتال المختلطة - وهو المسار الذي يضع المقاتل في مسار تصادمي مع أخيه الأكبر المنفصل.",
@@ -9,7 +9,7 @@
   "backdrop_path": "/zb7b40ieuRGiIc9ebIEapneaCsl.jpg",
   "release_date": "2011-09-09",
   "vote_average": 7.8,
-  "vote_count": 5011,
+  "vote_count": 5104,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يعاد الابن الأصغر لملاكم سابق مدمن على الكحول إلى المنزل ، حيث تدرب على يد والده للمنافسة في بطولة فنون القتال المختلطة - وهو المسار الذي يضع المقاتل في مسار تصادمي مع أخيه الأكبر المنفصل. في هذه الرحلة ، سوف نرى كيف يتعامل الابن مع مشاكله الشخصية والخلافات مع أهله ، بينما يتعامل والده مع مشاكله في العمل والمنافسة في بطولة. سوف نرى أيضاً كيف يتعامل المقاتل مع مشاكله في علاقته مع أخيه الأكبر المنفصل ، والذي يملك ملكية في المنافسة والمنازعات. في النهاية ، سوف نرى كيف يتعامل الابن مع مشاكله في النهاية ، عندما يتعامل مع مشاكله في النهاية ، عندما يتعامل مع مشاكله في النهاية ، عندما",
-    "desc_en": "The youngest son of a former boxer, who is addicted to alcohol, returns home to train under his father's guidance for the mixed martial arts championship - a path that puts the fighter on a collision course with his estranged older brother. In this journey, we will see how the son deals with his personal problems and conflicts with his family, while his father deals with his work problems and competition in the championship. We will also see how the fighter deals with his relationship with his estranged older brother, who owns a share in the competition and disputes. In the end, we will see how the son deals with his problems in the end, when he",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الوريث",
-    "seo_title_ar": "مشاهدة فيلم الوريث مترجم اون لاين - توميتو",
-    "keywords": "فيلم الوريث مترجم, مشاهدة فيلم الوريث, مشاهدة Warrior 2011, أحداث Warrior بالتفصيل, Warrior مترجم, قصة فيلم Warrior, توميتو Warrior",
-    "opinion": "هو فيلم رائع يلقي الضوء على مشاكل الشخصية والخلافات مع أهله ، ويبرز قوة الروح والتصميم والشجاعة في مواجهة مشاكلنا. الفيلم يلقي الضوء على مشاكلنا الشخصية والخلافات مع أهله ، ويبرز قوة الروح والتصميم والشجاعة في مواجهة مشاكلنا.",
+    "intro": "يحكي فيلم محارب قصة عن الابن الأصغر لملاكم سابق مدمن على الكحول، الذي يعود إلى المنزل بعد فترة طويلة من الفراق.",
+    "desc_ar": "يحكي فيلم محارب قصة عن الابن الأصغر لملاكم سابق مدمن على الكحول، الذي يعود إلى المنزل بعد فترة طويلة من الفراق، حيث يجد نفسه في مواجهة أخيه الأكبر المنفصل، الذي يُدرب على يد والده لمواجهة هذا الابن في بطولة فنون القتال المختلطة، مما يضع المقاتل على مسار تصادمي مع أخيه، ويتعرض لمختلف التحديات والصعوبات التي قد تحول دون نجاحه في هذا المسار.",
+    "desc_en": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament a path that puts the fighter on a collision course with his estranged, older brother.",
+    "seo_title_ar": "مشاهدة فيلم محارب مترجم - فيلم دراما وحركة 2011",
+    "meta_desc": "فيلم محارب 2011 - فيلم دراما وحركة يروي قصة الابن الأصغر لملاكم سابق مدمن على الكحول، الذي يعود إلى المنزل لمواجهة أخيه الأكبر المنفصل في بطولة فنون القتال",
+    "outro": "فيلم محارب هو تجربة رائعة في عالم فنون القتال المختلطة، حيث يتعرض المقاتل لمختلف التحديات والصعوبات في مواجهة أخيه الأكبر المنفصل.",
+    "opinion_ar": "فيلم محارب هو تجربة رائعة في عالم فنون القتال المختلطة، حيث يتعرض المقاتل لمختلف التحديات والصعوبات في مواجهة أخيه الأكبر المنفصل.",
+    "opinion_en": "Warrior is an exciting experience in the world of mixed martial arts, where the fighter faces various challenges and difficulties in confronting his estranged, older brother.",
     "faq": [
       {
-        "q": "ما هو موضوع فيلم الوريث؟",
-        "a": "يعود الابن الأصغر لملاكم سابق مدمن على الكحول إلى المنزل ، حيث تدرب على يد والده للمنافسة في بطولة فنون القتال المختلطة."
-      },
-      {
-        "q": "ما هو نوع فيلم الوريث؟",
-        "a": "هو فيلم دراما حركة"
-      },
-      {
-        "q": "ما هو هدف فيلم الوريث؟",
-        "a": "يهدف الفيلم إلى الوقوف على مشاكل الشخصية والخلافات مع أهله ، ويبرز قوة الروح والتصميم والشجاعة في مواجهة مشاكلنا"
+        "q": "ما هو فيلم محارب؟",
+        "a": "فيلم محارب هو فيلم دراما وحركة يروي قصة الابن الأصغر لملاكم سابق مدمن على الكحول، الذي يعود إلى المنزل لمواجهة أخيه الأكبر المنفصل في بطولة فنون القتال المختلطة.",
+        "q_en": "What is Warrior?",
+        "a_en": "Warrior is a drama and action film that tells the story of the youngest son of an alcoholic former boxer, who returns home to confront his estranged, older brother in a mixed martial arts tournament."
       }
-    ]
+    ],
+    "keywords": "فيلم محارب, دراما, حركة, ملاكمة, فنون قتال مختلط, بطولة, مواجهة, أخوة, مشاهدة محارب, Warrior مترجم, تحميل محارب, محارب اون لاين, Warrior, محارب جودة عالية, Warrior HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +45,5 @@
   "duration": "140 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Joel Edgerton Tom Hardy Nick Nolte Jennifer Morrison Frank Grillo"
+  "cast": "Joel Edgerton Tom Hardy Nick Nolte Jennifer Morrison Frank Grillo Kevin Dunn Maximiliano Hernández Bryan Callen"
 }

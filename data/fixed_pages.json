@@ -9443,8 +9443,14 @@
       "file": "118924.json",
       "title": "Marvel Studios Assembled",
       "fixed_at": "2026-08-23T11:14:52.137392"
+    },
+    {
+      "tmdb_id": "59440",
+      "file": "59440.json",
+      "title": "Warrior",
+      "fixed_at": "2026-08-23T11:47:25.302481"
     }
   ],
-  "last_updated": "2026-08-23T11:14:54.140053",
-  "total_fixed": 1574
+  "last_updated": "2026-08-23T11:47:27.305237",
+  "total_fixed": 1575
 }
