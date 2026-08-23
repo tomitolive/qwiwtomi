@@ -9353,8 +9353,14 @@
       "file": "313101.json",
       "title": "Musafir Cafe",
       "fixed_at": "2026-08-23T03:09:46.795733"
+    },
+    {
+      "tmdb_id": "120409",
+      "file": "120409.json",
+      "title": "Kishiryu Sentai Ryusoulger",
+      "fixed_at": "2026-08-23T03:31:44.581069"
     }
   ],
-  "last_updated": "2026-08-23T03:09:48.798422",
-  "total_fixed": 1559
+  "last_updated": "2026-08-23T03:31:46.583910",
+  "total_fixed": 1560
 }
