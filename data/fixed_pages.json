@@ -9341,8 +9341,14 @@
       "file": "1412.json",
       "title": "Arrow",
       "fixed_at": "2026-08-23T00:53:39.364542"
+    },
+    {
+      "tmdb_id": "753230",
+      "file": "753230.json",
+      "title": "Las tres muertes de Marisela Escobedo",
+      "fixed_at": "2026-08-23T02:22:04.300728"
     }
   ],
-  "last_updated": "2026-08-23T00:53:41.367246",
-  "total_fixed": 1557
+  "last_updated": "2026-08-23T02:22:06.303498",
+  "total_fixed": 1558
 }
