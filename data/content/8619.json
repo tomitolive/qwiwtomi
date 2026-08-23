@@ -4,14 +4,12 @@
   "title_ar": "Master and Commander: The Far Side of the World",
   "title_en": "Master and Commander: The Far Side of the World",
   "slug": "8619-master-and-commander-the-far-side-of-the-world",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "بعد مواجهة مفاجئة وعنيفة مع سفينة حربية فرنسية ألحقت أضرارًا جسيمة بسفينته ، يبدأ قبطان البحرية الملكية البريطانية في مطاردة محيطين للقبض على العدو أو تدميره ، على الرغم من أنه يجب عليه أن يوازن بين التزامه بالواجب والسعي الشرس لتحقيق المجد ضد سلامة طاقمه المخلص ، بما في ذلك جراح السفينة الوقور، أفضل صديق له.",
   "poster_path": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
   "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
   "release_date": "2003-11-14",
   "vote_average": 7.2,
-  "vote_count": 3523,
+  "vote_count": 3621,
   "genres": [
     {
       "id": 12,
@@ -27,18 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد مواجهة مفاجئة وعنيفة مع سفينة حربية فرنسية ألحقت أضرارًا جسيمة بسفينته ، يبدأ قبطان البحرية الملكية البريطانية في مطاردة محيطين للقبض على العدو أو تدميره ، على الرغم من أنه يجب عليه أن يوازن بين التزامه بالواجب والسعي الشرس لتحقيق المجد ضد سلامة طاقمه المخلص ، بما في ذلك جراح السفينة الوقور، أفضل صديق له.",
-    "desc_en": "After a sudden and intense encounter with a French warship, the British Royal Navy captain begins a perilous pursuit of two French ships, intent on capturing or destroying the enemy, while balancing his duty with the safety of his loyal crew, including his trusted friend and ship's surgeon.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم المغامرة والدراما والحرية «مستر أند كوماندر: ذا فار 사이د أوف ذا وورلد»!",
-    "seo_title_ar": "مشاهدة فيلم ماستر أند كوماندر: ذا فار 사이د أوف ذا وورلد مترجم اون لاين - توميتو",
-    "keywords": "فيلم مغامرة مترجم, مشاهدة فيلم دراما, فيلم حرب مترجم, Master and Commander: The Far Side of the World مترجم, قصة فيلم Master and Commander: The Far Side of the World, مشاهدة Master and Commander: The Far Side of the World 2003, أحداث Master and Commander: The Far Side of the World بالتفصيل, توميتو Master and Commander: The Far Side of the World",
-    "opinion": "فيلم ماستر أند كوماندر: ذا فار 사이د أوف ذا وورلد هو فيلم رائع يجمع بين المغامرة والدراما والحرية، مع أداء رائع من النجوم، ويحملك الفيلم إلى عالم من الإثارة وال действا.",
+    "intro": "في عالم مليء بالتحديات والمغامرات، يجد القبطان نفسه في مواجهة حربيّة غريبة ومليئة بالتحديات.",
+    "desc_ar": "يحكي فيلم السيد والقائد: الجانب البعيد من العالم قصة قبطان بريطاني يتميز بالجسارة والرؤية، يُحاصر سفينته من قبل فرنسيين متعطشين للدماء، ويجد نفسه في مواجهة حربيّة غريبة ومليئة بالتحديات. في هذا الصراع البشريّ، يجب على القبطان أن يوازن بين التزاماته بالواجب والمغامرة والثقة في طاقمه المخلص. من خلال رحلة طويلة ومضنية، يكتشف القبطان أن السيف وحده لا يكفي، بل يحتاج إلى رؤية جديدة ومستقبل يعتمد على مهارات وفرصته في إعادة بناء العالم. يأخذ المشاهد بعده إلى رحلة متسارعة عبر المحيطين، حيث يتعرض القبطان والسفينة والطاقم للعديد من التحديات. هذا الفيلم الرائع هو قصة حرب ورومانسية ومغامرة، حيث يلتقي الأبطال في رحلة صعبة ومليئة بالتحديات.",
+    "desc_en": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend. As he navigates through treacherous waters, the captain must confront his own limitations and the harsh realities of war. With a keen sense of strategy and a deep understanding of his crew, he sets out on a perilous journey to reclaim his ship and restore his honor. This gripping film is a testament to the power of human resilience and the unbreakable bonds of friendship and loyalty.",
+    "seo_title_ar": "مشاهدة فيلم السيد والقائد: الجانب البعيد من العالم مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم السيد والقائد: الجانب البعيد من العالم مترجم - فيلم مغامرة ورومانسية حربية مع كاري إيرلاند و بول بيتاني - توميتو استمتع بمشاهدة ه",
+    "outro": "يعد فيلم السيد والقائد: الجانب البعيد من العالم تجربة مشاهدة لا تنسى، حيث يكتشف المشاهد العالم من خلال عيون القبطان والطاقم.",
+    "opinion_ar": "يعد فيلم السيد والقائد: الجانب البعيد من العالم تجربة مشاهدة لا تنسى، حيث يكتشف المشاهد العالم من خلال عيون القبطان والطاقم.",
+    "opinion_en": "Master and Commander: The Far Side of the World is a cinematic experience that will leave you breathless, as you witness the world through the eyes of the captain and his crew.",
     "faq": [
       {
-        "q": "ما هو فيلم ماستر أند كوماندر: ذا فار 사이د أوف ذا وورلد؟",
-        "a": "فيلم مغامرة ودراما وحرية يتبع قائد البحرية الملكية البريطانية في مطاردة سفينتين فرنسيتين."
+        "q": "ما هو فيلم السيد والقائد: الجانب البعيد من العالم؟",
+        "a": "يحكي الفيلم قصة قبطان بريطاني يتميز بالجسارة والرؤية، يُحاصر سفينته من قبل فرنسيين متعطشين للدماء.",
+        "q_en": "What is Master and Commander: The Far Side of the World?",
+        "a_en": "The film tells the story of a British captain who is marked by bravery and vision, as he is surrounded by Frenchmen thirsty for blood."
       }
-    ]
+    ],
+    "keywords": "السيد والقائد: الجانب البعيد من العالم, كاري إيرلاند, بول بيتاني, مغامرة, دراما, حرب, فيلم, توميتو, مشاهدة السيد والقائد: الجانب البعيد من العالم, Master Commander: The Far Side World مترجم, تحميل السيد والقائد: الجانب البعيد من العالم, السيد والقائد: الجانب البعيد من العالم اون لاين, Master Commander: The Far Side World, السيد والقائد: الجانب البعيد من العالم جودة عالية, فيلم السيد والقائد: الجانب البعيد من العالم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +49,5 @@
   "duration": "138 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Russell Crowe Paul Bettany James D'Arcy Robert Pugh David Threlfall"
+  "cast": "Russell Crowe Paul Bettany James D'Arcy Robert Pugh David Threlfall Lee Ingleby Max Pirkis Max Benitz"
 }
