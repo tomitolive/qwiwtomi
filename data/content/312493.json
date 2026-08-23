@@ -1,13 +1,13 @@
 {
   "id": 312493,
-  "title": "Viral Hit",
-  "title_ar": "Viral Hit",
-  "title_en": "Viral Hit",
-  "slug": "312493-viral-hit",
-  "overview": "تتحول حياة المراهق الذي يتعرض للتنمر إلى شهرة بين ليلة وضحاها بعد انتشار فيديو له على الإنترنت. لكن عندما تنقلب شهرته الجديدة إلى تجربة مريرة، يتعين عليه تعلم كيفية الدفاع عن نفسه. \"ضرب الفيروسية\" مسلسل درامي ومغامرات مثير يسلط الضوء على رحلة بطلنا الشاب.",
+  "title": "Space Views: A Journey Around the World with Spectacular Pictures from the Space Shuttle",
+  "title_ar": "Space Views: A Journey Around the World with Spectacular Pictures from the Space Shuttle",
+  "title_en": "Space Views: A Journey Around the World with Spectacular Pictures from the Space Shuttle",
+  "slug": "312493-space-views-a-journey-around-the-world-with-spectacular-pictures-from-the-space-shuttle",
+  "overview": "يحكي هذا العمل قصة رحلة استثنائية عبر كوكبنا، من خلال عرض صور مذهلة تم التقاطها من قبل مكوك الفضاء. تتميز هذه الرحلة بأنها رحلة حول العالم في جو فريد، حيث يمكنك المشاركة في هذه التجربة السينمائية الاستثنائية. تُظهر هذه الصور البرنامج الرائع التي تم التقاطها من خلال رحلات مكوك الفضاء، مما يأخذك في رحلة غير مستغربة عبر بعض أروع الأماكن على الأرض، مع تلخيص واضح لكل مشهد رائع.",
   "poster_path": "/kllmJ1DdzuRszNNwFFu0M7V55Fg.jpg",
-  "backdrop_path": "/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
-  "release_date": "2026-06-11",
+  "backdrop_path": null,
+  "release_date": null,
   "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
@@ -21,33 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Viral Hit (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تتحول حياة المراهق الذي يتعرض للتنمر إلى شهرة بين ليلة وضحاها بعد انتشار فيديو له على الإنترنت. لكن عندما تنقلب شهرته الجديدة إلى تجربة مريرة، يتعين عليه تعلم كيفية الدفاع عن نفسه. \"ضرب الفيروسية\" مسلسل درامي ومغامرات مثير يسلط الضوء على رحلة بطلنا الشاب.",
-    "desc_en": "A bullied high schooler's life takes a turn when a video of him goes viral. \"Viral Hit\" is an action-packed drama series that follows his journey as he navigates newfound fame and learns to fight for himself.",
-    "seo_title_ar": "مشاهدة مسلسل ضرب الفيروسية - Viral Hit مترجم - توميتو",
-    "meta_desc": "ضرب الفيروسية - مسلسل درامي ومغامرات مثير حول مراهق يصبح مشهورا بين ليلة وضحاها بعد انتشار فيديو له. شاهد كيف يتغير مسار حياته في هذا المسلسل الشيق.",
-    "outro": "شاهد Viral Hit الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"ضرب الفيروسية\" يقدم قصة مشوقة ومؤثرة عن الشهرة المفاجئة وآثارها. أداء مميز من الممثلين الشباب.",
-    "opinion_en": "Viral Hit offers a captivating and thought-provoking take on sudden fame. A must-watch for fans of dramatic adventures.",
+    "intro": "يحكي هذا العمل قصة رحلة استثنائية عبر كوكبنا، من خلال عرض صور مذهلة تم التقاطها من قبل مكوك الفضاء.",
+    "desc_ar": "يحكي هذا العمل قصة رحلة استثنائية عبر كوكبنا، من خلال عرض صور مذهلة تم التقاطها من قبل مكوك الفضاء. تتميز هذه الرحلة بأنها رحلة حول العالم في جو فريد، حيث يمكنك المشاركة في هذه التجربة السينمائية الاستثنائية. تُظهر هذه الصور البرنامج الرائع التي تم التقاطها من خلال رحلات مكوك الفضاء، مما يأخذك في رحلة غير مستغربة عبر بعض أروع الأماكن على الأرض، مع تلخيص واضح لكل مشهد رائع.",
+    "desc_en": "This film takes you on a spectacular journey around the world with breathtaking pictures from the Space Shuttle. By replaying aerial footage from Space Shuttle flights, the program offers a unique and thrilling experience. You can take the express tour as a participant in this cinematic experience, where you will see the most beautiful terrain on Earth with helpful narration that clearly explains each fascinating view.",
+    "seo_title_ar": "مشاهدة فيلم مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء 2026 في جودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا الع",
+    "outro": "يعرض هذا العمل تصورًا فريدًا عن رحلات الفضاء، حيث يمكنك المشاركة في رحلة استثنائية حول العالم.",
+    "opinion_ar": "يعرض هذا العمل تصورًا فريدًا عن رحلات الفضاء، حيث يمكنك المشاركة في رحلة استثنائية حول العالم.",
+    "opinion_en": "This film offers a unique perspective on space travel, taking you on an extraordinary journey around the world.",
     "faq": [
       {
-        "q": "هل مسلسل ضرب الفيروسية مبني على قصة حقيقية؟",
-        "a": "لا، المسلسل من وحي الخيال، لكنه يستكشف مواضيع واقعية حول تأثير الشهرة المفاجئة.",
-        "q_en": "Is Viral Hit based on a true story?",
-        "a_en": "No, it's a fictional story, but it explores real-life themes of sudden fame and its consequences."
+        "q": "كم عدد الرحلات الفضائية التي تم التقاط صورها في هذا العمل؟",
+        "a": "تم التقاط صورها من خلال سلسلة من رحلات مكوك الفضاء.",
+        "q_en": "How many space shuttle flights were the pictures taken from?",
+        "a_en": "The pictures were taken from a series of Space Shuttle flights."
+      },
+      {
+        "q": "ما هي الميزة الفريدة لهذا العمل؟",
+        "a": "تتميز هذه الرحلة بأنها رحلة حول العالم في جو فريد، حيث يمكنك المشاركة في هذه التجربة السينمائية الاستثنائية.",
+        "q_en": "What's the unique feature of this film?",
+        "a_en": "This journey is unique in that it's a round-the-world tour in a unique atmosphere, where you can participate in this extraordinary cinematic experience."
       }
     ],
-    "keywords": "ضرب الفيروسية, Viral Hit, مسلسل, دراما, حركة, مغامرة, شهرة, تنمر, فيديو, رحلة, تأثير"
+    "keywords": "فيلم, مناظر الفضاء, رحلة حول العالم, صور مذهلة, مكوك الفضاء, رحلات فضائية, رحلات حول العالم, رحلات استثنائية, مشاهدة مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء, Space Views: Journey Around World Spectacular Pictures Space Shuttle مترجم, تحميل مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء, مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء اون لاين, Space Views: Journey Around World Spectacular Pictures Space Shuttle, مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء جودة عالية, فيلم مناظر الفضاء: رحلة حول العالم مع صور مذهلة من مكوك الفضاء"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Ouji Suzuka Ai Mikami Araki Sugou Meru Nukumi Noritaka Hamao Mieko Harada Takuro Osada Nana Asakawa",
-  "first_air_date": "2026-06-11",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

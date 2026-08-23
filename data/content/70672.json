@@ -1,15 +1,15 @@
 {
   "id": 70672,
-  "title": "رجال في مهمة",
-  "title_ar": "رجال في مهمة",
-  "title_en": "Men on a Mission",
-  "slug": "70672-men-on-a-mission",
-  "overview": "يلعب المشاهير الذكور دورا خياليا كطلاب في المدارس الثانوية، ويرحبون بطلاب نقل النجوم كل أسبوع وينخرطون في معارك من الفكاهة البارعة والتهريج.",
+  "title": "The Catalpa Rescue",
+  "title_ar": "The Catalpa Rescue",
+  "title_en": "The Catalpa Rescue",
+  "slug": "70672-the-catalpa-rescue",
+  "overview": "حسناً, يسلط فيلم إنقاذ كاتالبا الضوء على أحداث غامضة في تاريخ أستراليا الغربي, حيث حاول ستة من المتمردين الإيرلنديين الهروب من السجن الغليظ في فرمنتل في عام 1876, بعد أن أصبحوا من بين السجناء المهمشين في ذلك الوقت.",
   "poster_path": "/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-  "backdrop_path": "/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-  "release_date": "2015-12-05",
-  "vote_average": 7.4,
-  "vote_count": 42,
+  "backdrop_path": null,
+  "release_date": "2007-09-14",
+  "vote_average": 9.0,
+  "vote_count": 3,
   "genres": [
     {
       "id": 10764,
@@ -21,33 +21,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل رجال في مهمة (2015) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "في مسلسل \"رجال في مهمة\"، يخوض المشاهير الذكور مغامرة فريدة من نوعها حيث يجسدون أدوار طلاب المدارس الثانوية الخيالية. يستقبلون أسبوعيًا طلابًا من نجوم التحويل، ويدخلون في معارك من الفكاهة الذكية والتهريج. \"رجال في مهمة\"، مسلسل كوميدي واقعي يجمع بين النجومية والمرح.",
-    "desc_en": "Men on a Mission is a reality-comedy series where male celebrities embark on a unique journey, pretending to be high school students. They welcome star transfer students each week and engage in battles of witty humor and slapstick. This series offers a blend of celebrity and hilarious entertainment.",
-    "seo_title_ar": "مشاهدة مسلسل رجال في مهمة Men Mission مترجم - توميتو",
-    "meta_desc": "رجال في مهمة: مشاهدة مسلسل Men Mission الكوميدي الواقعي، حيث يصبح المشاهير طلابا في الثانوية، ويستقبلون طلابا جددا في مغامرات مضحكة.",
-    "outro": "شاهد رجال في مهمة الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"رجال في مهمة\" يجمع بين الكوميديا والواقعية بطريقة مبتكرة، حيث يسلط الضوء على مواهب المشاهير في أدوار مرحة ومضحكة. إنه برنامج ترفيهي ممتع يجعلك تضحك من القلب.",
-    "opinion_en": "Men on a Mission is an innovative reality-comedy series that showcases the comedic talents of male celebrities. It's an entertaining show that will leave you laughing heartily.",
+    "intro": "يحكي فيلم إنقاذ كاتالبا قصة هروب ستة من المتمردين الإيرلنديين من السجن الغليظ في فرمنتل في أستراليا الغربي في عام 1876.",
+    "desc_ar": "حسناً, يسلط فيلم إنقاذ كاتالبا الضوء على أحداث غامضة في تاريخ أستراليا الغربي, حيث حاول ستة من المتمردين الإيرلنديين الهروب من السجن الغليظ في فرمنتل في عام 1876, بعد أن أصبحوا من بين السجناء المهمشين في ذلك الوقت.",
+    "desc_en": "The Catalpa Rescue is the extraordinary story of the daring rescue of six Irish rebels from a notoriously brutal penal colony in Fremantle, West Australia in 1876.",
+    "seo_title_ar": "مشاهدة فيلم إنقاذ كاتالبا مترجم - قصة إيرلندية غامضة في أستراليا الغربي - توميتو",
+    "meta_desc": "شاهد فيلم إنقاذ كاتالبا مترجم - قصة إيرلندية غامضة في أستراليا الغربي, أستراليا, فيلم, دراما, كوميديا, 2007 استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "يعد فيلم إنقاذ كاتالبا تجربة مشاهدة مثيرة ومتفجرة, حيث يُظهر قصة إيرلندية غامضة في تاريخ أستراليا الغربي.",
+    "opinion_ar": "يعد فيلم إنقاذ كاتالبا تجربة مشاهدة مثيرة ومتفجرة, حيث يُظهر قصة إيرلندية غامضة في تاريخ أستراليا الغربي.",
+    "opinion_en": "The Catalpa Rescue is a thrilling and captivating film that tells the extraordinary story of the daring rescue of six Irish rebels.",
     "faq": [
       {
-        "q": "هل مسلسل رجال في مهمة مناسب للعائلات؟",
-        "a": "نعم، مسلسل رجال في مهمة مناسب للعائلات حيث أنه مسلسل كوميدي خفيف الظل، ولا يحتوي على محتوى غير مناسب.",
-        "q_en": "Is Men on a Mission family-friendly?",
-        "a_en": "Yes, Men on a Mission is family-friendly. It's a light-hearted comedy series with no inappropriate content."
+        "q": "ما هي قصة فيلم إنقاذ كاتالبا؟",
+        "a": "يحكي فيلم إنقاذ كاتالبا قصة هروب ستة من المتمردين الإيرلنديين من السجن الغليظ في فرمنتل في أستراليا الغربي في عام 1876.",
+        "q_en": "What is the story of The Catalpa Rescue?",
+        "a_en": "The Catalpa Rescue tells the story of the daring rescue of six Irish rebels from a notoriously brutal penal colony in Fremantle, West Australia in 1876."
       }
     ],
-    "keywords": "رجال في مهمة, Men Mission, مسلسل, واقعي, كوميدي, مشاهير, طلاب, ثانوية, ترفيه"
+    "keywords": "فيلم, إنقاذ كاتالبا, قصة إيرلندية, أستراليا الغربي, فرمنتل, دراما, كوميديا, 2007, مشاهدة إنقاذ كاتالبا, The Catalpa Rescue مترجم, تحميل إنقاذ كاتالبا, إنقاذ كاتالبا اون لاين, The Catalpa Rescue, إنقاذ كاتالبا جودة عالية, فيلم إنقاذ كاتالبا"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Kim Young-cheol Min Kyung-hoon Kang Ho-dong Lee Su-geun Kim Hee-chul Seo Jang-hoon Lee Sang-min",
-  "first_air_date": "2015-12-05",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "55 دقيقة",
+  "language": "الإنجليزية",
+  "country": "أستراليا",
+  "cast": "Phelim Drew Ronan Leahy Ian Bliss"
 }

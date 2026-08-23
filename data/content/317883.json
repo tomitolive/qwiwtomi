@@ -1,15 +1,15 @@
 {
   "id": 317883,
-  "title": "ما زلت في ١٧",
-  "title_ar": "ما زلت في ١٧",
-  "title_en": "Torn Apart",
-  "slug": "317883-torn-apart",
-  "overview": "بين الفقدان والغيبوبة ودور الأيتام، عاش آراس طفولة ممزقة. ومع بلوغه سن السابعة عشر، وما من شيء يخسره، تصله رسالة غامضة تكشف خيطا يقوده نحو رحلة مصيرية للعثور على شقيقه المفقود منذ سنوات.",
+  "title": "DMX: The Dark Prince",
+  "title_ar": "DMX: The Dark Prince",
+  "title_en": "DMX: The Dark Prince",
+  "slug": "317883-dmx-the-dark-prince",
+  "overview": "يحكي فيلم دي إم إكس: الأمير المظلم قصة حياة الراقص الشهير دي إم إكس، الذي ولد باسم إيرل سيمونز في مدينة يانكرس المضطربة على حافة مدينة نيويورك. يتبع الفيلم رحلة دي إم إكس نحو النجومة، التي كانت مليئة بالتحديات وال ات، لكنه أثبت نفسه كفنان موهوب ومتميز، ففاز بأوسمة وجاء إلى النهاية بفوز كبير على ماضي عصيب.",
   "poster_path": "/zBRbL8xmVk4AburEQObv8g5NT6z.jpg",
-  "backdrop_path": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
-  "release_date": "2026-05-31",
-  "vote_average": 6.3,
-  "vote_count": 8,
+  "backdrop_path": null,
+  "release_date": "2004-01-01",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
       "id": 18,
@@ -21,33 +21,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل ما زلت في ١٧ (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "ما زلت في ١٧: بين الفقدان والغموض، يخوض آراس رحلة شاقة للعثور على شقيقه المفقود. مسلسل \"Torn Apart\" يسلط الضوء على طفولة ممزقة، حيث يبدأ آراس، البالغ من العمر 17 عامًا، رحلة مصيرية في مدينة بودروم بحثًا عن أخيه الأصغر، وسط صراع مع عائلة أكايا القوية.",
-    "desc_en": "Torn Apart: A gripping drama series. Aras, a fearless 17-year-old, arrives in Bodrum to find his lost sibling. His journey takes an unexpected turn as he crosses paths with the powerful Akkaya family, leading to a challenging new life.",
-    "seo_title_ar": "مشاهدة مسلسل ما زلت في ١٧ Torn Apart مترجم - توميتو",
-    "meta_desc": "ما زلت في ١٧: مسلسل Torn Apart يمزج الدراما والكوميديا في رحلة شاب يبحث عن شقيقه المفقود. آراس، البالغ من العمر 17 عاما، يواجه تحديات في بودروم.",
-    "outro": "شاهد ما زلت في ١٧ الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "ما زلت في ١٧: مسلسل مشوق يغوص في أعماق طفولة ممزقة. أداء متميز لآراس في رحلته للعثور على شقيقه، مع لمسة كوميدية خفيفة.",
-    "opinion_en": "Torn Apart is a captivating series with a unique blend of drama and comedy. The story of Aras, a 17-year-old on a quest, is both heartwarming and entertaining.",
+    "intro": "يحكي فيلم دي إم إكس: الأمير المظلم قصة حياة الراقص الشهير دي إم إكس، الذي ولد باسم إيرل سيمونز في مدينة يانكرس المضطربة على حافة مدينة نيويورك.",
+    "desc_ar": "يحكي فيلم دي إم إكس: الأمير المظلم قصة حياة الراقص الشهير دي إم إكس، الذي ولد باسم إيرل سيمونز في مدينة يانكرس المضطربة على حافة مدينة نيويورك. يتبع الفيلم رحلة دي إم إكس نحو النجومة، التي كانت مليئة بالتحديات وال ات، لكنه أثبت نفسه كفنان موهوب ومتميز، ففاز بأوسمة وجاء إلى النهاية بفوز كبير على ماضي عصيب.",
+    "desc_en": "This gripping rockumentary traces the rise of rapper Dark Man X -- born Earl Simmons in the rough-and-tumble town of Yonkers, located on the outskirts of New York City. Although his journey to the top was filled with challenges and danger, DMX proved he's a committed and talented musician, winning accolades and eventually triumphing over a difficult past.",
+    "seo_title_ar": "مشاهدة فيلم دي إم إكس: الأمير المظلم مترجم - توميتو",
+    "meta_desc": "دي إم إكس: الأمير المظلم - فيلم عن حياة دي إم إكس - إيرل سيمونز - موسيقى - تراث - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "يعد فيلم دي إم إكس: الأمير المظلم تجربة إبداعية رائعة تسلط الضوء على قصة حياة دي إم إكس، مما يبرز إبداعه وموهبته.",
+    "opinion_ar": "يعد فيلم دي إم إكس: الأمير المظلم تجربة إبداعية رائعة تسلط الضوء على قصة حياة دي إم إكس، مما يبرز إبداعه وموهبته.",
+    "opinion_en": "DMX: The Dark Prince is an inspiring rockumentary that sheds light on the life story of DMX, showcasing his talent and artistry.",
     "faq": [
       {
-        "q": "ما هو نوع المسلسل ما زلت في ١٧؟",
-        "a": "مسلسل ما زلت في ١٧ هو مسلسل درامي كوميدي.",
-        "q_en": "What genre is the series Torn Apart?",
-        "a_en": "Torn Apart is a drama series with comedic elements."
+        "q": "ما هو موضوع فيلم دي إم إكس: الأمير المظلم؟",
+        "a": "يحكي الفيلم قصة حياة الراقص الشهير دي إم إكس، الذي ولد باسم إيرل سيمونز في مدينة يانكرس المضطربة على حافة مدينة نيويورك.",
+        "q_en": "What is the subject of DMX: The Dark Prince?",
+        "a_en": "The film tells the story of the life of the famous rapper DMX, born Earl Simmons in the rough-and-tumble town of Yonkers, located on the outskirts of New York City."
       }
     ],
-    "keywords": "ما زلت في ١٧, Torn Apart, مسلسل, دراما, كوميديا, آراس, بودروم, عائلة أكايا"
+    "keywords": "دي إم إكس, الأمير المظلم, فيلم, موسيقى, تراث, إيرل سيمونز, نيويورك, يانكرس, كوميديا, دراما, مشاهدة دي إم إكس: الأمير المظلم, DMX: The Dark Prince مترجم, تحميل دي إم إكس: الأمير المظلم, دي إم إكس: الأمير المظلم اون لاين, DMX: The Dark Prince"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "التركية",
-  "country": "تركيا",
-  "cast": "Nesrin Cavadzade Çağan Efe Ak Armağan Oğuz Ceren Ayruk Dilara Aksüyek Çağdaş Onur Öztürk Doğukan Ata Yaşat Melis Babadağ",
-  "first_air_date": "2026-05-31",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

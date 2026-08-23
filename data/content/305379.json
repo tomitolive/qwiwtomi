@@ -1,15 +1,15 @@
 {
   "id": 305379,
-  "title": "Badly in Love",
-  "title_ar": "Badly in Love",
-  "title_en": "Badly in Love",
-  "slug": "305379-badly-in-love",
-  "overview": "مسلسل \"سيئة في الحب\" أو \"Badly  Love\" هو أول برنامج مواعدة ياباني للمتمردين من فئة \"\". يتنافس 11 عازبًا في هذا البرنامج، حيث يتصادمون، ويبنون علاقات، ويعيشون معًا لمدة 14 يومًا في رحلة بحثهم عن الحب الحقيقي.",
+  "title": "Scarpetta e lamericana",
+  "title_ar": "Scarpetta e lamericana",
+  "title_en": "Scarpetta e lamericana",
+  "slug": "305379-scarpetta-e-lamericana",
+  "overview": "يحكي هذا الفيلم قصة الفنان سكاربيتا الذي يجد نفسه في مواجهة صعبة مع فتاة أمريكية. يطلب منها أن تُلقي صدراً في البحر، وقول له أن يأتيها ويحصل عليها كدليل على حبها. في محاولة لتحقيق ذلك، يذهب سكاربيتا إلى صياد محلي ويقدم له بعض المال مقابل إعادة الصدر. ومع ذلك، يتم إبطاء الفيلم بسبب أسباب غير معروفة حتى عام 1918.",
   "poster_path": "/znBXK71xEjvfqcNsiRG8KFGk1Ut.jpg",
-  "backdrop_path": "/vmQhEYL4VP7jjaNC5qNSETGHGJc.jpg",
-  "release_date": "2025-12-09",
-  "vote_average": 7.7,
-  "vote_count": 6,
+  "backdrop_path": null,
+  "release_date": "1918-03-22",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
       "id": 10764,
@@ -17,33 +17,41 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Badly in Love (2025) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"سيئة في الحب\" أو \"Badly  Love\" هو أول برنامج مواعدة ياباني للمتمردين من فئة \"\". يتنافس 11 عازبًا في هذا البرنامج، حيث يتصادمون، ويبنون علاقات، ويعيشون معًا لمدة 14 يومًا في رحلة بحثهم عن الحب الحقيقي.",
-    "desc_en": "The series \"Badly in Love\" is Japan's first dating show for rebellious yankiis. Eleven singles clash, form bonds, and live together for 14 days as they go on a quest to find their perfect match.",
-    "seo_title_ar": "مشاهدة مسلسل سيئة في الحب Badly Love مترجم - توميتو",
-    "meta_desc": "Badly Love: شاهد برنامج المواعدة الياباني المثير للمتمردين. 11 عازبا يتنافسون للعثور على الحب الحقيقي في 14 يوما من الدراما والرومانسية.",
-    "outro": "شاهد Badly in Love الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"سيئة في الحب\" يسلط الضوء على قصص الحب والعلاقات في بيئة غير تقليدية، مما يجعل منه تجربة مشاهدة فريدة وممتعة.",
-    "opinion_en": "Badly in Love offers a unique take on love and relationships, providing an entertaining and captivating watch.",
+    "intro": "يعتبر فيلم سكاربيتا ولاميريكانا من الأفلام الكوميدية الرائعة التي تحملها التاريخ.",
+    "desc_ar": "يحكي هذا الفيلم قصة الفنان سكاربيتا الذي يجد نفسه في مواجهة صعبة مع فتاة أمريكية. يطلب منها أن تُلقي صدراً في البحر، وقول له أن يأتيها ويحصل عليها كدليل على حبها. في محاولة لتحقيق ذلك، يذهب سكاربيتا إلى صياد محلي ويقدم له بعض المال مقابل إعادة الصدر. ومع ذلك، يتم إبطاء الفيلم بسبب أسباب غير معروفة حتى عام 1918.",
+    "desc_en": "A fragment of a short comedy set in Naples, in which the actor Vincenzo Scarpetta, son of playwright Eduardo, struggles with a Miss across the Atlantic. The woman throws a chest in the sea, asking her lover to recover it as proof of love. He turns to a fisherman, offering him money to complete the recovery for him. The film, shot in 1916, was, for reasons unknown, unpublished until 1918.",
+    "seo_title_ar": "مشاهدة فيلم سكاربيتا ولاميريكانا مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم سكاربيتا ولاميريكانا من عام 1918 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يتحكم الفنان سكاربيتا في مواجهة صعبة مع فتاة أمريكية ف",
+    "outro": "نأمل أن تمتعتم بمشاهدة فيلم سكاربيتا ولاميريكانا ومتعة تصاحبكم خلال ذلك.",
+    "opinion_ar": "يعتبر فيلم سكاربيتا ولاميريكانا من الأفلام الكوميدية الرائعة التي تحملها التاريخ.",
+    "opinion_en": "Scarpetta e lamericana is a great short comedy that showcases the talents of its lead actor.",
     "faq": [
       {
-        "q": "ما هو مسلسل سيئة في الحب؟",
-        "a": "مسلسل ياباني واقعي يجمع بين المتمردين من فئة \"\" في رحلة بحثهم عن الحب.",
-        "q_en": "What is Badly in Love?",
-        "a_en": "A Japanese reality series that brings together rebellious yankiis on a quest for love."
+        "q": "ما هو تاريخ إنتاج فيلم سكاربيتا ولاميريكانا؟",
+        "a": "تم إنتاج فيلم سكاربيتا ولاميريكانا في عام 1916، لكنه لم يُصدَر حتى عام 1918.",
+        "q_en": "When was Scarpetta e lamericana released?",
+        "a_en": "The film was shot in 1916, but was unpublished until 1918."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "يعتبر فيلم سكاربيتا ولاميريكانا فيلماً كوميدياً قصيراً.",
+        "q_en": "What type of film is Scarpetta e lamericana?",
+        "a_en": "The film is a short comedy."
+      },
+      {
+        "q": "من بطولة الفيلم؟",
+        "a": "يظهر في الفيلم الفنان سكاربيتا.",
+        "q_en": "Who stars in Scarpetta e lamericana?",
+        "a_en": "The film stars Vincenzo Scarpetta."
       }
     ],
-    "keywords": "سيئة في الحب, Badly Love, برنامج مواعدة, يانكي, متمردين, واقع, رومانسية, دراما"
+    "keywords": "فيلم, كوميديا, قصير, سكاربيتا, لاميريكانا, تاريخي, 1918, مشاهدة سكاربيتا ولاميريكانا, Scarpetta مترجم, تحميل سكاربيتا ولاميريكانا, سكاربيتا ولاميريكانا اون لاين, Scarpetta, سكاربيتا ولاميريكانا جودة عالية, فيلم سكاربيتا ولاميريكانا, Scarpetta HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "",
-  "first_air_date": "2025-12-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Vincenzo Scarpetta Giuseppe Gambardella Lea Giunchi Lorenzo Soderini"
 }

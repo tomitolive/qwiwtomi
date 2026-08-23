@@ -6,18 +6,18 @@
   "slug": "1284465-the-death-of-robin-hood",
   "overview": "بينما يصارع ماضيه المليء بالجرائم والقتل، يتعرض روبن هود لإصابة خطيرة بعد معركة ظن أنها ستكون الأخيرة في حياته. وبين يدي امرأة غامضة، تُمنح له فرصة جديدة للخلاص والتكفير عما ارتكبه في الماضي.",
   "poster_path": "/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-  "backdrop_path": "/yw8FhuMvhJSy4zotEuCyk5bZ230.jpg",
+  "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
   "release_date": "2026-06-18",
-  "vote_average": 6.6,
-  "vote_count": 30,
+  "vote_average": 6.3,
+  "vote_count": 243,
   "genres": [
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
     {
       "id": 18,
       "name": "دراما"
-    },
-    {
-      "id": 53,
-      "name": "إثارة"
     },
     {
       "id": 28,
@@ -25,23 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم موت روبن هود (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "في فيلم \"موت روبن هود\"، يصارع البطل ماضيه المليء بالجرائم والقتل، حيث يتعرض لإصابة خطيرة بعد معركة ظن أنها الأخيرة. وبينما هو في رعاية امرأة غامضة، تُمنح له فرصة للخلاص والتكفير عن أفعاله. \"موت روبن هود\" فيلم دراما وإثارة ومغامرة مشوق.",
-    "desc_en": "The Death of Robin Hood is a gripping drama that follows Robin Hood's struggle with his past life of crime and murder. After a near-fatal battle, he finds himself in the care of a mysterious woman, who offers him a chance at redemption. This thrilling film combines drama, thriller, and action elements.",
-    "seo_title_ar": "مشاهدة فيلم موت روبن هود مترجم - توميتو",
-    "meta_desc": "مشاهدة موت روبن هود مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد موت روبن هود الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"موت روبن هود\" يقدم قصة مشوقة ومثيرة، حيث يسلط الضوء على صراع البطل مع ماضيه. إنه فيلم ممتع ومليء باللحظات المؤثرة.",
-    "opinion_en": "The Death of Robin Hood is a captivating film that explores the inner turmoil of its protagonist. It's a must-watch for fans of dramatic and action-packed storytelling.",
+    "intro": "في عالم مليء بالجرائم والقتل، يتعرض روبن هود لإصابة خطيرة بعد معركة، لكنه يجد فرصة جديدة للخلاص والتكفير عن خطاياه في الماضي.",
+    "desc_ar": "يحكي فيلم موت روبن هود قصة روبن هود، الذي يتعرض لإصابة خطيرة بعد معركة أثناء صراعه مع ماضيه المليء بالجرائم والقتل. ولكن في هذه اللحظة، يجد روبن هود نفسه أمام امرأة غامضة، التي تمنح له فرصة جديدة للخلاص والتكفير عن خطاياه في الماضي. ويتعهد روبن هود بالتحقيق في هويتها وسبب رغبتها في مساعدته، ويبدأ رحلة جديدة من الاكتشاف والتحدي. وفي هذه المهمة، سيجد روبن هود نفسه مُقدمًا بين العديد من التحديات والمخاطر، لكنه سيكون مصممًا على استكمال مهمته ويحصل على الصدق والقصدة",
+    "desc_en": "The Death of Robin Hood tells the story of Robin Hood, who finds himself gravely injured after a battle amidst his past of crime and murder. However, in this moment, Robin Hood is faced with a mysterious woman, who offers him a new chance at salvation and redemption for his past mistakes. Robin Hood makes a promise to investigate her identity and the reason behind her desire to help him, and begins a new journey of discovery and challenge. In this mission, Robin Hood will find himself presented with numerous obstacles and dangers, but he is determined to complete his task and achieve truth and justice.",
+    "seo_title_ar": "مشاهدة موت روبن هود مترجم - فيلم مغامرة ودراما وحركة 2026",
+    "meta_desc": "مشاهدة موت روبن هود 2026 مترجم - فيلم مغامرة ودراما وحركة يروي قصة روبن هود الذي يتعرض لإصابة خطيرة بعد معركة. يجد روبن هود فرصة جديدة للخلاص والتكفير عن خ",
+    "outro": "وبينما يتعرض روبن هود لمجموعة من التحديات والمخاطر في رحلة استكشاف هويته وسبب رغبتها في مساعدته، يضمن الفيلم مشاهدة مثيرة وغنية بالتحديات.",
+    "opinion_ar": "يعد فيلم موت روبن هود تجربة روائية غنية ومثيرة، حيث يتعرض روبن هود لمجموعة من التحديات والمخاطر في رحلة استكشاف هويته وسبب رغبتها في مساعدته. وعلى الرغم من أن الفيلم يحتوي على بعض الملامح الجانبية، إلا أنه يضمن مشاهدة مثيرة وغنية بالتحديات.",
+    "opinion_en": "The Death of Robin Hood is a rich and thrilling narrative experience, where Robin Hood faces a series of challenges and dangers in his journey of discovery and exploration of the mysterious woman's identity and motives. Although the film contains some minor flaws, it guarantees a thrilling and engaging viewing experience.",
     "faq": [
       {
-        "q": "هل فيلم موت روبن هود مبني على قصة حقيقية؟",
-        "a": "لا، فيلم موت روبن هود هو عمل خيالي، لكنه يستلهم بعض العناصر من الأسطورة الشهيرة لروبن هود.",
-        "q_en": "Is The Death of Robin Hood based on a true story?",
-        "a_en": "No, The Death of Robin Hood is a fictional story, but it draws inspiration from the legendary character of Robin Hood."
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم مغامرة ودراما وحركة.",
+        "q_en": "What type of film is The Death of Robin Hood?",
+        "a_en": "The Death of Robin Hood is an action, drama, and adventure film."
+      },
+      {
+        "q": "متى صدر الفيلم؟",
+        "a": "2026",
+        "q_en": "When was the film released?",
+        "a_en": "The film was released in 2026."
       }
     ],
-    "keywords": "موت روبن هود, The Death Robin Hood, دراما, إثارة, حركة, مغامرة, جريمة, ماضي, تكفير, فرصة ثانية"
+    "keywords": "موت روبن هود, فيلم مغامرة, دراما, حركة, 2026, مترجم, روبن هود, امرأة غامضة, رحلة استكشاف, مشاهدة موت روبن هود, The Death Robin Hood مترجم, تحميل موت روبن هود, موت روبن هود اون لاين, The Death Robin Hood, موت روبن هود جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
