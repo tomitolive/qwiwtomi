@@ -9401,8 +9401,14 @@
       "file": "36109.json",
       "title": "Paradise Hotel",
       "fixed_at": "2026-08-23T07:57:46.667626"
+    },
+    {
+      "tmdb_id": "213791",
+      "file": "213791.json",
+      "title": "Apotheosis",
+      "fixed_at": "2026-08-23T08:21:15.219080"
     }
   ],
-  "last_updated": "2026-08-23T07:57:48.670360",
-  "total_fixed": 1567
+  "last_updated": "2026-08-23T08:21:17.221804",
+  "total_fixed": 1568
 }
