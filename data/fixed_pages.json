@@ -9509,8 +9509,14 @@
       "file": "1434.json",
       "title": "رجل العائلة",
       "fixed_at": "2026-08-23T17:17:05.303313"
+    },
+    {
+      "tmdb_id": "283151",
+      "file": "283151.json",
+      "title": "The Five Star Weekend",
+      "fixed_at": "2026-08-23T17:48:34.979656"
     }
   ],
-  "last_updated": "2026-08-23T17:17:07.306097",
-  "total_fixed": 1585
+  "last_updated": "2026-08-23T17:48:36.982306",
+  "total_fixed": 1586
 }
