@@ -9359,8 +9359,14 @@
       "file": "120409.json",
       "title": "Kishiryu Sentai Ryusoulger",
       "fixed_at": "2026-08-23T03:31:44.581069"
+    },
+    {
+      "tmdb_id": "150540",
+      "file": "150540.json",
+      "title": "قلبا وقالبا",
+      "fixed_at": "2026-08-23T04:14:47.650518"
     }
   ],
-  "last_updated": "2026-08-23T03:31:46.583910",
-  "total_fixed": 1560
+  "last_updated": "2026-08-23T04:14:49.653412",
+  "total_fixed": 1561
 }
