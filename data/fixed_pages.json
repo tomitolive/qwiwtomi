@@ -9527,8 +9527,14 @@
       "file": "1630423.json",
       "title": "My Dearest Assassin",
       "fixed_at": "2026-08-23T19:19:30.104277"
+    },
+    {
+      "tmdb_id": "72071",
+      "file": "72071.json",
+      "title": "The Chi",
+      "fixed_at": "2026-08-23T19:48:28.289948"
     }
   ],
-  "last_updated": "2026-08-23T19:19:32.106988",
-  "total_fixed": 1588
+  "last_updated": "2026-08-23T19:48:30.292663",
+  "total_fixed": 1589
 }
