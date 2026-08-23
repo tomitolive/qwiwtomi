@@ -1,17 +1,15 @@
 {
   "id": 1412,
-  "title": "Arrow",
-  "title_ar": "Arrow",
+  "title": "السهم",
+  "title_ar": "السهم",
   "title_en": "Arrow",
   "slug": "1412-arrow",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "شاب ملياردير لعوب يدعى اوليفير كوين، ينجو من حادث تحطم يخت. تقذف به الامواج الى جزيرة نائية يقضي فيها 5 سنوات كاملة بعيدا عن حياة المدينة، يعيش معتمدا على قانون واحد، القانون الاول والاساس للطبيعة قانون، وهو البقاء.  يتم انقاذه ويعود لمدينة ستارلينق. شخصا مختلفا وانسانا مختلفا، باهداف مختلفة. يتحول فيها من أوليفر كوين الى اررو .",
+  "overview": "يختفي \"أوليفر كوين\"، الملياردير الشاب المستهتر، ويُعتقد أنه لقي حتفه بعد غرق يخته في البحر. لكن بعد خمس سنوات يعود رجلًا مختلفًا تمامًا، عازمًا على تطهير مدينته من الفساد والجريمة، متخذًا هوية مقاتل مقنّع يحمل قوسًا ويعمل خارج إطار القانون.",
   "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
   "backdrop_path": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
   "release_date": "2012-10-10",
   "vote_average": 6.8,
-  "vote_count": 6322,
+  "vote_count": 6453,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أننجو من حادث تحطم يخت، يذهب شاب ملياردير لعوب يدعى اوليفير كوين إلى جزيرة نائية حيث يspent 5 سنوات كاملة بعيدا عن حياة المدينة. هناك، يعيش معتمدا على قانون واحد، القانون الاول والاساس للطبيعة، وهو البقاء. ويعود لمدينة ستارلينق، شخصا مختلفا وانسانا مختلفا، باهداف مختلفة. يتحول فيها من أوليفر كوين الى اررو.",
-    "desc_en": "After surviving a yacht crash, a young billionaire named Oliver Queen finds himself on a remote island where he spends 5 years away from city life. There, he lives by one rule, the first and most important law of nature, which is to survive. And he returns to Starling City, a different person, a different man, with different goals. He transforms into Arrow.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل جريمة دراما حركة مغامرة Arrow!",
-    "seo_title_ar": "مشاهدة فيلم Arrow مترجم اون لاين - توميتو",
-    "keywords": "فيلم Arrow مترجم, مشاهدة فيلم Arrow, مشاهدة Arrow 2012, أحداث Arrow بالتفصيل, توميتو Arrow, قصة مسلسل Arrow, Arrow مترجم كامل",
-    "opinion": "هو فيلم رائع يجمع بين الجريمة والدراما والحركة والمغامرة، يمنحك احساساً بالتحدي والانتصار.",
+    "intro": "يحكي مسلسل السهم قصة وليام سكارسجرντ، الملياردير الشاب الذي يختفي في البحر بعد غرق يخته.",
+    "desc_ar": "يحكي مسلسل السهم قصة وليام سكارسجر، الملياردير الشاب الذي يختفي في البحر بعد غرق يخته، ويظن أنه قد لقي حتفه، لكنه يعود بعد خمس سنوات مع تغيير كبير في نفسه، ويكون على استعداد لتنظيف المدينة من الفساد والجريمة، مع استخدامه لشخصية مقاتل يرتدي قناعًا ويحمل قوسًا للقتال خارج إطار القانون، ويبدأ في محاربة الجريمة والفساد في المدينة.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة مسلسل السهم مترجم - Arrow - توميتو",
+    "meta_desc": "شاهد مسلسل السهم مترجم، قصة وليام سكارسجر، يختفي في البحر ثم يعود بعد خمس سنوات، ويبدأ في محاربة الجريمة والفساد في المدينة، استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "ومع استمرار المسلسل، يتعرفنا على شخصيات جديدة وتطورات جديدة في القصة، ونتعرف على الرغبة في التغيير والقضاء على الفساد في المجتمع.",
+    "opinion_ar": "يعتبر مسلسل السهم من أهم المسلسلات التي تحدثت عن موضوع الفساد والجريمة في المجتمع، ويحمل رسالة مهمة حول ضرورة التغيير والقضاء على الفساد.",
+    "opinion_en": "This series is one of the most important ones that have talked about the issue of corruption and crime in society, and it carries an important message about the need for change and the elimination of corruption.",
     "faq": [
       {
-        "q": "ما هو قصة فيلم Arrow؟",
-        "a": "يحكي قصة فيلم Arrow عن رجل ملياردير ينجو من حادث تحطم يخت ويذهب إلى جزيرة نائية حيث يspent 5 سنوات كاملة بعيدا عن حياة المدينة."
-      },
-      {
-        "q": "ما هو نوع فيلم Arrow؟",
-        "a": "فيلم Arrow هو فيلم جريمة دراما حركة مغامرة."
-      },
-      {
-        "q": "ما هو المخرج من فيلم Arrow؟",
-        "a": "المخرج من فيلم Arrow هو [المخرج]"
+        "q": "ما هو موضوع المسلسل السهم؟",
+        "a": "يتناول مسلسل السهم موضوع الفساد والجريمة في المجتمع، ويعبر عن الرغبة في التغيير والقضاء على الفساد.",
+        "q_en": "What is the subject of the Arrow series?",
+        "a_en": "The Arrow series deals with the subject of corruption and crime in society, and expresses the desire for change and the elimination of corruption."
       }
-    ]
+    ],
+    "keywords": "السهم, مسلسل, جريمة, دراما, حركة ومغامرة, الفساد, الجريمة, التغيير, القضاء على الفساد, توميتو, مشاهدة السهم, Arrow مترجم, تحميل السهم, السهم اون لاين, Arrow"
   },
   "fixed": true,
-  "first_air_date": "2012-10-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "101 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "James Spader Andie MacDowell Peter Gallagher Laura San Giacomo Ron Vawter"
+  "cast": "Stephen Amell David Ramsey Rick Gonzalez Juliana Harkavy Katherine McNamara Ben Lewis Joseph David-Jones Katie Cassidy",
+  "first_air_date": "2012-10-10"
 }
