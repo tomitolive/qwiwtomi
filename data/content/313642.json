@@ -1,44 +1,53 @@
 {
   "id": 313642,
-  "title": "The Shadow Sovereign",
-  "title_ar": "The Shadow Sovereign",
-  "title_en": "The Shadow Sovereign",
-  "slug": "313642-the-shadow-sovereign",
-  "overview": "مسلسل \"صاحب الظل السيادي\" أو \"The Shadow Sovereign\" هو ملحمة ملهمة عن صعود عالم متواضع إلى السلطة. يسعى البطل للانتقام من والده، لكن القدر يجمعه بالأميرة المتمردة التي كان ينوي تدميرها، ليجد نفسه في تحالف غير متوقع وحب عميق.",
+  "title": "Cyril a Metodj Apotolov Slovan",
+  "title_ar": "Cyril a Metodj Apotolov Slovan",
+  "title_en": "Cyril and Methodius The Apostles of the Slavs",
+  "slug": "313642-cyril-and-methodius-the-apostles-of-the-slavs",
+  "overview": "يحكي هذا العمل قصة حياة الرسل القديسين كيرلس وميثوديوس، حيث يؤكد على تأثيرهم في تطوير الثقافة في منطقة الكورتن، ويساهموا في نشر المسيحية في أوروبا الشرقية، ويُعتبران أسلافهما في الحركة المسيحية في هذه المنطقة، ويُعدان من الشخصيات المهمة في تاريخ أوروبا.",
   "poster_path": "/5fOClIVHXMgHmYAe5BV8G6rnjII.jpg",
-  "backdrop_path": "/lnp1FbxMwAzFte0B9DBWV3btUOT.jpg",
-  "release_date": "2026-07-23",
-  "vote_average": 8.0,
-  "vote_count": 1,
-  "genres": [],
+  "backdrop_path": "/xKw9ymwgDaOkClR0Zo6VWdG1eNI.jpg",
+  "release_date": "2013-12-19",
+  "vote_average": 4.8,
+  "vote_count": 6,
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 36,
+      "name": "تاريخ"
+    },
+    {
+      "id": 99,
+      "name": "وثائقي"
+    }
+  ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Shadow Sovereign (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"صاحب الظل السيادي\" أو \"The Shadow Sovereign\" هو ملحمة ملهمة عن صعود عالم متواضع إلى السلطة. يسعى البطل للانتقام من والده، لكن القدر يجمعه بالأميرة المتمردة التي كان ينوي تدميرها، ليجد نفسه في تحالف غير متوقع وحب عميق.",
-    "desc_en": "The Shadow Sovereign is an inspiring series about a scholar's rise to power. The protagonist seeks revenge for his father, but fate brings him together with the defiant princess he once vowed to destroy, leading to an unexpected alliance and a deep love.",
-    "seo_title_ar": "مشاهدة مسلسل صاحب الظل السيادي The Shadow Sovereign مترجم - توميتو",
-    "meta_desc": "صاحب الظل السيادي: مسلسل ملحمي عن صعود عالم إلى السلطة، حيث يجد البطل نفسه في تحالف غير متوقع مع الأميرة التي كان ينوي تدميرها.",
-    "outro": "شاهد The Shadow Sovereign الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل صاحب الظل السيادي يبهرنا بقصة مليئة بالمفاجآت والتحولات، حيث يجمع بين الانتقام والحب في رحلة مشوقة.",
-    "opinion_en": "The Shadow Sovereign captivates with its twists and turns, blending revenge and love in an engaging journey.",
+    "intro": "يحكي فيلم Cyril a Metodj Apotolov Slovan قصة حياة الرسل كيرلس وميثوديوس، حيث يؤكد على تأثيرهم في تطوير الثقافة في منطقة الكورتن.",
+    "desc_ar": "يحكي هذا العمل قصة حياة الرسل القديسين كيرلس وميثوديوس، حيث يؤكد على تأثيرهم في تطوير الثقافة في منطقة الكورتن، ويساهموا في نشر المسيحية في أوروبا الشرقية، ويُعتبران أسلافهما في الحركة المسيحية في هذه المنطقة، ويُعدان من الشخصيات المهمة في تاريخ أوروبا.",
+    "desc_en": "The series follows Cyril and Methodius, two Byzantine Greek brothers born in the 9th century. They became missionaries of Christianity and influenced the cultural development of the Great Moravian territory. Their efforts led to the spread of Christianity in Eastern Europe, and they are considered the founders of the Christian movement in this region, playing a significant role in European history.",
+    "seo_title_ar": "مشاهدة فيلم Cyril Metodj Apotolov Slovan مترجم 2013 - توميتو",
+    "meta_desc": "شاهد فيلم Cyril Metodj Apotolov Slovan مترجم 2013, دراما تاريخ وثائقي عن حياة الرسل كيرلس وميثوديوس, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية ب",
+    "outro": "يُعد فيلم Cyril a Metodj Apotolov Slovan تجربة فنية رائعة، حيث يتعرف المشاهد على حياة الرسل كيرلس وميثوديوس من خلال قصة ممتعة وثقافية غنية.",
+    "opinion_ar": "يُعد فيلم Cyril Metodj Apotolov Slovan تجربة فنية رائعة، حيث يتعرف المشاهد على حياة الرسل كيرلس وميثوديوس من خلال قصة ممتعة وثقافية غنية.",
+    "opinion_en": "The film Cyril and Methodius The Apostles of the Slavs is a great artistic experience, where the audience gets to know the lives of the apostles Cyril and Methodius through an engaging and culturally rich story.",
     "faq": [
       {
-        "q": "ما هو مسلسل صاحب الظل السيادي؟",
-        "a": "مسلسل صاحب الظل السيادي هو دراما ملحمية تدور حول صعود عالم إلى السلطة وانتقامه من والده.",
-        "q_en": "What is The Shadow Sovereign?",
-        "a_en": "The Shadow Sovereign is an epic drama series about a scholar's rise to power and his quest for revenge against his father."
+        "q": "من هي الشخصيات الرئيسية في فيلم Cyril Metodj Apotolov Slovan؟",
+        "a": "الشخصيات الرئيسية في الفيلم هي الرسل كيرلس وميثوديوس، حيث يتعرف المشاهد على حياتهم وعملهم في نشر المسيحية في أوروبا الشرقية.",
+        "q_en": "Who are the main characters in Cyril and Methodius The Apostles of the Slavs?",
+        "a_en": "The main characters in the film are the apostles Cyril and Methodius, where the audience gets to know their lives and work in spreading Christianity in Eastern Europe."
       }
     ],
-    "keywords": "صاحب الظل السيادي, The Shadow Sovereign, مسلسل, دراما, ملحمة, عالم, انتقام, حب, أميرة, تحالف"
+    "keywords": "فيلم, دراما, تاريخ, وثائقي, حياة الرسل, كيرلس وميثوديوس, مسيحية, أوروبا الشرقية, ثقافة, مشاهدة Cyril Metodj Apotolov Slovan, Cyril Methodius The Apostles Slavs مترجم, تحميل Cyril Metodj Apotolov Slovan, Cyril Metodj Apotolov Slovan اون لاين, Cyril Methodius The Apostles Slavs, مشاهدة Cyril a Metodj Apotolov Slovan"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "105 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "Li Hongyi Kong Xue'er Liu Xuwei Hana Lin",
-  "first_air_date": "2026-07-23",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Czech Republic",
+  "cast": "Roman Zach Ondřej Novák Josef Abrhám Milan Bahul Petr Borovec Jiří Böhm Vladimír Javorský Jan Jankovský"
 }

@@ -4,14 +4,12 @@
   "title_ar": "Marvel Studios Legends",
   "title_en": "Marvel Studios Legends",
   "slug": "114695-marvel-studios-legends",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي أساطير استوديوهات مارفل قصة عن العوالم المتعددة في عالم مارفل سينماتك، حيث تتعامل مع الفائزين والخاسرين والمحطات المهمة في هذه العالمات. كل جزء من هذا المسلسل يرتبط ارتباطًا وثيقًا بالسلسلة القادمة، مما يضع المسرح للحدث القادم. هذا المسلسل يجمع بين العديد من الأطراف التي تشكل العالم المذهل مارفل سينماتك.",
   "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
   "backdrop_path": "/2jPv3B0ikeGjEYZKDX8vJGXJrvh.jpg",
   "release_date": "2021-01-08",
   "vote_average": 7.4,
-  "vote_count": 692,
+  "vote_count": 700,
   "genres": [
     {
       "id": 99,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في سلسلة Marvel Studios Legends، نرى كيف بدأ كل منเหลاء الأبطال الخارقين في عالم Marvel. من خلال قصصهم الشخصية، نتعرف على أصولهم وأهمية دورهم في حرب الأبطال ضد الشر. في هذه السلسلة، نرى كيف تمكن الأبطال من تحقيق أهدافهم وتعزيز قوتهم، مما يجعلهم قوة قوية في عالم Marvel.",
-    "desc_en": "In Marvel Studios Legends, we see how each of the extraordinary heroes began in the Marvel universe. Through their personal stories, we learn about their origins and the importance of their role in the battle against evil. In this series, we see how the heroes achieve their goals and enhance their strength, making them a powerful force in the Marvel universe.",
-    "meta_desc": "واش غيفلت؟ اكتشف أصول أبطال Marvel في Marvel Studios Legends - توميتو",
-    "keywords": "فيلم Marvel Studios Legends مترجم, مشاهدة Marvel Studios Legends, أحداث Marvel Studios Legends بالتفصيل, Marvel Studios Legends مترجم كامل, مشاهدة Marvel Studios Legends 2021, توميتو Marvel Studios Legends, قصة مسلسل Marvel Studios Legends",
-    "seo_title_ar": "مشاهدة Marvel Studios Legends مترجم اون لاين - توميتو",
-    "opinion": "هذه السلسلة هي أهم ما يمكن أن يحدث في عالم Marvel. تtell stories قوية عن الأبطال الخارقين، مما يجعلنا نرى كيف تمكنوا من تحقيق أهدافهم وتعزيز قوتهم.",
+    "intro": "يسعدنا أن نقدم لكم مسلسل أساطير استوديوهات مارفل، حيث يتعرفون على العالم المذهل مارفل سينماتك.",
+    "desc_ar": "يحكي أساطير استوديوهات مارفل قصة عن العوالم المتعددة في عالم مارفل سينماتك، حيث تتعامل مع الفائزين والخاسرين والمحطات المهمة في هذه العالمات. كل جزء من هذا المسلسل يرتبط ارتباطًا وثيقًا بالسلسلة القادمة، مما يضع المسرح للحدث القادم. هذا المسلسل يجمع بين العديد من الأطراف التي تشكل العالم المذهل مارفل سينماتك.",
+    "desc_en": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+    "seo_title_ar": "مشاهدة أساطير استوديوهات مارفل مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة أساطير استوديوهات مارفل مترجم - توميتو، مسلسل وثائقي خيال علمي وفانتازيا من عام 2021 عن العوالم المتعددة في عالم مارفل سينماتك. استمتع",
+    "outro": "نأمل أن تستمتعوا بمشاهدة أساطير استوديوهات مارفل على توميتو.",
+    "opinion_ar": "يعد أساطير استوديوهات مارفل تجربة رائعة لمحبي مارفل سينماتك، حيث يتعرفون على خلفية العالم وتميزاته.",
+    "opinion_en": "Marvel Studios Legends is a fantastic experience for Marvel Cinematic Universe fans, where they get to know the background and highlights of the world.",
     "faq": [
       {
-        "q": "ما هو Marvel Studios Legends؟",
-        "a": "هو سلسلة وثائقي تtell stories عن الأبطال الخارقين في عالم Marvel."
+        "q": "ما هي أساطير استوديوهات مارفل؟",
+        "a": "هو مسلسل وثائقي يروي قصة عن العوالم المتعددة في عالم مارفل سينماتك.",
+        "q_en": "What is Marvel Studios Legends?",
+        "a_en": "It's a documentary series that tells the story of the multiple worlds in the Marvel Cinematic Universe."
       },
       {
-        "q": "ما هي أهمية دور الأبطال في حرب الأبطال ضد الشر؟",
-        "a": "الأبطال هم قوة قوية في عالم Marvel، ويتمكنون من تحقيق أهدافهم وتعزيز قوتهم."
-      },
-      {
-        "q": "ما هو خيال علمي وفانتازيا في Marvel Studios Legends؟",
-        "a": "هو نوع من قصص الخيال العلمي والفانتازيا التي تtell stories عن الأبطال الخارقين في عالم Marvel"
+        "q": "ما هو نوع أساطير استوديوهات مارفل؟",
+        "a": "هو مسلسل وثائقي خيال علمي وفانتازيا.",
+        "q_en": "What type is Marvel Studios Legends?",
+        "a_en": "It's a documentary fantasy and science fiction series."
       }
-    ]
+    ],
+    "keywords": "أساطير استوديوهات مارفل, Marvel Studios Legends, مسلسل وثائقي, خيال علمي وفانتازيا, مارفل سينماتك, 2021, مشاهدة أساطير استوديوهات مارفل, Marvel Studios Legends مترجم, تحميل أساطير استوديوهات مارفل, أساطير استوديوهات مارفل اون لاين, أساطير استوديوهات مارفل جودة عالية, فيلم أساطير استوديوهات مارفل, Marvel Studios Legends HD, أساطير استوديوهات مارفل HD, Marvel Studios Legends online"
   },
   "fixed": true,
-  "first_air_date": "2021-01-08",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "85 دقيقة",
+  "duration": "8 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kellie Martin Clarence Williams III Nina Siemaszko Casey Sander Patty McCormack"
+  "cast": "",
+  "first_air_date": "2021-01-08"
 }

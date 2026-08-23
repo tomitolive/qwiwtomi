@@ -10025,8 +10025,158 @@
       "file": "33238.json",
       "title": "الرجل الجاري",
       "fixed_at": "2026-08-23T23:16:49.079727"
+    },
+    {
+      "tmdb_id": "30984",
+      "file": "30984.json",
+      "title": "المطهر",
+      "fixed_at": "2026-08-23T23:43:49.847432"
+    },
+    {
+      "tmdb_id": "135934",
+      "file": "135934.json",
+      "title": "The Legend of Vox Machina",
+      "fixed_at": "2026-08-23T23:43:59.368403"
+    },
+    {
+      "tmdb_id": "1339876",
+      "file": "1339876.json",
+      "title": "3",
+      "fixed_at": "2026-08-23T23:44:09.957555"
+    },
+    {
+      "tmdb_id": "467905",
+      "file": "467905.json",
+      "title": "كيف تصنع الثروة قاتل",
+      "fixed_at": "2026-08-23T23:44:20.411973"
+    },
+    {
+      "tmdb_id": "74997",
+      "file": "74997.json",
+      "title": "The Human Centipede 2 (Full Sequence)",
+      "fixed_at": "2026-08-23T23:44:30.581718"
+    },
+    {
+      "tmdb_id": "12477",
+      "file": "12477.json",
+      "title": "قبر اليراعات",
+      "fixed_at": "2026-08-23T23:44:38.872412"
+    },
+    {
+      "tmdb_id": "65291",
+      "file": "65291.json",
+      "title": "Stuck in the Middle",
+      "fixed_at": "2026-08-23T23:44:50.873060"
+    },
+    {
+      "tmdb_id": "114695",
+      "file": "114695.json",
+      "title": "Marvel Studios Legends",
+      "fixed_at": "2026-08-23T23:45:01.003687"
+    },
+    {
+      "tmdb_id": "40862",
+      "file": "40862.json",
+      "title": "SOKO Kln",
+      "fixed_at": "2026-08-23T23:45:10.334725"
+    },
+    {
+      "tmdb_id": "8590",
+      "file": "8590.json",
+      "title": "Plus belle la vie",
+      "fixed_at": "2026-08-23T23:45:19.884566"
+    },
+    {
+      "tmdb_id": "323839",
+      "file": "323839.json",
+      "title": "Oriental Martial Academy",
+      "fixed_at": "2026-08-23T23:45:30.132761"
+    },
+    {
+      "tmdb_id": "1035259",
+      "file": "1035259.json",
+      "title": "السلاح العاري",
+      "fixed_at": "2026-08-23T23:45:38.663596"
+    },
+    {
+      "tmdb_id": "1400940",
+      "file": "1400940.json",
+      "title": "Clayface",
+      "fixed_at": "2026-08-23T23:45:46.680903"
+    },
+    {
+      "tmdb_id": "500",
+      "file": "500.json",
+      "title": "كلاب المستودع",
+      "fixed_at": "2026-08-23T23:45:55.697531"
+    },
+    {
+      "tmdb_id": "667538",
+      "file": "667538.json",
+      "title": "المتحولون: صعود الوحوش",
+      "fixed_at": "2026-08-23T23:46:04.600609"
+    },
+    {
+      "tmdb_id": "1309083",
+      "file": "1309083.json",
+      "title": "Dolly",
+      "fixed_at": "2026-08-23T23:46:13.458728"
+    },
+    {
+      "tmdb_id": "1412598",
+      "file": "1412598.json",
+      "title": "Killer Whale",
+      "fixed_at": "2026-08-23T23:46:24.054913"
+    },
+    {
+      "tmdb_id": "346",
+      "file": "346.json",
+      "title": "الساموراي السبعة",
+      "fixed_at": "2026-08-23T23:46:33.407379"
+    },
+    {
+      "tmdb_id": "91363",
+      "file": "91363.json",
+      "title": "ماذا لو...؟",
+      "fixed_at": "2026-08-23T23:46:42.953553"
+    },
+    {
+      "tmdb_id": "280511",
+      "file": "280511.json",
+      "title": "الشاهد",
+      "fixed_at": "2026-08-23T23:46:52.756660"
+    },
+    {
+      "tmdb_id": "313642",
+      "file": "313642.json",
+      "title": "The Shadow Sovereign",
+      "fixed_at": "2026-08-23T23:47:27.042416"
+    },
+    {
+      "tmdb_id": "13859",
+      "file": "13859.json",
+      "title": "The Rifleman",
+      "fixed_at": "2026-08-23T23:47:39.930961"
+    },
+    {
+      "tmdb_id": "569094",
+      "file": "569094.json",
+      "title": "سبايدرمان: عبر عالم العنكبوت",
+      "fixed_at": "2026-08-23T23:47:48.544068"
+    },
+    {
+      "tmdb_id": "214756",
+      "file": "214756.json",
+      "title": "Ted 2",
+      "fixed_at": "2026-08-23T23:47:57.542910"
+    },
+    {
+      "tmdb_id": "508439",
+      "file": "508439.json",
+      "title": "الشقيقان رحلة خيالية",
+      "fixed_at": "2026-08-23T23:48:07.307247"
     }
   ],
-  "last_updated": "2026-08-23T23:16:51.550198",
-  "total_fixed": 1671
+  "last_updated": "2026-08-23T23:48:19.760679",
+  "total_fixed": 1696
 }

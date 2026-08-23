@@ -9,7 +9,7 @@
   "backdrop_path": "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
   "release_date": "1992-09-02",
   "vote_average": 8.1,
-  "vote_count": 15438,
+  "vote_count": 15730,
   "genres": [
     {
       "id": 80,
@@ -21,26 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخدرات والجريمة، يتعقب السيد وايت المخدوم والرائد الجديد أورانج والرئيس بلوند وابن عرس بينك ونيس جاي إيدي فيما يتفكك الناجون في أعقاب عملية سطو فاشلة تثير العنف والخوف في أحد المستودعات.",
-    "desc_en": "In a world of drugs and crime, Mr. White, the seasoned veteran, and newcomer Orange, the ruthless leader, Blond, and party animal Pink and Jay Eide, are on the run, as the survivors of a botched heist are torn apart, sparking violence and fear in one of the warehouses.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم كلاب المستودع مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم كلاب المستودع مترجم اون لاين - توميتو",
-    "keywords": "Reservoir Dogs, فيلم كلاب المستودع مترجم, مشاهدة فيلم جريمة إثارة, أحداث كلاب المستودع بالتفصيل, كلاب المستودع مترجم, مشاهدة كلاب المستودع 1992, قصة فيلم كلاب المستودع, توميتو كلاب المستودع",
-    "opinion": "فيلم كلاب المستودع هو فيلم جريمة إثارة يملأه العنف والخوف، ولكن من خلال قصة معقدة وصوراً رائعة، يصير فيلماً رائعاً يلفت الانتباه",
+    "intro": "يحكي فيلم كلاب المستودع قصة مجموعة من اللصوص الذين يتمركزون في مستودع بعد فiasco تجاري.",
+    "desc_ar": "يحكي فيلم كلاب المستودع قصة مجموعة من اللصوص الذين يتمركزون في مستودع بعد فiasco تجاري، حيث يتعرضون لضغوط كبيرة من الشرطة، ويتفككون في أعقاب ذلك، حيث يظهر العنف وينتشر في مجموعة من الشخصيات المتنوعة، بما في ذلك السيد وايت، السيد أورانج، السيد بلوند، السيد بينك، ونيس جاي إيدي، حيث يظهر الفيلم بشكل جيد في إظهار النهاية البغيضة، والغموض الذي يحيط بمجموعة اللصوص، وبالتالي يظهر بشكل واضح الخلاف بينهم.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم كلاب المستودع مترجم - Reservoir Dogs",
+    "meta_desc": "يحكي فيلم كلاب المستودع قصة لصوص يعيشون في مستودع بعد عملية سطو فاشلة، حيث يتعرضون لضغوط من الشرطة، ويظهر العنف بينهم، واستمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يُظهر فيلم كلاب المستودع بشكل جيد في إظهار النهاية البغيضة، والغموض الذي يحيط بمجموعة اللصوص.",
+    "opinion_ar": "يعد فيلم كلاب المستودع من بين الأفلام التي تُظهر بشكل جيد العنف والغموض، ويُظهر بشكل واضح الخلاف بين الشخصيات.",
+    "opinion_en": "English opinion - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
     "faq": [
       {
         "q": "ما هو فيلم كلاب المستودع؟",
-        "a": "فيلم كلاب المستودع هو فيلم جريمة إثارة أمريكي من إخراج كوينتن تارينتو"
-      },
-      {
-        "q": "ما هو نوع فيلم كلاب المستودع؟",
-        "a": "فيلم كلاب المستودع هو فيلم جريمة إثارة"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم كلاب المستودع؟",
-        "a": "أفضل ما في فيلم كلاب المستودع هو قصة معقدة وصوراً رائعة"
+        "a": "يحكي فيلم كلاب المستودع قصة مجموعة من اللصوص الذين يتمركزون في مستودع بعد فiasco تجاري.",
+        "q_en": "What is Reservoir Dogs?",
+        "a_en": "Reservoir Dogs is a film that tells the story of a group of thieves who are concentrated in a warehouse after a failed heist."
       }
-    ]
+    ],
+    "keywords": "فيلم, كلاب المستودع, Reservoir Dogs, جريمة, إثارة, مستودع, لصوص, شرطة, ضغوط, عنف, غموض, خلاف, شخصيات, مشاهدة كلاب المستودع, Reservoir Dogs مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +45,5 @@
   "duration": "99 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Harvey Keitel Tim Roth Michael Madsen Chris Penn Steve Buscemi"
+  "cast": "Harvey Keitel Tim Roth Michael Madsen Chris Penn Steve Buscemi Lawrence Tierney Randy Brooks Kirk Baltz"
 }

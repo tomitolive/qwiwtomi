@@ -4,14 +4,12 @@
   "title_ar": "ماذا لو...؟",
   "title_en": "What If...",
   "slug": "91363-what-if",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في إطار من الخيال والمغامرات، يغوص العمل في العديد من البقاع الغير متوقعة في عالم أبطال مارفل، ويضع العديد من الفرضيات والأحداث المتناقضة تمامًا عن ما حدث في كافة أفلام مارفل السابقة.",
   "poster_path": "/zaqfFDUrSfIljdD0OBxSjcutX8n.jpg",
   "backdrop_path": "/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
   "release_date": "2021-08-11",
-  "vote_average": 8.1,
-  "vote_count": 4621,
+  "vote_average": 8.0,
+  "vote_count": 4700,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في إطار من الخيال والمغامرات، يغوص العمل في العديد من البقاع الغير متوقعة في عالم أبطال مارفل، ويضع العديد من الفرضيات والأحداث المتناقضة تمامًا عن ما حدث في كافة أفلام مارفل السابقة. من خلال رحلة ممتدة في الزمن والspace، يتعرض أبطالنا لعدد من التحديات والمنازعات، مما يخلق جو من التوتر والاستكشاف، ويفتح أبواباً جديدةً للاختراق والاكتشاف.",
-    "desc_en": "In the framework of fantasy and adventure, the work delves into many unexpected territories in the Marvel universe, setting many hypotheses and events that are completely contrary to what happened in all previous Marvel films. Through a long journey through time and space, our heroes face numerous challenges and conflicts, creating a tense and exploratory atmosphere, and opening new doors for discovery and exploration.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ماذا لو...؟ رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا",
-    "seo_title_ar": "مشاهدة ماذا لو...؟ مترجم اون لاين - توميتو",
-    "keywords": "What If..., فيلم ماذا لو...؟ مترجم, مشاهدة فيلم ماذا لو...؟, أحداث ماذا لو...؟ بالتفصيل, توميتو ماذا لو...؟, قصة مسلسل ماذا لو...؟, مشاهدة ماذا لو...؟ 2021, ماذا لو...؟ مترجم كامل",
-    "opinion": "ماذا لو...؟ هو إنتاج رائع يملأ الجو بالتension والاستكشاف، ويفتح أبواباً جديدةً للاختراق والاكتشاف، ويحملنا في رحلة ممتدة في الزمن والspace، ويخلق جو من التوتر والاستكشاف.",
+    "intro": "يُعد ماذا لو...؟ مسلسلًا فريدًا ومثيرًا يُطلعنا على وجهات نظر جديدة وطرق جديدة لتفكيرنا في عالم أبطال مارفل.",
+    "desc_ar": "يحكي ماذا لو...؟ قصة خيالية وملحمية تدور في عالم أبطال مارفل، حيث يُطرح العديد من الفرضيات والمفاهيم المثيرة التي تُقلل من الصمود والشجاعة الحاسمة التي أظهرها أبطالنا المفضلون. في كل حلقة، يتم إعادة النظر في أحداث مرسومة في أفلام مارفل السابقة، ويتم إعادة توجيهها بطريقة غير متوقعة، مما يؤدي إلى تحول جذري في المسلسل. هذه المسلسلات المثيرة ومليئة بالمغامرات تضع المستمعين في وضع يُطرح فيه العديد من الأسئلة حول أقدار أبطالنا المفضلين، مما يجعل ماذا لو...؟ مسلسلًا ممتعًا وملهمًا.",
+    "desc_en": "Taking inspiration from the comic books of the same name, each episode of What If...? questions, revisits and twists classic Marvel Cinematic moments. In a thrilling and unpredictable ride, the series re-examines pivotal events from the Marvel universe, turning the tide on what we thought we knew. This engaging and thought-provoking anthology series puts viewers in a world where the fate of our beloved heroes hangs in the balance, leaving us to ponder the what-ifs of their destinies.",
+    "seo_title_ar": "مشاهدة ماذا لو...؟ مسلسل رسوم متحركة مترجم - توميتو",
+    "meta_desc": "ماذا لو...؟ مسلسل رسوم متحركة خيال علمي وفانتازيا متجدد من مارفل. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. شاهد الآن ماذا ل",
+    "outro": "من خلال إعادة النظر في أحداث مرسومة، يُظهر ماذا لو...؟ أننا قد نسينا بعض التفاصيل الهامة التي قد تغيرت مسار القصة.",
+    "opinion_ar": "يُعد ماذا لو...؟ مسلسلًا فريدًا ومثيرًا يُطلعنا على وجهات نظر جديدة وطرق جديدة لتفكيرنا في عالم أبطال مارفل. من خلال إعادة النظر في أحداث مرسومة، يُظهر ماذا لو...؟ أننا قد نسينا بعض التفاصيل الهامة التي قد تغيرت مسار القصة.",
+    "opinion_en": "What If...? is a unique and captivating series that offers fresh perspectives and new ways of thinking about the Marvel universe. By re-examining pivotal events, What If...? shows us that we may have overlooked crucial details that could have altered the course of the story.",
     "faq": [
       {
-        "q": "ما هو ماذا لو...؟",
-        "a": "هو إنتاج رسوم متحركة يملأ الجو بالتension والاستكشاف"
+        "q": "ما هي طريقة عمل مسلسل ماذا لو...؟",
+        "a": "يتم عمل ماذا لو...؟ من خلال إعادة النظر في أحداث مرسومة في أفلام مارفل السابقة، ويتم إعادة توجيهها بطريقة غير متوقعة.",
+        "q_en": "How does the series work?",
+        "a_en": "What If...? works by re-examining pivotal events from the Marvel Cinematic Universe, and re-routing them in unexpected ways."
       },
       {
-        "q": "ما هو نوع ماذا لو...؟",
-        "a": "هو نوع رسوم متحركة وحركة ومغامرة وخيال علمي وفانتازيا"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه ماذا لو...؟",
-        "a": "يحدث فيه في عالم أبطال مارفل"
+        "q": "هل يحتوي ماذا لو...؟ على مغامرات جديدة؟",
+        "a": "نعم، يحتوي ماذا لو...؟ على مغامرات جديدة ومثيرة، تُظهر وجهات نظر جديدة لتفكيرنا في عالم أبطال مارفل.",
+        "q_en": "Does What If...? contain new adventures?",
+        "a_en": "Yes, What If...? contains new and exciting adventures that offer fresh perspectives on the Marvel universe."
       }
-    ]
+    ],
+    "keywords": "ماذا لو...؟, مسلسل, رسوم متحركة, خيال علمي وفانتازيا, مارفل, مغامرات, مغامرات جديدة, مسلسلات خيالية, مسلسلات فانتازيا, مشاهدة ماذا لو...؟, What If... مترجم, تحميل ماذا لو...؟, ماذا لو...؟ اون لاين, What If..., ماذا لو...؟ جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2021-08-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jeffrey Wright",
+  "first_air_date": "2021-08-11"
 }

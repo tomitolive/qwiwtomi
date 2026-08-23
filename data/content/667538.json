@@ -9,7 +9,7 @@
   "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
   "release_date": "2023-06-06",
   "vote_average": 7.2,
-  "vote_count": 5266,
+  "vote_count": 5394,
   "genres": [
     {
       "id": 878,
@@ -25,12 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور احداث الفيلم في إطار من الحركة والخيال العلمي، تظهر مجموعة من الحيوانات الآلية، مما يطلق العنان لحربا كبرى يشارك بها كافة المتحولون.",
-    "desc_en": "تدور احداث الفيلم في إطار من الحركة والخيال العلمي، تظهر مجموعة من الحيوانات الآلية، مما يطلق العنان لحربا كبرى يشارك بها كافة المتحولون.",
-    "meta_desc": "مشاهدة المتحولون: صعود الوحوش مترجم بجودة عالية على توميتو.",
-    "keywords": "Transformers: Rise of the Beasts, مشاهدة المتحولون: صعود الوحوش 2026, توميتو المتحولون: صعود الوحوش, المتحولون: صعود الوحوش مترجم, أحداث المتحولون: صعود الوحوش بالتفصيل, قصة فيلم المتحولون: صعود الوحوش",
-    "seo_title_ar": "مشاهدة المتحولون: صعود الوحوش مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "في عالم مليء بالحيوانات الآلية، يتعرض البشر للخطر ويضطرون إلى مساعدة المتحولين في إنقاذ الأرض.",
+    "desc_ar": "يحكي المتحولون: صعود الوحوش قصة عن عالم مليء بالحيوانات الآلية التي تتحول من أصل حيواني إلى أسلحة قوية، مما يطلق العنان لحرب كبرى بين المتحولين. يتعاون أوتوبوتس بقيادة أوتيموس بريم، مع فرقة قوية تسمى ماكسيمالز، لإنقاذ الأرض من خطر جديد يهدد البشرية. في هذا العالم المتحول، يتعرض البشر مثل نوها وإليانا للخطر ويضطرون إلى مساعدة المتحولين في حربهم للإنقاذ. يعتمد مصير البشر على هذه المعركة التي يخوض فيها المتحولون من أجل إنقاذ الأرض.",
+    "desc_en": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+    "seo_title_ar": "مشاهدة فيلم المتحولون: صعود الوحوش مترجم - توميتو",
+    "meta_desc": "Transformers: Rise Beasts 2023 فيلم خيال علمي ومغامرة عن المتحولين يتحولون من أصل حيواني إلى أسلحة قوية لإنقاذ الأرض. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يحكي فيلم المتحولون: صعود الوحوش قصة عن عالم متغير يتحول من أصل حيواني إلى أسلحة قوية، مما يطلق العنان لحرب كبرى بين المتحولين.",
+    "opinion_ar": "هذا العمل هو تجربة فنية رائعة تجمع بين الحركة والخيال العلمي، مما يجعلها تجربة مشاهدة مثيرة.",
+    "opinion_en": "This film is a great fusion of action and science fiction, making it an exciting viewing experience.",
+    "faq": [
+      {
+        "q": "ما هو فيلم المتحولون: صعود الوحوش؟",
+        "a": "هو فيلم خيال علمي ومغامرة يجمع بين المتحولين والحيوانات الآلية في حرب إنقاذ الأرض.",
+        "q_en": "What is Transformers: Rise of the Beasts?",
+        "a_en": "It is a science fiction action film that brings together the Transformers and the Maximals in a battle to save the Earth."
+      }
+    ],
+    "keywords": "المتحولون, صعود الوحوش, فيلم, خيال علمي, مغامرة, حركة, توميتو, مشاهدة المتحولون: صعود الوحوش, Transformers: Rise Beasts مترجم, تحميل المتحولون: صعود الوحوش, المتحولون: صعود الوحوش اون لاين, Transformers: Rise Beasts, المتحولون: صعود الوحوش جودة عالية, فيلم المتحولون: صعود الوحوش, Transformers: Rise Beasts HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -38,5 +49,5 @@
   "duration": "127 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Anthony Ramos Dominique Fishback Peter Cullen Ron Perlman Peter Dinklage"
+  "cast": "Anthony Ramos Dominique Fishback Peter Cullen Ron Perlman Peter Dinklage Michelle Yeoh Pete Davidson Liza Koshy"
 }
