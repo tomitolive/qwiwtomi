@@ -9455,8 +9455,14 @@
       "file": "1568.json",
       "title": "Til Death",
       "fixed_at": "2026-08-23T12:18:24.008049"
+    },
+    {
+      "tmdb_id": "3452",
+      "file": "3452.json",
+      "title": "فريزر",
+      "fixed_at": "2026-08-23T13:13:41.781582"
     }
   ],
-  "last_updated": "2026-08-23T12:18:26.010703",
-  "total_fixed": 1576
+  "last_updated": "2026-08-23T13:13:43.784423",
+  "total_fixed": 1577
 }
