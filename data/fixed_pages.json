@@ -9437,8 +9437,14 @@
       "file": "299054.json",
       "title": "المرتزقة 4",
       "fixed_at": "2026-08-23T10:54:35.477635"
+    },
+    {
+      "tmdb_id": "118924",
+      "file": "118924.json",
+      "title": "Marvel Studios Assembled",
+      "fixed_at": "2026-08-23T11:14:52.137392"
     }
   ],
-  "last_updated": "2026-08-23T10:54:37.480370",
-  "total_fixed": 1573
+  "last_updated": "2026-08-23T11:14:54.140053",
+  "total_fixed": 1574
 }
