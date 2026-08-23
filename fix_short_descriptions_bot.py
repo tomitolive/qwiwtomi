@@ -23,7 +23,7 @@ CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
 PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
 PAGES_TO_FIX_FILE = os.path.join(BASE_PATH, 'data', 'pages_to_fix.json')
 PRIORITY_PAGES_FILE = os.path.join(BASE_PATH, 'data', 'priority_pages.json')
-BATCH_SIZE = 25
+BATCH_SIZE = 35
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
@@ -245,8 +245,17 @@ def process_batch(pages_to_fix, fixed_pages):
         try:
             # Try TMDB first, fall back to local data
             details = mega_bot.fetch_details(tmdb_id, media_type, bypass_adult_check=True)
-            if not details:
-                details = build_details_from_local(tmdb_id, media_type)
+            local_details = build_details_from_local(tmdb_id, media_type)
+
+            # Preserve local genres if TMDB returns empty genres to pass strict validation
+            if details and local_details:
+                for lang in ['ar', 'en']:
+                    if details.get(lang) and local_details.get(lang):
+                        if not details[lang].get('genres') and local_details[lang].get('genres'):
+                            details[lang]['genres'] = local_details[lang]['genres']
+                            log.info(f"   🔄 Supplemented missing 'genres' from local data for {tmdb_id}")
+            elif not details:
+                details = local_details
             if not details:
                 log.warning(f"   ⚠️ No TMDB data and no local data for {tmdb_id} — skipping")
                 # Mark as fixed so we don't retry forever
