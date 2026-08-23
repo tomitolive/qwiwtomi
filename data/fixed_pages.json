@@ -9413,8 +9413,14 @@
       "file": "62223.json",
       "title": "The Late Late Show with James Corden",
       "fixed_at": "2026-08-23T09:01:37.539064"
+    },
+    {
+      "tmdb_id": "28322",
+      "file": "28322.json",
+      "title": "Vacanze per un massacro",
+      "fixed_at": "2026-08-23T09:20:01.907849"
     }
   ],
-  "last_updated": "2026-08-23T09:01:39.541756",
-  "total_fixed": 1569
+  "last_updated": "2026-08-23T09:20:03.910500",
+  "total_fixed": 1570
 }
