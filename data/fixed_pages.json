@@ -9395,8 +9395,14 @@
       "file": "560016.json",
       "title": "Monkey Man",
       "fixed_at": "2026-08-23T07:13:21.921332"
+    },
+    {
+      "tmdb_id": "36109",
+      "file": "36109.json",
+      "title": "Paradise Hotel",
+      "fixed_at": "2026-08-23T07:57:46.667626"
     }
   ],
-  "last_updated": "2026-08-23T07:13:23.924150",
-  "total_fixed": 1566
+  "last_updated": "2026-08-23T07:57:48.670360",
+  "total_fixed": 1567
 }

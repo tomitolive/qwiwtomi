@@ -1,49 +1,53 @@
 {
   "id": 36109,
-  "title": "Paradise Hotel",
-  "title_ar": "Paradise Hotel",
-  "title_en": "Paradise Hotel",
-  "slug": "36109-paradise-hotel",
-  "overview": "مسلسل \"فندق بارادايس\" أو \"Paradise Hotel\" هو برنامج واقع نرويجي مثير. يصور حياة الفتيات والفتيان النرويجيين في فندق فاخر في المكسيك، حيث تديره تريانا إيغليسياس. مع إطلالات رائعة ومسبح مذهل، تروي الكاميرات قصص ما يحدث عندما يلتقي العزاب في أجواء الفندق الحارة. المهمة بسيطة: إيجاد شريك أو المغادرة.",
+  "title": "The Grind",
+  "title_ar": "The Grind",
+  "title_en": "The Grind",
+  "slug": "36109-the-grind",
+  "overview": "يحكي فيلم الطحن قصة شاب يسمى لوك، يتعين عليه وضع خطة جديدة لتحقيق الربح والخروج من ديونه الكبيرة، حيث يتعرض لمخاطر كبيرة في حالة عدم تحقيق الأهداف. يدعمه في هذه المهمة صديقاه الوحيدين، كورتني وجوش، ويبذلون مجهودًا مشتركًا لتنفيذ خطة يعتقدون أنها ستساعدهم على الفوز، ولكن الأمر يبدو محفوفًا بالمخاطر. ينتظر لوك الأقدار للخروج من هذه الأزمة.",
   "poster_path": "/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
-  "backdrop_path": "/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
-  "release_date": "2009-03-09",
-  "vote_average": 5.2,
-  "vote_count": 9,
+  "backdrop_path": null,
+  "release_date": "2009-09-22",
+  "vote_average": 3.2,
+  "vote_count": 13,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    },
+    {
+      "id": 10749,
+      "name": "رومنسية"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Paradise Hotel (2009) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"فندق بارادايس\" أو \"Paradise Hotel\" هو برنامج واقع نرويجي مثير. يصور حياة الفتيات والفتيان النرويجيين في فندق فاخر في المكسيك، حيث تديره تريانا إيغليسياس. مع إطلالات رائعة ومسبح مذهل، تروي الكاميرات قصص ما يحدث عندما يلتقي العزاب في أجواء الفندق الحارة. المهمة بسيطة: إيجاد شريك أو المغادرة.",
-    "desc_en": "In the Norwegian reality series \"Paradise Hotel\", single girls and boys check into a luxurious hotel in Mexico, managed by Triana Iglesias. With great views and a fantastic pool, the cameras capture the story of what happens when these singles meet in the hot surroundings. Their task? Find a partner or check out.",
-    "seo_title_ar": "مشاهدة مسلسل فندق بارادايس Paradise Hotel مترجم - توميتو",
-    "meta_desc": "مشاهدة فندق بارادايس مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Paradise Hotel الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"فندق بارادايس\" يسلط الضوء على حياة العزاب في أجواء فندق فاخر، ويوفر نظرة فريدة على العلاقات والصداقات التي تنشأ في مثل هذه البيئة.",
-    "opinion_en": "Paradise Hotel offers a unique insight into the lives of singles in a luxurious hotel setting, showcasing the relationships and friendships that blossom.",
+    "intro": "يُقدم الطحن تجربة مشاهدة فريدة لمرتجعي الأفلام، مع قصة مثيرة وصورًا واضحة.",
+    "desc_ar": "يحكي فيلم الطحن قصة شاب يسمى لوك، يتعين عليه وضع خطة جديدة لتحقيق الربح والخروج من ديونه الكبيرة، حيث يتعرض لمخاطر كبيرة في حالة عدم تحقيق الأهداف. يدعمه في هذه المهمة صديقاه الوحيدين، كورتني وجوش، ويبذلون مجهودًا مشتركًا لتنفيذ خطة يعتقدون أنها ستساعدهم على الفوز، ولكن الأمر يبدو محفوفًا بالمخاطر. ينتظر لوك الأقدار للخروج من هذه الأزمة.",
+    "desc_en": "Luke, a skilled grifter, is in a tight spot as he owes a significant debt to the Mexican mob. To get out of this predicament, he must come up with a final scheme that will secure his future. With the help of his two closest friends, Courtney and Josh, they devise a plan that just might put them in the clear. However, with their backs against the wall, they know they have to act fast.",
+    "seo_title_ar": "مشاهدة الطحن مترجم - فيلم حركة إثارة رومنسية 2009",
+    "meta_desc": "استمتع بمشاهدة الطحن فيلم حركة إثارة رومنسية مع ترجمة احترافية بدون إعلانات مزعجة. يصور الفيلم الحياة في غاردينا، كاليفورنيا، في منتصف التسعينيات. يظهر",
+    "outro": "يُنهي الطحن قصة لوك بفكرة جديدة، يتعين عليه الآن وضع خطة لتحقيق الربح والخروج من ديونه الكبيرة.",
+    "opinion_ar": "يُعد الطحن فيلمًا مثيرًا وملفتًا للنظر، يجمع بين العناصر الخفيفة والجريمة، مع عنصر الرومانسية. يُظهر الفيلم الحياة في غاردينا، كاليفورنيا، في منتصف التسعينيات، مما يجعله تجربة مشاهدة فريدة.",
+    "opinion_en": "The Grind is an engaging and captivating film that blends lighthearted elements with crime and romance. The film showcases life in Gardena, California in the mid-1990s, making it a unique viewing experience.",
     "faq": [
       {
-        "q": "ما هو فندق بارادايس؟",
-        "a": "فندق بارادايس هو برنامج واقع نرويجي يصور حياة العزاب في فندق فاخر في المكسيك.",
-        "q_en": "What is Paradise Hotel?",
-        "a_en": "Paradise Hotel is a Norwegian reality series that follows the lives of singles in a luxurious hotel in Mexico."
+        "q": "ما هو نوع الفيلم؟",
+        "a": "يُصنّف الطحن فيلمًا حركياً وثائراً ورومانسياً.",
+        "q_en": "What type of film is The Grind?",
+        "a_en": "The Grind is classified as an action, thriller, and romantic film."
       }
     ],
-    "keywords": "فندق بارادايس, Paradise Hotel, برنامج واقع, النرويج, المكسيك, تريانا إيغليسياس, علاقات, صداقات, فندق فاخر"
+    "keywords": "الطحن, فيلم حركة إثارة رومنسية, ترجمة احترافية, بدون إعلانات مزعجة, غاردينا, كاليفورنيا, 2009, مشاهدة الطحن, The Grind مترجم, تحميل الطحن, الطحن اون لاين, The Grind, الطحن جودة عالية, فيلم الطحن, The Grind HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "42 دقيقة",
+  "duration": "88 دقيقة",
   "language": "الإنجليزية",
-  "country": "المكسيك",
-  "cast": "Triana Iglesias",
-  "first_air_date": "2009-03-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "C. Thomas Howell Michael Welch Tanya Allen Sarah Scott Eve Mauro Lauren Walsh Danny Trejo Jennifer Kaiser"
 }
