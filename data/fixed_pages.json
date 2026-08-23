@@ -9407,8 +9407,14 @@
       "file": "213791.json",
       "title": "Apotheosis",
       "fixed_at": "2026-08-23T08:21:15.219080"
+    },
+    {
+      "tmdb_id": "62223",
+      "file": "62223.json",
+      "title": "The Late Late Show with James Corden",
+      "fixed_at": "2026-08-23T09:01:37.539064"
     }
   ],
-  "last_updated": "2026-08-23T08:21:17.221804",
-  "total_fixed": 1568
+  "last_updated": "2026-08-23T09:01:39.541756",
+  "total_fixed": 1569
 }
