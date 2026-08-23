@@ -9479,8 +9479,14 @@
       "file": "87940.json",
       "title": "Hudson Rex",
       "fixed_at": "2026-08-23T14:52:29.365815"
+    },
+    {
+      "tmdb_id": "14359",
+      "file": "14359.json",
+      "title": "Doubt",
+      "fixed_at": "2026-08-23T15:17:20.471248"
     }
   ],
-  "last_updated": "2026-08-23T14:52:31.368624",
-  "total_fixed": 1580
+  "last_updated": "2026-08-23T15:17:22.474032",
+  "total_fixed": 1581
 }
