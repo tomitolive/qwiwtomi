@@ -9389,8 +9389,14 @@
       "file": "8619.json",
       "title": "Master and Commander: The Far Side of the World",
       "fixed_at": "2026-08-23T06:27:32.306417"
+    },
+    {
+      "tmdb_id": "560016",
+      "file": "560016.json",
+      "title": "Monkey Man",
+      "fixed_at": "2026-08-23T07:13:21.921332"
     }
   ],
-  "last_updated": "2026-08-23T06:27:34.309374",
-  "total_fixed": 1565
+  "last_updated": "2026-08-23T07:13:23.924150",
+  "total_fixed": 1566
 }

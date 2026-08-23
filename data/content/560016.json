@@ -9,38 +9,51 @@
   "backdrop_path": "/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
   "release_date": "2024-04-03",
   "vote_average": 6.9,
-  "vote_count": 1400,
+  "vote_count": 1482,
   "genres": [
-    {
-      "id": 28,
-      "name": "حركة"
-    },
     {
       "id": 53,
       "name": "إثارة"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
     }
   ],
   "ai_content": {
-    "desc_ar": "ينطلق شاب مجهول في رحلة من العنف والدموية؛ في سبيل الانتقام من النظام الذي تسبب في مقتل والدته ووضع الكثير من الفقراء والضعفاء في ظروف بالغة الصعوبة. سيرى هذا الشاب نفسه في منأسه، ويحاول أن يخدع النظام ويحول دون أن يدمر ما تبقى من حياته. في هذه الرحلة، سيكون هناك من يصاحبهم ويحاول أن ينجوهم من الموت، ولكن ما هو مستقبلهم؟",
-    "desc_en": "A young man embarks on a journey of violence and bloodshed; in pursuit of revenge against the system that caused his mother's death and left many poor and weak in extremely difficult circumstances. He will see himself in a new light, and try to deceive the system and prevent what's left of his life from being destroyed. In this journey, there will be those who accompany him and try to save them from death, but what is their future?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم Monkey Man!",
-    "seo_title_ar": "مشاهدة فيلم رجل القرد مترجم اون لاين - توميتو",
-    "keywords": "فيلم رجل القرد مترجم, مشاهدة فيلم رجل القرد, توميتو Monkey Man, مشاهدة Monkey Man 2024, قصة فيلم Monkey Man, أحداث Monkey Man بالتفصيل, Monkey Man مترجم",
-    "opinion": "هو فيلم من أفلام الحركة الإثارة التي سيزلزل منك، سيرى أنفسك في عالم من العنف والدموية، ولكن ما هو مستقبلهم؟",
+    "intro": "يحكي فيلم الرجل القرد قصة عن العنف والدموية، ويتابع حياة الرجل القرد في حلبة الملاكمة السرية.",
+    "desc_ar": "يحكي فيلم الرجل القرد قصة شاب مجهول يُعرف باسم الرجل القرد، يُحلب في حلبة الملاكمة السرية حيث يُضرب ويُدمر من قبل المقاتلين الآخرين. بعد سنوات من الغضب المكتوم، يكتشف الرجل القرد طريقًا للاستيلاء على حظيرة نخب المدينة المريبة، ويبدأ حملة انتقامية قوية لتسوية الحساب مع الرجال الذين أعتلوا عليه كل شيء. يحاول الرجل القرد أن يلعب ب هذه الحلبة، لكنه يجد نفسه محاصَرًا بين الغضب والدموية.",
+    "desc_en": "Monkey Man tells the story of an anonymous young man known as Monkey Man, who is beaten and brutalized in a secret underground fight club. After years of suppressed rage, Monkey Man discovers a way to infiltrate the enclave of the city's sinister elite, and begins a powerful campaign of retribution to settle the score with the men who have wronged him. Monkey Man tries to play by the rules of this underground world, but he finds himself trapped between his anger and the bloodlust that drives him.",
+    "seo_title_ar": "مشاهدة فيلم الرجل القرد مترجم - Monkey Man 2024 - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الرجل القرد مترجم 2024 جودة عالية وترجمة احترافية بدون إعلانات مزعجة. تدور أحداث الفيلم حول شاب مجهول يعرف باسم الرجل القرد، الذي يحل",
+    "outro": "يعد فيلم الرجل القرد تجربة مثيرة ومرعبة، يُحلب فيها الرجل القرد في حلبة الملاكمة السرية، ويحاول أن يلعب ب قوانين هذه الحلبة.",
+    "opinion_ar": "يعد فيلم الرجل القرد تجربة مثيرة ومرعبة، يُحلب فيها الرجل القرد في حلبة الملاكمة السرية، ويحاول أن يلعب ب قوانين هذه الحلبة. لكنه يجد نفسه محاصَرًا بين الغضب والدموية.",
+    "opinion_en": "Monkey Man is a thrilling and intense experience, where the protagonist is beaten and brutalized in a secret underground fight club. He tries to play by the rules of this underground world, but he finds himself trapped between his anger and the bloodlust that drives him.",
     "faq": [
       {
-        "q": "ما هو فيلم رجل القرد؟",
-        "a": "هو فيلم من أفلام الحركة الإثارة الذي ينطلق في رحلة من العنف والدموية"
+        "q": "ما هو موضوع فيلم الرجل القرد؟",
+        "a": "تدور أحداث الفيلم حول شاب مجهول يُعرف باسم الرجل القرد، الذي يُحلب في حلبة الملاكمة السرية.",
+        "q_en": "What is the subject of the movie Monkey Man?",
+        "a_en": "The movie follows the story of an anonymous young man known as Monkey Man, who is beaten and brutalized in a secret underground fight club."
       },
       {
-        "q": "ما هو نوع فيلم رجل القرد؟",
-        "a": "هو فيلم حركة إثارة"
+        "q": "ما هو أسلوب فيلم الرجل القرد؟",
+        "a": "يحكي الفيلم قصة عن العنف والدموية، ويتابع حياة الرجل القرد في حلبة الملاكمة السرية.",
+        "q_en": "What is the style of the movie Monkey Man?",
+        "a_en": "The movie tells a story of violence and bloodlust, following the life of Monkey Man in a secret underground fight club."
       },
       {
-        "q": "ما هو مستقبل فيلم رجل القرد؟",
-        "a": "سيرى أنفسك في عالم من العنف والدموية، ولكن ما هو مستقبلهم؟"
+        "q": "ما هي أهداف الفيلم؟",
+        "a": "يهدف الفيلم إلى تعريف المشاهدين بالعالم السري للملاكمة، وتحريكهم للاهتمام بالحياة في هذه الحلبة.",
+        "q_en": "What are the goals of the movie Monkey Man?",
+        "a_en": "The movie aims to introduce the audience to the secret world of underground fighting, and to spark their interest in the lives of those who participate in this world."
       }
-    ]
+    ],
+    "keywords": "فيلم الرجل القرد, Monkey Man, فيلم إثارة, فيلم جريمة, فيلم حركة, مترجم, جودة عالية, بدون إعلانات مزعجة, مشاهدة الرجل القرد, Monkey Man مترجم, تحميل الرجل القرد, الرجل القرد اون لاين, الرجل القرد جودة عالية, Monkey Man HD, Monkey Man online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +61,5 @@
   "duration": "122 دقيقة",
   "language": "الإنجليزية",
   "country": "كندا",
-  "cast": "Dev Patel Sikandar Kher Makrand Deshpande Pitobash Vipin Sharma"
+  "cast": "Dev Patel Sikandar Kher Makrand Deshpande Pitobash Vipin Sharma Ashwini Kalsekar Sobhita Dhulipala Adithi Kalkunte"
 }
