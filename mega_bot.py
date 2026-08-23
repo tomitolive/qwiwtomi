@@ -82,6 +82,7 @@ for d in DIRS:
 
 TMDB_API_KEY = (os.environ.get("TMDB_API_KEY") or "882e741f7283dc9ba1654d4692ec30f6").strip()
 GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
+BING_API_KEY = (os.environ.get("BING_API_KEY") or "892ba13d6246447f873b7a52c85b5817").strip()
 BASE_URL = "https://api.themoviedb.org/3"
 # Use localized image domain
 # TMDB original: https://image.tmdb.org/t/p/w500
@@ -444,6 +445,38 @@ def fetch_trailer_key(tmdb_id, media_type):
         if v.get('site') == 'YouTube' and v.get('type') in ('Trailer', 'Teaser'):
             return v.get('key')
     return None
+
+def submit_to_bing_indexnow(url):
+    """Submit a URL to Bing IndexNow API for fast indexing."""
+    if not BING_API_KEY:
+        log.warning("BING_API_KEY not set, skipping IndexNow submission")
+        return False
+    
+    try:
+        payload = {
+            "host": "tomito.xyz",
+            "key": BING_API_KEY,
+            "urlList": [url]
+        }
+        
+        response = requests.post(
+            "https://www.bing.com/indexnow",
+            json=payload,
+            headers={"Content-Type": "application/json"},
+            timeout=10
+        )
+        
+        if response.status_code in (200, 202):
+            log.info(f"✅ Successfully submitted to Bing IndexNow: {url}")
+            return True
+        else:
+            log.warning(f"⚠️ Bing IndexNow submission failed: {response.status_code} - {response.text}")
+            return False
+            
+    except Exception as e:
+        log.error(f"❌ Error submitting to Bing IndexNow: {e}")
+        return False
+
 
 def fetch_details(tmdb_id, media_type, bypass_adult_check=False):
     ar_data = get_tmdb_data(f"{media_type}/{tmdb_id}", {'language': 'ar'})
@@ -1215,6 +1248,12 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(content_data, f, ensure_ascii=False, indent=2)
     log.info(f"✅ JSON store updated: {json_path}")
+
+    # ── Bing IndexNow Submission ─────────────────────────────────────────────
+    try:
+        submit_to_bing_indexnow(page_url)
+    except Exception as e:
+        log.warning(f"Failed to submit to Bing IndexNow: {e}")
 
     # ── Live Google Indexing (DISABLED - project not ready) ─────────────────
     # try:

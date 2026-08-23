@@ -280,6 +280,13 @@ def process_batch(pages_to_fix, fixed_pages):
                 })
                 log.info(f"   ✅ Fixed: {page_path}")
 
+                # Submit to Bing IndexNow
+                try:
+                    full_url = f"https://tomito.xyz/{page_path}"
+                    mega_bot.submit_to_bing_indexnow(full_url)
+                except Exception as e:
+                    log.warning(f"   ⚠️ Failed to submit to Bing IndexNow: {e}")
+
                 # التحقق من النتيجة
                 try:
                     json_path = os.path.join(CONTENT_DIR, json_file)
