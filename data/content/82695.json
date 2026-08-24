@@ -4,14 +4,12 @@
   "title_ar": "البؤساء",
   "title_en": "Les Misrables",
   "slug": "82695-les-misrables",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "مقتبس من مسرحية موسيقية ناجحة مستوحاة من رواية فيكتور هوجو الكلاسيكية التي تدور أحداثها في فرنسا في القرن التاسع عشر ، حيث يسعى سجين مُفرج عنه يُدعى جان فالجيان للخلاص.",
   "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
-  "backdrop_path": "/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg",
+  "backdrop_path": "/bsG8LkZx1ijrcf3fP6AvBlGTxkX.jpg",
   "release_date": "2012-12-18",
   "vote_average": 7.3,
-  "vote_count": 5572,
+  "vote_count": 5657,
   "genres": [
     {
       "id": 36,
@@ -23,12 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "مقتبس من مسرحية موسيقية ناجحة مستوحاة من رواية فيكتور هوجو الكلاسيكية التي تدور أحداثها في فرنسا في القرن التاسع عشر ، حيث يسعى سجين مُفرج عنه يُدعى جان فالجيان للخلاص.",
-    "desc_en": "مقتبس من مسرحية موسيقية ناجحة مستوحاة من رواية فيكتور هوجو الكلاسيكية التي تدور أحداثها في فرنسا في القرن التاسع عشر ، حيث يسعى سجين مُفرج عنه يُدعى جان فالجيان للخلاص.",
-    "meta_desc": "مشاهدة البؤساء مترجم بجودة عالية على توميتو.",
-    "keywords": "Les Misrables, أحداث البؤساء بالتفصيل, مشاهدة البؤساء 2026, توميتو البؤساء, قصة فيلم البؤساء, البؤساء مترجم",
-    "seo_title_ar": "مشاهدة البؤساء مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم البؤساء قصة جان فالجيان، الذي يبحث عن العدالة في فرنسا في القرن التاسع عشر.",
+    "desc_ar": "يحكي فيلم البؤساء قصة جان فالجيان، سجين فرج مِن السجن، الذي يسعى للخلاص من الحياة المُستقبلية التي تعطله الماضية. يطارده قائد الشرطة جافرت بلا رحمة، وينتهي بهم الأمر في وسط ثورة الطلاب في فرنسا. يجد فالجيان نفسه مضطهدًا من قبل السلطات، ويحاول الهروب من العذاب. في هذه الأثناء، يتعرف على الشخصية الوحشية جافرت، الذي يسعى إلى إعادة. فالجيان.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة البؤساء 2012 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم البؤساء مترجم 2012 - مسرحية موسيقية مقتبسة من رواية فيكتور هوجو. يبحث جان فالجيان عن العدالة في فرنسا في القرن التاسع عشر. استمتع بمشاهدة هذا الع",
+    "outro": "في النهاية، يجد فالجيان نفسه مضطهدًا من قبل السلطات، ويحاول الهروب من العذاب.",
+    "opinion_ar": "فيلم البؤساء هو تجربة روائية غنية بالحساسية والتفاؤل، يركز على قصة جان فالجيان في إطار اجتماعي وسياسي.",
+    "opinion_en": "Les Misrables is a cinematic adaptation that brings to life the struggles of Jean Valjean in 19th-century France, exploring themes of redemption and the human condition.",
+    "faq": [
+      {
+        "q": "ما هو فيلم البؤساء؟",
+        "a": "فيلم البؤساء هو إنتاج مسرحي موسيقي مقتبس من رواية فيكتور هوجو، يُحكي قصة جان فالجيان في فرنسا في القرن التاسع عشر.",
+        "q_en": "What is Les Misrables?",
+        "a_en": "Les Misrables is a musical adaptation of Victor Hugo's novel, telling the story of Jean Valjean in 19th-century France."
+      }
+    ],
+    "keywords": "البؤساء, Les Misrables, فيلم, مسرحية موسيقية, فرنسا, القرن التاسع عشر, جان فالجيان, جافرت, ثورة الطلاب, العدالة, الحساسية, التفاؤل, مشاهدة البؤساء, Les Misrables مترجم, تحميل البؤساء"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -36,5 +45,5 @@
   "duration": "158 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Hugh Jackman Russell Crowe Amanda Seyfried Anne Hathaway Eddie Redmayne"
+  "cast": "Hugh Jackman Russell Crowe Amanda Seyfried Anne Hathaway Eddie Redmayne Sacha Baron Cohen Helena Bonham Carter Aaron Tveit"
 }

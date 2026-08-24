@@ -1,25 +1,19 @@
 {
   "id": 108978,
-  "title": "جاك ريتشر",
-  "title_ar": "جاك ريتشر",
+  "title": "ريتشر",
+  "title_ar": "ريتشر",
   "title_en": "Reacher",
   "slug": "108978-reacher",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "حين يُعتقل \"جاك ريتشر\" ضابط الشرطة العسكرية على جريمة قتل لم يرتكبها، يجد نفسه في وسط مؤامرة مميتة مليئة برجال الشرطة غير الشرفاء ورجال الأعمال المريبين والسياسيين الماكرين. عليه أن يستخدم ذكاءه ليكتشف ما يحدث في \"مارغريف\"، \"جورجيا\".",
+  "overview": "يصل جاك ريتشر، الضابط السابق في الشرطة العسكرية، إلى بلدة مارغريف الصغيرة، لكنه يجد نفسه متورطًا في قضية قتل غامضة بعد وقت قصير من وصوله. يكتشف ريتشر أن الجريمة ليست حادثًا عابرًا، بل جزء من مؤامرة كبيرة تضم رجال أعمال ومسؤولين وشخصيات نافذة في البلدة. يتعاون مع الضابطة روسكو كونكلين والمحقق أوسكار فينلي لكشف الحقيقة، مستفيدًا من خبرته العسكرية وقدرته على التحقيق ومواجهة خصومه. ومع اتساع دائرة الخطر، يجد ريتشر نفسه في مواجهة شبكة إجرامية مستعدة لفعل أي شيء لإخفاء أسرارها.",
   "poster_path": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-  "backdrop_path": "/52Cg3g7mdekG0QsSlqz4bMBQDJI.jpg",
+  "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
   "release_date": "2022-02-03",
   "vote_average": 8.1,
-  "vote_count": 2838,
+  "vote_count": 3119,
   "genres": [
     {
       "id": 10759,
       "name": "حركة ومغامرة"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
     },
     {
       "id": 80,
@@ -27,19 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "حين يُعتقل \"جاك ريتشر\" ضابط الشرطة العسكرية على جريمة قتل لم يرتكبها، يجد نفسه في وسط مؤامرة مميتة مليئة برجال الشرطة غير الشرفاء ورجال الأعمال المريبين والسياسيين الماكرين. عليه أن يستخدم ذكاءه ليكتشف ما يحدث في \"مارغريف\"، \"جورجيا\".",
-    "desc_en": "حين يُعتقل \"جاك ريتشر\" ضابط الشرطة العسكرية على جريمة قتل لم يرتكبها، يجد نفسه في وسط مؤامرة مميتة مليئة برجال الشرطة غير الشرفاء ورجال الأعمال المريبين والسياسيين الماكرين. عليه أن يستخدم ذكاءه ليكتشف ما يحدث في \"مارغريف\"، \"جورجيا\".",
-    "meta_desc": "مشاهدة جاك ريتشر مترجم بجودة عالية على توميتو.",
-    "keywords": "Reacher, جاك ريتشر مترجم, قصة فيلم جاك ريتشر, أحداث جاك ريتشر بالتفصيل, مشاهدة جاك ريتشر 2026, توميتو جاك ريتشر",
-    "seo_title_ar": "مشاهدة جاك ريتشر مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "في مسلسل ريتشر, يتعامل جاك ريتشر مع شبكة إجرامية في بلدة مارغريف الصغيرة, حيث يجد نفسه وسط كتلة من الغموض بعد وقت قصير من وصوله.",
+    "desc_ar": "يصل جاك ريتشر، الملازم السابق في الشرطة العسكرية، إلى بلدة مارغريف الصغيرة، حيث يجد نفسه وسط كتلة من الغموض بعد وقت قصير من وصوله. يكتشف ريتشر أن الجريمة ليست حادثًا عابرًا، بل جزءًا من مؤامرة واسعة النطاق تتضمن رجال أعمال ومسؤولين من أبرز الشخصيات في البلدة. يتعاون مع الضابطة روسكو كونكلين والمحقق أوسكار فينلي لفتح ملف الحقيقة، مستفيدًا من خبرته العسكرية وقدرته على التحقيق والتصدي لخصومه. ومع ازدياد دائرة الخطر، يجد ريتشر نفسه في مواجهة شبكة إجرامية مستعدة لفعل أي شيء لمنع فضح أسرارها.",
+    "desc_en": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served. He finds himself in the small town of Margrave, Georgia, where he becomes embroiled in a complex case of murder that leads him to uncover a vast conspiracy involving powerful businessmen and government officials. With his military background and investigative skills, Reacher teams up with local detective Roscoe Conklin and investigator Oscar Finlay to unravel the truth, facing off against formidable foes in the process.",
+    "seo_title_ar": "مشاهدة مسلسل ريتشر مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل ريتشر مترجم, حيث يتعامل جاك ريتشر مع شبكة إجرامية في بلدة مارغريف الصغيرة. يكتشف ريتشر أن الجريمة ليست حادثا عابرا، بل جزءا من مؤامرة واسعة ا",
+    "outro": "استمتع بمشاهدة مسلسل ريتشر مترجم, حيث يتعامل جاك ريتشر مع شبكة إجرامية في بلدة مارغريف الصغيرة, مع تشابك plot الملائم والعملية القوية لجاك ريتشر.",
+    "opinion_ar": "يعد مسلسل ريتشر تجربة مشاهدة ممتعة وملهاة، مع تشابك الملائم والعملية القوية لجاك ريتشر.",
+    "opinion_en": "Reacher is a thrilling and engaging watch, with a well-crafted plot and a strong performance from Jack Reacher.",
+    "faq": [
+      {
+        "q": "من هو جاك ريتشر؟",
+        "a": "جاك ريتشر هو ضابط شرطة عسكري سابق يجد نفسه وسط كتلة من الغموض في بلدة مارغريف الصغيرة.",
+        "q_en": "Who is Jack Reacher?",
+        "a_en": "Jack Reacher is a former military police investigator who finds himself in a complex case of murder in the small town of Margrave, Georgia."
+      },
+      {
+        "q": "ما هو نوع مسلسل ريتشر؟",
+        "a": "مسلسل ريتشر هو مسلسل جريمة ومغامرة يتبع قصة جاك ريتشر في بلدة مارغريف الصغيرة.",
+        "q_en": "What type of series is Reacher?",
+        "a_en": "Reacher is a crime and adventure series that follows the story of Jack Reacher in the small town of Margrave, Georgia."
+      }
+    ],
+    "keywords": "ريتشر, مسلسل, جاك ريتشر, بلدة مارغريف, جريمة, مؤامرة, رجال أعمال, مسؤولين, شخصية, مشاهدة ريتشر, Reacher مترجم, تحميل ريتشر, ريتشر اون لاين, Reacher, ريتشر جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2022-02-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "كندا",
-  "cast": "Simon Henri Simon Clery Craig Williams"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Alan Ritchson Agnez Mo Sydelle Noel Anggun Christopher Rodriguez Marquette Kevin Corrigan",
+  "first_air_date": "2022-02-03"
 }

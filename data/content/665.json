@@ -9,7 +9,7 @@
   "backdrop_path": "/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
   "release_date": "1959-11-18",
   "vote_average": 7.9,
-  "vote_count": 3137,
+  "vote_count": 3230,
   "genres": [
     {
       "id": 36,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في زمن المسيح، يهوذا بن حور، يهودي فلسطيني، يحارب الإمبراطورية الرومانية في سباق عربات مشهور حقًا، حيث يلتقي أخيرًا بمنافسه ويقضي على عائلته التي تعاني. هذه قصة حب والغضب والانتقام، حيث يلتقي يهوذا مع يسوع ويغير كل شيء.",
-    "desc_en": "In the time of Jesus, Judah Ben-Hur, a Palestinian Jew, fights the Roman Empire in a famous chariot race, where he meets his nemesis and saves his family that suffers. This is a story of love, anger, and revenge, where Judah meets Jesus and changes everything.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم بن حور مترجم اون لاين!",
-    "seo_title_ar": "مشاهدة فيلم بن حور مترجم اون لاين - توميتو",
-    "keywords": "فيلم بن حور مترجم, مشاهدة فيلم بن حور, تاريخ فيلم بن حور, دراما بن حور, مغامرة بن حور, أحداث Ben-Hur بالتفصيل, توميتو Ben-Hur, قصة فيلم Ben-Hur, مشاهدة Ben-Hur 1959, Ben-Hur مترجم",
-    "opinion": "هو فيلم رائع يلقي باللوم على الإمبراطورية الرومانية، ويحكي قصة حب والغضب والانتقام مع قوة قوية",
+    "intro": "يحكي فيلم بن هور قصة عائلة يهودية في زمن المسيح، حيث يتعرض يهوذا بن حور للعبودية والضغوط الرومانية.",
+    "desc_ar": "يحكي بن هور قصة عائلة يهودية فلسطينية في زمن المسيح، حيث يتعرض يهوذا بن حور للعبودية والضغوط الرومانية، لكن لقاءه مع يسوع يغير مسار حياته وتوجيهات يسوع يمنحه الثقة والسلطة لإنقاذ عائلته.",
+    "desc_en": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+    "seo_title_ar": "مشاهدة فيلم بن هور مترجم - توميتو",
+    "meta_desc": "بن هور: فيلم تاريخي ومغامرات عن العبودية والثقة، حيث يتعرض يهوذا بن حور للضغوط الرومانية لكن لقاءه مع يسوع يغير كل شيء. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "فيلم بن هور هو تجربة غنية وعميقة في العالم القديم، حيث يتناول الصراع بين الرومان واليهود ويهتم بالثقة والصداقة.",
+    "opinion_ar": "فيلم بن هور يُعد تجربة غنية وعميقة في العالم القديم، حيث يتناول الصراع بين الرومان واليهود ويهتم بالثقة والصداقة.",
+    "opinion_en": "Ben-Hur is a rich and profound experience in ancient world cinema, exploring the conflict between Romans and Jews, and focusing on trust and friendship.",
     "faq": [
       {
-        "q": "ما هو فيلم بن حور؟",
-        "a": "هو فيلم تاريخي درامي مغامري يروي قصة يهوذا بن حور"
-      },
-      {
-        "q": "ما هو أهم الأحداث في فيلم بن حور؟",
-        "a": "أهم الأحداث هي سباق عربات مشهور حقًا والقاء مع يسوع"
-      },
-      {
-        "q": "ما هو نوع فيلم بن حور؟",
-        "a": "هو فيلم تاريخي درامي مغامري"
+        "q": "ما هو فيلم بن هور؟",
+        "a": "فيلم بن هور هو فيلم تاريخي ومغامرات يهتم بالعوالم القديمة والصراع بين الرومان واليهود.",
+        "q_en": "What is the movie Ben-Hur?",
+        "a_en": "Ben-Hur is an epic historical drama film about the ancient world and the conflict between Romans and Jews."
       }
-    ]
+    ],
+    "keywords": "بن هور, فيلم تاريخي, مغامرة, عبودية, ثقة, يسوع, روما, يهود, فلسطين, مشاهدة بن هور, Ben-Hur مترجم, تحميل بن هور, بن هور اون لاين, Ben-Hur, بن هور جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "212 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Charlton Heston Stephen Boyd Hugh Griffith Jack Hawkins Haya Harareet"
+  "cast": "Charlton Heston Stephen Boyd Hugh Griffith Jack Hawkins Haya Harareet Martha Scott Cathy O'Donnell Sam Jaffe"
 }
