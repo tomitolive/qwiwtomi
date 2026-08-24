@@ -4,14 +4,12 @@
   "title_ar": "The Tudors",
   "title_en": "The Tudors",
   "slug": "2942-the-tudors",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل The Tudors قصة الملك الشاب والحيوي هنري الثامن، الذي يتنقل بين الحقائق والشؤون الإنجليزية مع نفسية متعبة، ويقوم بتجاوز التحديات والتحالفات في القصر، بينما يتعامل مع الحب والطموح في نفس الوقت. يعتبر هنري الثامن ملكًا شابًا وحيويًا، يمتلك الطاقة والجاذبية، ويحاول أن يثبت نفسه كملك قوي، مع أن هناك العديد من التحديات التي يتعامل معها. يعاني هنري الثامن من مشاعر متقلبة بين الحب والغضب، ويستمر في تحقيق أهدافه والتحكم في السلطة.",
   "poster_path": "/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
   "backdrop_path": "/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
   "release_date": "2007-04-01",
   "vote_average": 7.8,
-  "vote_count": 824,
+  "vote_count": 848,
   "genres": [
     {
       "id": 18,
@@ -23,19 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يأخذنا مسلسل The Tudors في رحلة عبر التاريخ الإنجليزي، حيث نتعرف على حياة الملك هنري الثامن ومحاولاته المتعددة للإنجاب ووريث للعرش. المسلسل يغوص في تفاصيل البلاط الملكي والمؤامرات السياسية والرومانسية المحرمة التي شكلت تلك الحقبة.",
-    "desc_en": "The Tudors takes us on a journey through English history, where we learn about the life of King Henry VIII and his multiple attempts to produce an heir to the throne. The series delves into the details of the royal court, political conspiracies, and forbidden romances that shaped that era.",
-    "meta_desc": "مشاهدة The Tudors مترجم بجودة عالية على توميتو.",
-    "keywords": "قصة فيلم The Tudors, The Tudors مترجم, مشاهدة The Tudors 2026, أحداث The Tudors بالتفصيل, توميتو The Tudors",
-    "seo_title_ar": "مشاهدة The Tudors مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي مسلسل The Tudors قصة الملك هنري الثامن، الذي يمتلك الطاقة والجاذبية، ويحاول أن يثبت نفسه كملك قوي.",
+    "desc_ar": "يحكي مسلسل The Tudors قصة الملك الشاب والحيوي هنري الثامن، الذي يتنقل بين الحقائق والشؤون الإنجليزية مع نفسية متعبة، ويقوم بتجاوز التحديات والتحالفات في القصر، بينما يتعامل مع الحب والطموح في نفس الوقت. يعتبر هنري الثامن ملكًا شابًا وحيويًا، يمتلك الطاقة والجاذبية، ويحاول أن يثبت نفسه كملك قوي، مع أن هناك العديد من التحديات التي يتعامل معها. يعاني هنري الثامن من مشاعر متقلبة بين الحب والغضب، ويستمر في تحقيق أهدافه والتحكم في السلطة.",
+    "desc_en": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+    "seo_title_ar": "مشاهدة مسلسل The Tudors مترجم - دراما رومنسية - توميتو",
+    "meta_desc": "شاهد مسلسل The Tudors مترجم 2007 - دراما رومنسية - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل ب",
+    "outro": "يعتبر مسلسل The Tudors من بين أفضل المسلسلات الدرامية والرومانسية التي تم إنتاجها في القرن الحادي والعشرين.",
+    "opinion_ar": "يعتبر مسلسل The Tudors من بين أفضل مسلسلات الدراما والرومانسية التي تم إنتاجها في القرن الحادي والعشرين، ويعتبر هنري الثامن شخصية رائعة ومثيرة للاهتمام.",
+    "opinion_en": "The Tudors is one of the best drama and romance series produced in the 21st century, and King Henry VIII is a fascinating character.",
+    "faq": [
+      {
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي المسلسل قصة الملك هنري الثامن وتجاوزه لتحقيق أهدافه.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series follows the story of King Henry VIII and his efforts to achieve his goals."
+      }
+    ],
+    "keywords": "The Tudors, مسلسل The Tudors, دراما, رومنسية, تاريخي, هنري الثامن, قصر إنجلترا, عشق, طموح, مشاهدة The Tudors, The Tudors مترجم, تحميل The Tudors, The Tudors اون لاين, The Tudors جودة عالية, The Tudors online"
   },
   "fixed": true,
-  "first_air_date": "2007-04-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "55 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "المملكة المتحدة",
+  "cast": "Jonathan Rhys Meyers Henry Cavill Sarah Bolger Max Brown David O'Hara Lothaire Bluteau Tamzin Merchant Torrance Coombs",
+  "first_air_date": "2007-04-01"
 }

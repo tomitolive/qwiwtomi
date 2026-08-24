@@ -9,15 +9,15 @@
   "backdrop_path": "/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
   "release_date": "2009-12-23",
   "vote_average": 7.2,
-  "vote_count": 14756,
+  "vote_count": 14966,
   "genres": [
+    {
+      "id": 28,
+      "name": "حركة"
+    },
     {
       "id": 12,
       "name": "مغامرة"
-    },
-    {
-      "id": 80,
-      "name": "جريمة"
     },
     {
       "id": 9648,
@@ -25,32 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخدرات والجريمة، يعود السفاح الساحر (بلاك وود) للحياة مرة أخرى، ويقوم بسلسلة من عمليات القتل العشوائي، فيعود أيضًا المخبر الأسطوري شارلوك هولمز لمواجهته بصحبة واتسون شريكه الدائم وضابط غبي من اسكوتلانديارد، فيما يتعقب شارلوك هولمز الأحداث وال 증اث الإثارة، فيما يتعقب شارلوك هولمز الأحداث وال증اث الإثارة.",
-    "desc_en": "In a world of crime and mystery, the mastermind (Blackwood) returns to life, committing a series of random killings, and Sherlock Holmes, the legendary detective, returns to face him with his trusted partner Watson and a bumbling officer from Scotland Yard, as Sherlock Holmes tracks down the events and thrilling consequences.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع شارلوك هولمز!",
-    "seo_title_ar": "مشاهدة فيلم شارلوك هولمز مترجم اون لاين - توميتو",
-    "keywords": "Sherlock Holmes, فيلم شارلوك هولمز مترجم, مشاهدة فيلم شارلوك هولمز, شارلوك هولمز مترجم, قصة فيلم شارلوك هولمز, توميتو شارلوك هولمز, مشاهدة شارلوك هولمز 2009, أحداث شارلوك هولمز بالتفصيل",
-    "opinion": "هو فيلم رائع يجمع بين المغامرة والجريمة والغموض، مع أداء رائع من شارلوك هولمز، ويقدم تجربة مشاهدة رائعة.",
+    "intro": "في هذا العمل، يعود السفاح الساحر (بلاك وود) للحياة مرة أخرى، ويقوم بسلسلة من عمليات القتل العشوائي التي تهدد السلام في لندن.",
+    "desc_ar": "يحكي هذا العمل قصة العودة للسفاح الساحر (بلاك وود) الذي يُبسط بشكل غير متوقع، ويبدأ سلسلة من عمليات القتل العشوائي التي تهدد السلام في لندن، في هذه المرة، يعود شارلوك هولمز، المخبر الأسطوري، لمواجهة هذا العدو الجديد بصحبة واتسون شريكه الدائم وضابط غبي من اسكوتلانديارد، وبدون أي دليل، يبدأ المخبران في حل لغز هذه العمليات الإرهابية التي تهدد مستقبل إنجلترا.",
+    "desc_en": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England, a series of seemingly unrelated murders that threaten the peace of London, and without any evidence, the two detectives begin to unravel the mystery of these terrorist operations that threaten the future of England.",
+    "seo_title_ar": "مشاهدة فيلم شارلوك هولمز مترجم - فيلم حركة وغموض عن عودة السفاح الساحر (بلاك وود) - توميتو",
+    "meta_desc": "شاهد فيلم شارلوك هولمز مترجم، فيلم حركة وغموض يتبع قصة العودة للسفاح الساحر (بلاك وود)، ويحكي عن عودة شارلوك هولمز لمواجهة العدو الجديد، وبدون أي دليل، يبد",
+    "outro": "في النهاية، ينجح شارلوك هولمز ومشتركيه في حل لغز هذه العمليات الإرهابية التي تهدد مستقبل إنجلترا، ولكن ليس بدون خسائر كبيرة.",
+    "opinion_ar": "يعد هذا العمل من أفضل أفلام شارلوك هولمز التي شاهدتها، حيث يتعامل مع قضية غامضة ومليئة بالمغامرات.",
+    "opinion_en": "This film is one of the best Sherlock Holmes movies I've seen, where it deals with a mysterious and thrilling case.",
     "faq": [
       {
-        "q": "ما هو فيلم شارلوك هولمز؟",
-        "a": "فيلم شارلوك هولمز هو فيلم مغامرة جريمة غموض يتبع المخبر شارلوك هولمز في حل الجريمة."
+        "q": "ما هو اسم السفاح الساحر في هذا العمل؟",
+        "a": "بلاك وود هو السفاح الساحر في هذا العمل.",
+        "q_en": "What is the name of the serial killer in this film?",
+        "a_en": "Blackwood is the serial killer in this film."
       },
       {
-        "q": "ما هو دور شارلوك هولمز في الفيلم؟",
-        "a": "شارلوك هولمز هو المخبر الرئيسي في الفيلم، ويقوم ب حل الجريمة والقضاء على الفساد."
-      },
-      {
-        "q": "ما هو دور واتسون في الفيلم؟",
-        "a": "واتسون هو شريك شارلوك هولمز في الفيلم، ويقوم بالمساعدة في حل الجريمة"
+        "q": "متى صدر فيلم شارلوك هولمز هذا؟",
+        "a": "صدر فيلم شارلوك هولمز هذا في عام 2009.",
+        "q_en": "When was this Sherlock Holmes film released?",
+        "a_en": "This Sherlock Holmes film was released in 2009."
       }
-    ]
+    ],
+    "keywords": "شارلوك هولمز, فيلم حركة وغموض, بلاك وود, السفاح الساحر, لندن, إنجلترا, العدو الجديد, المخبر الأسطوري, واتسون, اسكوتلانديارد, فيلم 2009, شارلوك هولمز مسلسل, انمي شارلوك هولمز, فلم شارلوك هولمز, مسلسل شارلوك هولمز الموسم الاول, رواية شارلوك هولمز, المحقق شارلوك هولمز, من هو شارلوك هولمز, هل شارلوك هولمز حقيقي, شارلوك هولمز كرتون, اخت شارلوك هولمز"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "129 دقيقة",
+  "duration": "128 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Robert Downey Jr. Jude Law Rachel McAdams Mark Strong Eddie Marsan"
+  "cast": "Robert Downey Jr. Jude Law Rachel McAdams Mark Strong Eddie Marsan Robert Maillet Geraldine James Kelly Reilly"
 }

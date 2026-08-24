@@ -4,14 +4,12 @@
   "title_ar": "Slow Horses",
   "title_en": "Slow Horses",
   "slug": "95480-slow-horses",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتتبع مسلسل الدراما الجاسوسي الذكي فريقاً مختلاً من عملاء المخابرات ومديرهم البغيض، \"جاكسون لامب\" سيئ السمعة، وهم يخوضون خدع وألاعيب عالم الجاسوسية للدفاع عن \"إنكلترا\" من قوى الشر.",
   "poster_path": "/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
   "backdrop_path": "/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
   "release_date": "2022-04-01",
-  "vote_average": 8,
-  "vote_count": 849,
+  "vote_average": 8.0,
+  "vote_count": 937,
   "genres": [
     {
       "id": 80,
@@ -22,24 +20,35 @@
       "name": "دراما"
     },
     {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 9648,
+      "name": "غموض"
     }
   ],
   "ai_content": {
-    "desc_ar": "يتتبع مسلسل الدراما الجاسوسي الذكي فريقاً مختلاً من عملاء المخابرات ومديرهم البغيض، \"جاكسون لامب\" سيئ السمعة، وهم يخوضون خدع وألاعيب عالم الجاسوسية للدفاع عن \"إنكلترا\" من قوى الشر.",
-    "desc_en": "يتتبع مسلسل الدراما الجاسوسي الذكي فريقاً مختلاً من عملاء المخابرات ومديرهم البغيض، \"جاكسون لامب\" سيئ السمعة، وهم يخوضون خدع وألاعيب عالم الجاسوسية للدفاع عن \"إنكلترا\" من قوى الشر.",
-    "meta_desc": "مشاهدة Slow Horses مترجم بجودة عالية على توميتو.",
-    "keywords": "مشاهدة Slow Horses 2026, Slow Horses مترجم, أحداث Slow Horses بالتفصيل, قصة فيلم Slow Horses, توميتو Slow Horses",
-    "seo_title_ar": "مشاهدة Slow Horses مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يتتبع مسلسل الخيول البطيئة قصة فريق عملاء المخابرات الإنكليزية، الذي يجد نفسه مدمراً بسبب سيئات المدير، JACKSON LAMB.",
+    "desc_ar": "يحكي مسلسل الخيول البطيئة قصة فريق عملاء المخابرات الإنكليزية، الذي يجد نفسه مدمراً بسبب سيئات المدير، JACKSON LAMB، الذي يعمل وفق تصورات غيرتاريخية. مع ذلك، يجد الفريق نفسه مدمراً بسبب سيئات المدير، JACKSON LAMB، الذي يعمل وفق تصورات غير معقولة، يخوضون خدع وألاعيب عالم الجاسوسية للدفاع عن إنكلترا من قوى الشر. يتتبع المسلسل قصة الفريق المضطرب، الذين يجدون أنفسهم في مواجهة الأخطار المفروضة عليهم. يهدف المسلسل إلى إظهار كيف يتعامل الفريق مع هذه الخدع ويتنقل بين الواقع والخيال في عالم الجاسوسية.",
+    "desc_en": "Follow a dysfunctional team of MI5 agentsand their obnoxious boss, the notorious Jackson Lambas they navigate the espionage world's smoke and mirrors to defend England from sinister forces. The series explores the story of the troubled team, who find themselves facing the dangers imposed upon them. The series aims to show how the team deals with these deceptions and navigates between reality and fiction in the world of espionage.",
+    "seo_title_ar": "مشاهدة الخيول البطيئة مسلسل جريمة دراما غموض 2022 مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة الخيول البطيئة مسلسل الجريمة الدراما الغموض 2022 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية و",
+    "outro": "يعتبر الخيول البطيئة أحد أهم المسلسلات الجريمة الدراما الغموض التي قدمت خلال السنوات الأخيرة، يلفت انتباه المشاهدين بجمال الشخصيات وواقعية القصص.",
+    "opinion_ar": "يعتبر الخيول البطيئة أحد أهم المسلسلات الجريمة الدراما الغموض التي قدمت خلال السنوات الأخيرة. يلفت انتباه المشاهدين بجمال الشخصيات وواقعية القصص. يمكن أن يُعتبر هذا المسلسل من بين الأفضل في نوعه.",
+    "opinion_en": "Slow Horses is one of the most important crime drama mystery series presented in recent years. It attracts viewers with the beauty of the characters and the realism of the stories. This series can be considered one of the best in its genre.",
+    "faq": [
+      {
+        "q": "ما هو الخيول البطيئة؟",
+        "a": "هو مسلسل جريمة دراما غموض إنكليزي، يتبع قصة فريق عملاء المخابرات الذين يعملون تحت إشراف JACKSON LAMB.",
+        "q_en": "What is Slow Horses?",
+        "a_en": "It is a British crime drama mystery series, following the story of a team of MI5 agents working under the supervision of JACKSON LAMB."
+      }
+    ],
+    "keywords": "الخيول البطيئة, مسلسل جريمة دراما غموض, إنكلترا, JACKSON LAMB, MI5, الخيول البطيئة 2022, مسلسلات جريمة دراما غموض, مشاهدة الخيول البطيئة, Slow Horses مترجم, تحميل الخيول البطيئة, الخيول البطيئة اون لاين, Slow Horses, الخيول البطيئة جودة عالية, فيلم الخيول البطيئة, Slow Horses HD"
   },
   "fixed": true,
-  "first_air_date": "2022-04-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "92 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Joe Estevez Kathleen Benner Davina Joy Jose Rosete Wendy Crawford"
+  "country": "المملكة المتحدة",
+  "cast": "Gary Oldman Jack Lowden Kristin Scott Thomas Hugo Weaving Saskia Reeves Christopher Chung Rosalind Eleazar Aimee-Ffion Edwards",
+  "first_air_date": "2022-04-01"
 }

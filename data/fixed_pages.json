@@ -14189,8 +14189,158 @@
       "file": "130990.json",
       "title": "Chiisana Tabi",
       "fixed_at": "2026-08-24T20:27:01.772867"
+    },
+    {
+      "tmdb_id": "52645",
+      "file": "52645.json",
+      "title": "التفاح الحرام",
+      "fixed_at": "2026-08-24T20:57:13.810155"
+    },
+    {
+      "tmdb_id": "10528",
+      "file": "10528.json",
+      "title": "شارلوك هولمز",
+      "fixed_at": "2026-08-24T20:57:22.735549"
+    },
+    {
+      "tmdb_id": "85552",
+      "file": "85552.json",
+      "title": "نشوة",
+      "fixed_at": "2026-08-24T20:57:31.722454"
+    },
+    {
+      "tmdb_id": "585",
+      "file": "585.json",
+      "title": "شركة المرعبين المحدودة",
+      "fixed_at": "2026-08-24T20:57:39.579837"
+    },
+    {
+      "tmdb_id": "1759",
+      "file": "1759.json",
+      "title": "The Cosby Show",
+      "fixed_at": "2026-08-24T20:57:49.446014"
+    },
+    {
+      "tmdb_id": "127380",
+      "file": "127380.json",
+      "title": "البحث عن دوري",
+      "fixed_at": "2026-08-24T20:57:59.101070"
+    },
+    {
+      "tmdb_id": "63190",
+      "file": "63190.json",
+      "title": "Tiger Mom",
+      "fixed_at": "2026-08-24T20:58:09.590230"
+    },
+    {
+      "tmdb_id": "95480",
+      "file": "95480.json",
+      "title": "Slow Horses",
+      "fixed_at": "2026-08-24T20:58:19.545714"
+    },
+    {
+      "tmdb_id": "689",
+      "file": "689.json",
+      "title": "John Doe",
+      "fixed_at": "2026-08-24T20:58:29.555383"
+    },
+    {
+      "tmdb_id": "8961",
+      "file": "8961.json",
+      "title": "فتيان اشقياء 2",
+      "fixed_at": "2026-08-24T20:58:37.472378"
+    },
+    {
+      "tmdb_id": "101048",
+      "file": "101048.json",
+      "title": "Doc Nelle tue mani",
+      "fixed_at": "2026-08-24T20:58:45.844121"
+    },
+    {
+      "tmdb_id": "1078605",
+      "file": "1078605.json",
+      "title": "أسلحة",
+      "fixed_at": "2026-08-24T20:58:55.331443"
+    },
+    {
+      "tmdb_id": "1288341",
+      "file": "1288341.json",
+      "title": "Seven Snipers",
+      "fixed_at": "2026-08-24T20:59:03.654456"
+    },
+    {
+      "tmdb_id": "186",
+      "file": "186.json",
+      "title": "Weeds",
+      "fixed_at": "2026-08-24T20:59:14.013090"
+    },
+    {
+      "tmdb_id": "1530",
+      "file": "1530.json",
+      "title": "My Three Sons",
+      "fixed_at": "2026-08-24T20:59:23.223487"
+    },
+    {
+      "tmdb_id": "1431071",
+      "file": "1431071.json",
+      "title": "System",
+      "fixed_at": "2026-08-24T20:59:35.196858"
+    },
+    {
+      "tmdb_id": "614",
+      "file": "614.json",
+      "title": "Smultronstllet",
+      "fixed_at": "2026-08-24T20:59:43.435877"
+    },
+    {
+      "tmdb_id": "524047",
+      "file": "524047.json",
+      "title": "غرينلاند",
+      "fixed_at": "2026-08-24T20:59:52.959113"
+    },
+    {
+      "tmdb_id": "1305781",
+      "file": "1305781.json",
+      "title": "Blades of the Guardians: Wind Rises in the Desert",
+      "fixed_at": "2026-08-24T21:00:00.894818"
+    },
+    {
+      "tmdb_id": "1223601",
+      "file": "1223601.json",
+      "title": "سيسو: الطريق إلى الإنتقام",
+      "fixed_at": "2026-08-24T21:00:11.431902"
+    },
+    {
+      "tmdb_id": "2942",
+      "file": "2942.json",
+      "title": "The Tudors",
+      "fixed_at": "2026-08-24T21:00:25.290537"
+    },
+    {
+      "tmdb_id": "1137350",
+      "file": "1137350.json",
+      "title": "The Phoenician Scheme",
+      "fixed_at": "2026-08-24T21:00:33.904742"
+    },
+    {
+      "tmdb_id": "73353",
+      "file": "73353.json",
+      "title": "Man in the Mirror: The Michael Jackson Story",
+      "fixed_at": "2026-08-24T21:00:47.980923"
+    },
+    {
+      "tmdb_id": "3319",
+      "file": "3319.json",
+      "title": "البط السري",
+      "fixed_at": "2026-08-24T21:01:14.791100"
+    },
+    {
+      "tmdb_id": "10637",
+      "file": "10637.json",
+      "title": "Remember the Titans",
+      "fixed_at": "2026-08-24T21:01:25.142131"
     }
   ],
-  "last_updated": "2026-08-24T20:27:04.120953",
-  "total_fixed": 2365
+  "last_updated": "2026-08-24T21:01:27.510845",
+  "total_fixed": 2390
 }
