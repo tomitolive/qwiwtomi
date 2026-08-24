@@ -4,12 +4,12 @@
   "title_ar": "جانغو الحر",
   "title_en": "Django Unchained",
   "slug": "68718-django-unchained",
-  "overview": "الحياة والحرية والسعي وراء الانتقام.  بمساعدة صياد جوائز ألماني ، ينطلق عبد محرر لإنقاذ زوجته من مالك مزرعة وحشي في ولاية ميسيسيبي.",
+  "overview": "يعيش جانغو عبدًا في جنوب الولايات المتحدة، إلى أن يلتقي بالطبيب وطارد الجوائز الألماني الدكتور كينغ شولتز، الذي يحرره ويساعده على استعادة حريته مقابل مساعدته في تعقب مجموعة من الخارجين عن القانون. بعد نجاحهما، يصبح جانغو شريكًا لشولتز في مطاردة المطلوبين، لكنه يواصل البحث عن زوجته برومهيلدا، التي بيعت إلى مالك مزرعة ثري وقاسٍ يُدعى كالفن كاندي. يتسلل جانغو وشولتز إلى مزرعة كاندي في محاولة لإنقاذها، ليجد جانغو نفسه أمام مواجهة خطيرة تدفعه إلى الانتقام من كل من وقف في طريق حريته وحياة زوجته.",
   "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
   "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
   "release_date": "2012-12-25",
   "vote_average": 8.2,
-  "vote_count": 28003,
+  "vote_count": 28467,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم العنف والقهر، يجد عبد محرر نفسه أمام خيار صعب: الانتقام من مالك المزرعة الذي قتله زوجته أمام عينيه، أو البحث عن الحرية والسلام. مع مساعدة صياد جوائز ألماني، يبدأ عبد محرر رحلة ممرضة لإنقاذ زوجته من يد المالك، ولكن ما ينتظرهم هو مأزق لا يطاق.",
-    "desc_en": "In a world of violence and oppression, Abolitionist finds himself faced with a difficult choice: to avenge the owner of the plantation who killed his wife before his eyes, or to search for freedom and peace. With the help of a German bounty hunter, Abolitionist begins a perilous journey to rescue his wife from the owner's clutches, but what awaits them is a predicament that cannot be tolerated.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم جانغو الحر - دراما غربي",
-    "seo_title_ar": "مشاهدة فيلم جانغو الحر مترجم اون لاين - توميتو",
-    "keywords": "Django Unchained, فيلم جانغو الحر مترجم, مشاهدة فيلم جانغو الحر, جانغو الحر مترجم, أحداث جانغو الحر بالتفصيل, توميتو جانغو الحر, مشاهدة جانغو الحر 2012, قصة فيلم جانغو الحر",
-    "opinion": "فيلم جانغو الحر هو فيلم دراما غربي يلقي بظلاله على العالم العنيف والقهر، ويحولنا إلى عالم من العنف والقهر، ويحولنا إلى عالم من العنف والقهر.",
+    "intro": "يحكي جانغو الحر قصة درامية عن العبودية والحرية في جنوب الولايات المتحدة، مع إمتياز وطارد الجوائز الألماني الدكتور كينغ شولتز.",
+    "desc_ar": "يحكي جانغو الحر قصة عن العبودية والحرية في جنوب الولايات المتحدة، حيث يتعرض عبد من ريعان شبابه للاستغلال والمضايقات من قبل مالك مزرعة قاسٍ. لكن هذا الشاب يلتقي بالطبيب وطارد الجوائز الألماني الدكتور كينغ شولتز، الذي يحرره ويقدم له فرصة للانتقام من كل من وقف في طريق حريته. مع شولتز، يبدأ جانغو رحلة مميزة لاستعادة حريته وإنقاذ زوجته من يد مالك مزرعة قاسٍ.",
+    "desc_en": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner. The story is a gripping tale of freedom, revenge, and redemption in the Deep South, where a young slave is forced to confront the harsh realities of his world. With the help of a ruthless bounty hunter, the slave embarks on a perilous journey to reclaim his freedom and rescue his wife from the clutches of a cruel plantation owner.",
+    "seo_title_ar": "مشاهدة فيلم جانغو الحر مترجم - دراما غربي - توميتو",
+    "meta_desc": "شاهد فيلم جانغو الحر مترجم، قصة درامية عن العبودية والحرية في جنوب الولايات المتحدة، مع إمتياز وطارد الجوائز الألماني الدكتور كينغ شولتز. استمتع بمشاهدة هذ",
+    "outro": "فيلم جانغو الحر هو قصة ملهمة عن العبودية والحرية، يُظهر جانغو الحر قوة البشر في مواجهة الظلم والاستغلال.",
+    "opinion_ar": "فيلم جانغو الحر هو قصة ملهمة عن العبودية والحرية، يُظهر جانغو الحر قوة البشر في مواجهة الظلم والاستغلال.",
+    "opinion_en": "Django Unchained is a powerful and thought-provoking film about freedom and the human spirit, showcasing the strength and resilience of the human being in the face of oppression and exploitation.",
     "faq": [
       {
-        "q": "ما هو فيلم جانغو الحر؟",
-        "a": "فيلم جانغو الحر هو فيلم دراما غربي يلقي بظلاله على العالم العنيف والقهر."
-      },
-      {
-        "q": "ما هو نوع فيلم جانغو الحر؟",
-        "a": "فيلم جانغو الحر فيلم دراما غربي."
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم جانغو الحر؟",
-        "a": "فيلم جانغو الحر يحتوي على أحداث إثارة ودراما غربية قوية"
+        "q": "ما هو نوع الفيلم؟",
+        "a": "فيلم درامي غربي",
+        "q_en": "What is the genre of the film?",
+        "a_en": "Drama Western"
       }
-    ]
+    ],
+    "keywords": "جانغو الحر, فيلم درامي, غربي, العبودية, الحرية, دكتور كينغ شولتز, مسرحية, مشاهدة جانغو الحر, Django Unchained مترجم, تحميل جانغو الحر, جانغو الحر اون لاين, Django Unchained, جانغو الحر جودة عالية, فيلم جانغو الحر, Django Unchained HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +45,5 @@
   "duration": "165 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson"
+  "cast": "Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson Walton Goggins Dennis Christopher James Remar"
 }

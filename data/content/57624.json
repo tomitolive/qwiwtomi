@@ -4,13 +4,11 @@
   "title_ar": "Disneys Magic English",
   "title_en": "Disneys Magic English",
   "slug": "57624-disneys-magic-english",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة طفلة تتعلم اللغة الإنجليزية مع شخصيات ديزني المفضلة لها. ويقدم العمل تجارب تعليمية ممتعة ومسلية لطفلين، من خلال قصة، أغاني، ومباريات تسلط الضوء على أهمية التعلم بلا إرهاق. ويتم تطوير كل جزء من هذا العمل بالتعاون مع خبراء اللغة الإنجليزية المتميزين.",
   "poster_path": "/KaSrtSx9DprMSZi8unPMJAw4hJ.jpg",
   "backdrop_path": "/rCJ40Cwv7jMUgWjWRK5y7x5nx0W.jpg",
   "release_date": "1996-01-01",
-  "vote_average": 8,
+  "vote_average": 8.0,
   "vote_count": 2,
   "genres": [
     {
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من السحر والوهم، يأخذنا رسوم متحركة رسوم متحركة إلى رحلة ممتعة مع أصدقاءنا، حيث نرى كيف يتعاون الأصدقاء لإنقاذ مدينة من السحر من خطر الضياع، مع مجموعة من الشخصيات المدهشة والفكاهة والمرح، في هذه الرحلة المليئة بالسحر والوهم.",
-    "desc_en": "In a world of magic and wonder, we take a thrilling journey with our friends, as we see how friends work together to save a magical city from the threat of destruction, with a cast of incredible, funny, and entertaining characters, in this magical and whimsical adventure.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة السحر مع رسوم متحركة رسوم متحركة!",
-    "seo_title_ar": "مشاهدة فيلم Disney's Magic English مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم أطفال, Disney's Magic English مترجم, أحداث Disneys Magic English بالتفصيل, توميتو Disneys Magic English, Disneys Magic English مترجم كامل, قصة مسلسل Disneys Magic English, مشاهدة Disneys Magic English 1996",
-    "opinion": "هذا الفيلم هو مثال رائع لما يمكن أن يفعله السحر والوهم في عالم رسوم متحركة، حيث نرى كيف يمكن أن يجمع الأصدقاء لإنقاذ مدينة من السحر من خطر الضياع.",
+    "intro": "هذا العمل يعتبر فرصة ممتعة لطفلين التعلم، من خلال قصة و أغاني و مباريات.",
+    "desc_ar": "يحكي هذا العمل قصة طفلة تتعلم اللغة الإنجليزية مع شخصيات ديزني المفضلة لها. ويقدم العمل تجارب تعليمية ممتعة ومسلية لطفلين، من خلال قصة، أغاني، ومباريات تسلط الضوء على أهمية التعلم بلا إرهاق. ويتم تطوير كل جزء من هذا العمل بالتعاون مع خبراء اللغة الإنجليزية المتميزين.",
+    "desc_en": "Disney's Magic English is a fun way for children to learn the English language along with their favourite Disney characters! The interactive DVD and activities books bring educational adventures to life with stories, songs and games! Disney Magic English makes learning fun and enjoyable - just like playing a game!",
+    "seo_title_ar": "مشاهدة مسلسل ديزني ماجيك الإنجليزية مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل ديزني ماجيك الإنجليزية مترجم - توميتو, رسوم متحركة للطفلين, تعلم اللغة الإنجليزية بسهولة, قصة ممتعة, أغاني جميلة, مباريات ممتعة, تعلم",
+    "outro": "نأمل أن يكون هذا العمل قد ساعدك في تعلم اللغة الإنجليزية بسهولة، ونشكرك على المشاهدة.",
+    "opinion_ar": "هذا العمل فريد من نوعه في تعليم اللغة الإنجليزية لطفلين، ويتمنى أن يكون هناك أجزاء أخرى.",
+    "opinion_en": "This show is a unique way to teach children the English language, and I wish there were more parts.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
-      },
-      {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "هو موضوع مدينة السحر والوهم"
-      },
-      {
-        "q": "هل هو مناسب للأطفال؟",
-        "a": "نعم، هو مناسب للأطفال"
+        "q": "كم عدد أجزاء مسلسل ديزني ماجيك الإنجليزية؟",
+        "a": "يوجد 6 أجزاء للمسلسل",
+        "q_en": "How many parts does the show have?",
+        "a_en": "The show has 6 parts."
       }
-    ]
+    ],
+    "keywords": "ديزني, ماجيك, الإنجليزية, مسلسل, رسوم, متحركة, أطفال, تعلم, اللغة, قصة, ممتعة, أغاني, جميلة, مباريات, تجارب, تعليمية"
   },
   "fixed": true,
-  "first_air_date": "1996-01-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "",
+  "first_air_date": "1996-01-01"
 }

@@ -4,8 +4,6 @@
   "title_ar": "الحارس الشجاع",
   "title_en": "Heathcliff and the Catillac Cats",
   "slug": "13781-heathcliff-and-the-catillac-cats",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "القطط معروفه بخمولها ولكن قط كهذا ؟! مستحيل كلنا نعرف هذا القط ذلك القط البرتقالي .. مشاكس .. مشاغب .. مناور .. مخادع .. ولكنه في داخله قط طيب عرفناه بإسم (بسبوس) .. إني أدعوكم للخير وأحارب أنواع الشر.(بسبوس) قط ليس كباقي القطط, إنه القط الذي يخدعك وأنت تعلم إنه يخدعك ومع ذلك نحن نحبه أليس كذلك ؟؟ في مغامرات (بسبوس) سنتعلم أشياء كثيرة، مفيدة، مضحكة ومسلية.",
   "poster_path": "/42g79zNS43oZNiuTasiL1sEOnDK.jpg",
   "backdrop_path": "/qGTzrFc98LHRtuKD6d931rUvLeA.jpg",
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالمرح واللعب، يأتي القطط معروفه بخمولها ولكن قط كهذا ؟! مستحيل كلنا نعرف هذا القط ذلك القط البرتقالي .. مشاكس .. مشاغب .. مناور .. مخادع .. ولكنه في داخله قط طيب عرفناه بإسم (بسبوس) .. إني أدعوكم للخير وأحارب أنواع الشر.(بسبوس) قط ليس كباقي القطط, إنه القط الذي يخدعك وأنت تعلم إنه يخدعك ومع ذلك نحن نحبه أليس كذلك ؟؟",
-    "desc_en": "In a world full of fun and play, come the familiar cats with their mischievous antics, but what about this cat? It's impossible for us to know this cat, that orange cat, the mischievous, the cunning, the tricky, the deceitful, but inside, there's a good cat we've come to know as (Puss) ... I invite you to the good and I'll fight against all kinds of evil. (Puss) This cat is not like other cats, it's the cat that deceives you and you know it's deceiving you, but we still love it, don't we?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع (بسبوس)!",
-    "seo_title_ar": "مشاهدة فيلم الحارس الشجاع مترجم اون لاين - توميتو",
-    "keywords": "Heathcliff and the Catillac Cats, فيلم كوميدي رسوم متحركة, مشاهدة فيلم أطفال, فيلم كوميدي مترجم, الحارس الشجاع مترجم كامل, أحداث الحارس الشجاع بالتفصيل, مشاهدة الحارس الشجاع 1984, قصة مسلسل الحارس الشجاع, توميتو الحارس الشجاع",
-    "opinion": "هو فيلم كوميدي رائع يخدعك ويمرحك مع (بسبوس)!",
+    "intro": "الحارس الشجاع هو مسلسل رسوم متحركة رائع، يحتوي على شخصيات محببة ومواضيع تعليمية ومسلية.",
+    "desc_ar": "الحارس الشجاع، القط البرتقالي الحكيم، لا يزال يثبت أنه أفضل قطط في المدينة، مع ثقته في نفسه وغرورته. في هذه المغامرات، سنتعلم أشياء كثيرة مفيدة ومسلية، حيث يظهر القط الحكيم بصفاته الغريزية والضحك، ولكن مع ذلك، يبقى لديه جانب طيب، يظهره عبر مساعي الخير والقوة في الدفاع عن الأصدقاء. يظهر القط الحكيم في هذه الحكايات بشكل واضح، كشخصية ممتازة في حياتنا اليومية، متسامحاً مع الآخرين، ومتعاوناً مع الأصدقاء.",
+    "desc_en": "Heathcliff and the Catillac Cats is a classic animated series that showcases the adventures of Heathcliff, a confident and charismatic cat. With his clever wit and cunning nature, Heathcliff navigates through various situations, teaching valuable lessons and entertaining audiences. Through his friendships and interactions with other characters, Heathcliff demonstrates his compassionate and protective side, making him a beloved figure in the neighborhood.",
+    "seo_title_ar": "مشاهدة مسلسل الحارس الشجاع Heathcliff Catillac Cats مترجم - توميتو",
+    "meta_desc": "الحارس الشجاع مسلسل رسوم متحركة كوميديا أطفال، يروي قصة Heathcliff و الأصدقاء، مع مواضيع مفيدة ومسلية، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية",
+    "outro": "استمتع بمشاهدة الحارس الشجاع، واكتشف مغامرات Heathcliff و الأصدقاء، مع مواضيع مفيدة ومسلية.",
+    "opinion_ar": "الحارس الشجاع هو مسلسل رسوم متحركة رائع، يحتوي على شخصيات محببة، ومواضيع تعليمية ومسلية.",
+    "opinion_en": "Heathcliff and the Catillac Cats is a delightful animated series, featuring lovable characters and entertaining storylines that teach valuable lessons.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم الحارس الشجاع؟",
-        "a": "فيلم رسوم متحركة كوميدي"
+        "q": "ما هو اسم المسلسل",
+        "a": "الحارس الشجاع",
+        "q_en": "What is the name of the series?",
+        "a_en": "Heathcliff and the Catillac Cats"
       },
       {
-        "q": "ما هو نوع الحارس الشجاع؟",
-        "a": "قطط معروفه بخمولها ولكن قط كهذا"
-      },
-      {
-        "q": "ما هو المخرج الحارس الشجاع؟",
-        "a": "لم يذكر"
+        "q": "متى تم إنتاج المسلسل",
+        "a": "1984",
+        "q_en": "When was the series produced?",
+        "a_en": "1984"
       }
-    ]
+    ],
+    "keywords": "الحارس الشجاع, Heathcliff Catillac Cats, مسلسل, رسوم متحركة, كوميديا, أطفال, قصة, مغامرات, مواضيع تعليمية, مسلسلات أطفال, رسوم متحركة كوميدية, مشاهدة الحارس الشجاع, Heathcliff Catillac Cats مترجم, تحميل الحارس الشجاع, الحارس الشجاع اون لاين"
   },
   "fixed": true,
-  "first_air_date": "1984-09-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "22 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "كندا",
+  "cast": "Mel Blanc Donna Christie Peter Cullen Jeannie Elias Danny Mann Marilyn Lightstone",
+  "first_air_date": "1984-09-17"
 }

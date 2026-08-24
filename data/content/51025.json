@@ -1,49 +1,55 @@
 {
   "id": 51025,
-  "title": "Paradise Hotel",
-  "title_ar": "Paradise Hotel",
-  "title_en": "Paradise Hotel",
-  "slug": "51025-paradise-hotel",
-  "overview": "فندق بارادايس: مسلسل واقعي مثير يغوص في عالم الفندق الشهير. في هذا المسلسل، يتنافس الضيوف على جوائز مالية كبيرة بينما يعيشون تحت سقف واحد. Paradise Hotel، النسخة الدانماركية من السلسلة العالمية، تقدم تجربة فريدة وممتعة.",
+  "title": "Werewolf in Bangkok",
+  "title_ar": "Werewolf in Bangkok",
+  "title_en": "Werewolf in Bangkok",
+  "slug": "51025-werewolf-in-bangkok",
+  "overview": "يحكي هذا العمل قصة فرانك، رجل لا يعرف الشعور بالقلق، الذي يذل جهده ليجمع القمامة لجمع المال مع خالةته ليللي. في أحد الأيام، يتعرض فرانك للهجوم من ذئب شيطاني، لكنه ينجو من الحادث. منذ ذلك اليوم، عندما يظهر القمر النصف في السماء في الليل، يتحول فرانك إلى ذئب شيطاني، ولكن من نوع مختلف يبدو محبوبًا للغاية. يمر فرانك بمرحلة حياته الجديدة مع التحول إلى ذئب شيطاني في كل ليلة، بينما يحافظ على ذكرياته البشرية. يتعامل فرانك مع التحول إلى ذئب شيطاني بأسلوب مميز ويعيش حياة مثيرة ومليئة بالحوادث",
   "poster_path": "/eKSpSG5BRyQhEgqAm7y0viXpwYc.jpg",
-  "backdrop_path": "/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-  "release_date": "2005-09-14",
-  "vote_average": 5.6,
+  "backdrop_path": "/bRD3yLnNCATQwA6LbTawcpn2swl.jpg",
+  "release_date": "2005-01-13",
+  "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 14,
+      "name": "فانتازيا"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Paradise Hotel (2005) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "فندق بارادايس: مسلسل واقعي مثير يغوص في عالم الفندق الشهير. في هذا المسلسل، يتنافس الضيوف على جوائز مالية كبيرة بينما يعيشون تحت سقف واحد. Paradise Hotel، النسخة الدانماركية من السلسلة العالمية، تقدم تجربة فريدة وممتعة.",
-    "desc_en": "Paradise Hotel: A captivating reality series set in a luxurious hotel. Watch as guests compete for big cash prizes while living under one roof. This Danish version offers a unique and entertaining twist.",
-    "seo_title_ar": "مشاهدة مسلسل فندق بارادايس Paradise Hotel مترجم - توميتو",
-    "meta_desc": "Paradise Hotel: شاهد الضيوف يتنافسون على جوائز مالية كبيرة في فندق بارادايس. نسخة دانماركية ممتعة من السلسلة العالمية.",
-    "outro": "شاهد Paradise Hotel الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فندق بارادايس: مسلسل واقعي ممتع يجمع بين الإثارة والتشويق. النسخة الدانماركية تقدم تجربة فريدة ومختلفة عن باقي السلسلة.",
-    "opinion_en": "Paradise Hotel: An engaging reality show with a unique Danish twist. The competition and drama make for an entertaining watch.",
+    "intro": "يحكي فيلم بالذئب في بانكوك قصة فرانك الذي يتحول إلى ذئب شيطاني في كل ليلة، بينما يحافظ على ذكرياته البشرية",
+    "desc_ar": "يحكي هذا العمل قصة فرانك، رجل لا يعرف الشعور بالقلق، الذي يذل جهده ليجمع القمامة لجمع المال مع خالةته ليللي. في أحد الأيام، يتعرض فرانك للهجوم من ذئب شيطاني، لكنه ينجو من الحادث. منذ ذلك اليوم، عندما يظهر القمر النصف في السماء في الليل، يتحول فرانك إلى ذئب شيطاني، ولكن من نوع مختلف يبدو محبوبًا للغاية. يمر فرانك بمرحلة حياته الجديدة مع التحول إلى ذئب شيطاني في كل ليلة، بينما يحافظ على ذكرياته البشرية. يتعامل فرانك مع التحول إلى ذئب شيطاني بأسلوب مميز ويعيش حياة مثيرة ومليئة بالحوادث",
+    "desc_en": "Frank, a carefree guy, spends most of his day collecting garbages for money with his niece Lilly. One bad day, Frank is bitten by a werewolf but he can escape and is still alive. Since that day, when the half moon comes up in the night sky, Frank will turn into a werewolf, but a different kind of werewolf that is so adorable. Frank goes through a new phase of life with his transformation into a werewolf every night, while holding onto his human memories. He deals with his werewolf transformation in a unique way and lives an exciting and eventful life",
+    "seo_title_ar": "مشاهدة فيلم بالذئب في بانكوك مترجم - توميتو",
+    "meta_desc": "يحكي فيلم بالذئب في بانكوك قصة فرانك الذي يتحول إلى ذئب شيطاني في كل ليلة، بينما يحافظ على ذكرياته البشرية. يستمتع فرانك بمشاهدة هذا العمل بجودة عالية وترج",
+    "outro": "يعد فيلم بالذئب في بانكوك من أكثر الأفلام ممتعة التي شاهدتها. يتعامل فرانك مع تحوله إلى ذئب شيطاني بأسلوب مميز ويحتفظ بذكرياته البشرية",
+    "opinion_ar": "يعد فيلم بالذئب في بانكوك من أكثر الأفلام ممتعة التي شاهدتها. يتعامل فرانك مع تحوله إلى ذئب شيطاني بأسلوب مميز ويحتفظ بذكرياته البشرية",
+    "opinion_en": "Werewolf in Bangkok is one of the most entertaining films I've ever seen. Frank deals with his werewolf transformation in a unique way and holds onto his human memories",
     "faq": [
       {
-        "q": "ما هو فندق بارادايس؟",
-        "a": "فندق بارادايس هو مسلسل واقعي دانماركي، نسخة من السلسلة العالمية Paradise Hotel، حيث يتنافس الضيوف على جوائز مالية.",
-        "q_en": "What is Paradise Hotel?",
-        "a_en": "Paradise Hotel is a Danish reality series, a version of the global franchise, where guests compete for cash prizes."
+        "q": "ما هو نوع هذا العمل؟",
+        "a": "يعد هذا العمل فيلمًا كوميديًا وفانتازيًا",
+        "q_en": "What type of film is this?",
+        "a_en": "This film is a comedy and fantasy film"
+      },
+      {
+        "q": "متى صدر هذا العمل؟",
+        "a": "صدر هذا العمل عام 2005",
+        "q_en": "When was this film released?",
+        "a_en": "This film was released in 2005"
       }
     ],
-    "keywords": "فندق بارادايس, Paradise Hotel, مسلسل واقعي, منافسة, جوائز مالية, دانمارك, فندق, إثارة"
+    "keywords": "فيلم بالذئب في بانكوك, كوميديا, فانتازيا, فيلم 2005, فرانك, ذئب شيطاني, بانكوك, مشاهدة بالذئب في بانكوك, Werewolf Bangkok مترجم, تحميل بالذئب في بانكوك, بالذئب في بانكوك اون لاين, Werewolf Bangkok, بالذئب في بانكوك جودة عالية, Werewolf Bangkok HD, بالذئب في بانكوك HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "32 دقيقة",
+  "duration": "94 دقيقة",
   "language": "الإنجليزية",
-  "country": "Denmark",
-  "cast": "",
-  "first_air_date": "2005-09-14",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Thailand",
+  "cast": "Choosak Iamsuk Natnicha Cherdchubupakari Debbie Bazoo Sink Dawksadao Todsaporn Rottakit Akom Preedakul Surach Phonginthakun Somlek Sakdikul"
 }

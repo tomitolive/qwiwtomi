@@ -12959,8 +12959,158 @@
       "file": "322427.json",
       "title": "The American Experiment",
       "fixed_at": "2026-08-24T16:24:36.946916"
+    },
+    {
+      "tmdb_id": "44616",
+      "file": "44616.json",
+      "title": "FINAL",
+      "fixed_at": "2026-08-24T17:06:24.295388"
+    },
+    {
+      "tmdb_id": "18165",
+      "file": "18165.json",
+      "title": "يوميات مصاص الدماء",
+      "fixed_at": "2026-08-24T17:06:32.598997"
+    },
+    {
+      "tmdb_id": "51025",
+      "file": "51025.json",
+      "title": "Paradise Hotel",
+      "fixed_at": "2026-08-24T17:06:42.181643"
+    },
+    {
+      "tmdb_id": "71728",
+      "file": "71728.json",
+      "title": "شيلدن اليافع",
+      "fixed_at": "2026-08-24T17:06:50.886522"
+    },
+    {
+      "tmdb_id": "242931",
+      "file": "242931.json",
+      "title": "Pulang Araw",
+      "fixed_at": "2026-08-24T17:06:59.527131"
+    },
+    {
+      "tmdb_id": "612304",
+      "file": "612304.json",
+      "title": "Divaldo: O Mensageiro da Paz",
+      "fixed_at": "2026-08-24T17:07:08.177879"
+    },
+    {
+      "tmdb_id": "11884",
+      "file": "11884.json",
+      "title": "Battle of the Network Stars",
+      "fixed_at": "2026-08-24T17:07:17.053444"
+    },
+    {
+      "tmdb_id": "8355",
+      "file": "8355.json",
+      "title": "العصر الجليدي 3 ظهور الديناصورات",
+      "fixed_at": "2026-08-24T17:07:25.220632"
+    },
+    {
+      "tmdb_id": "153217",
+      "file": "153217.json",
+      "title": "بريق الغد",
+      "fixed_at": "2026-08-24T17:07:33.848381"
+    },
+    {
+      "tmdb_id": "68718",
+      "file": "68718.json",
+      "title": "جانغو الحر",
+      "fixed_at": "2026-08-24T17:07:52.613589"
+    },
+    {
+      "tmdb_id": "101299",
+      "file": "101299.json",
+      "title": "The Hunger Games: Catching Fire",
+      "fixed_at": "2026-08-24T17:08:02.196991"
+    },
+    {
+      "tmdb_id": "799379",
+      "file": "799379.json",
+      "title": "مشروع إصطياد الذئب",
+      "fixed_at": "2026-08-24T17:08:12.072837"
+    },
+    {
+      "tmdb_id": "1541560",
+      "file": "1541560.json",
+      "title": "Stop! That! Train!",
+      "fixed_at": "2026-08-24T17:08:20.703115"
+    },
+    {
+      "tmdb_id": "1321008",
+      "file": "1321008.json",
+      "title": "Black Box",
+      "fixed_at": "2026-08-24T17:08:29.674403"
+    },
+    {
+      "tmdb_id": "14438",
+      "file": "14438.json",
+      "title": "Fireproof",
+      "fixed_at": "2026-08-24T17:08:40.401554"
+    },
+    {
+      "tmdb_id": "98",
+      "file": "98.json",
+      "title": "المجالد",
+      "fixed_at": "2026-08-24T17:08:50.300447"
+    },
+    {
+      "tmdb_id": "533535",
+      "file": "533535.json",
+      "title": "ديدبول وولفرين",
+      "fixed_at": "2026-08-24T17:08:57.927862"
+    },
+    {
+      "tmdb_id": "13781",
+      "file": "13781.json",
+      "title": "الحارس الشجاع",
+      "fixed_at": "2026-08-24T17:09:07.519093"
+    },
+    {
+      "tmdb_id": "945961",
+      "file": "945961.json",
+      "title": "فضائي: رومولوس",
+      "fixed_at": "2026-08-24T17:09:43.643568"
+    },
+    {
+      "tmdb_id": "32895",
+      "file": "32895.json",
+      "title": "Rizzoli Isles",
+      "fixed_at": "2026-08-24T17:10:20.666288"
+    },
+    {
+      "tmdb_id": "2473",
+      "file": "2473.json",
+      "title": "The Avengers",
+      "fixed_at": "2026-08-24T17:10:30.162561"
+    },
+    {
+      "tmdb_id": "96316",
+      "file": "96316.json",
+      "title": "حبيبة للإيجار",
+      "fixed_at": "2026-08-24T17:10:39.524433"
+    },
+    {
+      "tmdb_id": "823464",
+      "file": "823464.json",
+      "title": "جودزيلا وكونج: الإمبراطورية الجديدة",
+      "fixed_at": "2026-08-24T17:10:50.359472"
+    },
+    {
+      "tmdb_id": "1628123",
+      "file": "1628123.json",
+      "title": "BTS : ARIRANG",
+      "fixed_at": "2026-08-24T17:10:58.125118"
+    },
+    {
+      "tmdb_id": "57624",
+      "file": "57624.json",
+      "title": "Disneys Magic English",
+      "fixed_at": "2026-08-24T17:11:08.176595"
     }
   ],
-  "last_updated": "2026-08-24T16:24:39.128381",
-  "total_fixed": 2160
+  "last_updated": "2026-08-24T17:11:10.430391",
+  "total_fixed": 2185
 }

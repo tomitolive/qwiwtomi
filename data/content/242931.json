@@ -4,9 +4,7 @@
   "title_ar": "Pulang Araw",
   "title_en": "Pulang Araw",
   "slug": "242931-pulang-araw",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي بولانج أراو قصة عائلة مُستقبلية، تدور أحداثها حول القيم الحميدة والتصاميم القوية التي تمكّن الفلبينيين من مواجهة الصعاب والصدمات. يحكي العمل عن الروح الوطنية التي تعزز الالتزام بالأسرار والاستعداد للتعاون في مواجهة الهاجمين. تتناول القصة أيضًا تجارب الأبطال الذين وجهوا وقتهم وجهودهم للفلبين، مما يسلط الضوء على ركائز الصمود والقوة في وجه الاضطهاد.",
   "poster_path": "/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
   "backdrop_path": "/sx3N4xsZDv0zAGfImtruZLYirhs.jpg",
   "release_date": "2024-07-29",
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالخطر والرغبة، يتعثر رجلان من مختلف الأعمار والذات، في رحلة مليئة بالتجارب والمناظر، حيث يتعرضون لخतरات عديدة، ويحاولون أن ينجوا من الموت، فيما يتعرضون للاضطراب والرعب، في هذه الرحلة المليئة بالتجارب والمناظر.",
-    "desc_en": "In a world filled with danger and desire, two men from different ages and identities, embark on a journey filled with experiences and scenery, where they face numerous dangers, and try to survive death, as they are exposed to chaos and fear, in this journey filled with experiences and scenery.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في (پولанг أرو) - توميتو",
-    "seo_title_ar": "مشاهدة فيلم پولанг أرو مترجم اون لاين - توميتو",
-    "keywords": "فيلم پولанг أرو مترجم, مشاهدة فيلم پولанг أرو, Pulang Araw مترجم كامل, مشاهدة Pulang Araw 2024, توميتو Pulang Araw, قصة مسلسل Pulang Araw, أحداث Pulang Araw بالتفصيل",
-    "opinion": "هذه الرحلة المليئة بالتجارب والمناظر، هي رحلة مليئة بالتجارب والمناظر، حيث يتعرضون لخतरات عديدة، ويحاولون أن ينجوا من الموت، فيما يتعرضون للاضطراب والرعب، في هذه الرحلة المليئة بالتجارب والمناظر.",
+    "intro": "يسعدنا إستقبالك في عالم بولانج أراو، حيث ستتعرف على قصة عائلة مُستقبلية تدور أحداثها حول القيم الحميدة والتصاميم القوية التي تمكّن الفلبينيين من مواجهة الصعاب.",
+    "desc_ar": "يحكي بولانج أراو قصة عائلة مُستقبلية، تدور أحداثها حول القيم الحميدة والتصاميم القوية التي تمكّن الفلبينيين من مواجهة الصعاب والصدمات. يحكي العمل عن الروح الوطنية التي تعزز الالتزام بالأسرار والاستعداد للتعاون في مواجهة الهاجمين. تتناول القصة أيضًا تجارب الأبطال الذين وجهوا وقتهم وجهودهم للفلبين، مما يسلط الضوء على ركائز الصمود والقوة في وجه الاضطهاد.",
+    "desc_en": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese occupation of the Philippines. Through their struggles and triumphs, the series highlights the unwavering spirit of the Filipino people and their ability to persevere in the face of adversity.",
+    "seo_title_ar": "مشاهدة بولانج أراو مترجم - مسلسل درامي عائلي مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل بولانج أراو مترجم - نوع: مسلسل, نوع: دراما, نوع: عائلي - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بم",
+    "outro": "نأمل أن استمتعت بقراءة هذه المقالة حول بولانج أراو، وتتعرف على قصة عائلة مُستقبلية رائعة",
+    "opinion_ar": "يعتبر بولانج أراو العمل الأكثر تأثيرًا في السنوات الأخيرة، حيث يسلط الضوء على القيم الحميدة والتصاميم القوية التي تمكّن الفلبينيين من مواجهة الصعاب.",
+    "opinion_en": "Red Sun is a thought-provoking series that sheds light on the unwavering spirit of the Filipino people and their ability to persevere in the face of adversity.",
     "faq": [
       {
-        "q": "ما هو فيلم پولанг أرو؟",
-        "a": "هو فيلم حركة ومغامرة دراما حرب وسياسة عائلي"
-      },
-      {
-        "q": "ما هي قصة فيلم پولанг أرو؟",
-        "a": "قصة فيلم پولанг أرو هي قصة رحلة مليئة بالتجارب والمناظر، حيث يتعرضون لخतरات عديدة، ويحاولون أن ينجوا من الموت، فيما يتعرضون للاضطراب والرعب، في هذه الرحلة المليئة بالتجارب والمناظر."
-      },
-      {
-        "q": "ما هو أفضل جزء في فيلم پولанг أرو؟",
-        "a": "أفضل جزء في فيلم پولанг أرو هو الجزء الذي يتعرض فيه герوي لخतरات عديدة، ويحاولون أن ينجوا من الموت، فيما يتعرضون للاضطراب والرعب، في هذه الرحلة المليئة بالتجارب والمناظر."
+        "q": "ما هو موضوع مسلسل بولانج أراو؟",
+        "a": "يحكي بولانج أراو قصة عائلة مُستقبلية، تدور أحداثها حول القيم الحميدة والتصاميم القوية التي تمكّن الفلبينيين من مواجهة الصعاب والصدمات.",
+        "q_en": "What is the theme of Red Sun?",
+        "a_en": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has."
       }
-    ]
+    ],
+    "keywords": "بولانج أراو, مسلسل, دراما, عائلي, قصة, حرب, سياسة, فيلم, مترجم, مشاهدة بولانج أراو, Pulang Araw مترجم, تحميل بولانج أراو, بولانج أراو اون لاين, Pulang Araw, بولانج أراو جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2024-07-29",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "25 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Philippines",
+  "cast": "Alden Richards Sanya Lopez Barbie Forteza David Licauco Dennis Trillo Angelu de Leon Epy Quizon Rochelle Pangilinan",
+  "first_air_date": "2024-07-29"
 }
