@@ -4,14 +4,12 @@
   "title_ar": "مرحبا بك في مدرسة الشياطين! إيروما-كن",
   "title_en": "Welcome to Demon School! Iruma-kun",
   "slug": "91801-welcome-to-demon-school-iruma-kun",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "سوزوكي إيروما، إنسان، 14 سنة، يجد نفسه في أحد الأيام يُؤخذ قسرًا إلى عالم الشياطين. ما زاد الطين بلّة هو أنّ مالكه الشغوف والذي عيّن نفسه \"جدًّا\" له هو في الواقع المدير الشيطان لمدرسته الجديدة. لأجل النجاة، على إيروما أن يتعامل مع طالبٍ متجبّر يتحدّاه في نزال وفتاة تواجه مشاكل تكيّف والكثير من المخلوقات المخيفة الأخرى! أيمكن لهذا المسالم المُطْلق أن يتفادى الحبال والسّهام التي تُقذف عليه؟ بينما يقاوم بيأس، لُطف إيروما الفطريّ بدأ يستهوي الأعداء",
   "poster_path": "/gKz8wiKsbgefAkxjpBCmJPnnXJE.jpg",
   "backdrop_path": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
   "release_date": "2019-10-05",
-  "vote_average": 8.2,
-  "vote_count": 287,
+  "vote_average": 8.3,
+  "vote_count": 303,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,48 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الشياطين، يجد سوزوكي إيروما نفسه في معركة حقيقية ضد المدير الشيطان لمدرسته الجديدة. مع وجود الكثير من المخلوقات المخيفة الأخرى، يتعامل إيروما مع مشاكل تكيّف والفتاة المتجبّر، نزال وفتاة تواجه مشاكل تكيّف والكثير من المخلوقات المخيفة الأخرى!",
-    "desc_en": "In the world of demons, Suzuki Iruma finds himself in a real battle against the demon director of his new school. With many terrifying creatures, Iruma deals with problems of adaptation and the girl who faces problems of adaptation, duel and many terrifying creatures!",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدرسة الشياطين! إيروما-كن",
-    "seo_title_ar": "مشاهدة فيلم مرحبا بك في مدرسة الشياطين! إيروما-كن مترجم اون لاين - توميتو",
-    "keywords": "Welcome to Demon School! Iruma-kun, فيلم كوميديا مترجم, مشاهدة فيلم رسوم متحركة, مدرسة الشياطين, إيروما-كن, مرحبا بك في مدرسة الشياطين! إيروما-كن مترجم كامل, أحداث مرحبا بك في مدرسة الشياطين! إيروما-كن بالتفصيل, مشاهدة مرحبا بك في مدرسة الشياطين! إيروما-كن 2019, قصة مسلسل مرحبا بك في مدرسة الشياطين! إيروما-كن, توميتو مرحبا بك في مدرسة الشياطين! إيروما-كن",
-    "opinion": "هو فيلم كوميديا رائع يلقي باللوم على الكثير من المخلوقات المخيفة الأخرى، ويقدم لنا مزيلاً من الكوميديا والخيال العلمي والفانتازيا",
+    "intro": "يحكي هذا العمل قصة إيروما سوزوكي، 14 سنة، الذي يجد نفسه وسط عالم الشياطين بعد أن باعته والداه غير المسؤولين.",
+    "desc_ar": "يحكي هذا العمل قصة إيروما سوزوكي، 14 سنة، الذي يجد نفسه وسط عالم الشياطين بعد أن باعته والداه غير المسؤولين. ينتقل إلى مدرسة الشياطين الجديدة التي يديرها جدّه الشيطاني، ويتعامل مع مجموعة من المخلوقات المخيفة والطالب المتجبّر الذي يتحدّيه في نزال. ومع كل تحدي، يبدأ إيروما في اكتساب لطفه الفطريّ الذي يستهوي الأعداء ويجذب قلوبهم.",
+    "desc_en": "This series follows the story of Iruma Suzuki, a 14-year-old boy who finds himself in the world of demons after being abandoned and sold by his irresponsible parents. He is transferred to a new demon school where his demon grandfather works as the principal, and he must navigate a world of supernatural creatures and a rival student who challenges him to a duel. With each challenge, Iruma begins to develop his natural kindness that attracts the enemies and wins over their hearts.",
+    "seo_title_ar": "مشاهدة مسلسل مرحبا بك في مدرسة الشياطين! إيروما-كن مترجم - توميتو",
+    "meta_desc": "مرحبا بك في مدرسة الشياطين! إيروما-كن. مسلسل رسوم متحركة كوميديا خيال علمي وفانتازيا. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزع",
+    "outro": "مع كل تحدي، يبدأ إيروما في اكتساب لطفه الفطريّ الذي يستهوي الأعداء ويجذب قلوبهم.",
+    "opinion_ar": "من بين المسلسلات الكوميدية الرائعة، مرحبا بك في مدرسة الشياطين! إيروما-كن هو عمل فريد وممتع يستحق المشاهدة.",
+    "opinion_en": "Among the great comedies, Welcome to Demon School! Iruma-kun is a unique and entertaining work that is worth watching.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم مرحبا بك في مدرسة الشياطين؟",
-        "a": "هو فيلم رسوم متحركة كوميديا خيال علمي وفانتازيا"
+        "q": "ما هو موضوع مسلسل مرحبا بك في مدرسة الشياطين! إيروما-كن؟",
+        "a": "يحكي العمل قصة إيروما سوزوكي، 14 سنة، الذي يجد نفسه وسط عالم الشياطين بعد أن باعته والداه غير المسؤولين.",
+        "q_en": "What is the subject of Welcome to Demon School! Iruma-kun?",
+        "a_en": "The series follows the story of Iruma Suzuki, a 14-year-old boy who finds himself in the world of demons after being abandoned and sold by his irresponsible parents."
       },
       {
-        "q": "ما هو موضوع فيلم مرحبا بك في مدرسة الشياطين؟",
-        "a": "يحكي قصة سوزوكي إيروما الذي يجد نفسه في معركة حقيقية ضد المدير الشيطان لمدرسته الجديدة"
+        "q": "من هو جدّ إيروما الشيطان؟",
+        "a": "هو مدير مدرسة الشياطين الجديدة الذي يديرها، ويحاول إيروما التعامل معه وطالبٍ متجبّر يتحدّاه في نزال.",
+        "q_en": "Who is Iruma's demon grandfather?",
+        "a_en": "He is the new demon school principal who Iruma must navigate with, and a rival student who challenges him to a duel."
       },
       {
-        "q": "ما هو نوع المخلوقات المخيفة الأخرى في فيلم مرحبا بك في مدرسة الشياطين؟",
-        "a": "الكثير من المخلوقات المخيفة الأخرى، مثل المخلوقات المخيفة الأخرى، والفتاة المتجبّر، والكثير من المخلوقات المخيفة الأخرى"
+        "q": "ما هي مواصفات مسلسل مرحبا بك في مدرسة الشياطين! إيروما-كن؟",
+        "a": "يتناول العمل مواضيع كوميدية خيالية وفانتازيا، ويعرض مشاهد ممتعة ومفاجئة.",
+        "q_en": "What are the specifications of Welcome to Demon School! Iruma-kun?",
+        "a_en": "The series explores comedic, fantastical, and fantastical themes, and presents entertaining and surprising scenes."
+      },
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل مرحبا بك في مدرسة الشياطين! إيروما-كن؟",
+        "a": "يمكنك مشاهدة العمل على توميتو، مع ترجمة احترافية وبدون إعلانات مزعجة.",
+        "q_en": "How can I watch Welcome to Demon School! Iruma-kun?",
+        "a_en": "You can watch the series on Tomito with professional translation and no annoying ads."
       }
-    ]
+    ],
+    "keywords": "مرحبا بك في مدرسة الشياطين! إيروما-كن, مسلسل رسوم متحركة كوميديا خيال علمي وفانتازيا, عالم الشياطين, مدرسة الشياطين, إيروما سوزوكي, جد الشيطان, طالب متجبر, نزال, كوميديا, خيال علمي وفانتازيا, مشاهدة مرحبا بك في مدرسة الشياطين! إيروما-كن, Welcome Demon School! Iruma- مترجم, تحميل مرحبا بك في مدرسة الشياطين! إيروما-كن, مرحبا بك في مدرسة الشياطين! إيروما-كن اون لاين, Welcome Demon School! Iruma-"
   },
   "fixed": true,
-  "first_air_date": "2019-10-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Ayumu Murase Ryohei Kimura Ayaka Asai Daisuke Ono Saori Hayami Takuya Sato Takaya Kuroda Mitsuki Saiga",
+  "first_air_date": "2019-10-05"
 }

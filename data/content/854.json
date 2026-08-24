@@ -1,17 +1,15 @@
 {
   "id": 854,
-  "title": "The Mask",
-  "title_ar": "The Mask",
+  "title": "القناع",
+  "title_ar": "القناع",
   "title_en": "The Mask",
   "slug": "854-the-mask",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "يتحول ستانلي إبكيس موظف البنك الخجول إلى بطل خارق مجنون عندما يرتدي قناعًا غامضًا.",
   "poster_path": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
   "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
   "release_date": "1994-07-29",
-  "vote_average": 7,
-  "vote_count": 11247,
+  "vote_average": 7.0,
+  "vote_count": 11510,
   "genres": [
     {
       "id": 35,
@@ -31,26 +29,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحول ستانلي إبكيس من موظف البنك إلى بطل خارق مجنون عندما يرتدي قناعًا غامضًا، مما يثير دهشة الجميع ويزعزع حياتهم. في هذه الرحلة، ستانلي يكتشف قوته الحقيقية ويصبح بطل خارق مجنون، لكنه سيفقد هوية نفسه في العملية.",
-    "desc_en": "Stanley Ipkiss, a bank clerk, transforms into a lunatic hero when he wears a mysterious mask, shocking everyone and disrupting their lives. In this journey, Stanley discovers his true power and becomes a lunatic hero, but he will lose his identity in the process.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الكوميديا والفانتازيا والجريمة والرومنسية - توميتو",
-    "seo_title_ar": "مشاهدة فيلم القناع مترجم اون لاين - توميتو",
-    "keywords": "فيلم القناع مترجم, مشاهدة فيلم القناع, The Mask مترجم, توميتو The Mask, أحداث The Mask بالتفصيل, قصة فيلم The Mask, مشاهدة The Mask 1994",
-    "opinion": "فيلم القناع هو فيلم كوميديا رائعة يجمع بين الإثارة والفانتازيا والجريمة والرومنسية، ويحول المشاهد إلى عالم من الدهشة والمرح.",
+    "intro": "يتحول موظف البنك الخجول إلى بطل خارق مجنون عندما يرتدي قناعًا غامضًا.",
+    "desc_ar": "يتحول ستانلي إبكيس من موظف البنك الخجول إلى بطل خارق مجنون عندما يرتدي قناعًا غامضًا، مما يمنحه الثقة للتعامل مع النساء والتحكم في قوته العدوانية. ومع ذلك، يصبح هذا القناع هدفًا للجبان، ويهدد حياته مع كل ثانية. يبحث ستانلي عن طريقة للقضاء على هذا القناع، ولكن القناع يبدو أنه لديه نوايا أخرى. يتحول ستانلي إلى بطل خارق مجنون، ويصبح هدفًا للجبان، ويهدد حياته مع كل ثانية. يبحث ستانلي عن طريقة للقضاء على هذا القناع، ولكن القناع يبدو أنه لديه نوايا أخرى.",
+    "desc_en": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster. As Stanley navigates his new life as a masked vigilante, he must confront the dark forces that seek to destroy him and the city he loves.",
+    "seo_title_ar": "مشاهدة فيلم القناع مترجم - القناع 1994",
+    "meta_desc": "القناع 1994 فيلم كوميدي فانتازي جريمة رومنسي - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "يحاول ستانلي إبكيس التخلص من قناعه، ولكن القناع يبدو أنه لديه نوايا أخرى.",
+    "opinion_ar": "يعد فيلم القناع تجربة ممتعة للعين والروح، مع شخصيات محتلة بالحياة ومغامرة رائعة.",
+    "opinion_en": "The Mask is a visually stunning and entertaining film, with well-developed characters and a thrilling plot.",
     "faq": [
       {
         "q": "ما هو فيلم القناع؟",
-        "a": "فيلم رائع يجمع بين الإثارة والفانتازيا والجريمة والرومنسية."
+        "a": "فيلم كوميدي فانتازي جريمة رومنسي",
+        "q_en": "What is The Mask?",
+        "a_en": "A comedic fantasy crime romance film"
       },
       {
-        "q": "ما هو القناع في فيلم القناع؟",
-        "a": "القناع هو رمز القوة والغموض والمرح."
-      },
-      {
-        "q": "ما هو نوع فيلم القناع؟",
-        "a": "فيلم كوميديا رائعة يجمع بين الإثارة والفانتازيا والجريمة والرومنسية."
+        "q": "من بطولة فيلم القناع؟",
+        "a": "نيكولاس كيج",
+        "q_en": "Who stars in The Mask?",
+        "a_en": "Nicolas Cage"
       }
-    ]
+    ],
+    "keywords": "القناع, فيلم, كوميديا, فانتازيا, جريمة, رومنسية, نيكولاس كيج, 1994, كشاف القناع, القناع الاخضر, مسلسل القناع, فيلم القناع, القناع الشفاف, جونسون القناع الشفاف, فلم القناع, كتاب كشاف القناع, كشف القناع, القناع الذهبي, الرجل ذو القناع الحديدي, العواد القناع"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -58,5 +59,5 @@
   "duration": "101 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jim Carrey Peter Riegert Peter Greene Amy Yasbeck Richard Jeni"
+  "cast": "Jim Carrey Peter Riegert Peter Greene Amy Yasbeck Richard Jeni Orestes Matacena Tim Bagley Nancy Fish"
 }

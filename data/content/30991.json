@@ -1,17 +1,15 @@
 {
   "id": 30991,
-  "title": "صائدو جوائز بيبوب",
-  "title_ar": "صائدو جوائز بيبوب",
+  "title": "كاوبوي بيباب",
+  "title_ar": "كاوبوي بيباب",
   "title_en": "Cowboy Bebop",
   "slug": "30991-cowboy-bebop",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "فريق متنوّع، مكوّن من قاتل محترف تائب وشرطي سابق ومحتالة وقرصانة إلكترونية يافعة وكلب بيانات، يجوب الفضاء بحثًا عن المكافآت كمصدر للعيش.",
+  "overview": "في عام 2071، بعد كارثةٍ في بوّابات الفضاء الفائق شتّتت البشرية في أنحاء المجموعة الشمسية، صار على رأس كل مجرمٍ مكافأة، ويكسب طاقمٌ متنافرٌ على متن السفينة بيباب رزقه من مطاردتهم. سبايك شبيغل، القاتل المأجور السابق الهادئ الذي انشقّ عن عصابة «التنين الأحمر»، وجيت بلاك الشرطي السابق، ينضمّ إليهما فاي فالنتاين المحتالة التي فقدت ذاكرتها، وإدوارد الطفلة العبقرية في الاختراق، وآين الكلب الكورغي الخارق الذكاء. وبين كوكبٍ وقمرٍ وعلى إيقاع الجاز، يهرب كلٌّ منهم بهدوءٍ من ماضٍ لا يكفّ عن اللحاق به.",
   "poster_path": "/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
   "backdrop_path": "/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
   "release_date": "1998-04-03",
   "vote_average": 8.5,
-  "vote_count": 1931,
+  "vote_count": 2003,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الفضاء، يلتقي فريق صائدو جوائز بيبوب، المكون من قاتل محترف تائب وشرطي سابق ومحتالة وقرصانة إلكترونية يافعة وكلب بيانات، مع nhau في رحلة بحث عن المكافآت كمصدر للعيش. مع وجود المخاطر والغموض والفضائح، سوف يتعاملون معها جميعاً في هذه الرحلة الاستكشافية.",
-    "desc_en": "In a distant future, a diverse team of individuals, including a professional hitman, a former cop, a hacker, and a data dog, embark on a journey to find their fortune in the vastness of space. With danger, mystery, and intrigue lurking around every corner, they must navigate their way through the unknown.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في صائدو جوائز بيبوب - رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، غربي",
-    "seo_title_ar": "مشاهدة فيلم صائدو جوائز بيبوب مترجم اون لاين - توميتو",
-    "keywords": "Cowboy Bebop, فيلم كذا مترجم, مشاهدة فيلم كذا, رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, غربي, صائدو جوائز بيبوب مترجم كامل, قصة مسلسل صائدو جوائز بيبوب, توميتو صائدو جوائز بيبوب, أحداث صائدو جوائز بيبوب بالتفصيل, مشاهدة صائدو جوائز بيبوب 1998",
-    "opinion": "هو فيلم فантаستيكي يلقي بيدك في عالم الفضاء، حيث يلتقي فريق صائدو جوائز بيبوب مع nhau في رحلة بحث عن المكافآت كمصدر للعيش.",
+    "intro": "في عالم مدمر، يتعامل طاقم سفينة بيباب مع مطاردة المخالفين في الفضاء، في مسلسل رسوم متحركة غريب ومغامر.",
+    "desc_ar": "في عام 2071، بعد كارثةٍ مدمرةٍ في بوّابات الفضاء الفائق، انحسرت البشرية إلى أنحاء المجموعة الشمسية، وأصبح مكافأةً ضخمةً هي الغاية الأخيرة لكل مجرمٍ. هذا هو قصة كاوبوي بيباب، مسلسل رسوم متحركة يصور حياة طاقم سفينة بيباب الذي يتعامل مع مطاردة المخالفين في الفضاء. يضم الطاقم القاتل المأجور السابق سبايك شبيغل، والشرطي السابق جيت بلاك، ومحتالة فاي فالنتاين التي فقدت ذاكرتها، وطفلة العبقرية إدوارد، وكلب كورغي ذكي آين.",
+    "desc_en": "In the year 2071, roughly fifty years after a catastrophic accident with a hyperspace gateway, humanity has colonized most of the rocky planets and moons of the Solar System. In a world where crime is rampant, the Inter Solar System Police set up a system where registered bounty hunters, known as \"Cowboys\", chase down criminals and bring them in alive in return for a reward. This is the story of \"Cowboy Bebop\", an animated series that follows the lives of the crew of the spaceship Bebop as they navigate the complexities of life in the solar system.",
+    "seo_title_ar": "مشاهدة كاوبوي بيباب مترجم - توميتو",
+    "meta_desc": "كاوبوي بيباب مسلسل رسوم متحركة غربي يضم طاقما متنافرا من يحاربون الجريمة في الفضاء، مع أجواء غريبة ومغامرات غريبة. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "كاوبوي بيباب هو مسلسل رسوم متحركة غريب ومغامر، يصور حياة طاقم سفينة بيباب في عالم مدمر.",
+    "opinion_ar": "كاوبوي بيباب هو مسلسل رسوم متحركة يغرد في الفضاء، يصور حياة طاقم سفينة بيباب الذي يتعامل مع مطاردة المخالفين، ويحمل أجواء غريبة ومغامرات غريبة.",
+    "opinion_en": "Cowboy Bebop is an animated series that takes viewers on a wild ride through the solar system, following the lives of the crew of the spaceship Bebop as they navigate the complexities of life in the solar system.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم صائدو جوائز بيبوب؟",
-        "a": "هو فيلم رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، غربي"
+        "q": "ما هو قصة كاوبوي بيباب؟",
+        "a": "هو مسلسل رسوم متحركة يصور حياة طاقم سفينة بيباب الذي يتعامل مع مطاردة المخالفين في الفضاء.",
+        "q_en": "What is the story of Cowboy Bebop?",
+        "a_en": "It is an animated series that follows the lives of the crew of the spaceship Bebop as they navigate the complexities of life in the solar system."
       },
       {
-        "q": "ما هو موضوع فيلم صائدو جوائز بيبوب؟",
-        "a": "يحكي قصة فريق صائدو جوائز بيبوب في رحلة بحث عن المكافآت كمصدر للعيش في الفضاء"
-      },
-      {
-        "q": "ما هو نوع المخاطر التي يتعامل معها فريق صائدو جوائز بيبوب؟",
-        "a": "يتعامل مع المخاطر والغموض والفضائح في هذه الرحلة الاستكشافية"
+        "q": "من يصور طاقم سفينة بيباب؟",
+        "a": "يتضمن الطاقم القاتل المأجور السابق سبايك شبيغل، والشرطي السابق جيت بلاك، ومحتالة فاي فالنتاين التي فقدت ذاكرتها، وطفلة العبقرية إدوارد، وكلب كورغي ذكي آين.",
+        "q_en": "Who portrays the crew of the spaceship Bebop?",
+        "a_en": "The crew includes the former assassin Spike Spiegel, the former cop Jet Black, the amnesiac femme fatale Faye Valentine, the genius child Ed, and the intelligent and loyal dog Ein."
       }
-    ]
+    ],
+    "keywords": "كاوبوي بيباب, مسلسل رسوم متحركة, رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, غربي, مشاهدة كاوبوي بيباب, Cowboy Bebop مترجم, تحميل كاوبوي بيباب, كاوبوي بيباب اون لاين, Cowboy Bebop, كاوبوي بيباب جودة عالية, فيلم كاوبوي بيباب, Cowboy Bebop HD, كاوبوي بيباب HD"
   },
   "fixed": true,
-  "first_air_date": "1998-04-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "84 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Roy Scheider Helen Warren Robert Milli Margot Hartman Hugh Franklin"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Koichi Yamadera Unsho Ishizuka Megumi Hayashibara Aoi Tada",
+  "first_air_date": "1998-04-03"
 }

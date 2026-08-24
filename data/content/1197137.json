@@ -8,8 +8,8 @@
   "poster_path": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
   "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
   "release_date": "2025-10-15",
-  "vote_average": 6.7,
-  "vote_count": 1097,
+  "vote_average": 6.6,
+  "vote_count": 1292,
   "genres": [
     {
       "id": 27,
@@ -21,12 +21,35 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة فيلم الهاتف الأسود ٢ (2025) مترجم بجودة عالية على توميتو.",
     "desc_ar": "بعد أربع سنوات من هروبه من \"الخاطف\"، يواجه فيني بليك صعوبات في حياته بعد الأسر. عندما تبدأ أخته جوين في تلقي مكالمات في أحلامها من الهاتف الأسود وترى رؤى مزعجة لثلاثة فتيان يتعرضون للمطاردة في مخيم شتوي، يصمم الأخوان على حل اللغز ومواجهة قاتل أصبح أكثر قوة بعد موته وأكثر أهمية بالنسبة لهما مما يمكن أن يتخيل أي منهما.",
-    "desc_en": "بعد أربع سنوات من هروبه من \"الخاطف\"، يواجه فيني بليك صعوبات في حياته بعد الأسر. عندما تبدأ أخته جوين في تلقي مكالمات في أحلامها من الهاتف الأسود وترى رؤى مزعجة لثلاثة فتيان يتعرضون للمطاردة في مخيم شتوي، يصمم الأخوان على حل اللغز ومواجهة قاتل أصبح أكثر قوة بعد موته وأكثر أهمية بالنسبة لهما مما يمكن أن يتخيل أي منهما.",
-    "meta_desc": "مشاهدة الهاتف الأسود ٢ مترجم بجودة عالية على توميتو.",
-    "keywords": "Black Phone 2, الهاتف الأسود ٢ مترجم, أحداث الهاتف الأسود ٢ بالتفصيل, قصة فيلم الهاتف الأسود ٢, مشاهدة الهاتف الأسود ٢ 2026, توميتو الهاتف الأسود ٢",
-    "seo_title_ar": "مشاهدة الهاتف الأسود ٢ مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+    "seo_title_ar": "مشاهدة فيلم Black Phone 2 مترجم - توميتو",
+    "meta_desc": "مشاهدة الهاتف الأسود ٢ مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد الهاتف الأسود ٢ الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة فيلم الهاتف الأسود ٢?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Black Phone 2?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم الهاتف الأسود ٢?",
+        "a": "يندرج العمل تحت تصنيف رعب, إثارة.",
+        "q_en": "What is the genre of Black Phone 2?",
+        "a_en": "It falls under the genre of رعب, إثارة."
+      },
+      {
+        "q": "ما هي قصة فيلم الهاتف الأسود ٢?",
+        "a": "بعد أربع سنوات من هروبه من \"الخاطف\"، يواجه فيني بليك صعوبات في حياته بعد الأسر. عندما تبدأ أخته جوين في تلقي مكالمات في أحلامها من الهاتف الأسود وترى رؤى مزعجة لثلاثة فتيان يتعرضون للمطاردة في مخيم شت...",
+        "q_en": "What is the story of Black Phone 2?",
+        "a_en": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbi..."
+      }
+    ],
+    "keywords": "الهاتف الأسود ٢ مترجم, Black Phone 2 مترجم, مشاهدة الهاتف الأسود ٢,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +57,5 @@
   "duration": "114 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Ethan Hawke Mason Thames Madeleine McGraw Demián Bichir Miguel Mora"
+  "cast": "Mason Thames Madeleine McGraw Ethan Hawke Demián Bichir Miguel Mora Jeremy Davies Arianna Rivas Maev Beaty"
 }

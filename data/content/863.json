@@ -1,17 +1,15 @@
 {
   "id": 863,
-  "title": "حكاية لعبة 2",
-  "title_ar": "حكاية لعبة 2",
+  "title": "حكاية لعبة ٢",
+  "title_ar": "حكاية لعبة ٢",
   "title_en": "Toy Story 2",
   "slug": "863-toy-story-2",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "تحكي القصة عن المأمور وودي الذي يتعرض للإصابة كلعبة في بداية الفيلم فيتم ركنه على الرفّ ويجد صديقة القديم المريض بسبب الركنة ولما يحاول إنقاذه من البيع كروبابيكيا يقوم أحد المتجولين في معرض الروبابيكيا بسرقة المأمور وودي لأغراض ربحية وتدور القصة بعد ذلك حول محاولة أصدقاء المأمور وودي بقيادة باز يطير لاسترجاع صديقهم وإنقاذه إلى أنهم يجدوا الكثير من المفاجآت ولكنهم يعدوا في نهاية الفيلم وقد انضم إليهم صديقين جدد.",
+  "overview": "يتوجه \"آندي\" إلى مخيم رعاة البقر، تاركًا ألعابه تتدبر أمورها بنفسها. وتتسارع الأحداث عندما يختطف \"آل مكوِغن\"، وهو جامع مهووس بالألعاب ومالك متجر \"آل للألعاب\"، \"وودي\". فتطلق ألعاب \"آندي\" مهمة إنقاذ جريئة، ويلتقي \"باز لايتيير\" بمن يضاهيه، بينما يتعين على \"وودي\" أن يقرر أين ينتمي هو وقلبه حقًا.",
   "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
   "backdrop_path": "/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
   "release_date": "1999-10-30",
   "vote_average": 7.6,
-  "vote_count": 14869,
+  "vote_count": 15257,
   "genres": [
     {
       "id": 16,
@@ -27,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرسوم المتحركة، يتعرض المأمور وودي لخطر كبير عندما يسرق أحد المتجولين في معرض الروبابيكيا المأمور وودي لأغراض ربحية، ويبقى أصدقاء المأمور وودي بقيادة باز يطير لاسترجاع صديقهم وإنقاذه إلى أنهم يجدوا الكثير من المفاجآت، ولكنهم يعدوا في نهاية الفيلم وقد انضم إليهم صديقين جدد.",
-    "desc_en": "In the world of animation, Woody's fate is put in jeopardy when one of the toy fair's visitors steals him for financial gain, leaving his friends, led by Buzz, to embark on a thrilling adventure to rescue their beloved companion and uncover many surprises along the way, ultimately welcoming new friends into their fold.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في حكاية لعبة 2!",
-    "seo_title_ar": "مشاهدة فيلم حكاية لعبة 2 مترجم اون لاين - توميتو",
-    "keywords": "Toy Story 2, فيلم رسوم متحركة مترجم, مشاهدة فيلم كوميديا عائلي, توميتو حكاية لعبة 2, مشاهدة حكاية لعبة 2 1999, حكاية لعبة 2 مترجم, قصة فيلم حكاية لعبة 2, أحداث حكاية لعبة 2 بالتفصيل",
-    "opinion": "هو فيلم رائع يمتاز بروح الكوميديا والرسوم المتحركة، ويحكي قصة رائعة عن صداقة ووفاء، ويحولنا إلى عالم الرسوم المتحركة حيث نرى الأصدقاء يلدغون لإنقاذه من الأخط الذي يتعرض له المأمور وودي.",
+    "intro": "استمتع بمشاهدة فيلم حكاية لعبة ٢ (1999) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "يتوجه \"آندي\" إلى مخيم رعاة البقر، تاركًا ألعابه تتدبر أمورها بنفسها. وتتسارع الأحداث عندما يختطف \"آل مكوِغن\"، وهو جامع مهووس بالألعاب ومالك متجر \"آل للألعاب\"، \"وودي\". فتطلق ألعاب \"آندي\" مهمة إنقاذ جريئة، ويلتقي \"باز لايتيير\" بمن يضاهيه، بينما يتعين على \"وودي\" أن يقرر أين ينتمي هو وقلبه حقًا.",
+    "desc_en": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "seo_title_ar": "مشاهدة فيلم Toy Story 2 مترجم - توميتو",
+    "meta_desc": "مشاهدة حكاية لعبة ٢ مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد حكاية لعبة ٢ الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم حكاية لعبة 2؟",
-        "a": "هو فيلم رسوم متحركة كوميديا عائلي"
+        "q": "كيف يمكنني مشاهدة فيلم حكاية لعبة ٢?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Toy Story 2?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو موضوع فيلم حكاية لعبة 2؟",
-        "a": "القصة عن المأمور وودي الذي يتعرض للإصابة كلعبة في بداية الفيلم"
+        "q": "ما هو تصنيف فيلم حكاية لعبة ٢?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, كوميديا, عائلي.",
+        "q_en": "What is the genre of Toy Story 2?",
+        "a_en": "It falls under the genre of رسوم متحركة, كوميديا, عائلي."
       },
       {
-        "q": "ما هو النوع من الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
+        "q": "ما هي قصة فيلم حكاية لعبة ٢?",
+        "a": "يتوجه \"آندي\" إلى مخيم رعاة البقر، تاركًا ألعابه تتدبر أمورها بنفسها. وتتسارع الأحداث عندما يختطف \"آل مكوِغن\"، وهو جامع مهووس بالألعاب ومالك متجر \"آل للألعاب\"، \"وودي\". فتطلق ألعاب \"آندي\" مهمة إنقاذ جري...",
+        "q_en": "What is the story of Toy Story 2?",
+        "a_en": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys ..."
       }
-    ]
+    ],
+    "keywords": "حكاية لعبة ٢ مترجم, Toy Story 2 مترجم, مشاهدة حكاية لعبة ٢,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +61,5 @@
   "duration": "92 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Hanks Tim Allen Joan Cusack Kelsey Grammer Don Rickles"
+  "cast": "Tom Hanks Tim Allen Joan Cusack Kelsey Grammer Don Rickles Jim Varney Wallace Shawn John Ratzenberger"
 }

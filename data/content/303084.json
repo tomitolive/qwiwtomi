@@ -1,46 +1,55 @@
 {
   "id": 303084,
-  "title": "Deep In",
-  "title_ar": "Deep In",
-  "title_en": "Deep In",
-  "slug": "303084-deep-in",
-  "overview": "مسلسل \"في عمق\" و\"Deep In\" هو دراما رومانسية جريئة، حيث يصور الممثل الحائز على جائزة ونجم واعد فيلمًا رومانسيًا مثيرًا، وسرعان ما يجد كلاهما نفسهما في دوامة من المشاعر الحقيقية التي تتجاوز حدود التمثيل.",
+  "title": "Mane Aliya",
+  "title_ar": "Mane Aliya",
+  "title_en": "Mane Aliya",
+  "slug": "303084-mane-aliya",
+  "overview": "ماني علياء هو فيلم هندي من عام 1964، ويعتبر واحد من الأعمال الفنية المتميزة في تاريخ السينما الهندية. يروي الفيلم قصة محفزة ومليئة بالتشكيلة الفنية الرائعة. من خلال طاقم فني متميز، يظهر الفيلم من جديد بتجربة سينمائية رائعة.",
   "poster_path": "/thRM1CifElgrj3bThoMS8OF3p1Q.jpg",
-  "backdrop_path": "/8RUoesAKJIQjTZffFuVpd7QR1CS.jpg",
-  "release_date": "2026-06-26",
-  "vote_average": 9.6,
-  "vote_count": 5,
+  "backdrop_path": null,
+  "release_date": "1964-11-27",
+  "vote_average": 6.0,
+  "vote_count": 1,
   "genres": [
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
     {
       "id": 18,
       "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Deep In (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"في عمق\" و\"Deep In\" هو دراما رومانسية جريئة، حيث يصور الممثل الحائز على جائزة ونجم واعد فيلمًا رومانسيًا مثيرًا، وسرعان ما يجد كلاهما نفسهما في دوامة من المشاعر الحقيقية التي تتجاوز حدود التمثيل.",
-    "desc_en": "The series \"Deep In\" follows an award-winning actor and an ambitious newcomer as they film a daring romance movie, blurring the lines between acting and their genuine desires.",
-    "seo_title_ar": "مشاهدة مسلسل في عمق Deep In مترجم - توميتو",
-    "meta_desc": "مسلسل في عمق وDeep In يغوص في عالم الرومانسية الجريئة، حيث يصور الممثلون قصة حب ملتهبة تتجاوز حدود الشاشة.",
-    "outro": "شاهد Deep In الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"في عمق\" و\"Deep In\" يقدم قصة رومانسية جريئة ومثيرة، مع أداء مميز للممثلين، مما يجعل المشاهدين يتعلقون بقصة الحب هذه.",
-    "opinion_en": "The series \"Deep In\" offers a bold and captivating romance, with exceptional performances that draw viewers into this passionate story.",
+    "intro": "يحكي فيلم ماني علياء قصة منسية ومليئة بالتشكيلة الفنية الرائعة في تاريخ السينما الهندية.",
+    "desc_ar": "ماني علياء هو فيلم هندي من عام 1964، ويعتبر واحد من الأعمال الفنية المتميزة في تاريخ السينما الهندية. يروي الفيلم قصة محفزة ومليئة بالتشكيلة الفنية الرائعة. من خلال طاقم فني متميز، يظهر الفيلم من جديد بتجربة سينمائية رائعة.",
+    "desc_en": "Mane Aliya is a 1964 Indian Kannada-language film, directed by S. K. A. Chari and produced by A. V. Subba Rao. The film stars Kalyan Kumar, Jayalalitha, K. S. Ashwath and Balakrishna in the lead roles. The film has musical score by T. Chalapathi Rao. Year: 1964.",
+    "seo_title_ar": "مشاهدة فيلم ماني علياء مترجم - ماني علياء - توميتو",
+    "meta_desc": "شاهد فيلم ماني علياء 1964 مترجم اون لاين في جودة عالية وبدون اعلانات، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع",
+    "outro": "يعد ماني علياء من أروع الأعمال السينمائية التي تناولت موضوعات فنية رائعة في تاريخ السينما الهندية.",
+    "opinion_ar": "يعد ماني علياء من أروع الأعمال السينمائية التي تناولت موضوعات فنية رائعة في تاريخ السينما الهندية.",
+    "opinion_en": "Mane Aliya is a remarkable film that explores the artistic themes of Indian cinema.",
     "faq": [
       {
-        "q": "هل مسلسل \"في عمق\" و\"Deep In\" مبني على قصة حقيقية؟",
-        "a": "لا، إنه عمل خيالي من تأليف الكاتب المبدع [كاتب القصة].",
-        "q_en": "Is the series \"Deep In\" based on a true story?",
-        "a_en": "No, it's a fictional story written by the talented [writer's name]."
+        "q": "ما هو تاريخ إصدار فيلم ماني علياء؟",
+        "a": "تم إصدار فيلم ماني علياء في عام 1964.",
+        "q_en": "When was the film Mane Aliya released?",
+        "a_en": "The film Mane Aliya was released in 1964."
+      },
+      {
+        "q": "من أخراج فيلم ماني علياء؟",
+        "a": "تم إخراج فيلم ماني علياء من قبل س. ك. أ. تشاري.",
+        "q_en": "Who directed the film Mane Aliya?",
+        "a_en": "The film Mane Aliya was directed by S. K. A. Chari."
       }
     ],
-    "keywords": "في عمق, Deep In, مسلسل, دراما, رومانسية, فيلم, تمثيل, حب, شغف"
+    "keywords": "ماني علياء, فيلم هندي, دراما, عائلي, ك. إس. آشوات, بالاكريشنا, كاليان كومار, جايالاليتا, مشاهدة ماني علياء, Mane Aliya مترجم, تحميل ماني علياء, ماني علياء اون لاين, Mane Aliya, ماني علياء جودة عالية, فيلم ماني علياء"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "176 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "Ollie Zhang Shuyuan Yao Wang Li Dong Bai Yiru",
-  "first_air_date": "2026-06-26"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Kalyan Kumar J. Jayalalithaa K. S. Ashwath T. N. Balakrishna T. R. Narasimharaju Dikki Madhava Rao M. P. Shankar Comedian Guggu"
 }

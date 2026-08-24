@@ -4,14 +4,12 @@
   "title_ar": "مستشفى بيتسبرغ",
   "title_en": "The Pitt",
   "slug": "250307-the-pitt",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "الحياة اليومية لمقدمي الرعاية الصحية في مستشفى بيتسبرغ في بنسلفانيا صراع، فهم يحاولون التوفيق بين الأزمات الشخصية وسياسات مكان العمل وتكلفة علاج المرضى المصابين بأمراض خطيرة، مما يكشف عن المرونة المطلوبة في دعوتهم النبيلة.",
   "poster_path": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
   "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
   "release_date": "2025-01-09",
   "vote_average": 8.7,
-  "vote_count": 753,
+  "vote_count": 924,
   "genres": [
     {
       "id": 18,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مستشفى بيتسبرغ، مقدمي الرعاية الصحية يواجهون تحديات يومية في بنسلفانيا، حيث يتعارضون بين الأزمات الشخصية والسياسات المكانية والكلفة العلاجية المرضى المصابين بأمراض خطيرة، مما يظهر المرونة المطلوبة في دعوتهم النبيلة.",
-    "desc_en": "In the hospital, healthcare providers face daily challenges in Pennsylvania, where they must navigate between personal crises, workplace policies, and the high cost of treating patients with severe illnesses, revealing the resilience required in their noble calling.",
-    "meta_desc": "واش غيفلت؟ اكتشف سرعة الإثارة في مستشفى بيتسبرغ",
-    "seo_title_ar": "مشاهدة فيلم مستشفى بيتسبرغ مترجم اون لاين - توميتو",
-    "keywords": "The Pitt, فيلم دراما مستشفى بيتسبرغ مترجم, مشاهدة فيلم دراما مستشفى بيتسبرغ, قصة مسلسل مستشفى بيتسبرغ, توميتو مستشفى بيتسبرغ, أحداث مستشفى بيتسبرغ بالتفصيل, مستشفى بيتسبرغ مترجم كامل, مشاهدة مستشفى بيتسبرغ 2025",
-    "opinion": "هذا الفilm هو تحدياً لجميع مقدمي الرعاية الصحية، حيث يتعارضون بين الأزمات الشخصية والسياسات المكانية والكلفة العلاجية المرضى المصابين بأمراض خطيرة، مما يظهر المرونة المطلوبة في دعوتهم النبيلة.",
+    "intro": "يحكي هذا المسلسل قصة الأطباء والممرضين في مستشفى بيتسبرغ، حيث يتعاملون مع الأزمات اليومية في قسم الطوارئ المتسارع.",
+    "desc_ar": "يحكي هذا المسلسل قصة الأطباء والممرضين في مستشفى بيتسبرغ، حيث يتعاملون مع الأزمات اليومية في قسم الطوارئ المتسارع. يعمل أفراد طاقم المستشفى معاً للإنقاذ الحياة، بينما يحاولون التوفيق بين الأزمات الشخصية والسياسات المعمول بها في مكان العمل، وبالتالي يكشفون عن مرونة دعوتهم النبيلة. ويكشف المسلسل أيضاً عن تكلفة علاج المرضى المصابين بأمراض خطيرة، مما يسلط الضوء على الأزمات التي يواجهها أفراد الطاقم في هذا المكان.",
+    "desc_en": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department. They strive to balance their personal struggles with the hospital's policies, and in doing so, they demonstrate their noble calling. The series also highlights the high cost of treating patients with severe illnesses, shedding light on the challenges faced by the team in this place.",
+    "seo_title_ar": "مشاهدة مسلسل المستشفى البيتسبورجى مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا المسلسل الكلاسيكي حول الحياة اليومية لمقدمي الرعاية الصحية في مستشفى بيتسبرغ في بنسلفانيا، حيث يتعاملون مع الأزمات في قسم الطوارئ المتسا",
+    "outro": "يعد هذا المسلسل من بين أفضل المسلسلات التي تسلط الضوء على دور الأطباء والممرضين في مستشفى بيتسبرغ، حيث يتعاملون مع الأزمات في قسم الطوارئ المتسارع.",
+    "opinion_ar": "يعد هذا المسلسل من بين أفضل المسلسلات التي تسلط الضوء على دور الأطباء والممرضين في مستشفى بيتسبرغ، حيث يتعاملون مع الأزمات في قسم الطوارئ المتسارع.",
+    "opinion_en": "This series is one of the best that highlights the role of doctors and nurses at Pittsburgh's Trauma Medical Center, where they deal with emergencies in the overcrowded emergency department.",
     "faq": [
       {
-        "q": "ما هو مستشفى بيتسبرغ؟",
-        "a": "هو فيلم دراما يروي قصة مقدمي الرعاية الصحية في مستشفى بيتسبرغ في بنسلفانيا"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي هذا المسلسل قصة الأطباء والممرضين في مستشفى بيتسبرغ.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series tells the story of doctors and nurses at Pittsburgh's Trauma Medical Center."
       },
       {
-        "q": "ما هو نوع مستشفى بيتسبرغ؟",
-        "a": "هو فيلم دراما تلفزيوني"
-      },
-      {
-        "q": "ما هو المنجز في مستشفى بيتسبرغ؟",
-        "a": "المرونة المطلوبة في دعوتهم النبيلة"
+        "q": "ما هو اسم المسلسل باللغة العربية؟",
+        "a": "مستشفى بيتسبرغ.",
+        "q_en": "What is the Arabic title of the series?",
+        "a_en": "The Pitt."
       }
-    ]
+    ],
+    "keywords": "مستشفى بيتسبرغ, The Pitt, مسلسل, دراما, Pittsburgh Trauma Medical Center, مشاهدة مستشفى بيتسبرغ, The Pitt مترجم, تحميل مستشفى بيتسبرغ, مستشفى بيتسبرغ اون لاين, The Pitt online, مستشفى بيتسبرغ جودة عالية, فيلم مستشفى بيتسبرغ, The Pitt HD, مستشفى بيتسبرغ HD, مسلسل مستشفى بيتسبرغ"
   },
   "fixed": true,
-  "first_air_date": "2025-01-09",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "67 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Win Butler Régine Chassagne"
+  "cast": "Noah Wyle Patrick Ball Katherine LaNasa Supriya Ganesh Fiona Dourif Taylor Dearden Isa Briones Gerran Howell",
+  "first_air_date": "2025-01-09"
 }
