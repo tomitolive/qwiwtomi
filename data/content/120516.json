@@ -4,9 +4,7 @@
   "title_ar": "The Greatest Event in Television History",
   "title_en": "The Greatest Event in Television History",
   "slug": "120516-the-greatest-event-in-television-history",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة آدم سكوت الذي يحلم بتحقيق أعظم حدث في تاريخ التلفزيون، حيث يقوم بترميم بداية حلقات العروض التلفزيونية، ويحاول أن يصنع أجواء مختلفة ومرهبة، ويُظهر كيف يمكن أن يتحول العالم التلفزيوني إلى عالم رائع وملائم.",
   "poster_path": "/abiiLt0LCFItR6VPtn5MT3NwJKK.jpg",
   "backdrop_path": "/gqzbvkD5KEeyzLBCUoERtsnjNGt.jpg",
   "release_date": "2012-10-12",
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذه الحلقة الخاصة من البرنامج، شاهد كيف تجمّع المضطربون فيما بينهم لإنشاء أحداث إثارة في تاريخ التلفزيون، حيث يلعبون دوراً رئيسياً في هذه القصة المليئة بالكوميديا والمرح، والتي تتميز بالعديد من الأحداث المدهشة والقصص المليئة بالمرح.",
-    "desc_en": "In this special episode of the program, see how the troublemakers come together to create a thrilling event in television history, where they play a leading role in this comedy-filled story, which is characterized by many astonishing events and stories filled with laughter.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في تاريخ التلفزيون مع البرنامج الكوميدي!",
-    "seo_title_ar": "مشاهدة فيلم الأحداث الإثارة في تاريخ التلفزيون مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم كوميديا, توميتو The Greatest Event in Television History, مشاهدة The Greatest Event in Television History 2012, أحداث The Greatest Event in Television History بالتفصيل, قصة مسلسل The Greatest Event in Television History, The Greatest Event in Television History مترجم كامل",
-    "opinion": "هذه الحلقة الخاصة من البرنامج هي واحدة من أفضل ما شاهدته في هذا النوع من البرامج، حيث تتميز بالكوميديا والمرح والقصص المليئة بالمرح، والتي تتميز بالعديد من الأحداث المدهشة.",
+    "intro": "يحلم آدم سكوت بتحقيق أعظم حدث في تاريخ التلفزيون، ويحاول أن يصنع أجواء مختلفة ومرهبة.",
+    "desc_ar": "يحكي هذا المسلسل قصة آدم سكوت الذي يحلم بتحقيق أعظم حدث في تاريخ التلفزيون، حيث يقوم بترميم بداية حلقات العروض التلفزيونية، ويحاول أن يصنع أجواء مختلفة ومرهبة، ويُظهر كيف يمكن أن يتحول العالم التلفزيوني إلى عالم رائع وملائم.",
+    "desc_en": "Adam Scott is determined to make the greatest event in television history by remaking the opening sequences of TV shows, he tries to create a different and frightening atmosphere, and shows how the TV world can turn into a wonderful and suitable world.",
+    "seo_title_ar": "مشاهدة مسلسل أعظم حدث في تاريخ التلفزيون مترجم - توميتو",
+    "meta_desc": "أعظم حدث في تاريخ التلفزيون, مسلسل كوميدي, Adam Scott, تحقيق أعظم حدث, ترميم بداية حلقات العروض التلفزيونية, أجواء مختلفة, مرهبة, تحول العالم التلفزيوني, ع",
+    "outro": "هذا المسلسل الكوميدي يعجبني لطريقة تحليقه لأعظم حدث في تاريخ التلفزيون، وهو يحاول أن يصنع أجواء مختلفة ومرهبة.",
+    "opinion_ar": "هذا المسلسل الكوميدي يعجبني لطريقة تحليقه لأعظم حدث في تاريخ التلفزيون، وهو يحاول أن يصنع أجواء مختلفة ومرهبة.",
+    "opinion_en": "This comedy series is interesting because of its way of handling the greatest event in television history, it tries to create a different and frightening atmosphere.",
     "faq": [
       {
-        "q": "ما هو البرنامج؟",
-        "a": "هو برنامج كوميدي يلعب دوراً رئيسياً في تاريخ التلفزيون."
+        "q": "ما هي قصة المسلسل أعظم حدث في تاريخ التلفزيون؟",
+        "a": "يحكي المسلسل قصة آدم سكوت الذي يحلم بتحقيق أعظم حدث في تاريخ التلفزيون.",
+        "q_en": "What is the story of the series The Greatest Event in Television History?",
+        "a_en": "The series tells the story of Adam Scott who dreams of making the greatest event in television history."
       },
       {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "هو برنامج تلفزيوني كوميدي."
-      },
-      {
-        "q": "ما هو أفضل ما في البرنامج؟",
-        "a": "هو الكوميديا والمرح والقصص المليئة بالمرح."
+        "q": "ما هو نوع المسلسل أعظم حدث في تاريخ التلفزيون؟",
+        "a": "المسلسل من نوع كوميديا.",
+        "q_en": "What type of series is The Greatest Event in Television History?",
+        "a_en": "The series is a comedy."
       }
-    ]
+    ],
+    "keywords": "أعظم حدث في تاريخ التلفزيون, مسلسل كوميدي, Adam Scott, تحقيق أعظم حدث, ترميم بداية حلقات العروض التلفزيونية, أجواء مختلفة, مرهبة, تحول العالم التلفزيوني, عالم رائع, ملائم, أهم الأحداث, المسلسلات الكوميدية, أعظم حدث في التاريخ, عالم التلفزيون, العالم الكوميدي"
   },
   "fixed": true,
-  "first_air_date": "2012-10-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "15 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jeff Probst Amanda Anka",
+  "first_air_date": "2012-10-12"
 }

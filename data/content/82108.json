@@ -1,49 +1,53 @@
 {
   "id": 82108,
-  "title": "Celebrity Family Feud",
-  "title_ar": "Celebrity Family Feud",
-  "title_en": "Celebrity Family Feud",
-  "slug": "82108-celebrity-family-feud",
-  "overview": "تتنافس العائلات المشهورة ونجومها في برنامج \"عداء عائلة المشاهير\" ليكونوا الأفضل في الإجابة على أسئلة استقصائية طرحت على 100 شخص. يجمع البرنامج بين المتعة والتحدي، حيث يخوض المشاهير تجربة فريدة من نوعها. شاهد \"عداء عائلة المشاهير\"، المسلسل الذي يجمع بين الإثارة والمرح، واكتشف من سيحقق الفوز في هذه المنافسة الشرسة.",
+  "title": "A Midsummer Nights Dream",
+  "title_ar": "A Midsummer Nights Dream",
+  "title_en": "A Midsummer Nights Dream",
+  "slug": "82108-a-midsummer-nights-dream",
+  "overview": "يحكي فيلم حلم ليالي منتصف الصيف قصة رائعة عن أربع شبان أثينيين يهربون إلى الغابة بحثًا عن المتعة والاسترخاء، لكنهم يجدون أنفسهم مضطربين عندما يقعان في حب نفس الفتاة بسبب مساعدة العصافير الصغيرة بيك. يتسارع أربعتهم في مطاردة وراء بعضهم في الغابة، فيما يساعد بيك سيده في لعبة الخداع على الملكة العصافير. وفي النهاية، يلغي بيك السحر ويتمكن الزوجان من التواصل وتنكب على بعضهم.",
   "poster_path": "/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg",
-  "backdrop_path": "/zCHxV4Ldj4IwgzOITBQrKNnizru.jpg",
-  "release_date": "2015-06-21",
-  "vote_average": 7.6,
-  "vote_count": 44,
+  "backdrop_path": "/9ir2CCGyGE6ixE51fMnREMfaYj.jpg",
+  "release_date": "1981-12-13",
+  "vote_average": 5.5,
+  "vote_count": 4,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 14,
+      "name": "فانتازيا"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10770,
+      "name": "فيلم تلفازي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Celebrity Family Feud (2015) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تتنافس العائلات المشهورة ونجومها في برنامج \"عداء عائلة المشاهير\" ليكونوا الأفضل في الإجابة على أسئلة استقصائية طرحت على 100 شخص. يجمع البرنامج بين المتعة والتحدي، حيث يخوض المشاهير تجربة فريدة من نوعها. شاهد \"عداء عائلة المشاهير\"، المسلسل الذي يجمع بين الإثارة والمرح، واكتشف من سيحقق الفوز في هذه المنافسة الشرسة.",
-    "desc_en": "In Celebrity Family Feud, celebrities and their families go head-to-head in a battle to name the most popular responses to survey questions. With a mix of fun and competition, this series puts a unique twist on the classic game show. Watch Celebrity Family Feud, a thrilling and entertaining series, and see who will come out on top in this fierce rivalry.",
-    "seo_title_ar": "مشاهدة مسلسل عداء عائلة المشاهير Celebrity Family Feud مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل عداء عائلة المشاهير، حيث تتنافس العائلات المشهورة في منافسة شرسة للإجابة على أسئلة استقصائية. متعة وإثارة لا تنتهي في هذا البرنامج الممتع.",
-    "outro": "شاهد Celebrity Family Feud الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "برنامج \"عداء عائلة المشاهير\" يجمع بين المتعة والتحدي، ويوفر تجربة مشاهدة ممتعة ومثيرة. إنه برنامج ترفيهي ممتع يجمع بين نجومنا المفضلين وعائلاتهم في منافسة شيقة.",
-    "opinion_en": "Celebrity Family Feud is a fun and engaging show that offers an entertaining twist on the classic game show format. It's a great watch, bringing together our favorite celebrities and their families in a thrilling competition.",
+    "intro": "يحكي فيلم حلم ليالي منتصف الصيف قصة رائعة عن أربع شبان أثينيين يهربون إلى الغابة.",
+    "desc_ar": "يحكي فيلم حلم ليالي منتصف الصيف قصة رائعة عن أربع شبان أثينيين يهربون إلى الغابة بحثًا عن المتعة والاسترخاء، لكنهم يجدون أنفسهم مضطربين عندما يقعان في حب نفس الفتاة بسبب مساعدة العصافير الصغيرة بيك. يتسارع أربعتهم في مطاردة وراء بعضهم في الغابة، فيما يساعد بيك سيده في لعبة الخداع على الملكة العصافير. وفي النهاية، يلغي بيك السحر ويتمكن الزوجان من التواصل وتنكب على بعضهم.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words. Four Athenians run away to the forest only to have Puck the fairy make both of the boys fall in love with the same girl. The four run through the forest pursuing each other while Puck helps his master play a trick on the fairy queen. In the end, Puck reverses the magic, and the two couples reconcile and marry.",
+    "seo_title_ar": "مشاهدة فيلم حلم ليالي منتصف الصيف مترجم - توميتو",
+    "meta_desc": "حلم ليالي منتصف الصيف: فيلم فانتازيا كوميدي خيالي يروي قصة رومانسية في الغابة مع تأثيرات سحرية، يستمتع بتمثيل الفيلم بدون إعلانات مزعجة واستمتع بمشاهدة هذا",
+    "outro": "فيلم حلم ليالي منتصف الصيف هو فيلم فانتازيا كوميدي رائع يستحق المشاهدة، يستمتع بتمثيل الفيلم بدون إعلانات مزعجة واستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية.",
+    "opinion_ar": "حلم ليالي منتصف الصيف هو فيلم فانتازيا كوميدي رائع يجمع بين السحر والرومانسية، يستحق المشاهدة.",
+    "opinion_en": "A Midsummer Nights Dream is a great fantasy comedy film that combines magic and romance, worth watching.",
     "faq": [
       {
-        "q": "ما هو برنامج \"عداء عائلة المشاهير\"؟",
-        "a": "برنامج \"عداء عائلة المشاهير\" هو برنامج مسابقات ترفيهي يجمع بين العائلات المشهورة ونجومها في منافسة للإجابة على أسئلة استقصائية.",
-        "q_en": "What is Celebrity Family Feud?",
-        "a_en": "Celebrity Family Feud is an entertaining game show that pits celebrity families against each other in a contest to answer survey-type questions."
+        "q": "ما هو حلم ليالي منتصف الصيف؟",
+        "a": "فيلم فانتازيا كوميدي رائع يروي قصة رومانسية في الغابة مع تأثيرات سحرية.",
+        "q_en": "What is A Midsummer Nights Dream?",
+        "a_en": "A great fantasy comedy film that combines magic and romance, worth watching."
       }
     ],
-    "keywords": "عداء عائلة المشاهير, Celebrity Family Feud, مسابقات, منافسة, عائلات المشاهير, ترفيه, إثارة, متعة"
+    "keywords": "فيلم, حلم ليالي منتصف الصيف, فانتازيا, كوميديا, فيلم تلفازي, السحر, الرومانسية, الغابة, مشاهدة حلم ليالي منتصف الصيف, Midsummer Nights Dream مترجم, تحميل حلم ليالي منتصف الصيف, حلم ليالي منتصف الصيف اون لاين, Midsummer Nights Dream, حلم ليالي منتصف الصيف جودة عالية, فيلم حلم ليالي منتصف الصيف"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "42 دقيقة",
+  "duration": "112 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Steve Harvey",
-  "first_air_date": "2015-06-21",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "المملكة المتحدة",
+  "cast": "Phil Daniels Helen Mirren Brian Glover Nigel Davenport Estelle Kohler Hugh Quarshie Robert Lindsay Pippa Guard"
 }

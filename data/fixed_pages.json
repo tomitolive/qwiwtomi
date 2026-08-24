@@ -13721,8 +13721,164 @@
       "file": "95603.json",
       "title": "المؤسس عثمان",
       "fixed_at": "2026-08-24T19:05:53.436906"
+    },
+    {
+      "tmdb_id": "87513",
+      "file": "87513.json",
+      "title": "Motor City",
+      "fixed_at": "2026-08-24T19:10:39.300136"
+    },
+    {
+      "tmdb_id": "120516",
+      "file": "120516.json",
+      "title": "The Greatest Event in Television History",
+      "fixed_at": "2026-08-24T19:10:57.276599"
+    },
+    {
+      "tmdb_id": "72755",
+      "file": "72755.json",
+      "title": "Absentia",
+      "fixed_at": "2026-08-24T19:11:06.715367"
+    },
+    {
+      "tmdb_id": "18785",
+      "file": "18785.json",
+      "title": "The Hangover",
+      "fixed_at": "2026-08-24T19:11:18.024371"
+    },
+    {
+      "tmdb_id": "103516",
+      "file": "103516.json",
+      "title": "ستار تريك: عوالم جديدة غريبة",
+      "fixed_at": "2026-08-24T19:11:26.071471"
+    },
+    {
+      "tmdb_id": "1399",
+      "file": "1399.json",
+      "title": "لعبة العروش",
+      "fixed_at": "2026-08-24T19:12:16.601723"
+    },
+    {
+      "tmdb_id": "41411",
+      "file": "41411.json",
+      "title": "La Rafle",
+      "fixed_at": "2026-08-24T19:12:24.399612"
+    },
+    {
+      "tmdb_id": "80785",
+      "file": "80785.json",
+      "title": "Curral de Mulheres",
+      "fixed_at": "2026-08-24T19:12:32.826291"
+    },
+    {
+      "tmdb_id": "1427",
+      "file": "1427.json",
+      "title": "Perfume: The Story of a Murderer",
+      "fixed_at": "2026-08-24T19:12:43.224903"
+    },
+    {
+      "tmdb_id": "1339588",
+      "file": "1339588.json",
+      "title": "Finding Emily",
+      "fixed_at": "2026-08-24T19:13:07.676479"
+    },
+    {
+      "tmdb_id": "240641",
+      "file": "240641.json",
+      "title": "Nina the Starry Bride",
+      "fixed_at": "2026-08-24T19:13:35.237234"
+    },
+    {
+      "tmdb_id": "73375",
+      "file": "73375.json",
+      "title": "Tom Clancys Jack Ryan",
+      "fixed_at": "2026-08-24T19:13:43.604923"
+    },
+    {
+      "tmdb_id": "620",
+      "file": "620.json",
+      "title": "صائدو الأشباح",
+      "fixed_at": "2026-08-24T19:13:51.537090"
+    },
+    {
+      "tmdb_id": "4333",
+      "file": "4333.json",
+      "title": "The Saint",
+      "fixed_at": "2026-08-24T19:14:01.170422"
+    },
+    {
+      "tmdb_id": "4419",
+      "file": "4419.json",
+      "title": "وقت حقيقي مع بيل ماهر",
+      "fixed_at": "2026-08-24T19:14:09.281655"
+    },
+    {
+      "tmdb_id": "95717",
+      "file": "95717.json",
+      "title": "Someday or One Day",
+      "fixed_at": "2026-08-24T19:14:18.935436"
+    },
+    {
+      "tmdb_id": "1948",
+      "file": "1948.json",
+      "title": "كرانك",
+      "fixed_at": "2026-08-24T19:14:28.463208"
+    },
+    {
+      "tmdb_id": "71712",
+      "file": "71712.json",
+      "title": "الطبيب الطيب",
+      "fixed_at": "2026-08-24T19:14:36.501598"
+    },
+    {
+      "tmdb_id": "4660",
+      "file": "4660.json",
+      "title": "Adam-12",
+      "fixed_at": "2026-08-24T19:14:45.527102"
+    },
+    {
+      "tmdb_id": "82108",
+      "file": "82108.json",
+      "title": "Celebrity Family Feud",
+      "fixed_at": "2026-08-24T19:14:55.356015"
+    },
+    {
+      "tmdb_id": "40290",
+      "file": "40290.json",
+      "title": "MasterChef",
+      "fixed_at": "2026-08-24T19:15:04.315593"
+    },
+    {
+      "tmdb_id": "1300968",
+      "file": "1300968.json",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "fixed_at": "2026-08-24T19:15:15.802155"
+    },
+    {
+      "tmdb_id": "346810",
+      "file": "346810.json",
+      "title": "Le Petit Garon de lascenseur",
+      "fixed_at": "2026-08-24T19:15:23.243885"
+    },
+    {
+      "tmdb_id": "915935",
+      "file": "915935.json",
+      "title": "تشريح السقوط",
+      "fixed_at": "2026-08-24T19:15:30.556332"
+    },
+    {
+      "tmdb_id": "71971",
+      "file": "71971.json",
+      "title": "Detective Investigation Files",
+      "fixed_at": "2026-08-24T19:15:38.196759"
+    },
+    {
+      "tmdb_id": "1632181",
+      "file": "1632181.json",
+      "title": "Socias por accidente",
+      "fixed_at": "2026-08-24T19:15:46.363326"
     }
   ],
-  "last_updated": "2026-08-24T19:05:55.515562",
-  "total_fixed": 2287
+  "last_updated": "2026-08-24T19:15:48.518648",
+  "total_fixed": 2313
 }
