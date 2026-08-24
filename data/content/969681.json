@@ -1,17 +1,15 @@
 {
   "id": 969681,
-  "title": "الرجل العنكبوت: يوم جديد",
-  "title_ar": "الرجل العنكبوت: يوم جديد",
+  "title": "سبايدر-مان: يوم جديد",
+  "title_ar": "سبايدر-مان: يوم جديد",
   "title_en": "Spider-Man: Brand New Day",
   "slug": "969681-spider-man-brand-new-day",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "مرت أربع سنوات منذ أحداث No Way Home، وأصبح بيتر الآن شابًا بالغًا يعيش وحيدًا تمامًا، بعدما اختار بإرادته أن يمحو نفسه من حياة وذكريات الأشخاص الذين يحبهم.  وأثناء محاربته للجريمة في نيويورك التي لم تعد تعرف اسمه، كرّس نفسه بالكامل لحماية مدينته كـ سبايدرمان متفرغ. لكن مع تزايد الضغوط والمسؤوليات عليه، يؤدي ذلك إلى تطور جسدي مفاجئ يهدد وجوده نفسه، في الوقت الذي يؤدي فيه نمط غريب جديد من الجرائم إلى ظهور أحد أقوى التهديدات التي واجهها على الإطلاق.",
+  "overview": "بينما يواصل \"بيتر باركر\" حماية المدينة بصفته \"الرجل العنكبوت\" في عالمٍ لم يعد يتذكره أحد، يجد نفسه وحيدًا وهو يشاهد أصدقاءه القدامى يمضون في حياتهم من دونه. ومع تصاعد الضغوط، يبدأ بالتغير بطريقة قد تعجز قواه عن كبحها. لكن هذا التحول قد يكون أمله الوحيد لمواجهة تهديدٍ غامض وخطير يلوح في الأفق، عدو يمتلك قوة مرعبة لا يستطيع أحد حتى رؤيته، ويهدد المدينة وكل من يهتم \"بيتر\" لأمرهم.",
   "poster_path": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-  "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+  "backdrop_path": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
   "release_date": "2026-07-29",
-  "vote_average": 7,
-  "vote_count": 10,
+  "vote_average": 7.9,
+  "vote_count": 2117,
   "genres": [
     {
       "id": 878,
@@ -27,32 +25,41 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أربع سنوات من أحداث «لا طريق المنزل»، يجد بيتر نفسه شابًا بالغًا يعيش وحيدًا تمامًا، بعدما اختار أن يمحو نفسه من حياة وذكريات الأشخاص الذين يحبهم. في هذه الأثناء، يبدأ في محاربة الجريمة في نيويورك التي لم تعد تعرف اسمه، ويقوم بالكامل لحماية مدينته كـ سبايدرمان متفرغ.",
-    "desc_en": "After four years of events in 'No Way Home', Peter finds himself a grown man living alone, having chosen to erase himself from the lives and memories of the people he loves. Meanwhile, he begins to fight crime in New York City, which no longer knows his name, and dedicates himself fully to protecting his home as Spider-Man.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الرجل العنكبوت: يوم جديد!",
-    "seo_title_ar": "مشاهدة فيلم الرجل العنكبوت: يوم جديد مترجم اون لاين - توميتو",
-    "keywords": "Spider-Man: Brand New Day, فيلم الرجل العنكبوت مترجم, مشاهدة فيلم الرجل العنكبوت, أحداث الرجل العنكبوت: يوم جديد بالتفصيل, قصة فيلم الرجل العنكبوت: يوم جديد, مشاهدة الرجل العنكبوت: يوم جديد 2026, توميتو الرجل العنكبوت: يوم جديد, الرجل العنكبوت: يوم جديد مترجم",
-    "opinion": "رجل العنكبوت: يوم جديد، فيلم رائع يخطف الأنفاس، مع قصة غامضة وحركة سريعة، يخدعك تماماً.",
+    "intro": "استمتع بمشاهدة فيلم سبايدر-مان: يوم جديد (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "بينما يواصل \"بيتر باركر\" حماية المدينة بصفته \"الرجل العنكبوت\" في عالمٍ لم يعد يتذكره أحد، يجد نفسه وحيدًا وهو يشاهد أصدقاءه القدامى يمضون في حياتهم من دونه. ومع تصاعد الضغوط، يبدأ بالتغير بطريقة قد تعجز قواه عن كبحها. لكن هذا التحول قد يكون أمله الوحيد لمواجهة تهديدٍ غامض وخطير يلوح في الأفق، عدو يمتلك قوة مرعبة لا يستطيع أحد حتى رؤيته، ويهدد المدينة وكل من يهتم \"بيتر\" لأمرهم.",
+    "desc_en": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "seo_title_ar": "مشاهدة فيلم Spider-Man: Brand New Day مترجم - توميتو",
+    "meta_desc": "مشاهدة سبايدر-مان: يوم جديد مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة",
+    "outro": "شاهد سبايدر-مان: يوم جديد الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو الرجل العنكبوت؟",
-        "a": "رجل العنكبوت هو شخصية خيالية تتميز بسرعته و قوته و قدرتها على القفز."
+        "q": "كيف يمكنني مشاهدة فيلم سبايدر-مان: يوم جديد?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Spider-Man: Brand New Day?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو يوم جديد في الرجل العنكبوت؟",
-        "a": "يوم جديد هو مرحلة جديدة في حياة الرجل العنكبوت، حيث يجد نفسه في معركة جديدة ضد الجريمة."
+        "q": "ما هو تصنيف فيلم سبايدر-مان: يوم جديد?",
+        "a": "يندرج العمل تحت تصنيف خيال علمي, حركة, مغامرة.",
+        "q_en": "What is the genre of Spider-Man: Brand New Day?",
+        "a_en": "It falls under the genre of خيال علمي, حركة, مغامرة."
       },
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "الفيلم هو فيلم خيال علمي وحركة و مغامرة"
+        "q": "ما هي قصة فيلم سبايدر-مان: يوم جديد?",
+        "a": "بينما يواصل \"بيتر باركر\" حماية المدينة بصفته \"الرجل العنكبوت\" في عالمٍ لم يعد يتذكره أحد، يجد نفسه وحيدًا وهو يشاهد أصدقاءه القدامى يمضون في حياتهم من دونه. ومع تصاعد الضغوط، يبدأ بالتغير بطريقة قد تع...",
+        "q_en": "What is the story of Spider-Man: Brand New Day?",
+        "a_en": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to ..."
       }
-    ]
+    ],
+    "keywords": "سبايدر-مان: يوم جديد مترجم, Spider-Man: Brand New Day مترجم, مشاهدة سبايدر-مان: يوم جديد,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
+  "duration": "150 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Holland Zendaya Sadie Sink Jacob Batalon Jon Bernthal"
+  "cast": "Tom Holland Zendaya Mark Ruffalo Jon Bernthal Jacob Batalon Sadie Sink Florence Pugh Liza Colón-Zayas"
 }

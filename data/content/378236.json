@@ -9,7 +9,7 @@
   "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
   "release_date": "2017-07-23",
   "vote_average": 5.4,
-  "vote_count": 3318,
+  "vote_count": 3375,
   "genres": [
     {
       "id": 16,
@@ -25,12 +25,35 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة فيلم العالم السري للإيموجي (2017) مترجم بجودة عالية على توميتو.",
     "desc_ar": "يُظهر كلّ رمز من الرموز التعبيريّة في \"درداشيا\" عاطفة واحدة فقط، ولكن تبرز مشكلة حين يُظهر \"جين\" تعبيرات متعدّدة! والحلّ أن يصبح \"طبيعيًّا\".",
-    "desc_en": "يُظهر كلّ رمز من الرموز التعبيريّة في \"درداشيا\" عاطفة واحدة فقط، ولكن تبرز مشكلة حين يُظهر \"جين\" تعبيرات متعدّدة! والحلّ أن يصبح \"طبيعيًّا\".",
-    "meta_desc": "مشاهدة العالم السري للإيموجي مترجم بجودة عالية على توميتو.",
-    "keywords": "The Emoji Movie, العالم السري للإيموجي مترجم, أحداث العالم السري للإيموجي بالتفصيل, توميتو العالم السري للإيموجي, قصة فيلم العالم السري للإيموجي, مشاهدة العالم السري للإيموجي 2026",
-    "seo_title_ar": "مشاهدة العالم السري للإيموجي مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+    "seo_title_ar": "مشاهدة فيلم The Emoji Movie مترجم - توميتو",
+    "meta_desc": "مشاهدة العالم السري للإيموجي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعج",
+    "outro": "شاهد العالم السري للإيموجي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة فيلم العالم السري للإيموجي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Emoji Movie?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم العالم السري للإيموجي?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة, عائلي, كوميديا.",
+        "q_en": "What is the genre of The Emoji Movie?",
+        "a_en": "It falls under the genre of رسوم متحركة, عائلي, كوميديا."
+      },
+      {
+        "q": "ما هي قصة فيلم العالم السري للإيموجي?",
+        "a": "يُظهر كلّ رمز من الرموز التعبيريّة في \"درداشيا\" عاطفة واحدة فقط، ولكن تبرز مشكلة حين يُظهر \"جين\" تعبيرات متعدّدة! والحلّ أن يصبح \"طبيعيًّا\".",
+        "q_en": "What is the story of The Emoji Movie?",
+        "a_en": "Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji."
+      }
+    ],
+    "keywords": "العالم السري للإيموجي مترجم, The Emoji Movie مترجم, مشاهدة العالم السري للإيموجي,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -38,5 +61,5 @@
   "duration": "86 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "T.J. Miller James Corden Anna Faris Maya Rudolph Steven Wright"
+  "cast": "T.J. Miller James Corden Anna Faris Maya Rudolph Steven Wright Jennifer Coolidge Jake T. Austin Christina Aguilera"
 }

@@ -8,13 +8,9 @@
   "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
   "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
   "release_date": "2024-06-20",
-  "vote_average": 7,
-  "vote_count": 3196,
+  "vote_average": 7.0,
+  "vote_count": 3330,
   "genres": [
-    {
-      "id": 28,
-      "name": "حركة"
-    },
     {
       "id": 16,
       "name": "رسوم متحركة"
@@ -24,35 +20,42 @@
       "name": "كوميديا"
     },
     {
-      "id": 10751,
-      "name": "عائلي"
+      "id": 28,
+      "name": "حركة"
     },
     {
       "id": 878,
       "name": "خيال علمي"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالتension والمرحلة، يصاب (جرو) بالقلق عندما ينجب زوجته لطفلهما الأول، في نفس الوقت الذي يهرب فيه المجرم (ماكسيم لو مال)، الذي يقرر الانتقام من عدوه اللدود (جرو). سوف نرى كيف يتعامل (جرو) مع هذه التحديات العائلية، وكم سيأخذ من قوة لصدق منافسيه؟",
-    "desc_en": "In a world full of tension and drama, Gru is filled with anxiety when his wife gives birth to their first child, at the same time that the villainous Maximilien is escaping, who decides to take revenge on his archenemy Gru. We will see how Gru deals with these family challenges, and how much strength he will take to defeat his enemies?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الحقير أنا 4 مترجم اون لاين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الحقير أنا 4 مترجم اون لاين - توميتو",
-    "keywords": "Despicable Me 4, فيلم الحقير أنا 4 مترجم, مشاهدة فيلم الحقير أنا 4, أحداث الحقير أنا 4 بالتفصيل, قصة فيلم الحقير أنا 4, توميتو الحقير أنا 4, الحقير أنا 4 مترجم, مشاهدة الحقير أنا 4 2024",
-    "opinion": "هو فيلم رائع، مليء بالمرحلة والتهديدات، ولكن في النهاية، ينجح الحقير في تحقيق النجاح والسلام في عائلته",
+    "intro": "يحكي هذا العمل قصة بطل خارق يمر بمرحلة جديدة في حياته العائلية.",
+    "desc_ar": "يحكي هذا العمل قصة بطل خارق يمر بمرحلة جديدة في حياته العائلية، حيث ينجب زوجته لطفلهما الأول، مما يؤدي إلى تحديات جديدة في العائلة. في نفس الوقت، يقرر المجرم (ماكسيم لو مال) الانتقام من عدوه اللدود، مما يضطر العائلة إلى الفرار من أعدائها. هذا العمل يروي قصة حب والعائلة، مع تواجد للكوميديا والحركة في نفس الوقت.",
+    "desc_en": "Gru and his family, including his wife Lucy and their daughters Margo, Edith, and Agnes, welcome a new member to their family, Gru Jr. This young boy is intent on tormenting his dad, causing chaos and excitement in the household. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "seo_title_ar": "مشاهدة فيلم الحقير أنا 4 مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الحقير أنا 4 2024 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. فيلم رسوم متحركة وكوميديا وحركة وخيال علمي وعائلي يروي قصة بطل خارق",
+    "outro": "هذا العمل يُعد تجربة رائعة للعائلات، حيث يجمع بين الكوميديا والحركة والرسوم المتحركة بشكل جميل.",
+    "opinion_ar": "فيلم \"الحقير أنا 4\" يُعد تجربة رائعة للعائلات، حيث يجمع بين الكوميديا والحركة والرسوم المتحركة بشكل جميل.",
+    "opinion_en": "Despicable Me 4 is a fun and exciting film that is perfect for families, combining comedy, action, and animation in a great way.",
     "faq": [
       {
-        "q": "ما هو فيلم الحقير أنا 4؟",
-        "a": "هو فيلم رسوم متحركة كوميديا حركة عائلي خيال علمي"
+        "q": "ما هو عنوان فيلم \"الحقير أنا 4\"؟",
+        "a": "عنوان فيلم \"الحقير أنا 4\" هو \"الحقير أنا 4\".",
+        "q_en": "What is the title of the film \"Despicable Me 4\"?",
+        "a_en": "The title of the film \"Despicable Me 4\" is \"Despicable Me 4\"."
       },
       {
-        "q": "ما هو موضوع فيلم الحقير أنا 4؟",
-        "a": "يحكي قصة الحقير الذي يتعامل مع التحديات العائلية بعد إنجاب زوجته لطفلهما الأول"
-      },
-      {
-        "q": "ما هو نوع فيلم الحقير أنا 4؟",
-        "a": "هو فيلم رسوم متحركة كوميديا حركة عائلي خيال علمي"
+        "q": "متى صدر فيلم \"الحقير أنا 4\"؟",
+        "a": "صدر فيلم \"الحقير أنا 4\" في عام 2024.",
+        "q_en": "When was the film \"Despicable Me 4\" released?",
+        "a_en": "The film \"Despicable Me 4\" was released in 2024."
       }
-    ]
+    ],
+    "keywords": "فيلم رسوم متحركة, فيلم كوميديا, فيلم حركة, فيلم خيال علمي, فيلم عائلي, الحقير أنا 4, Despicable Me 4, 2024, مشاهدة الحقير أنا 4, Despicable Me 4 مترجم, تحميل الحقير أنا 4, الحقير أنا 4 اون لاين, الحقير أنا 4 جودة عالية, فيلم الحقير أنا 4, Despicable Me 4 online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -60,5 +63,5 @@
   "duration": "94 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Steve Carell Kristen Wiig Will Ferrell Sofía Vergara Miranda Cosgrove"
+  "cast": "Steve Carell Kristen Wiig Will Ferrell Sofía Vergara Miranda Cosgrove Dana Gaier Ellis Madison Polan Pierre Coffin"
 }

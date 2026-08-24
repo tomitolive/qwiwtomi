@@ -1,15 +1,15 @@
 {
   "id": 228791,
-  "title": "Betrayal",
-  "title_ar": "Betrayal",
-  "title_en": "Betrayal",
-  "slug": "228791-betrayal",
-  "overview": "مسلسل \"خيانة\"، أو \"Betrayal\"، هو سلسلة وثائقية تسلط الضوء على قصص واقعية مؤلمة لخيانات مدمرة. يغوص المسلسل في العلاقات الخادعة التي تحطم حياة الأفراد، محذرًا من عواقب الخيانة. \"خيانة\"، أو \"Betrayal\"، هو مسلسل وثائقي مثير لعام 2023.",
+  "title": "Golf",
+  "title_ar": "Golf",
+  "title_en": "Golf",
+  "slug": "228791-golf",
+  "overview": "يحكي فيلم Golf قصة عن قرد طريفة يسمى جيري، يذهب إلى الحدائق الجولفية، ويحمل حقيبة بأدوات الجولف على ظهره. يلتقي جيري ببائع كارتون يسمى سيد، ويبدأ سيد في فهم مواعيد جيري، ويتساءل سيد عن طبيعة الجولف التي يمارسها جيري. يقول جيري إن لديه جولف خاص به، ويحمل يحمل الرموز AO وFB، ويبدو أن هذا هو ما يعني Ancient Order Froth Blowers. يصادف سيد هذه الحقيقة، ويحذر جيري من ال19 ثانية، ويبدو جيري غير متأكد من هذه العبارة.",
   "poster_path": "/sFPgHRfA95VwK43vwkNznaLYlMo.jpg",
-  "backdrop_path": "/8Z944MC7da5rJP7zSUhHlrjy4lv.jpg",
-  "release_date": "2023-07-11",
-  "vote_average": 6.2,
-  "vote_count": 9,
+  "backdrop_path": null,
+  "release_date": "1926-10-18",
+  "vote_average": 9.0,
+  "vote_count": 1,
   "genres": [
     {
       "id": 99,
@@ -21,33 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Betrayal (2023) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"خيانة\"، أو \"Betrayal\"، هو سلسلة وثائقية تسلط الضوء على قصص واقعية مؤلمة لخيانات مدمرة. يغوص المسلسل في العلاقات الخادعة التي تحطم حياة الأفراد، محذرًا من عواقب الخيانة. \"خيانة\"، أو \"Betrayal\"، هو مسلسل وثائقي مثير لعام 2023.",
-    "desc_en": "Betrayal, a 2023 documentary series, delves into real-life tales of deceit. It explores the destructive power of betrayal in relationships, offering cautionary stories. Betrayal uncovers the dark side of trust.",
-    "seo_title_ar": "مشاهدة مسلسل خيانة Betrayal مترجم - توميتو",
-    "meta_desc": "مشاهدة خيانة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Betrayal الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"خيانة\"، أو \"Betrayal\"، هو عمل وثائقي مثير يسلط الضوء على جانب مظلم من العلاقات. إنه يجعلك تفكر مرتين في الثقة.",
-    "opinion_en": "Betrayal is a captivating documentary series that sheds light on the dark side of relationships. It's a thought-provoking watch that leaves a lasting impression.",
+    "intro": "يحكي فيلم Golf قصة عن قرد طريفة يذهب إلى الحدائق الجولفية. يبدأ سيد في فهم مواعيد جيري، ويتساءل سيد عن طبيعة الجولف التي يمارسها جيري.",
+    "desc_ar": "يحكي فيلم Golf قصة عن قرد طريفة يسمى جيري، يذهب إلى الحدائق الجولفية، ويحمل حقيبة بأدوات الجولف على ظهره. يلتقي جيري ببائع كارتون يسمى سيد، ويبدأ سيد في فهم مواعيد جيري، ويتساءل سيد عن طبيعة الجولف التي يمارسها جيري. يقول جيري إن لديه جولف خاص به، ويحمل يحمل الرموز AO وFB، ويبدو أن هذا هو ما يعني Ancient Order Froth Blowers. يصادف سيد هذه الحقيقة، ويحذر جيري من ال19 ثانية، ويبدو جيري غير متأكد من هذه العبارة.",
+    "desc_en": "Golf is a story about a troublesome tyke named Jerry, who goes to the golf course, carrying a bag of golf clubs on his back. Jerry meets a cartoon seller named Sid, and Sid starts to understand Jerry's golf plans, wondering what kind of golf Jerry is playing. Jerry says he has his own golf, holding a cufflink with the initials AO and FB, which seems to be the Ancient Order of Froth Blowers. Sid is surprised by this fact, and warns Jerry about the 19th hole.",
+    "seo_title_ar": "مشاهدة فيلم Golf مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Golf مترجم مع ترجمة احترافية وبدون إعلانات مزعجة. يحكي هذا العمل قصة عن قرد طريفة يذهب إلى الحدائق الجولفية. يبدأ سيد في فهم مواعيد جيري، ويتساء",
+    "outro": "يعد فيلم Golf تجربة مشاهدة ممتعة، مع شخصيات محببة وواقعية، وتصميمات جميلة.",
+    "opinion_ar": "يبدو أن فيلم Golf هو عمل فني رائع، مع شخصيات محببة وواقعية. يتميز الفيلم بجو حاد، ومواقف مضحكة، وتصميمات جميلة. يعد فيلم Golf تجربة مشاهدة ممتعة.",
+    "opinion_en": "Golf is a great film, with lovable and realistic characters. The film has a sharp tone, funny situations, and beautiful designs. Golf is an enjoyable viewing experience.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل خيانة؟",
-        "a": "يستكشف مسلسل \"خيانة\" قصص الخيانة في العلاقات الحقيقية وكيف يمكن أن تدمر حياة الأفراد.",
-        "q_en": "What is the theme of Betrayal?",
-        "a_en": "Betrayal delves into real-life stories of betrayal in relationships and how it can shatter lives."
+        "q": "ما هو فيلم Golf؟",
+        "a": "يحكي فيلم Golf قصة عن قرد طريفة يذهب إلى الحدائق الجولفية.",
+        "q_en": "What is Golf?",
+        "a_en": "Golf is a story about a troublesome tyke named Jerry, who goes to the golf course."
+      },
+      {
+        "q": "ما هو قرد Jerry؟",
+        "a": "يحمل قرد Jerry حقيبة بأدوات الجولف على ظهره.",
+        "q_en": "What is Jerry?",
+        "a_en": "Jerry is a cartoon dog who carries a bag of golf clubs on his back."
       }
     ],
-    "keywords": "خيانة, Betrayal, وثائقي, جريمة, علاقات, خادعة, ثقة, تدمير, 2023"
+    "keywords": "فيلم Golf, جريمة, وثائقي, قرد طريفة, جولف, Ancient Order Froth Blowers, مشاهدة Golf, Golf مترجم, تحميل Golf, Golf اون لاين, Golf, Golf جودة عالية, Golf HD, مسلسل Golf, Golf مشاهدة"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "",
-  "first_air_date": "2023-07-11",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": ""
 }

@@ -6,10 +6,10 @@
   "slug": "1171145-crime-101",
   "overview": "بينما يخطط لص غامض لسرقة العمر الكبرى على طريق 101 السريع الشهير في لوس أنجلوس لتكون عمليته الأخيرة، تتعقد خيوط اللعبة حين تتقاطع طرقه مع وسيطة تأمين تواجه أزمتها الخاصة. وفي ظل مطاردة شرسة من محقق لا يرحم، يجد الجميع أنفسهم في سباق مع الزمن، حيث الخطأ الواحد يعني النهاية، والقاعدة الأولى هي: احرص دائماً على وجود مخرج.",
   "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-  "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+  "backdrop_path": "/zvGMwQ1mAFrxSzzMFT9WMEl6hxB.jpg",
   "release_date": "2026-02-11",
-  "vote_average": 7,
-  "vote_count": 994,
+  "vote_average": 7.0,
+  "vote_count": 1300,
   "genres": [
     {
       "id": 80,
@@ -21,26 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجريمة، يلعب المخترقون دوراً رئيسياً في-game، ولكن عندما يلتقي المخترقون بمن يلعب دوراً آخر، يصبح كل شيء معقولاً. في لوس أنجلوس، يخطط لص غامض لسرقة العمر الكبرى على طريق 101 السريع الشهير، ولكن خيوط اللعبة تتعقد حين تتقاطع طرقه مع وسيطة تأمين تواجه أزمتها الخاصة. في ظل مطاردة شرسة من محقق لا يرحم، يجد الجميع أنفسهم في سباق مع الزمن، حيث الخطأ الواحد يعني النهاية، والقاعدة الأولى هي: احرص دائماً على وجود مخرج.",
-    "desc_en": "In the world of crime, the con artists play a leading role, but when the con artists meet someone who plays another role, everything becomes complicated. In Los Angeles, a mysterious thief plans to steal the big score on the famous Route 101, but the game's threads become tangled when his paths cross with a security guard who faces her own problems. Under a ruthless pursuit by a detective who doesn't spare anyone, everyone finds themselves in a race against time, where one mistake means the end, and the first rule is: always be prepared to have an exit.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الجريمة 101!",
-    "seo_title_ar": "مشاهدة فيلم الجريمة 101 مترجم اون لاين - توميتو",
-    "keywords": "Crime 101, فيلم الجريمة 101 مترجم, مشاهدة فيلم الجريمة 101, قصة فيلم الجريمة 101, مشاهدة الجريمة 101 2026, الجريمة 101 مترجم, أحداث الجريمة 101 بالتفصيل, توميتو الجريمة 101",
-    "opinion": "هو فيلم جريمة ممتاز، مليء بالتension والتشويق. يلعب المخرج دوراً رائعاً في إخراج الفيلم، ويجعلنا نرى كل شيء من خلال عيون الشخصيات. في النهاية، هو فيلم جريمة رائع يلقي بالك على رأسك!",
+    "intro": "في عالم مليء بالجريمة والخداع، يجد المحققين أنفسهم في سباق مع الزمن، حيث الخطأ الواحد يعني النهاية.",
+    "desc_ar": "يحكي فيلم الجريمة 101 قصة لص غامض يسعى لسرقة العمر الكبرى على طريق 101 السريع في لوس أنجلوس، ولكن خيوط اللعبة تتزعزع عندما يتعرف على وسيطة تأمين تواجه أزمتها الخاصة، ويتعقد الصراع مع محقق لا يرحم، ويبدو أن الجميع يتنافس على الحصول على المفتاح الصحيح، حيث الخطأ الواحد يعني النهاية، والقاعدة الأولى هي: احرص دائماً على وجود مخرج.",
+    "desc_en": "Crime 101 unfolds the story of an elusive thief who eyes the score of a lifetime by pulling off a high-stakes heist along the iconic 101 freeway in Los Angeles. However, the plot thickens when his path collides with a disillusioned insurance broker who is facing her own crossroads. As the stakes rise, a relentless detective closes in on the operation, leaving everyone racing against time to crack the case and escape unscathed.",
+    "seo_title_ar": "مشاهدة الجريمة 101 مترجم - فيلم جريمة وإثارة من عام 2026 على توميتو",
+    "meta_desc": "شاهد فيلم الجريمة 101 مترجم على توميتو - فيلم جريمة وإثارة من عام 2026، حيث يتعرض المحققين لمحاربة السارق الغامض، ويبدو أن الخطأ الواحد يعني النهاية، والقا",
+    "outro": "يعد فيلم الجريمة 101 تجربة مشاهدة مثيرة، حيث يتعرض المشاهد لمحاربة السارق الغامض وتنافس المحققين على الحصول على المفتاح الصحيح.",
+    "opinion_ar": "يعد فيلم الجريمة 101 تجربة مشاهدة مثيرة، حيث يتعرض المشاهد لمحاربة السارق الغامض وتنافس المحققين على الحصول على المفتاح الصحيح.",
+    "opinion_en": "Crime 101 is an electrifying watch, as the audience is taken on a thrilling ride of cat-and-mouse between the elusive thief and the relentless detective.",
     "faq": [
       {
-        "q": "ما هو فيلم الجريمة 101؟",
-        "a": "هو فيلم جريمة أمريكي يلعب دوراً رئيسياً في عالم الجريمة."
+        "q": "ما هو اسم فيلم الجريمة 101؟",
+        "a": "اسم الفيلم هو الجريمة 101.",
+        "q_en": "What is the title of the film Crime 101?",
+        "a_en": "The title of the film is Crime 101."
       },
       {
-        "q": "ما هو نوع فيلم الجريمة 101؟",
-        "a": "هو فيلم جريمة إثارة يلعب دوراً رئيسياً في عالم الجريمة."
-      },
-      {
-        "q": "ما هو المخرج من فيلم الجريمة 101؟",
-        "a": "هو المخرج [المخرج]، الذي يلعب دوراً رائعاً في إخراج الفيلم."
+        "q": "من بطولة فيلم الجريمة 101؟",
+        "a": "البطولة غير معروفة.",
+        "q_en": "Who stars in the film Crime 101?",
+        "a_en": "The cast is unknown."
       }
-    ]
+    ],
+    "keywords": "الجريمة, الإثارة, فيلم, 2026, لوس أنجلوس, الطريق 101, السارق الغامض, المحقق, المفتاح الصحيح, النهاية, المخرج, مشاهدة الجريمة 101, Crime 101 مترجم, تحميل الجريمة 101, الجريمة 101 اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +51,5 @@
   "duration": "141 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Chris Hemsworth Mark Ruffalo Halle Berry Barry Keoghan Monica Barbaro"
+  "cast": "Chris Hemsworth Mark Ruffalo Halle Berry Barry Keoghan Monica Barbaro Nick Nolte Corey Hawkins Jennifer Jason Leigh"
 }
