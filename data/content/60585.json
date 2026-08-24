@@ -4,14 +4,12 @@
   "title_ar": "بوش",
   "title_en": "Bosch",
   "slug": "60585-bosch",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
   "poster_path": "/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
   "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
   "release_date": "2015-01-14",
   "vote_average": 7.9,
-  "vote_count": 718,
+  "vote_count": 749,
   "genres": [
     {
       "id": 9648,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش، الذي يتصف بالشخصية الفنية تيتوس ويليفر. يحقق بوش في جريمة مقتل طفل، فيما يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة، فيما يتعرض بوش لخطر كبير من الموت والخوف والشك، فيما يتعرض للاختبارات والتحديات في محاولة لحل الجريمة والقضاء على المجرم.",
-    "desc_en": "The story revolves around detective Bosch, played by Titus Welliver, who is a complex and nuanced character. He investigates the murder of a child, while also dealing with a serial killer case in the federal court, as the story oscillates between investigation and trial, putting Bosch in grave danger of death, fear, and doubt, as he faces challenges and tests in his attempt to solve the crime and bring the perpetrator to justice.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بوش - توميتو",
-    "seo_title_ar": "مشاهدة فيلم بوش مترجم اون لاين - توميتو",
-    "keywords": "Bosch, فيلم بوش مترجم, مشاهدة فيلم بوش, توميتو بوش, مشاهدة بوش 2015, بوش مترجم كامل, أحداث بوش بالتفصيل, قصة مسلسل بوش",
-    "opinion": "القصة تتميز بpersonality complexة والشخصية الفنية، مما يجعلها أكثر إثارة والشعور بالرعب والخوف، مما يجعلها أكثر إثارة والشعور بالرعب والخوف.",
+    "intro": "يتناول المسلسل قصة محقق الجرائم الجنائية بوش الذي يواجه تحديات قانونية في المحكمة الفدرالية.",
+    "desc_ar": "تدور أحداث المسلسل حول محقق الجرائم الجنائية بوش الذي يخوض تجربة قانونية في المحكمة الفدرالية، حيث يواجه تهمة قتل مجرم متسلسل، في حين يضغط عليه حال جريمة قتل طفل لم يعد مصيره معروفًا، مما يضعه أمام تحديات قاسية في إعادة النظر في ماضيه.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة مسلسل بوش مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل بوش مترجم - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يتبع المسلسل قصة محقق الجرائم الجنائية هاري بوش الذي يواج",
+    "outro": "يعتبر المسلسل من بين أفضل المسلسلات التي تتعامل مع الجريمة والقانون، حيث يبرز بوش كشخصية متميزة ومؤثرة.",
+    "opinion_ar": "يعتبر المسلسل من بين أفضل المسلسلات التي تتعامل مع الجريمة والقانون، حيث يبرز بوش كشخصية متميزة ومؤثرة.",
+    "opinion_en": "Bosch is an exceptional series that delves into the complexities of law and crime, showcasing Harry Bosch as a remarkable and influential character.",
     "faq": [
       {
-        "q": "ما هو بوش؟",
-        "a": "بوش هو فيلم تلفزيوني غموض دراما جريمة"
+        "q": "ما هو الموضوع الرئيسي للمسلسل؟",
+        "a": "يتناول المسلسل قصة محقق الجرائم الجنائية بوش الذي يواجه تحديات قانونية في المحكمة الفدرالية.",
+        "q_en": "What is the main topic of the series?",
+        "a_en": "The series revolves around the story of homicide detective Harry Bosch, who faces legal challenges in the federal court."
       },
       {
-        "q": "ما هو بوش متعلق به؟",
-        "a": "بوش متعلق بالمحقق بوش والذي يحقق في جريمة مقتل طفل"
-      },
-      {
-        "q": "ما هو أفضل جزء في بوش؟",
-        "a": "أفضل جزء في بوش هو الشخصية الفنية والشعور بالرعب والخوف"
+        "q": "متى تم إصدار المسلسل؟",
+        "a": "تم إصدار المسلسل في عام 2015.",
+        "q_en": "When was the series released?",
+        "a_en": "The series was released in 2015."
       }
-    ]
+    ],
+    "keywords": "بوش, مسلسل, غموض, دراما, جريمة, تيتوس ويليفر, هاري بوش, بوش اب, جورج بوش, غسالة بوش, بوش الابن, دريل بوش, مساحات بوش, جورج بوش الابن, بوش صالون, فاطمة بوش, برا بوش اب, فاطمة بوش ملكة جمال الكون, جورج دبليو بوش الابن, فاطمه بوش, وفاة جورج بوش الاب"
   },
   "fixed": true,
-  "first_air_date": "2015-01-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "87 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Lisa Rinna Gail O'Grady Dale Midkiff Sally Kirkland Charlotte Rae"
+  "cast": "Titus Welliver Jamie Hector Amy Aquino Lance Reddick Madison Lintz",
+  "first_air_date": "2015-01-14"
 }

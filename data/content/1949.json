@@ -9,7 +9,7 @@
   "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
   "release_date": "2007-03-02",
   "vote_average": 7.5,
-  "vote_count": 11538,
+  "vote_count": 11799,
   "genres": [
     {
       "id": 80,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالغموض والخوف، يظهر شخص ما يرتكب العديد من الجرائم القتلية، ويسمي نفسه زودياك. يخبر الشرطة بالتفاصيل كل جريمة، ويقوم بإرسال رسالات مبهمة للصحافة، مما يثير إهتمام رجل الشرطة، والصحفي، والرسام الكاريكاتور في ملاحقته.",
-    "desc_en": "In a world filled with mystery and fear, a person emerges who commits multiple murders, and calls himself Zodiac. He informs the police of each crime, and sends cryptic messages to the press, captivating the attention of a detective, a journalist, and a cartoonist in their pursuit.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم زودياك - جريمة، غموض، إثارة",
-    "seo_title_ar": "مشاهدة فيلم زودياك مترجم اون لاين - توميتو",
-    "keywords": "Zodiac, فيلم زودياك مترجم, مشاهدة فيلم زودياك, أحداث زودياك بالتفصيل, زودياك مترجم, مشاهدة زودياك 2007, توميتو زودياك, قصة فيلم زودياك",
-    "opinion": "يعد فيلم زودياك من أكثر الأفلام الإثارة التي شاهدناها، حيث يجمع بين الجريمة والغموض والإثارة في سرد قصة مدهشة.",
+    "intro": "يحكي هذا الفيلم قصة serial killer يرتكب جرائم قتل متتالية ويتصل بالشرطة ليعطى تفاصيل حول الجرائم.",
+    "desc_ar": "يحكي هذا الفيلم قصة (زودياك)، يرتكب جرائم قتل متتالية ويتصل بالشرطة ليعطى تفاصيل حول الجرائم ويرسل رسائل مبهمة للصحافة. يبدأ رجل شرطة، وصحفي ورسام كاريكاتور في ملاحقته، مع تعقيدات ومعقدات في القصة. يتعامل الشرطة مع الوضع مع تقدم الحالة، بينما يعتقد الرسام أن لديه الإجابات لما يحدث.",
+    "desc_en": "Over the course of a decade, the editors of the San Francisco Chronicle become obsessed with the murders of the Zodiac Killer, who taunts the police with cryptic messages and clues. As the case unfolds, a determined detective, a dogged journalist, and a passionate cartoonist join forces to track down the elusive killer, but their investigation is fraught with complexity and danger.",
+    "seo_title_ar": "مشاهدة فيلم زودياك مترجم - توميتو",
+    "meta_desc": "شاهد فيلم زودياك مترجم، قصة إثارة غامضة حول يرتكب جرائم قتل متتالية، مع إجابة الأسئلة حول جرائم القتل المتعددة، جريمة، غموض، إثارة، فيلم، 2007. استمتع",
+    "outro": "يعد هذا الفيلم تجربة مثيرة ومثيرة للفكر، حيث يتعامل مع القضايا الهامة حول جرائم القتل والتنبؤات.",
+    "opinion_ar": "يعد هذا الفيلم تجربة مثيرة ومثيرة للفكر، حيث يتعامل مع القضايا الهامة حول جرائم القتل والتنبؤات.",
+    "opinion_en": "This film is a thrilling and thought-provoking experience, exploring the complexities of murder and the thrill of the chase.",
     "faq": [
       {
-        "q": "ما هو الفيلم زودياك؟",
-        "a": "فيلم زودياك هو فيلم جريمة غموض إثارة يروي قصة شخص يرتكب العديد من الجرائم القتلية."
+        "q": "ما هو موضوع الفيلم؟",
+        "a": "يحكي الفيلم قصة يرتكب جرائم قتل متتالية.",
+        "q_en": "What is the film about?",
+        "a_en": "The film tells the story of a serial killer who commits multiple murders."
       },
       {
-        "q": "ما هو أسلوب زودياك في ارتكاب الجرائم؟",
-        "a": "يستخدم زودياك أسلوباً فريدًا في ارتكاب الجرائم، حيث يخبر الشرطة بالتفاصيل كل جريمة، ويقوم بإرسال رسالات مبهمة للصحافة."
+        "q": "من هم الشخصيات الرئيسية في الفيلم؟",
+        "a": "يشارك رجل شرطة، وصحفي ورسام كاريكاتور في ملاحقة .",
+        "q_en": "Who are the main characters in the film?",
+        "a_en": "The film follows a detective, a journalist, and a cartoonist as they hunt down the serial killer."
       },
       {
-        "q": "ما هو النهاية الفيلم زودياك؟",
-        "a": "يحوي الفيلم زودياك نهاية مدهشة، حيث يلقي الضوء على سرقات زودياك والقصص الخائفة التي حدثت خلاله."
+        "q": "ما هو أسلوب الفيلم في إنتاجه؟",
+        "a": "يحكي الفيلم عن جرائم قتل متتالية مع إجابة الأسئلة حول جرائم القتل.",
+        "q_en": "What is the film's production style?",
+        "a_en": "The film explores the theme of multiple murders, with a focus on solving the crimes."
       }
-    ]
+    ],
+    "keywords": "فيلم, زودياك, جريمة, غموض, إثارة, ملاحقة, قصة غامضة, 2007, زودياك فيلم, زودياك مسلسل, فلم زودياك, زودياك السفاح, مشاهدة زودياك, Zodiac مترجم, تحميل زودياك"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "157 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jake Gyllenhaal Mark Ruffalo Anthony Edwards Robert Downey Jr. Chloë Sevigny"
+  "cast": "Jake Gyllenhaal Mark Ruffalo Anthony Edwards Robert Downey Jr. Chloë Sevigny Elias Koteas John Carroll Lynch Brian Cox"
 }

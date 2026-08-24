@@ -1,67 +1,57 @@
 {
   "id": 131378,
-  "title": "وقت المغامرة: فيونا وكيك",
-  "title_ar": "وقت المغامرة: فيونا وكيك",
-  "title_en": "Adventure Time: Fionna and Cake",
-  "slug": "131378-adventure-time-fionna-and-cake",
-  "overview": "تنطلق فيونا وكيك، بمساعدة ملك الجليد السابق، سيمون بيتريكوف، في مغامرة عبر عوالم متعددة ورحلة لاكتشاف الذات. وفي الوقت نفسه، يتربص بهما خصم جديد قوي مصمم على تعقبهما ومحوهما من الوجود",
+  "title": "170",
+  "title_ar": "170",
+  "title_en": "Domain of Murder",
+  "slug": "131378-domain-of-murder",
+  "overview": "يحكي فيلم 170 قصة مروعة تتناول رحلة خصوصي الاستطلاع جورو في البحث عن زوجه المفقود. ويتواصل جورو مع قاتل فاسد، مما يؤدي إلى سلسلة من الأحداث المثيرة والمليئة بالغموض.",
   "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
-  "backdrop_path": "/vRAM2el4bAygzUWfwXdt34E71Ee.jpg",
-  "release_date": "2023-08-31",
-  "vote_average": 8.6,
-  "vote_count": 335,
+  "backdrop_path": "/gH10tywd13L8RlBRAHPHS8qqIp7.jpg",
+  "release_date": "1992-09-01",
+  "vote_average": 6.6,
+  "vote_count": 5,
   "genres": [
+    {
+      "id": 9648,
+      "name": "غموض"
+    },
     {
       "id": 16,
       "name": "رسوم متحركة"
     },
     {
-      "id": 10759,
-      "name": "حركة ومغامرة"
+      "id": 18,
+      "name": "دراما"
     },
     {
-      "id": 35,
-      "name": "كوميديا"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل وقت المغامرة: فيونا وكيك (2023) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تنطلق \"وقت المغامرة: فيونا وكيك\" في مغامرة شيقة عبر عوالم متعددة، حيث يرافق فيونا وكيك ملك الجليد السابق سيمون بيتريكوف في رحلة اكتشاف الذات. وبينما يستكشفون عوالم جديدة، يتربص بهم خصم قوي يسعى للقضاء عليهم. هل سينجحون في مواجهة هذا التهديد الجديد؟",
-    "desc_en": "In \"Adventure Time: Fionna and Cake\", Fionna and Cake embark on an exciting multiverse adventure with the former Ice King, Simon Petrikov. As they explore new worlds, a powerful antagonist lurks in the shadows, determined to track them down. Will they survive this new threat?",
-    "seo_title_ar": "مشاهدة مسلسل وقت المغامرة: فيونا وكيك مترجم - توميتو",
-    "meta_desc": "انضم إلى فيونا وكيك في مغامرة عبر العوالم في وقت المغامرة: فيونا وكيك، حيث يواجهون خصما جديدا قويا يسعى للقضاء عليهم. هل سيتمكنون من النجاة؟",
-    "outro": "شاهد وقت المغامرة: فيونا وكيك الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "\"وقت المغامرة: فيونا وكيك\" يقدم مغامرة مشوقة ومليئة بالتشويق والإثارة، مع لمسة من الفانتازيا والخيال العلمي. إنه مزيج رائع من الرسوم المتحركة والكوميديا، ويحمل رسالة عميقة عن اكتشاف الذات.",
-    "opinion_en": "\"Adventure Time: Fionna and Cake\" is an exciting adventure with a touch of fantasy and sci-fi. It's a brilliant blend of animation and comedy, delivering a profound message about self-discovery.",
+    "intro": "يحكي فيلم Domain of Murder قصة مروعة تتناول رحلة خصوصي الاستطلاع جورو في البحث عن زوجه المفقود.",
+    "desc_ar": "يحكي فيلم 170 قصة مروعة تتناول رحلة خصوصي الاستطلاع جورو في البحث عن زوجه المفقود. ويتواصل جورو مع قاتل فاسد، مما يؤدي إلى سلسلة من الأحداث المثيرة والمليئة بالغموض.",
+    "desc_en": "On the trail of a missing husband, private investigator Goro crosses paths with a deranged killer, leading to a thrilling and mysterious series of events.",
+    "seo_title_ar": "مشاهدة فيلم Domain Murder مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Domain Murder بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، قصة غامضة ومليئة بالتشويق في عالم الرسوم المتحركة. استمتع بمشاهدة اس",
+    "outro": "يتميز فيلم Domain of Murder بقصة غامضة ومليئة بالتشويق في عالم الرسوم المتحركة، مما يجعله فيلمًا مثيرًا وممتعًا.",
+    "opinion_ar": "يحظى فيلم Domain Murder بشهرة واسعة في عالم الرسوم المتحركة، ويتمتع بقصة غامضة ومليئة بالتشويق.",
+    "opinion_en": "Domain of Murder is a widely known animated film, boasting a mysterious and thrilling storyline.",
     "faq": [
       {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "مسلسل رسوم متحركة.",
-        "q_en": "What type of series is it?",
-        "a_en": "An animated series."
-      },
-      {
-        "q": "من هي الشخصيات الرئيسية في المسلسل؟",
-        "a": "فيونا وكيك وملك الجليد السابق سيمون بيتريكوف.",
-        "q_en": "Who are the main characters in the series?",
-        "a_en": "Fionna, Cake, and the former Ice King, Simon Petrikov."
+        "q": "ما هو قصة فيلم Domain Murder؟",
+        "a": "يحكي فيلم Domain Murder قصة مروعة تتناول رحلة خصوصي الاستطلاع جورو في البحث عن زوجه المفقود.",
+        "q_en": "What is the story of Domain of Murder?",
+        "a_en": "The film tells the story of private investigator Goro's search for his missing husband."
       }
     ],
-    "keywords": "وقت المغامرة, فيونا وكيك, رسوم متحركة, مغامرة, خيال علمي, فانتازيا, كوميديا, ملك الجليد, سيمون بيتريكوف"
+    "keywords": "Domain Murder, فيلم غموض, رسوم متحركة, دراما, إثارة, جورو, فيلم 170, مشاهدة 170, Domain Murder مترجم, تحميل 170, 170 اون لاين, 170 جودة عالية, Domain Murder HD, 170 HD, Domain of Murder مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Madeleine Martin Roz Ryan Ashly Burch Harvey Guillén",
-  "first_air_date": "2023-08-31",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "51 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Shigeru Nakahara Tomomichi Nishimura Hideyuki Umezu Yo Inoue Aya Hisakawa Ai Orikasa Eiko Yamada Arisa Andô"
 }
