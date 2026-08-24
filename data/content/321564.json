@@ -1,46 +1,53 @@
 {
   "id": 321564,
-  "title": "Star Wars: The Mandalorian and Grogu A Special Look",
-  "title_ar": "Star Wars: The Mandalorian and Grogu A Special Look",
-  "title_en": "Star Wars: The Mandalorian and Grogu A Special Look",
-  "slug": "321564-star-wars-the-mandalorian-and-grogu-a-special-look",
-  "overview": "تستعد حرب النجوم: الماندالوريان وغروغو نظرة خاصة، وهو فيلم وثائقي خاص، لعرضه في دور السينما فقط. هذا الفيلم الوثائقي المثير يسلط الضوء على رحلة الماندالوريان وغروغو، ويعد بمشاهدة ممتعة لعشاق حرب النجوم. لا تفوتوا هذه التجربة الفريدة!",
+  "title": "Reborn",
+  "title_ar": "Reborn",
+  "title_en": "Reborn",
+  "slug": "321564-reborn",
+  "overview": "يحكي فيلم تولد من جديد قصة مجموعة من الأشخاص الذين يتعايشون في مدينة دالاس بولاية تكساس خلال فترة 24 ساعة، حيث يتداخل مساراتهم في مشهد عنيف يغير مصيرهم. يغوص ألكسندر في عالم الم المنهك، فيما يقع في حب ميشيل، أخت الزعيم السري للنظام الم. يتعامل ألكسندر مع عالم الم المنهك، بينما يسعى إلى الحصول على احترام ميشيل، التي تنضج في عالم الم السري. يغوص ألكسندر في عالم الم، فيما يسعى إلى تغيير حياته، ولكن هذه الخطوة ستغير مصيره.",
   "poster_path": "/2YI9C4Ynr952BQj0e9qe6V5P6p8.jpg",
-  "backdrop_path": "/bxhodfyAivcHoM4JPB6310aRgp5.jpg",
-  "release_date": "2026-05-04",
-  "vote_average": 8.3,
-  "vote_count": 6,
+  "backdrop_path": null,
+  "release_date": "2015-01-01",
+  "vote_average": 6.0,
+  "vote_count": 1,
   "genres": [
     {
-      "id": 99,
-      "name": "وثائقي"
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10749,
+      "name": "رومنسية"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Star Wars: The Mandalorian and Grogu A Special Look (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تستعد حرب النجوم: الماندالوريان وغروغو نظرة خاصة، وهو فيلم وثائقي خاص، لعرضه في دور السينما فقط. هذا الفيلم الوثائقي المثير يسلط الضوء على رحلة الماندالوريان وغروغو، ويعد بمشاهدة ممتعة لعشاق حرب النجوم. لا تفوتوا هذه التجربة الفريدة!",
-    "desc_en": "Get ready for \"Star Wars: The Mandalorian and Grogu A Special Look,\" a documentary special coming to theaters. This exciting documentary explores the journey of The Mandalorian and Grogu, offering a unique experience for Star Wars fans. Don't miss out!",
-    "seo_title_ar": "مشاهدة مسلسل حرب النجوم: الماندالوريان وغروغو نظرة خاصة مترجم - توميتو",
-    "meta_desc": "مشاهدة حرب النجوم: الماندالوريان وغروغو نظرة خاصة مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Star Wars: The Mandalorian and Grogu A Special Look الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "حرب النجوم: الماندالوريان وغروغو نظرة خاصة هو فيلم وثائقي ممتع ومثير، يقدم نظرة أعمق على عالم حرب النجوم. تجربة لا يجب تفويتها لعشاق السلسلة!",
-    "opinion_en": "Star Wars: The Mandalorian and Grogu A Special Look is an engaging and exciting documentary, offering a deeper look into the Star Wars universe. A must-watch for fans!",
+    "intro": "يحكي فيلم تولد من جديد قصة مجموعة من الأشخاص الذين يتعايشون في مدينة دالاس بولاية تكساس.",
+    "desc_ar": "يحكي فيلم تولد من جديد قصة مجموعة من الأشخاص الذين يتعايشون في مدينة دالاس بولاية تكساس خلال فترة 24 ساعة، حيث يتداخل مساراتهم في مشهد عنيف يغير مصيرهم. يغوص ألكسندر في عالم الم المنهك، فيما يقع في حب ميشيل، أخت الزعيم السري للنظام الم. يتعامل ألكسندر مع عالم الم المنهك، بينما يسعى إلى الحصول على احترام ميشيل، التي تنضج في عالم الم السري. يغوص ألكسندر في عالم الم، فيما يسعى إلى تغيير حياته، ولكن هذه الخطوة ستغير مصيره.",
+    "desc_en": "In the City of Dallas Texas, during a 24-hour period the paths of Alexander, Michelle, Joaqun, Jared y Johnny interlace in a violent scenario that will change their destiny. Alexander gets too deep in the underground gambling circuit while falling in love with Michelle, sister of the underground boss.",
+    "seo_title_ar": "مشاهدة فيلم تولد من جديد مترجم - فيلم رومانسي درامي",
+    "meta_desc": "تولد من جديد: فيلم درامي رومانسي عن عالم الم السري في مدينة دالاس، حيث يتعايش الأشخاص في فترة 24 ساعة. يغوص ألكسندر في عالم الم، بينما يسعى إلى تغيير حياته",
+    "outro": "يتضمن فيلم تولد من جديد تجربة مشاهدة مثيرة، حيث يغوص المشاهد في عالم الم賠 السري.",
+    "opinion_ar": "يعد فيلم تولد من جديد تجربة مشاهدة مثيرة، حيث يغوص المشاهد في عالم الم السري. يتمتع الفيلم بكتابة سيناريو جيدة، حيث يتعامل الأبطال مع مصيرهم.",
+    "opinion_en": "Reborn is a thrilling movie experience, where the audience is immersed in the world of underground gambling. The film has a good screenplay, where the characters deal with their fate.",
     "faq": [
       {
-        "q": "هل حرب النجوم: الماندالوريان وغروغو نظرة خاصة متاح على منصات البث؟",
-        "a": "لا، هذا الفيلم الوثائقي الخاص متاح فقط في دور السينما.",
-        "q_en": "Is Star Wars: The Mandalorian and Grogu A Special Look available on streaming platforms?",
-        "a_en": "No, this special documentary is exclusively available in theaters."
+        "q": "ما هو موضوع فيلم تولد من جديد؟",
+        "a": "يحكي الفيلم قصة مجموعة من الأشخاص الذين يتعايشون في مدينة دالاس بولاية تكساس خلال فترة 24 ساعة.",
+        "q_en": "What is the subject of the movie Reborn?",
+        "a_en": "The movie tells the story of a group of people living in Dallas, Texas, during a 24-hour period."
       }
     ],
-    "keywords": "حرب النجوم, الماندالوريان, غروغو, وثائقي, فيلم خاص, تجربة سينمائية, رحلة, شخصيات, عالم حرب النجوم"
+    "keywords": "فيلم تولد من جديد, فيلم رومانسي درامي, عالم الم السري, مدينة دالاس, تكساس, 24 ساعة, ألكسندر, ميشيل, جائحة, مشاهدة تولد من جديد, Reborn مترجم, تحميل تولد من جديد, تولد من جديد اون لاين, Reborn, تولد من جديد جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "2 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "",
-  "first_air_date": "2026-05-04"
+  "cast": "Yasmine Al-Bustami Nellie Sciutto Cody Daniel Kyle Grissom Shane Land Melissa Cordero Elaine Gantz Wright Brittany Madrid"
 }

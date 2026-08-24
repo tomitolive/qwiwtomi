@@ -12509,8 +12509,158 @@
       "file": "19092.json",
       "title": "FlashForward",
       "fixed_at": "2026-08-24T13:34:23.859978"
+    },
+    {
+      "tmdb_id": "1321491",
+      "file": "1321491.json",
+      "title": "The Banished",
+      "fixed_at": "2026-08-24T14:15:47.892038"
+    },
+    {
+      "tmdb_id": "1414",
+      "file": "1414.json",
+      "title": "The Shield",
+      "fixed_at": "2026-08-24T14:16:12.481821"
+    },
+    {
+      "tmdb_id": "3744",
+      "file": "3744.json",
+      "title": "بظ يطير وقيادة الكوكب",
+      "fixed_at": "2026-08-24T14:16:20.312970"
+    },
+    {
+      "tmdb_id": "441",
+      "file": "441.json",
+      "title": "Father of the Pride",
+      "fixed_at": "2026-08-24T14:16:31.985121"
+    },
+    {
+      "tmdb_id": "466272",
+      "file": "466272.json",
+      "title": "كان ياما كان في... هوليوود",
+      "fixed_at": "2026-08-24T14:16:41.108474"
+    },
+    {
+      "tmdb_id": "520763",
+      "file": "520763.json",
+      "title": "مكان هادئ الجزء الثاني",
+      "fixed_at": "2026-08-24T14:16:50.691653"
+    },
+    {
+      "tmdb_id": "672",
+      "file": "672.json",
+      "title": "هاري بوتر وحجرة الأسرار",
+      "fixed_at": "2026-08-24T14:17:17.228060"
+    },
+    {
+      "tmdb_id": "1575337",
+      "file": "1575337.json",
+      "title": "كاغويا أميرة الفضاء!",
+      "fixed_at": "2026-08-24T14:17:24.916117"
+    },
+    {
+      "tmdb_id": "31268",
+      "file": "31268.json",
+      "title": "El Capo",
+      "fixed_at": "2026-08-24T14:18:28.533234"
+    },
+    {
+      "tmdb_id": "305222",
+      "file": "305222.json",
+      "title": "arsiz",
+      "fixed_at": "2026-08-24T14:18:38.175236"
+    },
+    {
+      "tmdb_id": "12405",
+      "file": "12405.json",
+      "title": "مليونير متشرد",
+      "fixed_at": "2026-08-24T14:18:45.711572"
+    },
+    {
+      "tmdb_id": "224263",
+      "file": "224263.json",
+      "title": "Stranger Things: حكايات من عام 1985",
+      "fixed_at": "2026-08-24T14:19:22.738935"
+    },
+    {
+      "tmdb_id": "71915",
+      "file": "71915.json",
+      "title": "Good Omens",
+      "fixed_at": "2026-08-24T14:19:57.857682"
+    },
+    {
+      "tmdb_id": "69740",
+      "file": "69740.json",
+      "title": "Ozark",
+      "fixed_at": "2026-08-24T14:20:06.945017"
+    },
+    {
+      "tmdb_id": "8358",
+      "file": "8358.json",
+      "title": "Lie to Me",
+      "fixed_at": "2026-08-24T14:20:19.419808"
+    },
+    {
+      "tmdb_id": "194916",
+      "file": "194916.json",
+      "title": "Chiikawa",
+      "fixed_at": "2026-08-24T14:20:32.168977"
+    },
+    {
+      "tmdb_id": "62643",
+      "file": "62643.json",
+      "title": "DCs Legends of Tomorrow",
+      "fixed_at": "2026-08-24T14:20:43.281862"
+    },
+    {
+      "tmdb_id": "321564",
+      "file": "321564.json",
+      "title": "Star Wars: The Mandalorian and Grogu A Special Look",
+      "fixed_at": "2026-08-24T14:20:51.506399"
+    },
+    {
+      "tmdb_id": "1115544",
+      "file": "1115544.json",
+      "title": "Mike Nick Nick Alice",
+      "fixed_at": "2026-08-24T14:20:59.774132"
+    },
+    {
+      "tmdb_id": "118",
+      "file": "118.json",
+      "title": "تشارلي ومصنع الشوكولاتة",
+      "fixed_at": "2026-08-24T14:21:09.059734"
+    },
+    {
+      "tmdb_id": "62688",
+      "file": "62688.json",
+      "title": "الفتاة الخارقة",
+      "fixed_at": "2026-08-24T14:21:16.951988"
+    },
+    {
+      "tmdb_id": "36",
+      "file": "36.json",
+      "title": "Medium",
+      "fixed_at": "2026-08-24T14:21:24.570133"
+    },
+    {
+      "tmdb_id": "990",
+      "file": "990.json",
+      "title": "The Hustler",
+      "fixed_at": "2026-08-24T14:21:52.237526"
+    },
+    {
+      "tmdb_id": "812",
+      "file": "812.json",
+      "title": "علاء الدين",
+      "fixed_at": "2026-08-24T14:21:59.897303"
+    },
+    {
+      "tmdb_id": "63849",
+      "file": "63849.json",
+      "title": "Almanya - Willkommen in Deutschland",
+      "fixed_at": "2026-08-24T14:22:09.677607"
     }
   ],
-  "last_updated": "2026-08-24T13:34:26.024800",
-  "total_fixed": 2085
+  "last_updated": "2026-08-24T14:22:11.753495",
+  "total_fixed": 2110
 }

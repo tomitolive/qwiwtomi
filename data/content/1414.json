@@ -1,17 +1,15 @@
 {
   "id": 1414,
-  "title": "The Shield",
-  "title_ar": "The Shield",
+  "title": "الدرع",
+  "title_ar": "الدرع",
   "title_en": "The Shield",
   "slug": "1414-the-shield",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "قصة دائرة شرطة لوس أنجلوس داخل المدينة حيث لا يتجاوز بعض رجال الشرطة كسر القواعد أو العمل ضد شركائهم للحفاظ على سلامة الشوارع ومصالحهم الذاتية سليمة.",
   "poster_path": "/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg",
   "backdrop_path": "/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
   "release_date": "2002-03-12",
   "vote_average": 8.2,
-  "vote_count": 855,
+  "vote_count": 890,
   "genres": [
     {
       "id": 80,
@@ -27,19 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "قصة دائرة شرطة لوس أنجلوس داخل المدينة حيث لا يتجاوز بعض رجال الشرطة كسر القواعد أو العمل ضد شركائهم للحفاظ على سلامة الشوارع ومصالحهم الذاتية سليمة.",
-    "desc_en": "قصة دائرة شرطة لوس أنجلوس داخل المدينة حيث لا يتجاوز بعض رجال الشرطة كسر القواعد أو العمل ضد شركائهم للحفاظ على سلامة الشوارع ومصالحهم الذاتية سليمة.",
-    "meta_desc": "مشاهدة The Shield مترجم بجودة عالية على توميتو.",
-    "keywords": "قصة فيلم The Shield, مشاهدة The Shield 2026, The Shield مترجم, توميتو The Shield, أحداث The Shield بالتفصيل",
-    "seo_title_ar": "مشاهدة The Shield مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي مسلسل الدرع قصة دائرة شرطة لوس أنجلوس التي تعيش في ظل المدينة التي لا تتسم بالسلامة، حيث يتجاوز بعض رجال الشرطة القواعد للوصول إلى مصالحهم.",
+    "desc_ar": "يحكي مسلسل الدرع قصة دائرة شرطة لوس أنجلوس التي تعيش في ظل المدينة التي لا تتسم بالسلامة، حيث يتجاوز بعض رجال الشرطة القواعد للوصول إلى مصالحهم، بينما يبذل آخرون قصارى جهدهم للحفاظ على سلامة الشوارع، وفي هذا المحيط من القواعد والتعقيدات، يلعب شخصية القائد فيل رينز دورًا هامًا في الحفاظ على توازن بين مصالح رجال الشرطة ومسئولياتهم تجاه المجتمع.",
+    "desc_en": "The Shield follows the story of an inner-city Los Angeles police precinct where some of the cops aren't above breaking the rules or working against their associates to both keep the streets safe and their self-interests intact. The show revolves around the complex relationships between the officers, their leader Vic Mackey, and the community they serve. As the story unfolds, the characters face numerous challenges and moral dilemmas that test their integrity and loyalty.",
+    "seo_title_ar": "مشاهدة الدرع مسلسل جريمة ودراما وحركة ومغامرة مترجم - توميتو",
+    "meta_desc": "شاهد الدرع مسلسل جريمة ودراما وحركة ومغامرة عن دائرة شرطة لوس أنجلوس التي تعيش في ظل المدينة التي لا تتسم بالسلامة، مع سيارات الشرطة والسيارات العسكرية وال",
+    "outro": "في نهاية المطاف، يُظهر مسلسل الدرع أن الحبكة الرئيسية هي توازن بين مصالح رجال الشرطة ومسئولياتهم تجاه المجتمع، حيث يتعرضون لتحديات وتحقيقًا لجاذبيات الحياة العملية.",
+    "opinion_ar": "حسناً الدرع هو مسلسل جريمة ودراما وحركة ومغامرة يُبهر بتصويره المذهل للقوى العاملة في دائرة شرطة لوس أنجلوس. يشمل الحبكة العديد من التحديات والصعاب التي يتعرض لها ضباط الشرطة، مما يُظهر قدرتهم على مواجهة المشكلات في ظل حرب شوارع المدينة.",
+    "opinion_en": "The Shield is a gripping crime drama series that showcases the complexities of policing in a high-stakes environment. With its well-developed characters and intricate plotlines, the show offers a thought-provoking commentary on the moral ambiguities of law enforcement.",
+    "faq": [
+      {
+        "q": "ما هو مسلسل الدرع؟",
+        "a": "هو مسلسل جريمة ودراما وحركة ومغامرة يتبع قصة دائرة شرطة لوس أنجلوس.",
+        "q_en": "What is The Shield?",
+        "a_en": "It is a crime drama series that follows the story of an inner-city Los Angeles police precinct."
+      },
+      {
+        "q": "ما هي الحبكة الرئيسية لمسلسل الدرع؟",
+        "a": "يحكي المسلسل قصة دائرة شرطة لوس أنجلوس التي تعيش في ظل المدينة التي لا تتسم بالسلامة، حيث يتجاوز بعض رجال الشرطة القواعد للوصول إلى مصالحهم.",
+        "q_en": "What is the main plot of The Shield?",
+        "a_en": "The show revolves around the complex relationships between the officers, their leader Vic Mackey, and the community they serve."
+      }
+    ],
+    "keywords": "الدرع, مسلسل الدرع, جريمة, دراما, حركة, مغامرة, دائرة شرطة لوس أنجلوس, رجال الشرطة, قوة الشرطة, سيارات الشرطة, سيارات عسكرية, مدافع, الدرع العربي, الدرع العربي للتأمين, تامين الدرع, تأمين الدرع العربي, الدرع العربي تامين, الدرع العربي زيارة, تأمين زيارة الدرع, شركة الدرع العربي, الدرع العربي للتأمين التعاوني"
   },
   "fixed": true,
-  "first_air_date": "2002-03-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "112 دقيقة",
-  "language": "الإسبانية",
-  "country": "إسبانيا",
-  "cast": "Najwa Nimri Fele Martínez Nancho Novo Maru Valdivielso Sara Valiente"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Michael Chiklis Catherine Dent Paula Garcés Walton Goggins Michael Jace Jay Karnes Benito Martinez David Marciano",
+  "first_air_date": "2002-03-12"
 }

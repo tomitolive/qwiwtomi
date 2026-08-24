@@ -4,14 +4,12 @@
   "title_ar": "Medium",
   "title_en": "Medium",
   "slug": "36-medium",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل \"واسطة\" قصة المحامية الكاتبة آليسون دوبويس، التي تعمل في مكتب النائب العام باستخدام استخباراتها الطبيعية عن الناس وقدرتها على التواصل مع الموتى ل حل جرائم قتل غامضة. تظهر حلمها أحياناً تعليمات هامة للعثور على الأشخاص المفقودين. يتعامل المسلسل مع أوهام آليسون عن الأرواح وتنبؤاتها بالاستقبال، مما يضيف لمسة من الغموض والفانتازيا إلى القصة.",
   "poster_path": "/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
   "backdrop_path": "/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
   "release_date": "2005-01-03",
   "vote_average": 7.5,
-  "vote_count": 570,
+  "vote_count": 580,
   "genres": [
     {
       "id": 80,
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الغموض والرعب، يلقي المحققون في Medium، سلسلة دراما غامضة، نظرة فنية على العالم السفلي، حيث يلتقي الأشخاص الذين فقدوا حياتهم في العالم السفلي، ويحاولون حل الألغاز والسرائر التي تمنعهم من العودة إلى العالم الحقيقي، في هذه السلسلة الدرامية، نرى كيف يتعامل الأشخاص مع الألغاز والسرائر التي تمنعهم من العودة إلى العالم الحقيقي.",
-    "desc_en": "In a world of mystery and terror, the investigators in Medium, a dramatic series, take a scientific look at the afterlife, where people who have lost their lives in the afterlife try to solve the puzzles and secrets that prevent them from returning to the real world. In this dramatic series, we see how people deal with the puzzles and secrets that prevent them from returning to the real world.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Medium, سلسلة دراما غامضة!",
-    "seo_title_ar": "مشاهدة فيلم Medium مترجم اون لاين - توميتو",
-    "keywords": "فيلم Medium مترجم, مشاهدة فيلم Medium, توميتو Medium, قصة مسلسل Medium, أحداث Medium بالتفصيل, Medium مترجم كامل, مشاهدة Medium 2005",
-    "opinion": "هذه السلسلة الدرامية هي مثال رائع لما يمكن أن يفعله التلفزيون في عالم السينما، حيث نرى كيف يتعامل الأشخاص مع الألغاز والسرائر التي تمنعهم من العودة إلى العالم الحقيقي، في هذه السلسلة الدرامية، نرى كيف يتعامل الأشخاص مع الألغاز والسرائر التي تمنعهم من العودة إلى العالم الحقيقي.",
+    "intro": "يتناول مسلسل \"واسطة\" قصة المحامية الكاتبة آليسون دوبويس في مكتب النائب العام باستخدام استخباراتها الطبيعية عن الناس.",
+    "desc_ar": "يحكي مسلسل \"واسطة\" قصة المحامية الكاتبة آليسون دوبويس، التي تعمل في مكتب النائب العام باستخدام استخباراتها الطبيعية عن الناس وقدرتها على التواصل مع الموتى ل حل جرائم قتل غامضة. تظهر حلمها أحياناً تعليمات هامة للعثور على الأشخاص المفقودين. يتعامل المسلسل مع أوهام آليسون عن الأرواح وتنبؤاتها بالاستقبال، مما يضيف لمسة من الغموض والفانتازيا إلى القصة.",
+    "desc_en": "Medium follows Allison Dubois, a writer in the District Attorneys office who uses her natural intuition about people and her ability to communicate with the dead to help solve crimes. Her dreams often give her clues to the whereabouts of missing people. The series explores Allisons visions, which often come with a warning, adding a touch of mystery and fantasy to the story.",
+    "seo_title_ar": "مشاهدة مسلسل واسطة مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل واسطة مترجم على توميتو، يحكي قصة المحامية الكاتبة آليسون دوبويس في مكتب النائب العام باستخدام استخباراتها الطبيعية عن الناس. استمتع بمشاهدة هذ",
+    "outro": "يعد مسلسل \"واسطة\" تجربة فريدة في عالم التلفزيون، حيث يجمع بين الغموض والفانتازيا والجريمة والدراما.",
+    "opinion_ar": "يعد مسلسل \"واسطة\" تجربة فريدة في عالم التلفزيون، حيث يجمع بين الغموض والفانتازيا والجريمة والدراما.",
+    "opinion_en": "Medium is a unique experience in television, combining mystery, fantasy, crime, and drama in a captivating way.",
     "faq": [
       {
-        "q": "ما هو Medium؟",
-        "a": "هو سلسلة دراما غامضة تتبع المحققين في عالم السفلي"
+        "q": "ما هو مسلسل واسطة؟",
+        "a": "يحكي قصة المحامية الكاتبة آليسون دوبويس في مكتب النائب العام باستخدام استخباراتها الطبيعية عن الناس.",
+        "q_en": "What is Medium?",
+        "a_en": "It follows the story of writer Allison Dubois in the District Attorneys office, using her natural intuition about people to solve crimes."
       },
       {
-        "q": "ما هو موضوع Medium؟",
-        "a": "يحاول المحققون في Medium حل الألغاز والسرائر التي تمنعهم من العودة إلى العالم الحقيقي"
-      },
-      {
-        "q": "ما هو نوع Medium؟",
-        "a": "هو نوع جريمة ودراما وغموض وخيال علمي وفانتازيا"
+        "q": "كيف يعمل مسلسل واسطة؟",
+        "a": "يتعامل المسلسل مع أوهام آليسون عن الأرواح وتنبؤاتها بالاستقبال.",
+        "q_en": "How does Medium work?",
+        "a_en": "The series explores Allisons visions, which often come with a warning, adding a touch of mystery and fantasy to the story."
       }
-    ]
+    ],
+    "keywords": "واسطة, مسلسل, جريمة, دراما, غموض, خيال علمي وفانتازيا, Allison Dubois, Medium, مشاهدة واسطة, Medium مترجم, تحميل واسطة, واسطة اون لاين, واسطة جودة عالية, فيلم واسطة, Medium online"
   },
   "fixed": true,
-  "first_air_date": "2005-01-03",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Patricia Arquette Jake Weber Miguel Sandoval David Cubitt Sofia Vassilieva Feodor Lark",
+  "first_air_date": "2005-01-03"
 }

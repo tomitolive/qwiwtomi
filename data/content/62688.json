@@ -4,14 +4,12 @@
   "title_ar": "الفتاة الخارقة",
   "title_en": "Supergirl",
   "slug": "62688-supergirl",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "كارا زور إيل، البالغة من العمر أربعة وعشرين عامًا، والتي تبنتها عائلة دانفر عندما كانت في سن الثالثه عشر، بعد أن تم ارسالها من كوكب كريبتون، والان وجب عليها ان تستخدم قواتها الخارقه بعد أن أخفتها طول المدة السابقة. تكشف كارا قوتها خلال كارثة غير متوقعة، وتضعها في رحلة الى البطولية.",
   "poster_path": "/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
-  "backdrop_path": "/hTnMOqUxYWSXqggzlY13NATnuTv.jpg",
+  "backdrop_path": "/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
   "release_date": "2015-10-26",
   "vote_average": 7.3,
-  "vote_count": 4376,
+  "vote_count": 4445,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم كريبتون، عائلة دانفر تبنت كارا زور إيل، البالغة من العمر أربعة وعشرين عامًا، والتي كانت في سن الثالث عشر عندما تم ارسالها من كوكب كريبتون. بعد أن أخفتها طول المدة السابقة، تكشف كارا قوتها خلال كارثة غير متوقعة، وتضعها في رحلة الى البطولية.",
-    "desc_en": "In the world of Krypton, the Danvers family adopted Kara Zor-El, a 24-year-old who was 13 when she was sent to Earth from Krypton. After hiding her powers for a long time, Kara reveals her abilities during an unexpected crisis, and embarks on a journey to heroism.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الفتاة الخارقة Supergirl!",
-    "seo_title_ar": "مشاهدة مسلسل الفتاة الخارقة Supergirl مترجم اون لاين - توميتو",
-    "keywords": "Supergirl, فيلم كريبتون مترجم, مشاهدة مسلسل الفتاة الخارقة, الفتاة الخارقة مترجم كامل, قصة مسلسل الفتاة الخارقة, أحداث الفتاة الخارقة بالتفصيل, مشاهدة الفتاة الخارقة 2015, توميتو الفتاة الخارقة",
-    "opinion": "منذ بداية مسلسل الفتاة الخارقة، نرى كيف تتحول كارا من فتاة عادية إلى بطلة خارقة.قوة القصة والشخصيات والعمل الفني كلها تجمع لخلق تجربة مشاهدة رائعة.",
+    "intro": "يسعدنا تقديم مسلسل الفتاة الخارقة، مسلسل درامي خيال علمي وفانتازيا حركة ومغامرة، يروي قصة كارا زور إيل البالغة من العمر أربعة وعشرين عامًا.",
+    "desc_ar": "يحكي مسلسل الفتاة الخارقة قصة كارا زور إيل، البالغة من العمر أربعة وعشرين عامًا، التي تبنتها عائلة دانفر عندما كانت في سن الثالثة عشر بعد أن أرسلتها إلى كوكب كريبتون، ووجدت نفسها في رحلة البطولية بعد أن كشفت قوتها خلال كارثة غير متوقعة، وتضطرت إلى استخدام قواتها الخارقة بعد أن أخفتها طول المدة السابقة.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words - Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+    "seo_title_ar": "مشاهدة مسلسل الفتاة الخارقة Supergirl مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل الفتاة الخارقة Supergirl مترجم - توميتو - مسلسل دراما خيال علمي وفانتازيا حركة ومغامرة استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احتراف",
+    "outro": "نأمل أن نكون قد قدمنا لك تجربة مشاهدة ممتعة وملهمة مع مسلسل الفتاة الخارقة.",
+    "opinion_ar": "يعد مسلسل الفتاة الخارقة تجربة مشاهدة ممتعة وملهمة، يُظهر شخصية كارا زور إيل قوة البطولية والصبر.",
+    "opinion_en": "Supergirl is a captivating and inspiring series that showcases Kara Zor-El's strength, courage, and determination.",
     "faq": [
       {
-        "q": "ما هو الفتاة الخارقة؟",
-        "a": "الفتاة الخارقة هي مسلسل تلفزيوني يروي قصة كارا زور إيل، البالغة من العمر أربعة وعشرين عامًا، والتي تبنتها عائلة دانفر."
+        "q": "ما هو نوع المسلسل؟",
+        "a": "مسلسل دراما خيال علمي وفانتازيا حركة ومغامرة",
+        "q_en": "What type of series is Supergirl?",
+        "a_en": "Supergirl is a drama, science fiction, fantasy, action, and adventure series."
       },
       {
-        "q": "ما هو نوع الفتاة الخارقة؟",
-        "a": "الفتاة الخارقة هو مسلسل تلفزيوني من نوع دراما، خيال علمي وفانتازيا، حركة ومغامرة."
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه الفتاة الخارقة؟",
-        "a": "حدث مسلسل الفتاة الخارقة في عالم كريبتون، حيث تبنت كارا عائلة دانفر"
+        "q": "ما هي قصة المسلسل؟",
+        "a": "يحكي المسلسل قصة كارا زور إيل البالغة من العمر أربعة وعشرين عامًا التي تبنتها عائلة دانفر عندما كانت في سن الثالثة عشر.",
+        "q_en": "What is the story of the series?",
+        "a_en": "The series follows the story of Kara Zor-El, a 24-year-old woman who was taken in by the Danvers family when she was 13."
       }
-    ]
+    ],
+    "keywords": "الفتاة الخارقة, مسلسل, دراما, خيال علمي وفانتازيا, حركة ومغامرة, كوكب كريبتون, كارا زور إيل, دانفرز, بطولية, قوة, خارقة, مشاهدة الفتاة الخارقة, Supergirl مترجم, تحميل الفتاة الخارقة, الفتاة الخارقة اون لاين"
   },
   "fixed": true,
-  "first_air_date": "2015-10-26",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "90 دقيقة",
-  "language": "الروسية",
-  "country": "روسيا",
-  "cast": "Pavel Derevyanko Sergey Makovetskiy Elena Nikolaeva Linda Nigmatulina Aleksey Panin"
+  "duration": "42 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Melissa Benoist Chyler Leigh David Harewood Katie McGrath Jesse Rath Nicole Maines Azie Tesfai Julie Gonzalo",
+  "first_air_date": "2015-10-26"
 }

@@ -9,7 +9,7 @@
   "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
   "release_date": "2008-11-12",
   "vote_average": 7.7,
-  "vote_count": 11312,
+  "vote_count": 11515,
   "genres": [
     {
       "id": 18,
@@ -21,28 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن أن يكون الفقر والتشرد طريقًا نحو الحب والنجاح؟",
+    "intro": "استمتع بمشاهدة فيلم مليونير متشرد (2008) مترجم بجودة عالية على توميتو.",
     "desc_ar": "ما الذي يتطلبه الأمر للعثور على الحب المفقود؟  مراهق يفكر في حياته بعد اتهامه بالغش في النسخة الهندية من \"من يريد أن يكون مليونيرا؟\".",
-    "seo_title_ar": "مشاهدة مليونير متشرد مترجم اون لاين - توميتو",
-    "meta_desc": "مشاهدة مليونير متشرد مترجم بجودة عالية على توميتو.",
-    "outro": "فيلم مليء بالمشاعر الإنسانية والدراما، يسلط الضوء على حياة المهمشين في الأحياء الفقيرة، ويبين كيف يمكن للصدق والبراءة أن يصنعا الفارق. قصة ستجعلك تفكر في قيمة الحب والصداقة في مواجهة التحديات.",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة.",
+    "desc_en": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+    "seo_title_ar": "مشاهدة فيلم Slumdog Millionaire مترجم - توميتو",
+    "meta_desc": "مشاهدة مليونير متشرد مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد مليونير متشرد الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "هل الفيلم مبني على قصة حقيقية؟",
-        "a": "لا، الفيلم مستوحى من رواية تحمل عنوان \"Q & A\" للكاتب فيكاس سواروب، ولكن القصة خيالية."
+        "q": "كيف يمكنني مشاهدة فيلم مليونير متشرد?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Slumdog Millionaire?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو البرنامج الذي شارك فيه البطل؟",
-        "a": "البرنامج هو النسخة الهندية من برنامج \"من يريد أن يكون مليونيرًا؟\"، وهو برنامج مسابقات شهير."
+        "q": "ما هو تصنيف فيلم مليونير متشرد?",
+        "a": "يندرج العمل تحت تصنيف دراما, رومنسية.",
+        "q_en": "What is the genre of Slumdog Millionaire?",
+        "a_en": "It falls under the genre of دراما, رومنسية."
       },
       {
-        "q": "ما هو تصنيف الفيلم؟",
-        "a": "الفيلم يندرج تحت تصنيف الدراما والرومانسية، مع لمسات من التشويق والإثارة."
+        "q": "ما هي قصة فيلم مليونير متشرد?",
+        "a": "ما الذي يتطلبه الأمر للعثور على الحب المفقود؟  مراهق يفكر في حياته بعد اتهامه بالغش في النسخة الهندية من \"من يريد أن يكون مليونيرا؟\".",
+        "q_en": "What is the story of Slumdog Millionaire?",
+        "a_en": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"."
       }
     ],
-    "keywords": "Slumdog Millionaire, مليونير متشرد مترجم, قصة فيلم مليونير متشرد, مشاهدة مليونير متشرد 2026, أحداث مليونير متشرد بالتفصيل, توميتو مليونير متشرد",
-    "desc_en": "ما الذي يتطلبه الأمر للعثور على الحب المفقود؟  مراهق يفكر في حياته بعد اتهامه بالغش في النسخة الهندية من \"من يريد أن يكون مليونيرا؟\"."
+    "keywords": "مليونير متشرد مترجم, Slumdog Millionaire مترجم, مشاهدة مليونير متشرد,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -50,5 +57,5 @@
   "duration": "121 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Dev Patel Freida Pinto Madhur Mittal Anil Kapoor Mahesh Manjrekar"
+  "cast": "Dev Patel Freida Pinto Madhur Mittal Anil Kapoor Mahesh Manjrekar Saurabh Shukla Irrfan Khan Ankur Vikal"
 }
