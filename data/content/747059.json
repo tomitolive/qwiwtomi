@@ -4,12 +4,12 @@
   "title_ar": "Burrow",
   "title_en": "Burrow",
   "slug": "747059-burrow",
-  "overview": "",
+  "overview": "يحكي فيلم الجحر قصة فأر صغيرة تبتكر فكرة بناء حفرة في حياتها، لكنها تعاني من نقص الخبرة في هذا المجال. تبتعد عن نظرائها عن طريق إخفاء عدم كفاءتها، وتحفر نفسها في المشاكل، حتى تصطدم بالحجر الأساس. في هذه اللحظة، تتعلم أن لا شىء يسوء في طلب المساعدة.",
   "poster_path": "/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg",
   "backdrop_path": "/tj58v7h4d9xDkFr3Hot0qhKdwRf.jpg",
   "release_date": "2020-12-25",
   "vote_average": 7.4,
-  "vote_count": 310,
+  "vote_count": 317,
   "genres": [
     {
       "id": 16,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال والواقع، يلقي رجل الأرنب حقيبة من الألوان والشخصيات، ويحولها إلى عالم من المغامرات والكوميديا، حيث يلقي رجل الأرنب نفسه في منازله، ويحاول أن يلقي حقيبة من الألوان والشخصيات في مكانها الصحيح، ولكن كل ما يحدث هو أن الألوان والشخصيات تتحول إلى مغامرات وكوميديا، ويحول رجل الأرنب نفسه إلى منازله، ويحاول أن يلقي حقيبة من الألوان والشخصيات في مكانها الصحيح، ولكن كل ما يحدث هو أن الألوان والشخصيات تتحول إلى مغامرات وكوميديا.",
-    "desc_en": "In a world of fantasy and reality, a man takes a bag of colors and characters, and turns it into a world of adventures and comedy, where a man puts himself in his home, and tries to put a bag of colors and characters in their right place, but everything that happens is that the colors and characters turn into adventures and comedy, and the man turns himself into his home, and tries to put a bag of colors and characters in their right place, but everything that happens is that the colors and characters turn into adventures and comedy.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم رسوم متحركة و عائلي و كوميديا 'مansion' - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم عائلي, فيلم كوميديا مترجم, مشاهدة Burrow 2020, قصة فيلم Burrow, أحداث Burrow بالتفصيل, Burrow مترجم, توميتو Burrow",
-    "seo_title_ar": "مشاهدة فيلم خيمه مترجم اون لاين - توميتو",
-    "opinion": "هو فيلم رائع يلقي رجل الأرنب في عالم من المغامرات والكوميديا، ويحول رجل الأرنب نفسه إلى منازله، ويحاول أن يلقي حقيبة من الألوان والشخصيات في مكانها الصحيح، ولكن كل ما يحدث هو أن الألوان والشخصيات تتحول إلى مغامرات وكوميديا",
+    "intro": "في فيلم Burrow، نتعرف على قصة فأر صغيرة تبتكر فكرة بناء حفرة في حياتها، لكنها تعاني من نقص الخبرة في هذا المجال.",
+    "desc_ar": "يحكي فيلم الجحر قصة فأر صغيرة تبتكر فكرة بناء حفرة في حياتها، لكنها تعاني من نقص الخبرة في هذا المجال. تبتعد عن نظرائها عن طريق إخفاء عدم كفاءتها، وتحفر نفسها في المشاكل، حتى تصطدم بالحجر الأساس. في هذه اللحظة، تتعلم أن لا شىء يسوء في طلب المساعدة.",
+    "desc_en": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she's doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
+    "seo_title_ar": "مشاهدة فيلم Burrow مترجم - فيلم الرسوم المتحركة العائلي الكوميدي - توميتو",
+    "meta_desc": "شاهد فيلم Burrow مترجم - فيلم رسوم متحركة عائلي كوميديا من عام 2020، بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، استمتع بمشاهدة هذا العمل بجودة عالية و",
+    "outro": "نستمتع بمشاهدة فيلم Burrow، الذي يتعلمنا أن لا شىء يسوء في طلب المساعدة عندما نحتاجها.",
+    "opinion_ar": "فيلم الجحر هو تجربة مسلية وملهمة تساعدنا على فهم أهمية طلب المساعدة عندما نحتاجها.",
+    "opinion_en": "Burrow is an entertaining and inspiring film that helps us understand the importance of asking for help when we need it.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم خيمه؟",
-        "a": "هو فيلم رسوم متحركة و عائلي و كوميديا"
-      },
-      {
-        "q": "ما هو موضوع فيلم خيمه؟",
-        "a": "هو فيلم عن رجل الأرنب الذي يلقي حقيبة من الألوان والشخصيات في مكانها الصحيح"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه فيلم خيمه؟",
-        "a": "هو فيلم يحدث في عالم من الخيال والواقع"
+        "q": "ما هو فيلم الجحر؟",
+        "a": "فيلم رسوم متحركة عائلي كوميديا من عام 2020 يحكي قصة فأر صغيرة تبتكر فكرة بناء حفرة.",
+        "q_en": "What is Burrow?",
+        "a_en": "A 2020 animated comedy-drama film about a young rabbit who embarks on a journey to dig the burrow of her dreams."
       }
-    ]
+    ],
+    "keywords": "فيلم Burrow, رسوم متحركة, عائلي, كوميديا, الجحر, Burrow, مسلسلات 2020, الأفلام الرسومية, الأفلام الكوميدية, لا يلدغ من الجحر مرتين, المسلم لا يلدغ من الجحر مرتين, المؤمن لا يلدغ من الجحر مرتين, مشاهدة الجحر, Burrow مترجم, تحميل الجحر"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "6 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": ""
 }

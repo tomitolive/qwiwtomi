@@ -1,49 +1,51 @@
 {
   "id": 321623,
-  "title": "The Season",
-  "title_ar": "The Season",
-  "title_en": "The Season",
-  "slug": "321623-the-season",
-  "overview": "الموسم. دراما صيفية مشوقة تدور أحداثها في هونغ كونغ، حيث تتحول عطلة أصدقاء النخبة في عالم اليخوت إلى خيانة ومؤامرات عندما تظهر أجندات خفية. \"الموسم\" و\"The Season\" يقدمان قصة مشوقة ومثيرة.",
+  "title": "Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting",
+  "title_ar": "Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting",
+  "title_en": "Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting",
+  "slug": "321623-slide-america-a-look-inside-the-white-knuckled-tire-melting-world-of-drifting",
+  "overview": "يحكي فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" قصة رياضة الاندفاع، التي تتسم بالعنف والجذب، حيث يقوم السائقون بتعديل سياراتهم لتحقيق سرعات فائقة وحركات جانبية متهورة. يتعرف المشاهد على سائقين بارزين في هذا الرياضة ويشاهد مثير من مسابقات الاندفاع في جميع أنحاء البلاد.",
   "poster_path": "/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
-  "backdrop_path": "/s8aroz7KFG4vUBR7JJfmPHRaQV7.jpg",
-  "release_date": "2026-06-17",
-  "vote_average": 10.0,
-  "vote_count": 1,
+  "backdrop_path": null,
+  "release_date": "2006-01-01",
+  "vote_average": 7.0,
+  "vote_count": 10,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The Season (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "الموسم. دراما صيفية مشوقة تدور أحداثها في هونغ كونغ، حيث تتحول عطلة أصدقاء النخبة في عالم اليخوت إلى خيانة ومؤامرات عندما تظهر أجندات خفية. \"الموسم\" و\"The Season\" يقدمان قصة مشوقة ومثيرة.",
-    "desc_en": "The Season is a gripping drama set in Hong Kong's elite boating world. As the summer getaway unfolds, a group of friends find themselves caught in a web of betrayal and power struggles. \"The Season\" offers an intense and captivating watch.",
-    "seo_title_ar": "مشاهدة مسلسل الموسم The Season مترجم - توميتو",
-    "meta_desc": "الموسم. دراما صيفية مشوقة في هونغ كونغ، حيث تتحول عطلة النخبة إلى خيانة ومؤامرات. The Season يقدم قصة مثيرة ومليئة بالتوترات.",
-    "outro": "شاهد The Season الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "الموسم. دراما صيفية مشوقة تسلط الضوء على خفايا عالم النخبة في هونغ كونغ. قصة مشوقة ومثيرة للاهتمام، مع أداء رائع من الممثلين.",
-    "opinion_en": "The Season is a captivating summer drama that delves into the elite world of Hong Kong. An engaging story with brilliant performances, offering a unique and intense viewing experience.",
+    "intro": "يحكي فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" قصة رياضة الاندفاع، حيث يقوم السائقون بتعديل سياراتهم لتحقيق حركات جانبية متهورة.",
+    "desc_ar": "يحكي فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" قصة رياضة الاندفاع، التي تتسم بالعنف والجذب، حيث يقوم السائقون بتعديل سياراتهم لتحقيق سرعات فائقة وحركات جانبية متهورة. يتعرف المشاهد على سائقين بارزين في هذا الرياضة ويشاهد مثير من مسابقات الاندفاع في جميع أنحاء البلاد.",
+    "desc_en": "See how the gutsiest street drivers burn rubber in the 21st century with this look at drifting, the art of racing a specially modified car sideways -- at maximum velocity. Strap yourself in to explore the high-octane phenomenon that's become one of the fastest-growing -- and most perilous -- motor sports in America. Meet the drivers at the forefront of the sport and witness incredible racing footage from competitions all over the country.",
+    "seo_title_ar": "مشاهدة فيلم Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات (2006) بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، يروي هذا ا",
+    "outro": "يسلط فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" الضوء على التزام السائقين بتحقيق سرعات فائقة في رياضة الاندفاع، يظهر هذا الوثائقي التزام السائقين بتحقيق حركات جانبية متهورة.",
+    "opinion_ar": "فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" هو تجربة رياضية فريدة ومثيرة، يظهر هذا الوثائقي التزام السائقين بتحقيق سرعات فائقة في رياضة الاندفاع.",
+    "opinion_en": "Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting is an exhilarating sports experience, showcasing the unwavering commitment of drivers to achieve maximum velocity in the world of drifting.",
     "faq": [
       {
-        "q": "هل الموسم مبني على أحداث حقيقية؟",
-        "a": "لا، \"الموسم\" هو عمل خيالي، لكنه يستلهم بعض العناصر من عالم النخبة في هونغ كونغ.",
-        "q_en": "Is The Season based on real events?",
-        "a_en": "No, The Season is a work of fiction, but it draws inspiration from the elite world of Hong Kong."
+        "q": "ما هي رياضة الاندفاع؟",
+        "a": "الاندفاع هي رياضة السيارات التي تتسم بالسرعة والجذب، حيث يقوم السائقون بتعديل سياراتهم لتحقيق حركات جانبية متهورة.",
+        "q_en": "What is drifting?",
+        "a_en": "Drifting is a high-speed motor sport where drivers modify their cars to achieve sideways movements at maximum velocity."
+      },
+      {
+        "q": "متى صدر فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\"؟",
+        "a": "صدر فيلم \"Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات\" في عام 2006.",
+        "q_en": "When was Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting released?",
+        "a_en": "Slide America: A Look Inside The White-Knuckled, Tire-Melting World Of Drifting was released in 2006."
       }
     ],
-    "keywords": "الموسم, The Season, دراما, صيف, هونغ كونغ, خيانة, مؤامرات, يخوت, نخبة, أصدقاء"
+    "keywords": "فيلم, وثائقي, رياضة, اندفاع, سيارات, سائقون, سرعات, حركات جانبية, فيلم 2006, رياضة السيارات, مشاهدة Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات, Slide America: Look Inside The White-Knuckled, Tire-Melting World Of Drifting مترجم, تحميل Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات, Slide America: نظرة داخل عالم الانجراف ذو المفاصل البيضاء والإطارات اون لاين, Tire-Melting World Of Drifting"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "105 دقيقة",
   "language": "الإنجليزية",
-  "country": "Hong Kong",
-  "cast": "Jessie Mei Li Chris Pang Toby Stephens Yvonne Chapman Claire Lovering Justin Chien Celina Jade Karena Lam Kar-Yan",
-  "first_air_date": "2026-06-17",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

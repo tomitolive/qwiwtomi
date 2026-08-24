@@ -1,49 +1,45 @@
 {
   "id": 230311,
-  "title": "Love Has Fireworks",
-  "title_ar": "Love Has Fireworks",
-  "title_en": "Love Has Fireworks",
-  "slug": "230311-love-has-fireworks",
-  "overview": "مسلسل \"الحب لديه الألعاب النارية\"، هو دراما رومانسية مشوقة. تدور أحداث المسلسل حول قصة Qian Fei، الموظفة في البنك، التي تخطط لحياة مُرضية، لكن بعد تخلي خطيبها عنها، تضطر لإعادة تعريف حياتها. يلتقي قدرها بـ Li Yifei، القادم من عائلة ثرية، والذي يضع أولوية مطلقة لمسيرته المهنية. يتشارك الاثنان في رحلة مليئة بالتحديات والتصادمات، لكنهما يقعان في الحب ويقرران مواجهة المستقبل معًا. \"الحب لديه الألعاب النارية\"، Love Has Fireworks، مسلسل رومانسي ممتع ومليء بالمفاجآت.",
+  "title": "Hanna Ranch",
+  "title_ar": "Hanna Ranch",
+  "title_en": "Hanna Ranch",
+  "slug": "230311-hanna-ranch",
+  "overview": "يحكي فيلم \"مزرعة حنا\" قصة رجل أعمال مخضرم، كيرك حنا، الذي انضم إلى حركة رعي المواشي البيئية لتحمية الغرب من التدمير والاستغلال. لقد أصبح قائدًا في حركة رعي المواشي البيئية، وتم اختياره رئيسًا للجمعية الزراعية في كولورادو. لكن عندما وقعت رؤيته في صراع مع الواقع، فقدت حنا الأمل في تحقيق السلام والاستدامة.",
   "poster_path": "/6CgxIE21h2EofyrbTja1Jscgx35.jpg",
-  "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
-  "release_date": "2026-06-15",
-  "vote_average": 10.0,
-  "vote_count": 1,
+  "backdrop_path": null,
+  "release_date": "2014-05-16",
+  "vote_average": 5.2,
+  "vote_count": 5,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 99,
+      "name": "وثائقي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Love Has Fireworks (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"الحب لديه الألعاب النارية\"، هو دراما رومانسية مشوقة. تدور أحداث المسلسل حول قصة Qian Fei، الموظفة في البنك، التي تخطط لحياة مُرضية، لكن بعد تخلي خطيبها عنها، تضطر لإعادة تعريف حياتها. يلتقي قدرها بـ Li Yifei، القادم من عائلة ثرية، والذي يضع أولوية مطلقة لمسيرته المهنية. يتشارك الاثنان في رحلة مليئة بالتحديات والتصادمات، لكنهما يقعان في الحب ويقرران مواجهة المستقبل معًا. \"الحب لديه الألعاب النارية\"، Love Has Fireworks، مسلسل رومانسي ممتع ومليء بالمفاجآت.",
-    "desc_en": "Love Has Fireworks is a captivating romantic drama series. The story follows Qian Fei, a bank employee planning a fulfilling life, but her world turns upside down when her fiancé leaves her. She meets Li Yifei, from a wealthy family, who prioritizes his career. Together, they navigate challenges and collide in a journey of self-discovery. Will their love ignite amidst the fireworks of life's twists? Find out in this engaging series.",
-    "seo_title_ar": "مشاهدة مسلسل الحب لديه الألعاب النارية Love Has Fireworks مترجم - توميتو",
-    "meta_desc": "مشاهدة الحب لديه الألعاب النارية مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد Love Has Fireworks الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"الحب لديه الألعاب النارية\"، هو دراما رومانسية رائعة، تسلط الضوء على قوة الحب وقدرته على التغلب على الصعاب. قصة مليئة بالمشاعر والتحديات، تجعلك تعيش تجربة فريدة وممتعة.",
-    "opinion_en": "Love Has Fireworks is a captivating romantic drama that showcases the power of love and its ability to overcome challenges. It's a heartwarming journey filled with emotions and surprises.",
+    "intro": "يحكي فيلم \"مزرعة حنا\" قصة رجل أعمال مخضرم في كولورادو.",
+    "desc_ar": "يحكي فيلم \"مزرعة حنا\" قصة رجل أعمال مخضرم، كيرك حنا، الذي انضم إلى حركة رعي المواشي البيئية لتحمية الغرب من التدمير والاستغلال. لقد أصبح قائدًا في حركة رعي المواشي البيئية، وتم اختياره رئيسًا للجمعية الزراعية في كولورادو. لكن عندما وقعت رؤيته في صراع مع الواقع، فقدت حنا الأمل في تحقيق السلام والاستدامة.",
+    "desc_en": "Hanna Ranch is a feature documentary about visionary cattleman Kirk Hanna and his personal struggle to protect a once prominent way of life in Colorado. Born into a life on the family ranch, Hanna became a leader in the environmental ranching movement that set out to protect the West from the relentless encroachment of development and misuse.",
+    "seo_title_ar": "مشاهدة فيلم مزرعة حنا مترجم 2014",
+    "meta_desc": "شاهد فيلم مزرعة حنا مترجم 2014 قصة رجل أعمال مخضرم في كولورادو يتحمى من التدمير الاستغلال واستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانا",
+    "outro": "يشهد فيلم \"مزرعة حنا\" تحديات رجل أعمال مخضرم في كولورادو لتحمية حلمه في الاستدامة.",
+    "opinion_ar": "يحكي فيلم \"مزرعة حنا\" قصة حلم رجل أعمال مخضرم، كيرك حنا، الذي انضم إلى حركة رعي المواشي البيئية لتحمية الغرب من التدمير والاستغلال.",
+    "opinion_en": "Hanna Ranch is a powerful story of a man's struggle to protect his way of life in Colorado.",
     "faq": [
       {
-        "q": "هل مسلسل \"الحب لديه الألعاب النارية\" مناسب لجميع الأعمار؟",
-        "a": "نعم، المسلسل مناسب لجميع الأعمار، فهو يقدم قصة رومانسية جميلة ومليئة بالمشاعر الإنسانية.",
-        "q_en": "Is Love Has Fireworks suitable for all ages?",
-        "a_en": "Absolutely! It's a heartwarming romantic drama suitable for viewers of all ages."
+        "q": "متى صدر فيلم مزرعة حنا؟",
+        "a": "صدر فيلم مزرعة حنا في عام 2014.",
+        "q_en": "When was Hanna Ranch released?",
+        "a_en": "Hanna Ranch was released in 2014."
       }
     ],
-    "keywords": "الحب لديه الألعاب النارية, Love Has Fireworks, مسلسل, دراما, رومانسي, تحديات, علاقات, مشاعر, حب, حياة, مستقبل"
+    "keywords": "مزرعة حنا, فيلم وثائقي, كيرك حنا, كولورادو, رعي المواشي البيئية, الاستدامة, الحفاظ على البيئة, مشاهدة مزرعة حنا, Hanna Ranch مترجم, تحميل مزرعة حنا, مزرعة حنا اون لاين, Hanna Ranch, مزرعة حنا جودة عالية, فيلم مزرعة حنا, Hanna Ranch HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "73 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "Tan Jianci Wang Churan Li Xinze Jiang Peiyao Christine Zheng Elisa Ye Shao Weitong Liu Ruilin",
-  "first_air_date": "2026-06-15",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

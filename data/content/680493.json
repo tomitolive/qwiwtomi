@@ -1,50 +1,43 @@
 {
   "id": 680493,
-  "title": "Return to Silent Hill",
-  "title_ar": "Return to Silent Hill",
+  "title": "العودة إلى سايلنت هيل",
+  "title_ar": "العودة إلى سايلنت هيل",
   "title_en": "Return to Silent Hill",
   "slug": "680493-return-to-silent-hill",
-  "overview": "",
+  "overview": "بعد تلقيه رسالة غامضة من حبيبته المفقودة ماري، يعود جيمس إلى بلدة سايلنت هيل، حيث تقوده رحلة البحث عنها إلى مواجهة كائنات مرعبة واكتشاف أسرار مظلمة تهدد بفقدان صوابه.",
   "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
   "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
   "release_date": "2026-01-21",
-  "vote_average": 5.3,
-  "vote_count": 558,
+  "vote_average": 5.4,
+  "vote_count": 802,
   "genres": [
-    {
-      "id": 9648,
-      "name": "غموض"
-    },
-    {
-      "id": 18,
-      "name": "دراما"
-    },
     {
       "id": 27,
       "name": "رعب"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
     }
   ],
   "ai_content": {
-    "desc_ar": "بعدما عاد إلى مدينة سيلنت هيل، التي كانت ملاذًا له في الماضي، وجد أن كل شيء مختلف. مدينة مليئة بالسخرية والخوف، حيث ينتظر كل من يأتيها الموت. ولكن، ما الذي ينتظر героя؟ سوف نكتشف ذلك معه في هذه الرحلة إلى سيلنت هيل.",
-    "desc_en": "After returning to the city of Silent Hill, which was his haven in the past, he found that everything was different. A city filled with sarcasm and fear, where death awaits each newcomer. But what awaits the hero? We will discover that with him on this journey to Silent Hill.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة سيلنت هيل",
-    "seo_title_ar": "مشاهدة فيلم ريتورن تو سيلنت هيل مترجم اون لاين - توميتو",
-    "keywords": "فيلم ريتورن تو سيلنت هيل مترجم, مشاهدة فيلم ريتورن تو سيلنت هيل, أحداث Return to Silent Hill بالتفصيل, مشاهدة Return to Silent Hill 2026, قصة فيلم Return to Silent Hill, توميتو Return to Silent Hill, Return to Silent Hill مترجم",
-    "opinion": "هذه الرحلة إلى سيلنت هيل هي واحدة من أكثر الأفلام الإثارة التي شاهدناها، حيث تجمع بين الغموض والرعب والدراما في نهاية العالم.",
+    "intro": "يحكي فيلم العودة إلى سايلنت هيل قصة غريبة ومثيرة للاهتمام، حيث يتعرض جيمس لرحلة بحث عن حبيبته في بلدة مملوءة بالخوف والرعب.",
+    "desc_ar": "بعد استقباله رسالة غامضة من حبيبته المفقودة ماري، يجد جيمس نفسه مقودًا إلى بلدة سايلنت هيل، حيث يتعرض لرحلة بحث عنها التي توديته إلى مواجهة مع الكائنات المرعبة التي تملأ شوارع البلدة، وتسفر عن اكتشاف أسرار مظلمة تهدد بفقدان صوابه وتحوله إلى عالم من الخوف والشعور بالذنب.",
+    "desc_en": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hilla once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+    "seo_title_ar": "مشاهدة العودة إلى سايلنت هيل مترجم - فيلم رعب غامض 2026",
+    "meta_desc": "استمتع بمشاهدة العودة إلى سايلنت هيل فيلم رعب غامض من إنتاج 2026، حيث يبحث جيمس عن حبيبته المفقودة في بلدة مملوءة بالخوف والرعب. استمتع بمشاهدة هذا ال",
+    "outro": "العودة إلى سايلنت هيل فيلم رعب غامض يغوص في أعماق البشرية، ويشكل تجربة نفسية مؤثرة لجيمس في مواجهة الكائنات المرعبة في بلدة سايلنت هيل.",
+    "opinion_ar": "العودة إلى سايلنت هيل فيلم رعب غامض يغوص في أعماق البشرية، يتعرض جيمس لرحلة بحث عن حبيبته في بلدة مملوءة بالخوف والرعب.",
+    "opinion_en": "Return to Silent Hill is a chilling horror film that delves into the depths of human psychology, as James searches for his lost love in a town consumed by darkness.",
     "faq": [
       {
-        "q": "ما هو ريتورن تو سيلنت هيل؟",
-        "a": "هو فيلم رعب غموض يحدث في مدينة سيلنت هيل"
-      },
-      {
-        "q": "ما هو أفضل ما في هذا الفيلم؟",
-        "a": "إنه يجمع بين الغموض والرعب والدراما في نهاية العالم"
-      },
-      {
-        "q": "هل فيلم ريتورن تو سيلنت هيل مترجم؟",
-        "a": "نعم، فيلم ريتورن تو سيلنت هيل مترجم اون لاين على توميتو"
+        "q": "ما هو الهدف من رحلة جيمس إلى سايلنت هيل؟",
+        "a": "يحاول جيمس العثور على حبيبته المفقودة ماري في بلدة سايلنت هيل، التي تملأ شوارعها الكائنات المرعبة.",
+        "q_en": "What is James' goal in returning to Silent Hill?",
+        "a_en": "James is searching for his lost love Mary in Silent Hilla once-familiar town now consumed by darkness."
       }
-    ]
+    ],
+    "keywords": "العودة إلى سايلنت هيل, فيلم رعب, غموض, سايلنت هيل, خوف, رعب, بلدة الموت, ماري, جيمس, مشاهدة العودة إلى سايلنت هيل, Return Silent Hill مترجم, تحميل العودة إلى سايلنت هيل, العودة إلى سايلنت هيل اون لاين, Return Silent Hill, العودة إلى سايلنت هيل جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +45,5 @@
   "duration": "106 دقيقة",
   "language": "الإنجليزية",
   "country": "فرنسا",
-  "cast": "Jeremy Irvine Hannah Emily Anderson Evie Templeton Pearse Egan Nicola Alexis"
+  "cast": "Jeremy Irvine Hannah Emily Anderson Ljiljana Velimirov Giulia Pelagatti Evie Templeton Robert Strange Pearse Egan Nicola Alexis"
 }

@@ -11393,8 +11393,158 @@
       "file": "41149.json",
       "title": "Die Rosenheim-Cops",
       "fixed_at": "2026-08-24T07:53:47.180120"
+    },
+    {
+      "tmdb_id": "561",
+      "file": "561.json",
+      "title": "قسطنطين",
+      "fixed_at": "2026-08-24T08:38:47.672610"
+    },
+    {
+      "tmdb_id": "385687",
+      "file": "385687.json",
+      "title": "السريع 10",
+      "fixed_at": "2026-08-24T08:38:56.949339"
+    },
+    {
+      "tmdb_id": "11229",
+      "file": "11229.json",
+      "title": "10-8: Officers on Duty",
+      "fixed_at": "2026-08-24T08:39:05.357794"
+    },
+    {
+      "tmdb_id": "842033",
+      "file": "842033.json",
+      "title": "Ghost Mansion",
+      "fixed_at": "2026-08-24T08:39:14.970011"
+    },
+    {
+      "tmdb_id": "1338",
+      "file": "1338.json",
+      "title": "Alarm fr Cobra 11 - Die Autobahnpolizei",
+      "fixed_at": "2026-08-24T08:39:43.472148"
+    },
+    {
+      "tmdb_id": "230311",
+      "file": "230311.json",
+      "title": "Love Has Fireworks",
+      "fixed_at": "2026-08-24T08:40:09.017720"
+    },
+    {
+      "tmdb_id": "73833",
+      "file": "73833.json",
+      "title": "The Ancient Magus Bride",
+      "fixed_at": "2026-08-24T08:40:22.448829"
+    },
+    {
+      "tmdb_id": "980477",
+      "file": "980477.json",
+      "title": "ناا ٢",
+      "fixed_at": "2026-08-24T08:40:58.253195"
+    },
+    {
+      "tmdb_id": "56336",
+      "file": "56336.json",
+      "title": "The Tunnel",
+      "fixed_at": "2026-08-24T08:41:06.360313"
+    },
+    {
+      "tmdb_id": "1923",
+      "file": "1923.json",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "fixed_at": "2026-08-24T08:41:36.363790"
+    },
+    {
+      "tmdb_id": "72190",
+      "file": "72190.json",
+      "title": "حرب الزومبي العالمية",
+      "fixed_at": "2026-08-24T08:41:44.677960"
+    },
+    {
+      "tmdb_id": "285",
+      "file": "285.json",
+      "title": "قراصنة الكاريبي - في نهاية العالم",
+      "fixed_at": "2026-08-24T08:41:53.880475"
+    },
+    {
+      "tmdb_id": "747059",
+      "file": "747059.json",
+      "title": "Burrow",
+      "fixed_at": "2026-08-24T08:42:03.446068"
+    },
+    {
+      "tmdb_id": "1079057",
+      "file": "1079057.json",
+      "title": "The Silent Service",
+      "fixed_at": "2026-08-24T08:42:12.804580"
+    },
+    {
+      "tmdb_id": "40424",
+      "file": "40424.json",
+      "title": "D",
+      "fixed_at": "2026-08-24T08:42:38.875998"
+    },
+    {
+      "tmdb_id": "2",
+      "file": "2.json",
+      "title": "Clerks",
+      "fixed_at": "2026-08-24T08:43:02.142382"
+    },
+    {
+      "tmdb_id": "82976",
+      "file": "82976.json",
+      "title": "Les Novices",
+      "fixed_at": "2026-08-24T08:43:10.301920"
+    },
+    {
+      "tmdb_id": "321623",
+      "file": "321623.json",
+      "title": "The Season",
+      "fixed_at": "2026-08-24T08:43:29.880987"
+    },
+    {
+      "tmdb_id": "58008",
+      "file": "58008.json",
+      "title": "Linfermiera di notte",
+      "fixed_at": "2026-08-24T08:43:39.023734"
+    },
+    {
+      "tmdb_id": "1376434",
+      "file": "1376434.json",
+      "title": "بريداتور: قاتل القتلة",
+      "fixed_at": "2026-08-24T08:44:14.017832"
+    },
+    {
+      "tmdb_id": "1032823",
+      "file": "1032823.json",
+      "title": "فخ",
+      "fixed_at": "2026-08-24T08:44:21.630683"
+    },
+    {
+      "tmdb_id": "308266",
+      "file": "308266.json",
+      "title": "المنتفعون من الحرب",
+      "fixed_at": "2026-08-24T08:44:30.531146"
+    },
+    {
+      "tmdb_id": "2691",
+      "file": "2691.json",
+      "title": "رجلان ونصف",
+      "fixed_at": "2026-08-24T08:44:39.359943"
+    },
+    {
+      "tmdb_id": "575264",
+      "file": "575264.json",
+      "title": "مهمة مستحيلة - الحساب الميت الجزء الأول",
+      "fixed_at": "2026-08-24T08:44:48.434475"
+    },
+    {
+      "tmdb_id": "680493",
+      "file": "680493.json",
+      "title": "Return to Silent Hill",
+      "fixed_at": "2026-08-24T08:44:55.788228"
     }
   ],
-  "last_updated": "2026-08-24T07:53:49.584097",
-  "total_fixed": 1899
+  "last_updated": "2026-08-24T08:44:58.018243",
+  "total_fixed": 1924
 }
