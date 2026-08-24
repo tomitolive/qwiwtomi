@@ -4,14 +4,12 @@
   "title_ar": "السيد روبوت",
   "title_en": "Mr. Robot",
   "slug": "62560-mr-robot",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "إليوت يعاني من إضطرابٍ اجتماعي و يواجه مشاكل في التواصل مع الناس غير أنه لديه قدرات كبيرة في استخدام التكنولوجيا والقرصنة. يتم تجنيد إليوت عن طريق الأناركي الغامض الذى يطلق على نفسة اسم السيد روبوت.",
+  "overview": "إليوت ألدرسون شاب عبقري في مجال الأمن السيبراني يعمل مهندسًا في إحدى الشركات الكبرى، لكنه يعيش منعزلًا عن الآخرين ويقضي جزءًا كبيرًا من وقته في اختراق حسابات وأنظمة الأشخاص من حوله. تتغير حياته عندما يقترب منه شخص غامض يُدعى مستر روبوت، ويعرض عليه الانضمام إلى مجموعة من القراصنة الإلكترونيين تهدف إلى إسقاط شركة ضخمة تسيطر على جزء كبير من الاقتصاد العالمي. يجد إليوت نفسه أمام فرصة لتغيير النظام الذي يراه فاسدًا، لكنه سرعان ما يكتشف أن تنفيذ خطتهم أخطر وأكثر تعقيدًا مما توقع، بينما تتداخل أسرار ماضيه وحياته النفسية مع الأحداث وتجعله يشك في كل ما يحدث من حوله.",
   "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-  "backdrop_path": "/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg",
+  "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
   "release_date": "2015-06-24",
   "vote_average": 8.3,
-  "vote_count": 5331,
+  "vote_count": 5528,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحكى قصة إليوت، الشخصية الرئيسية، الذي يعاني من اضطراب اجتماعي ويواجه مشاكل في التواصل مع الناس، غير أنه لديه قدرات كبيرة في استخدام التكنولوجيا والقرصنة. يتم تجنيد إليوت عن طريق الأناركي الغامض الذى يطلق على نفسه اسم السيد روبوت، الذي يملك مشروعاً كبيراً في مجال القرصنة والهكر. إليوت يجد نفسه في وسط معركة بين الشرطة والأناركيين، حيث يتعامل مع مشكلات الشخصية والسياسية في آن واحد.",
-    "desc_en": "The story revolves around Elliot, the main character, who suffers from social anxiety and struggles with social interactions. However, he possesses great skills in using technology and hacking. Elliot is recruited by the enigmatic anarchist who calls himself Mr. Robot, who has a large-scale project in the field of hacking and cybercrime. Elliot finds himself in the middle of a battle between the police and the anarchists, where he deals with personal and political issues simultaneously.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في السيد روبوت - توميتو",
-    "seo_title_ar": "مشاهدة السيد روبوت مترجم اون لاين - توميتو",
-    "keywords": "Mr. Robot, فيلم جريمة مترجم, مشاهدة فيلم دراما, قصة مسلسل السيد روبوت, السيد روبوت مترجم كامل, مشاهدة السيد روبوت 2015, أحداث السيد روبوت بالتفصيل, توميتو السيد روبوت",
-    "opinion": "السيد روبوت هو واحد من أفضل المسلسلات الدرامية التي شاهدتها، حيث يجمع بين النوع والدراما والجريمة في آن واحد. القصة هي قصة معركة بين الشرطة والأناركيين، حيث يتعامل مع مشكلات الشخصية والسياسية في آن واحد.",
+    "intro": "السيد روبوت هو مسلسل جريمة, دراما يصور قصة شاب يعمل في مجال الأمن السيبراني, يلتقي بمستر روبوت, يجد فرصة لتغيير النظام, لكن تنفيذ خطتهم يصعب عليه.",
+    "desc_ar": "يحكي السيد روبوت قصة شاب عبقري يعمل في مجال الأمن السيبراني، لكنه يعيش في عزل عن الآخرين ويقضي وقته في اختراق حسابات ومكافحة أمنية. يغيير حياته عندما يلتقي بمن يُدعى مستر روبوت، الذي يعرض له الانضمام إلى مجموعة من القراصنة الإلكترونيين تهدف إلى إسقاط شركة ضخمة تسيطر على جزء كبير من الاقتصاد العالمي. يجد إليوت نفسه أمام فرصة لتغيير النظام الذي يراه فاسدًا، لكن تنفيذ خطتهم يصعب عليه وتتداخل أسرار ماضيه مع الأحداث. يبدأ إليوت في الشك في كل ما يحدث من حوله، بينما يجد نفسه في معركة بين عالم الأمن السيبراني ومجتمع القراصنة.",
+    "desc_en": "A young programmer, Elliot, suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot finds himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+    "seo_title_ar": "مشاهدة السيد روبوت مترجم - مسلسل جريمة, دراما",
+    "meta_desc": "مشاهدة السيد روبوت مترجم - مسلسل جريمة, دراما, عن قصة شاب عبقري يعمل في مجال الأمن السيبراني, يلتقي بمستر روبوت, يجد فرصة لتغيير النظام, لكن تنفيذ خطتهم يص",
+    "outro": "يعد السيد روبوت عملًا فنيًا يبرز شكلاً وروحياً, يلفت انتباه المشاهدين بوقوعه في عاصفة من الحوادث, يتعامل مع قضايا اجتماعية وسياسية خطيرة, يعكس الواقع السيء الذي يعيشه الناس في العالم الحقيقي.",
+    "opinion_ar": "السيد روبوت هو عمل فني يبرز شكلاً وروحياً, يلفت انتباه المشاهدين بوقوعه في عاصفة من الحوادث, يتعامل مع قضايا اجتماعية وسياسية خطيرة, يعكس الواقع السيء الذي يعيشه الناس في العالم الحقيقي.",
+    "opinion_en": "Mr. Robot is a thought-provoking series that delves into the darker aspects of society, exploring the consequences of a corrupt system and the impact it has on individuals.",
     "faq": [
       {
         "q": "ما هو السيد روبوت؟",
-        "a": "السيد روبوت هو مسلسل دراما جريمة أمريكي، حيث يروي قصة إليوت، الشخصية الرئيسية، الذي يعاني من اضطراب اجتماعي."
+        "a": "السيد روبوت هو مسلسل جريمة, دراما يصور قصة شاب يعمل في مجال الأمن السيبراني, يلتقي بمستر روبوت, يجد فرصة لتغيير النظام, لكن تنفيذ خطتهم يصعب عليه.",
+        "q_en": "What is Mr. Robot?",
+        "a_en": "Mr. Robot is a crime drama series that follows the story of a young programmer who works in cybersecurity, meets Mr. Robot, and finds himself in a battle between the cybersecurity world and the underworld organizations."
       },
       {
-        "q": "ما هو نوع السيد روبوت؟",
-        "a": "السيد روبوت هو مسلسل تلفزيوني، حيث يجمع بين النوع والدراما والجريمة في آن واحد."
-      },
-      {
-        "q": "ما هو السبب في مشاهدة السيد روبوت؟",
-        "a": "السيد روبوت هو واحد من أفضل المسلسلات الدرامية التي شاهدتها، حيث يجمع بين النوع والدراما والجريمة في آن واحد، مما يجعل من مشاهدة الحلقة الأولى إلى الأخيرة أمراً مريحاً"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "نوع المسلسل هو جريمة, دراما.",
+        "q_en": "What type of series is Mr. Robot?",
+        "a_en": "Mr. Robot is a crime drama series."
       }
-    ]
+    ],
+    "keywords": "السيد روبوت, مسلسل, جريمة, دراما, امن سيبراني, مستر روبوت, قراصنة, امريكا, شركة ضخمة, اسرار, ماضي, حياة, نفسية, معركة, عالم"
   },
   "fixed": true,
-  "first_air_date": "2015-06-24",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "83 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Robert Dunham Yōsuke Natsuki Yōko Fujiyama Hiroshi Koizumi Susumu Fujita"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Rami Malek Christian Slater Carly Chaikin",
+  "first_air_date": "2015-06-24"
 }

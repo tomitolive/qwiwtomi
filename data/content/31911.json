@@ -4,14 +4,12 @@
   "title_ar": "الخيميائي الفولاذي : الأخوة",
   "title_en": "Fullmetal Alchemist: Brotherhood",
   "slug": "31911-fullmetal-alchemist-brotherhood",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعدما تنتهي محاولتهما لإحياء والدتهما الراحلة بكارثة، ينطلق شقيقان في رحلة بحث عن حجر الفلاسفة، وقد تُركا في أجساد مشوّهة لا تُشبه ما كانا عليه.",
   "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-  "backdrop_path": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+  "backdrop_path": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
   "release_date": "2009-04-05",
   "vote_average": 8.7,
-  "vote_count": 2452,
+  "vote_count": 2549,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعدما تنتهي محاولتهما لإحياء والدتهما الراحلة بكارثة، يجد الأخوان البارزين رين وروي أنفسهم في رحلة بحث عن حجر الفلاسفة، الذي يمكنهم إعادة بناء أجسادهما المشوّهة. خلال رحلتهم، يتعاملون مع مختلف الأشخاص والمنظمات التي تريد استغلالهم لتحقيق أهدافها، ويقابلون معاناةً وآلاماً في رحلة بحثهم عن الحقيقة.",
-    "desc_en": "After their attempt to bring their mother back to life goes awry, brothers Edward and Alphonse Elric embark on a journey to find the Philosopher's Stone, which can restore their bodies to their former state. Along the way, they encounter various people and organizations seeking to exploit them for their own purposes, and face hardships and pain in their search for the truth.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الخيميائي الفولاذي : الأخوة",
-    "seo_title_ar": "مشاهدة فيلم الخيميائي الفولاذي : الأخوة مترجم اون لاين - توميتو",
-    "keywords": "Fullmetal Alchemist: Brotherhood, فيلم الخيميائي الفولاذي مترجم, مشاهدة فيلم الخيميائي الفولاذي, أحداث الخيميائي الفولاذي : الأخوة بالتفصيل, قصة مسلسل الخيميائي الفولاذي : الأخوة, توميتو الخيميائي الفولاذي : الأخوة, الخيميائي الفولاذي : الأخوة مترجم كامل, مشاهدة الخيميائي الفولاذي : الأخوة 2009",
-    "opinion": "هو فيلم خيال علمي وفانتازيا رائع، يجمع بين دراما والحركة والخيال العلمي، ويقدم لنا قصة رائعة عن الأخوة الاثنين الذين يبحثون عن الحقيقة في عالم مليء بالمعاناة والآلام.",
+    "intro": "يحكي مسلسل الخيميائي الفولاذي : الأخوة قصة عن شقيقين يعملان على إحياء والدتهم الراحلة من خلال العثور على حجر الفلاسفة.",
+    "desc_ar": "يحكي مسلسل الخيميائي الفولاذي : الأخوة قصة عن شقيقين يعملان على إحياء والدتهم الراحلة من خلال العثور على حجر الفلاسفة، ولكن عملية فشلتهم تتركهم في حالات لا يمكن إصلاحها. يجد الشقيقان أنفسهم مضطرين للبحث عن حجر الفلاسفة، على الرغم من تحدياتهم وعدم اليقين، ويستمرّان في رحلتهم مع وجود أعداء ودوائر داعمة، لكن قربتهم من الحجر الفلسفي لن يتأثر.",
+    "desc_en": "Disregard for alchemys laws ripped half of Edward Elrics limbs from his body and left his brother Alphonses soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosophers Stone. Enemies and allies the corrupt military, the Homunculi, and foreign alchemists will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+    "seo_title_ar": "مشاهدة مسلسل الخيميائي الفولاذي : الأخوة مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل الخيميائي الفولاذي : الأخوة مترجم بجودة عالية، عن شقيقين يحاولان إحياء والدتهم من خلال العثور على حجر الفلاسفة، مع وجود تحديات وعدم اليقين، واست",
+    "outro": "يبقى مسلسل الخيميائي الفولاذي : الأخوة مسلسلًا مميزًا عن طريق تناوله لأسئلة عميقة عن الأخوة والصداقة والتفاني في مهمة.",
+    "opinion_ar": "يسعدني مشاهدة مسلسل الخيميائي الفولاذي : الأخوة، حيث يتعامل مع قضايا عميقة حول الأخوة والصداقة والتفاني في مهمة.",
+    "opinion_en": "I highly recommend Fullmetal Alchemist: Brotherhood, a compelling anime that explores complex themes of brotherhood, friendship, and dedication to a mission.",
     "faq": [
       {
-        "q": "ما هو الخيميائي الفولاذي?",
-        "a": "هو فيلم خيال علمي وفانتازيا رائع يروي قصة الأخوة الاثنين الذين يبحثون عن الحقيقة في عالم مليء بالمعاناة والآلام."
-      },
-      {
-        "q": "ما هو هدف الأخوة في الخيميائي الفولاذي?",
-        "a": "هدف الأخوة هو العثور على حجر الفلاسفة الذي يمكنهم إعادة بناء أجسادهما المشوّهة."
-      },
-      {
-        "q": "ما هو نوع الخيميائي الفولاذي?",
-        "a": "هو فيلم رسوم متحركة، حركة ومغامرة، خيال علمي وفانتازيا، دراما"
+        "q": "ما هو سبب بداية المسلسل؟",
+        "a": "يحكي المسلسل قصة عن شقيقين يعملان على إحياء والدتهم من خلال العثور على حجر الفلاسفة.",
+        "q_en": "What is the reason for the beginning of the anime?",
+        "a_en": "The anime tells the story of two brothers working to bring back their mother through the Philosophers Stone."
       }
-    ]
+    ],
+    "keywords": "الخيميائي الفولاذي : الأخوة, مسلسل, رسوم متحركة, حركة ومغامرة, خيال علمي وفانتازيا, دراما, حجر الفلاسفة, الأخوة, العثور على الحجر, مشاهدة الخيميائي الفولاذي : الأخوة, Fullmetal Alchemist: Brotherhood مترجم, تحميل الخيميائي الفولاذي : الأخوة, الخيميائي الفولاذي : الأخوة اون لاين, Fullmetal Alchemist: Brotherhood, الخيميائي الفولاذي : الأخوة جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2009-04-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "98 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Matt Dillon Annabella Sciorra Mary-Louise Parker William Hurt Vincent D'Onofrio"
+  "duration": "45 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Romi Park Rie Kugimiya Shin-ichiro Miki Fumiko Orikasa Megumi Takamoto",
+  "first_air_date": "2009-04-05"
 }

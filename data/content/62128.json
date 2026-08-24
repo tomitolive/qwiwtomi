@@ -4,9 +4,7 @@
   "title_ar": "The Kitchen",
   "title_en": "The Kitchen",
   "slug": "62128-the-kitchen",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة مجموعة من المطربين الذين يجمعهم عشق الطعام والمطبخ. يشارك المضيفون هذا الحب في كل حلقة من خلال المأكولات المختلفة والوصفات الجديدة التي تجمع بين الأشخاص من مختلف الثقافات. من خلال هذا المسلسل، يتعرف المشاهد على أهمية التفاعل مع الأفراد من خلال الطعام، وكيف يمكن أن يربط الطعام بين الناس وتحفيزهم على التعاون. كما يسلط المسلسل الضوء على التقاليد الغذائية المختلفة في العالم، وتعكس حياة الأشخاص من خلال الطعام الذي ي..",
   "poster_path": "/G2PN9AnF4DqQVenuFabUqtW4hS.jpg",
   "backdrop_path": "/tTHGEYXcqNqaWqVqYfv3lH0fegU.jpg",
   "release_date": "2014-01-04",
@@ -31,33 +29,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في كوخين، حيث يلعب الأب دوراً رئيسياً في حياتهم، تتعثر الأحداث عندما يكتشف ابنهما أن والدهم يخفي سراً كبيراً عنهم. كيف سيردعهم هذا الاكتشف؟",
-    "desc_en": "In a small town, where the father plays a major role in their lives, the events take a turn when their son discovers a huge secret that their father has been hiding from them. How will this discovery affect them?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في كوخين!",
-    "seo_title_ar": "مشاهدة فيلم كوخين مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوخين مترجم, مشاهدة فيلم كوخين, قصة مسلسل The Kitchen, مشاهدة The Kitchen 2014, أحداث The Kitchen بالتفصيل, The Kitchen مترجم كامل, توميتو The Kitchen",
-    "opinion": "في كوخين، نرى كيف يلعب الأب دوراً رئيسياً في حياتهم، ولكننا نرى أيضاً كيف يمكن أن يخفي الأب سراً كبيراً عنهم. هذا هو فيلم دراما عائلي يلقي بظلاله على حياتهم.",
+    "intro": "يحكي مسلسل المطبخ قصة مجموعة من المطربين الذين يجمعهم عشق الطعام والمطبخ.",
+    "desc_ar": "يحكي هذا المسلسل قصة مجموعة من المطربين الذين يجمعهم عشق الطعام والمطبخ. يشارك المضيفون هذا الحب في كل حلقة من خلال المأكولات المختلفة والوصفات الجديدة التي تجمع بين الأشخاص من مختلف الثقافات. من خلال هذا المسلسل، يتعرف المشاهد على أهمية التفاعل مع الأفراد من خلال الطعام، وكيف يمكن أن يربط الطعام بين الناس وتحفيزهم على التعاون. كما يسلط المسلسل الضوء على التقاليد الغذائية المختلفة في العالم، وتعكس حياة الأشخاص من خلال الطعام الذي ي..",
+    "desc_en": "Spend a fun and food-filled morning in The Kitchen with hosts Sunny Anderson, Katie Lee, Jeff Mauro, Marcela Valladolid, and Geoffrey Zakarian. From simple supper ideas, food trend discussions, and family meal tips to trivia games and viewer questions, they'll cover all things fun in food.",
+    "seo_title_ar": "مشاهدة مسلسل المطبخ مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل The Kitchen مترجم من عام 2014 على توميتو، مع وصفات مطبخية جديدة وثقافات عالمية. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إ",
+    "outro": "أنهى مسلسل المطبخ حكايته، ولكن يمكنك الاستمتاع به مرة أخرى من خلال العروض الترويجية والوصفات الجديدة.",
+    "opinion_ar": "قصة مسلسل المطبخ هي مثال رائع على كيفية جعل الطعام يستمتع به الناس، ويحفزهم على التفاعل مع بعضهم البعض.",
+    "opinion_en": "This show is a great example of how food can bring people together and create a fun experience.",
     "faq": [
       {
-        "q": "ما هو سر الأب؟",
-        "a": "هو سر كبير يخفي الأب عنهم"
+        "q": "ما هو أصل الطعام في مسلسل المطبخ؟",
+        "a": "يحكي المسلسل قصة مجموعة من المطربين الذين يجمعهم عشق الطعام والمطبخ.",
+        "q_en": "What is the origin of food in The Kitchen show?",
+        "a_en": "The show tells the story of a group of musicians who share a love of food and cooking."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم دراما عائلي"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه الفيلم؟",
-        "a": "هو صغير في بلدة"
+        "q": "كيف يمكنني حجز مقعد في مسلسل المطبخ؟",
+        "a": "لا يوجد حجز للمقاعد في مسلسل المطبخ، بل يعتمد على العروض الترويجية.",
+        "q_en": "How can I book a seat in The Kitchen show?",
+        "a_en": "There is no seat booking in The Kitchen show, but it's based on promotional offers."
       }
-    ]
+    ],
+    "keywords": "المطبخ, The Kitchen, مسلسل, واقع, عائلي, حوار, دراما, طعام, وصفات, ثقافات, مشاهدة المطبخ, The Kitchen مترجم, تحميل المطبخ, المطبخ اون لاين, The Kitchen online"
   },
   "fixed": true,
-  "first_air_date": "2014-01-04",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "60 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Sunny Anderson Katie Lee Biegel Jeff Mauro Marcela Valladolid Geoffrey Zakarian Alex Guarnaschelli",
+  "first_air_date": "2014-01-04"
 }

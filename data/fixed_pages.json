@@ -14477,8 +14477,134 @@
       "file": "326119.json",
       "title": "Thunder 3",
       "fixed_at": "2026-08-24T21:30:57.860329"
+    },
+    {
+      "tmdb_id": "3716",
+      "file": "3716.json",
+      "title": "Dragnet",
+      "fixed_at": "2026-08-24T21:53:07.611705"
+    },
+    {
+      "tmdb_id": "14160",
+      "file": "14160.json",
+      "title": "فوق",
+      "fixed_at": "2026-08-24T21:53:23.952121"
+    },
+    {
+      "tmdb_id": "238754",
+      "file": "238754.json",
+      "title": "The Loyal Pin",
+      "fixed_at": "2026-08-24T21:53:31.854877"
+    },
+    {
+      "tmdb_id": "1996",
+      "file": "1996.json",
+      "title": "فلينستون",
+      "fixed_at": "2026-08-24T21:53:39.774792"
+    },
+    {
+      "tmdb_id": "1198994",
+      "file": "1198994.json",
+      "title": "أرسل المساعدة",
+      "fixed_at": "2026-08-24T21:53:47.834961"
+    },
+    {
+      "tmdb_id": "212989",
+      "file": "212989.json",
+      "title": "LEGO Ninjago: Dragons Rising",
+      "fixed_at": "2026-08-24T21:53:55.769589"
+    },
+    {
+      "tmdb_id": "281338",
+      "file": "281338.json",
+      "title": "حرب لأجل كوكب القردة",
+      "fixed_at": "2026-08-24T21:54:03.261212"
+    },
+    {
+      "tmdb_id": "772",
+      "file": "772.json",
+      "title": "وحيد في المنزل 2: ضائع في نيويورك",
+      "fixed_at": "2026-08-24T21:54:11.155949"
+    },
+    {
+      "tmdb_id": "1398",
+      "file": "1398.json",
+      "title": "آل سوبرانو",
+      "fixed_at": "2026-08-24T21:54:31.094445"
+    },
+    {
+      "tmdb_id": "31911",
+      "file": "31911.json",
+      "title": "الخيميائي الفولاذي : الأخوة",
+      "fixed_at": "2026-08-24T21:54:45.147289"
+    },
+    {
+      "tmdb_id": "2855",
+      "file": "2855.json",
+      "title": "Relic Hunter",
+      "fixed_at": "2026-08-24T21:54:54.436801"
+    },
+    {
+      "tmdb_id": "1357633",
+      "file": "1357633.json",
+      "title": "-ReAwakening-",
+      "fixed_at": "2026-08-24T21:55:06.740862"
+    },
+    {
+      "tmdb_id": "67075",
+      "file": "67075.json",
+      "title": "موب سايكو ١٠٠",
+      "fixed_at": "2026-08-24T21:55:22.422490"
+    },
+    {
+      "tmdb_id": "40444",
+      "file": "40444.json",
+      "title": "Linkin Park: Live in Texas",
+      "fixed_at": "2026-08-24T21:55:31.675441"
+    },
+    {
+      "tmdb_id": "6127",
+      "file": "6127.json",
+      "title": "Agatha Christies Marple",
+      "fixed_at": "2026-08-24T21:55:40.594489"
+    },
+    {
+      "tmdb_id": "62560",
+      "file": "62560.json",
+      "title": "السيد روبوت",
+      "fixed_at": "2026-08-24T21:55:51.978324"
+    },
+    {
+      "tmdb_id": "1496735",
+      "file": "1496735.json",
+      "title": "Genshin Impact: Star Odyssey",
+      "fixed_at": "2026-08-24T21:56:27.205807"
+    },
+    {
+      "tmdb_id": "1408170",
+      "file": "1408170.json",
+      "title": "Lenin",
+      "fixed_at": "2026-08-24T21:57:05.300124"
+    },
+    {
+      "tmdb_id": "62128",
+      "file": "62128.json",
+      "title": "The Kitchen",
+      "fixed_at": "2026-08-24T21:57:13.706492"
+    },
+    {
+      "tmdb_id": "237020",
+      "file": "237020.json",
+      "title": "Lecture Room",
+      "fixed_at": "2026-08-24T21:57:22.291275"
+    },
+    {
+      "tmdb_id": "45782",
+      "file": "45782.json",
+      "title": "Sword Art Online",
+      "fixed_at": "2026-08-24T21:57:44.057466"
     }
   ],
-  "last_updated": "2026-08-24T21:31:00.010470",
-  "total_fixed": 2413
+  "last_updated": "2026-08-24T21:57:46.181086",
+  "total_fixed": 2434
 }

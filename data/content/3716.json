@@ -4,14 +4,12 @@
   "title_ar": "Dragnet",
   "title_en": "Dragnet",
   "slug": "3716-dragnet",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل دراجنت قصة شرطة لوس أنجلوس من خلال تعاقب قضايا الشرطة، مع التركيز على أعمال الشرطة في مدينة لوس أنجلوس، ويشمل المسلسل حالات مختلفة، من جرائم قتل إلى جرائم أخرى، مع التركيز على مهارات الشرطة في حل الجرائم وتسجيل المعتقلين.",
   "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
   "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
   "release_date": "1951-12-16",
   "vote_average": 6.5,
-  "vote_count": 34,
+  "vote_count": 35,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الدراما والجريمة، يقود المحقق جيفري جاريسون المخضرم فريق التحقيق في لوس أنجلوس في مهمة لاكتشاف الحقيقة وراء جريمة قتل رهيبة. مع كل خطوة، يكتشف جاريسون أن هناك الكثير من الأسرار والسرائر والخداعات التي تمنعهم من الاكتشاف الحقيقي.",
-    "desc_en": "In the world of drama and crime, veteran detective Jeffrey Jackson leads the investigation team in Los Angeles on a mission to uncover the truth behind a heinous murder. With each step, Jackson discovers that there are many secrets, lies, and deceptions that prevent them from finding the truth.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراغنيت!",
-    "seo_title_ar": "مشاهدة فيلم دراغنيت مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراغنيت مترجم, مشاهدة فيلم دراغنيت, Dragnet مترجم كامل, أحداث Dragnet بالتفصيل, توميتو Dragnet, مشاهدة Dragnet 1951, قصة مسلسل Dragnet",
-    "opinion": "هو فيلم دراغنيت هو فيلم دراما جريمة رائع، حيث يلقي الضوء على الجريمة والتحقيق في لوس أنجلوس، مما يجعلنا نرى العالم من جديد.",
+    "intro": "يبحث الشرطي Joe Friday عن الحقيقة، مع مساعدته من الشرطة في حل الجرائم.",
+    "desc_ar": "يحكي مسلسل دراجنت قصة شرطة لوس أنجلوس من خلال تعاقب قضايا الشرطة، مع التركيز على أعمال الشرطة في مدينة لوس أنجلوس، ويشمل المسلسل حالات مختلفة، من جرائم قتل إلى جرائم أخرى، مع التركيز على مهارات الشرطة في حل الجرائم وتسجيل المعتقلين.",
+    "desc_en": "Follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners.",
+    "seo_title_ar": "مشاهدة مسلسل دراجنت مترجم - دراجنت - دراما جريمة 1951",
+    "meta_desc": "شاهد مسلسل دراجنت مترجم مجانا، دراما جريمة 1951, دراجنت، دراما جريمة, دراجنت مترجم, دراجنت اون لاين, دراجنت قصة, دراجنت مترجم اون لاين, دراجنت تي في, دراجن",
+    "outro": "يحقق الشرطي Joe Friday مع شركائه في حل الجرائم، مع تركيزه على الحقيقة.",
+    "opinion_ar": "أثبتت دراجنت كمسلسل درامي جيد، مع قصة مثيرة وجرائم مثيرة للقلق.",
+    "opinion_en": "Dragnet has proven herself as a good drama series, with a thrilling story and crime cases that keep you on the edge of your seat.",
     "faq": [
       {
-        "q": "ما هو دراغنيت؟",
-        "a": "هو فيلم دراما جريمة رائع يلقي الضوء على الجريمة والتحقيق في لوس أنجلوس."
-      },
-      {
-        "q": "ما هو هدف المحقق جاريسون؟",
-        "a": "يهدف جاريسون إلى اكتشاف الحقيقة وراء جريمة قتل رهيبة."
-      },
-      {
-        "q": "ما هو العالم الذي يDescribe الفيلم؟",
-        "a": "يDescribe الفيلم عالم الدراما والجريمة في لوس أنجلوس"
+        "q": "ما هي قصة مسلسل دراجنت؟",
+        "a": "يحكي مسلسل دراجنت قصة شرطة لوس أنجلوس من خلال تعاقب قضايا الشرطة.",
+        "q_en": "What is the story of Dragnet?",
+        "a_en": "The series follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners."
       }
-    ]
+    ],
+    "keywords": "دراجنت, مسلسل دراجنت, دراجنت مترجم, دراجنت اون لاين, دراجنت قصة, دراجنت مترجم اون لاين, دراجنت قصة اون لاين, دراجنت قصة تي في, دراجنت قصة مترجمة, دراجنت قصة مترجمة اون لاين, دراجنت قصة مترجمة تي في, دراما, جريمة, دراما جريمة, دراجنت دراما جريمة"
   },
   "fixed": true,
-  "first_air_date": "1951-12-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "96 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Moritz Bleibtreu Christiane Paul Mehmet Kurtuluş İdil Üner Branka Katić"
+  "duration": "30 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Jack Webb Ben Alexander",
+  "first_air_date": "1951-12-16"
 }

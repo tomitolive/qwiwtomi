@@ -4,14 +4,12 @@
   "title_ar": "آل سوبرانو",
   "title_en": "The Sopranos",
   "slug": "1398-the-sopranos",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "مسلسل درامي مذهل يؤرخ حياة عائلة أمريكية مختلة من الضواحي تتميز بأسلوب جريء، بالإضافة إلى التعقيدات التي يواجهها طوني سوبرانو للموازنة بين قيادة عائلتين مختلفتين، ومنظمة إجرامية متطلبة ومحدثي الثراء.",
+  "overview": "توني سوبرانو زعيم مافيا يعيش في نيوجيرسي ويحاول الموازنة بين حياته الإجرامية المعقدة ومسؤولياته تجاه عائلته وزوجته وأبنائه. ورغم نفوذه وقوته في عالم الجريمة، يعاني توني من ضغوط نفسية تدفعه إلى طلب المساعدة من طبيبة نفسية، فيبدأ بالكشف عن جوانب خفية من شخصيته وحياته. وبين صراعاته مع أفراد عصابته والمنافسين والسلطات، ومحاولاته الحفاظ على عائلته وتماسك إمبراطوريته، يجد نفسه عالقًا بين عالم الجريمة الذي لا يستطيع التخلي عنه وحياة طبيعية يتوق إليها.",
   "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
   "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
   "release_date": "1999-01-10",
   "vote_average": 8.7,
-  "vote_count": 3452,
+  "vote_count": 3631,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحكي مسلسل آل سوبرانو قصة عائلة أمريكية مختلة من الضواحي، تتميز بأسلوب جريء، بالإضافة إلى التعقيدات التي يواجهها طوني سوبرانو للموازنة بين قيادة عائلتين مختلفتين، ومنظمة إجرامية متطلبة ومحدثي الثراء. يمرز المسلسل بين الأحداث الإثارة والكوميديا، ويحاكي قصة عائلة سوبرانو التي تتميز بكونها عائلة غريبة، ولكنها تتميز أيضاً بكونها عائلة محبة.",
-    "desc_en": "The Sopranos tells the story of an American family from the suburbs, characterized by a bold style, as well as the complexities that Tony Soprano faces in balancing the leadership of two different families, a criminal organization, and the pursuit of wealth. The series oscillates between thrilling events and comedy, portraying the Soprano family, which is both unusual and loving.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل آل سوبرانو - توميتو",
-    "seo_title_ar": "مشاهدة مسلسل آل سوبرانو مترجم اون لاين - توميتو",
-    "keywords": "The Sopranos, فيلم جريمة مترجم, مشاهدة مسلسل دراما, آل سوبرانو مترجم كامل, قصة مسلسل آل سوبرانو, مشاهدة آل سوبرانو 1999, أحداث آل سوبرانو بالتفصيل, توميتو آل سوبرانو",
-    "opinion": "مسلسل آل سوبرانو هو واحد من أهم المسلسلات الدرامية التي شاهدناها في القرن الحادي والعشرين، فهو يجمع بين الأحداث الإثارة والكوميديا، ويحاكي قصة عائلة غريبة ولكنها تتميز أيضاً بكونها عائلة محبة.",
+    "intro": "يحكي مسلسل آل سوبرانو قصة زعيم مافيا أمريكي إيطالي يدعى توني سوبرانو، الذي يعيش في نيوجيرسي ويتحمل مسؤولية إدارة عصابته في عالم الجريمة.",
+    "desc_ar": "يحكي مسلسل آل سوبرانو قصة زعيم مافيا أمريكي إيطالي يدعى توني سوبرانو، الذي يعيش في نيوجيرسي ويتحمل مسؤولية إدارة عصابته في عالم الجريمة. ومع ذلك، يجد توني نفسه محاصرا بين عالم الجريمة الذي لا يستطيع التخلي عنه وحياة طبيعية يتوق إليها، ويحاول بالتالي موازنة بين حياته الإجرامية المعقدة ومسؤولياته تجاه عائلته وزوجته وأبنائه. وعلى الرغم من نفوذه وقوته في عالم الجريمة، يتعرض توني لضغوط نفسية ت دفعه إلى طلب المساعدة من طبيبة نفسية، مما يبدأ في الكشف عن جوانب خفية من شخصيته وحياته.",
+    "desc_en": "The story of The Sopranos revolves around the life of Tony Soprano, a New Jersey-based Italian-American mobster who struggles to balance his complex life as a mob leader with his responsibilities towards his family, wife, and children. Despite his power and influence in the world of crime, Tony faces intense psychological pressure that drives him to seek help from a psychiatrist, leading to the revelation of hidden aspects of his personality and life.",
+    "seo_title_ar": "مشاهدة مسلسل آل سوبرانو مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل آل سوبرانو مترجم بالعربية مع ترجمة احترافية وسلسلة جودة عالية بدون إعلانات مزعجة. استمتع بمشاهدة حياة زعيم مافيا أمريكي إيطالي في نيوجيرسي.",
+    "outro": "يُعد مسلسل آل سوبرانو إحدى أفضل مسلسلات الجريمة في التاريخ، حيث يُقدِّم الشخصية المثيرة للاهتمام لتوني سوبرانو، زعيم المافيا الأمريكي الإيطالي، التي تجذب المشاهدين بفعاليتها العالية.",
+    "opinion_ar": "مسلسل آل سوبرانو هو إحدى أفضل مسلسلات الجريمة في التاريخ، حيث يُقدِّم الشخصية المثيرة للاهتمام لتوني سوبرانو، زعيم المافيا الأمريكي الإيطالي، التي تجذب المشاهدين بفعاليتها العالية.",
+    "opinion_en": "The Sopranos is one of the greatest crime dramas in history, featuring the captivating character of Tony Soprano, the American-Italian mob leader, who draws in viewers with its high level of activity.",
     "faq": [
       {
-        "q": "ما هو مسلسل آل سوبرانو؟",
-        "a": "مسلسل درامي يروي قصة عائلة أمريكية مختلة من الضواحي."
-      },
-      {
-        "q": "ما هو نوع مسلسل آل سوبرانو؟",
-        "a": "مسلسل دراما جريمة."
-      },
-      {
-        "q": "ما هو أسلوب مسلسل آل سوبرانو؟",
-        "a": "مسلسل يتميز بأسلوب جريء، بالإضافة إلى التعقيدات التي يواجهها طوني سوبرانو"
+        "q": "ما هو موضوع مسلسل آل سوبرانو؟",
+        "a": "يحكي مسلسل آل سوبرانو قصة زعيم مافيا أمريكي إيطالي يدعى توني سوبرانو، الذي يعيش في نيوجيرسي ويتحمل مسؤولية إدارة عصابته في عالم الجريمة.",
+        "q_en": "What is the subject of The Sopranos?",
+        "a_en": "The Sopranos tells the story of Tony Soprano, a New Jersey-based Italian-American mobster who struggles to balance his complex life as a mob leader with his responsibilities towards his family, wife, and children."
       }
-    ]
+    ],
+    "keywords": "مشاهدة مسلسل آل سوبرانو مترجم, مسلسل جريمة دراما, زعيم مافيا أمريكي إيطالي, توني سوبرانو, نيوجيرسي, عالم الجريمة, حياة طبيعية, مسؤولية العائلة, زوجة وأبناء, ضغوط نفسية, طبيبة نفسية, جوانب خفية, شخصية حياة, مشاهدة آل سوبرانو, The Sopranos مترجم"
   },
   "fixed": true,
-  "first_air_date": "1999-01-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "162 دقيقة",
-  "language": "الروسية",
-  "country": "الاتحاد السوفيتي",
-  "cast": "Alisa Freyndlikh Aleksandr Kaydanovskiy Anatoliy Solonitsyn Mykola Hrynko Natalya Abramova"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "James Gandolfini Edie Falco Jamie-Lynn Sigler Robert Iler Lorraine Bracco Michael Imperioli Steven Van Zandt Tony Sirico",
+  "first_air_date": "1999-01-10"
 }

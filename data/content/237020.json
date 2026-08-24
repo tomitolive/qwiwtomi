@@ -21,33 +21,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Lecture Room (2001) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "غرفة المحاضرات: مسلسل وثائقي يحتوي على حوارات عميقة. يسلط الضوء على تجارب طلاب وأساتذة في غرفة محاضرات واحدة. \"Lecture Room\" يستكشف قصصهم وآراءهم. لا تفوتوا هذه الرحلة التعليمية.",
-    "desc_en": "Lecture Room: A documentary series with engaging conversations. It follows the stories of students and professors in a single lecture hall. This series offers an insightful look into their experiences.",
-    "seo_title_ar": "مشاهدة مسلسل غرفة المحاضرات مترجم - توميتو",
-    "meta_desc": "غرفة المحاضرات: مسلسل وثائقي مثير يغوص في عالم غرفة محاضرات واحدة. Lecture Room يكشف عن قصص الطلاب والأساتذة. شاهدوا الآن!",
-    "outro": "شاهد Lecture Room الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "غرفة المحاضرات: مسلسل وثائقي ممتع ومفعم بالحياة. يجعلك تشعر وكأنك جزء من تلك الغرفة.",
-    "opinion_en": "Lecture Room: A captivating documentary series. It brings the lecture hall experience to life.",
+    "intro": "يحكي مسلسل غرفة المحاضرات قصة طلاب وأساتذة في غرفة محاضرات واحدة، حيث يسلط الضوء على قصصهم وآراءهم.",
+    "desc_ar": "تُحكي قصة غرفة المحاضرات مسلسل وثائقي يوثق تجارب طلاب وأساتذة في غرفة محاضرات واحدة، حيث يسلط الضوء على قصصهم وآراءهم. يتناول المسلسل تجاربهم في مختلف جوانب الحياة الأكاديمية، ويقدم نظرة شاملة على تجاربهم في هذه الغرفة. يتميز المسلسل بعمق الحوارات التي تجلب لنا تفاصيل حول تجاربهم، ويُعتبر مصدرًا قيمًا للتعلم.",
+    "desc_en": "Lecture Room: A documentary series with engaging conversations. It follows the stories of students and professors in a single lecture hall. This series offers an insightful look into their experiences, exploring their stories and perspectives through in-depth conversations.",
+    "seo_title_ar": "مشاهدة فيلم غرفة المحاضرات مترجم - توميتو",
+    "meta_desc": "استكشف تجارب طلاب وأساتذة في غرفة المحاضرات. تعرف على قصصهم وآراءهم. يعتبر هذا العمل مصدرا قيما للتعلم. غرفة المحاضرات, Lecture Room, فيلم, حوار, وثائقي",
+    "outro": "يسعدنا أن نكون قد قدمنا لك تجربة تعليمية قيمة من خلال مسلسل غرفة المحاضرات.",
+    "opinion_ar": "استمتعت بهذا العمل بسبب عمق الحوارات التي قدمت تجارب طلاب وأساتذة في غرفة المحاضرات. يعتبر هذا العمل مصدرًا قيمًا للتعلم.",
+    "opinion_en": "I enjoyed this film because of the in-depth conversations that brought us the experiences of students and professors in a lecture hall. This series is a valuable source of learning.",
     "faq": [
       {
-        "q": "هل غرفة المحاضرات مسلسل واقعي؟",
-        "a": "نعم، غرفة المحاضرات مسلسل وثائقي واقعي يروي قصصًا حقيقية.",
-        "q_en": "Is Lecture Room a realistic series?",
-        "a_en": "Yes, Lecture Room is a documentary series based on real stories and experiences."
+        "q": "ما هو موضوع مسلسل غرفة المحاضرات؟",
+        "a": "يتناول مسلسل غرفة المحاضرات تجارب طلاب وأساتذة في غرفة محاضرات واحدة، حيث يسلط الضوء على قصصهم وآراءهم.",
+        "q_en": "What is the subject of the Lecture Room series?",
+        "a_en": "The Lecture Room series explores the experiences of students and professors in a single lecture hall, highlighting their stories and perspectives."
       }
     ],
-    "keywords": "غرفة المحاضرات, Lecture Room, مسلسل, وثائقي, حوار, تجارب, طلاب, أساتذة"
+    "keywords": "غرفة المحاضرات, Lecture Room, فيلم, حوار, وثائقي, استكشاف تجارب طلاب وأساتذة في غرفة المحاضرات, تعرف على قصصهم وآراءهم, استكشف تجاربهم في مختلف جوانب الحياة الأكاديمية, مشاهدة غرفة المحاضرات, Lecture Room مترجم, تحميل غرفة المحاضرات, غرفة المحاضرات اون لاين, غرفة المحاضرات جودة عالية, فيلم غرفة المحاضرات, Lecture Room online"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الصين",
-  "cast": "",
-  "first_air_date": "2001-07-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

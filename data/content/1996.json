@@ -4,14 +4,12 @@
   "title_ar": "فلينستون",
   "title_en": "The Flintstones",
   "slug": "1996-the-flintstones",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "فلينستون مسلسل كرتوني أمريكي عرض على شبكة هيئة الإذاعة الأمريكية (ABC)من 30 أيلول سبتمبر 1960 حتى 1 أبريل 1966، يحكي قصة فريد فلينستون وزوجته ويلما وصديقه بارني رابل وزوجته بيتي وحياتهم جميعاً في العصر الحجري, وهو من أنتاج هانا-باربيرا. حظي المسلسل بشهرة عالمية واسعة وتمت إعادة بثه بعد شراء حقوق على العديد من قنوات التلفزة في جميع أنحاء العالم .",
   "poster_path": "/30P6ifagQ3fguTsI33KMmDLTAx6.jpg",
-  "backdrop_path": "/jqweieg5sg0HLlVjugP9fWDiIJq.jpg",
+  "backdrop_path": "/hq9HQJEByWvIS3OPX55Cxb7hsUt.jpg",
   "release_date": "1960-09-30",
   "vote_average": 7.4,
-  "vote_count": 983,
+  "vote_count": 1013,
   "genres": [
     {
       "id": 10751,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم العصر الحجري، يعيش فريد فلينستون وزوجته ويلما مع صديقه بارني رابل وزوجته بيتي في مدينة بيلدجسبورو، حيث يعيشون حياتهم اليومية المليئة بالكوميديا والفكاهة، مع مجموعة من الشخصيات المضطربة والقصص الممتعة.",
-    "desc_en": "In the Stone Age, Fred Flintstone and his wife Wilma live with their best friend Barney Rubble and his wife Betty in the prehistoric town of Bedrock, where they experience daily life filled with comedy and humor, along with a cast of eccentric characters and engaging stories.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل فلينستون! مشاهدة فيلم كوميديا رسوم متحركة عائلي",
-    "seo_title_ar": "مشاهدة فيلم فلينستون مترجم اون لاين - توميتو",
-    "keywords": "The Flintstones, فيلم فلينستون مترجم, مشاهدة فيلم كوميديا رسوم متحركة عائلي, قصة مسلسل فلينستون, توميتو فلينستون, فلينستون مترجم كامل, أحداث فلينستون بالتفصيل, مشاهدة فلينستون 1960",
-    "opinion": "هو مسلسل كرتوني رائع يلقي باللوم على القيم العائلية والصداقة، مع مجموعة من الشخصيات المضطربة والقصص الممتعة.",
+    "intro": "يحكي مسلسل فلينستون قصة فريد فلينستون وزوجته ويلما وصديقه بارني رابل وزوجته بيتي، الذين يعيشون في العصر الحجري في مدينة بيدروبيا.",
+    "desc_ar": "يحكي مسلسل فلينستون قصة فريد فلينستون وزوجته ويلما وصديقه بارني رابل وزوجته بيتي، الذين يعيشون في العصر الحجري في مدينة بيدروبيا. يحكي المسلسل عن تجاربهم اليومية في هذه المدينة الواقعة في العصر الحجري، حيث يتعاملون مع تحديات الحياة اليومية والاستمتاع بالذات، في مشهد واضح للمجتمع القديم. يشارك في المسلسل العديد من الشخصيات البارزة، بما في ذلك رئيس المدينة، ويحكي عن تجاربهم في العيش في هذه المدينة الموجودة في العصر الحجري.",
+    "desc_en": "The Flintstones is an animated sitcom that follows the misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles, living in the prehistoric town of Bedrock. The show revolves around their daily lives, struggles, and joys as they navigate the challenges of living in the Stone Age, often finding themselves in humorous and unexpected situations.",
+    "seo_title_ar": "مشاهدة مسلسل فلينستون مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل فلينستون مترجم - تم إنتاج المسلسل في عام 1960 - استمتع بمشاهدة هذا العمل الكوميدي الأصلي المترجم استمتع بمشاهدة هذا العمل بجودة عالية وترجم",
+    "outro": "يعد مسلسل فلينستون مثالًا رائعًا على كيفية تحويل الحياة في العصر الحجري إلى قصة كوميدية ومرحة.",
+    "opinion_ar": "يعد مسلسل فلينستون أحد أفضل المسلسلات الكوميدية في القرن العشرين، حيث يحتضن المشاهد بضحكته الممتع وتصويره الواقعي للعصر الحجري.",
+    "opinion_en": "The Flintstones is a classic animated sitcom that has stood the test of time, offering a unique blend of humor, satire, and heartwarming moments that have captivated audiences for generations.",
     "faq": [
       {
-        "q": "ما هو مسلسل فلينستون؟",
-        "a": "هو مسلسل كرتوني أمريكي عرض على شبكة هيئة الإذاعة الأمريكية (ABC) من 30 أيلول سبتمبر 1960 حتى 1 أبريل 1966."
+        "q": "متى تم إنتاج مسلسل فلينستون؟",
+        "a": "تم إنتاج مسلسل فلينستون في عام 1960",
+        "q_en": "When was The Flintstones produced?",
+        "a_en": "The Flintstones was produced in 1960"
       },
       {
-        "q": "ما هو نوع مسلسل فلينستون؟",
-        "a": "هو مسلسل رسوم متحركة كوميديا عائلي."
-      },
-      {
-        "q": "ما هو مدة عرض مسلسل فلينستون؟",
-        "a": "كان عرض المسلسل من 30 أيلول سبتمبر 1960 حتى 1 أبريل 1966."
+        "q": "من أنتج مسلسل فلينستون؟",
+        "a": "تم انتاج مسلسل فلينستون بواسطة هانا-باربيرا",
+        "q_en": "Who produced The Flintstones?",
+        "a_en": "The Flintstones was produced by Hanna-Barbera"
       }
-    ]
+    ],
+    "keywords": "فلينستون, مسلسل, كرتون, كوميديا, عائلي, رسوم متحركة, تاميس, مشاهدة فلينستون, The Flintstones مترجم, تحميل فلينستون, فلينستون اون لاين, The Flintstones, فلينستون جودة عالية, فيلم فلينستون, The Flintstones HD"
   },
   "fixed": true,
-  "first_air_date": "1960-09-30",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "117 دقيقة",
+  "duration": "25 دقيقة",
   "language": "الإنجليزية",
-  "country": "ألمانيا",
-  "cast": "Angelina Jolie Gerard Butler Ciarán Hinds Chris Barrie Noah Taylor"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Alan Reed Mel Blanc Jean Vander Pyl Gerry Johnson Don Messick",
+  "first_air_date": "1960-09-30"
 }

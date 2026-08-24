@@ -4,14 +4,12 @@
   "title_ar": "موب سايكو ١٠٠",
   "title_en": "Mob Psycho 100",
   "slug": "67075-mob-psycho-100",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
   "poster_path": "/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
   "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   "release_date": "2016-07-12",
   "vote_average": 8.5,
-  "vote_count": 1303,
+  "vote_count": 1352,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم Mobility، الفتى موب يمتلك القدرة على ثني الملاعق ورفع الأشياء بعقله في سن مبكرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة، ويحفز إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
-    "desc_en": "In the world of Mobility, the boy Mob has the ability to bend spoons and lift objects with his mind at a young age, but he gradually refrains from using his power in public, and he explodes when his emotional power reaches 100%, this boy with psychic power has the nickname “Mob” and he managed to keep his psychic power under control to live a normal life and enjoy friendship with his classmate.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في موب سايكو ١٠٠!",
-    "seo_title_ar": "مشاهدة فيلم موب سايكو ١٠٠ مترجم اون لاين - توميتو",
-    "keywords": "Mob Psycho 100, فيلم موب سايكو ١٠٠ مترجم, مشاهدة فيلم موب سايكو ١٠٠, توميتو موب سايكو ١٠٠, مشاهدة موب سايكو ١٠٠ 2016, موب سايكو ١٠٠ مترجم كامل, أحداث موب سايكو ١٠٠ بالتفصيل, قصة مسلسل موب سايكو ١٠٠",
-    "opinion": "هو فيلم رائع يلقي الضوء على القوة النفسية والتحكم بها، والشخصية الرئيسية موب هو شخص رائع يلقي الضوء على القوة النفسية والتحكم بها.",
+    "intro": "يحكي هذا العمل قصة فتى مخضرم اسمه «موب سايكو ١٠٠» الذي يمتلك قدرة فريدة تسمى «القدرة النفسية».",
+    "desc_ar": "يحكي هذا العمل قصة فتى مخضرم اسمه موب سايكو ١٠٠ الذي يمتلك قدرة فريدة تسمى القدرة النفسية، والتي يُمكن بها ثني الملاعق ورفع الأشياء بعقله في سنٍ مبكرة. ومع ذلك، يُجبر الفتى على كبت قدرته النفسية ليكون قادرًا على العيش بشكل طبيعي. لكنه يجد نفسه في مواقف صعبة عندما يصل قدرته العاطفية إلى 100%، مما يؤدي إلى نتائج كارثية له. وفي هذه الأثناء، يتعامل الفتى مع العديد من المواهب الخبيثة والأرواح الشريرة والمنظمات الغامضة التي تهدد حياته.",
+    "desc_en": "The story revolves around the boy 'Mob Psycho 100' who has the unique ability of 'psychic power' which allows him to bend forks and lift objects with his mind at a young age. However, he is forced to suppress his psychic power to live a normal life. But he finds himself in difficult situations when his emotional power reaches 100%, leading to disastrous consequences for him. Meanwhile, the boy deals with various malicious espers, evil spirits, and mysterious organizations that threaten his life.",
+    "seo_title_ar": "مشاهدة مسلسل موب سايكو ١٠٠ مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. يحكي مسلسل موب سايكو ١٠٠ قصة الفتى ذي القوة النفسية الذي يحاول العيش بشكل طبيعي.",
+    "outro": "يعد مسلسل «موب سايكو ١٠٠» تجربة مشاهدة ممتعة ومرهقة في آن واحد، حيث يتعامل الفتى مع العديد من التحديات والتحديات التي تهدد حياته.",
+    "opinion_ar": "يعد مسلسل موب سايكو ١٠٠ تجربة مشاهدة ممتعة ومرهقة في آن واحد، حيث يتعامل الفتى مع العديد من التحديات والتحديات التي تهدد حياته.",
+    "opinion_en": "Mob Psycho 100 is a thrilling and emotionally challenging experience to watch, as the boy deals with various challenges and threats to his life.",
     "faq": [
       {
-        "q": "ما هو موب سايكو ١٠٠؟",
-        "a": "هو فيلم رسوم متحركة يلقي الضوء على القوة النفسية والتحكم بها."
-      },
-      {
-        "q": "ما هو قصة موب سايكو ١٠٠؟",
-        "a": "القصة تدور حول الفتى موب الذي يمتلك القدرة على ثني الملاعق ورفع الأشياء بعقله في سن مبكرة."
-      },
-      {
-        "q": "ما هو نوع موب سايكو ١٠٠؟",
-        "a": "هو فيلم رسوم متحركة حركة ومغامرة كوميديا خيال علمي وفانتازيا"
+        "q": "ما هو المسلسل موب سايكو ١٠٠؟",
+        "a": "يحكي المسلسل قصة الفتى ذي القوة النفسية الذي يحاول العيش بشكل طبيعي.",
+        "q_en": "What is the series 'Mob Psycho 100'?",
+        "a_en": "The series revolves around the boy with psychic power who tries to live a normal life."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, حركة ومغامرة, كوميديا, خيال علمي وفانتازيا, مسلسل, موب سايكو ١٠٠, Mob Psycho 100, مشاهدة موب سايكو ١٠٠, Mob Psycho 100 مترجم, تحميل موب سايكو ١٠٠, موب سايكو ١٠٠ اون لاين, موب سايكو ١٠٠ جودة عالية, فيلم موب سايكو ١٠٠, Mob Psycho 100 HD, Mob Psycho 100 online"
   },
   "fixed": true,
-  "first_air_date": "2016-07-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "80 دقيقة",
-  "language": "الروسية",
-  "country": "روسيا",
-  "cast": "Nataliya Vdovina Aleksandr Baluev Larisa Guzeeva Vladimir Sterzhakov Anna Nosatova"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Setsuo Ito Takahiro Sakurai Miyu Irino Akio Otsuka",
+  "first_air_date": "2016-07-12"
 }
