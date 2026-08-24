@@ -1,53 +1,61 @@
 {
   "id": 326119,
-  "title": "Thunder 3",
-  "title_ar": "Thunder 3",
-  "title_en": "Thunder 3",
-  "slug": "326119-thunder-3",
-  "overview": "تدور أحداث مسلسل \"الرعد 3\" حول مغامرة استثنائية يعيشها طلاب مدرسة متوسطة عاديين، وهم بيونتارو وهيروشي وتسوبامي، عندما تختفي شقيقة بيونتارو الصغرى. وتتطور الأحداث بشكل غير متوقع في عالم الخيال العلمي والفانتازيا. \"Thunder 3\" هو مسلسل رسوم متحركة ممتع ومشوق.",
+  "title": "Danny and the Wild Bunch",
+  "title_ar": "Danny and the Wild Bunch",
+  "title_en": "Danny and the Wild Bunch",
+  "slug": "326119-danny-and-the-wild-bunch",
+  "overview": "استمتع بمشاهدة فيلم داني والمجموعة البرية مترجم بجودة عالية.",
   "poster_path": "/sAWjEgblLSXWHMKJCKC0UYjK5AN.jpg",
-  "backdrop_path": "/ho6FHjF1JlzAJ8YGdbqwuxaElDj.jpg",
-  "release_date": "2026-07-09",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": "/qregGGfxiPtF7ZhbRIjttgih0gZ.jpg",
+  "release_date": "2014-02-18",
+  "vote_average": 6.0,
+  "vote_count": 3,
   "genres": [
+    {
+      "id": 28,
+      "name": "حركة"
+    },
     {
       "id": 16,
       "name": "رسوم متحركة"
-    },
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Thunder 3 (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث مسلسل \"الرعد 3\" حول مغامرة استثنائية يعيشها طلاب مدرسة متوسطة عاديين، وهم بيونتارو وهيروشي وتسوبامي، عندما تختفي شقيقة بيونتارو الصغرى. وتتطور الأحداث بشكل غير متوقع في عالم الخيال العلمي والفانتازيا. \"Thunder 3\" هو مسلسل رسوم متحركة ممتع ومشوق.",
-    "desc_en": "In \"Thunder 3\", ordinary middle schoolers embark on an extraordinary adventure when Pyontaro's little sister goes missing. The story takes an unexpected turn in this animated series filled with sci-fi and fantasy elements.",
-    "seo_title_ar": "مشاهدة مسلسل الرعد 3 مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل الرعد 3 - مغامرة خيال علمي وفانتازيا مشوقة لطلاب مدرسة متوسطة عاديين. Thunder 3 يجمع بين الرسوم المتحركة والإثارة.",
-    "outro": "شاهد Thunder 3 الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"الرعد 3\" يقدم قصة مشوقة ومليئة بالمغامرات، مع لمسة من الخيال العلمي والفانتازيا. إنه عمل ممتع ومختلف.",
-    "opinion_en": "Thunder 3 is an engaging series with a unique blend of sci-fi and fantasy. It offers an exciting adventure with a touch of animation magic.",
+    "intro": "استمتع بمشاهدة فيلم Danny and the Wild Bunch (2014) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم داني والمجموعة البرية مترجم بجودة عالية.",
+    "desc_en": "A children's book author is told that her new manuscript needs to be 'darker', but when her revisions piss off the characters in the book, they come back to make some changes of their own.",
+    "seo_title_ar": "مشاهدة فيلم Danny and the Wild Bunch مترجم - توميتو",
+    "meta_desc": "مشاهدة داني والمجموعة البرية مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعج",
+    "outro": "شاهد Danny and the Wild Bunch الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "هل مسلسل الرعد 3 مناسب لجميع الأعمار؟",
-        "a": "نعم، مسلسل الرعد 3 مناسب للعائلات والأطفال، فهو يقدم قصة مشوقة وممتعة مع رسوم متحركة جذابة.",
-        "q_en": "Is Thunder 3 suitable for all ages?",
-        "a_en": "Absolutely! Thunder 3 is family-friendly and suitable for kids, offering an engaging story with captivating animation."
+        "q": "كيف يمكنني مشاهدة فيلم داني والمجموعة البرية?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Danny and the Wild Bunch?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف فيلم داني والمجموعة البرية?",
+        "a": "يندرج العمل تحت تصنيف حركة, رسوم متحركة.",
+        "q_en": "What is the genre of Danny and the Wild Bunch?",
+        "a_en": "It falls under the genre of حركة, رسوم متحركة."
+      },
+      {
+        "q": "ما هي قصة فيلم داني والمجموعة البرية?",
+        "a": "",
+        "q_en": "What is the story of Danny and the Wild Bunch?",
+        "a_en": "A children's book author is told that her new manuscript needs to be 'darker', but when her revisions piss off the characters in the book, they come back to make some changes of their own."
       }
     ],
-    "keywords": "الرعد 3, Thunder 3, مسلسل, رسوم متحركة, خيال علمي, فانتازيا, مغامرة, 2026"
+    "keywords": "داني والمجموعة البرية مترجم, Danny and the Wild Bunch مترجم, مشاهدة داني والمجموعة البرية,"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Sayumi Suzushiro Natsumi Kawaida Eri Akiyama",
-  "first_air_date": "2026-07-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "5 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Nora Zehetner Rob Tepper"
 }

@@ -14339,8 +14339,146 @@
       "file": "10637.json",
       "title": "Remember the Titans",
       "fixed_at": "2026-08-24T21:01:25.142131"
+    },
+    {
+      "tmdb_id": "77396",
+      "file": "77396.json",
+      "title": "Ultraseven",
+      "fixed_at": "2026-08-24T21:26:41.114872"
+    },
+    {
+      "tmdb_id": "254420",
+      "file": "254420.json",
+      "title": "إيل",
+      "fixed_at": "2026-08-24T21:26:50.829697"
+    },
+    {
+      "tmdb_id": "317270",
+      "file": "317270.json",
+      "title": "Minnale",
+      "fixed_at": "2026-08-24T21:27:00.048234"
+    },
+    {
+      "tmdb_id": "157564",
+      "file": "157564.json",
+      "title": "Mar Salgado",
+      "fixed_at": "2026-08-24T21:27:06.841650"
+    },
+    {
+      "tmdb_id": "1634301",
+      "file": "1634301.json",
+      "title": "Vanaveera",
+      "fixed_at": "2026-08-24T21:27:31.389764"
+    },
+    {
+      "tmdb_id": "146339",
+      "file": "146339.json",
+      "title": "Spare Me, Great Lord!",
+      "fixed_at": "2026-08-24T21:27:43.459894"
+    },
+    {
+      "tmdb_id": "1564614",
+      "file": "1564614.json",
+      "title": "Leviticus",
+      "fixed_at": "2026-08-24T21:27:51.332534"
+    },
+    {
+      "tmdb_id": "5371",
+      "file": "5371.json",
+      "title": "iCarly",
+      "fixed_at": "2026-08-24T21:27:59.754414"
+    },
+    {
+      "tmdb_id": "78191",
+      "file": "78191.json",
+      "title": "You",
+      "fixed_at": "2026-08-24T21:28:08.251423"
+    },
+    {
+      "tmdb_id": "106646",
+      "file": "106646.json",
+      "title": "ذئب وول ستريت",
+      "fixed_at": "2026-08-24T21:28:16.904879"
+    },
+    {
+      "tmdb_id": "826769",
+      "file": "826769.json",
+      "title": "روزلين",
+      "fixed_at": "2026-08-24T21:28:24.544820"
+    },
+    {
+      "tmdb_id": "34587",
+      "file": "34587.json",
+      "title": "وادي الذئاب",
+      "fixed_at": "2026-08-24T21:28:35.113705"
+    },
+    {
+      "tmdb_id": "31132",
+      "file": "31132.json",
+      "title": "العرض العادي",
+      "fixed_at": "2026-08-24T21:28:44.820388"
+    },
+    {
+      "tmdb_id": "278043",
+      "file": "278043.json",
+      "title": "You and I Are Polar Opposites",
+      "fixed_at": "2026-08-24T21:28:54.893408"
+    },
+    {
+      "tmdb_id": "124394",
+      "file": "124394.json",
+      "title": "Power Book III: Raising Kanan",
+      "fixed_at": "2026-08-24T21:29:21.523463"
+    },
+    {
+      "tmdb_id": "77696",
+      "file": "77696.json",
+      "title": "Run BTS!",
+      "fixed_at": "2026-08-24T21:29:30.723820"
+    },
+    {
+      "tmdb_id": "2190",
+      "file": "2190.json",
+      "title": "ساوث بارك",
+      "fixed_at": "2026-08-24T21:29:38.832986"
+    },
+    {
+      "tmdb_id": "312",
+      "file": "312.json",
+      "title": "Jenseits der Stille",
+      "fixed_at": "2026-08-24T21:29:47.206722"
+    },
+    {
+      "tmdb_id": "33765",
+      "file": "33765.json",
+      "title": "مهرتي الصغيرة",
+      "fixed_at": "2026-08-24T21:29:55.723730"
+    },
+    {
+      "tmdb_id": "1330021",
+      "file": "1330021.json",
+      "title": "مخلوقات مشرقة بشكل مبهر",
+      "fixed_at": "2026-08-24T21:30:29.349146"
+    },
+    {
+      "tmdb_id": "272432",
+      "file": "272432.json",
+      "title": "Born with Luck",
+      "fixed_at": "2026-08-24T21:30:40.049281"
+    },
+    {
+      "tmdb_id": "979",
+      "file": "979.json",
+      "title": "Irrversible",
+      "fixed_at": "2026-08-24T21:30:49.520891"
+    },
+    {
+      "tmdb_id": "326119",
+      "file": "326119.json",
+      "title": "Thunder 3",
+      "fixed_at": "2026-08-24T21:30:57.860329"
     }
   ],
-  "last_updated": "2026-08-24T21:01:27.510845",
-  "total_fixed": 2390
+  "last_updated": "2026-08-24T21:31:00.010470",
+  "total_fixed": 2413
 }
