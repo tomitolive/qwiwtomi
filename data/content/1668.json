@@ -4,14 +4,12 @@
   "title_ar": "أصدقاء",
   "title_en": "Friends",
   "slug": "1668-friends",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "مغامرات مجموعة من الأصدقاء وهم يبحرون في مطبات العمل والحياة والحب في مانهاتن.",
   "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
   "backdrop_path": "/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
   "release_date": "1994-09-22",
   "vote_average": 8.4,
-  "vote_count": 9083,
+  "vote_count": 9329,
   "genres": [
     {
       "id": 35,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة مانهاتن، تتشابح مجموعة من الأصدقاء في مطبات العمل والصداقة والرومانسية، حيث يلقيون بكل ما لديهم من حب والمرح واللوعة في رحلة ممتعة تمنحهم تجربة حياة كاملة، وتعلمهم قيمة الصداقة والعمل والحب في هذه المدينة الكبرى.",
-    "desc_en": "In the bustling city of Manhattan, a group of friends navigate the ups and downs of work, friendship, and romance, as they pour their hearts out in a thrilling adventure that teaches them the value of friendship, work, and love in this great city.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أصدقاء، المسلسل الكوميدي الشهير!",
-    "seo_title_ar": "مشاهدة أصدقاء مترجم اون لاين - توميتو",
-    "keywords": "Friends, فيلم أصدقاء مترجم, مشاهدة فيلم أصدقاء, أصدقاء مترجم كامل, مشاهدة أصدقاء 1994, أحداث أصدقاء بالتفصيل, توميتو أصدقاء, قصة مسلسل أصدقاء",
-    "opinion": "هو المسلسل الذي شقّ طريقَه في قلوبنا، أصدقاء هو أكثر من مجرد عرض كوميدي، هو تجربة حياة كاملة تمنحنا فرصة للاختراق في حياة الأصدقاء والعمل والحب في مدينة مانهاتن.",
+    "intro": "في هذا المسلسل الكوميدي, يتعامل مجموعة من الأصدقاء الشباب مع التحديات اليومية في مانهاتن.",
+    "desc_ar": "يحكي هذا المسلسل قصة مجموعة من الأصدقاء الشباب الذين يتعاملون مع التحديات اليومية في مانهاتن. في عالم مليء بالضغوط والتحديات، يجدون في بعضهم البعض ما يكفي ً للتعافي من الصعاب. معقلاً في بيئة العمل والحياه، يتعلمون كيف يتعاملون مع الضغوطات ويتحديون بأنفسهم. من خلال تجاربهم، يكتشفون أن الأصدقاء الحقيقيون هم الذين يمكنهم مساعدتهم في مواجهة التحديات. في هذه الحكاية، نرى كيف يتعاملون مع الحياة والمحنة، ويقدمون للجميع درساً في أهمية الأصدقاء في الحياة.",
+    "desc_en": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+    "seo_title_ar": "مشاهدة أصدقاء Friends مسلسل كوميديا مترجم - توميتو",
+    "meta_desc": "شاهد أصدقاء Friends مسلسل كوميديا من إنتاج 1994. شاهد أفضل المشاهد و الحوارات مع أصدقاءك. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إ",
+    "outro": "نهاية المسلسل تعلمتنا على أهمية الأصدقاء في الحياة، وطريقة التعامل مع الضغوطات والتحديات.",
+    "opinion_ar": "يعد أصدقاء Friends من بين أهم المسلسلات الكوميدية التي تطرح قضايا الحياة اليومية بطريقة مشوقة وممتعة. تجربة مشاهدة هذا المسلسل حققت تأثيراً كبيراً في عالم التلفزيون.",
+    "opinion_en": "Friends is one of the most iconic sitcoms that tackles everyday life issues in a fun and engaging way. Watching this show has had a significant impact on the television world.",
     "faq": [
       {
-        "q": "ما هو أصدقاء؟",
-        "a": "هو المسلسل الكوميدي الشهير الذي يلقي بكل ما لديه من حب والمرح واللوعة في رحلة ممتعة تمنحهم تجربة حياة كاملة."
+        "q": "ما هي قصة مسلسل أصدقاء؟",
+        "a": "يحكي المسلسل قصة مجموعة من الأصدقاء الشباب الذين يتعاملون مع التحديات اليومية في مانهاتن.",
+        "q_en": "What is the story of Friends?",
+        "a_en": "The show follows the story of a group of young friends navigating the challenges of life in Manhattan."
       },
       {
-        "q": "ما هو نوع أصدقاء؟",
-        "a": "هو مسلسل تلفزيوني كوميدي"
-      },
-      {
-        "q": "ما هو أهم ما في أصدقاء؟",
-        "a": "هو قيمة الصداقة والعمل والحب في هذه المدينة الكبرى"
+        "q": "من هو المخرج للمسلسل؟",
+        "a": "لا يوجد مصدر موثوق به يحدد المخرجين للمسلسل.",
+        "q_en": "Who is the director of the show?",
+        "a_en": "There is no reliable source that identifies the directors of the show."
       }
-    ]
+    ],
+    "keywords": "أصدقاء, Friends, مسلسل, كوميديا, مشاهدة أصدقاء, Friends مترجم, تحميل أصدقاء, أصدقاء اون لاين, أصدقاء جودة عالية, فيلم أصدقاء, Friends online, Friends HD, أصدقاء HD, مسلسل أصدقاء, Friends مشاهدة مجانية"
   },
   "fixed": true,
-  "first_air_date": "1994-09-22",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Jennifer Aniston Courteney Cox Lisa Kudrow Matt LeBlanc Matthew Perry David Schwimmer",
+  "first_air_date": "1994-09-22"
 }

@@ -4,14 +4,12 @@
   "title_ar": "Heartland",
   "title_en": "Heartland",
   "slug": "14929-heartland",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل هارتلاند قصة عائلة فلمنج التي تدير مزرعة في هضبة ألبرتا، حيث يجد المضطهدين أو المهمشين من الخيول مكانًا للاستراحة في إطار من الحب والعمل الجاد. يضطرب هذا العمل العائلي المكون من عائلة كبيرة حيث يغمرهم المديونون والمصاعب الاقتصادية، ويهدد البنك بضم المزرعة. كيف يستطيعون الحفاظ على مزرعة هارتلاند، التي تنادي باسم العدالة والرحمة، على قيد الحياة؟",
   "poster_path": "/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
   "backdrop_path": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
   "release_date": "2007-10-14",
-  "vote_average": 8.3,
-  "vote_count": 574,
+  "vote_average": 8.2,
+  "vote_count": 582,
   "genres": [
     {
       "id": 10751,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الزراعة والرعاية الحيوانية، تتعرف عائلة ريفية على أهمية العائلة والصداقة في هذه الدراما الكوميديا المليئة بالحب والمرح، حيث تتعاون عائلة ريفية على الزراعة والرعاية الحيوانية في مزرعتهم، وتعلمون قيم العائلة والصداقة.",
-    "desc_en": "In the world of farming and animal care, a rural family learns the importance of family and friendship in this heartwarming comedy drama, where a rural family works together on their farm, learning the values of family and friendship.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مزرعة ريفية في الدراما الكوميديا \"Heartland\"",
-    "seo_title_ar": "مشاهدة فيلم Heartland مترجم اون لاين - توميتو",
-    "keywords": "فيلم عائلي مترجم, مشاهدة فيلم دراما كوميديا, مشاهدة Heartland 2007, أحداث Heartland بالتفصيل, Heartland مترجم كامل, قصة مسلسل Heartland, توميتو Heartland",
-    "opinion": "هذه الدراما الكوميديا هي أفضل ما يمكن أن يحدث لك في أي وقت، فهي مليئة بالحب والمرح والتهذيب، وهي تتعلمك قيم العائلة والصداقة في هذه الحياة.",
+    "intro": "تدور أحداث مسلسل هارتلاند في هضبة ألبرتا حيث يجد المضطهدين أو المهمشين من الخيول مكانًا للاستراحة في إطار من الحب والعمل الجاد.",
+    "desc_ar": "يحكي مسلسل هارتلاند قصة عائلة فلمنج التي تدير مزرعة في هضبة ألبرتا، حيث يجد المضطهدين أو المهمشين من الخيول مكانًا للاستراحة في إطار من الحب والعمل الجاد. يضطرب هذا العمل العائلي المكون من عائلة كبيرة حيث يغمرهم المديونون والمصاعب الاقتصادية، ويهدد البنك بضم المزرعة. كيف يستطيعون الحفاظ على مزرعة هارتلاند، التي تنادي باسم العدالة والرحمة، على قيد الحياة؟",
+    "desc_en": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+    "seo_title_ar": "مشاهدة مسلسل هارتلاند مترجم - حياة العائلة العزيزة في هارتلاند - توميتو",
+    "meta_desc": "شاهد مسلسل هارتلاند مترجم - حياة العائلة العزيزة في هارتلاند، حيث يجد المضطهدين أو المهمشين من الخيول مكانا للاستراحة. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يعد مسلسل هارتلاند تجربة لا تُنسى حيث يتعرف المشاهد على أسرار العائلة الفلمنج وتجاربهم في هضبة ألبرتا، مع التركيز على العدالة والرحمة في كل لحظة.",
+    "opinion_ar": "يعد مسلسل هارتلاند تجربة لا تُنسى حيث يتعرف المشاهد على أسرار العائلة الفلمنج وتجاربهم في هضبة ألبرتا، مع التركيز على العدالة والرحمة في كل لحظة.",
+    "opinion_en": "Heartland is an unforgettable experience where the audience gets to know the Fleming family and their experiences in the Alberta foothills, with a focus on justice and compassion in every moment.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو دراما كوميديا"
+        "q": "ما هو سبب وجود عائلة فلمنج في هضبة ألبرتا؟",
+        "a": "عائلة فلمنج تستقر في هضبة ألبرتا لتعيش حياة أكثر راحة ورومانسية، حيث يمكنهم تنفيذ حلمهم في تربية الخيول.",
+        "q_en": "Why is the Fleming family in the Alberta foothills?",
+        "a_en": "The Fleming family settles in the Alberta foothills to live a more peaceful and romantic life, where they can fulfill their dream of raising horses."
       },
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو عائلي"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه؟",
-        "a": "في مزرعة ريفية"
+        "q": "ما هي أبرز التحديات التي يواجهها عائلة فلمنج في هضبة ألبرتا؟",
+        "a": "عائلة فلمنج تواجه تحديات اقتصادية خطيرة وصراعات مع المدينون، بالإضافة إلى تحديات تربية الخيول في هضبة ألبرتا.",
+        "q_en": "What are the biggest challenges that the Fleming family faces in the Alberta foothills?",
+        "a_en": "The Fleming family faces severe economic challenges and conflicts with creditors, as well as the challenges of raising horses in the Alberta foothills."
       }
-    ]
+    ],
+    "keywords": "هارتلاند, مسلسل, عائلي, دراما, كوميديا, خيول, ألبرتا, فلمنج, عائلة, مشاهدة هارتلاند, Heartland مترجم, تحميل هارتلاند, هارتلاند اون لاين, Heartland, هارتلاند جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2007-10-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "91 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Nancy Hendrickson Deborah Luce Tiana Pierce Michael McCleery Beatrice Pons"
+  "country": "كندا",
+  "cast": "Amber Marshall Graham Wardle Shaun Johnston",
+  "first_air_date": "2007-10-14"
 }
