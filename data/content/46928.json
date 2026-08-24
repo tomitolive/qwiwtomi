@@ -4,14 +4,12 @@
   "title_ar": "صوفيا الأميرة",
   "title_en": "Sofia the First",
   "slug": "46928-sofia-the-first",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "عندما تتزوج أمها سليلة العوام من الملك... تكتشف الفتاة المتوسطة الحال \"صوفيا\" أن كونها أميرة حقيقية ليس مصدر إزعاج مُطلقًا كما اعتقدت.",
   "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
   "backdrop_path": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
   "release_date": "2013-01-11",
   "vote_average": 7.2,
-  "vote_count": 541,
+  "vote_count": 550,
   "genres": [
     {
       "id": 10751,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم ملكي رائع، تكتشف الفتاة المتوسطة الحال صوفيا أن كونها أميرة حقيقية ليس مصدر إزعاج مُطلقًا كما اعتقدت. مع وجود أمها سليلة العوام من الملك، تكتشف صوفيا أن هناك الكثير من الأشياء التي يمكن أن تتعلمها عن العالم، والكثير من الأشياء التي يمكن أن تتعلمها عن نفسها.",
-    "desc_en": "In a royal world, Sofia, a girl of average means, discovers that being a real princess is not the source of endless trouble she thought it would be. With her mother being a descendant of the king, Sofia discovers that there are many things she can learn about the world, and many things she can learn about herself.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل رسوم متحركة عائلي صوفيا الأميرة!",
-    "seo_title_ar": "مشاهدة مسلسل رسوم متحركة عائلي صوفيا الأميرة مترجم اون لاين - توميتو",
-    "keywords": "Sofia the First, فيلم كذا مترجم, مشاهدة فيلم كذا, رسوم متحركة عائلي, مسلسل صوفيا الأميرة, توميتو صوفيا الأميرة, أحداث صوفيا الأميرة بالتفصيل, مشاهدة صوفيا الأميرة 2013, قصة مسلسل صوفيا الأميرة, صوفيا الأميرة مترجم كامل",
-    "opinion": "هو فيلم رائع يلقي باللوم على القيم والتعاون والشعور بالمسئولية، ويحولنا إلى عالم رائع من الخيال والفантаسيا.",
+    "intro": "يحكي مسلسل صوفيا الأميرة قصة ملهمة للفتيات الصغيرات، تظهر فيه صوفيا الأميرة كيف يمكن أن تتعلم وتتطور وتحقق أحلامها.",
+    "desc_ar": "يحكي مسلسل صوفيا الأميرة قصة فتاة صغيرة تدعى صوفيا، التي تكتشف أنها أميرة حقيقية بعد أن تتزوج والدتها سليلة العوام من الملك، وتجد نفسها في عالم جديد مليء بالحكايات والمغامرات. تتعلم صوفيا كيف تتحكم في نفسها وتتعامل مع التغييرات في حياتها، مع أن تكون أميرة حقيقية. تساعد صوفيا والدة أختها في أداء واجباتهم الملكية، وتتعلم من تجاربهم وتحسن مهاراتها. بالتالي، تكتشف صوفيا الأميرة أن كونها أميرة حقيقية ليست مصدر إزعاج مُطلقًا، بل فرصة لتحقيق أحلامها وتكبر.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words. Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight. With the help of her stepmother and stepsister, Sofia learns to navigate her new role and responsibilities, all while growing up and becoming the best princess she can be.",
+    "seo_title_ar": "مشاهدة مسلسل صوفيا الأميرة مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل صوفيا الأميرة مترجم - توميتو. تم إنتاج هذا العمل عام 2013. مسلسل عائلي، رسوم متحركة، أطفال. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "بالتالي، يعد مسلسل صوفيا الأميرة تجربة ممتعة وملهمة للجميع، خاصة للفتيات الصغيرات الذين يبحثون عن قصة تحدي وتطوير.",
+    "opinion_ar": "يحكي مسلسل صوفيا الأميرة قصة ملهمة للفتيات الصغيرات، تظهر فيه صوفيا الأميرة كيف يمكن أن تتعلم وتتطور وتحقق أحلامها.",
+    "opinion_en": "This show is an inspiring tale for young girls, showcasing Princess Sofia's growth and development as she learns to navigate her new royal role and achieve her dreams.",
     "faq": [
       {
-        "q": "ما هو هدف مسلسل صوفيا الأميرة؟",
-        "a": "يهدف مسلسل صوفيا الأميرة إلى تعليم القيم والتعاون والشعور بالمسئولية"
+        "q": "ما هو مسلسل صوفيا الأميرة؟",
+        "a": "يحكي مسلسل صوفيا الأميرة قصة فتاة صغيرة تدعى صوفيا، التي تكتشف أنها أميرة حقيقية بعد أن تتزوج والدتها سليلة العوام من الملك.",
+        "q_en": "What is the show Sofia the First about?",
+        "a_en": "Sofia the First is a show about a young girl named Sofia, who discovers she is a real princess after her mom marries the king."
       },
       {
-        "q": "ما هو نوع مسلسل صوفيا الأميرة؟",
-        "a": "مسلسل رسوم متحركة عائلي"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه مسلسل صوفيا الأميرة؟",
-        "a": "يحدث في عالم ملكي رائع"
+        "q": "ما هي فئة مسلسل صوفيا الأميرة؟",
+        "a": "يعد مسلسل صوفيا الأميرة من الفئات العائلية والرسوم المتحركة والأطفال.",
+        "q_en": "What genre is Sofia the First?",
+        "a_en": "Sofia the First is an animated family show for kids."
       }
-    ]
+    ],
+    "keywords": "صوفيا الأميرة, مسلسل, عائلي, رسوم متحركة, أطفال, 2013, مشاهدة صوفيا الأميرة, Sofia First مترجم, تحميل صوفيا الأميرة, صوفيا الأميرة اون لاين, Sofia First, صوفيا الأميرة جودة عالية, فيلم صوفيا الأميرة, Sofia First HD, صوفيا الأميرة HD"
   },
   "fixed": true,
-  "first_air_date": "2013-01-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "92 دقيقة",
-  "language": "الإيطالية",
+  "duration": "23 دقيقة",
+  "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Roberto Herlitzka Pierpaolo Lovino Olivia Magnani Francesco Martino Agnese Nano"
+  "cast": "Ariel Winter",
+  "first_air_date": "2013-01-11"
 }

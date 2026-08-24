@@ -4,14 +4,12 @@
   "title_ar": "الخصمان اللدودان",
   "title_en": "Nemesis",
   "slug": "285807-nemesis",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يصبح محقّق عنيد من شرطة \"لوس أنجلوس\" مهووسًا بالقبض على لصّ محنك يقف وراء سلسلة من عمليات السطو الجريئة... ولن تكون الغلبة إلا لواحد منهما.",
   "poster_path": "/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
   "backdrop_path": "/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
   "release_date": "2026-05-14",
-  "vote_average": 7.1,
-  "vote_count": 53,
+  "vote_average": 7.7,
+  "vote_count": 106,
   "genres": [
     {
       "id": 10759,
@@ -27,19 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يصبح محقّق عنيد من شرطة \"لوس أنجلوس\" مهووسًا بالقبض على لصّ محنك يقف وراء سلسلة من عمليات السطو الجريئة... ولن تكون الغلبة إلا لواحد منهما.",
-    "desc_en": "يصبح محقّق عنيد من شرطة \"لوس أنجلوس\" مهووسًا بالقبض على لصّ محنك يقف وراء سلسلة من عمليات السطو الجريئة... ولن تكون الغلبة إلا لواحد منهما.",
-    "meta_desc": "مشاهدة الخصمان اللدودان مترجم بجودة عالية على توميتو.",
-    "keywords": "Nemesis, أحداث الخصمان اللدودان بالتفصيل, توميتو الخصمان اللدودان, مشاهدة الخصمان اللدودان 2026, الخصمان اللدودان مترجم, قصة فيلم الخصمان اللدودان",
-    "seo_title_ar": "مشاهدة الخصمان اللدودان مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "ينتظرنا مسلسل جديد من نوعه في السنة الجديدة، حيث يقدم قصة غريبة ومثيرة مع شخصيات مميزة.",
+    "desc_ar": "يحكي المسلسل قصة ضابط شرطة لوس أنجلوس يتصارع مع هواجسه الداخلية عندما يصبح مهووسًا بتجريد اللص المحنك الذي يقف وراء سلسلة من عمليات السطو الجريئة، ويتصالح مع أعماله القديمة ليكتشف الحقيقة الحقيقية وراء الأحداث.",
+    "desc_en": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists and only one can come out on top.",
+    "seo_title_ar": "مشاهدة مسلسل الخصمان اللدودان Nemesis مترجم - توميتو",
+    "meta_desc": "مسلسل Nemesis 2026 - قصة محقق عنيد في شرطة لوس أنجلوس يتصارع مع هواجسه الداخلية لالتقاط اللص المحنك وراء سلسلة من عمليات السطو الجريئة. استمتع بمشاهدة هذا",
+    "outro": "واحدة من أفضل المسلسلات التي شاهدتها في السنوات الأخيرة، حيث يقدم قصة غريبة ومثيرة مع شخصيات مميزة.",
+    "opinion_ar": "يعد مسلسل Nemesis من بين أفضل المسلسلات التي شاهدتها في السنوات الأخيرة، حيث يقدم قصة غريبة ومثيرة مع شخصيات مميزة.",
+    "opinion_en": "Nemesis is one of the best series I've seen in recent years, offering a unique and thrilling story with memorable characters.",
+    "faq": [
+      {
+        "q": "ما هو اسم المسلسل؟",
+        "a": "اسم المسلسل هو الخصمان اللدودان Nemesis.",
+        "q_en": "What is the title of the series?",
+        "a_en": "The title of the series is Nemesis."
+      },
+      {
+        "q": "ما هو نوع المسلسل؟",
+        "a": "نوع المسلسل هو مسلسل حركة ومغامرة.",
+        "q_en": "What is the genre of the series?",
+        "a_en": "The genre of the series is Action Adventure."
+      }
+    ],
+    "keywords": "مسلسل الخصمان اللدودان Nemesis, الحركة والمغامرة, الدراما, الجريمة, لوس أنجلوس, اللص المحنك, السطو الجريء, العمل 2026, مشاهدة الخصمان اللدودان, Nemesis مترجم, تحميل الخصمان اللدودان, الخصمان اللدودان اون لاين, Nemesis, الخصمان اللدودان جودة عالية, فيلم الخصمان اللدودان"
   },
   "fixed": true,
-  "first_air_date": "2026-05-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "69 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Wilhelm Diegelmann Elsa Wagner Lyda Salmonova Märte Rassow Jakob Tiedtke"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Matthew Law Y'lan Noel Cleopatra Coleman Tre Hale Domenick Lombardozzi Ariana Guerra Jonnie Park Gabrielle Dennis",
+  "first_air_date": "2026-05-14"
 }
