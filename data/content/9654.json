@@ -4,14 +4,12 @@
   "title_ar": "المهمة الإيطالية",
   "title_en": "The Italian Job",
   "slug": "9654-the-italian-job",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "ادخل. اخرج. أخذ بثأره.\r قام تشارلي كروكر بجريمة العمر. الشيء الوحيد الذي لم يخطط له هو التقاطع المزدوج. جنبا إلى جنب مع جهاز تكسير آمن رائع ميت ، ينطلق كروكر وفريقه لإعادة سرقة المسروقات وينتهي بهم الأمر في مطاردة تقصف النبض ، من الدواسة إلى المعدن التي تتأرجح صعودا وهبوطا وفوق وتحت شوارع لوس أنجلوس.",
   "poster_path": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
-  "backdrop_path": "/wryDL17raofFbO5AfhH1WSm034Y.jpg",
+  "backdrop_path": "/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
   "release_date": "2003-05-30",
   "vote_average": 6.8,
-  "vote_count": 6005,
+  "vote_count": 6147,
   "genres": [
     {
       "id": 28,
@@ -23,26 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النمذجة ثلاثية الأبعاد، يأخذ تشارلي كروكر، المخترق الماهر، قراراً يغير كل شيء. مع أصدقائه، يلتحقون بجريمة كبيرة، ويقومون بسرقة مسروقات ثم يهربون من الشرطة. ولكن، في هذه المرة، يجدون أنفسهم في مطاردة تقصف النبض، من الدواسة إلى المعدن التي تتأرجح صعودا وهبوطا وفوق وتحت شوارع لوس أنجلوس.",
-    "desc_en": "In a world of 3D modeling, Charlie Crocker, the skilled hacker, makes a decision that changes everything. With his friends, they join a big heist, steal valuables, and then escape from the police. However, this time, they find themselves in a thrilling chase, from the streets to the hills, and back to the streets of Los Angeles.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المهمة الإيطالية!",
-    "seo_title_ar": "مشاهدة فيلم المهمة الإيطالية مترجم اون لاين - توميتو",
-    "keywords": "The Italian Job, فيلم المهمة الإيطالية مترجم, مشاهدة فيلم الحركة, مشاهدة المهمة الإيطالية 2003, قصة فيلم المهمة الإيطالية, المهمة الإيطالية مترجم, أحداث المهمة الإيطالية بالتفصيل, توميتو المهمة الإيطالية",
-    "opinion": "هو فيلم من نوعه، مليء بالتension والدراما والكوميديا، يجعلك تشعر بالمرح والرغبة في المتابعة.",
+    "intro": "يحكي فيلم المهمة الإيطالية قصة لصوص يخططون لإعادة سرقة المسروقات بعد أن يتم خداعهم. مع بطاقته المذهلة والجريمة الحية، يعد هذا العمل من أفضل أفلام الحركة في السنوات الأخيرة.",
+    "desc_ar": "في عالم مليء باللصوص والجريمة، قام تشارلي كروكر بجريمة كبيرة. لكن الشيء الوحيد الذي لم يخطط له هو أن يتم خداعه. مع جهاز تكسير آمن رائع وميت، يقرر كروكر وفريقه إعادة سرقة المسروقات، مما يؤديهم إلى مطاردة شائعة النبض، من الدواسة إلى المعدن التي تتأرجح صعودا وهبوطا وفوق وتحت شوارع لوس أنجلوس. في هذا العمل المذهل، يتم التحكم في الأحداث بسرعة وغموض.",
+    "desc_en": "Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.",
+    "seo_title_ar": "مشاهدة المهمة الإيطالية - فيلم حركة جريمة 2003 مترجم - توميتو",
+    "meta_desc": "المهمة الإيطالية: فيلم حركة جريمة من عام 2003، يقدم مسرحية جريمة حية مع مطاردات شائعة النبض والدراما. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية",
+    "outro": "استمتع بمشاهدة المهمة الإيطالية، فيلم حركة جريمة من عام 2003، مع مطاردات شائعة النبض والدراما. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "opinion_ar": "يعد فيلم المهمة الإيطالية من أفضل أفلام الحركة في السنوات الأخيرة، مع بطاقته المذهلة والجريمة الحية.",
+    "opinion_en": "The Italian Job is one of the best action movies in recent years, with its impressive cast and pulse-pounding action.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم المهمة الإيطالية؟",
-        "a": "هو فيلم حركة جريمة"
+        "q": "ما هو موضوع الفيلم؟",
+        "a": "يحكي الفيلم قصة لصوص يخططون لإعادة سرقة المسروقات بعد أن يتم خداعهم.",
+        "q_en": "What is the movie about?",
+        "a_en": "The movie is about a group of thieves who plan to re-steal the loot after they are double-crossed."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه فيلم المهمة الإيطالية؟",
-        "a": "يحدث في لوس أنجلوس"
-      },
-      {
-        "q": "ما هو نوع التشويق في فيلم المهمة الإيطالية؟",
-        "a": "يحتوي على مطاردة تقصف النبض"
+        "q": "من بطولة الفيلم؟",
+        "a": "شارلي كروكر وفريقه.",
+        "q_en": "Who stars in the movie?",
+        "a_en": "Charlie Croker and his team."
       }
-    ]
+    ],
+    "keywords": "المهمة الإيطالية, فيلم حركة, جريمة, لوس أنجلوس, تشارلي كروكر, سرقة, جريمة العمر, مطاردة, فيلم 2003, مشاهدة المهمة الإيطالية, The Italian Job مترجم, تحميل المهمة الإيطالية, المهمة الإيطالية اون لاين, The Italian Job, المهمة الإيطالية جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -50,5 +51,5 @@
   "duration": "110 دقيقة",
   "language": "الإنجليزية",
   "country": "فرنسا",
-  "cast": "Mark Wahlberg Charlize Theron Edward Norton Seth Green Jason Statham"
+  "cast": "Mark Wahlberg Charlize Theron Edward Norton Seth Green Jason Statham Yasiin Bey Donald Sutherland Olek Krupa"
 }

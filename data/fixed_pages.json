@@ -12365,8 +12365,152 @@
       "file": "940551.json",
       "title": "الهجرة",
       "fixed_at": "2026-08-24T12:29:20.921219"
+    },
+    {
+      "tmdb_id": "2352",
+      "file": "2352.json",
+      "title": "المربية",
+      "fixed_at": "2026-08-24T13:30:27.406077"
+    },
+    {
+      "tmdb_id": "211288",
+      "file": "211288.json",
+      "title": "Tracker",
+      "fixed_at": "2026-08-24T13:31:03.670059"
+    },
+    {
+      "tmdb_id": "89861",
+      "file": "89861.json",
+      "title": "Great Escape",
+      "fixed_at": "2026-08-24T13:31:20.379118"
+    },
+    {
+      "tmdb_id": "412117",
+      "file": "412117.json",
+      "title": "الحياة السرية للحيوانات الاليفة 2",
+      "fixed_at": "2026-08-24T13:31:37.822383"
+    },
+    {
+      "tmdb_id": "244517",
+      "file": "244517.json",
+      "title": "Gods Pocket",
+      "fixed_at": "2026-08-24T13:31:47.067326"
+    },
+    {
+      "tmdb_id": "9654",
+      "file": "9654.json",
+      "title": "المهمة الإيطالية",
+      "fixed_at": "2026-08-24T13:31:55.169048"
+    },
+    {
+      "tmdb_id": "756999",
+      "file": "756999.json",
+      "title": "الهاتف الأسود",
+      "fixed_at": "2026-08-24T13:32:02.214409"
+    },
+    {
+      "tmdb_id": "979876",
+      "file": "979876.json",
+      "title": "Low Water",
+      "fixed_at": "2026-08-24T13:32:11.221391"
+    },
+    {
+      "tmdb_id": "8962",
+      "file": "8962.json",
+      "title": "وداعا ماركو",
+      "fixed_at": "2026-08-24T13:32:20.628521"
+    },
+    {
+      "tmdb_id": "335797",
+      "file": "335797.json",
+      "title": "هواة الغناء",
+      "fixed_at": "2026-08-24T13:32:28.548991"
+    },
+    {
+      "tmdb_id": "327817",
+      "file": "327817.json",
+      "title": "Lets Marry Harry",
+      "fixed_at": "2026-08-24T13:32:35.164554"
+    },
+    {
+      "tmdb_id": "296436",
+      "file": "296436.json",
+      "title": "The Oblivious Saint Cant Contain Her Power",
+      "fixed_at": "2026-08-24T13:32:44.464785"
+    },
+    {
+      "tmdb_id": "1606",
+      "file": "1606.json",
+      "title": "Ghost Whisperer",
+      "fixed_at": "2026-08-24T13:32:53.678797"
+    },
+    {
+      "tmdb_id": "744275",
+      "file": "744275.json",
+      "title": "بعد سقوطنا",
+      "fixed_at": "2026-08-24T13:32:59.701588"
+    },
+    {
+      "tmdb_id": "60622",
+      "file": "60622.json",
+      "title": "فارغو",
+      "fixed_at": "2026-08-24T13:33:08.049594"
+    },
+    {
+      "tmdb_id": "1367642",
+      "file": "1367642.json",
+      "title": "Reminders of Him",
+      "fixed_at": "2026-08-24T13:33:17.052126"
+    },
+    {
+      "tmdb_id": "81390",
+      "file": "81390.json",
+      "title": "A Lonely Place to Die",
+      "fixed_at": "2026-08-24T13:33:25.872801"
+    },
+    {
+      "tmdb_id": "224",
+      "file": "224.json",
+      "title": "Match of the Day",
+      "fixed_at": "2026-08-24T13:33:33.161735"
+    },
+    {
+      "tmdb_id": "256835",
+      "file": "256835.json",
+      "title": "حكاية لعبة نسيها الزمن",
+      "fixed_at": "2026-08-24T13:33:40.537233"
+    },
+    {
+      "tmdb_id": "31991",
+      "file": "31991.json",
+      "title": "WWE NXT",
+      "fixed_at": "2026-08-24T13:33:50.723943"
+    },
+    {
+      "tmdb_id": "194",
+      "file": "194.json",
+      "title": "NYPD Blue",
+      "fixed_at": "2026-08-24T13:33:58.708477"
+    },
+    {
+      "tmdb_id": "2292",
+      "file": "2292.json",
+      "title": "Clerks",
+      "fixed_at": "2026-08-24T13:34:07.883824"
+    },
+    {
+      "tmdb_id": "109445",
+      "file": "109445.json",
+      "title": "ملكة الثلج",
+      "fixed_at": "2026-08-24T13:34:15.436069"
+    },
+    {
+      "tmdb_id": "19092",
+      "file": "19092.json",
+      "title": "FlashForward",
+      "fixed_at": "2026-08-24T13:34:23.859978"
     }
   ],
-  "last_updated": "2026-08-24T12:29:23.080415",
-  "total_fixed": 2061
+  "last_updated": "2026-08-24T13:34:26.024800",
+  "total_fixed": 2085
 }

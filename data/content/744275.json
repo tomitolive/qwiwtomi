@@ -8,8 +8,8 @@
   "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
   "backdrop_path": "/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
   "release_date": "2021-09-01",
-  "vote_average": 7,
-  "vote_count": 2737,
+  "vote_average": 7.0,
+  "vote_count": 2772,
   "genres": [
     {
       "id": 18,
@@ -21,26 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يتغير كل شيء عندما تتخذ تيسا أكبر قرار في حياتها بالكشف عن أسرار عائلتها، ثم يتبعها هاردين فيُصبح عليهما الكفاح من أجل علاقتهما وطريقهما شديد الصعوبة. تتعقّد الأحداث عندما يكتشف تيسا أن حياتها مع هاردين ليست كما كانت، وستقوم بالبحث عن الحقيقة لنجد ما هو الأفضل لهم.",
-    "desc_en": "Everything changes when Tessa takes the biggest decision of her life to uncover family secrets, and then follows her with a hard struggle for their relationship and its difficulties. The events become complicated when Tessa discovers that her life with Harden is not as it was, and she will search for the truth to find what is best for them.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم بعد سقوطنا مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم بعد سقوطنا مترجم اون لاين - توميتو",
-    "keywords": "After We Fell, فيلم بعد سقوطنا مترجم, مشاهدة فيلم بعد سقوطنا, توميتو بعد سقوطنا, أحداث بعد سقوطنا بالتفصيل, بعد سقوطنا مترجم, مشاهدة بعد سقوطنا 2021, قصة فيلم بعد سقوطنا",
-    "opinion": "هو فيلم دراما رومنسي يلقي باللوم على القلوب، حيث تتعقّد الأحداث وتقوم بالبحث عن الحقيقة لنجد ما هو الأفضل لهم.",
+    "intro": "يحكي فيلم بعد سقوطنا قصة حب تعكس تحديات الحياة والعلاقات بين الأشخاص.",
+    "desc_ar": "يتغير كل شيء في حياة تيسا عندما تتخذ قرارًا كبيرًا بالكشف عن أسرار عائلتها، مما يؤدي إلى صعوبات في علاقتها مع هاردين، الذي يكتشف سرًا ضخمًا كان تيسا قد احتفظ به، مما يؤثر على حياتهما بشكل كبير.",
+    "desc_en": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+    "seo_title_ar": "مشاهدة فيلم بعد سقوطنا مترجم - After We Fell - توميتو",
+    "meta_desc": "بعد سقوطنا, فيلم درامي رومنسي عن حب وتحديات الحياة مع هاردين و تيسا، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع ب",
+    "outro": "استمتع بمشاهدة فيلم بعد سقوطنا مع توميتو!",
+    "opinion_ar": "فيلم بعد سقوطنا يعرض قصة حب تعكس تحديات الحياة والعلاقات بين الأشخاص.",
+    "opinion_en": "After We Fell is a film that portrays a love story that reflects the challenges of life and relationships between people.",
     "faq": [
       {
-        "q": "ما هو فيلم بعد سقوطنا؟",
-        "a": "هو فيلم دراما رومنسي يلقي باللوم على القلوب."
+        "q": "ما هو عنوان الفيلم؟",
+        "a": "عنوان الفيلم هو بعد سقوطنا.",
+        "q_en": "What is the title of the film?",
+        "a_en": "The title of the film is After We Fell."
       },
       {
-        "q": "ما هو سبب تغير كل شيء في فيلم بعد سقوطنا؟",
-        "a": "يتغير كل شيء عندما تتخذ تيسا أكبر قرار في حياتها بالكشف عن أسرار عائلتها."
-      },
-      {
-        "q": "ما هو مستقبل تيسا وهاردين في فيلم بعد سقوطنا؟",
-        "a": "ستقوم تيسا بالبحث عن الحقيقة لنجد ما هو الأفضل لهم، وتتعقّد الأحداث"
+        "q": "من بطولة الفيلم؟",
+        "a": "الفيلم من بطولة هاردين و تيسا.",
+        "q_en": "Who are the main actors in the film?",
+        "a_en": "The main actors in the film are Hardin and Tessa."
       }
-    ]
+    ],
+    "keywords": "فيلم بعد سقوطنا, دراما, رومنسي, حب, تحديات الحياة, علاقات, هاردين, تيسا, 2021, مشاهدة بعد سقوطنا, After We Fell مترجم, تحميل بعد سقوطنا, بعد سقوطنا اون لاين, After We Fell, بعد سقوطنا جودة عالية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +51,5 @@
   "duration": "99 دقيقة",
   "language": "الإنجليزية",
   "country": "فرنسا",
-  "cast": "Josephine Langford Hero Fiennes Tiffin Carter Jenkins Louise Lombard Chance Perdomo"
+  "cast": "Josephine Langford Hero Fiennes Tiffin Carter Jenkins Louise Lombard Chance Perdomo Rob Estes Arielle Kebbel Stephen Moyer"
 }

@@ -4,14 +4,12 @@
   "title_ar": "NYPD Blue",
   "title_en": "NYPD Blue",
   "slug": "194-nypd-blue",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل شرطة نيويورك الزرقاء قصة الحياة الداخلية والخارجية لفرقة الشرطة الزرقاء في نيويورك، وتحديداً فرقة الشرطة رقم 15 في مانهاتن. يرصد المسلسل التحديات الداخلية والخارجية التي تواجه فرقة الشرطة الزرقاء، وتحكي قصة الحياة اليومية للشرطة والجمهور في مدينة نيويورك. يضم المسلسل طاقمًا متنوعًا من الفنانين، ويقدم كل حلقة قصة متفرقة من خلال طاقم ممثلين متكامل.",
   "poster_path": "/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg",
   "backdrop_path": "/uGGmIOPc2QLNF4t3Ro46wRcYr3t.jpg",
   "release_date": "1993-09-21",
-  "vote_average": 7.1,
-  "vote_count": 174,
+  "vote_average": 7.0,
+  "vote_count": 178,
   "genres": [
     {
       "id": 18,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم النيويورك سيتي بوليس، يقابلنا رجال الشرطة الذين يعملون في قوة الشرطة في نيويورك، الذين يخوضون معاناة وعرقلة في حياتهم الشخصية والعملية، بينما يتعاملون مع الجرائم والقتال في المدينة الكبرى، في هذا العالم المليء بالتension والانفعال، نرى رجال الشرطة الذين يعملون في قوة الشرطة في نيويورك، الذين يخوضون معاناة وعرقلة في حياتهم الشخصية والعملية، بينما يتعاملون مع الجرائم والقتال في المدينة الكبرى.",
-    "desc_en": "In the world of the New York City Police Department, we meet the police officers who work in the New York City Police Department, who face challenges and obstacles in their personal and professional lives, while dealing with crimes and fighting in the big city. In this world filled with tension and excitement, we see the police officers who work in the New York City Police Department, who face challenges and obstacles in their personal and professional lives, while dealing with crimes and fighting in the big city.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في NYPD Blue",
-    "seo_title_ar": "مشاهدة فيلم NYPD Blue مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما NYPD Blue, مشاهدة فيلم دراما, أحداث NYPD Blue بالتفصيل, مشاهدة NYPD Blue 1993, قصة مسلسل NYPD Blue, توميتو NYPD Blue, NYPD Blue مترجم كامل",
-    "opinion": "هذا العمل هو مثال رائع لدراما النيويورك سيتي بوليس، حيث نرى رجال الشرطة الذين يعملون في قوة الشرطة في نيويورك، الذين يخوضون معاناة وعرقلة في حياتهم الشخصية والعملية، بينما يتعاملون مع الجرائم والقتال في المدينة الكبرى.",
+    "intro": "يحكي مسلسل شرطة نيويورك الزرقاء قصة الحياة الداخلية والخارجية لفرقة الشرطة الزرقاء في نيويورك، وتحديداً فرقة الشرطة رقم 15 في مانهاتن.",
+    "desc_ar": "يحكي مسلسل شرطة نيويورك الزرقاء قصة الحياة الداخلية والخارجية لفرقة الشرطة الزرقاء في نيويورك، وتحديداً فرقة الشرطة رقم 15 في مانهاتن. يرصد المسلسل التحديات الداخلية والخارجية التي تواجه فرقة الشرطة الزرقاء، وتحكي قصة الحياة اليومية للشرطة والجمهور في مدينة نيويورك. يضم المسلسل طاقمًا متنوعًا من الفنانين، ويقدم كل حلقة قصة متفرقة من خلال طاقم ممثلين متكامل.",
+    "desc_en": "Police drama set in New York City, exploring the internal and external struggles of the fictional 15th precinct of Manhattan. Each episode typically intertwined several plots involving an ensemble cast.",
+    "seo_title_ar": "مشاهدة مسلسل شرطة نيويورك الزرقاء مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل شرطة نيويورك الزرقاء مترجم على توميتو، مسلسل دراما يروي قصة الحياة الداخلية والخارجية لفرقة الشرطة الزرقاء في نيويورك، واستمتع بمشاهدته بجودة عا",
+    "outro": "يمثل مسلسل شرطة نيويورك الزرقاء تجربة فنية رائعة في عالم التلفزيون، حيث يقدم قصة حياة الشرطة والجمهور في مدينة نيويورك بفصاحة وتنوع.",
+    "opinion_ar": "يعد مسلسل شرطة نيويورك الزرقاء من أفضل المسلسلات الدرامية في تاريخ التلفزيون، حيث يقدم قصة حياة الشرطة والجمهور في مدينة نيويورك بفصاحة وتنوع.",
+    "opinion_en": "NYPD Blue is one of the best police dramas in television history, offering a compelling story of life in the 15th precinct of Manhattan.",
     "faq": [
       {
-        "q": "ما هو NYPD Blue؟",
-        "a": "هو دراما النيويورك سيتي بوليس"
+        "q": "ما هي قصة مسلسل شرطة نيويورك الزرقاء؟",
+        "a": "يحكي مسلسل شرطة نيويورك الزرقاء قصة الحياة الداخلية والخارجية لفرقة الشرطة الزرقاء في نيويورك.",
+        "q_en": "What is the story of NYPD Blue?",
+        "a_en": "The show follows the internal and external struggles of the fictional 15th precinct of Manhattan."
       },
       {
-        "q": "ما هو نوع NYPD Blue؟",
-        "a": "هو دراما"
-      },
-      {
-        "q": "ما هو أفضل جزء في NYPD Blue؟",
-        "a": "هو الأحداث الإثارة والقضايا التي يتعامل معها رجال الشرطة"
+        "q": "من بطولة مسلسل شرطة نيويورك الزرقاء؟",
+        "a": "يتضمن طاقم الممثلين في مسلسل شرطة نيويورك الزرقاء مجموعة متنوعة من الفنانين.",
+        "q_en": "Who are the cast members of NYPD Blue?",
+        "a_en": "The show features an ensemble cast of talented actors."
       }
-    ]
+    ],
+    "keywords": "شرطة نيويورك الزرقاء, NYPD Blue, مسلسل دراما, فرقة الشرطة الزرقاء, مدينة نيويورك, التلفزيون, الدراما, مشاهدة شرطة نيويورك الزرقاء, NYPD Blue مترجم, تحميل شرطة نيويورك الزرقاء, شرطة نيويورك الزرقاء اون لاين, شرطة نيويورك الزرقاء جودة عالية, فيلم شرطة نيويورك الزرقاء, NYPD Blue HD, NYPD Blue online"
   },
   "fixed": true,
-  "first_air_date": "1993-09-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "122 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Audrey Tautou Mathieu Kassovitz Rufus Serge Merlin Jamel Debbouze"
+  "duration": "60 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Dennis Franz Mark-Paul Gosselaar Henry Simmons Bill Brochtrup Jacqueline Obradors Currie Graham Bonnie Somerville Gordon Clapp",
+  "first_air_date": "1993-09-21"
 }

@@ -4,14 +4,12 @@
   "title_ar": "فارغو",
   "title_en": "Fargo",
   "slug": "60622-fargo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يعرض هذا المسلسل المستوحى من فيلم الأخوين \"كوين\"، والذي يحمل الاسم ذاته، مقتطفات لبعض من مواطني مينيسوتا في جرائم \"حقيقية\" مختلفة.",
+  "overview": "تبدأ القصة في بلدة هادئة بولاية مينيسوتا عندما يلتقي ليستر نايغارد برجل غامض يدعى لورن مالفو، فيقوده هذا اللقاء إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب. ومع تصاعد الفوضى، تبدأ الشرطة في التحقيق في سلسلة من جرائم القتل، بينما تتشابك حياة المجرمين والسكان العاديين في صراعات غير متوقعة. وبين الطمع والخداع والعنف، يجد ليستر نفسه منجرفًا إلى عالم الجريمة، في حين يسعى المحققون لكشف الحقيقة وإيقاف الأشخاص المسؤولين عن هذه الجرائم.",
   "poster_path": "/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
   "backdrop_path": "/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
   "release_date": "2014-04-15",
   "vote_average": 8.3,
-  "vote_count": 3239,
+  "vote_count": 3379,
   "genres": [
     {
       "id": 80,
@@ -23,19 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يعرض هذا المسلسل المستوحى من فيلم الأخوين \"كوين\"، والذي يحمل الاسم ذاته، مقتطفات لبعض من مواطني مينيسوتا في جرائم \"حقيقية\" مختلفة.",
-    "desc_en": "يعرض هذا المسلسل المستوحى من فيلم الأخوين \"كوين\"، والذي يحمل الاسم ذاته، مقتطفات لبعض من مواطني مينيسوتا في جرائم \"حقيقية\" مختلفة.",
-    "meta_desc": "مشاهدة فارغو مترجم بجودة عالية على توميتو.",
-    "keywords": "Fargo, توميتو فارغو, أحداث فارغو بالتفصيل, قصة فيلم فارغو, فارغو مترجم, مشاهدة فارغو 2026",
-    "seo_title_ar": "مشاهدة فارغو مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي المسلسل فارغو قصة ليستر نايغارد الذي يلتقي برجل غامض يدعى لورن مالفو، مما يؤدي إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب.",
+    "desc_ar": "يحكي المسلسل فارغو قصة ليستر نايغارد الذي يلتقي برجل غامض يدعى لورن مالفو، مما يؤدي إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب. مع تصاعد الفوضى، يبحث المحققون عن الحقيقة وراء سلسلة من جرائم القتل، بينما يجد ليستر نفسه منجرفًا إلى عالم الجريمة. في هذه القصة، يتعرض المجتمع إلى سلسلة من الصراعات والمخاطر التي تهدد أمنه وثقافته.",
+    "desc_en": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota, where a series of unexpected events unfolds, leading to a complex web of crime and deceit. As the investigation unfolds, the truth behind a series of murders is slowly revealed, while the main characters navigate the treacherous world of crime and corruption.",
+    "seo_title_ar": "مشاهدة مسلسل فارغو مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل فارغو مترجم على توميتو - دراما جريمة قصة عن العنف والجريمة في ولاية مينيسوتا استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات م",
+    "outro": "في نهاية المطاف، يجد ليستر نفسه منجرفًا إلى عالم الجريمة، بينما يبحث المحققون عن الحقيقة وراء سلسلة من جرائم القتل.",
+    "opinion_ar": "حسناً مسلسلات فارغو تجمع بين الجريمة والدراما بجمالها العميق، حيث يتعرض المجتمع إلى سلسلة من الصراعات والمخاطر التي تهدد أمنه وثقافته.",
+    "opinion_en": "Fargo is a gripping anthology series that expertly weaves together stories of crime and drama, exposing the dark underbelly of human nature and the consequences of our actions.",
+    "faq": [
+      {
+        "q": "ما هي قصة المسلسل فارغو؟",
+        "a": "يحكي المسلسل فارغو قصة ليستر نايغارد الذي يلتقي برجل غامض يدعى لورن مالفو، مما يؤدي إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب.",
+        "q_en": "What is the story of the Fargo series?",
+        "a_en": "The series Fargo follows the story of Lester Nygaard, who meets a mysterious man named Lorne Malvo, leading to a series of violent and criminal events that turn his life upside down."
+      },
+      {
+        "q": "ما هو نوع المسلسل فارغو؟",
+        "a": "المسلسل فارغو هو مسلسل دراما جريمة يتبع أحداثًا عنيفة وقصص جريمة في ولاية مينيسوتا.",
+        "q_en": "What type of series is Fargo?",
+        "a_en": "Fargo is a crime drama anthology series that follows stories of violence and crime in and around Minnesota."
+      }
+    ],
+    "keywords": "فارغو, مسلسل, دراما جريمة, ولاية مينيسوتا, جريمة, عنف, المجتمع, الصراعات, المخاطر, القتل, الجريمة, الفساد, القانون, العدالة, فيلم فارغو"
   },
   "fixed": true,
-  "first_air_date": "2014-04-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Juno Temple Jennifer Jason Leigh David Rysdahl Joe Keery Lamorne Morris Richa Shukla Moorjani Sam Spruell Sienna King",
+  "first_air_date": "2014-04-15"
 }

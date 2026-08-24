@@ -1,57 +1,59 @@
 {
   "id": 31991,
-  "title": "WWE NXT",
-  "title_ar": "WWE NXT",
-  "title_en": "WWE NXT",
-  "slug": "31991-wwe-nxt",
-  "overview": "تابع أحداث WWE NXT المشوقة، حيث يتصارع الأبطال والأشرار في سلسلة من الأحداث المثيرة التي تتصاعد وتنتهي بمباريات مصارعة ملحمية. مسلسل WWE NXT يجمع بين الإثارة والدراما والواقعية في قالب مميز.",
+  "title": "Drifter: Henry Lee Lucas",
+  "title_ar": "Drifter: Henry Lee Lucas",
+  "title_en": "Drifter: Henry Lee Lucas",
+  "slug": "31991-drifter-henry-lee-lucas",
+  "overview": "يحكي فيلم \"التائه: هنري لي لوكاس\" قصة حياة هنري لي لوكاس، أحدserial الأكثر شعبية في أمريكا، من طفولته المضطهدة في Blacksburg، فيرجينيا إلى حملاته القاتلة العنيفة في جميع أنحاء جنوب الولايات المتحدة مع أفضل صديقه وخطيبته الصغيرة. في نفس الوقت، يتابع الفيلم قصة كيفية خداع هنري Texas Rangers من خلال الاعتراف بعمليات القتل المزعومة. يتناول الفيلم أيضًا مسار حياة هنري من طفولته إلى فترته BaseModel. في النهاية، يُظهر الفيلم كيفية هروب هنري من العدالة، حيث يترك وراءه أثرًا مأساويًا من الدماء والدمار.",
   "poster_path": "/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-  "backdrop_path": "/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
-  "release_date": "2010-02-23",
-  "vote_average": 6.7,
-  "vote_count": 128,
+  "backdrop_path": "/jZbN8KDUKQTpUvrcgNsTXKERokc.jpg",
+  "release_date": "2009-09-01",
+  "vote_average": 3.7,
+  "vote_count": 22,
   "genres": [
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
     {
       "id": 18,
       "name": "دراما"
     },
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل WWE NXT (2010) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تابع أحداث WWE NXT المشوقة، حيث يتصارع الأبطال والأشرار في سلسلة من الأحداث المثيرة التي تتصاعد وتنتهي بمباريات مصارعة ملحمية. مسلسل WWE NXT يجمع بين الإثارة والدراما والواقعية في قالب مميز.",
-    "desc_en": "Experience the thrilling world of WWE NXT, where heroes and villains collide in a series of events leading up to epic wrestling matches. WWE NXT combines action, drama, and reality for an unforgettable experience.",
-    "seo_title_ar": "مشاهدة مسلسل WWE NXT مترجم - توميتو",
-    "meta_desc": "شاهد WWE NXT، المسلسل الذي يجمع بين الإثارة والدراما والواقعية في قالب مميز. تابع الأحداث المثيرة التي تتصاعد وتنتهي بمباريات مصارعة ملحمية.",
-    "outro": "شاهد WWE NXT الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "WWE NXT يقدم تجربة مشاهدة فريدة تجمع بين الإثارة والدراما والواقعية، حيث يبقيك في حالة ترقب دائم لما سيحدث في الحلقة القادمة.",
-    "opinion_en": "WWE NXT offers a unique viewing experience, blending action, drama, and reality. It keeps you on the edge of your seat, eager to see what happens next.",
+    "intro": "يحكي فيلم \"التائه: هنري لي لوكاس\" قصة حياة هنري لي لوكاس، أحدserial killers الأكثر شعبية في أمريكا، من طفولته المضطهدة في Blacksburg، فيرجينيا إلى حملاته القاتلة العنيفة في جميع أنحاء جنوب الولايات المتحدة مع أفضل صديقه وخطيبته الصغيرة.",
+    "desc_ar": "يحكي فيلم \"التائه: هنري لي لوكاس\" قصة حياة هنري لي لوكاس، أحدserial الأكثر شعبية في أمريكا، من طفولته المضطهدة في Blacksburg، فيرجينيا إلى حملاته القاتلة العنيفة في جميع أنحاء جنوب الولايات المتحدة مع أفضل صديقه وخطيبته الصغيرة. في نفس الوقت، يتابع الفيلم قصة كيفية خداع هنري Texas Rangers من خلال الاعتراف بعمليات القتل المزعومة. يتناول الفيلم أيضًا مسار حياة هنري من طفولته إلى فترته BaseModel. في النهاية، يُظهر الفيلم كيفية هروب هنري من العدالة، حيث يترك وراءه أثرًا مأساويًا من الدماء والدمار.",
+    "desc_en": "Inspired by one of Americas most prolific and controversial serial killers, this movie details Henrys life from his abusive childhood in Blacksburg, Virginia to his violent killing sprees as he drifted across the south with his best friend and young fianc. Concurrently the film also follows the story of how Henry duped the Texas Rangers by confessing to many more murders. The movie also explores Henrys life as a model, where he was able to use his charm and good looks to lure his victims into a false sense of security. In the end, the film shows how Henry managed to evade justice, leaving behind a trail of blood and devastation.",
+    "seo_title_ar": "مشاهدة فيلم التائه: هنري لي لوكاس مترجم - دراما رعب إثارة - توميتو",
+    "meta_desc": "عرض فيلم التائه: هنري لي لوكاس مترجم - دراما رعب إثارة عن قصة هنري لي لوكاس، مع ترجمة احترافية وبدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجو است",
+    "outro": "في النهاية، يُظهر الفيلم كيفية هروب هنري من العدالة، حيث يترك وراءه أثرًا مأساويًا من الدماء والدمار.",
+    "opinion_ar": "يعد فيلم \"التائه: هنري لي لوكاس\" تجربة مشاهدة مثيرة ومفاجئة. يحكي الفيلم قصة هنري لي لوكاس بطريقة فريدة وملفتة. يقدم الفيلم نظرة su على حياة هنري من طفولته إلى فترة حياته BaseModel. في النهاية، يُظهر الفيلم كيفية هروب هنري من العدالة، حيث يترك وراءه أثرًا مأساويًا من الدماء والدمار.",
+    "opinion_en": "Drifter: Henry Lee Lucas is a thrilling and unpredictable movie experience. The film tells the story of serial killer Henry Lee Lucas in a unique and captivating way. It provides a deep insight into Henry's life from his childhood to his time as a model. In the end, the film shows how Henry managed to evade justice, leaving behind a trail of blood and devastation.",
     "faq": [
       {
-        "q": "هل WWE NXT مناسب لجميع الأعمار؟",
-        "a": "قد لا يكون WWE NXT مناسبًا للأطفال الصغار بسبب بعض المشاهد العنيفة واللغة المستخدمة. يُنصح بمشاهدته من قبل المراهقين وما فوق.",
-        "q_en": "Is WWE NXT suitable for all ages?",
-        "a_en": "WWE NXT may not be suitable for young children due to some violent scenes and language. It is recommended for teenagers and above."
+        "q": "ما هي قصة فيلم \"التائه: هنري لي لوكاس\"؟",
+        "a": "يحكي فيلم \"التائه: هنري لي لوكاس\" قصة حياة هنري لي لوكاس، أحدserial الأكثر شعبية في أمريكا، من طفولته المضطهدة في Blacksburg، فيرجينيا إلى حملاته القاتلة العنيفة في جميع أنحاء جنوب الولايات المتحدة مع أفضل صديقه وخطيبته الصغيرة.",
+        "q_en": "What is the story of Drifter: Henry Lee Lucas?",
+        "a_en": "The movie Drifter: Henry Lee Lucas tells the story of serial killer Henry Lee Lucas, one of Americas most prolific and controversial serial killers, from his abusive childhood in Blacksburg, Virginia to his violent killing sprees as he drifted across the south with his best friend and young fianc."
+      },
+      {
+        "q": "لماذا يجب أن نرى فيلم \"التائه: هنري لي لوكاس\"؟",
+        "a": "يعد فيلم \"التائه: هنري لي لوكاس\" تجربة مشاهدة مثيرة ومفاجئة. يحكي الفيلم قصة هنري لي لوكاس بطريقة فريدة وملفتة.",
+        "q_en": "Why should we watch Drifter: Henry Lee Lucas?",
+        "a_en": "Drifter: Henry Lee Lucas is a thrilling and unpredictable movie experience. The film tells the story of serial killer Henry Lee Lucas in a unique and captivating way."
       }
     ],
-    "keywords": "WWE NXT, مصارعة, مسلسل, إثارة, دراما, واقع, أبطال, أشرار, مباريات"
+    "keywords": "فيلم التائه: هنري لي لوكاس, دراما, رعب, إثارة, هنري لي لوكاس, Blacksburg, فيرجينيا, جنوب الولايات المتحدة, Texas Rangers, فيلم مترجم, بدون إعلانات مزعجة, مشاهدة التائه: هنري لي لوكاس, Drifter: Henry Lee Lucas مترجم, تحميل التائه: هنري لي لوكاس, التائه: هنري لي لوكاس اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "",
-  "first_air_date": "2010-02-23",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": "Antonio Sabàto Jr. John Diehl Kostas Sommer Caia Coley John Burke Carmen Gloria Pérez"
 }

@@ -8,13 +8,9 @@
   "poster_path": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
   "backdrop_path": "/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
   "release_date": "2019-05-24",
-  "vote_average": 6.9,
-  "vote_count": 3326,
+  "vote_average": 7.0,
+  "vote_count": 3398,
   "genres": [
-    {
-      "id": 12,
-      "name": "مغامرة"
-    },
     {
       "id": 16,
       "name": "رسوم متحركة"
@@ -26,15 +22,42 @@
     {
       "id": 10751,
       "name": "عائلي"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
     }
   ],
   "ai_content": {
-    "desc_ar": "يلتقي الكلبان \"ديوك\" و\"ماكس\" بطفل بشري جديد ينضمّ للعائلة ويتأقلمان مع حياة المزرعة، فيما يواجه رفاقهما من الحيوانات أزمات جديدة في المدينة.",
-    "desc_en": "يلتقي الكلبان \"ديوك\" و\"ماكس\" بطفل بشري جديد ينضمّ للعائلة ويتأقلمان مع حياة المزرعة، فيما يواجه رفاقهما من الحيوانات أزمات جديدة في المدينة.",
-    "meta_desc": "مشاهدة الحياة السرية للحيوانات الاليفة 2 مترجم بجودة عالية على توميتو.",
-    "keywords": "The Secret Life of Pets 2, الحياة السرية للحيوانات الاليفة 2 مترجم, أحداث الحياة السرية للحيوانات الاليفة 2 بالتفصيل, مشاهدة الحياة السرية للحيوانات الاليفة 2 2026, توميتو الحياة السرية للحيوانات الاليفة 2, قصة فيلم الحياة السرية للحيوانات الاليفة 2",
-    "seo_title_ar": "مشاهدة الحياة السرية للحيوانات الاليفة 2 مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"الحياة السرية للحيوانات الاليفة 2\" قصة الكلاب المضحكة والمغامرات التي يتعرض لها الكلب \"ماكس\" في حياته.",
+    "desc_ar": "يحكي فيلم \"الحياة السرية للحيوانات الاليفة 2\" قصة الكلب \"ماكس\" الذي يواجه تحديات كبيرة في حياته عندما يتزوج مالكه ويتوّج بأبنة جديدة. يتعرض \"ماكس\" لأزمات جديدة في المدينة، حيث يتعرض للعديد من الحيوانات التي لا تحب الكلاب، مثل البقر المضطربة والذئاب السخيفة والديك المخيف. لكن \"ماكس\" يجد حلاً عندما يلتقي بكلاب المزرعة \"روستر\"، الذي يحاول علاج الكلب المخلص من عذاباته النفسية.",
+    "desc_en": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
+    "seo_title_ar": "مشاهدة فيلم رسوم متحركة الحياة السرية للحيوانات الاليفة 2 مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم الحياة السرية للحيوانات الاليفة 2 مترجم - فيلم رسوم متحركة كوميدي عائلي مغامرة من إنتاج عام 2019. استمتع بمشاهدة هذا العمل بجودة",
+    "outro": "استمتع بمشاهدة فيلم \"الحياة السرية للحيوانات الاليفة 2\" مترجم - فيلم رسوم متحركة كوميدي عائلي مغامرة من إنتاج عام 2019.",
+    "opinion_ar": "فيلم \"الحياة السرية للحيوانات الاليفة 2\" هو تجربة روائعة للعائلة، حيث يُستمتع بمشاهدة الكلاب المضحكة والقصص المثيرة.",
+    "opinion_en": "The Secret Life of Pets 2 is a great family experience, where you can enjoy watching funny dogs and exciting stories.",
+    "faq": [
+      {
+        "q": "ما هو حبكة فيلم \"الحياة السرية للحيوانات الاليفة 2\"؟",
+        "a": "يحكي الفيلم قصة الكلب \"ماكس\" الذي يواجه تحديات كبيرة في حياته.",
+        "q_en": "What is the plot of The Secret Life of Pets 2?",
+        "a_en": "The film tells the story of the dog Max, who faces major challenges in his life."
+      },
+      {
+        "q": "هل فيلم \"الحياة السرية للحيوانات الاليفة 2\" مناسب للأطفال؟",
+        "a": "نعم، فهو فيلم عائلي مغامر ومحبوب من قبل الجميع.",
+        "q_en": "Is The Secret Life of Pets 2 suitable for children?",
+        "a_en": "Yes, it is a fun and adventurous family film loved by everyone."
+      },
+      {
+        "q": "متى صدر فيلم \"الحياة السرية للحيوانات الاليفة 2\"؟",
+        "a": "صدر الفيلم في عام 2019.",
+        "q_en": "When was The Secret Life of Pets 2 released?",
+        "a_en": "The film was released in 2019."
+      }
+    ],
+    "keywords": "رسوم متحركة, كوميديا, عائلي, مغامرة, فيلم 2019, الحياة السرية للحيوانات الاليفة 2, The Secret Life Pets 2, مشاهدة الحياة السرية للحيوانات الاليفة 2, The Secret Life Pets 2 مترجم, تحميل الحياة السرية للحيوانات الاليفة 2, الحياة السرية للحيوانات الاليفة 2 اون لاين, الحياة السرية للحيوانات الاليفة 2 جودة عالية, فيلم الحياة السرية للحيوانات الاليفة 2, The Secret Life Pets 2 HD, The Secret Life of Pets 2 مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -42,5 +65,5 @@
   "duration": "86 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Patton Oswalt Kevin Hart Eric Stonestreet Jenny Slate Tiffany Haddish"
+  "cast": "Patton Oswalt Kevin Hart Eric Stonestreet Jenny Slate Tiffany Haddish Lake Bell Nick Kroll Dana Carvey"
 }

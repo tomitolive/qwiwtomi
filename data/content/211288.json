@@ -4,14 +4,12 @@
   "title_ar": "Tracker",
   "title_en": "Tracker",
   "slug": "211288-tracker",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يجوب كولتر شو، وهو خبير في البقاء على قيد الحياة يعمل بمفرده، البلاد بصفته \"باحثاً عن المكافآت\"، مستخدماً مهاراته الخبيرة في التتبع لمساعدة المواطنين العاديين وجهات إنفاذ القانون في حل جميع أنواع الألغاز بينما يواجه عائلته المتصدعة",
   "poster_path": "/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
   "backdrop_path": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
   "release_date": "2024-02-11",
-  "vote_average": 7.5,
-  "vote_count": 280,
+  "vote_average": 7.6,
+  "vote_count": 318,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخدرات، يلعب المخادرون دوراً رئيسياً في حياة الأشخاص. في هذه الدراما، نرى كيف يلعب المخادرون دوراً رئيسياً في حياة الأشخاص، ويحاولون أن يلعبوا دوراً رئيسياً في حياة الأشخاص.",
-    "desc_en": "In a world of drugs, drug dealers play a significant role in people's lives. In this drama, we see how drug dealers play a significant role in people's lives, and they try to play a significant role in people's lives.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراما المخدرات",
-    "seo_title_ar": "مشاهدة فيلم تراكر مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم جريمة, Tracker مترجم كامل, أحداث Tracker بالتفصيل, مشاهدة Tracker 2024, توميتو Tracker, قصة مسلسل Tracker",
-    "opinion": "هذه الدراما هي واحدة من أفضل الدرامات التي شاهدناها في السنوات الأخيرة، حيث تتميز بالشخصيات القوية والقصة المليئة بالتension والدراما",
+    "intro": "يحكي مسلسل المقتفي قصة خبير البقاء على قيد الحياة كولتر شو، الذي يجوب البلاد بصفته «باحثاً عن المكافآت» باستخدام مهاراته الخبيرة في التتبع.",
+    "desc_ar": "يحكي مسلسل المقتفي قصة كولتر شو، خبير في البقاء على قيد الحياة، الذي يجوب البلاد بصفته باحثاً عن المكافآت باستخدام مهاراته الخبيرة في التتبع لمساعدة المواطنين العاديين وجهات إنفاذ القانون في حل جميع أنواع الألغاز. بينما يواجه عائلته المتصدعة، يقود كولتر إلى النهاية الصحيحة لمعضلات المجتمع. يعمل كولتر مع شركات إنفاذ القانون والمواطنين العاديين لمساعدة المجهولين على حل معضلاتهم ومساعدة الشرطة على حل الجرائم. من خلال مهاراته في التتبع، يساعد كولتر على حل الألغاز والمعضلات التي تؤرق المجتمع.",
+    "desc_en": "Lone-wolf survivalist Colter Shaw roams the country as a reward seeker, using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family. Colter teams up with law enforcement agencies and ordinary citizens to help the unknown solve their puzzles and aid the police in solving crimes. Through his tracking skills, Colter helps to solve the puzzles and mysteries that plague the community.",
+    "seo_title_ar": "مشاهدة مسلسل المقتفي مترجم - دراما جريمة 2024 - توميتو",
+    "meta_desc": "شاهد مسلسل المقتفي مترجم على توميتو - مسلسل درامي جريمة يتبع قصة خبير البقاء على قيد الحياة كولتر شو. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احتر",
+    "outro": "في نهاية كل حلقة، يترك كولتر المشاهدين يفكرون في حل الألغاز والمعضلات التي يراها، وتترك تجربة المشاهدة رائعة للمشاهدين",
+    "opinion_ar": "يعد مسلسل المقتفي تجربة مشاهدة رائعة لمحبي الدراما والجريمة، حيث يظهر كولتر شو بأسلوبه الخاص في حل الألغاز والمعضلات. مع أسلوبه في التتبع، يأخذ المشاهدين إلى عالم من المغامرات والمفاجئات.",
+    "opinion_en": "Tracker is a thrilling experience for fans of drama and crime, as Colter Shaw showcases his unique style in solving puzzles and mysteries. With his tracking skills, viewers are taken on a journey of adventure and surprises.",
     "faq": [
       {
-        "q": "ما هو تراكر؟",
-        "a": "هو دراما تناول موضوع المخدرات والجريمة"
-      },
-      {
-        "q": "ما هو نوع تراكر؟",
-        "a": "هو دراما تلفزيونية"
-      },
-      {
-        "q": "ما هو أفضل ما في تراكر؟",
-        "a": "شخصيات القوة والقصة المليئة بالتension والدراما"
+        "q": "ما هو مسلسل المقتفي؟",
+        "a": "مسلسل درامي جريمة يتبع قصة خبير البقاء على قيد الحياة كولتر شو.",
+        "q_en": "What is Tracker?",
+        "a_en": "A drama crime series that follows the story of lone-wolf survivalist Colter Shaw."
       }
-    ]
+    ],
+    "keywords": "المقتفي, مسلسل درامي جريمة, كولتر شو, خبير البقاء على قيد الحياة, دراما, جريمة, مشاهدة المقتفي, Tracker مترجم, تحميل المقتفي, المقتفي اون لاين, Tracker, المقتفي جودة عالية, فيلم المقتفي, Tracker HD, المقتفي HD"
   },
   "fixed": true,
-  "first_air_date": "2024-02-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Justin Hartley Fiona Rene",
+  "first_air_date": "2024-02-11"
 }

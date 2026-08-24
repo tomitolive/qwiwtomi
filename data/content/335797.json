@@ -9,7 +9,7 @@
   "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
   "release_date": "2016-11-23",
   "vote_average": 7.1,
-  "vote_count": 8421,
+  "vote_count": 8547,
   "genres": [
     {
       "id": 16,
@@ -29,26 +29,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرسوم المتحركة، يأتي الكوالا (باستر موون) بمسارح يمر معه بأوقات عصيبة، حيث يواجب المسرح على إعادة الحياة مرة أخرى بأية طريقة، وتصير أمامه فرصة أخيرة لتنظيم مسابقة غنائية كبيرة لجذب أنظار واهتمام الجمهور بالمسرح من جديد.",
-    "desc_en": "In the world of animation, the koala (Buster Moon) brings a theater that is going through tough times, where the theater is forced to find a way to revive its life once again, and he has a last chance to organize a big singing competition to attract the audience's attention to the theater again.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل رسوم متحركة الكوميديا والعائلي والموسيقى هواة الغناء!",
-    "seo_title_ar": "مشاهدة فيلم هواة الغناء مترجم اون لاين - توميتو",
-    "keywords": "Sing, فيلم رسوم متحركة مترجم, مشاهدة فيلم كوميديا عائلي موسيقى, مشاهدة هواة الغناء 2016, هواة الغناء مترجم, توميتو هواة الغناء, قصة فيلم هواة الغناء, أحداث هواة الغناء بالتفصيل",
-    "opinion": "هواة الغناء هو فيلم كوميديا رائع يلقي بظلال الابتسامة على وجوه الجمهور، حيث يجمع بين الرسوم المتحركة والغناء والكوميديا في إنتاج رائع.",
+    "intro": "يتناول فيلم هواة الغناء قصة الكوالا هواة الغناء الذي يحلم بإعادة الحياة لمسرحه، لكنه يجد نفسه في مواجهة تحديات كبيرة.",
+    "desc_ar": "في عالم مليء بلاوعة الكوالا، يجد هواة الغناء (هواة الغناء) نفسه في مواجهة تحديات كبيرة. يمتلك مسرحًا يمر معه بأوقات عصيبة وأزمة مالية كبيرة قد تهدد بإغلاقه، لكنه عازم على إعادة الحياة لمسرحه مرة أخرى بأية طريقة. يجد هواة الغناء فرصة أخيرة، وهي أن يتجه لتنظيم مسابقة غنائية كبيرة داخل المسرح لجذب أنظار واهتمام الجمهور بالمسرح من جديد.",
+    "desc_en": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+    "seo_title_ar": "مشاهدة فيلم هواة الغناء مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا العمل الرائع، فيلم رسوم متحركة كوميدي عائلي موسيقي هواة الغناء الذي يروي قصة الكوالا Buster وامرأته في مساعدة المسرح المضطرب من جديد.",
+    "outro": "يتميز فيلم هواة الغناء باللحظات الغنائية الممتعة التي تساعد على إعادة الحياة لمسرح ضعيف.",
+    "opinion_ar": "هواة الغناء هو فيلم رسوم متحركة ممتع يحتوي على لحظات غنائية ممتعة. يتناول الفيلم قضية إعادة الحياة لمسرح ضعيف، وهو موضوع مهم.",
+    "opinion_en": "Sing is a fun animated film with catchy musical moments. It explores the theme of revitalizing a struggling theater, which is an important issue.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم هواة الغناء؟",
-        "a": "هو فيلم رسوم متحركة كوميديا عائلي موسيقى"
+        "q": "من هو بطل فيلم هواة الغناء؟",
+        "a": "بطل فيلم هواة الغناء هو الكوالا هواة الغناء.",
+        "q_en": "Who is the main character in Sing?",
+        "a_en": "The main character in Sing is a koala named Buster."
       },
       {
-        "q": "ما هو موضوع فيلم هواة الغناء؟",
-        "a": "يحكي قصة مسرح يمر معه بأوقات عصيبة ويحاول إعادة الحياة مرة أخرى"
-      },
-      {
-        "q": "ما هو نوع الأصوات في فيلم هواة الغناء؟",
-        "a": "يحتوي على مجموعة من الأصوات والغناء والرعشة والكوميديا"
+        "q": "ما هي نوع الفيلم؟",
+        "a": "هو فيلم رسوم متحركة كوميدي عائلي موسيقي.",
+        "q_en": "What type of film is Sing?",
+        "a_en": "Sing is an animated comedy family musical film."
       }
-    ]
+    ],
+    "keywords": "هواة الغناء, Sing, رسوم متحركة, كوميديا, عائلي, موسيقى, توميتو, مشاهدة هواة الغناء, Sing مترجم, تحميل هواة الغناء, هواة الغناء اون لاين, هواة الغناء جودة عالية, فيلم هواة الغناء, Sing HD, Sing online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +59,5 @@
   "duration": "108 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Matthew McConaughey Reese Witherspoon Seth MacFarlane Scarlett Johansson John C. Reilly"
+  "cast": "Matthew McConaughey Reese Witherspoon Seth MacFarlane Scarlett Johansson John C. Reilly Taron Egerton Tori Kelly Jennifer Saunders"
 }

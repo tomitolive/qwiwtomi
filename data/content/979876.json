@@ -4,13 +4,11 @@
   "title_ar": "Low Water",
   "title_en": "Low Water",
   "slug": "979876-low-water",
-  "folder": "movie",
-  "media_type": "movie",
-  "overview": "",
+  "overview": "يحكي فيلم انخفاض المياه قصة عجيبة تحكي عن العيش في شمال شرق إنجلترا، حيث يعيش الرجال في مجتمع قائم على الجماعة، ويحصلون على رزقهم من خلال جمع الكربونات الكلسية التي تُغمر على الشواطئ من مناجم تحت الأرض. يُظهر هذا الفيلم كيف يمكن للبشر أن يجدوا فرصاً جديدة من خلال التكيف مع الظروف الصعبة، ويُحفزنا على التفكير فيما يعني العيش في مواجهة التحديات في البيئة",
   "poster_path": "/dj1nujchNDj0WOgkfLpULx80nOf.jpg",
-  "backdrop_path": "/dj1nujchNDj0WOgkfLpULx80nOf.jpg",
+  "backdrop_path": null,
   "release_date": "1966-01-01",
-  "vote_average": 7,
+  "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
@@ -19,26 +17,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في فيلم وثائقي «ماء منخفض»، نرى كيف تؤثر تغيرات المناخ على النظم البيئية. نرى كيف تتحول المياه إلى مصدر للقلق والقلق، حيث يصعب على البشر الوصول إلى الماء النظيف. في هذه الرحلة، نرى كيف يتعثر البشر مع تغير المناخ، ويصعب علىهم تحقيق الأمان والسلام.",
-    "desc_en": "In the documentary film 'Low Water', we see how climate change affects ecosystems. We see how water becomes a source of concern and worry, as it becomes difficult for humans to access clean water. On this journey, we see how humans struggle with climate change, and how they struggle to achieve safety and peace.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم وثائقي «ماء منخفض»",
-    "seo_title_ar": "مشاهدة فيلم ماء منخفض مترجم اون لاين - توميتو",
-    "keywords": "فيلم وثائقي ماء منخفض, مشاهدة فيلم وثائقي ماء منخفض مترجم, Low Water مترجم, توميتو Low Water, قصة فيلم Low Water, أحداث Low Water بالتفصيل, مشاهدة Low Water 1966",
-    "opinion": "في هذا الفيلم، نرى كيف يصعب على البشر الوصول إلى الماء النظيف، ويصعب علىهم تحقيق الأمان والسلام. لكننا نرى أيضاً كيف يمكننا العمل معاً لتحقيق تغير في المناخ والصالح لنا والبيئة.",
+    "intro": "يحكي فيلم انخفاض المياه قصة عجيبة عن العيش في شمال شرق إنجلترا، حيث يعيش الرجال في مجتمع قائم على الجماعة، ويحصلون على رزقهم من خلال جمع الكربونات الكلسية التي تُغمر على الشواطئ من مناجم تحت الأرض.",
+    "desc_ar": "يحكي فيلم انخفاض المياه قصة عجيبة تحكي عن العيش في شمال شرق إنجلترا، حيث يعيش الرجال في مجتمع قائم على الجماعة، ويحصلون على رزقهم من خلال جمع الكربونات الكلسية التي تُغمر على الشواطئ من مناجم تحت الأرض. يُظهر هذا الفيلم كيف يمكن للبشر أن يجدوا فرصاً جديدة من خلال التكيف مع الظروف الصعبة، ويُحفزنا على التفكير فيما يعني العيش في مواجهة التحديات في البيئة",
+    "desc_en": "In North East England men make a living collecting coal washed-up on beaches from underground seams. This film tells the story of a community that thrives in the face of adversity, showcasing the resilience and adaptability of the human spirit.",
+    "seo_title_ar": "مشاهدة فيلم انخفاض المياه مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم انخفاض المياه مترجم - توميتو، قصة عجيبة عن العيش في شمال شرق إنجلترا، والرزق من خلال جمع الكربونات الكلسية من الشواطئ، واكتشف كيف يمكن",
+    "outro": "يعد فيلم انخفاض المياه تجربة مشاهدة فريدة وملهمة، حيث نرى كيف يمكن للبشر أن يجدوا فرصاً جديدة من خلال التكيف مع الظروف الصعبة.",
+    "opinion_ar": "يعد فيلم انخفاض المياه تجربة مشاهدة فريدة وملهمة، حيث نرى كيف يمكن للبشر أن يجدوا فرصاً جديدة من خلال التكيف مع الظروف الصعبة.",
+    "opinion_en": "Low Water is a thought-provoking film that showcases the resilience and adaptability of the human spirit, highlighting the importance of finding new opportunities in the face of adversity.",
     "faq": [
       {
-        "q": "ما هو فيلم ماء منخفض؟",
-        "a": "فيلم وثائقي يرصد تغيرات المناخ على النظم البيئية."
-      },
-      {
-        "q": "ما هو سبب تغيرات المناخ؟",
-        "a": "تغيير المناخ ناتج عن النشاطات البشرية مثل إMISSIONS والقذرة."
-      },
-      {
-        "q": "ما هو الحل لتحقيق تغير في المناخ؟",
-        "a": "يمكننا العمل معاً لتحقيق تغير في المناخ، مثل تقليل إMISSIONS والقذرة، والعمل على الصالح لنا والبيئة."
+        "q": "ما هو موضوع الفيلم انخفاض المياه؟",
+        "a": "يحكي الفيلم قصة عجيبة عن العيش في شمال شرق إنجلترا، والرزق من خلال جمع الكربونات الكلسية من الشواطئ.",
+        "q_en": "What is the subject of the film Low Water?",
+        "a_en": "The film tells the story of a community that thrives in the face of adversity, collecting coal washed-up on beaches from underground seams."
       }
-    ]
+    ],
+    "keywords": "فيلم انخفاض المياه, فيلم وثائقي, شمال شرق إنجلترا, الكربونات الكلسية, الشواطئ, المناجم, التكيف مع الظروف الصعبة, الفرص الجديدة, البيئة, الرزق, المجتمع, مشاهدة انخفاض المياه, Low Water مترجم, تحميل انخفاض المياه, انخفاض المياه اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -46,5 +41,5 @@
   "duration": "28 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "John Hollis"
+  "cast": "John Hollis Joe Coatman Ed Murray Barry Coatman"
 }

@@ -1,53 +1,45 @@
 {
   "id": 224,
-  "title": "Match of the Day",
-  "title_ar": "Match of the Day",
-  "title_en": "Match of the Day",
-  "slug": "224-match-of-the-day",
-  "overview": "مباراة اليوم، مسلسل حوار وأخبار، يقدم ملخصات وتحليلات لمباريات كرة القدم. برنامج \"مباراة اليوم\" هو أطول برنامج تلفزيوني لكرة القدم في العالم وفقًا لموسوعة غينيس للأرقام القياسية لعام 2015.",
+  "title": "Czowiek z marmuru",
+  "title_ar": "Czowiek z marmuru",
+  "title_en": "Man of Marble",
+  "slug": "224-man-of-marble",
+  "overview": "يحكي فيلم \"Czowiek \" قصة الفيلم المجهز لهذه المرة، وهو رواية تتناول حياة متهور يُدعى متهور بيركوت، الذي أصبح بطلًا في الثورة الشيوعية في الخمسينيات، لكنه سرعان ما فقد مصداقيته وتفادى العين، واختفى من عالم المسرح، وبدأ الفيلم في إعادة بناء حياته، ويتساءل عن ما حدث له هذا الرجل الذي كان يشبه المarmor، ويتحول إلى المجهود لاكتشاف الحقيقة السرية وراء حياته، وهو فيلم يتعامل مع الجوانب الغامضة من التاريخ، ويحاول الكشف عن الحقيقة التي اختفى فيها الرجل من الفضاء العام.",
   "poster_path": "/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-  "backdrop_path": "/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
-  "release_date": "1964-08-22",
-  "vote_average": 7.6,
-  "vote_count": 51,
+  "backdrop_path": "/36zif7dloaMlMUzrIW5xf1ymqV2.jpg",
+  "release_date": "1977-02-25",
+  "vote_average": 7.0,
+  "vote_count": 94,
   "genres": [
     {
-      "id": 10767,
-      "name": "حوار"
-    },
-    {
-      "id": 10763,
-      "name": "أخبار"
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Match of the Day (1964) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مباراة اليوم، مسلسل حوار وأخبار، يقدم ملخصات وتحليلات لمباريات كرة القدم. برنامج \"مباراة اليوم\" هو أطول برنامج تلفزيوني لكرة القدم في العالم وفقًا لموسوعة غينيس للأرقام القياسية لعام 2015.",
-    "desc_en": "Match of the Day, a BBC series, offers football highlights and analysis. Recognized as the \"longest-running football television programme\" by Guinness World Records in 2015.",
-    "seo_title_ar": "مشاهدة مسلسل مباراة اليوم Match Day مترجم - توميتو",
-    "meta_desc": "مباراة اليوم - برنامج BBC الشهير لكرة القدم، يحتفل بأكثر من 50 عاما من التحليلات والملخصات المثيرة.",
-    "outro": "شاهد Match of the Day الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مباراة اليوم، برنامج أسطوري في عالم كرة القدم، يقدم تحليلات شاملة وملخصات مثيرة للمباريات، تجربة لا غنى عنها لعشاق الساحرة المستديرة.",
-    "opinion_en": "Match of the Day, a legendary football program, offers comprehensive analysis and exciting highlights, a must-watch for soccer enthusiasts.",
+    "intro": "يحكي فيلم Czowiek z marmuru قصة الفيلم المجهز لهذه المرة، وهو رواية تتناول حياة متهور يُدعى متهور بيركوت.",
+    "desc_ar": "يحكي فيلم \"Czowiek \" قصة الفيلم المجهز لهذه المرة، وهو رواية تتناول حياة متهور يُدعى متهور بيركوت، الذي أصبح بطلًا في الثورة الشيوعية في الخمسينيات، لكنه سرعان ما فقد مصداقيته وتفادى العين، واختفى من عالم المسرح، وبدأ الفيلم في إعادة بناء حياته، ويتساءل عن ما حدث له هذا الرجل الذي كان يشبه المarmor، ويتحول إلى المجهود لاكتشاف الحقيقة السرية وراء حياته، وهو فيلم يتعامل مع الجوانب الغامضة من التاريخ، ويحاول الكشف عن الحقيقة التي اختفى فيها الرجل من الفضاء العام.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words. A young Polish filmmaker sets out to find out what happened to Mateusz Birkut, a bricklayer who became a propaganda hero in the 1950s but later fell out of favor and disappeared.",
+    "seo_title_ar": "مشاهدة Czowiek فيلم دراما مترجم - توميتو",
+    "meta_desc": "Man Marble فيلم دراما 1977 - شاهد Czowiek مترجم، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة استمتع بمشاهد",
+    "outro": "يُعتبر فيلم Czowiek z marmuru من أهم الأعمال في تاريخ السينما البولندية، حيث يقدم تجربة فنية مميزة.",
+    "opinion_ar": "يُعتبر فيلم Czowiek من أهم الأعمال في تاريخ السينما البولندية، حيث يقدم تجربة فنية مميزة.",
+    "opinion_en": "Man of Marble is a significant work in Polish film history, offering a unique cinematic experience.",
     "faq": [
       {
-        "q": "هل \"مباراة اليوم\" برنامج مباشر؟",
-        "a": "لا، \"مباراة اليوم\" برنامج يعرض ملخصات وتحليلات للمباريات بعد انتهائها.",
-        "q_en": "Is Match of the Day a live program?",
-        "a_en": "No, Match of the Day is a program that showcases highlights and analysis after the matches have concluded."
+        "q": "ما هو تاريخ إصدار فيلم Czowiek ؟",
+        "a": "تم إصدار الفيلم في عام 1977.",
+        "q_en": "What is the release date of the film Man of Marble?",
+        "a_en": "The film was released in 1977."
       }
     ],
-    "keywords": "مباراة اليوم, Match Day, كرة قدم, BBC, تحليل, ملخصات, برنامج تلفزيوني, مباراة اليوم الهلال, مباراة اليوم مباشر, مباراة اليوم النصر, نتيجة مباراة اليوم, مباريات اليوم, مباراة اليوم الاتحاد, مباراة اليوم كاس العالم, مباراة اليوم الاهلي, مباراة اليوم السعودية, مباراة اليوم الدوري السعودي"
+    "keywords": "Czowiek, فيلم دراما, Man Marble, 1977, بولندا, السينما البولندية, مشاهدة Czowiek, Man Marble مترجم, تحميل Czowiek, Czowiek اون لاين, Czowiek جودة عالية, فيلم Czowiek, Man Marble HD, Czowiek HD, مشاهدة Czowiek z marmuru"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "80 دقيقة",
+  "duration": "153 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "Mark Chapman",
-  "first_air_date": "1964-08-22",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Poland",
+  "cast": "Krystyna Janda Jerzy Radziwiłowicz Tadeusz Łomnicki Jacek Lomnicki Michał Tarkowski Piotr Cieślak Wiesław Wójcik Krystyna Zachwatowicz"
 }
