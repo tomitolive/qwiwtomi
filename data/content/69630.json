@@ -4,14 +4,12 @@
   "title_ar": "النوع الجريء",
   "title_en": "The Bold Type",
   "slug": "69630-the-bold-type",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "في مجلّة نسائية في \"نيويورك\"، تحاول ثلاث فتيات من جيل الألفيّة اكتشاف أنفسهنّ والموازنة ما بين العمل والحبّ والصداقة والحياة في هذه المدينة.",
   "poster_path": "/cKloQpl6zE7kdFf8SUeYU2qPT9H.jpg",
   "backdrop_path": "/ppBiYWnUn2STU8YUdlct4Klfyu4.jpg",
   "release_date": "2017-06-20",
   "vote_average": 7.7,
-  "vote_count": 197,
+  "vote_count": 202,
   "genres": [
     {
       "id": 18,
@@ -23,19 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مجلّة نسائية في \"نيويورك\"، تحاول ثلاث فتيات من جيل الألفيّة اكتشاف أنفسهنّ والموازنة ما بين العمل والحبّ والصداقة والحياة في هذه المدينة.",
-    "desc_en": "في مجلّة نسائية في \"نيويورك\"، تحاول ثلاث فتيات من جيل الألفيّة اكتشاف أنفسهنّ والموازنة ما بين العمل والحبّ والصداقة والحياة في هذه المدينة.",
-    "meta_desc": "مشاهدة النوع الجريء مترجم بجودة عالية على توميتو.",
-    "keywords": "The Bold Type, توميتو النوع الجريء, أحداث النوع الجريء بالتفصيل, النوع الجريء مترجم, قصة فيلم النوع الجريء, مشاهدة النوع الجريء 2026",
-    "seo_title_ar": "مشاهدة النوع الجريء مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي مسلسل النوع الجريء قصة ثلاث فتيات يعملن في مجلة نسائية في نيويورك.",
+    "desc_ar": "يحكي مسلسل النوع الجريء قصة ثلاث فتيات شغوفات، يان وكات وسوتون، اللاتي يعملن في مجلة نسائية شهيرة في نيويورك، حيث يتعرضن لتحديات كثيرة في مجالاتهم المختلفة، من العمل والصداقة والحب، وتحاولن موازنة بين هذه العوامل المختلفة لتreach هدفن في الحياة.",
+    "desc_en": "A glimpse into the outrageous lives of Jane, Kat and Sutton, who are working at the nation's top women's magazine, Scarlet, while navigating their careers, identities and individual voices.",
+    "seo_title_ar": "مشاهدة النوع الجريء مترجم - مسلسل دراما كوميدي 2017 - توميتو",
+    "meta_desc": "شاهد مسلسل النوع الجريء مترجم، مسلسل دراما كوميدي من إنتاج 2017، يلي قصة ثلاث فتيات يعملن في مجلة نسائية في نيويورك، استمتع بمشاهدة هذا العمل بجودة عالية و",
+    "outro": "من خلال مشاهدة مسلسل النوع الجريء، يمكنك التعرف على حياة ثلاث فتيات شغوفات في نيويورك.",
+    "opinion_ar": "من خلال مشاهدة مسلسل النوع الجريء، يمكنك التعرف على حياة ثلاث فتيات شغوفات في نيويورك، حيث يتعرضن لتحديات كثيرة في مجالاتهم المختلفة.",
+    "opinion_en": "Watching The Bold Type provides a glimpse into the lives of three young women navigating their careers, identities, and individual voices.",
+    "faq": [
+      {
+        "q": "ما هو موضوع مسلسل النوع الجريء؟",
+        "a": "يحكي مسلسل النوع الجريء قصة ثلاث فتيات يعملن في مجلة نسائية في نيويورك.",
+        "q_en": "What is the subject of The Bold Type?",
+        "a_en": "The Bold Type follows the story of three young women working at a women's magazine in New York."
+      }
+    ],
+    "keywords": "النوع الجريء, مسلسل دراما كوميدي, نيويورك, مجلة نسائية, يان, كات, سوتون, 2017, مشاهدة النوع الجريء, The Bold Type مترجم, تحميل النوع الجريء, النوع الجريء اون لاين, The Bold Type, النوع الجريء جودة عالية, فيلم النوع الجريء"
   },
   "fixed": true,
-  "first_air_date": "2017-06-20",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "160 دقيقة",
-  "language": "ta",
-  "country": "الهند",
-  "cast": "Silambarasan Vivek Trisha Krishnan Nassar Raghuvaran"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Katie Stevens Aisha Dee Meghann Fahy Melora Hardin Stephen Conrad Moore",
+  "first_air_date": "2017-06-20"
 }

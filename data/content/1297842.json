@@ -9,7 +9,7 @@
   "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
   "release_date": "2026-02-11",
   "vote_average": 8.1,
-  "vote_count": 674,
+  "vote_count": 1024,
   "genres": [
     {
       "id": 16,
@@ -25,28 +25,23 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لخوض مغامرة مع ماعز صغير طموح؟",
-    "desc_ar": "يحلم صغير الماعز بالانضمام إلى المحترفين في رياضة روربول، التي تتميز بحدة عالية والمرح والتنافس، ويحاول أن يثبت نفسه في عالم يسيطر عليه الحيوانات الأسرع والأشرس في العالم.",
-    "seo_title_ar": "مشاهدة فيلم GOAT مترجم اون لاين - توميتو",
-    "meta_desc": "(واش غيفلت؟ اكتشف أحداث الإثارة في روربول!)",
-    "outro": "لا تفوت فرصة مشاهدة هذه المغامرة المليئة بالمرح والإثارة. استعد لتشجيع بطلنا الصغير في رحلته نحو تحقيق أحلامه.",
-    "opinion": "فيلم ممتاز يجمع بين الكوميديا والمرح والتنافس، ويحاول أن يثبت نفسه في عالم يسيطر عليه الحيوانات الأسرع والأشرس في العالم.",
+    "intro": "في عالم مليء بالصعاب والتحديات، يجد موفز نفسه في مواجهة الحيوانات الأشداء والمهارة.",
+    "desc_ar": "يحكي فيلم معزة قصة موفز صغير يحلم بأن يصبح محترفاً في رياضة 'روربول' المثيرة، التي تجمع بين الحيوانات الأسرع والأذكى في العالم. يحصل موفز على فرصة فريدة للانضمام إلى المحترفين ويتعلم كيفية التغلب على التحديات والخوف من خلال مهاراته الفريدة. في عالم مليء بالصعاب والتحديات، يجد موفز نفسه في مواجهة الحيوانات الأشداء والمهارة، ويحاول إثبات نفسه كأفضل لاعب في اللعبة.",
+    "desc_en": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. With a unique set of skills and determination, the goat learns to overcome challenges and face his fears, all while trying to prove himself as the best player in the game.",
+    "seo_title_ar": "مشاهدة فيلم معزة GOAT مترجم - توميتو",
+    "meta_desc": "شاهد معزة فيلم رسوم متحركة كوميدي عائلي من إنتاج 2026. يحكي الفيلم قصة موفز الصغير الذي يحلم بأن يصبح لاعبا محترفا في رياضة روربول. استمتع بمشاهدة هذا ا",
+    "outro": "يحكي فيلم معزة قصة موفز الصغير الذي يحلم بأن يصبح لاعبًا محترفًا في رياضة روربول.",
+    "opinion_ar": "فيلم معزة هو تجربة رائعة للعائلة، مليئة بالكوميديا والتحديات التي يتعامل معها موفز في-.",
+    "opinion_en": "GOAT is a fantastic family experience, filled with comedy and challenges that the protagonist, Moofz, faces in the game.",
     "faq": [
       {
-        "q": "ما هو روربول؟",
-        "a": "هي رياضة تتسم بحدة عالية، ومختلطة، وتعتمد على الاحتكاك الجسدي الكامل، وتسيطر عليها الحيوانات الأسرع والأشرس في العالم."
-      },
-      {
-        "q": "ما هو فيلم GOAT؟",
-        "a": "فيلم كوميديا عائلي يروي قصة صغير الماعز الذي يحلم بالانضمام إلى المحترفين في رياضة روربول."
-      },
-      {
-        "q": "ما هو نوع فيلم GOAT؟",
-        "a": "فيلم رسوم متحركة، وهو فيلم كوميديا عائلي يجمع بين الكوميديا والمرح والتنافس"
+        "q": "ما هو فيلم معزة؟",
+        "a": "فيلم رسوم متحركة كوميدي عائلي من إنتاج 2026.",
+        "q_en": "What is GOAT?",
+        "a_en": "A 2026 animated comedy family film."
       }
     ],
-    "keywords": "فيلم GOAT مترجم, مشاهدة فيلم رسوم متحركة, فيلم كوميديا عائلي, أحداث GOAT بالتفصيل, GOAT مترجم, مشاهدة GOAT 2026, قصة فيلم GOAT, توميتو GOAT",
-    "desc_en": "A small goat's dream is to join the professionals in the high-stakes, fast-paced, and competitive world of Roarball, where animals with exceptional speed and agility reign supreme."
+    "keywords": "فيلم معزة, GOAT, رسوم متحركة, كوميديا, عائلي, 2026, روربول, موفز, الحيوانات, الرياضة, التحديات, معزة بالانجليزي, معزة صغيرة, صورة معزة, مشاهدة معزة"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +49,5 @@
   "duration": "100 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Caleb McLaughlin Gabrielle Union Stephen Curry Aaron Pierre Nicola Coughlan"
+  "cast": "Caleb McLaughlin Gabrielle Union Stephen Curry Aaron Pierre Nicola Coughlan David Harbour Nick Kroll Jenifer Lewis"
 }

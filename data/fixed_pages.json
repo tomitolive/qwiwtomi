@@ -12809,8 +12809,158 @@
       "file": "974635.json",
       "title": "قاتل مأجور",
       "fixed_at": "2026-08-24T15:13:31.099862"
+    },
+    {
+      "tmdb_id": "71912",
+      "file": "71912.json",
+      "title": "The Witcher",
+      "fixed_at": "2026-08-24T16:19:49.141402"
+    },
+    {
+      "tmdb_id": "69630",
+      "file": "69630.json",
+      "title": "النوع الجريء",
+      "fixed_at": "2026-08-24T16:19:56.561160"
+    },
+    {
+      "tmdb_id": "1598766",
+      "file": "1598766.json",
+      "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+      "fixed_at": "2026-08-24T16:20:33.949884"
+    },
+    {
+      "tmdb_id": "312383",
+      "file": "312383.json",
+      "title": "Candy Caries",
+      "fixed_at": "2026-08-24T16:20:46.210907"
+    },
+    {
+      "tmdb_id": "287009",
+      "file": "287009.json",
+      "title": "طبيب على حافة الهاوية",
+      "fixed_at": "2026-08-24T16:20:55.929397"
+    },
+    {
+      "tmdb_id": "645886",
+      "file": "645886.json",
+      "title": "ذنب لا يغتفر",
+      "fixed_at": "2026-08-24T16:21:16.449619"
+    },
+    {
+      "tmdb_id": "1054867",
+      "file": "1054867.json",
+      "title": "معركة تلو الأخرى",
+      "fixed_at": "2026-08-24T16:21:25.545087"
+    },
+    {
+      "tmdb_id": "61889",
+      "file": "61889.json",
+      "title": "مارفيل: ديرديفل",
+      "fixed_at": "2026-08-24T16:21:34.982706"
+    },
+    {
+      "tmdb_id": "1297842",
+      "file": "1297842.json",
+      "title": "GOAT",
+      "fixed_at": "2026-08-24T16:21:44.621177"
+    },
+    {
+      "tmdb_id": "219934",
+      "file": "219934.json",
+      "title": "Become a Farmer",
+      "fixed_at": "2026-08-24T16:21:57.046117"
+    },
+    {
+      "tmdb_id": "123876",
+      "file": "123876.json",
+      "title": "مشكلة كومي",
+      "fixed_at": "2026-08-24T16:22:07.344428"
+    },
+    {
+      "tmdb_id": "3797",
+      "file": "3797.json",
+      "title": "Life",
+      "fixed_at": "2026-08-24T16:22:16.606140"
+    },
+    {
+      "tmdb_id": "1100",
+      "file": "1100.json",
+      "title": "كيف قابلت امك",
+      "fixed_at": "2026-08-24T16:22:25.247101"
+    },
+    {
+      "tmdb_id": "112613",
+      "file": "112613.json",
+      "title": "تقييم الملوك",
+      "fixed_at": "2026-08-24T16:22:38.435958"
+    },
+    {
+      "tmdb_id": "15226",
+      "file": "15226.json",
+      "title": "C.I.D.",
+      "fixed_at": "2026-08-24T16:22:45.682428"
+    },
+    {
+      "tmdb_id": "111489",
+      "file": "111489.json",
+      "title": "وودي بيكر",
+      "fixed_at": "2026-08-24T16:23:07.603992"
+    },
+    {
+      "tmdb_id": "2685",
+      "file": "2685.json",
+      "title": "Family Matters",
+      "fixed_at": "2026-08-24T16:23:18.012448"
+    },
+    {
+      "tmdb_id": "4381",
+      "file": "4381.json",
+      "title": "Good Eats",
+      "fixed_at": "2026-08-24T16:23:29.214963"
+    },
+    {
+      "tmdb_id": "1645603",
+      "file": "1645603.json",
+      "title": "Night of the Living Dead",
+      "fixed_at": "2026-08-24T16:23:38.877339"
+    },
+    {
+      "tmdb_id": "8363",
+      "file": "8363.json",
+      "title": "Superbad",
+      "fixed_at": "2026-08-24T16:23:49.443617"
+    },
+    {
+      "tmdb_id": "1002185",
+      "file": "1002185.json",
+      "title": "A Million Miles Away",
+      "fixed_at": "2026-08-24T16:23:57.483773"
+    },
+    {
+      "tmdb_id": "10625",
+      "file": "10625.json",
+      "title": "Mean Girls",
+      "fixed_at": "2026-08-24T16:24:07.553210"
+    },
+    {
+      "tmdb_id": "114150",
+      "file": "114150.json",
+      "title": "Pitch Perfect",
+      "fixed_at": "2026-08-24T16:24:16.782465"
+    },
+    {
+      "tmdb_id": "79622",
+      "file": "79622.json",
+      "title": "Hunters",
+      "fixed_at": "2026-08-24T16:24:25.900957"
+    },
+    {
+      "tmdb_id": "322427",
+      "file": "322427.json",
+      "title": "The American Experiment",
+      "fixed_at": "2026-08-24T16:24:36.946916"
     }
   ],
-  "last_updated": "2026-08-24T15:13:33.256652",
-  "total_fixed": 2135
+  "last_updated": "2026-08-24T16:24:39.128381",
+  "total_fixed": 2160
 }

@@ -4,15 +4,17 @@
   "title_ar": "The Witcher",
   "title_en": "The Witcher",
   "slug": "71912-the-witcher",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يخوض الويتشر \"جيرالت\"، صائد الوحوش المأجور والمتحوّل، رحلةً مصيريةً في عالم مضطرب، يُثبت فيه البشر غالبًا أنهم أكثر شرًّا من الوحوش.",
+  "overview": "جيرالت صائد وحوش محترف يتنقل بين الممالك بحثًا عن العمل، ويواجه مخلوقات خطيرة وسحرًا غامضًا في عالم تحكمه الصراعات والحروب. تتغير حياته عندما يرتبط مصيره بالأميرة سيري، الفتاة التي تحمل قوى غامضة وتجذب اهتمام قوى عديدة تسعى للسيطرة عليها. وفي الوقت نفسه، تخوض الساحرة ينيفر رحلة مليئة بالتحديات لاكتشاف قوتها ومكانتها، قبل أن تتقاطع طرق الشخصيات الثلاثة وتتحد مصائرهم وسط عالم تشتعل فيه الحروب والصراعات السياسية والتهديدات الخارقة للطبيعة.",
   "poster_path": "/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
   "backdrop_path": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
   "release_date": "2019-12-20",
   "vote_average": 7.9,
-  "vote_count": 6680,
+  "vote_count": 6857,
   "genres": [
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
     {
       "id": 18,
       "name": "دراما"
@@ -23,19 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يخوض الويتشر \"جيرالت\"، صائد الوحوش المأجور والمتحوّل، رحلةً مصيريةً في عالم مضطرب، يُثبت فيه البشر غالبًا أنهم أكثر شرًّا من الوحوش.",
-    "desc_en": "يخوض الويتشر \"جيرالت\"، صائد الوحوش المأجور والمتحوّل، رحلةً مصيريةً في عالم مضطرب، يُثبت فيه البشر غالبًا أنهم أكثر شرًّا من الوحوش.",
-    "meta_desc": "مشاهدة The Witcher مترجم بجودة عالية على توميتو.",
-    "keywords": "أحداث The Witcher بالتفصيل, The Witcher مترجم, مشاهدة The Witcher 2026, توميتو The Witcher, قصة فيلم The Witcher",
-    "seo_title_ar": "مشاهدة The Witcher مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحمل مسلسل الويتشر أجواءً غامضةً ومثيرةً تثير الفضول في النفس، ويقدم شخصياتً غامضةً ومتقلبةً في عالم مليء بالتحديات.",
+    "desc_ar": "يحكي مسلسل الويتشر قصة جيرالت صائد وحوش، وهو مهاجم وحوش محترف ذو جسم مضغوط، يسافران بين الممالك بحثًا عن عمل، ويحاصرهم مخلوقات خطيرة وسحر غامض في عالم مليء بالصراعات والحروب. في هذا العالم المتقلب، يصادف جيرالت الأميرة سيري، الفتاة التي تحمل قوى غامضة، وتجذب اهتمامًا من قبل قوى عديدة تسعى للسيطرة عليها. تتحد مصائر الشخصيات الثلاثة في عالم متهدم، حيث تشتعل الحروب والصراعات السياسية والتهديدات الخارقة للطبيعة.",
+    "desc_en": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts. Along the way, he encounters the enigmatic Princess Ciri, who possesses mysterious powers and attracts the attention of various factions vying for control over her. As Geralt's path intersects with Ciri's, the three characters' fates become intertwined in a world ravaged by war, politics, and supernatural threats.",
+    "seo_title_ar": "مشاهدة مسلسل الويتشر مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل الويتشر مترجم - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة - الويتشر, The Witcher, مسلسل خيال علمي وفانتازيا, درا",
+    "outro": "يعد مسلسل الويتشر تجربةً روائيةً غنيةً بالتفاصيل، ويستعرض حكاياتً غامضةً ومثيرةً تثير الفضول في النفس.",
+    "opinion_ar": "يحمل مسلسل الويتشر أجواءً غامضةً ومثيرةً تثير الفضول في النفس، ويقدم شخصياتً غامضةً ومتقلبةً في عالم مليء بالتحديات.",
+    "opinion_en": "The Witcher is a thought-provoking series that masterfully weaves together complex characters, supernatural elements, and a gripping narrative, leaving viewers eager for more.",
+    "faq": [
+      {
+        "q": "ما هو أصل قوة الأميرة سيري؟",
+        "a": "تتأتي قوة الأميرة سيري من سوابقها الغامضة، وترجع إلى سحر قديم يتضمن حكاياتً غامضةً ومرموقة.",
+        "q_en": "What is the source of Princess Ciri's power?",
+        "a_en": "Princess Ciri's power originates from her mysterious past, which involves ancient magic and storied tales."
+      }
+    ],
+    "keywords": "الويتشر, The Witcher, مسلسل خيال علمي وفانتازيا, دراما, حركة ومغامرة, جيرالت صائد وحوش, الأميرة سيري, مشاهدة الويتشر, The Witcher مترجم, تحميل الويتشر, الويتشر اون لاين, The Witcher online, الويتشر جودة عالية, فيلم الويتشر, The Witcher HD"
   },
   "fixed": true,
-  "first_air_date": "2019-12-20",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "105 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Peter Riegert Joan Severance William Hickey Tim Ryan Mitchell Laurance"
+  "cast": "Liam Hemsworth Anya Chalotra Freya Allan Joey Batey Eamon Farren Mimî M. Khayisa Anna Shaffer Mahesh Jadu",
+  "first_air_date": "2019-12-20"
 }

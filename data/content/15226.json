@@ -1,17 +1,15 @@
 {
   "id": 15226,
-  "title": "C.I.D.",
-  "title_ar": "C.I.D.",
+  "title": "سي آي دي",
+  "title_ar": "سي آي دي",
   "title_en": "C.I.D.",
   "slug": "15226-cid",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل سي آي دي قصة مجموعة من الرجال والنساء الذين يعملون في قسم التحقيقات الجنائية ويضعون كل شيء على المحك ل حل الجرائم الصعبة والمعقدة في مومباي.",
   "poster_path": "/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
   "backdrop_path": "/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
   "release_date": "1998-01-21",
-  "vote_average": 5.9,
-  "vote_count": 29,
+  "vote_average": 5.7,
+  "vote_count": 31,
   "genres": [
     {
       "id": 10759,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الشرطة، يوجد فريق من المحققين الذين يبحثون عن القاتل المisterius، الذي يرتكب الجرائم في مدينة كالκούتان. يرئيس الفريق المحقق رافي كابور، الذي يملك قوة التحليل والقوة والشخصية القوية. مع فريق من المحققين الماهرة، يبحثون عن القاتل، ولكنهم يجدون أنفسهم في وسط المخاطر والغموض، حيث كل شيء ليس كما يبدو.",
-    "desc_en": "In the world of police, there is a team of investigators who are searching for the mysterious killer, who commits crimes in the city of Kolkata. The team is led by the investigator Ravi Kapor, who has the power of analysis, strength, and strong personality. With a team of skilled investigators, they search for the killer, but they find themselves in the midst of danger and mystery, where everything is not as it seems.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في CID",
-    "seo_title_ar": "مشاهدة فيلم CID مترجم اون لاين - توميتو",
-    "keywords": "فيلم CID مترجم, مشاهدة فيلم CID, توميتو C.I.D., قصة مسلسل C.I.D., أحداث C.I.D. بالتفصيل, C.I.D. مترجم كامل, مشاهدة C.I.D. 1998",
-    "opinion": "هو فيلم رائع يملك القوة والشخصية القوية، مثل رافي كابور، الذي يرئيس الفريق. يملك القصة القوية والشخصيات القوية، مما يجعلك تراقب كل شيء.",
+    "intro": "في عالم مليء بالجريمة والغموض, يظهر مسلسل سي آي دي كنقطة التحول, حيث يعمل فريق من الرجال والنساء في قسم التحقيقات الجنائية على حل الجرائم الأكثر صعوبة في مومباي.",
+    "desc_ar": "يحكي مسلسل سي آي دي قصة مجموعة من الرجال والنساء الذين يعملون في قسم التحقيقات الجنائية ويضعون كل شيء على المحك ل حل الجرائم الصعبة والمعقدة في مومباي.",
+    "desc_en": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
+    "seo_title_ar": "مشاهدة مسلسل سي آي دي مترجم - توميتو",
+    "meta_desc": "سي آي دي, مسلسل حركة ومغامرة, جريمة, دراما, غموض, يتبع قصة قسم التحقيقات الجنائية في مومباي. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون",
+    "outro": "من خلال متابعة أحداث مسلسل سي آي دي, يمكنك التعرف على قصة الفريق العسكري الذي يتعامل مع الجرائم في مومباي, ويتعامل مع التحديات والأحداث المثيرة في كل حلقة.",
+    "opinion_ar": "سي آي دي هو واحد من أفضل المسلسلات في فئته, يحتوي على قصة مثيرة ومحتفظة بأحداث ممتعة.",
+    "opinion_en": "C.I.D. is one of the best series in its genre, it contains an exciting story and entertaining events.",
     "faq": [
       {
-        "q": "ما هو CID؟",
-        "a": "CID هو فريق من المحققين الذين يبحثون عن القاتل المisterius."
-      },
-      {
-        "q": "ما هو رافي كابور؟",
-        "a": "رافي كابور هو رئيس الفريق المحققين."
-      },
-      {
-        "q": "ما هو نوع فيلم CID؟",
-        "a": "فيلم CID هو فيلم دراما وحركة ومغامرة"
+        "q": "ما هو نوع مسلسل سي آي دي؟",
+        "a": "سي آي دي هو مسلسل حركة ومغامرة, جريمة, دراما, غموض.",
+        "q_en": "What type of series is C.I.D.?",
+        "a_en": "C.I.D. is an action, adventure, crime, drama, mystery series."
       }
-    ]
+    ],
+    "keywords": "سي آي دي, مسلسل, حركة ومغامرة, جريمة, دراما, غموض, قسم التحقيقات الجنائية, مومباي, مشاهدة سي آي دي, ... مترجم, تحميل سي آي دي, سي آي دي اون لاين, ..., سي آي دي جودة عالية, فيلم سي آي دي"
   },
   "fixed": true,
-  "first_air_date": "1998-01-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "الهند",
+  "cast": "Shivaji Satham Aditya Srivastava Dayanand Shetty Narendra Gupta Parul Rai Saumya Saraswat Lol Ansha Sayed Hrishikesh Pandey",
+  "first_air_date": "1998-01-21"
 }

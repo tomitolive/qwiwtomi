@@ -9,7 +9,7 @@
   "backdrop_path": "/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
   "release_date": "2012-09-28",
   "vote_average": 7.3,
-  "vote_count": 6864,
+  "vote_count": 6962,
   "genres": [
     {
       "id": 35,
@@ -25,26 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجامعة، تكتشف الطالبة بيكا أن الشيء الوحيد المشترك بين الفتيات اللئيمات والبنات اللطيفات والبنات الغريبة هو مدى جودة الغناء معًا. تتحول بيكا إلى قائد المجموعة، وتقود نساء المجموعة من منطقة الراحة الخاصة بالترتيبات التقليدية إلى عالم من التوليفات التوافقية المذهلة في معركة للوصول إلى قمة مسابقات الموسيقى الجامعية.",
-    "desc_en": "In the world of university, Beca discovers that the only thing shared among the quirky girls, the sweet girls, and the outcast girls is the quality of singing together. Beca transforms into the group's leader, guiding the girls from their comfort zone to a world of harmonious and thrilling music in a battle to reach the top of the university music competitions.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم Pitch Perfect - توميتو",
-    "seo_title_ar": "مشاهدة فيلم Pitch Perfect مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميدي مترجم, مشاهدة فيلم موسيقى, Pitch Perfect مترجم, قصة فيلم Pitch Perfect, توميتو Pitch Perfect, مشاهدة Pitch Perfect 2012, أحداث Pitch Perfect بالتفصيل",
-    "opinion": "فيلم Pitch Perfect هو فيلم كوميدي رائع، يحتوي على لحظات ممتازة من الموسيقى والكوميديا، ويحول الجامعة إلى عالم من التلقيح والرعشة.",
+    "intro": "يحكي فيلم درجة الكمال قصة طالبة جامعية تكتشف مهاراتها الغنائية وتتحد مع زملاتها في الجامعة.",
+    "desc_ar": "في عالم الجامعة، تواجه الطالبة بيكا تحديًا جديدًا عندما تصل إلى مدرستها الجديدة. تجد نفسها بين مجموعة من البنات اللئيمة واللطيفة والغريبة، ولكن الشيء الوحيد المشترك بينهم جميعًا هو مهاراتهم الغنائية المتميزة. تُحوِّل بيكا النساء في المجموعة من أنماط الغناء التقليدية إلى عالم من التوليفات التوافقية المذهلة، فيما يبدو أنهن يتقاتلن من أجل الوصول إلى قمة مسابقات الموسيقى الجامعية. تظهر بيكا أسلوبها الفريد في التغلب على العقبات والتحديات، مما يجعلها بطلة قصة رائعة.",
+    "desc_en": "College student Beca knows she does not want to be part of a clique, but that's exactly where she finds herself after arriving at her new school. Thrust in among mean gals, nice gals and just plain weird gals, Beca finds that the only thing they have in common is how well they sing together. She takes the women of the group out of their comfort zone of traditional arrangements and into a world of amazing harmonic combinations in a fight to the top of college music competitions.",
+    "seo_title_ar": "مشاهدة فيلم درجة الكمال مترجم - توميتو",
+    "meta_desc": "درجة الكمال، فيلم كوميدي موسيقي رومنسي، يحكي قصة طالبة جامعية تكتشف مهاراتها الغنائية وتتحد مع زملاتها في الجامعة. استمتع بمشاهدة هذا العمل بجودة عال",
+    "outro": "يُعد فيلم درجة الكمال تجربة غنائية رائعة تجمع بين الكوميديا والموسيقى، مع أداء مميز للنجوم النساء.",
+    "opinion_ar": "فيلم درجة الكمال هو تجربة غنائية رائعة تجمع بين الكوميديا والموسيقى، مع أداء مميز للنجوم النساء.",
+    "opinion_en": "Pitch Perfect is a fantastic musical experience that combines comedy and music, with impressive performances from the female cast.",
     "faq": [
       {
-        "q": "ما هو فيلم Pitch Perfect؟",
-        "a": "هو فيلم كوميدي رائع يحتوي على لحظات ممتازة من الموسيقى والكوميديا"
+        "q": "ما هو اسم الفيلم؟",
+        "a": "درجة الكمال",
+        "q_en": "What is the name of the film?",
+        "a_en": "Pitch Perfect"
       },
       {
-        "q": "ما هو نوع فيلم Pitch Perfect؟",
-        "a": "هو فيلم كوميدي، موسيقى، رومنسية"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم Pitch Perfect؟",
-        "a": "هو لحظات الموسيقى والكوميديا الممتازة"
+        "q": "من بطولة الفيلم؟",
+        "a": "أنا باركر، ريكي روبرتسون، أليسون بوسي",
+        "q_en": "Who stars in the film?",
+        "a_en": "Anna Kendrick, Rebel Wilson, Anna Camp"
       }
-    ]
+    ],
+    "keywords": "درجة الكمال, Pitch Perfect, فيلم كوميدي موسيقي رومنسي, جامعة, موسيقى, غناء, كوميديا, مشاهدة درجة الكمال, Pitch Perfect مترجم, تحميل درجة الكمال, درجة الكمال اون لاين, درجة الكمال جودة عالية, فيلم درجة الكمال, Pitch Perfect HD, Pitch Perfect online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +55,5 @@
   "duration": "112 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Anna Kendrick Anna Camp Brittany Snow Skylar Astin Rebel Wilson"
+  "cast": "Anna Kendrick Anna Camp Brittany Snow Skylar Astin Rebel Wilson Ester Dean Hana Mae Lee Adam Devine"
 }

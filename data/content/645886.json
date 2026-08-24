@@ -9,7 +9,7 @@
   "backdrop_path": "/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
   "release_date": "2021-11-24",
   "vote_average": 7.4,
-  "vote_count": 2041,
+  "vote_count": 2103,
   "genres": [
     {
       "id": 18,
@@ -21,12 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد إطلاق سراحها من السجن ومواجهة مجتمع يرفض مسامحتها، تبحث امرأة أُدينت بارتكاب جريمة قتل عن شقيقتها الصغيرة التي أُجبرت على التخلّي عنها.",
-    "desc_en": "بعد إطلاق سراحها من السجن ومواجهة مجتمع يرفض مسامحتها، تبحث امرأة أُدينت بارتكاب جريمة قتل عن شقيقتها الصغيرة التي أُجبرت على التخلّي عنها.",
-    "meta_desc": "مشاهدة ذنب لا يغتفر مترجم بجودة عالية على توميتو.",
-    "keywords": "The Unforgivable, ذنب لا يغتفر مترجم, مشاهدة ذنب لا يغتفر 2026, أحداث ذنب لا يغتفر بالتفصيل, قصة فيلم ذنب لا يغتفر, توميتو ذنب لا يغتفر",
-    "seo_title_ar": "مشاهدة ذنب لا يغتفر مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"ذنب لا يغتفر\" قصة امرأة تعود إلى مجتمعها بعد إطلاق سراحها من السجن، وتواجه رفض المجتمع لها بسبب جريمتها السابقة.",
+    "desc_ar": "يحكي فيلم \"ذنب لا يغتفر\" قصة امرأة تعود إلى مجتمعها بعد إطلاق سراحها من السجن، وتواجه رفض المجتمع لها بسبب جريمتها السابقة، وتتجه نحو ابتعادها عنها، وتحاول أن تجد حلاً لخسارتها التي واجهتها في السجن، وتجد نفسها مقفلة بين حكومات ومنظمات ترفض مسامحتها، وتحاول أن تجد طريقها للعيش في مجتمع يرفضها.",
+    "desc_en": "The Unforgivable is a story about a woman who returns to her community after being released from prison, only to face the rejection of her community due to her past crime, and she is forced to move away from them, and she tries to find a solution to the loss she experienced in prison, and she finds herself trapped between governments and organizations that refuse to forgive her, and she tries to find a way to live in a society that rejects her.",
+    "seo_title_ar": "مشاهدة فيلم ذنب لا يغتفر مترجم - توميتو",
+    "meta_desc": "يحكي فيلم ذنب لا يغتفر قصة امرأة تعود إلى مجتمعها بعد إطلاق سراحها من السجن، وتواجه رفض المجتمع لها بسبب جريمتها السابقة، وتتجه نحو ابتعادها عنها، وتحاول أ",
+    "outro": "تجد نفسها مقفلة بين حكومات ومنظمات ترفض مسامحتها، وتحاول أن تجد طريقها للعيش في مجتمع يرفضها.",
+    "opinion_ar": "فيلم ذنب لا يغتفر يركز على موضوع رفض المجتمع للناس الذين ارتكبوا جرائم في الماضي، ويحاول أن يلقي الضوء على مشكلات الحياة في السجون، ويأخذنا إلى عالم متجاور من الحكومات والمنظمات التي ترفض مسامحتها.",
+    "opinion_en": "The Unforgivable focuses on the theme of community rejection of people who committed crimes in the past, and it tries to shed light on the problems of life in prisons, and takes us to a world of governments and organizations that refuse to forgive her.",
+    "faq": [
+      {
+        "q": "ما هو موضوع فيلم ذنب لا يغتفر؟",
+        "a": "يحكي فيلم ذنب لا يغتفر قصة امرأة تعود إلى مجتمعها بعد إطلاق سراحها من السجن، وتواجه رفض المجتمع لها بسبب جريمتها السابقة.",
+        "q_en": "What is the theme of the film The Unforgivable?",
+        "a_en": "The Unforgivable is a story about a woman who returns to her community after being released from prison, only to face the rejection of her community due to her past crime."
+      }
+    ],
+    "keywords": "فيلم ذنب لا يغتفر, دراما, جريمة, امرأة, مجتمع, رفض, سجن, حكومات, منظمات, ترجمة احترافية, بدون إعلانات مزعجة, مشاهدة ذنب لا يغتفر, The Unforgivable مترجم, تحميل ذنب لا يغتفر, ذنب لا يغتفر اون لاين"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +45,5 @@
   "duration": "112 دقيقة",
   "language": "الإنجليزية",
   "country": "ألمانيا",
-  "cast": "Sandra Bullock Viola Davis Vincent D'Onofrio Jon Bernthal Richard Thomas"
+  "cast": "Sandra Bullock Viola Davis Vincent D'Onofrio Jon Bernthal Richard Thomas Linda Emond Aisling Franciosi Emma Nelson"
 }
