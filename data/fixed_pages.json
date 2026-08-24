@@ -13253,8 +13253,164 @@
       "file": "116479.json",
       "title": "Anupamaa",
       "fixed_at": "2026-08-24T17:36:00.873849"
+    },
+    {
+      "tmdb_id": "564",
+      "file": "564.json",
+      "title": "The Mummy",
+      "fixed_at": "2026-08-24T17:55:57.769772"
+    },
+    {
+      "tmdb_id": "43901",
+      "file": "43901.json",
+      "title": "Longmire",
+      "fixed_at": "2026-08-24T17:56:06.358535"
+    },
+    {
+      "tmdb_id": "1387382",
+      "file": "1387382.json",
+      "title": "موسم الصيد",
+      "fixed_at": "2026-08-24T17:56:13.676045"
+    },
+    {
+      "tmdb_id": "10680",
+      "file": "10680.json",
+      "title": "D3: The Mighty Ducks",
+      "fixed_at": "2026-08-24T17:56:23.592164"
+    },
+    {
+      "tmdb_id": "1327881",
+      "file": "1327881.json",
+      "title": "Voice of Shadows",
+      "fixed_at": "2026-08-24T17:56:33.694360"
+    },
+    {
+      "tmdb_id": "1308767",
+      "file": "1308767.json",
+      "title": "Young Washington",
+      "fixed_at": "2026-08-24T17:56:43.096015"
+    },
+    {
+      "tmdb_id": "329505",
+      "file": "329505.json",
+      "title": "Il peccato di Lola",
+      "fixed_at": "2026-08-24T17:56:51.057259"
+    },
+    {
+      "tmdb_id": "31766",
+      "file": "31766.json",
+      "title": "Wallander",
+      "fixed_at": "2026-08-24T17:57:03.881668"
+    },
+    {
+      "tmdb_id": "319037",
+      "file": "319037.json",
+      "title": "A Winter Sun Wakes the Wind in Spring Hills Dream",
+      "fixed_at": "2026-08-24T17:57:10.889195"
+    },
+    {
+      "tmdb_id": "1656061",
+      "file": "1656061.json",
+      "title": "Immortal Combat",
+      "fixed_at": "2026-08-24T17:57:20.802731"
+    },
+    {
+      "tmdb_id": "77169",
+      "file": "77169.json",
+      "title": "كوبرا كاي",
+      "fixed_at": "2026-08-24T17:57:29.996545"
+    },
+    {
+      "tmdb_id": "1728704",
+      "file": "1728704.json",
+      "title": "Siping",
+      "fixed_at": "2026-08-24T17:57:37.827941"
+    },
+    {
+      "tmdb_id": "420809",
+      "file": "420809.json",
+      "title": "ماليفسنت: عشيقة الشر",
+      "fixed_at": "2026-08-24T17:57:47.123246"
+    },
+    {
+      "tmdb_id": "2734",
+      "file": "2734.json",
+      "title": "القانون والنظام: وحدة الضحايا الخاصة",
+      "fixed_at": "2026-08-24T17:57:59.527685"
+    },
+    {
+      "tmdb_id": "10865",
+      "file": "10865.json",
+      "title": "أطلانتس الإمبراطورية المفقودة",
+      "fixed_at": "2026-08-24T17:58:34.708818"
+    },
+    {
+      "tmdb_id": "484",
+      "file": "484.json",
+      "title": "Murder, She Wrote",
+      "fixed_at": "2026-08-24T17:58:42.915260"
+    },
+    {
+      "tmdb_id": "265228",
+      "file": "265228.json",
+      "title": "Borderline",
+      "fixed_at": "2026-08-24T17:58:50.178708"
+    },
+    {
+      "tmdb_id": "77236",
+      "file": "77236.json",
+      "title": "A Discovery of Witches",
+      "fixed_at": "2026-08-24T17:59:01.149168"
+    },
+    {
+      "tmdb_id": "502",
+      "file": "502.json",
+      "title": "Sesame Street",
+      "fixed_at": "2026-08-24T17:59:07.929329"
+    },
+    {
+      "tmdb_id": "210524",
+      "file": "210524.json",
+      "title": "Lost You Forever",
+      "fixed_at": "2026-08-24T17:59:17.758317"
+    },
+    {
+      "tmdb_id": "74280",
+      "file": "74280.json",
+      "title": "Hey Duggee",
+      "fixed_at": "2026-08-24T17:59:29.478585"
+    },
+    {
+      "tmdb_id": "94722",
+      "file": "94722.json",
+      "title": "Tagesschau",
+      "fixed_at": "2026-08-24T17:59:37.653158"
+    },
+    {
+      "tmdb_id": "133490",
+      "file": "133490.json",
+      "title": "القضاء",
+      "fixed_at": "2026-08-24T17:59:46.532534"
+    },
+    {
+      "tmdb_id": "124146",
+      "file": "124146.json",
+      "title": "Svengoolie",
+      "fixed_at": "2026-08-24T17:59:56.911557"
+    },
+    {
+      "tmdb_id": "966",
+      "file": "966.json",
+      "title": "Hollyoaks",
+      "fixed_at": "2026-08-24T18:00:07.505778"
+    },
+    {
+      "tmdb_id": "291805",
+      "file": "291805.json",
+      "title": "Now You See Me 2",
+      "fixed_at": "2026-08-24T18:00:18.397413"
     }
   ],
-  "last_updated": "2026-08-24T17:36:03.168296",
-  "total_fixed": 2209
+  "last_updated": "2026-08-24T18:00:20.521765",
+  "total_fixed": 2235
 }

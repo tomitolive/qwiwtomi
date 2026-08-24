@@ -4,13 +4,11 @@
   "title_ar": "Borderline",
   "title_en": "Borderline",
   "slug": "265228-borderline",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل خط الحدود قصة Philip Boyd و Aoife Regan، الذين يجدون أنفسهم مجبرين على التعاون في حل جريمة خطيرة. مع شخصيات مختلفة و خلفيات متباينة، يتعارك Philip Boyd و Aoife Regan في البداية، لكنهم يجدون في النهاية أنفسهم يتعاونون لتشكيل شراكة غير متوقعة ولكن قوية في مكافحة الجريمة.",
   "poster_path": "/pITarGliaAOFryTslXtVPr3F9Oq.jpg",
   "backdrop_path": "/oMRTZAna2FwUjQgYxNkxq47xaW2.jpg",
   "release_date": "2024-09-02",
-  "vote_average": 4,
+  "vote_average": 4.0,
   "vote_count": 17,
   "genres": [
     {
@@ -23,19 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور أحداث هذا المسلسل الدرامي حول قصة ملهمة في عالم الجريمة والدراما، حيث نتابع رحلة شخصيات تواجه تحديات كبيرة في محاولة للبقاء على قيد الحياة. المسلسل يكشف عن الجوانب الإنسانية في عالم الجريمة ويطرح أسئلة عميقة حول العدالة والقدر.",
-    "desc_en": "The events of this dramatic series revolve around an inspiring story in the world of crime and drama, as we follow the journey of characters facing major challenges in their attempt to survive. The series reveals the human aspects of the criminal world and poses profound questions about justice and fate.",
-    "meta_desc": "مشاهدة Borderline مترجم بجودة عالية على توميتو.",
-    "keywords": "توميتو Borderline, Borderline مترجم, مشاهدة Borderline 2026, قصة فيلم Borderline, أحداث Borderline بالتفصيل",
-    "seo_title_ar": "مشاهدة Borderline مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يتناول مسلسل خط الحدود قصة detectives Philip Boyd و Aoife Regan في حل جريمة خطيرة.",
+    "desc_ar": "يحكي مسلسل خط الحدود قصة Philip Boyd و Aoife Regan، الذين يجدون أنفسهم مجبرين على التعاون في حل جريمة خطيرة. مع شخصيات مختلفة و خلفيات متباينة، يتعارك Philip Boyd و Aoife Regan في البداية، لكنهم يجدون في النهاية أنفسهم يتعاونون لتشكيل شراكة غير متوقعة ولكن قوية في مكافحة الجريمة.",
+    "desc_en": "Forced to collaborate on a serious crime, contrasting detectives Philip Boyd and Aoife Regan, with clashing personalities and backgrounds, overcome initial friction to form an unlikely but formidable crime-fighting partnership.",
+    "seo_title_ar": "مشاهدة مسلسل خط الحدود مترجم - Borderline - 2024 - جريمة, دراما - توميتو",
+    "meta_desc": "مشاهدة مسلسل خط الحدود مترجم - Borderline - 2024 - جريمة, دراما - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشا",
+    "outro": "يعد مسلسل خط الحدود تجربة رائعة للناظرين، مع قصة مثيرة و بطاقم ممثلين محترفين.",
+    "opinion_ar": "يعد مسلسل خط الحدود تجربة رائعة للناظرين، مع قصة مثيرة و بطاقم ممثلين محترفين.",
+    "opinion_en": "Borderline is a great watch for viewers, with an exciting storyline and a talented cast.",
+    "faq": [
+      {
+        "q": "ما هو نوع المسلسل؟",
+        "a": "هو مسلسل جريمة و دراما",
+        "q_en": "What is the type of the series?",
+        "a_en": "It is a crime and drama series"
+      },
+      {
+        "q": "ما هي تاريخ إصدار المسلسل؟",
+        "a": "تم إصدار المسلسل في عام 2024",
+        "q_en": "What is the release year of the series?",
+        "a_en": "The series was released in 2024"
+      }
+    ],
+    "keywords": "خط الحدود, Borderline, مسلسل, جريمة, دراما, 2024, Philip Boyd و Aoife Regan, مشاهدة خط الحدود, Borderline مترجم, تحميل خط الحدود, خط الحدود اون لاين, خط الحدود جودة عالية, فيلم خط الحدود, Borderline HD, Borderline online"
   },
   "fixed": true,
-  "first_air_date": "2024-09-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "96 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Ibrahim Ahmed Toulou Kiki Layla Walet Mohamed Abel Jafri Kettly Noël"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "ألمانيا",
+  "cast": "Amy De Bhrún Eoin Macken Lochlann Ó Mearáin Sophie Vavasseur Naoimh Whelton",
+  "first_air_date": "2024-09-02"
 }

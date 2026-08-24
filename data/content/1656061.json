@@ -4,12 +4,12 @@
   "title_ar": "Immortal Combat",
   "title_en": "Immortal Combat",
   "slug": "1656061-immortal-combat",
-  "overview": "يستدعي فيلم \"القتال الخالد\" محاربي التاريخ العظام، بمن فيهم جنكيز خان وجوان أوف أرك، للقتال حتى الموت في معركة ملحمية. لكن المحاربين، الذين لا يعلم أسرهم أي شيء عن مؤامرة المنظمة السرية، يخططون للانقلاب على أسرهم وتدمير هذه المؤسسة القاتلة من الداخل. فيلم \"القتال الخالد: Immortal Combat\" هو فيلم حركة ومغامرة وخيال علمي مثير.",
+  "overview": "يحكي فيلم \"القتال الخالد\" قصة عن مجموعة من أبطال الحرب عبر التاريخ، بما في ذلك جنكيز خان وجوان دارك، الذين يتم استدعاؤهم من قبل منظمة ظلومة لقتال حتى الموت. لكن ما لم يعرفهم أعداؤهم، فإن هذه القوات تم تخطيطها لتحويل الطاولة وتمزيق المشروع القاتل من الداخل.",
   "poster_path": "/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
   "backdrop_path": "/hwg3vj8MAXM8WISFnvjJsXXLHdw.jpg",
   "release_date": "2026-04-24",
-  "vote_average": 4.7,
-  "vote_count": 14,
+  "vote_average": 4.6,
+  "vote_count": 20,
   "genres": [
     {
       "id": 28,
@@ -25,23 +25,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Immortal Combat (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "يستدعي فيلم \"القتال الخالد\" محاربي التاريخ العظام، بمن فيهم جنكيز خان وجوان أوف أرك، للقتال حتى الموت في معركة ملحمية. لكن المحاربين، الذين لا يعلم أسرهم أي شيء عن مؤامرة المنظمة السرية، يخططون للانقلاب على أسرهم وتدمير هذه المؤسسة القاتلة من الداخل. فيلم \"القتال الخالد: Immortal Combat\" هو فيلم حركة ومغامرة وخيال علمي مثير.",
-    "desc_en": "In \"Immortal Combat\", history's greatest warriors, including Genghis Khan and Joan of Arc, are summoned for a battle to the death. Unbeknownst to their captors, the fighters plot to turn the tables and dismantle the deadly enterprise. \"Immortal Combat\" is an action-packed adventure with a sci-fi twist.",
-    "seo_title_ar": "مشاهدة فيلم القتال الخالد Immortal Combat مترجم - توميتو",
-    "meta_desc": "القتال الخالد: Immortal Combat - فيلم حركة ومغامرة وخيال علمي يجمع بين محاربي التاريخ العظام في معركة ملحمية. مؤامرة مثيرة ومفاجآت غير متوقعة.",
-    "outro": "شاهد Immortal Combat الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"القتال الخالد: Immortal Combat\" يقدم مزيجًا رائعًا من الحركة والمغامرة والخيال العلمي. المؤامرة مثيرة والشخصيات قوية، مما يجعل الفيلم تجربة مشاهدة ممتعة ومثيرة.",
-    "opinion_en": "\"Immortal Combat\" is an exhilarating action-adventure film with a unique twist. The story is engaging, and the characters' backstories add depth to the narrative.",
+    "intro": "يعد فيلم \"القتال الخالد\" تجربة مشاهدة مثيرة، حيث يجمع بين القتال والخيال العلمي في عالم مليء بالغموض.",
+    "desc_ar": "يحكي فيلم \"القتال الخالد\" قصة عن مجموعة من أبطال الحرب عبر التاريخ، بما في ذلك جنكيز خان وجوان دارك، الذين يتم استدعاؤهم من قبل منظمة ظلومة لقتال حتى الموت. لكن ما لم يعرفهم أعداؤهم، فإن هذه القوات تم تخطيطها لتحويل الطاولة وتمزيق المشروع القاتل من الداخل.",
+    "desc_en": "History's greatest warriors, including Genghis Khan and Joan of Arc, are summoned by a shadowy organization to fight in a battle to the death. But unknown to their captors, the fighters have been plotting to turn the tables and dismantle the deadly enterprise from within.",
+    "seo_title_ar": "مشاهدة فيلم القتال الخالد Immortal Combat 2026 مترجم - توميتو",
+    "meta_desc": "مشاهدة فيلم القتال الخالد Immortal Combat 2026 مترجم - توميتو استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهد",
+    "outro": "يحظى فيلم \"القتال الخالد\" بشعبية كبيرة، حيث يُستمتع به من قبل العديد من المشاهدين حول العالم.",
+    "opinion_ar": "يعد فيلم \"القتال الخالد\" تجربة مشاهدة مثيرة، حيث يجمع بين القتال والخيال العلمي في عالم مليء بالغموض.",
+    "opinion_en": "Immortal Combat is an immersive viewing experience, blending action and sci-fi in a world full of mystery.",
     "faq": [
       {
-        "q": "ما هو فيلم القتال الخالد؟",
-        "a": "فيلم \"القتال الخالد: Immortal Combat\" هو فيلم حركة ومغامرة وخيال علمي يجمع بين محاربي التاريخ العظام في معركة ملحمية.",
-        "q_en": "What is Immortal Combat?",
-        "a_en": "\"Immortal Combat\" is an action-adventure film that brings together history's greatest warriors in an epic battle."
+        "q": "ما هو موضوع فيلم \"القتال الخالد\"؟",
+        "a": "يحكي الفيلم قصة عن مجموعة من أبطال الحرب عبر التاريخ الذين يتم استدعاؤهم من قبل منظمة ظلومة لقتال حتى الموت.",
+        "q_en": "What is the subject of Immortal Combat?",
+        "a_en": "The film tells the story of a group of historical warriors who are summoned by a shadowy organization to fight in a battle to the death."
+      },
+      {
+        "q": "هل يحتوي الفيلم على عناصر خيالية؟",
+        "a": "نعم، يحتوي الفيلم على عناصر خيالية، حيث يجمع بين القتال والخيال العلمي في عالم مليء بالغموض.",
+        "q_en": "Does the film contain sci-fi elements?",
+        "a_en": "Yes, the film contains sci-fi elements, blending action and sci-fi in a world full of mystery."
       }
     ],
-    "keywords": "القتال الخالد, Immortal Combat, فيلم, حركة, خيال علمي, مغامرة, محاربين, مؤامرة, معركة, جنكيز خان, جوان أوف أرك"
+    "keywords": "القتال الخالد, Immortal Combat, فيلم, حركة, خيال علمي, مغامرة, 2026, مشاهدة, ترجمة احترافية, بدون إعلانات مزعجة, مشاهدة القتال الخالد, Immortal Combat مترجم, تحميل القتال الخالد, القتال الخالد اون لاين, Immortal Combat online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

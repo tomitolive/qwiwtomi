@@ -8,8 +8,8 @@
   "poster_path": "/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg",
   "backdrop_path": "/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
   "release_date": "2001-06-02",
-  "vote_average": 7,
-  "vote_count": 5133,
+  "vote_average": 7.0,
+  "vote_count": 5228,
   "genres": [
     {
       "id": 16,
@@ -29,28 +29,29 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد لرحلة إلى عالم أسطوري؟ استعد لمغامرة لا تُنسى مع فيلم أطلانتس الإمبراطورية المفقودة.",
-    "desc_ar": "في عالم مليء بالغموض والسرية، يلتقي ميلو الشاب المغامر مع فريق من المستكشفين الجريئين الذين يحاولون العثور على قارة أطلانتس المفقودة. معهم، ميلو يبدأ رحلة رائعة مليئة بالمرح والخطر، حيث سيزداد معرفته بالعالم والشعوب الذين يملكون segrets عظيمة.",
-    "seo_title_ar": "مشاهدة فيلم أطلانتس الإمبراطورية المفقودة مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أطلانتس الإمبراطورية المفقودة!",
-    "outro": "فيلم أطلانتس الإمبراطورية المفقودة هو تجربة سينمائية ممتعة ومثيرة، حيث يجمع بين المغامرة والغموض بطريقة ساحرة. استعد لرحلة مليئة بالإثارة والتشويق.",
-    "opinion": "هو فيلم رائع يملأ القلب بالعظمة والمرح، أطلانتس الإمبراطورية المفقودة هو فيلم يجب مشاهدته لجميع الأعمار!",
+    "intro": "في عالم مليء بالسحر والفضول، يأخذنا فيلم أطلانتس الإمبراطورية المفقودة إلى رحلة مثيرة ومغامرة.",
+    "desc_ar": "يحكي هذا العمل قصة شاب من الأجيال الجديدة من المستكشفين، ميلو ثاتش، الذي يرغب في العثور على قارة أطلانتس المفقودة. يلتحق ميلو بفريق من المستكشفين الجريئين الذين يحاولون تحديد موقع هذه القارة الخيالية. مع تقدم الفريق في رحلتهم، يكتشف ميلو أن أطلانتس الإمبراطورية المفقودة كانت قارة غنية بالعلوم والتكنولوجيا. يبحث الفريق عن هذه القارة لتوسيع فهمهم للعالم واكتشاف الأسرار المجهولة.",
+    "desc_en": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis. As they embark on their perilous journey, Milo discovers that Atlantis: The Lost Empire was a continent rich in science and technology. The team's quest is to expand their understanding of the world and uncover the secrets of this lost empire.",
+    "seo_title_ar": "مشاهدة فيلم أطلانتس الإمبراطورية المفقودة مترجم - توميتو",
+    "meta_desc": "استكشف معنا قصة أطلانتس الإمبراطورية المفقودة فيلم رسوم متحركة عائلي ومغامرة يأخذنا إلى عالم مليء بالسحر والفضول. تدور أحداث الفيلم حول شاب من الأجيال الجد",
+    "outro": "هذا العمل هو تجربة فنية رائعة، يفتح أبواب العقل والخيال، ويتغلب على التحديات لتأتي بفائدة كبيرة.",
+    "opinion_ar": "هذا العمل يفتح أبواب العقل والخيال، يأخذنا إلى عالم مليء بالعجائب والغموض. أطلانتس الإمبراطورية المفقودة هي فيلم رسوم متحركة يجب أن نراه.",
+    "opinion_en": "This film opens doors to the imagination, taking us to a world full of wonders and mysteries. Atlantis: The Lost Empire is a movie that we should watch.",
     "faq": [
       {
-        "q": "ما هو أطلانتس الإمبراطورية المفقودة؟",
-        "a": "هو فيلم رسوم متحركة رائع يروي قصة مغامرة رائعة"
+        "q": "من هو بطل فيلم أطلانتس الإمبراطورية المفقودة؟",
+        "a": "ميلو ثاتش هو بطل الفيلم، شاب من الأجيال الجديدة من المستكشفين.",
+        "q_en": "Who is the main character in Atlantis: The Lost Empire?",
+        "a_en": "Milo Thatch is the main character, a young linguist from a new generation of explorers."
       },
       {
-        "q": "ما هو نوع فيلم أطلانتس الإمبراطورية المفقودة؟",
-        "a": "هو فيلم رسوم متحركة عائلي مغامرة خيال علمي"
-      },
-      {
-        "q": "ما هو أفضل شيء في فيلم أطلانتس الإمبراطورية المفقودة؟",
-        "a": "هو قصة المغامرة الرائعة والشخصيات التي تملأ القلب بالعظمة"
+        "q": "ما هو هدف الفريق في فيلم أطلانتس الإمبراطورية المفقودة؟",
+        "a": "هدف الفريق هو العثور على قارة أطلانتس المفقودة وتحديد موقعها.",
+        "q_en": "What is the team's goal in Atlantis: The Lost Empire?",
+        "a_en": "The team's goal is to find the lost continent of Atlantis and locate its position."
       }
     ],
-    "keywords": "Atlantis: The Lost Empire, فيلم أطلانتس مترجم, مشاهدة فيلم أطلانتس, توميتو أطلانتس الإمبراطورية المفقودة, أحداث أطلانتس الإمبراطورية المفقودة بالتفصيل, أطلانتس الإمبراطورية المفقودة مترجم, مشاهدة أطلانتس الإمبراطورية المفقودة 2001, قصة فيلم أطلانتس الإمبراطورية المفقودة",
-    "desc_en": "In a world full of mystery and secrecy, Milo, a young adventurer, meets a team of fearless explorers who are trying to find the lost continent of Atlantis. With them, Milo begins a thrilling journey filled with excitement and danger, where he will learn more about the world and the people who possess great secrets."
+    "keywords": "أطلانتس الإمبراطورية المفقودة, فيلم رسوم متحركة, عائلي, مغامرة, خيال علمي, ميلو ثاتش, قارة أطلانتس, أطلانتس الخيالية, مشاهدة أطلانتس الإمبراطورية المفقودة, Atlantis: The Lost Empire مترجم, تحميل أطلانتس الإمبراطورية المفقودة, أطلانتس الإمبراطورية المفقودة اون لاين, Atlantis: The Lost Empire, أطلانتس الإمبراطورية المفقودة جودة عالية, فيلم أطلانتس الإمبراطورية المفقودة"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -58,5 +59,5 @@
   "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael J. Fox Cree Summer James Garner Claudia Christian Corey Burton"
+  "cast": "Michael J. Fox Cree Summer James Garner Claudia Christian Corey Burton Phil Morris Jacqueline Obradors Don Novello"
 }

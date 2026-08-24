@@ -4,14 +4,12 @@
   "title_ar": "Murder, She Wrote",
   "title_en": "Murder, She Wrote",
   "slug": "484-murder-she-wrote",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل جريمة قتل، كتبت مترجم بجودة عالية.",
   "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
   "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
   "release_date": "1984-09-30",
   "vote_average": 7.5,
-  "vote_count": 441,
+  "vote_count": 464,
   "genres": [
     {
       "id": 9648,
@@ -27,33 +25,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم السرقات والجريمة، تظهر امرأة رائعة تتميز بذكاءها والشخصية القوية، تتمكن من حل الألغاز والكشف عن الأسرار. في هذه السلسلة التلفزيونية، نرى كيف تتمكن جيسيكا فليت من حل المฆ والكشف عن الأسرار، مع قصة جديدة كل Woche،",
-    "desc_en": "In a world of crime and mystery, a remarkable woman emerges, distinguished by her intelligence and strong personality, able to solve puzzles and uncover secrets. In this TV series, we see how Jessica Fletcher solves murders and uncovers secrets, with a new story every week,",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سلسلة غموض جريمة دراما Murder, She Wrote",
-    "seo_title_ar": "مشاهدة فيلم Murder, She Wrote مترجم اون لاين - توميتو",
-    "keywords": "فيلم كذا مترجم, مشاهدة فيلم كذا, غموض جريمة دراما, قصة مسلسل Murder, She Wrote, توميتو Murder, Murder, She Wrote مترجم كامل, أحداث Murder, She Wrote بالتفصيل, مشاهدة Murder, She Wrote 1984",
-    "opinion": "هذه السلسلة التلفزيونية هي واحدة من أفضل ما قام به في هذا النوع من الأفلام، مع قصة جديدة كل Woche، تتمكن من الحصول على المزيد من الإثارة والتشويق",
+    "intro": "استمتع بمشاهدة مسلسل Murder, She Wrote (1984) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل جريمة قتل، كتبت مترجم بجودة عالية.",
+    "desc_en": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
+    "seo_title_ar": "مشاهدة مسلسل Murder, She Wrote مترجم - توميتو",
+    "meta_desc": "مشاهدة جريمة قتل، كتبت مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد Murder, She Wrote الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو غموض جريمة دراما؟",
-        "a": "هو نوع من الأفلام الذي يجمع بين الغموض والجريمة والدراما"
+        "q": "كيف يمكنني مشاهدة مسلسل جريمة قتل، كتبت?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Murder, She Wrote?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو Murder, She Wrote؟",
-        "a": "هو سلسلة تلفزيونية غموض جريمة دراما تتميز بفيلم جديد كل Woche"
+        "q": "ما هو تصنيف مسلسل جريمة قتل، كتبت?",
+        "a": "يندرج العمل تحت تصنيف غموض, جريمة, دراما.",
+        "q_en": "What is the genre of Murder, She Wrote?",
+        "a_en": "It falls under the genre of غموض, جريمة, دراما."
       },
       {
-        "q": "ما هو أفضل ما في هذه السلسلة؟",
-        "a": "هو قصة جديدة كل Woche، التي تتمكن من الحصول على المزيد من الإثارة والتشويق"
+        "q": "ما هي قصة مسلسل جريمة قتل، كتبت?",
+        "a": "",
+        "q_en": "What is the story of Murder, She Wrote?",
+        "a_en": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases."
       }
-    ]
+    ],
+    "keywords": "جريمة قتل، كتبت مترجم, Murder, She Wrote مترجم, مشاهدة جريمة قتل، كتبت,"
   },
   "fixed": true,
-  "first_air_date": "1984-09-30",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Angela Lansbury",
+  "first_air_date": "1984-09-30"
 }

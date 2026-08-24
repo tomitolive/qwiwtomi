@@ -4,11 +4,9 @@
   "title_ar": "Hey Duggee",
   "title_en": "Hey Duggee",
   "slug": "74280-hey-duggee",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل يا دوجي قصة مجموعة من الأطفال الذين يتشكلون ناديًا في ملجأ يعمل به الكلب الكبير دوجي. يتعلم الأطفال من خلال تجاربهم في النادي القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين. يظهر مسلسل يا دوجي حياة الأطفال بشكل حقيقي ومميز، حيث يتعلمون من أخطائهم ويتعلمون من تجاربهم. يُعد مسلسل يا دوجي مناسباً للأطفال من جميع الأعمار.",
   "poster_path": "/qh05P3y8t7ALIp1g19kdOv6Con6.jpg",
-  "backdrop_path": "/rLt2ZvpYJ210QcG6AAzcDzoHxzn.jpg",
+  "backdrop_path": "/pa78L3hcsJeRrpz4VMMVWJsg1Kk.jpg",
   "release_date": "2014-12-17",
   "vote_average": 8.3,
   "vote_count": 21,
@@ -22,42 +20,45 @@
       "name": "أطفال"
     },
     {
-      "id": 10751,
-      "name": "عائلي"
-    },
-    {
       "id": 35,
       "name": "كوميديا"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم كرتين، يأتي دوجي، القطط، مع مجموعة من الأصدقاء الذين يشاركون في مغامرات رائعة واللعب معاً. كل حلقة من البرنامج ت містає في عالم خيالي مليء بالمرح والفكاهة، حيث يتعاون الأصدقاء ل حل مشاكل وتصفية الألغاز. في عالم دوجي، كل شيء ممكن!",
-    "desc_en": "In a world of imagination, Duggee, the cat, comes with a group of friends who share in exciting adventures and play together. Each episode of the program is set in a fantasy world full of fun and humor, where friends work together to solve problems and unravel mysteries. In Duggee's world, anything is possible!",
-    "meta_desc": "واش غيفلت؟ اكتشف مغامرات دوجي مع أصدقائه في عالم خيالي مليء بالمرح والفكاهة!",
-    "seo_title_ar": "مشاهدة فيلم دوجي مترجم اون لاين - توميتو",
-    "keywords": "فيلم رسوم متحركة, مشاهدة فيلم أطفال, فيلم عائلي, فيلم كوميديا, أحداث Hey Duggee بالتفصيل, مشاهدة Hey Duggee 2014, قصة مسلسل Hey Duggee, Hey Duggee مترجم كامل, توميتو Hey Duggee",
-    "opinion": "هو برنامج رائع يلفت انتباه الأطفال والكبار على حد سواء، مع مغامرات رائعة واللعب معاً. كل حلقة من البرنامج ت містає في عالم خيالي مليء بالمرح والفكاهة!",
+    "intro": "يتعلم الأطفال من خلال تجاربهم في النادي القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين.",
+    "desc_ar": "يحكي مسلسل يا دوجي قصة مجموعة من الأطفال الذين يتشكلون ناديًا في ملجأ يعمل به الكلب الكبير دوجي. يتعلم الأطفال من خلال تجاربهم في النادي القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين. يظهر مسلسل يا دوجي حياة الأطفال بشكل حقيقي ومميز، حيث يتعلمون من أخطائهم ويتعلمون من تجاربهم. يُعد مسلسل يا دوجي مناسباً للأطفال من جميع الأعمار.",
+    "desc_en": "Animated preschool series about a clubhouse that is run by a big dog called Duggee. The series follows a group of children who form a club in Duggee's den, where they learn valuable lessons through their experiences. The show portrays the children's lives in a realistic and engaging way, where they learn from their mistakes and grow from their experiences. Hey Duggee is suitable for children of all ages.",
+    "seo_title_ar": "مشاهدة مسلسل يا دوجي مترجم - توميتو",
+    "meta_desc": "مسلسل رسوم متحركة عن كلب كبير يدعى دوجي يدير ناديا للمراهقين. يعلم الأطفال القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين. استمتع بمشاهدة هذا الع",
+    "outro": "يعد مسلسل يا دوجي مناسباً للأطفال من جميع الأعمار.",
+    "opinion_ar": "يعد مسلسل يا دوجي مناسباً للأطفال من جميع الأعمار. يتعلم الأطفال من خلال تجاربهم في النادي القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين.",
+    "opinion_en": "Hey Duggee is a great show for children of all ages. The children learn valuable lessons through their experiences in the club, such as cooperation and teamwork.",
     "faq": [
       {
-        "q": "ما هو برنامج دوجي؟",
-        "a": "برنامج رسوم متحركة رائع يلفت انتباه الأطفال والكبار على حد سواء، مع مغامرات رائعة واللعب معاً."
+        "q": "ما هي قصة مسلسل يا دوجي؟",
+        "a": "يحكي مسلسل يا دوجي قصة مجموعة من الأطفال الذين يتشكلون ناديًا في ملجأ يعمل به الكلب الكبير دوجي.",
+        "q_en": "What is the story of Hey Duggee?",
+        "a_en": "The story of Hey Duggee is about a group of children who form a club in Duggee's den."
       },
       {
-        "q": "ما هو نوع البرنامج؟",
-        "a": "برنامج رسوم متحركة عائلي كوميديا"
-      },
-      {
-        "q": "ما هو عمر البرنامج؟",
-        "a": " البرنامج مناسب للأطفال من سن 4 إلى 12 سنة"
+        "q": "ما هي القيم التي يتعلمها الأطفال من خلال تجاربهم في النادي؟",
+        "a": "يتعلم الأطفال من خلال تجاربهم في النادي القيم الضرورية مثل التعاون والتعاون والتفاعل مع الآخرين.",
+        "q_en": "What values do the children learn from their experiences in the club?",
+        "a_en": "The children learn valuable lessons through their experiences in the club, such as cooperation and teamwork."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, أطفال, كوميديا, خيال علمي وفانتازيا, مسلسل, يا دوجي, دوجي, كلب, نادي, تعاون, تفاعل, خيال, علمي, مشاهدة يا دوجي, Hey Duggee مترجم"
   },
   "fixed": true,
-  "first_air_date": "2014-12-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
+  "duration": "7 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Joe Loeffler Pete Loeffler Sam Loeffler"
+  "country": "المملكة المتحدة",
+  "cast": "Alexander Armstrong Sander Jones Florence Dhunna Bram Hicks-Little-Jones Jude Cregan Arabella Duffy Amos Greenall",
+  "first_air_date": "2014-12-17"
 }
