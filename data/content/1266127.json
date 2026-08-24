@@ -1,20 +1,16 @@
 {
   "id": 1266127,
-  "title": "Ready or Not: Here I Come",
-  "title_ar": "Ready or Not: Here I Come",
+  "title": "جاهز أم لا : ها أنا قادم",
+  "title_ar": "جاهز أم لا : ها أنا قادم",
   "title_en": "Ready or Not: Here I Come",
   "slug": "1266127-ready-or-not-here-i-come",
-  "overview": "",
+  "overview": "بعد لحظات من نجاتها من هجومٍ شاملٍ شنّته عائلة لو دوماس، تكتشف غريس أنها وصلت إلى المرحلة التالية من هذه اللعبة الكابوسية، وهذه المرة برفقة أختها المنفصلة عنها، فيث. أمام غريس فرصة واحدة للنجاة، والحفاظ على حياة أختها، والوصول إلى أعلى منصب في المجلس الذي يُسيطر على العالم. أربع عائلات متنافسة تُطاردها للاستيلاء على العرش، والفائز هو من سيحكم العالم بأسره.",
   "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-  "backdrop_path": "/9dMp9t0d0nIGhiil8TyqChwiNwA.jpg",
+  "backdrop_path": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
   "release_date": "2026-03-19",
-  "vote_average": 7.7,
-  "vote_count": 856,
+  "vote_average": 7.6,
+  "vote_count": 1532,
   "genres": [
-    {
-      "id": 53,
-      "name": "إثارة"
-    },
     {
       "id": 27,
       "name": "رعب"
@@ -25,28 +21,23 @@
     }
   ],
   "ai_content": {
-    "intro": "هل أنت مستعد للدخول في لعبة قاتلة حيث لا يوجد سوى فائز واحد؟",
-    "desc_ar": "في عالم المهرجانات، يصطدم رجل الأعمال الثري، جيمس، بمرحلة من الحياة التي تُقسِم بين النجاح والفشل. يُجبر جيمس أن يلعب دوراً في مهرجان المهرجانات، حيث يتعامل مع شخصيات غريبة، ويحاول أن ينجو من الموت، ويحصل على المال والشرف. في هذه الرحلة، سيزداد جيمس من الوعي بالحياة، ويحصل على ما هو أهم من المال والشرف.",
-    "seo_title_ar": "مشاهدة فيلم ردي أو لا ردي هنا أتي مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم إثارة رعب كوميديا \"مشاهدة فيلم ردي أو لا ردي هنا أتي\" على توميتو",
-    "outro": "إذا كنت تبحث عن مزيج من الإثارة والرعب والكوميديا، فإن هذا الفيلم هو اختيارك المثالي. استعد لرحلة مليئة بالتشويق والمفاجآت.",
-    "opinion": "هذا الفيلم من أكثر الأفلام التي تثير الإثارة والرعب، مع كوميدياً رائعة، يجعلك تشعر بالرعب والمرح، في نفس الوقت!",
+    "intro": "في عالم مليء بالغموض والخوف، يختار البعض أن يكونوا جاهزين أم لا : ها أنا قادم لتحدي العوامل غير المرئية.",
+    "desc_ar": "في عالم مليء بالغموض والخوف، تختار غريس أن تكون جاهز أم لا : ها أنا قادم، لتحدي عائلة لو دوماس في لعبة كابوسية. تكتشف غريس أن هذه اللعبة ليست مجرد لعبة، ولكنها حرب بين عائلات متنافسة، وتختار أن تحيا، وتحافظ على حياة أختها، وتصل إلى أعلى منصب في المجلس الذي يسيطر على العالم.",
+    "desc_en": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers shes reached the next level of the nightmarish game and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "seo_title_ar": "مشاهدة فيلم جاهز أم لا : ها أنا قادم مترجم - توميتو",
+    "meta_desc": "جاهز أم لا : ها أنا قادم, فيلم رعب كوميدي, 2026, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجو",
+    "outro": "هذا الفيلم يظهر كيف يمكن للفرد أن يتحول من الضحية إلى الفائز في عالم مليء بالغموض والخوف.",
+    "opinion_ar": "هذا الفيلم يظهر كيف يمكن للفرد أن يتحول من الضحية إلى الفائز في عالم مليء بالغموض والخوف.",
+    "opinion_en": "This film shows how an individual can turn from a victim to a winner in a world full of mystery and fear.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم ردي أو لا ردي هنا أتي؟",
-        "a": "هو فيلم إثارة رعب كوميديا"
-      },
-      {
-        "q": "ما هو موضوع فيلم ردي أو لا ردي هنا أتي؟",
-        "a": "يحكي عن رجل الأعمال الثري الذي يلعب دوراً في مهرجان المهرجانات"
-      },
-      {
-        "q": "ما هو ما هو أفضل في فيلم ردي أو لا ردي هنا أتي؟",
-        "a": "الحياة والشرف، وليس المال فقط"
+        "q": "ما هي قصة فيلم جاهز أم لا : ها أنا قادم؟",
+        "a": "يحكي الفيلم قصة غريس التي تختار أن تكون جاهز أم لا : ها أنا قادم، لتحدي عائلة لو دوماس في لعبة كابوسية.",
+        "q_en": "What is the story of the movie Ready or Not: Here I Come?",
+        "a_en": "The movie tells the story of Grace who chooses to be Ready or Not: Here I Come, to challenge the Le Domas family in a nightmarish game."
       }
     ],
-    "keywords": "فيلم إثارة رعب كوميديا, مشاهدة فيلم ردي أو لا ردي هنا أتي مترجم, قصة فيلم Ready or Not: Here I Come, توميتو Ready or Not: Here I Come, أحداث Ready or Not: Here I Come بالتفصيل, مشاهدة Ready or Not: Here I Come 2026, Ready or Not: Here I Come مترجم",
-    "desc_en": "In the world of carnivals, a wealthy businessman, James, is forced to play a role in a carnival, where he deals with strange characters, tries to escape death, and gets rich and respected. In this journey, James will increase his awareness of life, and get what is more important than money and respect."
+    "keywords": "جاهز أم لا : ها أنا قادم, فيلم رعب كوميدي, 2026, عالم مليء بالغموض والخوف, لعبة كابوسية, عائلة لو دوماس, غريس, أختها المنفصلة عنها فيث, مشاهدة جاهز أم لا : ها أنا قادم, Ready Not: Here Come مترجم, تحميل جاهز أم لا : ها أنا قادم, جاهز أم لا : ها أنا قادم اون لاين, Ready Not: Here Come, جاهز أم لا : ها أنا قادم جودة عالية, فيلم جاهز أم لا : ها أنا قادم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -54,5 +45,5 @@
   "duration": "108 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Samara Weaving Kathryn Newton Elijah Wood Sarah Michelle Gellar Shawn Hatosy"
+  "cast": "Samara Weaving Kathryn Newton Sarah Michelle Gellar Shawn Hatosy Nestor Carbonell David Cronenberg Elijah Wood Kevin Durand"
 }

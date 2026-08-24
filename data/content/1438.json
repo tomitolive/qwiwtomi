@@ -4,14 +4,12 @@
   "title_ar": "السلك",
   "title_en": "The Wire",
   "slug": "1438-the-wire",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يستعرض المسلسل في قالب من اﻹثارة والتشويق عالم المخدرات المتشابك والمعقد والمركب في مدينة بالتيمور كما يروى من قبل تجارها ورجال الشرطة، ومشاكل كلا الطرفين.",
+  "overview": "يبدأ المحقق جيمي ماكنولتي وفريق من رجال شرطة بالتيمور تحقيقًا معقدًا في واحدة من أخطر شبكات تجارة المخدرات في المدينة، بقيادة أفون باركسديل وشريكه سترينغر بيل. يعتمد الفريق على التنصت ومراقبة الاتصالات لكشف طريقة عمل المنظمة وتتبع أفرادها، بينما يحاول تجار المخدرات حماية مصالحهم والحفاظ على نفوذهم في الشوارع. ومع تطور التحقيق، تتسع القصة لتشمل الشرطة والسياسة والتعليم والميناء والإعلام، كاشفةً عن مدينة يواجه فيها الجميع نظامًا مليئًا بالفساد والفقر والصراعات والمصالح المتضاربة.",
   "poster_path": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
   "backdrop_path": "/layPSOJGckJv3PXZDIVluMq69mn.jpg",
   "release_date": "2002-06-02",
   "vote_average": 8.6,
-  "vote_count": 2672,
+  "vote_count": 2790,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة بالتيمور، حيث يخيم shadows of drug trafficking، يلتقي رجال الشرطة والجناة في معركة حقيقية للاستيلاء على streets، ويحكمها القانون والعنف، ويحولها إلى معركة حقيقية بين الحياة والموت.",
-    "desc_en": "In the city of Baltimore, where the shadows of drug trafficking loom, the police and drug dealers engage in a real-life battle for control of the streets, with the law and violence reigning supreme, and life and death hanging in the balance.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في السلك - توميتو",
-    "seo_title_ar": "مشاهدة فيلم السلك مترجم اون لاين - توميتو",
-    "keywords": "The Wire, فيلم جريمة مترجم, مشاهدة فيلم دراما, قصة مسلسل السلك, مشاهدة السلك 2002, توميتو السلك, السلك مترجم كامل, أحداث السلك بالتفصيل",
-    "opinion": "هو مسلسل رائع يلقي الضوء على مشاكل مدينة بالتيمور، ويحولها إلى معركة حقيقية بين الحياة والموت، ويحكمها القانون والعنف.",
+    "intro": "يحكى مسلسل السلك The Wire قصة شرطة بالتيمور في حرب ضد تجارة المخدرات، مع تحديات في كل جوانب الحياة في المدينة.",
+    "desc_ar": "يحكى المسلسل قصة المحقق جيمي ماكنولتي وفريقه في شرطة بالتيمور الذين يحاولون إسقاط واحدة من أكبر شبكات تجارة المخدرات في المدينة، بقيادة أفون باركسديل وشريكه سترينغر بيل. ومع تطور التحقيق، يتعرف الفريق على أن الصراع بين الشرطة والجريمة يتدخل في جميع جوانب الحياة في المدينة، من التعليم إلى السياسة، وتظهر كيف أن الفساد والفقر والصراعات والمصالح المتضاربة تؤثر على حياة الناس. في هذه المدينة المليئة بالصعوبات، يتعين على الفريق أن يتعامل مع مصالح متضاربة بين الشرطة والجريمة، بينما يحاول تجار المخدرات الحفاظ على نفوذهم في الشوارع.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة مسلسل السلك The Wire مترجم - توميتو",
+    "meta_desc": "مسلسل السلك The Wire مسلسل جريمة دراما يحكي قصة شرطة بالتيمور في حرب ضد تجارة المخدرات، مع تحديات في كل جوانب الحياة في المدينة، ويظهر كيف أن الفساد والف",
+    "outro": "يعد مسلسل السلك The Wire تجربة فنية رائعة، يتعامل مع قضايا اجتماعية حية ويعرض منظورًا جديدًا للصادق والشرير في عالم الجريمة.",
+    "opinion_ar": "يعد مسلسل السلك The Wire تجربة فنية رائعة، يتعامل مع قضايا اجتماعية حية ويعرض منظورًا جديدًا للصادق والشرير في عالم الجريمة.",
+    "opinion_en": "The Wire is a great TV show that deals with real social issues and offers a new perspective on the good and evil in the world of crime.",
     "faq": [
       {
-        "q": "ما هو السلك؟",
-        "a": "هو مسلسل تلفزيوني أمريكي يلقي الضوء على مشاكل مدينة بالتيمور"
+        "q": "ما هو موضوع المسلسل السلك The Wire؟",
+        "a": "يحكى المسلسل قصة شرطة بالتيمور في حرب ضد تجارة المخدرات، مع تحديات في كل جوانب الحياة في المدينة.",
+        "q_en": "What is the topic of the TV show The Wire?",
+        "a_en": "The show is about a police department in Baltimore that is fighting against the drug trade, with challenges in all aspects of life in the city."
       },
       {
-        "q": "ما هو نوع السلك؟",
-        "a": "هو مسلسل جريمة ودراما"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه السلك؟",
-        "a": "يحدث فيه مدينة بالتيمور"
+        "q": "لماذا يعتبر مسلسل السلك The Wire تجربة فنية رائعة؟",
+        "a": "يعد مسلسل السلك The Wire تجربة فنية رائعة لأنها تعامل مع قضايا اجتماعية حية ويعرض منظورًا جديدًا للصادق والشرير في عالم الجريمة.",
+        "q_en": "Why is The Wire a great TV show?",
+        "a_en": "The Wire is a great TV show because it deals with real social issues and offers a new perspective on the good and evil in the world of crime."
       }
-    ]
+    ],
+    "keywords": "السلك The Wire, جريمة, دراما, شرطة بالتيمور, تجارة المخدرات, فساد, فقر, صراعات, مصالح متضاربة, مشاهدة السلك, The Wire مترجم, تحميل السلك, السلك اون لاين, The Wire, السلك جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2002-06-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "23 دقيقة",
-  "language": "hr",
-  "country": "كرواتيا",
-  "cast": "Nuno Almeida Jasna Bilušić Ivana Muller Barbara Wurster"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Dominic West Lance Reddick Sonja Sohn Wendell Pierce Michael Kenneth Williams Deirdre Lovejoy Andre Royo John Doman",
+  "first_air_date": "2002-06-02"
 }

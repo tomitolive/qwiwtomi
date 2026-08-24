@@ -1,15 +1,15 @@
 {
   "id": 616037,
-  "title": "ثور الحب والرعد",
-  "title_ar": "ثور الحب والرعد",
+  "title": "ثور: الحب والرعد",
+  "title_ar": "ثور: الحب والرعد",
   "title_en": "Thor: Love and Thunder",
   "slug": "616037-thor-love-and-thunder",
-  "overview": "يستعين ثور بفالكيري، وكورج، وحبيبته السابقة جين فوستر لمواجهة غور جزار الآلهة، الذي ينوي إبادة الآلهة.",
+  "overview": "بعد أن تنتهي فترة اعتزال ثــــور بشكل مفاجئ بسبب ظهور جور، جزار الآلهة؛ وهو قاتل مجري يسعى إلى إبادة جميع الآلهة، يطلب ثور مساعدة الملك فالكيري وكورغ وحبيبته السابقة جين فوستر، التي أصبحت الآن تحمل مطرقة ميولنير بصفتها الثور العظيم.\r وينطلق الأربعة في مغامرة كونية شاقة لكشف سر انتقام جزار الآلهة، ومحاولة إيقافه قبل فوات الأوان.",
   "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
   "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
   "release_date": "2022-07-06",
   "vote_average": 6.4,
-  "vote_count": 8551,
+  "vote_count": 8848,
   "genres": [
     {
       "id": 14,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يستعين ثور بفالكيري، وكورج، وحبيبته السابقة جين فوستر لمواجهة غور جزار الآلهة، الذي ينوي إبادة الآلهة. في هذه الرحلة، ستواجه ثور العديد من التحديات والخسائر، ولكنها ستعلمها أن الحب والرعد يمكن أن يكونا قويين جداً.",
-    "desc_en": "Thor enlists the help of Valkyrie, Korg, and his former lover Jane Foster to face Gorr the God Butcher, who intends to wipe out the gods. In this journey, Thor will face many challenges and losses, but he will learn that love and thunder can be very powerful.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ثور: الحب والرعد!",
-    "seo_title_ar": "مشاهدة فيلم ثور: الحب والرعد مترجم اون لاين - توميتو",
-    "keywords": "Thor: Love and Thunder, فيلم ثور مترجم, مشاهدة فيلم ثور: الحب والرعد, مشاهدة ثور الحب والرعد 2022, أحداث ثور الحب والرعد بالتفصيل, قصة فيلم ثور الحب والرعد, توميتو ثور الحب والرعد, ثور الحب والرعد مترجم",
-    "opinion": "هو فيلم رائع يجمع بين الفانتازيا والحركة والكوميديا، ويحوي أحداثاً إثارة وملحمة. ثور: الحب والرعد هو فيلم يلفت الانتباه ويحول دون النوم.",
+    "intro": "يحكي هذا العمل قصة ثور، الذي يعود إلى الساحة ليواجه قاتل الآلهة، جور.",
+    "desc_ar": "بعد فترة من الاستراحة المفاجئة، يعود ثور إلى الساحة ليواجه قاتل الآلهة، جور، الذي يبحث عن إبادة جميع الآلهة. وبالتالي، يطلب ثور المساعدة من الملكة فالكيري وكورغ وحبيبته السابقة جين فوستر، التي أصبحت الآن تحمل مطرقة ميولنير بصفتها ثورًا عظيمًا. وينطلق الأربعة في مغامرة كونية شاقة لاكتشاف سر انتقام جزار الآلهة ومحاولة إيقافه قبل فوات الأوان. وهذا العمل الفني يجمع بين الفانتازيا والحركة والكوميديا، مما يجعله تجربة مشاهدة فريدة.",
+    "desc_en": "After his sudden retirement is interrupted, Thor returns to the battlefield to face the God Butcher, Gorr, who seeks the extinction of all gods. He enlists the help of King Valkyrie, Korg, and his ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together, they embark on a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance and stop him before it's too late. This film combines fantasy, action, and comedy, making for a unique viewing experience.",
+    "seo_title_ar": "مشاهدة فيلم ثور: الحب والرعد مترجم - توميتو",
+    "meta_desc": "شاهد فيلم ثور: الحب والرعد مترجم 2022 - فيلم فانتازيا وحركة وكوميديا - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع",
+    "outro": "في النهاية، ينجح ثور وأصدقاؤه في إيقاف جزار الآلهة، مما يبرر أقدامهم في هذا العالم.",
+    "opinion_ar": "فيلم ثور: الحب والرعد هو تجربة مشاهدة فريدة تعزز الارتباط بين الفانتازيا والحركة والكوميديا، مما يجعلها تجربة مشاهدة مرضية.",
+    "opinion_en": "Thor: Love and Thunder is a unique viewing experience that enhances the connection between fantasy, action, and comedy, making it a satisfying watch.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم ثور: الحب والرعد؟",
-        "a": "هو فيلم فانتازيا حركة كوميديا"
-      },
-      {
-        "q": "ما هو موضوع فيلم ثور: الحب والرعد؟",
-        "a": "يحكي عن قصة ثور والآلهة والرعد"
-      },
-      {
-        "q": "ما هو أفضل جزء في فيلم ثور: الحب والرعد؟",
-        "a": "هو الجزء الذي يجمع بين الفانتازيا والحركة والكوميديا"
+        "q": "ما هو سبب ظهور جزار الآلهة؟",
+        "a": "جزار الآلهة، جور، يظهر بسبب رغبته في إبادة جميع الآلهة.",
+        "q_en": "Why does the God Butcher appear?",
+        "a_en": "The God Butcher, Gorr, appears due to his desire to eradicate all gods."
       }
-    ]
+    ],
+    "keywords": "فيلم ثور: الحب والرعد, ثور: الحب والرعد, فيلم فانتازيا, فيلم حركة, فيلم كوميديا, جوردن بيرث, ناتالي بورتمان, تايسي باركر, مشاهدة ثور: الحب والرعد, Thor: Love Thunder مترجم, تحميل ثور: الحب والرعد, ثور: الحب والرعد اون لاين, Thor: Love Thunder, ثور: الحب والرعد جودة عالية, Thor: Love Thunder HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "119 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Chris Hemsworth Natalie Portman Christian Bale Tessa Thompson Taika Waititi"
+  "cast": "Chris Hemsworth Natalie Portman Christian Bale Tessa Thompson Taika Waititi Russell Crowe Jaimie Alexander Idris Elba"
 }

@@ -13877,8 +13877,164 @@
       "file": "1632181.json",
       "title": "Socias por accidente",
       "fixed_at": "2026-08-24T19:15:46.363326"
+    },
+    {
+      "tmdb_id": "1715",
+      "file": "1715.json",
+      "title": "The Cider House Rules",
+      "fixed_at": "2026-08-24T19:53:57.563389"
+    },
+    {
+      "tmdb_id": "693134",
+      "file": "693134.json",
+      "title": "كثيب: القسم الثاني",
+      "fixed_at": "2026-08-24T19:54:04.242820"
+    },
+    {
+      "tmdb_id": "1003596",
+      "file": "1003596.json",
+      "title": "المنتقمون: يوم القيامة",
+      "fixed_at": "2026-08-24T19:54:12.649941"
+    },
+    {
+      "tmdb_id": "46296",
+      "file": "46296.json",
+      "title": "سبارتاكوس",
+      "fixed_at": "2026-08-24T19:54:21.143836"
+    },
+    {
+      "tmdb_id": "36994",
+      "file": "36994.json",
+      "title": "Workaholics",
+      "fixed_at": "2026-08-24T19:54:30.131985"
+    },
+    {
+      "tmdb_id": "17581",
+      "file": "17581.json",
+      "title": "ناروتو شيبودن الفيلم: Bonds",
+      "fixed_at": "2026-08-24T19:54:37.336364"
+    },
+    {
+      "tmdb_id": "855",
+      "file": "855.json",
+      "title": "سقوط الصقر الأسود",
+      "fixed_at": "2026-08-24T19:54:46.138136"
+    },
+    {
+      "tmdb_id": "1022789",
+      "file": "1022789.json",
+      "title": "قلبا وقالبا 2",
+      "fixed_at": "2026-08-24T19:55:01.317894"
+    },
+    {
+      "tmdb_id": "291506",
+      "file": "291506.json",
+      "title": "أخطاء فادحة",
+      "fixed_at": "2026-08-24T19:55:08.145003"
+    },
+    {
+      "tmdb_id": "1363123",
+      "file": "1363123.json",
+      "title": "The Family Plan 2",
+      "fixed_at": "2026-08-24T19:55:18.415996"
+    },
+    {
+      "tmdb_id": "671",
+      "file": "671.json",
+      "title": "هاري بوتر وحجر الفيلسوف",
+      "fixed_at": "2026-08-24T19:55:25.358685"
+    },
+    {
+      "tmdb_id": "3772",
+      "file": "3772.json",
+      "title": "Walker, Texas Ranger",
+      "fixed_at": "2026-08-24T19:56:04.022328"
+    },
+    {
+      "tmdb_id": "936643",
+      "file": "936643.json",
+      "title": "Marvel Studios Assembled: The Making of Hawkeye",
+      "fixed_at": "2026-08-24T19:56:13.637447"
+    },
+    {
+      "tmdb_id": "90027",
+      "file": "90027.json",
+      "title": "Carnival Row",
+      "fixed_at": "2026-08-24T19:56:22.190918"
+    },
+    {
+      "tmdb_id": "12092",
+      "file": "12092.json",
+      "title": "أليس في بلاد العجائب",
+      "fixed_at": "2026-08-24T19:56:33.026306"
+    },
+    {
+      "tmdb_id": "4601",
+      "file": "4601.json",
+      "title": "Law Order: Criminal Intent",
+      "fixed_at": "2026-08-24T19:56:42.188503"
+    },
+    {
+      "tmdb_id": "616037",
+      "file": "616037.json",
+      "title": "ثور الحب والرعد",
+      "fixed_at": "2026-08-24T19:56:49.433260"
+    },
+    {
+      "tmdb_id": "1266127",
+      "file": "1266127.json",
+      "title": "Ready or Not: Here I Come",
+      "fixed_at": "2026-08-24T19:56:57.560732"
+    },
+    {
+      "tmdb_id": "1438",
+      "file": "1438.json",
+      "title": "السلك",
+      "fixed_at": "2026-08-24T19:57:05.703815"
+    },
+    {
+      "tmdb_id": "288671",
+      "file": "288671.json",
+      "title": "El mapa de los anhelos",
+      "fixed_at": "2026-08-24T19:57:14.902906"
+    },
+    {
+      "tmdb_id": "79917",
+      "file": "79917.json",
+      "title": "Bares fr Rares",
+      "fixed_at": "2026-08-24T19:57:25.166935"
+    },
+    {
+      "tmdb_id": "1669841",
+      "file": "1669841.json",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity",
+      "fixed_at": "2026-08-24T19:57:35.402524"
+    },
+    {
+      "tmdb_id": "453395",
+      "file": "453395.json",
+      "title": "دكتور سترينج في عالم الجنون المتعدد",
+      "fixed_at": "2026-08-24T19:57:44.048123"
+    },
+    {
+      "tmdb_id": "325158",
+      "file": "325158.json",
+      "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World",
+      "fixed_at": "2026-08-24T19:57:52.335297"
+    },
+    {
+      "tmdb_id": "566525",
+      "file": "566525.json",
+      "title": "شانغ تشي وأسطورة الحلقات العشر",
+      "fixed_at": "2026-08-24T19:58:01.446197"
+    },
+    {
+      "tmdb_id": "862",
+      "file": "862.json",
+      "title": "حكاية لعبة",
+      "fixed_at": "2026-08-24T19:58:09.200429"
     }
   ],
-  "last_updated": "2026-08-24T19:15:48.518648",
-  "total_fixed": 2313
+  "last_updated": "2026-08-24T19:58:11.358401",
+  "total_fixed": 2339
 }

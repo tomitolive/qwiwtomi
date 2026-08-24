@@ -1,49 +1,45 @@
 {
   "id": 288671,
-  "title": "El mapa de los anhelos",
-  "title_ar": "El mapa de los anhelos",
-  "title_en": "The Map of Longing",
-  "slug": "288671-the-map-of-longing",
-  "overview": "تابع مسلسل \"El    \" (خريطة الأماني)، حيث تدور أحداثه حول رحلة اكتشاف الذات التي تخوضها غريدا بعد أن تترك لها أختها لوسي لعبة قبل وفاتها، مما يدفعها نحو ويل تاكر الساحر. لا تفوت مشاهدة هذا المسلسل الدرامي الشيق.",
+  "title": "The Deviants",
+  "title_ar": "The Deviants",
+  "title_en": "The Deviants",
+  "slug": "288671-the-deviants",
+  "overview": "يحكي فيلم \"المنحرفون\" قصة عن التوأمان المنجذبين، والذين يعتبران من أفضل الطلاب في المدرسة، وهم يمتلكون الجمال والشعبية. ومع تطور أحداث الجريمة، يصبح الشرطي ليون تومسون مقتنصاً بتثبيت هذه الأخوين الأمريكيين كالمرؤوسين الخاطئين وراء جرائم القتل المروعة. في هذه اللعبة الكلاسيكية بين القاتل والمفترس، يحاول الشرطي تومسون كشف أسرار التوأمان وتحديد هوتهم الحقيقية.",
   "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
-  "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
-  "release_date": "2026-07-17",
+  "backdrop_path": null,
+  "release_date": "2007-10-05",
   "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
     {
-      "id": 18,
-      "name": "دراما"
+      "id": 27,
+      "name": "رعب"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل El mapa de los anhelos (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تابع مسلسل \"El    \" (خريطة الأماني)، حيث تدور أحداثه حول رحلة اكتشاف الذات التي تخوضها غريدا بعد أن تترك لها أختها لوسي لعبة قبل وفاتها، مما يدفعها نحو ويل تاكر الساحر. لا تفوت مشاهدة هذا المسلسل الدرامي الشيق.",
-    "desc_en": "The Map of Longing is a captivating drama series that follows Greta's journey of self-discovery after her sister, Lucy, leaves her a game before her death. This leads her towards the charming Will Tucker. Don't miss this intriguing series.",
-    "seo_title_ar": "مشاهدة مسلسل El مترجم - توميتو",
-    "meta_desc": "مشاهدة El مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة.",
-    "outro": "شاهد El mapa de los anhelos الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"El    \" يبحر في أعماق النفس البشرية، ويكشف عن قوة الأمل والاكتشاف. إنه رحلة مؤثرة وممتعة.",
-    "opinion_en": "The Map of Longing is a captivating drama that delves into the human psyche, showcasing the power of hope and discovery. It's an engaging and emotional journey.",
+    "intro": "يحكى فيلم \"المنحرفون\" قصة عن التوأمان المنجذبين، والذين يعتبران من أفضل الطلاب في المدرسة، وهم يمتلكون الجمال والشعبية.",
+    "desc_ar": "يحكي فيلم \"المنحرفون\" قصة عن التوأمان المنجذبين، والذين يعتبران من أفضل الطلاب في المدرسة، وهم يمتلكون الجمال والشعبية. ومع تطور أحداث الجريمة، يصبح الشرطي ليون تومسون مقتنصاً بتثبيت هذه الأخوين الأمريكيين كالمرؤوسين الخاطئين وراء جرائم القتل المروعة. في هذه اللعبة الكلاسيكية بين القاتل والمفترس، يحاول الشرطي تومسون كشف أسرار التوأمان وتحديد هوتهم الحقيقية.",
+    "desc_en": "The Edison twins are straight \"A\" students, athletic, attractive, popular so when a series of bizarre murders occur Detective Leon Thompson becomes obsessed with proving these two all Americans are the evil geniuses behind the crimes. Join Detective Thompson in this classic game of cat and mouse as he tries to uncover the secrets of the twins' seemingly perfect lives.",
+    "seo_title_ar": "مشاهدة فيلم المنحرفون مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم المنحرفون مترجم - توميتو. فيلم رعب أمريكي من إخراج جيمس بيرك، يروي قصة التوأمان المنجذبين، والذين يتحولون إلى مرؤوسين خاطئين وراء جرا",
+    "outro": "في النهاية، يظهر أن التوأمان المنجذبين يتحولون إلى مرؤوسين خاطئين وراء جرائم القتل المروعة، مما يجعلهم أهدافًا لشرطي ليون تومسون.",
+    "opinion_ar": "فيلم \"المنحرفون\" هو من بين الأفلام الرعب الأكثر إثارة في السنوات الأخيرة، حيث يسلط الضوء على الجانب المظلم من الشخصيات البارزة.",
+    "opinion_en": "The Deviants is one of the most thrilling horror movies in recent years, shedding light on the darker side of prominent characters.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل \"El    \"؟",
-        "a": "يستكشف المسلسل رحلة اكتشاف الذات بعد أن تترك لوسي لعبة لأختها غريدا قبل وفاتها.",
-        "q_en": "What is the theme of The Map of Longing?",
-        "a_en": "The series explores a journey of self-discovery after Lucy leaves a game for her sister, Greta, before her death."
+        "q": "ما هو فيلم \"المنحرفون\"؟",
+        "a": "فيلم رعب أمريكي من إخراج جيمس بيرك، يروي قصة التوأمان المنجذبين، والذين يتحولون إلى مرؤوسين خاطئين وراء جرائم القتل المروعة.",
+        "q_en": "What is The Deviants?",
+        "a_en": "The Deviants is a 2007 American horror film directed by James Beradale, exploring the story of the twin brothers who turn into evil geniuses behind a series of bizarre murders."
       }
     ],
-    "keywords": "El, The Map Longing, مسلسل, دراما, رحلة اكتشاف الذات, لوسي, غريدا, ويل تاكر, لعبة, الأمل, النفس البشرية"
+    "keywords": "فيلم المنحرفون, The Deviants, رعب, جريمة, شرطة, قاتل, مفترس, توأمان, مشاهدة المنحرفون, The Deviants مترجم, تحميل المنحرفون, المنحرفون اون لاين, المنحرفون جودة عالية, The Deviants HD, The Deviants online"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإسبانية",
-  "country": "إسبانيا",
-  "cast": "Alícia Falcó Pablo Álvarez Georgina Amorós Laia Marull Mario de la Rosa Ramón Barea",
-  "first_air_date": "2026-07-17",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "75 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Jake Daniels Mathew B. Davison"
 }
