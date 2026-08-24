@@ -1,49 +1,61 @@
 {
   "id": 290232,
-  "title": "No tengo miedo",
-  "title_ar": "No tengo miedo",
-  "title_en": "Im Not Afraid",
-  "slug": "290232-im-not-afraid",
-  "overview": "مسلسل \"لا تخشى\" أو \"Im Not Afraid\" هو دراما مشوقة تدور حول سر مرعب يكتشفه الصبي ميغيل البالغ من العمر 10 سنوات، حيث يجد نفسه متورطًا في لغز غامض يتعلق بفتى عالق في حفرة بالقرب من منزله. هل سيتمكن من مواجهة مخاوفه وكشف الحقيقة؟",
+  "title": "Oh! Father",
+  "title_ar": "Oh! Father",
+  "title_en": "Oh! Father",
+  "slug": "290232-oh-father",
+  "overview": "يحكي فيلم أوه!أب قصة Yukio، طالباً عادلاً في كل شيء، باستثناء أنه هو الابن الوحيد في عائلة تتكون من خمسة أفراد، وهو ما يعود إلى حقيقة أن والديه الأربعة من مختلف شخصياتهم ومصالحهم. لكن الشيء الوحيد الذي يجمعهم جميعاً هو حبهم لابنهم. عندما يشاهد Yukio عملية سرقة، يصبحغ في سلسلة من الحوادث الغير عادية التي تتعرض لها أسرته.",
   "poster_path": "/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
-  "backdrop_path": "/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
-  "release_date": "2026-07-08",
-  "vote_average": 10.0,
-  "vote_count": 1,
+  "backdrop_path": "/wQ06ZyNAVY43T5z4CB4cb9eMOaE.jpg",
+  "release_date": "2014-05-24",
+  "vote_average": 5.5,
+  "vote_count": 2,
   "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
     {
       "id": 18,
       "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل No tengo miedo (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"لا تخشى\" أو \"Im Not Afraid\" هو دراما مشوقة تدور حول سر مرعب يكتشفه الصبي ميغيل البالغ من العمر 10 سنوات، حيث يجد نفسه متورطًا في لغز غامض يتعلق بفتى عالق في حفرة بالقرب من منزله. هل سيتمكن من مواجهة مخاوفه وكشف الحقيقة؟",
-    "desc_en": "The series \"Im Not Afraid\" unfolds a gripping drama as 10-year-old Miguel stumbles upon a terrifying secret. Will he overcome his fears and uncover the truth behind the trapped boy near his home?",
-    "seo_title_ar": "مشاهدة مسلسل No . Im Not Afraid مترجم - توميتو",
-    "meta_desc": "مسلسل لا تخشى أو Im Not Afraid يسلط الضوء على رحلة شجاعة لفتى صغير يكتشف سرا مظلما. هل سيتمكن من التغلب على مخاوفه وكشف الحقيقة؟",
-    "outro": "شاهد No tengo miedo الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"لا تخشى\" أو \"Im Not Afraid\" يقدم قصة مشوقة ومثيرة للاهتمام، حيث يسلط الضوء على شجاعة الصغار في مواجهة مخاوفهم. إنه عمل درامي ممتع ومليء بالتشويق.",
-    "opinion_en": "The series \"Im Not Afraid\" is a captivating drama that showcases the courage of a young boy facing his fears. It's an enjoyable and thrilling watch.",
+    "intro": "يحكي فيلم أوه!أب قصة Yukio، طالباً عادلاً في كل شيء، باستثناء أنه هو الابن الوحيد في عائلة تتكون من خمسة أفراد.",
+    "desc_ar": "يحكي فيلم أوه!أب قصة Yukio، طالباً عادلاً في كل شيء، باستثناء أنه هو الابن الوحيد في عائلة تتكون من خمسة أفراد، وهو ما يعود إلى حقيقة أن والديه الأربعة من مختلف شخصياتهم ومصالحهم. لكن الشيء الوحيد الذي يجمعهم جميعاً هو حبهم لابنهم. عندما يشاهد Yukio عملية سرقة، يصبحغ في سلسلة من الحوادث الغير عادية التي تتعرض لها أسرته.",
+    "desc_en": "Oh! Father tells the story of Yukio, a typical high school student in every way except that he's an only child in a family of five, due to the fact that he has four fathers, each with their own unique personalities and interests. The only thing they share in common is their love of their son. When Yukio witnesses a robbery, he becomes involved in a bizarre string of incidents involving his fathers.",
+    "seo_title_ar": "مشاهدة فيلم أوه!أب مترجم - قصة درامية كوميدية عن طالب يعيش مع أربعة آباء",
+    "meta_desc": "شاهد فيلم أوه!أب مترجم على توميتو، قصة درامية كوميدية عن طالب يتعرض لعدة حوادث غريبة مع أسرته بعد مشاهدة عملية سرقة. استمتع بمشاهدة هذا العمل بجودة عا",
+    "outro": "فيلم أوه!أب هو قصة حياة عائلية مختلفة، يتعرض فيها طالب يعيش مع أربعة آباء مختلفين لعدة حوادث غير عادية بعد مشاهدة عملية سرقة.",
+    "opinion_ar": "يحكي فيلم أوه!أب قصة هادفة وملحمة نفسية تحكي عن حياة طالب يعيش مع أربعة آباء مختلفين، يتعرض للعدوان في سلسلة من الحوادث الغير العادية.",
+    "opinion_en": "Oh! Father is a thought-provoking and heartwarming film that tells the story of a high school student living with four fathers, each with their unique personalities, as he navigates a series of bizarre incidents.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل \"لا تخشى\" أو \"Im Not Afraid\"؟",
-        "a": "يدور المسلسل حول اكتشاف الصبي ميغيل لسر مرعب يتعلق بفتى عالق في حفرة بالقرب من منزله، مما يدفعه لمواجهة مخاوفه وكشف الحقيقة.",
-        "q_en": "What is the main theme of the series \"Im Not Afraid\"?",
-        "a_en": "The series revolves around Miguel's discovery of a terrifying secret involving a trapped boy near his home, leading him to confront his fears and uncover the truth."
+        "q": "ما هو فيلم أوه!أب؟",
+        "a": "فيلم درامي كوميدي يحكي قصة طالب يعيش مع أربعة آباء مختلفين.",
+        "q_en": "What is Oh! Father?",
+        "a_en": "A drama-comedy film that tells the story of a high school student living with four fathers."
+      },
+      {
+        "q": "متى صدر فيلم أوه!أب؟",
+        "a": "صدر عام 2014.",
+        "q_en": "When was Oh! Father released?",
+        "a_en": "Released in 2014."
+      },
+      {
+        "q": "ما هي أسباب وجود أربعة آباء في فيلم أوه!أب؟",
+        "a": "لأنه طالب وحيد في عائلة تتكون من خمسة أفراد.",
+        "q_en": "Why do the four fathers exist in Oh! Father?",
+        "a_en": "Because he is an only child in a family of five."
       }
     ],
-    "keywords": "No, Im Not Afraid, مسلسل, دراما, رعب, تشويق, مغامرة, شجاعة, اكتشاف, لغز"
+    "keywords": "فيلم أوه!أب, دراما كوميدي, طالب يعيش مع أربعة آباء, سلسلة من الحوادث الغير العادية, عملية سرقة, حب الأبناء, شخصيات مختلفة, حياة عائلية, مشاهدة أوه!أب, Oh! Father مترجم, تحميل أوه!أب, أوه!أب اون لاين, Oh! Father, أوه!أب جودة عالية, Oh! Father HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإسبانية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Luis Alberti Fátima Molina Yoshira Escárrega Humberto Busto Leidi Gutiérrez",
-  "first_air_date": "2026-07-08",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "102 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Masaki Okada Shioli Kutsuna Shiro Sano Masahiko Kawahara Miyagawa Daisuke Jun Murakami Akira Emoto"
 }

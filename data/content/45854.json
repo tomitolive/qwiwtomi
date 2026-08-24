@@ -4,14 +4,12 @@
   "title_ar": "يوغي اوه زيكسال",
   "title_en": "Yu-Gi-Oh! Zexal",
   "slug": "45854-yu-gi-oh-zexal",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "عندما يلتقي يوما، المبارز الطموح، بأسترال، الزائر الغامض من عالم آخر، يبدو الأمر وكأنه قدر. يحتاج يوما إلى أسترال ليعلمه فنون المبارزة، ويحتاج أسترال إلى يوما ليساعده على استعادة ذاكرته.",
   "poster_path": "/lHOkQJs8oPvU5idZIcjzor7T4m3.jpg",
   "backdrop_path": "/8jgvqyz76ydAwLrntGn3jTaYr7S.jpg",
   "release_date": "2011-04-11",
-  "vote_average": 7.4,
-  "vote_count": 56,
+  "vote_average": 7.3,
+  "vote_count": 58,
   "genres": [
     {
       "id": 16,
@@ -35,35 +33,36 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تريد مغامرة ملأى بالتحديات والاكتشافات؟",
-    "desc_ar": "في عالم يوغي-أو-ه، يلعب اللاعبون البارزين كارتات معاينة لتحقيق النجاح والثروات. يلعب ياماتو يوتا، اللاعب البارز، ضد اللاعبين الآخرين في بطولة يوغي-أو-ه، ولكن ما يحدث في هذه البطولة هو أكثر من مجرد مباراة رياضة، sondern هو بداية لرحلة مليئة بالتجارب والخداع والمرحلة.",
-    "seo_title_ar": "مشاهدة فيلم يوغي-أو-ه زيكسال مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في يوغي-أو-ه زيكسال!",
-    "outro": "إذا كنت تحب المغامرات والتحديات، فلا تفوت فرصة مشاهدة يوغي اوه زيكسال!",
-    "opinion": "هذه البطولة هي أكثر من مجرد مباراة رياضة، sondern هي بداية لرحلة مليئة بالتجارب والخداع والمرحلة. يلعب اللاعبون البارزين كارتات معاينة لتحقيق النجاح والثروات، ولكن ما يحدث في هذه البطولة هو أكثر من مجرد مباراة رياضة.",
+    "intro": "يوغي اوه زيكسال، مسلسل رسوم متحركة غنياً بالحماس، يُحكي قصة يوما، المبارز الطموح، الذي يلتقي بأسترال، الزائر الغامض من عالم آخر.",
+    "desc_ar": "يوغي اوه زيكسال، مسلسل رسوم متحركة غنياً بالحماس، يُحكي قصة يوما، المبارز الطموح، الذي يلتقي بأسترال، الزائر الغامض من عالم آخر. يبدو الأمر وكأنه قدر، حيث يحتاج يوما إلى أسترال لتعليمه فنون المبارزة، بينما يحتاج أسترال إلى يوما ليكون معه في رحلة استعادة ذاكرته المفقودة. هذا الاقتراب بين يوما وأسترال يفتح أبوابًا جديدة للعالم، وتحديات جديدة يجب على كلاهما مواجهتها.",
+    "desc_en": "Yu-Gi-Oh! Zexal is an exciting animated series that tells the story of Yuma, the ambitious duelist, who meets Astral, a mysterious visitor from another universe. It seems like destiny when Yuma needs Astral to teach him how to duel, and Astral needs Yuma to help him regain his lost memories. This encounter between Yuma and Astral opens new doors to the world, and new challenges that both must face.",
+    "seo_title_ar": "مشاهدة مسلسل يوغي اوه زيكسال مترجم - توميتو",
+    "meta_desc": "يوغي اوه زيكسال، مسلسل رسوم متحركة غنيا بالحماس، يحكي قصة يوما، المبارز الطموح، الذي يلتقي بأسترال، الزائر الغامض من عالم آخر. استمتع بمشاهدة هذا العمل ب",
+    "outro": "استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة، واكتشف العالم المذهل لمسلسل يوغي اوه زيكسال.",
+    "opinion_ar": "يوغي اوه زيكسال هو مسلسل رسوم متحركة حقيقي، يجمع بين الكوميديا والحركة والمغامرة، مما يجعلها تجربة مشاهدة ممتعة.",
+    "opinion_en": "Yu-Gi-Oh! Zexal is a true animated series, combining comedy, action, and adventure, making it a fun viewing experience.",
     "faq": [
       {
-        "q": "ما هو يوغي-أو-ه؟",
-        "a": "يوغي-أو-ه هو لعبة كارتات رياضة تجمع بين الخيال العلمي والفانتازيا."
+        "q": "ما هي قصة مسلسل يوغي اوه زيكسال؟",
+        "a": "يحكي مسلسل يوغي اوه زيكسال قصة يوما، المبارز الطموح، الذي يلتقي بأسترال، الزائر الغامض من عالم آخر.",
+        "q_en": "What is the story of Yu-Gi-Oh! Zexal?",
+        "a_en": "Yu-Gi-Oh! Zexal tells the story of Yuma, the ambitious duelist, who meets Astral, a mysterious visitor from another universe."
       },
       {
-        "q": "ما هو زيكسال؟",
-        "a": "زيكسال هو أحد أشهر البطولات في لعبة يوغي-أو-ه."
-      },
-      {
-        "q": "ما هو المطلوب لعب لعبة يوغي-أو-ه؟",
-        "a": "يجب أن يكون اللاعبون ذكاءً وخبرةً في لعبة يوغي-أو-ه لعبها جيداً"
+        "q": "ما هي الفئة العمرية المناسبة لمسلسل يوغي اوه زيكسال؟",
+        "a": "يُعد مسلسل يوغي اوه زيكسال مناسبًا للأطفال والمراهقين.",
+        "q_en": "What is the suitable age range for Yu-Gi-Oh! Zexal?",
+        "a_en": "Yu-Gi-Oh! Zexal is suitable for children and teenagers."
       }
     ],
-    "keywords": "Yu-Gi-Oh! Zexal, فيلم يوغي-أو-ه مترجم, مشاهدة فيلم يوغي-أو-ه زيكسال, قصة مسلسل يوغي اوه زيكسال, توميتو يوغي اوه زيكسال, أحداث يوغي اوه زيكسال بالتفصيل, مشاهدة يوغي اوه زيكسال 2011, يوغي اوه زيكسال مترجم كامل",
-    "desc_en": "In the world of Yu-Gi-Oh!, top players duel with special cards to achieve success and wealth. Yamato Yuta, the top player, competes against other players in the Yu-Gi-Oh! tournament, but what happens in this tournament is more than just a sports match, but the beginning of a thrilling journey filled with challenges, deception, and excitement."
+    "keywords": "رسوم متحركة, كوميديا, حركة ومغامرة, خيال علمي وفانتازيا, أطفال, مسلسل يوغي اوه زيكسال, يوغي اوه زيكسال, Yu-Gi-Oh! Zexal, مشاهدة يوغي اوه زيكسال, Yu-Gi-Oh! Zexal مترجم, تحميل يوغي اوه زيكسال, يوغي اوه زيكسال اون لاين, يوغي اوه زيكسال جودة عالية, فيلم يوغي اوه زيكسال, Yu-Gi-Oh! Zexal online"
   },
   "fixed": true,
-  "first_air_date": "2011-04-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "88 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Alissa Jung Michael Degen Manuel Cortez Wanja Mues Stephanie Gossger"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Tasuku Hatanaka Miyu Irino Mikako Komatsu Toshiki Masuda Koki Uchiyama Tomoaki Maeno Shinji Ogawa Nami Miyahara",
+  "first_air_date": "2011-04-11"
 }

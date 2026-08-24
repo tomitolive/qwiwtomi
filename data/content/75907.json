@@ -4,14 +4,12 @@
   "title_ar": "Mystery Science Theater 3000",
   "title_en": "Mystery Science Theater 3000",
   "slug": "75907-mystery-science-theater-3000",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل مسرح العلوم الغامضة 3000 قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين. يجد بطلنا نفسه محاصراً بين عالم من الأفلام الخانقة التي يقوم بتها العلماء المجانين. يستخدم البطل رفيقته الروبوتية للحصول على المساعدة في إنتقاذ نفسه من هذا الوضع الغامض. يقوم البطل بتجاهل الأفلام الخانقة والهزلية التي ينتجها العلماء باستخدام رفيقته الروبوتية.",
   "poster_path": "/vIBk9b900yBUeFK6R6g0UNpADPC.jpg",
   "backdrop_path": "/6T8F0UbhX7AAyY4gfASR9mr9SYD.jpg",
   "release_date": "2017-04-14",
-  "vote_average": 7.7,
-  "vote_count": 41,
+  "vote_average": 7.5,
+  "vote_count": 42,
   "genres": [
     {
       "id": 35,
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم خيال علمي وفانتازيا، يلتقي المخترقون والشعوب في معركة للاهتمام. يلعب المخترقون دور المخرجين في عرض فيلم خيالي، بينما يلعب الشعوب دور الجمهور في معركة للاهتمام. في هذه المعركة، يلعب المخترقون دور المخرجين في عرض فيلم خيالي، بينما يلعب الشعوب دور الجمهور في معركة للاهتمام.",
-    "desc_en": "In a world of science fiction and fantasy, the riffers and the audience come together in a battle of wits. The riffers play the role of directors in a sci-fi film, while the audience plays the role of the audience in a battle of wits. In this battle, the riffers play the role of directors in a sci-fi film, while the audience plays the role of the audience in a battle of wits.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل خيال علمي وفانتازيا Mystery Science Theater 3000",
-    "seo_title_ar": "مشاهدة مسلسل Mystery Science Theater 3000 مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميدي مترجم, مشاهدة مسلسل خيال علمي وفانتازيا, قصة مسلسل Mystery Science Theater 3000, أحداث Mystery Science Theater 3000 بالتفصيل, توميتو Mystery Science Theater 3000, مشاهدة Mystery Science Theater 3000 2017, Mystery Science Theater 3000 مترجم كامل",
-    "opinion": "هو فيلم خيال علمي وفانتازيا رائع، يلعب المخترقون دور المخرجين في عرض فيلم خيالي، بينما يلعب الشعوب دور الجمهور في معركة للاهتمام.",
+    "intro": "يحكي مسلسل مسرح العلوم الغامضة 3000 قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين.",
+    "desc_ar": "يحكي مسلسل مسرح العلوم الغامضة 3000 قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين. يجد بطلنا نفسه محاصراً بين عالم من الأفلام الخانقة التي يقوم بتها العلماء المجانين. يستخدم البطل رفيقته الروبوتية للحصول على المساعدة في إنتقاذ نفسه من هذا الوضع الغامض. يقوم البطل بتجاهل الأفلام الخانقة والهزلية التي ينتجها العلماء باستخدام رفيقته الروبوتية.",
+    "desc_en": "The cult hit returns! Captured by mad scientists, new host Jonah survives a blitz of cheesy B movies by riffing on them with his funny robot pals.",
+    "seo_title_ar": "مشاهدة مسلسل مسرح العلوم الغامضة 3000 مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل مسرح العلوم الغامضة 3000 مترجم 2017, مسلسل كوميديا, خيال علمي وفانتازيا, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزع",
+    "outro": "مسرح العلوم الغامضة 3000 هو مسلسل كوميدي فانتازيا يحكي قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين.",
+    "opinion_ar": "مسرح العلوم الغامضة 3000 هو مسلسل كوميدي فانتازيا يحكي قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين.",
+    "opinion_en": "Mystery Science Theater 3000 is a hilarious and fantastical series that tells the story of a new hero who finds himself trapped in a mysterious world after being captured by mad scientists.",
     "faq": [
       {
-        "q": "ما هو هدف مسلسل Mystery Science Theater 3000؟",
-        "a": "هدف المسلسل هو أن يلعب المخترقون دور المخرجين في عرض فيلم خيالي، بينما يلعب الشعوب دور الجمهور في معركة للاهتمام."
-      },
-      {
-        "q": "ما هو نوع مسلسل Mystery Science Theater 3000؟",
-        "a": "هو مسلسل كوميدي خيال علمي وفانتازيا"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه مسلسل Mystery Science Theater 3000؟",
-        "a": "يحدث فيه عالم خيال علمي وفانتازيا"
+        "q": "ما هو قصة مسلسل مسرح العلوم الغامضة 3000؟",
+        "a": "مسرح العلوم الغامضة 3000 هو مسلسل كوميدي فانتازيا يحكي قصة بطل جديد يتحول إلى عالم غامض بعد إيقافه من قبل علماء مجنونين.",
+        "q_en": "What is the story of Mystery Science Theater 3000?",
+        "a_en": "Mystery Science Theater 3000 is a hilarious and fantastical series that tells the story of a new hero who finds himself trapped in a mysterious world after being captured by mad scientists."
       }
-    ]
+    ],
+    "keywords": "مسرح العلوم الغامضة 3000, مسلسل كوميديا, خيال علمي وفانتازيا, مسلسل 2017, مسرح العلوم الغامضة 3000 مترجم, توميتو, مشاهدة مسرح العلوم الغامضة 3000, Mystery Science Theater 3000 مترجم, تحميل مسرح العلوم الغامضة 3000, مسرح العلوم الغامضة 3000 اون لاين, Mystery Science Theater 3000, مسرح العلوم الغامضة 3000 جودة عالية, فيلم مسرح العلوم الغامضة 3000, Mystery Science Theater 3000 HD, مسرح العلوم الغامضة 3000 HD"
   },
   "fixed": true,
-  "first_air_date": "2017-04-14",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "28 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Felicia Day Patton Oswalt Jonah Ray Rodrigues Baron Vaughn Hampton Yount Grant Baciocco Rebecca Hanson Joel Hodgson",
+  "first_air_date": "2017-04-14"
 }
