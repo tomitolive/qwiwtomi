@@ -4,14 +4,12 @@
   "title_ar": "The Umbrella Academy",
   "title_en": "The Umbrella Academy",
   "slug": "75006-the-umbrella-academy",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يكشف أشقاء متباعدون يمتلكون قوًى خارقةً عن أسرار العائلة الصادمة، وعن خطر تلوح نُذره على البشريّة، بعدما جمعتهم وفاة أبيهم.",
+  "overview": "يكشف أشقاء متباعدون يمتلكون قوًى خارقة عن أسرار العائلة الصادمة، وعن خطر تلوح نُذره على البشرية، بعدما جمعتهم وفاة أبيهم.",
   "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
   "backdrop_path": "/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
   "release_date": "2019-02-15",
   "vote_average": 8.5,
-  "vote_count": 9964,
+  "vote_count": 10100,
   "genres": [
     {
       "id": 10759,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالاسرار والخطر، يلتقي أشقاء متباعدون يمتلكون قوًى خارقةً عن أسرار العائلة الصادمة. بعدما جمعتهم وفاة أبيهم، يكتشفون أنهم يمتلكون قوة خارقةً تمنحهم القدرة على النجاة من الدمار والخطر. ولكن، ما هو هذا الخطر الذي يهدد البشريّة؟",
-    "desc_en": "In a world full of secrets and danger, a group of distant siblings discover they have extraordinary powers that set them apart from their family's dark secrets. After their father's death, they learn they have the power to save themselves from destruction and danger. But what is this danger that threatens humanity?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل The Umbrella Academy",
-    "seo_title_ar": "مشاهدة مسلسل The Umbrella Academy مترجم اون لاين - توميتو",
-    "keywords": "فيلم كذا مترجم, مشاهدة فيلم كذا, مسلسل حركة ومغامرة, مسلسل خيال علمي وفانتازيا, مسلسل دراما, مشاهدة The Umbrella Academy 2019, قصة مسلسل The Umbrella Academy, The Umbrella Academy مترجم كامل, توميتو The Umbrella Academy, أحداث The Umbrella Academy بالتفصيل",
-    "opinion": "هو فيلم متميز يلقي بظلاله على عالمنا، ويحملنا إلى عالم من الخيال والفانتازيا",
+    "intro": "يحظى مسلسل أكاديمية المظلة بموضوع مثير للجدل، حيث يتمكن المشاهدين من اكتشاف الأسرار العائلية وتقديم نظرة ثاقبة حول عالم الخيال العلمي.",
+    "desc_ar": "يكتشف أشقاء متباعدون، ذوو قوى خارقة، أسرار عائلةهم المجهولة التي تتراكمت على مر السنين، بعد وفاة والدهم، الذي جمعهم مرة أخرى في محاولة لتحديد مصيرهم المشترك في مواجهة خطر يهدد البشرية. وتحديدا، كان والدتهم تَحكُمَت بالرعب، وعلى مدار سنوات، تَحكَمَت عائلتنا بأقدام مُنتصبة. وعمّا بَعدَ وفاة أبيهم، أصبحنا مضطرين للتعاون للكشف عن الحقيقة، التي تُخفيها لنا هذه العائلة، التي ظلت تَحكُمُنا لسنوات، بلا رحمة.",
+    "desc_en": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets and a looming threat to humanity. As they delve deeper into the mysteries of their family's past, they begin to unravel the threads of a complex web of secrets and lies that have haunted them for years.",
+    "seo_title_ar": "مشاهدة مسلسل أكاديمية المظلة مترجم - توميتو",
+    "meta_desc": "اكتشف سر عائلة أكاديمية المظلة في مسلسل الحركة والمغامرة والخيال العلمي والدراما الأكاديمي، المجهول، والمليء بالأسرار، حيث يجمع الأشقاء المتباعدون قواهم ا",
+    "outro": "من خلال مسلسل أكاديمية المظلة، نتمكن من اكتشاف قوى الأشقاء الخارقة، وطرقهم في مواجهة الخطر المحدق، مما يجعل هذه التجربة مشاهدة فريدة ومثيرة.",
+    "opinion_ar": "يشكل مسلسل أكاديمية المظلة تجربة مشاهدة فريدة ومثيرة، حيث يتمكن المشاهدين من اكتشاف الأسرار العائلية وتقديم نظرة ثاقبة حول عالم الخيال العلمي.",
+    "opinion_en": "The Umbrella Academy offers a unique and thrilling viewing experience, allowing viewers to uncover family secrets and gain a deeper understanding of the world of science fiction.",
     "faq": [
       {
-        "q": "ما هو الخطر الذي يهدد البشريّة؟",
-        "a": "الخطر الذي يهدد البشريّة هو خطر الدمار والخطر الذي يهدد البشريّة"
+        "q": "ما هي أسرار عائلة أكاديمية المظلة؟",
+        "a": "تُشكِّل الأسرار العائلية في مسلسل أكاديمية المظلة موضوعًا مثيرًا للجدل والتعقيد، حيث يتمكن الأشقاء من الكشف عن الحقيقة المجهولة في عائلاتهم.",
+        "q_en": "What are the family secrets of The Umbrella Academy?",
+        "a_en": "The family secrets of The Umbrella Academy are a complex and intriguing topic, as the estranged siblings uncover the truth about their family's past."
       },
       {
-        "q": "ما هو دور الأشقاء في هذا المسلسل؟",
-        "a": "الدور الأشقاء هو دورهم في هذا المسلسل هو دورهم في هذا المسلسل"
-      },
-      {
-        "q": "ما هو نوع هذا المسلسل؟",
-        "a": "نوع هذا المسلسل هو نوع هذا المسلسل هو نوع هذا المسلسل هو نوع هذا المسلسل هو نوع هذا المسلسل"
+        "q": "ما هي قوى الأشقاء في المسلسل؟",
+        "a": "يحظى الأشقاء في مسلسل أكاديمية المظلة بقوى خارقة، مما يتيح لهم أداء مهام فريدة ومثيرة، في مواجهة الخطر المحدق.",
+        "q_en": "What are the powers of the siblings in the series?",
+        "a_en": "The siblings in The Umbrella Academy possess extraordinary powers, allowing them to take on unique and thrilling challenges as they face the looming threat."
       }
-    ]
+    ],
+    "keywords": "أكاديمية المظلة, المسلسل, الحركة, المغامرة, الخيال العلمي, الدراما, قوى خارقة, أسرار عائلية, الخطر المحدق, مواجهة الأخطار, مشاهدة أكاديمية المظلة, The Umbrella Academy مترجم, تحميل أكاديمية المظلة, أكاديمية المظلة اون لاين, The Umbrella Academy"
   },
   "fixed": true,
-  "first_air_date": "2019-02-15",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "112 دقيقة",
-  "language": "الكورية",
-  "country": "كوريا الجنوبية",
-  "cast": "Hwang Jung-min Jin Goo Kim Bo-yeon Kim Sang-ho Jeong Man-sik"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Aidan Gallagher Elliot Page Tom Hopper Emmy Raver-Lampman Robert Sheehan David Castañeda Justin H. Min Ritu Arya",
+  "first_air_date": "2019-02-15"
 }

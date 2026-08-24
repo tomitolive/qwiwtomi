@@ -1,53 +1,57 @@
 {
   "id": 72649,
-  "title": "Hot Ones",
-  "title_ar": "Hot Ones",
-  "title_en": "Hot Ones",
-  "slug": "72649-hot-ones",
-  "overview": "الساخنة. مسلسل حوار وكوميديا، يطرح أسئلة ساخنة ويدعو ضيوفًا مشهورين لتناول أجنحة حارة ثم إجراء مقابلات معهم أثناء معاناتهم مع الحرارة. عنوان باللغة الإنجليزية: Hot Ones.",
+  "title": "My Father My Lord",
+  "title_ar": "My Father My Lord",
+  "title_en": "My Father My Lord",
+  "slug": "72649-my-father-my-lord",
+  "overview": "يحكي فيلم \"والدي ربي\" قصة صراع حاد بين الحب الأبوي والتعصب الديني. يتسم والداه بتعلق عميق ومتعاطف، لكن الالتزامات الدينية التي يتبعها الأب تترك فجوة عاطفية بينه وبين ابنه الملهوف. يتسبب حب الأب للاحتفال بالعادات الدينية في كارثة غير مقصودة، مما يدفع زوجته السابقة للغضب من زوجها وألوهيته، فيما يتطور الأمر إلى سرد درامي للقصة المثيرة للاهتمام عن إبراهيم. يتعرض الفيلم لتحليل عميق للصراع بين الحب والدين، مما يجعل من المستحيل تمييز بين الحب الأبوي والالتزامات الدينية. يسلط الفيلم الضوء على أهمية فهم العلاقات بين الأبناء والأباء في تحديد هوية الفرد وتشكيله.",
   "poster_path": "/4uudasFgKCVQFNGqfanD6wEGVS1.jpg",
-  "backdrop_path": "/iNt4CmfX70UlqFG6Ixxnhto3IOA.jpg",
-  "release_date": "2015-03-12",
-  "vote_average": 7.0,
-  "vote_count": 75,
+  "backdrop_path": "/2MtNAFvJChEbi46fo5F3NVfkfCR.jpg",
+  "release_date": "2007-04-04",
+  "vote_average": 6.4,
+  "vote_count": 9,
   "genres": [
     {
-      "id": 10767,
-      "name": "حوار"
-    },
-    {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Hot Ones (2015) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "الساخنة. مسلسل حوار وكوميديا، يطرح أسئلة ساخنة ويدعو ضيوفًا مشهورين لتناول أجنحة حارة ثم إجراء مقابلات معهم أثناء معاناتهم مع الحرارة. عنوان باللغة الإنجليزية: Hot Ones.",
-    "desc_en": "Hot Ones is a show that combines hot questions with even hotter wings. It invites a famous guest to eat and then interviews them, capturing their struggle as they navigate the spicy challenge. .",
-    "seo_title_ar": "مشاهدة مسلسل الساخنة. Hot Ones مترجم - توميتو",
-    "meta_desc": "الساخنة: مسلسل حوار كوميدي يجمع بين الأسئلة الساخنة والأجنحة الحارة، مع ضيوف مشهورين يكافحون أثناء المقابلة. Hot Ones.",
-    "outro": "شاهد Hot Ones الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "الساخنة. مسلسل ممتع ومختلف، يجمع بين الحوارات الشيقة والكوميديا، مع ضيوف مشهورين يواجهون تحدي الأجنحة الحارة. عنوان باللغة الإنجليزية: Hot Ones.",
-    "opinion_en": "Hot Ones is a unique and entertaining show, combining engaging interviews with a spicy twist. .",
+    "intro": "يحكي فيلم \"والدي ربي\" قصة صراع حاد بين الحب الأبوي والتعصب الديني.",
+    "desc_ar": "يحكي فيلم \"والدي ربي\" قصة صراع حاد بين الحب الأبوي والتعصب الديني. يتسم والداه بتعلق عميق ومتعاطف، لكن الالتزامات الدينية التي يتبعها الأب تترك فجوة عاطفية بينه وبين ابنه الملهوف. يتسبب حب الأب للاحتفال بالعادات الدينية في كارثة غير مقصودة، مما يدفع زوجته السابقة للغضب من زوجها وألوهيته، فيما يتطور الأمر إلى سرد درامي للقصة المثيرة للاهتمام عن إبراهيم. يتعرض الفيلم لتحليل عميق للصراع بين الحب والدين، مما يجعل من المستحيل تمييز بين الحب الأبوي والالتزامات الدينية. يسلط الفيلم الضوء على أهمية فهم العلاقات بين الأبناء والأباء في تحديد هوية الفرد وتشكيله.",
+    "desc_en": "My Father My Lord is an intimate and deeply disturbing story of the conflict between a father's love and his deep devotion to religion. A respected Orthodox Rabbi dotes on his only son but his religious strictures leave an emotional gap between the impish child and the stern father. When the father's all-consuming obsession with observing religious ritual inadvertently leads to tragedy, his previously subservient wife rages against both her husband and God. A dramatic retelling of the story of Abraham, the film explores the complexities of the human condition, delving into the intricacies of love, faith, and the search for identity.",
+    "seo_title_ar": "مشاهدة فيلم والدي ربي مترجم - توميتو - دراما عن الصراع بين الحب والدين",
+    "meta_desc": "شاهد فيلم والدي ربي مترجم على توميتو - فيلم درامي عن الصراع بين الحب والدين - يتعرض الفيلم لتحليل عميق للصراع بين الحب والدين في تحديد هوية الفرد وتشكيله",
+    "outro": "يعد فيلم \"والدي ربي\" تجربة فنية ممتعة ومثيرة للاهتمام، حيث يسلط الضوء على أهمية فهم العلاقات بين الأبناء والأباء في تحديد هوية الفرد وتشكيله.",
+    "opinion_ar": "يعتبر فيلم \"والدي ربي\" تجربة فنية ممتعة ومثيرة للاهتمام، حيث يسلط الضوء على أهمية فهم العلاقات بين الأبناء والأباء في تحديد هوية الفرد وتشكيله.",
+    "opinion_en": "My Father My Lord is a thought-provoking film that explores the complexities of the human condition, delving into the intricacies of love, faith, and the search for identity.",
     "faq": [
       {
-        "q": "ما هو الساخنة.؟",
-        "a": "مسلسل حوار وكوميديا يدعو ضيوفًا مشهورين لتناول أجنحة حارة ثم إجراء مقابلات معهم. عنوان باللغة الإنجليزية: Hot Ones.",
-        "q_en": "What is Hot Ones?",
-        "a_en": "A talk show with a twist, inviting famous guests to eat spicy wings and then interviewing them. ."
+        "q": "ما هو موضوع الفيلم؟",
+        "a": "يحكي الفيلم قصة صراع بين الحب الأبوي والتعصب الديني.",
+        "q_en": "What is the subject of the film?",
+        "a_en": "The film tells the story of the conflict between a father's love and his deep devotion to religion."
+      },
+      {
+        "q": "ما هي الأبرز عن الفيلم؟",
+        "a": "يتميز الفيلم بتحليل عميق للصراع بين الحب والدين في تحديد هوية الفرد وتشكيله.",
+        "q_en": "What is the most notable aspect of the film?",
+        "a_en": "The film is notable for its in-depth analysis of the conflict between love and faith in shaping identity."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "يعد الفيلم دراما، حيث يتعرض للتحليل المdepth للصراع بين الحب والدين.",
+        "q_en": "What type of film is it?",
+        "a_en": "The film is a drama that explores the in-depth conflict between love and faith."
       }
     ],
-    "keywords": "الساخنة, Hot Ones, مسلسل, حوار, كوميديا, أجنحة حارة, مقابلات, ضيوف مشهورين"
+    "keywords": "فيلم درامي, صراع بين الحب والدين, تحليل عميق, هوية الفرد, تشكيل, فيلم مترجم, توميتو, مشاهدة والدي ربي, My Father My Lord مترجم, تحميل والدي ربي, والدي ربي اون لاين, My Father My Lord, والدي ربي جودة عالية, فيلم والدي ربي, My Father My Lord HD"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "25 دقيقة",
+  "duration": "72 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Sean Evans",
-  "first_air_date": "2015-03-12",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Israel",
+  "cast": "Assi Dayan Ilan Griff Sharon Hacohen Roni Aharon Nitsam Bar Yonathan Bashayev"
 }

@@ -4,14 +4,12 @@
   "title_ar": "اللوتس الأبيض",
   "title_en": "The White Lotus",
   "slug": "111803-the-white-lotus",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدور أحداث هذا المسلسل القصير في أحد المنتجعات السياحية الاستوائية، حيث يتتبع من خلال اﻷحداث مجموعة من الضيوف والعاملين في هذا المنتجع على مدار أسبوع.",
   "poster_path": "/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
   "backdrop_path": "/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
   "release_date": "2021-07-11",
   "vote_average": 7.6,
-  "vote_count": 1411,
+  "vote_count": 1509,
   "genres": [
     {
       "id": 35,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في منتجع سياحي استوائي، يتعقب مجموعة من الضيوف والعاملين الأحداث المدهشة التي تحدث على مدار أسبوع، بينما يتعثر الأصدقاء والخصوم فيما بينهم، ويحاولون حل لغز يراودهم، في مسلسل كوميديا دراما غموض يلقي بظلاله على المنتجع، ويحول كل شيء إلى متاهة من الالغو والغموض.",
-    "desc_en": "In a tropical resort, a group of guests and staff follow the astonishing events that unfold over the course of a week, as friends and enemies become entangled in a web of mystery, and everyone tries to unravel the enigma that haunts them, in a comedy-drama-thriller that casts a dark shadow over the resort, turning everything into a labyrinth of the bizarre and the unknown.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في اللوتس الأبيض - توميتو",
-    "seo_title_ar": "مشاهدة فيلم اللوتس الأبيض مترجم اون لاين - توميتو",
-    "keywords": "The White Lotus, فيلم كوميديا دراما غموض, مشاهدة فيلم كوميديا دراما غموض مترجم, قصة مسلسل اللوتس الأبيض, مشاهدة اللوتس الأبيض 2021, اللوتس الأبيض مترجم كامل, توميتو اللوتس الأبيض, أحداث اللوتس الأبيض بالتفصيل",
-    "opinion": "هو فيلم مدهش يلقي بظلاله على المنتجع، ويحول كل شيء إلى متاهة من الالغو والغموض، ولكن ما هو سر اللوتس الأبيض؟",
+    "intro": "في هذا المسلسل الكوميدي الدرامي الغامض، يتحول الأسبوع إلى غموض وجدل مع كل يوم يمر، وتظهر الوجوه الحقيقية وراء الصور المثالية التي يصورها هذا المنتجع.",
+    "desc_ar": "تدور أحداث المسلسل حول مجموعة من الضيوف والعمال في منتجع استوائي فاخر، حيث يتحول الأسبوع إلى غموض وجدل مع كل يوم يمر، ويتسلل الغموض إلى حياة الضيوف والعمال، ويظهر الوجوه الحقيقية وراء الصور المثالية التي يصورها هذا المنتجع. ويتعاقب يوم على يوم، يترتب على الأحداث سلسلة من الأزمات والمصاعب، ويتم تجاوزها من خلال علاقات اجتماعية معقدة ومؤثرة. ويتم تعريف الشخصيات عبر قصة مسلسل اللوتس الأبيض، حيث يظهر تأثير الحياة في هذا المنتجع على أفرادها، ويظهر أبعاد جديدة من الشخصيات والقصة.",
+    "desc_en": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotels cheerful employees and the idyllic locale itself. Each day unfolds a new set of challenges and problems, which are navigated through complex social relationships. The characters are defined through the story of The White Lotus, where the impact of life in this resort on its individuals is shown, and new dimensions of the characters and the story are revealed.",
+    "seo_title_ar": "مشاهدة اللوتس الأبيض مسلسل دراما غموض كوميدي 2021 مترجم على تيوميتو",
+    "meta_desc": "استمتع بمشاهدة اللوتس الأبيض مسلسل دراما غموض كوميدي 2021 مترجم, بدون إعلانات مزعجة, جودة عالية, شاهد الآن, اللوتس الأبيض مسلسل, The White Lotus, مسلسل درا",
+    "outro": "ويتم تعريف الشخصيات عبر قصة مسلسل اللوتس الأبيض، حيث يظهر تأثير الحياة في هذا المنتجع على أفرادها، ويظهر أبعاد جديدة من الشخصيات والقصة، ويترك المسلسل المشاهدين يعيشون تجربة لا تنسى.",
+    "opinion_ar": "مسرحية اللوتس الأبيض هي واحدة من أكثر المسلسلات تأثيرا في الأعوام الأخيرة، حيث تطرح مجموعة من القضايا الاجتماعية والثقافية التي تثير الاهتمام وتحفز على التفكير.",
+    "opinion_en": "The White Lotus is one of the most impactful series in recent years, where it raises a series of social and cultural issues that spark interest and encourage thought.",
     "faq": [
       {
-        "q": "ما هو سر اللوتس الأبيض؟",
-        "a": "هو سر لغز يراود الضيوف والعاملين في المنتجع"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "تدور أحداث المسلسل حول مجموعة من الضيوف والعمال في منتجع استوائي فاخر.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series follows the exploits of various guests and employees at an exclusive tropical resort."
       },
       {
-        "q": "ما هو نوع اللوتس الأبيض؟",
-        "a": "هو مسلسل كوميديا دراما غموض"
-      },
-      {
-        "q": "ما هو أفضل ما في اللوتس الأبيض؟",
-        "a": "هو الأحداث المدهشة التي تحدث على مدار أسبوع"
+        "q": "من هو المخرج؟",
+        "a": "المخرج هو...",
+        "q_en": "Who is the director?",
+        "a_en": "The director is..."
       }
-    ]
+    ],
+    "keywords": "اللوتس الأبيض, مسلسل دراما غموض كوميدي, 2021, مترجم, بدون إعلانات, جودة عالية, شاهد الآن, The White Lotus, مشاهدة اللوتس الأبيض, The White Lotus مترجم, تحميل اللوتس الأبيض, اللوتس الأبيض اون لاين, The White Lotus online, اللوتس الأبيض جودة عالية, فيلم اللوتس الأبيض"
   },
   "fixed": true,
-  "first_air_date": "2021-07-11",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "88 دقيقة",
-  "language": "التركية",
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kemal Sunal Gülşah Alkoçlar Ayşen Gruda Deniz Türkali Bilge Zobu"
+  "cast": "Leslie Bibb Carrie Coon Walton Goggins Sarah Catherine Hook Jason Isaacs Parker Posey Patrick Schwarzenegger Tayme Thapthimthong",
+  "first_air_date": "2021-07-11"
 }

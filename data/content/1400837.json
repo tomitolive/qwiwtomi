@@ -4,7 +4,7 @@
   "title_ar": "Other Mommy",
   "title_en": "Other Mommy",
   "slug": "1400837-other-mommy",
-  "overview": "تدور أحداث فيلم \"أم أخرى\" في جو من الرعب والإثارة، حيث تتعرض فتاة صغيرة وعائلتها لمنزل مسكون بكيان شرير مصمم على الإقامة داخلها. لكن قبل ذلك، يجب عليه إقناعها بالسماح له بالدخول. فيلم \"Other Mommy\" يبقيك على حافة مقعدك طوال الوقت.",
+  "overview": "يحكي فيلم أم أخرى قصة صبيّة شابة تدعى بلّا، تشكل علاقة متميزة مع كائن معذور في منزله، يظهر به تشابه ملحوظ مع أمها الحقيقية، مما يبعث في ذهنها أسئلةً ورهبات، وتحاول بلّا أن تفهم أصل هذا الكائن الغامض، وتكشف عن أسراره البعيد.",
   "poster_path": "/kNxRgcTeqeU5jauBackTERoO2De.jpg",
   "backdrop_path": "/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
   "release_date": "2026-10-08",
@@ -14,26 +14,30 @@
     {
       "id": 27,
       "name": "رعب"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Other Mommy (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث فيلم \"أم أخرى\" في جو من الرعب والإثارة، حيث تتعرض فتاة صغيرة وعائلتها لمنزل مسكون بكيان شرير مصمم على الإقامة داخلها. لكن قبل ذلك، يجب عليه إقناعها بالسماح له بالدخول. فيلم \"Other Mommy\" يبقيك على حافة مقعدك طوال الوقت.",
-    "desc_en": "The film \"Other Mommy\" is a chilling horror story about a young girl, her family, and their haunted home. A sinister entity is determined to take up residence inside her, but first, it must persuade her to let it in. This movie will keep you on the edge of your seat.",
-    "seo_title_ar": "مشاهدة فيلم أم أخرى Other Mommy مترجم - توميتو",
-    "meta_desc": "فيلم أم أخرى (Other Mommy) هو فيلم رعب مثير يبقيك في حالة من التوتر طوال الوقت. فتاة صغيرة وعائلتها يواجهون كيانا شريرا يسعى للسكن داخلها. شاهد الآن!",
-    "outro": "شاهد Other Mommy الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"أم أخرى\" هو تجربة رعب متميزة، حيث يبني التوتر تدريجيًا ويجعلك تشعر بالخوف والقلق طوال الوقت. أداء الممثلين كان رائعًا، خاصةً في تجسيد الرعب الداخلي.",
-    "opinion_en": "\"Other Mommy\" is a standout horror film that builds tension and keeps you on the edge of your seat. The performances are exceptional, especially in conveying internal terror.",
+    "intro": "في عالم مليء بالغموض والرعب، يأتي فيلم أم أخرى ليكشف عن أسرار معذورة، وتحديات شخصية، وهموم عميقة.",
+    "desc_ar": "يحكي فيلم أم أخرى قصة صبيّة شابة تدعى بلّا، تشكل علاقة متميزة مع كائن معذور في منزله، يظهر به تشابه ملحوظ مع أمها الحقيقية، مما يبعث في ذهنها أسئلةً ورهبات، وتحاول بلّا أن تفهم أصل هذا الكائن الغامض، وتكشف عن أسراره البعيد.",
+    "desc_en": "A young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother. As she delves deeper into the mystery, she tries to understand the origin of this enigmatic being, and uncovers its dark secrets.",
+    "seo_title_ar": "مشاهدة فيلم أم أخرى 2026 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم الرعب والغموض أم أخرى 2026 مترجم، وهو قصة قاتلة عن أم أخرى، تثير إعجاب الجماهير بالكامل. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافي",
+    "outro": "فيلم أم أخرى هو تجربة نفسية مثيرة، تثير الإعجاب، وتثير الأسئلة، وتجعلنا نتأمل في أعماق البشرية، وتحدياتها، والغموض الذي يحيط بنا.",
+    "opinion_ar": "فيلم أم أخرى هو تجربة نفسية رعبية مثيرة، يحتوي على كليشيهات غامضة، ولكن يصل إلى مستوى جيد من التوتر والغموض.",
+    "opinion_en": "Other Mommy is a thrilling psychological horror experience, containing intriguing plot twists, and reaching a high level of tension and mystery.",
     "faq": [
       {
-        "q": "هل فيلم \"أم أخرى\" مناسب للمشاهدة العائلية؟",
-        "a": "لا، يحتوي الفيلم على مشاهد مخيفة ومؤثرة قد لا تكون مناسبة للأطفال الصغار.",
-        "q_en": "Is \"Other Mommy\" suitable for family viewing?",
-        "a_en": "No, the film contains intense and scary scenes that may not be suitable for young children."
+        "q": "ما هو فيلم أم أخرى؟",
+        "a": "فيلم رعب وغموض يروي قصة صبيّة شابة تدعى بلّا، تشكل علاقة مع كائن معذور يتشابه مع أمها.",
+        "q_en": "What is Other Mommy?",
+        "a_en": "A psychological horror film that tells the story of a young girl, Bela, who forms a relationship with a sinister entity that resembles her mother."
       }
     ],
-    "keywords": "أم أخرى, Other Mommy, فيلم رعب, كيان شرير, منزل مسكون, توتر, أداء مميز"
+    "keywords": "أم أخرى, فيلم, رعب, غموض, 2026, مترجم, مشاهدة أم أخرى, Other Mommy مترجم, تحميل أم أخرى, أم أخرى اون لاين, Other Mommy, أم أخرى جودة عالية, فيلم أم أخرى, Other Mommy HD, أم أخرى HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",

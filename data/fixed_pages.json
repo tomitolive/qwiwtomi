@@ -13109,8 +13109,152 @@
       "file": "57624.json",
       "title": "Disneys Magic English",
       "fixed_at": "2026-08-24T17:11:08.176595"
+    },
+    {
+      "tmdb_id": "81774",
+      "file": "81774.json",
+      "title": "العربيه",
+      "fixed_at": "2026-08-24T17:30:47.649156"
+    },
+    {
+      "tmdb_id": "72649",
+      "file": "72649.json",
+      "title": "Hot Ones",
+      "fixed_at": "2026-08-24T17:30:58.314855"
+    },
+    {
+      "tmdb_id": "309328",
+      "file": "309328.json",
+      "title": "في الظل",
+      "fixed_at": "2026-08-24T17:31:07.754388"
+    },
+    {
+      "tmdb_id": "1301310",
+      "file": "1301310.json",
+      "title": "Zombies of the Third Reich",
+      "fixed_at": "2026-08-24T17:31:17.509750"
+    },
+    {
+      "tmdb_id": "1226863",
+      "file": "1226863.json",
+      "title": "فيلم سوبر ماريو جالاكسي",
+      "fixed_at": "2026-08-24T17:31:26.875992"
+    },
+    {
+      "tmdb_id": "122826",
+      "file": "122826.json",
+      "title": "رقص رقص راقص",
+      "fixed_at": "2026-08-24T17:31:38.388007"
+    },
+    {
+      "tmdb_id": "67199",
+      "file": "67199.json",
+      "title": "Saint Seiya: The Hades Chapter",
+      "fixed_at": "2026-08-24T17:31:47.368731"
+    },
+    {
+      "tmdb_id": "1620",
+      "file": "1620.json",
+      "title": "CSI: Miami",
+      "fixed_at": "2026-08-24T17:31:56.187723"
+    },
+    {
+      "tmdb_id": "153293",
+      "file": "153293.json",
+      "title": "A Personal Journey with Martin Scorsese Through American Movies",
+      "fixed_at": "2026-08-24T17:32:21.030028"
+    },
+    {
+      "tmdb_id": "314",
+      "file": "314.json",
+      "title": "Star Trek: Enterprise",
+      "fixed_at": "2026-08-24T17:32:31.491911"
+    },
+    {
+      "tmdb_id": "105804",
+      "file": "105804.json",
+      "title": "Candy",
+      "fixed_at": "2026-08-24T17:33:06.122082"
+    },
+    {
+      "tmdb_id": "31724",
+      "file": "31724.json",
+      "title": "كود غياس",
+      "fixed_at": "2026-08-24T17:33:15.857175"
+    },
+    {
+      "tmdb_id": "1400837",
+      "file": "1400837.json",
+      "title": "Other Mommy",
+      "fixed_at": "2026-08-24T17:33:25.771098"
+    },
+    {
+      "tmdb_id": "1144107",
+      "file": "1144107.json",
+      "title": "2",
+      "fixed_at": "2026-08-24T17:33:34.293534"
+    },
+    {
+      "tmdb_id": "84773",
+      "file": "84773.json",
+      "title": "سيد الخواتم: خواتم السلطة",
+      "fixed_at": "2026-08-24T17:33:42.183413"
+    },
+    {
+      "tmdb_id": "56570",
+      "file": "56570.json",
+      "title": "دخيلة",
+      "fixed_at": "2026-08-24T17:33:51.419893"
+    },
+    {
+      "tmdb_id": "284581",
+      "file": "284581.json",
+      "title": "The Insipid Princes Furtive Grab for the Throne",
+      "fixed_at": "2026-08-24T17:34:02.117105"
+    },
+    {
+      "tmdb_id": "14613",
+      "file": "14613.json",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "fixed_at": "2026-08-24T17:34:11.906257"
+    },
+    {
+      "tmdb_id": "111803",
+      "file": "111803.json",
+      "title": "اللوتس الأبيض",
+      "fixed_at": "2026-08-24T17:34:21.972180"
+    },
+    {
+      "tmdb_id": "355338",
+      "file": "355338.json",
+      "title": "موعد رايلي الأول؟",
+      "fixed_at": "2026-08-24T17:34:48.907625"
+    },
+    {
+      "tmdb_id": "967",
+      "file": "967.json",
+      "title": "Spartacus",
+      "fixed_at": "2026-08-24T17:35:28.345198"
+    },
+    {
+      "tmdb_id": "285479",
+      "file": "285479.json",
+      "title": "A Record of a Mortals Journey to Immortality",
+      "fixed_at": "2026-08-24T17:35:38.106775"
+    },
+    {
+      "tmdb_id": "75006",
+      "file": "75006.json",
+      "title": "The Umbrella Academy",
+      "fixed_at": "2026-08-24T17:35:48.978955"
+    },
+    {
+      "tmdb_id": "116479",
+      "file": "116479.json",
+      "title": "Anupamaa",
+      "fixed_at": "2026-08-24T17:36:00.873849"
     }
   ],
-  "last_updated": "2026-08-24T17:11:10.430391",
-  "total_fixed": 2185
+  "last_updated": "2026-08-24T17:36:03.168296",
+  "total_fixed": 2209
 }

@@ -1,15 +1,15 @@
 {
   "id": 105804,
-  "title": "Candy",
-  "title_ar": "Candy",
-  "title_en": "Candy",
-  "slug": "105804-candy",
-  "overview": "مسلسل \"حلوى\" هو دراما جريمة تدور أحداثها في الثمانينيات حول حياة كاندي مونتغمري، ربة منزل وأم مثالية، لكنها تشعر بالضغط من الالتزام بالقواعد والتقاليد، مما يدفعها للبحث عن الحرية. وتتصاعد الأحداث بشكل مأساوي عندما تحاول التعبير عن نفسها، مما يؤدي إلى عواقب وخيمة.",
+  "title": "Chronica shel mashber",
+  "title_ar": "Chronica shel mashber",
+  "title_en": "Chronicling A Crisis",
+  "slug": "105804-chronicling-a-crisis",
+  "overview": "يحكي فيلم \"Chronica \" قصة شخصية عائلية حية ومميزة، تعكس حياة المخرج أموس كوليك وذكرياته مع عائلته منذ عام 2004 وحتى الوقت الحالي. يسلط الفيلم الضوء على التحديات والصعوبات التي واجهت العائلة، وتحديداً المخرج، في مختلف مراحل حياتهم. يرصد الفيلم بشكل دقيق ومعبر عن تجاربهم الشخصية، مما يجعل الفيلم تجربة مميزة ورائعة.",
   "poster_path": "/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg",
-  "backdrop_path": "/xSejbnuKiyIfdvRjh48Qnrml8W1.jpg",
-  "release_date": "2022-05-09",
-  "vote_average": 7.1,
-  "vote_count": 233,
+  "backdrop_path": null,
+  "release_date": "2012-05-04",
+  "vote_average": 1.0,
+  "vote_count": 2,
   "genres": [
     {
       "id": 18,
@@ -21,33 +21,29 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Candy (2022) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"حلوى\" هو دراما جريمة تدور أحداثها في الثمانينيات حول حياة كاندي مونتغمري، ربة منزل وأم مثالية، لكنها تشعر بالضغط من الالتزام بالقواعد والتقاليد، مما يدفعها للبحث عن الحرية. وتتصاعد الأحداث بشكل مأساوي عندما تحاول التعبير عن نفسها، مما يؤدي إلى عواقب وخيمة.",
-    "desc_en": "The series \"Candy\" is a gripping drama set in the 1980s, following the life of Candy Montgomery, a seemingly perfect housewife and mother. As she struggles with the pressures of conformity, her desire for freedom leads to a deadly encounter, changing her life forever.",
-    "seo_title_ar": "مشاهدة مسلسل حلوى Candy مترجم - توميتو",
-    "meta_desc": "مسلسل حلوى يسلط الضوء على حياة ربة منزل في الثمانينيات، حيث تتصارع مع ضغوطات المجتمع، مما يؤدي إلى أحداث مأساوية. دراما جريمة مشوقة لا تفوتها.",
-    "outro": "شاهد Candy الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"حلوى\" يقدم قصة مثيرة ومؤثرة، حيث يسلط الضوء على الصراع الداخلي لربة منزل في الثمانينيات. أداء الممثلين كان رائعًا، خاصة في تجسيد الضغوطات النفسية التي تعاني منها البطلة.",
-    "opinion_en": "The series \"Candy\" is a must-watch for fans of true crime dramas. It offers a compelling portrayal of a seemingly perfect life unraveling, leaving you with a sense of intrigue and empathy.",
+    "intro": "يحكي فيلم Chronicling A Crisis قصة عائلية حية ومميزة تعكس تجارب المخرج وذكرياته مع عائلته.",
+    "desc_ar": "يحكي فيلم \"Chronica \" قصة شخصية عائلية حية ومميزة، تعكس حياة المخرج أموس كوليك وذكرياته مع عائلته منذ عام 2004 وحتى الوقت الحالي. يسلط الفيلم الضوء على التحديات والصعوبات التي واجهت العائلة، وتحديداً المخرج، في مختلف مراحل حياتهم. يرصد الفيلم بشكل دقيق ومعبر عن تجاربهم الشخصية، مما يجعل الفيلم تجربة مميزة ورائعة.",
+    "desc_en": "An intimately personal documentary by Amos Kollek that chronicles himself and his family from 2004 to the present.",
+    "seo_title_ar": "مشاهدة فيلم Chronicling Crisis مترجم - توميتو",
+    "meta_desc": "Chronica Chronicling Crisis 2012 فيلم دراما جريمة استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاه استمتع بمشاهدة",
+    "outro": "يعتبر فيلم Chronicling A Crisis تجربة فنية رائعة ومؤثرة، تعكس حياة عائلية حية وذكريات مميزة.",
+    "opinion_ar": "يعتبر فيلم \"Chronica \" تجربة فنية رائعة ومؤثرة، تعكس حياة عائلية حية وذكريات مميزة.",
+    "opinion_en": "A unique and moving personal documentary that showcases the challenges and experiences of the director and his family.",
     "faq": [
       {
-        "q": "ما هو مسلسل \"حلوى\"؟",
-        "a": "مسلسل \"حلوى\" هو دراما جريمة تدور حول حياة كاندي مونتغمري في الثمانينيات، حيث تتعرض لضغوطات اجتماعية وتسعى للحرية.",
-        "q_en": "What is the series \"Candy\" about?",
-        "a_en": "The series \"Candy\" is a crime drama set in the 1980s, following the life of Candy Montgomery, a housewife who struggles with societal pressures and her desire for freedom."
+        "q": "ما هي قصة فيلم Chronicling Crisis؟",
+        "a": "يحكي الفيلم قصة عائلية شخصية حية ومميزة تعكس تجارب المخرج وذكرياته مع عائلته.",
+        "q_en": "What is the story of Chronicling A Crisis?",
+        "a_en": "The film chronicles the personal story of the director and his family, showcasing their experiences and memories."
       }
     ],
-    "keywords": "حلوى, Candy, مسلسل, دراما, جريمة, الثمانينيات, ربة منزل, ضغوطات, حرية, جريمة حقيقية, حلوى جلي, حلوى جيلي, حلوى مصاص, حلوى بحرينية, حلوى عمانية, حلوى القطن, حلوى شويطر, حدد المعلومات الزائدة وكذلك الناقصة وحل المسألة إن أمكن اشترى عدنان صندوق حلوى ثمنه ٢٠ ريالا و يحوي ١٢ قطعة حلوى. كم ريالا سيعيد البائع لعدنان, حلوى البحرين, حلوى المساء"
+    "keywords": "فيلم Chronicling Crisis, فيلم Chronica, دراما, جريمة, فيلم 2012, فيلم شخصي, مشاهدة Chronica, Chronicling Crisis مترجم, تحميل Chronica, Chronica اون لاين, Chronicling Crisis, Chronica جودة عالية, Chronicling Crisis HD, Chronica HD, مسلسل Chronica"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "54 دقيقة",
+  "duration": "90 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jessica Biel Melanie Lynskey Pablo Schreiber Timothy Simons Raúl Esparza Jessie Mueller Coley Campany Sharon Conley",
-  "first_air_date": "2022-05-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "Israel",
+  "cast": "Amos Kollek Ally Sheedy Anna Thomson Sheila Anderson Robin Remias"
 }

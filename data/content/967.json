@@ -4,22 +4,16 @@
   "title_ar": "Spartacus",
   "title_en": "Spartacus",
   "slug": "967-spartacus",
-  "folder": "movie",
-  "media_type": "movie",
   "overview": "تم بيع ثراسيان سبارتاكوس المتمرد ، الذي ولد وتربى عبدًا ، إلى مدرب المصارع باتياتوس. بعد أسابيع من تدريبه على القتل من أجل الحلبة ، ينقلب سبارتاكوس على أصحابه ويقود العبيد الآخرين في التمرد. مع انتقال المتمردين من مدينة إلى أخرى ، تتضخم أعدادهم مع انضمام العبيد الهاربين إلى صفوفهم. تحت قيادة سبارتاكوس ، شقوا طريقهم إلى جنوب إيطاليا ، حيث سيعبرون البحر ويعودون إلى ديارهم.",
   "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
-  "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+  "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
   "release_date": "1960-10-13",
   "vote_average": 7.5,
-  "vote_count": 2386,
+  "vote_count": 2439,
   "genres": [
     {
       "id": 36,
       "name": "تاريخ"
-    },
-    {
-      "id": 10752,
-      "name": "حرب"
     },
     {
       "id": 18,
@@ -31,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن تم بيع ثراسيان سبارتاكوس المتمرد ، الذي ولد وتربى عبدًا ، إلى مدرب المصارع باتياتوس ، يقلب سبارتاكوس على أصحابه ويقود العبيد الآخرين في التمرد. مع انتقال المتمردين من مدينة إلى أخرى ، تتضخم أعدادهم مع انضمام العبيد الهاربين إلى صفوفهم. تحت قيادة سبارتاكوس ، شقوا طريقهم إلى جنوب إيطاليا ، حيث سيعبرون البحر ويعودون إلى ديارهم.",
-    "desc_en": "After being sold to a gladiator trainer, Spartacus, a Thracian who was born and raised as a slave, rebels against his captors and leads other slaves in a revolt. As the rebels move from city to city, their numbers swell with the addition of escaped slaves. Under Spartacus' leadership, they make their way to southern Italy, where they will cross the sea and return to their homeland.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم سبارتاكوس المتمرد!",
-    "seo_title_ar": "مشاهدة فيلم سبارتاكوس المتمرد مترجم اون لاين - توميتو",
-    "keywords": "فيلم سبارتاكوس المتمرد, مشاهدة فيلم سبارتاكوس, أحداث Spartacus بالتفصيل, توميتو Spartacus, Spartacus مترجم, مشاهدة Spartacus 1960, قصة فيلم Spartacus",
-    "opinion": "فيلم سبارتاكوس المتمرد هو فيلم تاريخي رائع يخالف كل ما تعرفه عن الحرب والقتل. سبارتاكوس هو فيلم يخلق مشاعر قوية ويحفزك على المشاركة في معركة العبيد ضد أسيادهم.",
+    "intro": "يحكي فيلم سبارتاكوس قصة الثائر المتمرد ثراسيان سبارتاكوس، الذي ولد وعاش حياته كعبيد، ثم تم بيعته إلى مدرب المصارع باتياتوس.",
+    "desc_ar": "يحكي فيلم سبارتاكوس قصة ثائر متمرد، ثراسيان سبارتاكوس، الذي ولد وعاش حياته كعبيد، ثم تم بيعته إلى مدرب المصارع باتياتوس. بعد أسابيع من تدريبه على القتل لتحقيق النجاح في الحلبة، تنقلب سبارتاكوس على أصحابه ويقود العبيد الآخرين في تمرد هائل، يتمدد عبر مدن إيطاليا، يضم العبيد الهاربين إلى صفوفه، ويضمن تحقيق الاستقلال في أرضهم. في ظل قيادة سبارتاكوس، يخوضون معاركًا حاسمة، يستكشفون أرضًا جديدة، ويحققون أهدافهم النهائية في جنوب إيطاليا",
+    "desc_en": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+    "seo_title_ar": "مشاهدة فيلم سبارتاكوس مترجم - توميتو",
+    "meta_desc": "يحكي فيلم سبارتاكوس قصة الثائر المتمرد ثراسيان سبارتاكوس في ظل قيادة المتمردين إلى الاستقلال في جنوب إيطاليا. تم بيع سبارتاكوس إلى مدرب المصارع باتياتوس، ث",
+    "outro": "في ظل قيادة سبارتاكوس، يخوضون معاركًا حاسمة، يستكشفون أرضًا جديدة، ويحققون أهدافهم النهائية في جنوب إيطاليا، ويضمنون تحقيق الاستقلال في أرضهم.",
+    "opinion_ar": "يعد فيلم سبارتاكوس أحد أهم الأفلام التاريخية التي حكمت القلب البشري، يبرز قصة الثائر المتمرد سبارتاكوس، ويحكي عن تمرد العبيد في ظل قيادة سبارتاكوس. يظهر الفيلم بطريقة استثنائية، ويحقق إنجازًا كبيرًا في نقل القصة إلى الشاشة.",
+    "opinion_en": "Spartacus is one of the most iconic historical films that has captured the human heart, it highlights the story of the rebellious Thracian Spartacus, and tells the story of the slaves' uprising under the leadership of Spartacus. The film is presented in an exceptional way, and achieves a great achievement in conveying the story on the screen.",
     "faq": [
       {
-        "q": "ما هو فيلم سبارتاكوس المتمرد؟",
-        "a": "فيلم سبارتاكوس المتمرد هو فيلم تاريخي رائع يروي قصة المتمرد سبارتاكوس والعبيد الآخرين."
-      },
-      {
-        "q": "ما هو نوع فيلم سبارتاكوس المتمرد؟",
-        "a": "فيلم سبارتاكوس المتمرد هو فيلم تاريخي رائع يخالف كل ما تعرفه عن الحرب والقتل."
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم سبارتاكوس المتمرد؟",
-        "a": "أفضل ما في فيلم سبارتاكوس المتمرد هو قوة الحكاية والشخصيات القوية"
+        "q": "ما هو قصة فيلم سبارتاكوس؟",
+        "a": "يحكي فيلم سبارتاكوس قصة الثائر المتمرد ثراسيان سبارتاكوس، الذي ولد وعاش حياته كعبيد، ثم تم بيعته إلى مدرب المصارع باتياتوس. بعد أسابيع من تدريبه على القتل لتحقيق النجاح في الحلبة، تنقلب سبارتاكوس على أصحابه ويقود العبيد الآخرين في تمرد هائل، يتمدد عبر مدن إيطاليا، يضم العبيد الهاربين إلى صفوفه، ويضمن تحقيق الاستقلال في أرضهم.",
+        "q_en": "What is the story of the film Spartacus?",
+        "a_en": "The film Spartacus tells the story of the rebellious Thracian Spartacus, born and raised a slave, who is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes."
       }
-    ]
+    ],
+    "keywords": "فيلم, سبارتاكوس, تمرد, العبيد, الثوار, المتمردون, جنوب إيطاليا, الاستقلال, الثقافة, التاريخ, مشاهدة سبارتاكوس, Spartacus مترجم, تحميل سبارتاكوس, سبارتاكوس اون لاين, Spartacus"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -58,5 +49,5 @@
   "duration": "197 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kirk Douglas Laurence Olivier Jean Simmons Charles Laughton Peter Ustinov"
+  "cast": "Kirk Douglas Laurence Olivier Jean Simmons Charles Laughton Peter Ustinov John Gavin Tony Curtis Nina Foch"
 }
