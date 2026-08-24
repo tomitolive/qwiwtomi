@@ -1,57 +1,59 @@
 {
   "id": 387,
-  "title": "سبونج بوب سكوير بانتس",
-  "title_ar": "سبونج بوب سكوير بانتس",
-  "title_en": "SpongeBob SquarePants",
-  "slug": "387-spongebob-squarepants",
-  "overview": "في أعماق المحيط الهادئ في مدينة قاع الهامور يعيش اسفنجة مربعة صفراء اسمها سبونج بوب سكوير بانتس. سبونج بوب يعيش في أناناس مع حلزون حيوانه الأليف ، غاري ، يحب وظيفته كطاهي قلي في مقرمشات سلطع ، ولديه موهبة في الوقوع في جميع أنواع المشاكل دون أن يحاول حقًا. عندما لا يثير أعصاب جاره شفيع الغريب في الجوار ، يمكن أن تجد سبونج بوب عادة في وسط كل أنواع المواقف الغريبة مع صديقه المفضل ، نجم البحر بسيط ، أو راكبة الامواج تبحث عن الإثارة- الفتاة السنجاب بال ، ساندي تشيكس.",
+  "title": "Das Boot",
+  "title_ar": "Das Boot",
+  "title_en": "Das Boot",
+  "slug": "387-das-boot",
+  "overview": "غواصة ألمانية تطارد سفن الحلفاء خلال الحرب العالمية الثانية ، لكنها سرعان ما تصبح مطاردة. يحاول الطاقم البقاء على قيد الحياة تحت السطح ، بينما يمتد كل من القارب وأنفسهم إلى أقصى حدودهم.",
   "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-  "backdrop_path": "/aasp5EmwclAQbwfGABWLTNLhjwB.jpg",
-  "release_date": "1999-05-01",
-  "vote_average": 7.7,
-  "vote_count": 3228,
+  "backdrop_path": "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+  "release_date": "1981-09-17",
+  "vote_average": 8.1,
+  "vote_count": 2599,
   "genres": [
     {
-      "id": 16,
-      "name": "رسوم متحركة"
+      "id": 18,
+      "name": "دراما"
     },
     {
-      "id": 35,
-      "name": "كوميديا"
+      "id": 36,
+      "name": "تاريخ"
     },
     {
-      "id": 10751,
-      "name": "عائلي"
+      "id": 10752,
+      "name": "حرب"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل سبونج بوب سكوير بانتس (1999) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "في مدينة قاع الهامور، يعيش سبونج بوب سكوير بانتس، الإسفنجة الصفراء المربعة، مع حيوانه الأليف الحلزون غاري. يحب سبونج بوب عمله كطاهي قلي في مطعم مقرمشات سلطع، ويمتلك موهبة في الوقوع في المشاكل دون قصد. تدور أحداث مسلسل \"سبونج بوب سكوير بانتس\" حول مغامراته مع أصدقائه، مثل نجم البحر بسيط، وراكبة الأمواج بال، وساندي تشيكس، في أجواء كوميدية عائلية ممتعة.",
-    "desc_en": "Deep in the Pacific Ocean, SpongeBob SquarePants, the square yellow sponge, lives in Bikini Bottom with his pet snail, Gary. He loves his job as a fry cook at the Krusty Krab and has a talent for getting into trouble without trying. The \"SpongeBob SquarePants\" series follows his adventures with friends like Patrick, Sandy Cheeks, and the thrill-seeking squirrel, creating hilarious and family-friendly moments.",
-    "seo_title_ar": "مشاهدة مسلسل سبونج بوب سكوير بانتس SpongeBob SquarePants مترجم - توميتو",
-    "meta_desc": "سبونج بوب سكوير بانتس - مسلسل رسوم متحركة كوميدي عائلي. مغامرات سبونج بوب وأصدقائه في أعماق المحيط الهادئ، مع الكثير من المواقف المضحكة والمرحة.",
-    "outro": "شاهد سبونج بوب سكوير بانتس الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل سبونج بوب سكوير بانتس هو تجربة ترفيهية رائعة للعائلات، حيث يجمع بين الرسوم المتحركة والكوميديا في مغامرات ممتعة. إنه مسلسل ممتع ومضحك، ويحتوي على شخصيات محبوبة ومميزة.",
-    "opinion_en": "SpongeBob SquarePants is a fantastic family entertainment series, blending animation and comedy in fun adventures. It's an enjoyable and hilarious show with beloved and unique characters.",
+    "intro": "يحكي فيلم داس بوت قصة غواصة ألمانية خلال الحرب العالمية الثانية، لكنها سرعان ما تصبح مطاردة. يحاول الطاقم البقاء على قيد الحياة تحت السطح.",
+    "desc_ar": "غواصة ألمانية تطارد سفن الحلفاء خلال الحرب العالمية الثانية ، لكنها سرعان ما تصبح مطاردة. يحاول الطاقم البقاء على قيد الحياة تحت السطح ، بينما يمتد كل من القارب وأنفسهم إلى أقصى حدودهم.",
+    "desc_en": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits. The crew on board the submarine carries a complex and eventful story. They find themselves trapped in a world of darkness and silence, where they cannot communicate with the outside world. They are exposed to the effects of war, such as bombing and explosions underwater.",
+    "seo_title_ar": "مشاهدة فيلم داس بوت مترجم - توميتو",
+    "meta_desc": "داس بوت فيلم حربي درامي يروي قصة غواصة ألمانية خلال الحرب العالمية الثانية. شاهد داس بوت مترجم، فيلم حربي درامي يروي قصة غواصة ألمانية خلال الحرب العالمية",
+    "outro": "يظهر فيلم داس بوت قدرة كبيرة على التعبير عن القصص المعقدة وجمال الحرب العالمية الثانية. يعتبر فيلم داس بوت تجربة فنية رائعة للمشاهدين.",
+    "opinion_ar": "فيلم داس بوت هو تجربة فنية رائعة، حيث يقدم للمشاهد تجربة قوية ومليئة بالتحديات. يظهر الفيلم قدرة كبيرة على التعبير عن القصص المعقدة وجمال الحرب العالمية الثانية.",
+    "opinion_en": "Das Boot is a great artistic experience, where it offers the viewer a strong and challenging experience. The film shows great ability to express complex stories and the beauty of World War II.",
     "faq": [
       {
-        "q": "هل مسلسل سبونج بوب سكوير بانتس مناسب للأطفال؟",
-        "a": "نعم، مسلسل سبونج بوب سكوير بانتس مناسب للأطفال والعائلات، حيث يقدم محتوى ترفيهيًا آمنًا وممتعًا.",
-        "q_en": "Is SpongeBob SquarePants suitable for children?",
-        "a_en": "Yes, SpongeBob SquarePants is suitable for children and families, offering safe and enjoyable entertainment."
+        "q": "ما هو فيلم داس بوت؟",
+        "a": "فيلم داس بوت هو فيلم حربي درامي يروي قصة غواصة ألمانية خلال الحرب العالمية الثانية.",
+        "q_en": "What is Das Boot?",
+        "a_en": "Das Boot is a war drama film that tells the story of a German submarine during World War II."
+      },
+      {
+        "q": "من هو المخرج لفيلم داس بوت؟",
+        "a": "المخرج لفيلم داس بوت هو وليم بينديك.",
+        "q_en": "Who is the director of Das Boot?",
+        "a_en": "The director of Das Boot is Wolfgang Petersen."
       }
     ],
-    "keywords": "سبونج بوب سكوير بانتس, SpongeBob SquarePants, رسوم متحركة, كوميديا, عائلي, مغامرات, محيط, مدينة قاع الهامور, كرتون, أطفال, ترفيه, سبونج بوب سكوير بانتس بالعربي, فيلم سبونج بوب سكوير بانتس"
+    "keywords": "داس بوت, فيلم حربي درامي, الحرب العالمية الثانية, غواصة ألمانية, طاقم, مغامرات, تحديات, الحرب, القصف, التفجيرات تحت الماء, تجربة فنية, مشاهدة داس بوت, Das Boot مترجم, تحميل داس بوت, داس بوت اون لاين"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Tom Kenny Bill Fagerbakke Rodger Bumpass Clancy Brown Carolyn Lawrence Mary Jo Catlett Mr. Lawrence",
-  "first_air_date": "1999-05-01",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "150 دقيقة",
+  "language": "الألمانية",
+  "country": "ألمانيا",
+  "cast": "Jürgen Prochnow Herbert Grönemeyer Klaus Wennemann Hubertus Bengsch Martin Semmelrogge Bernd Tauber Erwin Leder Martin May"
 }

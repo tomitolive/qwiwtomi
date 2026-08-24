@@ -11687,8 +11687,140 @@
       "file": "57243.json",
       "title": "دكتور هو",
       "fixed_at": "2026-08-24T09:43:42.894777"
+    },
+    {
+      "tmdb_id": "1442396",
+      "file": "1442396.json",
+      "title": "Nagabandham: The Secret Treasure",
+      "fixed_at": "2026-08-24T10:30:17.566599"
+    },
+    {
+      "tmdb_id": "14537",
+      "file": "14537.json",
+      "title": "هاراكيري",
+      "fixed_at": "2026-08-24T10:30:30.488521"
+    },
+    {
+      "tmdb_id": "15804",
+      "file": "15804.json",
+      "title": "A Brighter Summer Day",
+      "fixed_at": "2026-08-24T10:30:42.255191"
+    },
+    {
+      "tmdb_id": "226674",
+      "file": "226674.json",
+      "title": "LAdolescente",
+      "fixed_at": "2026-08-24T10:30:50.433691"
+    },
+    {
+      "tmdb_id": "12445",
+      "file": "12445.json",
+      "title": "هاري بوتر ومقدسات الموت الجزء الثاني",
+      "fixed_at": "2026-08-24T10:31:01.493858"
+    },
+    {
+      "tmdb_id": "348",
+      "file": "348.json",
+      "title": "فضائي",
+      "fixed_at": "2026-08-24T10:31:08.741029"
+    },
+    {
+      "tmdb_id": "235930",
+      "file": "235930.json",
+      "title": "Devil May Cry",
+      "fixed_at": "2026-08-24T10:31:17.609535"
+    },
+    {
+      "tmdb_id": "8909",
+      "file": "8909.json",
+      "title": "مطلوب",
+      "fixed_at": "2026-08-24T10:31:45.188508"
+    },
+    {
+      "tmdb_id": "976912",
+      "file": "976912.json",
+      "title": "Graphic Desires",
+      "fixed_at": "2026-08-24T10:31:55.920178"
+    },
+    {
+      "tmdb_id": "411",
+      "file": "411.json",
+      "title": "سجلات نارنيا: الأسد، الساحرة وخزانة الملابس",
+      "fixed_at": "2026-08-24T10:32:02.994532"
+    },
+    {
+      "tmdb_id": "1018",
+      "file": "1018.json",
+      "title": "Bonanza",
+      "fixed_at": "2026-08-24T10:32:13.205684"
+    },
+    {
+      "tmdb_id": "9016",
+      "file": "9016.json",
+      "title": "كوكب الكنز المفقود",
+      "fixed_at": "2026-08-24T10:32:20.354608"
+    },
+    {
+      "tmdb_id": "311",
+      "file": "311.json",
+      "title": "ذات مرة في أمريكا",
+      "fixed_at": "2026-08-24T10:32:43.623987"
+    },
+    {
+      "tmdb_id": "1220522",
+      "file": "1220522.json",
+      "title": "Dacoit",
+      "fixed_at": "2026-08-24T10:32:54.212219"
+    },
+    {
+      "tmdb_id": "140825",
+      "file": "140825.json",
+      "title": "La Maison sous les arbres",
+      "fixed_at": "2026-08-24T10:33:28.141491"
+    },
+    {
+      "tmdb_id": "76341",
+      "file": "76341.json",
+      "title": "ماكس المجنون طريق الغضب",
+      "fixed_at": "2026-08-24T10:34:11.248047"
+    },
+    {
+      "tmdb_id": "460465",
+      "file": "460465.json",
+      "title": "مورتال كومبات",
+      "fixed_at": "2026-08-24T10:34:19.168873"
+    },
+    {
+      "tmdb_id": "387",
+      "file": "387.json",
+      "title": "سبونج بوب سكوير بانتس",
+      "fixed_at": "2026-08-24T10:34:56.017677"
+    },
+    {
+      "tmdb_id": "819",
+      "file": "819.json",
+      "title": "Sleepers",
+      "fixed_at": "2026-08-24T10:35:04.554014"
+    },
+    {
+      "tmdb_id": "553837",
+      "file": "553837.json",
+      "title": "Code Geass: Fukkatsu no Lelouch",
+      "fixed_at": "2026-08-24T10:35:12.380262"
+    },
+    {
+      "tmdb_id": "505642",
+      "file": "505642.json",
+      "title": "بلاك بانثر واكاندا إلى الأبد",
+      "fixed_at": "2026-08-24T10:35:22.653689"
+    },
+    {
+      "tmdb_id": "253193",
+      "file": "253193.json",
+      "title": "A Dream Within a Dream",
+      "fixed_at": "2026-08-24T10:35:32.380700"
     }
   ],
-  "last_updated": "2026-08-24T09:43:45.163306",
-  "total_fixed": 1948
+  "last_updated": "2026-08-24T10:35:34.681292",
+  "total_fixed": 1970
 }
