@@ -1,15 +1,15 @@
 {
   "id": 679,
-  "title": "Aliens",
-  "title_ar": "Aliens",
+  "title": "فضائيون",
+  "title_ar": "فضائيون",
   "title_en": "Aliens",
   "slug": "679-aliens",
-  "overview": "عندما تم العثور على أرجل حياة ريبلي من قبل طاقم الإنقاذ بعد أكثر من 50 عامًا ، وجدت أن صانعي التضاريس موجودون على الكوكب ذاته الذي وجدوا فيه الأنواع الغريبة. عندما ترسل الشركة عائلة من المستعمرين إلى الخارج للتحقيق في قصتها - فقد كل الاتصال بالكوكب والمستعمرين. يجندون ريبلي ومشاة البحرية الاستعمارية للعودة والبحث عن إجابات.",
+  "overview": "\"ريبلي\"، الناجية الوحيدة من المواجهة القاتلة التي خاضتها سفينة \"نوسترومو\" مع الكائن المرعب \"إليان\"، تعود إلى الأرض بعد أن ظلت تائهة في الفضاء داخل سباتٍ فائق لمدة 57 عامًا. ورغم أن قصتها تُقابل في البداية بالتشكيك، فإنها توافق على مرافقة فريق من مشاة البحرية الاستعمارية في مهمة للعودة إلى الكوكب \"LV-426\".",
   "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
   "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
   "release_date": "1986-07-18",
-  "vote_average": 8,
-  "vote_count": 10837,
+  "vote_average": 8.0,
+  "vote_count": 11096,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "عندما تم العثور على أرجل حياة ريبلي من قبل طاقم الإنقاذ بعد أكثر من 50 عامًا، وجدت أن صانعي التضاريس موجودون على الكوكب ذاته الذي وجدوا فيه الأنواع الغريبة. في هذه الرحلة، سوف نرى كيف يتعامل البشر مع وجود الحياة خارج الأرض، وما هي نتائج هذه الاكتشافات على المجتمع.",
-    "desc_en": "When the rescue team discovers the remains of the alien life form Ripley after more than 50 years, they find that the planet's creators are present on the same planet where they found the alien species. In this journey, we will see how humans deal with the existence of life outside Earth, and what are the results of these discoveries on society.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم عليين - توميتو",
-    "seo_title_ar": "مشاهدة فيلم عليين مترجم اون لاين - توميتو",
-    "keywords": "فيلم عليين مترجم, مشاهدة فيلم عليين, قصة فيلم Aliens, Aliens مترجم, مشاهدة Aliens 1986, أحداث Aliens بالتفصيل, توميتو Aliens",
-    "opinion": "فيلم عليين هو فيلم إثارة رائع يلقي بظلاله على المجتمع، ويحمل رسالة مهمة عن وجود الحياة خارج الأرض.",
+    "intro": "يحكي فيلم فضائيون قصة ريبلي، الناجية الوحيدة من مواجهة قاتلة مع كائن فضائي مخيف، الذي حطم سفينة نوسترومو.",
+    "desc_ar": "يحكي فيلم فضائيون قصة ريبلي، الناجية الوحيدة من مواجهة قاتلة مع كائن فضائي مخيف، الذي حطم سفينة نوسترومو. بعد أن ظلت تائهة في الفضاء لمدة 57 عاما، تعود ريبلي إلى الأرض وتصبح جزءا من مهمة عسكرية للاستيلاء على الكوكب LV-426. وتحديدا، يتعين على ريبلي ومشات البحرية الاستعمارية استكشاف الكوكب ودراسته، مع وقوعها في معركة حتمية مع الكائنات الفضائية. في هذا الفيلم، يجدنا أنفسنا في عالم مليء بالتحديات والخطر، حيث يجب على البشر مواجهة الكائنات الفضائية وتعزيز وجودهم على الكوكب.",
+    "desc_en": "The film Aliens tells the story of Ripley, the sole survivor of a deadly encounter with a monstrous alien creature that destroyed the Nostromo spaceship. After drifting through space in hypersleep for 57 years, Ripley returns to Earth and becomes part of a military mission to take control of the planet LV-426. Specifically, Ripley and the Colonial Marines must explore the planet and study it, with the outcome being a fatal confrontation with the alien creatures. In this film, we find ourselves in a world full of challenges and danger, where humans must face the alien creatures and establish their presence on the planet.",
+    "seo_title_ar": "مشاهدة فيلم فضائيون مترجم - توميتو",
+    "meta_desc": "فيلم فضائيون 1986: ريبلي، الناجية الوحيدة من مواجهة قاتلة مع كائن فضائي مخيف، تعود إلى الأرض وتصبح جزءا من مهمة عسكرية للاستيلاء على الكوكب LV-426. استكشاف",
+    "outro": "في هذا الفيلم، يجدنا أنفسنا في عالم مليء بالتحديات والخطر، حيث يجب على البشر مواجهة الكائنات الفضائية وتعزيز وجودهم على الكوكب.",
+    "opinion_ar": "فيلم فضائيون هو تجربة رعب فريدة ومتفردة، حيث يجمع بين الخوف والتحدي، مع وقوع ريبلي في معركة حتمية مع الكائنات الفضائية. يظهر هذا الفيلم قوة البشر وهم يواجهون الكائنات الفضائية في عالم مليء بالتحديات.",
+    "opinion_en": "The film Aliens is a unique and thrilling horror experience, where fear and challenge come together, with Ripley facing a fatal confrontation with the alien creatures. This film showcases the strength of humans as they face the alien creatures in a world full of challenges.",
     "faq": [
       {
-        "q": "ما هو فيلم عليين؟",
-        "a": "فيلم عليين هو فيلم حركة إثارة خيال علمي يلقي بظلاله على المجتمع."
-      },
-      {
-        "q": "ما هو موضوع فيلم عليين؟",
-        "a": "موضوع فيلم عليين هو وجود الحياة خارج الأرض ونتائج هذه الاكتشافات على المجتمع."
-      },
-      {
-        "q": "ما هو نوع فيلم عليين؟",
-        "a": "نوع فيلم عليين هو فيلم حركة إثارة خيال علمي"
+        "q": "ما هي قصة فيلم فضائيون؟",
+        "a": "يحكي فيلم فضائيون قصة ريبلي، الناجية الوحيدة من مواجهة قاتلة مع كائن فضائي مخيف، الذي حطم سفينة نوسترومو.",
+        "q_en": "What is the story of the film Aliens?",
+        "a_en": "The film Aliens tells the story of Ripley, the sole survivor of a deadly encounter with a monstrous alien creature that destroyed the Nostromo spaceship."
       }
-    ]
+    ],
+    "keywords": "فضائيون, فيلم, ريبلي, LV-426, مشاة البحرية الاستعمارية, الكائنات الفضائية, الخوف, التحدي, الاستكشاف, الدراسة, مشاهدة فضائيون, Aliens مترجم, تحميل فضائيون, فضائيون اون لاين, Aliens"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "137 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Sigourney Weaver Carrie Henn Michael Biehn Paul Reiser Lance Henriksen"
+  "cast": "Sigourney Weaver Carrie Henn Michael Biehn Paul Reiser Lance Henriksen Bill Paxton William Hope Jenette Goldstein"
 }

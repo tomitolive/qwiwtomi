@@ -4,14 +4,12 @@
   "title_ar": "The Mighty Boosh",
   "title_en": "The Mighty Boosh",
   "slug": "7166-the-mighty-boosh",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل بوش الجبار مترجم بجودة عالية.",
   "poster_path": "/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
   "backdrop_path": "/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
   "release_date": "2004-05-18",
   "vote_average": 7.6,
-  "vote_count": 164,
+  "vote_count": 174,
   "genres": [
     {
       "id": 35,
@@ -23,33 +21,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال والفантаسيا، يلتقي القبطان فينلي وزميله كيت في مغامرة رائعة، حيث يخوضان معركة ضد قوى الظلام لإنقاذ العالم من الخراب. معسكر من الشخصيات المدهشة والقصص المدهشة، يأخذك هذا الفيلم إلى عالم من الإثارة والمرح، حيث يمكنك أن تتصور أنك أنت أيضاً جزءاً من هذه المغامرة.",
-    "desc_en": "In a world of fantasy and science fiction, Captain FInley and his friend Kit embark on a thrilling adventure, where they battle against the forces of darkness to save the world from destruction. A camp of extraordinary characters and stories, this film takes you to a world of excitement and joy, where you can imagine yourself being part of this adventure.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم الكوميديا والخيال العلمي والفانتازيا - توميتو",
-    "seo_title_ar": "مشاهدة فيلم المighty Boosh مترجم اون لاين - توميتو",
-    "keywords": "فيلم كوميديا مترجم, مشاهدة فيلم خيال علمي فانتازيا, أحداث The Mighty Boosh بالتفصيل, مشاهدة The Mighty Boosh 2004, قصة مسلسل The Mighty Boosh, The Mighty Boosh مترجم كامل, توميتو The Mighty Boosh",
-    "opinion": "هذا الفيلم هو مزيج رائع من الكوميديا والخيال العلمي والفانتازيا، حيث يمكنك أن تتصور أنك أنت أيضاً جزءاً من هذه المغامرة. الشخصيات المدهشة والقصص المدهشة تجعل من هذا الفيلم مغامرة رائعة.",
+    "intro": "استمتع بمشاهدة مسلسل The Mighty Boosh (2004) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل بوش الجبار مترجم بجودة عالية.",
+    "desc_en": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+    "seo_title_ar": "مشاهدة مسلسل The Mighty Boosh مترجم - توميتو",
+    "meta_desc": "مشاهدة بوش الجبار مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد The Mighty Boosh الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم كوميديا خيال علمي فانتازيا"
+        "q": "كيف يمكنني مشاهدة مسلسل بوش الجبار?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Mighty Boosh?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو موضوع هذا الفيلم؟",
-        "a": "يحكي عن مغامرة رائعة لإنقاذ العالم من الخراب"
+        "q": "ما هو تصنيف مسلسل بوش الجبار?",
+        "a": "يندرج العمل تحت تصنيف كوميديا, خيال علمي وفانتازيا.",
+        "q_en": "What is the genre of The Mighty Boosh?",
+        "a_en": "It falls under the genre of كوميديا, خيال علمي وفانتازيا."
       },
       {
-        "q": "ما هو نوع الشخصيات في هذا الفيلم؟",
-        "a": "شخصيات مدهشة مثل القبطان فينلي وزميله كيت"
+        "q": "ما هي قصة مسلسل بوش الجبار?",
+        "a": "",
+        "q_en": "What is the story of The Mighty Boosh?",
+        "a_en": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has ..."
       }
-    ]
+    ],
+    "keywords": "بوش الجبار مترجم, The Mighty Boosh مترجم, مشاهدة بوش الجبار,"
   },
   "fixed": true,
-  "first_air_date": "2004-05-18",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "30 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Julian Barratt Noel Fielding Michael Fielding Dave Brown",
+  "first_air_date": "2004-05-18"
 }

@@ -4,14 +4,12 @@
   "title_ar": "الحب يعود إلى المنزل",
   "title_en": "Romance in the House",
   "slug": "258707-romance-in-the-house",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "بعد أن يشهد انهيارًا في تجارته، يختفي رجل عن عائلته مدة أحد عشر عامًا… ولكن عندما يعود من جديد بصفته المالك الثري لمسكنهم، يتسبب في لمّ شمل فوضوي.",
   "poster_path": "/A79XDQ6XCk0xVkp4IAooAHMtBpD.jpg",
   "backdrop_path": "/rksm7zN5ltuayGz1db7jV1TBVIA.jpg",
   "release_date": "2024-08-10",
-  "vote_average": 7.7,
-  "vote_count": 37,
+  "vote_average": 7.8,
+  "vote_count": 39,
   "genres": [
     {
       "id": 10751,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن يشهد انهيارًا في تجارته، يختفي رجل عن عائلته مدة أحد عشر عامًا، ويتركهم يفترقون. ولكن عندما يعود من جديد بصفته المالك الثري لمسكنهم، يتسبب في لمّ شمل فوضوي. يتعقب الرجل ابنه الذي يفقد الارتباط به، ويحاول إعادة بناء علاقهما، في حين يتعقب ابنة الرجل التي تريد أن تتميز عن أبيها، ويحاول أن يفهمها. في هذه الرحلة، سوف نرى كيف يتعقب الرجل عائلته مرة أخرى، ويحاول أن يصل إلى قلوبهم.",
-    "desc_en": "After a business failure, a man disappears from his family for 11 years, leaving them to drift apart. However, when he returns as the wealthy owner of their home, he causes a whirlwind of chaos. The man chases after his son who has lost touch with him, and tries to rebuild their relationship, while his daughter wants to distance herself from her father and he tries to understand her. In this journey, we will see how the man tries to reconnect with his family again, and tries to reach their hearts.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الحب يعود إلى المنزل - توميتو",
-    "seo_title_ar": "مشاهدة فيلم الحب يعود إلى المنزل مترجم اون لاين - توميتو",
-    "keywords": "Romance in the House, فيلم عائلي مترجم, مشاهدة فيلم دراما, مشاهدة الحب يعود إلى المنزل 2024, توميتو الحب يعود إلى المنزل, الحب يعود إلى المنزل مترجم كامل, أحداث الحب يعود إلى المنزل بالتفصيل, قصة مسلسل الحب يعود إلى المنزل",
-    "opinion": "هذا الفيلم هو سرد قوي للعائلي والدراما، حيث نرى كيف يتعقب الرجل عائلته مرة أخرى، ويحاول أن يصل إلى قلوبهم. في هذه الرحلة، سوف نرى كيف يتعقب الرجل عائلته مرة أخرى، ويحاول أن يصل إلى قلوبهم.",
+    "intro": "بعد أن اختفى رجل عن عائلته مدة طويلة من الزمن، يعود إلى المنزل مع تحديات جديدة ومواقف عصيفة.",
+    "desc_ar": "يعود الحب إلى المنزل، بعد أن اختفى رجل عن عائلته مدة طويلة من الزمن. وبعد أن استقر على عرش الثراء، يجد نفسه مواجهًا مع نفسه، عندما يكتشف أنه لا يعرف عائلته . في عالم مليء بالتحولات والتحديات، يتغلب رجل على صعوبات ويهزم العقبات، ليكتشف حبًا أكبر من أي شيء آخر. وبهذا، يعود الحب إلى المنزل، مع مواجهة الحقيقة واكتشاف الأعذار، في قصة رائعة مليئة بالتحديات والمواقف العصيفة.",
+    "desc_en": "After his business crashes, a man disappears from his family for 11 years. But when he makes a return as their wealthy landlord, a messy reunion ensues. He must navigate the complexities of his new role while reconnecting with his family and confronting the past. Through trials and tribulations, he learns to love more deeply than ever before.",
+    "seo_title_ar": "مشاهدة مسلسل الحب يعود إلى المنزل مترجم - Romance House - 2024",
+    "meta_desc": "استمتع بمشاهدة مسلسل الحب يعود إلى المنزل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. قصة رومانسية عائلية تدور أحداثها في عالم مليء بالتحولات والتحديات",
+    "outro": "يعود الحب إلى المنزل، مع مواجهة الحقيقة واكتشاف الأعذار، في قصة رائعة مليئة بالتحديات والمواقف العصيفة.",
+    "opinion_ar": "قصة رومانسية عائلية رائعة، تظهر كيف يمكن أن يتغير الناس وتصبح حياتهم مختلفة تمامًا، مع إظهار الحب والجودة.",
+    "opinion_en": "A beautiful family romance that shows how people can change and their lives can become completely different, with a display of love and quality.",
     "faq": [
       {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "يحكي الفيلم قصة رجل يختفي عن عائلته مدة أحد عشر عامًا، ويحاول أن يتعقبهم مرة أخرى"
+        "q": "ما هو نوع مسلسل الحب يعود إلى المنزل؟",
+        "a": "مسلسل عائلي درامي",
+        "q_en": "What is the type of Romance in the House?",
+        "a_en": "Family Drama"
       },
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "الفيلم هو نوع عائلي ودراما"
-      },
-      {
-        "q": "ما هو المخرج؟",
-        "a": "لم يتم ذكر المخرج في هذا الفيلم"
+        "q": "ما هي حكاية مسلسل الحب يعود إلى المنزل؟",
+        "a": "يعود رجل إلى عائلته بعد غياب طويل من الزمن.",
+        "q_en": "What is the story of Romance in the House?",
+        "a_en": "A man returns to his family after a long absence."
       }
-    ]
+    ],
+    "keywords": "الحب يعود إلى المنزل, Romance House, مسلسل عائلي, دراما, 2024, مشاهدة الحب يعود إلى المنزل, Romance House مترجم, تحميل الحب يعود إلى المنزل, الحب يعود إلى المنزل اون لاين, الحب يعود إلى المنزل جودة عالية, فيلم الحب يعود إلى المنزل, Romance House HD, الحب يعود إلى المنزل HD, مسلسل الحب يعود إلى المنزل, Romance in the House مترجم"
   },
   "fixed": true,
-  "first_air_date": "2024-08-10",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "79 دقيقة",
-  "language": "el",
-  "country": "المملكة المتحدة",
-  "cast": "Petros Fyssoun Giannis Fertis Minas Christidis Katerina Vasilakou Betty Arvaniti"
+  "duration": "60 دقيقة",
+  "language": "الكورية",
+  "country": "كوريا الجنوبية",
+  "cast": "Ji Jin-hee Kim Ji-soo Son Na-eun Minho Yoon San-ha Kim Do-hyun Kim Ki-cheon Jung Woong-in",
+  "first_air_date": "2024-08-10"
 }

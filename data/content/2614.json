@@ -4,12 +4,12 @@
   "title_ar": "Innerspace",
   "title_en": "Innerspace",
   "slug": "2614-innerspace",
-  "overview": "",
+  "overview": "استمتع بمشاهدة فيلم الفضاء الداخلي مترجم بجودة عالية.",
   "poster_path": "/nuK4HEeIByWg1BSJrXAAQ4pIAJW.jpg",
   "backdrop_path": "/pM4tWr37Y2cOB0mVGmvbshKpvmP.jpg",
   "release_date": "1987-07-01",
   "vote_average": 6.8,
-  "vote_count": 1391,
+  "vote_count": 1442,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الخيال العلمي، يلتقي رجلان من مختلفي backgrounds معًا لإنشاء سفينة فضاء، ولكن ما يحدث هو أكثر من مجرد رحلة إلى الفضاء الخارجي، بل هو رحلة داخل النفس، حيث يتعرفان على أسرارهم الخاصة، ويحولان من اللاشيء إلى شيء، في رحلة مليئة بالمرح والفكاهة والتحديات.",
-    "desc_en": "In a world of science fiction, two men from different backgrounds come together to create a spaceship, but what happens is more than just a journey to outer space, it's a journey within themselves, where they discover their own secrets, and transform from nothing to something, in a journey full of joy, comedy, and challenges.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم Innerspace - حركة، كوميديا، خيال علمي!",
-    "seo_title_ar": "مشاهدة فيلم Innerspace مترجم اون لاين - توميتو",
-    "keywords": "فيلم Innerspace مترجم, مشاهدة فيلم Innerspace, قصة فيلم Innerspace, Innerspace مترجم, أحداث Innerspace بالتفصيل, مشاهدة Innerspace 1987, توميتو Innerspace",
-    "opinion": "هو فيلم رائع يجمع بين الحركة والكوميديا والخيال العلمي، في رحلة مليئة بالمرح والفكاهة والتحديات، سوف تتمتع بهذا الفيلم!",
+    "intro": "استمتع بمشاهدة فيلم Innerspace (1987) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة فيلم الفضاء الداخلي مترجم بجودة عالية.",
+    "desc_en": "Test pilot Tuck Pendleton volunteers to test a special vessel for a miniaturization experiment. Accidentally injected into a neurotic hypochondriac, Jack Putter, Tuck must convince Jack to find his ex-girlfriend, Lydia Maxwell, to help him extract Tuck and his ship and re-enlarge them before his oxygen runs out.",
+    "seo_title_ar": "مشاهدة فيلم Innerspace مترجم - توميتو",
+    "meta_desc": "مشاهدة الفضاء الداخلي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد Innerspace الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning فيلم worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو فيلم Innerspace؟",
-        "a": "هو فيلم حركة كوميديا خيال علمي يروي قصة رجلين من مختلفي backgrounds"
+        "q": "كيف يمكنني مشاهدة فيلم الفضاء الداخلي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Innerspace?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع فيلم Innerspace؟",
-        "a": "هو فيلم حركة كوميديا خيال علمي"
+        "q": "ما هو تصنيف فيلم الفضاء الداخلي?",
+        "a": "يندرج العمل تحت تصنيف حركة, كوميديا, خيال علمي.",
+        "q_en": "What is the genre of Innerspace?",
+        "a_en": "It falls under the genre of حركة, كوميديا, خيال علمي."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه فيلم Innerspace؟",
-        "a": "يحدث في عالم من الخيال العلمي"
+        "q": "ما هي قصة فيلم الفضاء الداخلي?",
+        "a": "",
+        "q_en": "What is the story of Innerspace?",
+        "a_en": "Test pilot Tuck Pendleton volunteers to test a special vessel for a miniaturization experiment. Accidentally injected into a neurotic hypochondriac, Jack Putter, Tuck must convince Jack to find his ex..."
       }
-    ]
+    ],
+    "keywords": "الفضاء الداخلي مترجم, Innerspace مترجم, مشاهدة الفضاء الداخلي,"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "120 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Dennis Quaid Martin Short Meg Ryan Kevin McCarthy Fiona Lewis"
+  "cast": "Dennis Quaid Martin Short Meg Ryan Kevin McCarthy Fiona Lewis Vernon Wells Robert Picardo Wendy Schaal"
 }

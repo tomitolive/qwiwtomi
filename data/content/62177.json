@@ -8,8 +8,8 @@
   "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
   "backdrop_path": "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
   "release_date": "2012-06-21",
-  "vote_average": 7,
-  "vote_count": 14146,
+  "vote_average": 7.0,
+  "vote_count": 14377,
   "genres": [
     {
       "id": 12,
@@ -29,26 +29,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور أحداث أسطورة مريدا في المرتفعات الاسكتلندية الغامضة حيث ميريدا هي أميرة مملكة يحكمها الملك فيرغوس والملكة إلينور. ابنة جامحة ورامية بارعة ، تتحدى ميردا ذات يوم عادة مقدسة للأرض وتجلب الاضطرابات عن غير قصد إلى المملكة.",
-    "desc_en": "The story of Brave takes place in the Scottish Highlands where Merida is the princess of a kingdom ruled by King Fergus and Queen Eleanor. A skilled and independent daughter, Merida defies tradition and brings chaos to the kingdom.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أسطورة مريدا",
-    "seo_title_ar": "مشاهدة فيلم أسطورة مريدا مترجم اون لاين - توميتو",
-    "keywords": "Brave, فيلم أسطورة مريدا مترجم, مشاهدة فيلم أسطورة مريدا, توميتو أسطورة مريدا, أحداث أسطورة مريدا بالتفصيل, أسطورة مريدا مترجم, مشاهدة أسطورة مريدا 2012, قصة فيلم أسطورة مريدا",
-    "opinion": "هو فيلم رائع يجمع بين المغامرة والكوميديا والفنتازيا، ويقدم لنا ميريدا الأميرة الجميلة والشجاعة والقوية.",
+    "intro": "يحكي فيلم أسطورة مريدا قصة شجاعة ومغامرة في أرض اسكتلندية غامضة.",
+    "desc_ar": "تحكي أسطورة مريدا قصة أميرة شجاعة ومتمرسة في فن القنص، تدور أحداثها في أرض اسكتلندية غامضة، حيث تحدّى ميريدا عادة مقدسة، ووصلت إلى ملكة مريدا هي الملكة إلينور وملكها الملك فيرغوس، وكانت ميريدا تبحث عن امرأة حكيمة عجوز، وتمليها أمنية مشؤومة، وبالتالي بدأت أحداث القصة لتستمر في النقطة التي تمليها ميريدا لامرأة الحكيمة.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم Brave أسطورة مريدا مترجم - توميتو",
+    "meta_desc": "شاهد أسطورة مريدا Brave مترجم - توميتو، فيلم مغامرة رسوم متحركة عائلي فانتازيا من عام 2012. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون",
+    "outro": "وصل الفيلم إلى نهاية ممتعة ومثيرة، مع أبطال وأبطال وأحداث غريبة ومليئة بالفانتازيا.",
+    "opinion_ar": "فيلم أسطورة مريدا Brave هو تجربة فنية ممتعة وجميلة، يجمع بين الرسوم المتحركة والفانتازيا في قصة شجاعة ومغامرة.",
+    "opinion_en": "Brave is an entertaining and visually beautiful film that combines animation and fantasy in a tale of bravery and adventure.",
     "faq": [
       {
-        "q": "ما هو فيلم أسطورة مريدا؟",
-        "a": "هو فيلم مغامرة رسوم متحركة عائلي فانتازيا يروي قصة الأميرة ميردا"
+        "q": "ما هو اسم الفيلم?",
+        "a": "أسطورة مريدا",
+        "q_en": "What is the title of the movie?",
+        "a_en": "Brave"
       },
       {
-        "q": "ما هو نوع فيلم أسطورة مريدا؟",
-        "a": "هو فيلم رسوم متحركة"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه فيلم أسطورة مريدا؟",
-        "a": "يحدث في المرتفعات الاسكتلندية الغامضة"
+        "q": "من إخراج فيلم أسطورة مريدا?",
+        "a": "مارك أندروز",
+        "q_en": "Who directed the movie Brave?",
+        "a_en": "Mark Andrews"
       }
-    ]
+    ],
+    "keywords": "أسطورة مريدا, Brave, فيلم مغامرة, رسوم متحركة, عائلي, فانتازيا, 2012, مشاهدة أسطورة مريدا, Brave مترجم, تحميل أسطورة مريدا, أسطورة مريدا اون لاين, أسطورة مريدا جودة عالية, فيلم أسطورة مريدا, Brave HD, Brave online"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -56,5 +59,5 @@
   "duration": "93 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kelly Macdonald Emma Thompson Billy Connolly Julie Walters Robbie Coltrane"
+  "cast": "Kelly Macdonald Emma Thompson Billy Connolly Julie Walters Robbie Coltrane Kevin McKidd Craig Ferguson Peigi Barker"
 }
