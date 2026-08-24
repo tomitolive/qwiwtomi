@@ -10943,8 +10943,164 @@
       "file": "70523.json",
       "title": "Dark",
       "fixed_at": "2026-08-24T05:13:43.563768"
+    },
+    {
+      "tmdb_id": "262339",
+      "file": "262339.json",
+      "title": "Anpan",
+      "fixed_at": "2026-08-24T06:01:47.128047"
+    },
+    {
+      "tmdb_id": "202297",
+      "file": "202297.json",
+      "title": "Fire Country",
+      "fixed_at": "2026-08-24T06:02:40.763160"
+    },
+    {
+      "tmdb_id": "1630409",
+      "file": "1630409.json",
+      "title": "The Debt Collector",
+      "fixed_at": "2026-08-24T06:02:49.948927"
+    },
+    {
+      "tmdb_id": "49009",
+      "file": "49009.json",
+      "title": "The Goldbergs",
+      "fixed_at": "2026-08-24T06:03:00.789219"
+    },
+    {
+      "tmdb_id": "4935",
+      "file": "4935.json",
+      "title": "قلعة هاول المتحركة",
+      "fixed_at": "2026-08-24T06:03:07.745091"
+    },
+    {
+      "tmdb_id": "38055",
+      "file": "38055.json",
+      "title": "ميجامايند",
+      "fixed_at": "2026-08-24T06:03:15.413536"
+    },
+    {
+      "tmdb_id": "65334",
+      "file": "65334.json",
+      "title": "ميراكيولوس: الدعسوقة و القط الأسود",
+      "fixed_at": "2026-08-24T06:03:22.751763"
+    },
+    {
+      "tmdb_id": "1572073",
+      "file": "1572073.json",
+      "title": "The Deadly Little Mermaid",
+      "fixed_at": "2026-08-24T06:03:52.147176"
+    },
+    {
+      "tmdb_id": "346698",
+      "file": "346698.json",
+      "title": "باربي",
+      "fixed_at": "2026-08-24T06:04:03.288806"
+    },
+    {
+      "tmdb_id": "95594",
+      "file": "95594.json",
+      "title": "Fast Furious Spy Racers",
+      "fixed_at": "2026-08-24T06:04:12.135381"
+    },
+    {
+      "tmdb_id": "585083",
+      "file": "585083.json",
+      "title": "فندق ترانسلفانيا 4 ترانسفورمينيا",
+      "fixed_at": "2026-08-24T06:04:19.616147"
+    },
+    {
+      "tmdb_id": "76669",
+      "file": "76669.json",
+      "title": "النخبة",
+      "fixed_at": "2026-08-24T06:04:54.291401"
+    },
+    {
+      "tmdb_id": "113137",
+      "file": "113137.json",
+      "title": "Girlfriend, Girlfriend",
+      "fixed_at": "2026-08-24T06:05:03.016258"
+    },
+    {
+      "tmdb_id": "10830",
+      "file": "10830.json",
+      "title": "ماتيلدا",
+      "fixed_at": "2026-08-24T06:05:14.254538"
+    },
+    {
+      "tmdb_id": "22",
+      "file": "22.json",
+      "title": "قراصنة الكاريبي - لعنة اللؤلؤة السوداء",
+      "fixed_at": "2026-08-24T06:05:23.675931"
+    },
+    {
+      "tmdb_id": "893712",
+      "file": "893712.json",
+      "title": "--",
+      "fixed_at": "2026-08-24T06:05:33.301746"
+    },
+    {
+      "tmdb_id": "1472951",
+      "file": "1472951.json",
+      "title": "Infiltrate",
+      "fixed_at": "2026-08-24T06:05:44.438981"
+    },
+    {
+      "tmdb_id": "67116",
+      "file": "67116.json",
+      "title": "Lethal Weapon",
+      "fixed_at": "2026-08-24T06:05:53.385580"
+    },
+    {
+      "tmdb_id": "1214931",
+      "file": "1214931.json",
+      "title": "Nuremberg",
+      "fixed_at": "2026-08-24T06:06:14.350666"
+    },
+    {
+      "tmdb_id": "490132",
+      "file": "490132.json",
+      "title": "الكتاب الأخضر",
+      "fixed_at": "2026-08-24T06:06:50.763610"
+    },
+    {
+      "tmdb_id": "246799",
+      "file": "246799.json",
+      "title": "المحتالان",
+      "fixed_at": "2026-08-24T06:06:57.927637"
+    },
+    {
+      "tmdb_id": "280735",
+      "file": "280735.json",
+      "title": "The Forbidden Land",
+      "fixed_at": "2026-08-24T06:07:08.100945"
+    },
+    {
+      "tmdb_id": "2919",
+      "file": "2919.json",
+      "title": "Burn Notice",
+      "fixed_at": "2026-08-24T06:07:16.734536"
+    },
+    {
+      "tmdb_id": "10853",
+      "file": "10853.json",
+      "title": "Die Einsteiger",
+      "fixed_at": "2026-08-24T06:07:24.045177"
+    },
+    {
+      "tmdb_id": "284052",
+      "file": "284052.json",
+      "title": "دكتور سترينج",
+      "fixed_at": "2026-08-24T06:07:32.008654"
+    },
+    {
+      "tmdb_id": "675353",
+      "file": "675353.json",
+      "title": "سونيك القنفذ 2",
+      "fixed_at": "2026-08-24T06:07:38.098673"
     }
   ],
-  "last_updated": "2026-08-24T05:13:45.644546",
-  "total_fixed": 1824
+  "last_updated": "2026-08-24T06:07:40.420546",
+  "total_fixed": 1850
 }

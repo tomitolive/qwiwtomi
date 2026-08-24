@@ -4,14 +4,12 @@
   "title_ar": "Fire Country",
   "title_en": "Fire Country",
   "slug": "202297-fire-country",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل بلد النار قصة رجل يهدف إلى إصلاح ذاته وخفض حكم السجن عن طريق الانضمام إلى برنامج إطفاء الحرائق، مما يعوده إلى بلده الصغير في شمال كاليفورنيا، حيث يعمل جنائباً مع أفراد من الوحدات الإطفاء المتخصصة في إخماد الحوادث الكبرى في المنطقة. يُحكم على رجل يهاب السجن وعندما يكتشف فرصته، يبحث عن إصلاح ذاته ويحصل على فرصة أخرى لاستعادة هويته. في بلد النار، يُحول رجل يهاب السجن إلى رجل يهاب الحرائق، لكنه يجد نفسه موجه نحو النجاح في محاولة لاستعادة هويته.",
   "poster_path": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
   "backdrop_path": "/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
   "release_date": "2022-10-07",
-  "vote_average": 8.1,
-  "vote_count": 171,
+  "vote_average": 8.0,
+  "vote_count": 181,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في بلد من النار، حيث القتال والدمار يسيطرون على كل شيء، تظهر شخصيات قوية تقاتل من أجل النجاة. من بينهم، هناك امرأة قوية تقاتل من أجل مهاجرتها، وتقاتل من أجل حياتها. في هذه الرحلة، سوف نرى كيف تتصارع هذه الشخصيات مع القتال والدمار، وتقاتل من أجل النجاة.",
-    "desc_en": "In a land of fire, where battles and destruction reign supreme, strong characters emerge to fight for survival. Among them, a powerful woman fights for her homeland, and for her life. In this journey, we will see how these characters struggle against the battles and destruction, and fight for survival.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بلد من النار!",
-    "seo_title_ar": "مشاهدة فيلم بلد من النار مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما جريمة مترجم, مشاهدة فيلم دراما جريمة, Fire Country مترجم كامل, أحداث Fire Country بالتفصيل, قصة مسلسل Fire Country, توميتو Fire Country, مشاهدة Fire Country 2022",
-    "opinion": "هذا الفيلم هو أفضل ما يمكن أن يحدث في عالم الدراما والجريمة. الشخصيات القوية والقصص المثيره جعلته فيلماً لا ينسى.",
+    "intro": "يحكي مسلسل بلد النار قصة رجل يهدف إلى إصلاح ذاته وخفض حكم السجن عن طريق الانضمام إلى برنامج إطفاء الحرائق.",
+    "desc_ar": "يحكي مسلسل بلد النار قصة رجل يهدف إلى إصلاح ذاته وخفض حكم السجن عن طريق الانضمام إلى برنامج إطفاء الحرائق، مما يعوده إلى بلده الصغير في شمال كاليفورنيا، حيث يعمل جنائباً مع أفراد من الوحدات الإطفاء المتخصصة في إخماد الحوادث الكبرى في المنطقة. يُحكم على رجل يهاب السجن وعندما يكتشف فرصته، يبحث عن إصلاح ذاته ويحصل على فرصة أخرى لاستعادة هويته. في بلد النار، يُحول رجل يهاب السجن إلى رجل يهاب الحرائق، لكنه يجد نفسه موجه نحو النجاح في محاولة لاستعادة هويته.",
+    "desc_en": "Seeking redemption and a shortened prison sentence, young convict Bode Donovan joins a firefighting program that returns him to his small Northern California hometown, where he and other inmates work alongside elite firefighters to extinguish massive blazes across the region.",
+    "seo_title_ar": "مشاهدة مسلسل بلد النار مترجم - دراما جريمة 2022 - توميتو",
+    "meta_desc": "شاهد مسلسل بلد النار مترجم - دراما جريمة 2022 - شاهد الآن و بدون إعلانات. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. است",
+    "outro": "يعد مسلسل بلد النار تجربة مشاهدة ممتعة ومثيرة، حيث يُحول رجل يهاب السجن إلى رجل يهاب الحرائق، لكنه يجد نفسه موجه نحو النجاح في محاولة لاستعادة هويته.",
+    "opinion_ar": "يعتبر مسلسل بلد النار تحفة فنية ممتعة ومثيرة، حيث يُحول رجل يهاب السجن إلى رجل يهاب الحرائق، لكنه يجد نفسه موجه نحو النجاح في محاولة لاستعادة هويته.",
+    "opinion_en": "Fire Country is an exciting and thrilling series that turns a man afraid of prison into a man afraid of fire, but he finds himself driven towards success in an attempt to regain his identity.",
     "faq": [
       {
-        "q": "ما هو بلد من النار؟",
-        "a": "هو فيلم دراما جريمة مترجم يروي قصة قوية تتصارع من أجل النجاة."
+        "q": "ما هو موضوع مسلسل بلد النار؟",
+        "a": "يحكي مسلسل بلد النار قصة رجل يهدف إلى إصلاح ذاته وخفض حكم السجن عن طريق الانضمام إلى برنامج إطفاء الحرائق.",
+        "q_en": "What is the subject of the Fire Country series?",
+        "a_en": "The series tells the story of a man who seeks redemption and a shortened prison sentence by joining a firefighting program."
       },
       {
-        "q": "ما هو أفضل ما في هذا الفيلم؟",
-        "a": "شخصيات قوية والقصص المثيره جعلته فيلماً لا ينسى."
-      },
-      {
-        "q": "هل يمكنني مشاهدة هذا الفيلم اون لاين؟",
-        "a": "نعم، يمكنك مشاهدة هذا الفيلم اون لاين على توميتو"
+        "q": "ما هو نوع مسلسل بلد النار؟",
+        "a": "هو مسلسل دراما جريمة.",
+        "q_en": "What type of series is Fire Country?",
+        "a_en": "It is a drama and crime series."
       }
-    ]
+    ],
+    "keywords": "بلد النار, مسلسل دراما جريمة, 2022, توميتو, بدون إعلانات, مترجم, مشاهدة بلد النار, Fire Country مترجم, تحميل بلد النار, بلد النار اون لاين, Fire Country, بلد النار جودة عالية, فيلم بلد النار, Fire Country HD, بلد النار HD"
   },
   "fixed": true,
-  "first_air_date": "2022-10-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "20 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Darla Hood Eugene 'Porky' Lee George McFarland Carl Switzer Billie Thomas"
+  "cast": "Max Thieriot Kevin Alejandro Jordan Calloway Jules Latimer Diane Farr",
+  "first_air_date": "2022-10-07"
 }
