@@ -4,14 +4,12 @@
   "title_ar": "MacGyver",
   "title_en": "MacGyver",
   "slug": "2875-macgyver",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل ماكجيفر قصة بطل لا مثيل له، Angus MacGyver، الذي يعتمد على ذكائه كأول سلاح له في عالم الغموض والمغامرة. يمتلك ماكجيفر حقيبة يومية تحتوي على الأشياء العادية التي يكتشفها أثناء رحلاته، ويستخدم هذه العناصر لتجنب الأخطار التي يخاطرون به في كل مرة.",
   "poster_path": "/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
-  "backdrop_path": "/etU3Zrl7FA20m4LvmkFvdZOUE8u.jpg",
+  "backdrop_path": "/dW58Jn2Fi29P5tC0oSJ6YWhiV9E.jpg",
   "release_date": "1985-09-29",
   "vote_average": 7.7,
-  "vote_count": 918,
+  "vote_count": 951,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المخابرات، يلقي المخترع الماهر، ميكيفر، نظرة جديدة على كيفية حل المشكلات. باستخدام مهاراته الفنية، يجد ميكيفر نفسه في منازله مع مشكلة قتل، ويحاول حلها دون involvement of the police. في هذه الرحلة، سوف نرى كيف يلقي ميكيفر نظرة جديدة على كيفية حل المشكلات.",
-    "desc_en": "In the world of espionage, the ingenious inventor, MacGyver, brings a new perspective to problem-solving. Using his technical skills, MacGyver finds himself at home with a murder mystery, and he tries to solve it without police involvement. In this journey, we'll see how MacGyver brings a new perspective to problem-solving.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل دراما حركة جريمة MacGyver!",
-    "seo_title_ar": "مشاهدة مسلسل MacGyver مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة مسلسل حركة جريمة, MacGyver مترجم كامل, قصة مسلسل MacGyver, توميتو MacGyver, مشاهدة MacGyver 1985, أحداث MacGyver بالتفصيل",
-    "opinion": "من أهم ما يملك هذا المسلسل هو قوة القصة والشخصيات، التي تجعلنا نرى العالم من زاوية مختلفة.",
+    "intro": "ما هو بطل مغامر يعتمد على ذكائه في كل مغامرة؟",
+    "desc_ar": "يحكي مسلسل ماكجيفر قصة بطل لا مثيل له، Angus MacGyver، الذي يعتمد على ذكائه كأول سلاح له في عالم الغموض والمغامرة. يمتلك ماكجيفر حقيبة يومية تحتوي على الأشياء العادية التي يكتشفها أثناء رحلاته، ويستخدم هذه العناصر لتجنب الأخطار التي يخاطرون به في كل مرة.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words. MacGyver is a secret agent whose intelligence is his most lethal weapon. Armed with a knapsack filled with everyday items he picks up during his adventures, he skillfully avoids the dangers that threaten him at every turn.",
+    "seo_title_ar": "مشاهدة مسلسل ماكجيفر مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل ماكجيفر مترجم - بالجودة العالية - بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية ورواية حقيقية. استمتع بمشاهدة هذ",
+    "outro": "استمتع بمشاهدة مسلسل ماكجيفر مترجم على توميتو، مع جودة عالية وترجمة احترافية",
+    "opinion_ar": "ماكجيفر هو بطل مغامر لا مثيل له، يستخدم عقلية مبتكرة وذكاء فائق في كل مغامرة",
+    "opinion_en": "MacGyver is a fearless hero who uses his innovative thinking and genius-level intellect to solve every challenge he faces",
     "faq": [
       {
-        "q": "ما هو هدف المسلسل؟",
-        "a": "يهدف المسلسل إلى عرض كيفية حل المشكلات من خلال مهارات الفنية."
-      },
-      {
-        "q": "ما هو نوع المسلسل؟",
-        "a": "هو مسلسل دراما حركة جريمة."
-      },
-      {
-        "q": "ما هو أهم ما يملك هذا المسلسل؟",
-        "a": "قوة القصة والشخصيات"
+        "q": "ما هي قصة مسلسل ماكجيفر؟",
+        "a": "يحكي المسلسل قصة بطل مخضرم يعتمد على ذكائه في كل مغامرة.",
+        "q_en": "What is the story of MacGyver?",
+        "a_en": "The series follows the story of a seasoned hero who relies on his intelligence in every adventure."
       }
-    ]
+    ],
+    "keywords": "ماكجيفر, مسلسل, دراما, حركة ومغامرة, جريمة, Angus MacGyver, بطل مغامر, ذكاء فائق, مشاهدة ماكجيفر, MacGyver مترجم, تحميل ماكجيفر, ماكجيفر اون لاين, MacGyver, ماكجيفر جودة عالية, فيلم ماكجيفر"
   },
   "fixed": true,
-  "first_air_date": "1985-09-29",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Richard Dean Anderson Dana Elcar",
+  "first_air_date": "1985-09-29"
 }

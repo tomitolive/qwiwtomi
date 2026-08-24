@@ -4,13 +4,11 @@
   "title_ar": "ليل",
   "title_en": "Layl",
   "slug": "308689-layl",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يروي العمل قصة حب تجمع بين ابنة سفير ورجل فقير، تفرق بينهما الظروف، قبل أن يجتمعا مجددًا بعد سنوات ويتجدد حبهما.",
   "poster_path": "/5Fj7gDqNWcslqwDYwlYYPGPYhGG.jpg",
   "backdrop_path": "/2ux7clwjnljBEskOP45meNt4CQ9.jpg",
   "release_date": "2025-12-28",
-  "vote_average": 10,
+  "vote_average": 10.0,
   "vote_count": 3,
   "genres": [
     {
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالعديد من الأحداث، تكتشف ابنة سفير حبها الحقيقي مع رجل فقير، لكن الظروف تفرق بينهما، وتجدهم مجددًا بعد سنوات، حيث يجدون أن حبهم لم يفقد قوته، بل زاد من قوة وشدتهما.",
-    "desc_en": "In a world filled with many events, the daughter of a diplomat discovers her true love with a poor man, but circumstances tear them apart, and they find each other again after years, where they find that their love has not lost its strength, but has increased its power and intensity.",
-    "meta_desc": "واش غيفلت؟ اكتشف قصة حب الإثارة بين ابنة سفير ورجل فقير في ليل",
-    "seo_title_ar": "مشاهدة فيلم ليل مترجم اون لاين - توميتو",
-    "keywords": "Layl, فيلم ليل مترجم, مشاهدة فيلم ليل, قصة مسلسل ليل, مشاهدة ليل 2025, ليل مترجم كامل, أحداث ليل بالتفصيل, توميتو ليل",
-    "opinion": "ليلة تملأ القلوب بالحب والمرارة، حيث تكتشف ابنة سفير حبها الحقيقي مع رجل فقير، لكن الظروف تفرق بينهما، وتجدهم مجددًا بعد سنوات، حيث يجدون أن حبهم لم يفقد قوته، بل زاد من قوة وشدتهما.",
+    "intro": "في عالم مليء بالحب والفقدان، يأتي مسلسل ليل ليحكي قصة حب قوية تجمع بين أبناء السفير والفقراء.",
+    "desc_ar": "يحكي مسلسل ليل قصة حب قوية تجمع بين ابنة سفير وتلميذ فقير فيما بينهما، تفرق بينهما الظروف الصعبة، لكن بعد سنوات تجمعهم مرة أخرى ويتجدد حبهما، لكن السر الذي يخفيهها هذه المرة يغير كل شيء",
+    "desc_en": "The daughter of a diplomat and the son of a humble farmer share a love that crosses every boundary until fate separates them. Years later she returns, carrying secrets that recast everything they once shared in a darker light. Starring Mahmoud Nasr and Carmen Bsaibes, it's a faster-paced, culturally adapted take on one of Turkish drama's most beloved love stories.",
+    "seo_title_ar": "مشاهدة مسلسل ليل مترجم - ليل - ليلة الحب",
+    "meta_desc": "استمتع بمشاهدة مسلسل ليل مترجم بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. حب لا يفرق بين أبناء السفير والفقراء، لكن السر الذي يخفيهه يغير كل شيء.",
+    "outro": "رغم بعض الضعف في القصة، إلا أن المسلسل يبهرنا بجمال الأجواء والديكورات، ويتمنى أن يجد قصة أكثر تعقيداً في المستقبل.",
+    "opinion_ar": "حسناً في الأجواء والديكورات، لكن القصة تتدحرج قليلاً في بعض الأحيان.",
+    "opinion_en": "The show has a great atmosphere and decorations, but the story falters in some parts.",
     "faq": [
       {
-        "q": "ما هو ليل؟",
-        "a": "ليلة تروي قصة حب تجمع بين ابنة سفير ورجل فقير."
+        "q": "ما هي قصة مسلسل ليل؟",
+        "a": "يحكي مسلسل ليل قصة حب قوية تجمع بين ابنة سفير وتلميذ فقير فيما بينهما، تفرق بينهما الظروف الصعبة، لكن بعد سنوات تجمعهم مرة أخرى ويتجدد حبهما، لكن السر الذي يخفيهها هذه المرة يغير كل شيء.",
+        "q_en": "What is the story of Layl?",
+        "a_en": "The show follows the story of a love that crosses every boundary until fate separates them. Years later she returns, carrying secrets that recast everything they once shared in a darker light."
       },
       {
-        "q": "ما هو نوع ليل؟",
-        "a": "ليلة هو دراما"
-      },
-      {
-        "q": "ما هو سبب فراق ابنة سفير ورجل فقير؟",
-        "a": "الظروف تفرق بينهما"
+        "q": "من بطولة مسلسل ليل؟",
+        "a": "بطولة مسلسل ليل تشمل محمود نصر و كارمن بسعيبس.",
+        "q_en": "Who are the cast of Layl?",
+        "a_en": "The show is starring Mahmoud Nasr and Carmen Bsaibes."
       }
-    ]
+    ],
+    "keywords": "مسلسل, دراما, حب, ليل, Layl, محمود نصر, Carmen Bsaibes, مشاهدة ليل, Layl مترجم, تحميل ليل, ليل اون لاين, ليل جودة عالية, فيلم ليل, Layl HD, Layl online"
   },
   "fixed": true,
-  "first_air_date": "2025-12-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "22 دقيقة",
-  "language": "kk",
-  "country": "كازاخستان",
-  "cast": "-"
+  "duration": "45 دقيقة",
+  "language": "العربية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Mahmoud Nasr Carmen Bsaibes Sabah Jazairi Wissam Fares Joe Trad",
+  "first_air_date": "2025-12-28"
 }

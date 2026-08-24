@@ -4,14 +4,12 @@
   "title_ar": "The Epoch of Miyu",
   "title_en": "The Epoch of Miyu",
   "slug": "281231-the-epoch-of-miyu",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل عصر ميو قصة امرأة صينية تكتشف زنا زوجها المحتمل وتحترم قرارها بإنهاء الزواج وتحصل على عمل في فندق تحت إشراف مدير فندق ساعده سابقًا في إخفاء الفساد الزوجي. يتعامل هذا العمل مع التحديات التي تواجه المرأة في المجتمع الصيني، حيث تتعرض للقهر والاستئثار في ظل مناخ من العدوانية والاستبداد. تشهد هذه القصة أيضًا تنفيذًا حقيقيًا لمبادئ المرأة الصينية في تحقيق الاستقلالية والمساواة في المجتمع.",
   "poster_path": "/gxmCLcmFoi5ZNZ5iPlT6jDcZzuW.jpg",
   "backdrop_path": "/prYJ8pqjylUAyY8PukxPp1WoMg5.jpg",
   "release_date": "2026-04-13",
-  "vote_average": 9,
-  "vote_count": 1,
+  "vote_average": 9.0,
+  "vote_count": 2,
   "genres": [
     {
       "id": 18,
@@ -20,36 +18,37 @@
     {
       "id": 10751,
       "name": "عائلي"
+    },
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الغرابة والمرحلة، يلقي Miyu نظرةً على الماضي وتحديدًا على عائلتها التي كانت تملك مزارعًا كبيرًا. من خلال رحلاته إلى الماضي، يكتشف Miyu أسرارً كثيرةً عن عائلته وهمومها، مما يجعله يفهم أفضلً ما يحدث اليوم،",
-    "desc_en": "In a world of wonder and nostalgia, Miyu takes a look at the past, specifically at his family that once owned a large farm. Through his journeys to the past, Miyu discovers many secrets about his family and their struggles, which helps him understand better what's happening today,",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عهد Miyu",
-    "seo_title_ar": "مشاهدة فيلم Miyu مترجم اون لاين - توميتو",
-    "keywords": "فيلم Miyu مترجم, مشاهدة فيلم Miyu, أحداث The Epoch of Miyu بالتفصيل, The Epoch of Miyu مترجم كامل, قصة مسلسل The Epoch of Miyu, مشاهدة The Epoch of Miyu 2026, توميتو The Epoch of Miyu",
-    "opinion": "هو فيلم دراما عائلي رائع، يلقي الضوء على أهمية العائلة والمرحلة في حياتنا",
+    "intro": "يتناول مسلسل عصر ميو تحديات المرأة في المجتمع الصيني، حيث تتعرض للقهر والاستئثار في ظل مناخ من العدوانية والاستبداد.",
+    "desc_ar": "يحكي مسلسل عصر ميو قصة امرأة صينية تكتشف زنا زوجها المحتمل وتحترم قرارها بإنهاء الزواج وتحصل على عمل في فندق تحت إشراف مدير فندق ساعده سابقًا في إخفاء الفساد الزوجي. يتعامل هذا العمل مع التحديات التي تواجه المرأة في المجتمع الصيني، حيث تتعرض للقهر والاستئثار في ظل مناخ من العدوانية والاستبداد. تشهد هذه القصة أيضًا تنفيذًا حقيقيًا لمبادئ المرأة الصينية في تحقيق الاستقلالية والمساواة في المجتمع.",
+    "desc_en": "After discovering that her wealthy husband has been unfaithful, a Chinese housewife resolutely divorces him and makes ends meet by working from the bottom up at a hotel, which is to be presided over by the hotel manager who previously tried to help her husband cover up his infidelity. This drama explores the challenges faced by women in Chinese society, where they are subjected to oppression and exploitation in a culture of aggression and dominance. The story also showcases the real implementation of Chinese women's principles in achieving independence and equality in society.",
+    "seo_title_ar": "مشاهدة مسلسل عصر ميو مترجم - توميتو",
+    "meta_desc": "عصر ميو, مسلسل درامي عائلي, يروي قصة امرأة صينية تقرر إنهاء زواجها وتبني حياة مستقلة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزع",
+    "outro": "يُعد مسلسل عصر ميو تجربة مشاهدة فريدة، حيث يركز على تحديات المرأة في المجتمع الصيني ويقدم تصورًا واقعيًا عن الحياة في الصين.",
+    "opinion_ar": "يعد مسلسل عصر ميو تجربة مشاهدة فريدة، حيث يركز على تحديات المرأة في المجتمع الصيني. يُعد هذا العمل استثنائيًا لما يتعامل معه من قضايا اجتماعية، ويقدم تصورًا واقعيًا عن الحياة في الصين.",
+    "opinion_en": "The Epoch of Miyu is a unique viewing experience, focusing on the challenges faced by women in Chinese society. This drama is exceptional in addressing social issues and providing a realistic portrayal of life in China.",
     "faq": [
       {
-        "q": "ما هو فيلم Miyu؟",
-        "a": "هو فيلم دراما عائلي رائع يلقي الضوء على أهمية العائلة والمرحلة في حياتنا"
-      },
-      {
-        "q": "ما هو نوع فيلم Miyu؟",
-        "a": "هو فيلم دراما عائلي"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه فيلم Miyu؟",
-        "a": "يحدث في عالم من الغرابة والمرحلة"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يتناول مسلسل عصر ميو تحديات المرأة في المجتمع الصيني.",
+        "q_en": "What is the subject of the drama?",
+        "a_en": "The drama explores the challenges faced by women in Chinese society."
       }
-    ]
+    ],
+    "keywords": "عصر ميو, المسلسل, دراما, عائلي, أوبرا صابونية, تحديات المرأة, المجتمع الصيني, استقلالية, مساواة, مشاهدة عصر ميو, The Epoch Miyu مترجم, تحميل عصر ميو, عصر ميو اون لاين, The Epoch Miyu, عصر ميو جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2026-04-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "89 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "الصين",
+  "cast": "Wallace Chung Zhu Zhu Li Meng Jing Chao Ren Bin Guo Xiaoting Kornchid Boonsathitpakdee Joe Xu",
+  "first_air_date": "2026-04-13"
 }

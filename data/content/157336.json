@@ -4,12 +4,12 @@
   "title_ar": "بين النجوم",
   "title_en": "Interstellar",
   "slug": "157336-interstellar",
-  "overview": "كان مستقبل الأرض مليئًا بالكوارث والمجاعات والجفاف. لا توجد سوى طريقة واحدة لضمان بقاء البشرية: السفر بين النجوم. يسمح ثقب دودي تم اكتشافه حديثًا في أقاصي نظامنا الشمسي بفريق من رواد الفضاء بالذهاب إلى مكان لم يسبق له مثيل من قبل ، وهو كوكب قد يكون لديه البيئة المناسبة للحفاظ على حياة الإنسان.",
+  "overview": "يعيش كوبر، رائد الفضاء السابق الذي يعمل مزارعًا، في مستقبل تعاني فيه الأرض من أزمات بيئية تهدد بقاء البشرية. عندما يكتشف وجود طريق غامض عبر الفضاء، ينضم إلى مهمة سرية لاستكشاف عوالم بعيدة يمكن أن توفر للبشرية فرصة جديدة للحياة. يسافر كوبر مع فريق من العلماء عبر ثقب دودي بالقرب من زحل، ويواجهون كواكب مجهولة وظروفًا قاسية تجعل مرور الوقت مختلفًا عن الأرض. وبينما يحاول كوبر إنقاذ مستقبل البشرية، يظل أكبر دافع له هو العودة إلى أطفاله، لتتحول رحلته إلى صراع بين العلم والوقت والحب.",
   "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-  "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+  "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
   "release_date": "2014-11-05",
   "vote_average": 8.5,
-  "vote_count": 39802,
+  "vote_count": 40876,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالكوارث والمجاعات والجفاف، يبقى البشرية على قيد الحياة من خلال السفر بين النجوم. ويسمح ثقب دودي تم اكتشافه حديثًا في أقاصي نظامنا الشمسي بفريق من رواد الفضاء بالذهاب إلى مكان لم يسبق له مثيل من قبل ، وهو كوكب قد يكون لديه البيئة المناسبة للحفاظ على حياة الإنسان.",
-    "desc_en": "In a world filled with catastrophes and chaos, humanity's only hope for survival lies in interstellar travel. A recently discovered wormhole in the far reaches of our solar system allows a team of space explorers to venture to a new and potentially habitable planet.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم المغامرة والدراما والخيال العلمي بين النجوم",
-    "seo_title_ar": "مشاهدة فيلم بين النجوم مترجم اون لاين - توميتو",
-    "keywords": "Interstellar, فيلم بين النجوم مترجم, مشاهدة فيلم مغامرة, أحداث بين النجوم بالتفصيل, قصة فيلم بين النجوم, توميتو بين النجوم, بين النجوم مترجم, مشاهدة بين النجوم 2014",
-    "opinion": "هو فيلم رائع يلقي الضوء على مستقبلنا ويوحيدنا مع الفضاء. أليس هذا الفيلم رائع؟",
+    "intro": "في مستقبل مريب يتعرض لهدم بيئي يهدد بقاء البشرية، يذهب رائد فضاء سابق في مهمة استكشافية عبر الفضاء.",
+    "desc_ar": "يحكي فيلم بين النجوم قصة رائد فضاء سابق، كوبر، الذي يعيش في مستقبل يتعرض لهدم بيئي يهدد بقاء البشرية. في محاولة لإنقاذ مستقبلنا، يُرسل كوبر في مهمة سرية لاستكشاف عوالم بعيدة عبر طريق غامض في الفضاء. في رحلته، يواجه كوبر عواقب قاسية من ظروف الفضاء المجهولة ووقت مرور مختلف، ويتحول دافعه الرئيسي إلى العودة إلى أطفاله، لتتحول رحلته إلى صراع بين العلم والوقت والحب.",
+    "desc_en": "The film Interstellar tells the story of a former astronaut, Cooper, who lives in a future where the Earth is facing an environmental disaster that threatens humanity's existence. In an attempt to save our future, Cooper is sent on a secret mission to explore distant worlds through a mysterious wormhole in space. In his journey, Cooper faces the harsh consequences of the unknown space conditions and the different passage of time, and his main drive becomes to return to his children, turning his journey into a struggle between science, time, and love.",
+    "seo_title_ar": "مشاهدة فيلم بين النجوم مترجم - توميتو",
+    "meta_desc": "بين النجوم فيلم خيال علمي يروي قصة رائد فضاء في مهمة استكشافية عبر الفضاء، يبحث عن مستقبل جديد للبشرية. يتعرض للظروف القاسية في الفضاء ويحاول العودة إلى أط",
+    "outro": "يحكي فيلم بين النجوم قصة رائد فضاء سابق، كوبر، الذي يعيش في مستقبل يتعرض لهدم بيئي يهدد بقاء البشرية.",
+    "opinion_ar": "يعد فيلم بين النجوم تجربة فنية مدهشة، يجمع بين العلم والخيال في قصة رائعة.",
+    "opinion_en": "Interstellar is a visually stunning film, combining science and fantasy in a thrilling story.",
     "faq": [
       {
-        "q": "ما هو فيلم بين النجوم؟",
-        "a": "هو فيلم مغامرة ودراما خيال علمي يلقي الضوء على مستقبلنا"
+        "q": "ما هو قصة فيلم بين النجوم؟",
+        "a": "يحكي فيلم بين النجوم قصة رائد فضاء سابق، كوبر، الذي يعيش في مستقبل يتعرض لهدم بيئي يهدد بقاء البشرية.",
+        "q_en": "What is the story of Interstellar?",
+        "a_en": "Interstellar tells the story of a former astronaut, Cooper, who lives in a future where the Earth is facing an environmental disaster that threatens humanity's existence."
       },
       {
-        "q": "ما هو ثقب دودي؟",
-        "a": "هو ثقب دودي هو ممر في الفضاء يسمح لرواد الفضاء بالسفر إلى أماكن جديدة"
+        "q": "لماذا يذهب كوبر في مهمة استكشافية؟",
+        "a": "يذهب كوبر في مهمة استكشافية لإنقاذ مستقبل البشرية من الأزمات البيئية.",
+        "q_en": "Why does Cooper go on a mission?",
+        "a_en": "Cooper goes on a mission to save humanity's future from environmental disasters."
       },
       {
-        "q": "ما هو هدف فيلم بين النجوم؟",
-        "a": "هو هدف الفيلم هو الحفاظ على حياة الإنسان من خلال السفر بين النجوم"
+        "q": "ما هي عواقب رحلة كوبر؟",
+        "a": "تعرض رحلة كوبر للظروف القاسية في الفضاء، والوقت المرور المختلف، والمواقف المجهولة.",
+        "q_en": "What are the consequences of Cooper's journey?",
+        "a_en": "Cooper's journey faces harsh conditions in space, different passage of time, and unknown situations."
       }
-    ]
+    ],
+    "keywords": "فيلم بين النجوم, فيلم خيال علمي, بين النجوم, فيلم العلم, فيلم الفضاء, فيلم المستقبل, بين النجوم مترجم, بين النجوم كامل, مشاهدة بين النجوم, Interstellar مترجم, تحميل بين النجوم, بين النجوم اون لاين, Interstellar, بين النجوم جودة عالية, Interstellar HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "169 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Matthew McConaughey Anne Hathaway Michael Caine Jessica Chastain Casey Affleck"
+  "cast": "Matthew McConaughey Anne Hathaway Michael Caine Jessica Chastain Casey Affleck Wes Bentley Topher Grace Mackenzie Foy"
 }

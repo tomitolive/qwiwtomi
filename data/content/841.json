@@ -1,49 +1,53 @@
 {
   "id": 841,
-  "title": "Newsnight",
-  "title_ar": "Newsnight",
-  "title_en": "Newsnight",
-  "slug": "841-newsnight",
-  "overview": "مسلسل \"ليلة الأخبار\" هو برنامج شؤون حالية يومي على قناة BBC، يركز على التحليل ويمتاز بأسلوبه القوي في استجواب كبار السياسيين. يغطي البرنامج الأحداث الجارية ويستضيف شخصيات بارزة لمناقشة القضايا الهامة.",
+  "title": "Dune",
+  "title_ar": "Dune",
+  "title_en": "Dune",
+  "slug": "841-dune",
+  "overview": "يحكي فيلم الكثبان الرملية قصة معادلة الحياة في الكون، حيث يعتبر التوابل المسمى ميلانج المادة الأكثر قيمة في الكون. يسهم التوابل في تمديد العمر وتوسيع الوعي، ويتطلب جاذبية الفضاء لتحقيق الهجرة الفضائية. يوجد التوابل على واحد فقط من جميع الكواكب، وهي كوكب الصحراء الواسعة Arrakis، المعروف أيضًا باسم الكثبان الرملية. يعتقد سكان الصحراء الأصليون، الفريمان، أن رجلًا سيأتي، مسيحًا سيقودهم إلى الحرية الحقة.",
   "poster_path": "/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-  "backdrop_path": "/nI3tKuIqtSA0efUA8pe2BZz3Efm.jpg",
-  "release_date": "1980-01-30",
-  "vote_average": 6.0,
-  "vote_count": 12,
+  "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+  "release_date": "1984-12-14",
+  "vote_average": 6.2,
+  "vote_count": 3512,
   "genres": [
     {
-      "id": 10763,
-      "name": "أخبار"
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Newsnight (1980) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"ليلة الأخبار\" هو برنامج شؤون حالية يومي على قناة BBC، يركز على التحليل ويمتاز بأسلوبه القوي في استجواب كبار السياسيين. يغطي البرنامج الأحداث الجارية ويستضيف شخصيات بارزة لمناقشة القضايا الهامة.",
-    "desc_en": "Newsnight, a BBC Television series, offers a daily dose of current affairs analysis. The program excels at robustly cross-examining senior politicians, providing an insightful look at global news.",
-    "seo_title_ar": "مشاهدة مسلسل ليلة الأخبار Newsnight مترجم - توميتو",
-    "meta_desc": "ليلة الأخبار: مسلسل BBC الإخباري التحليلي، يستضيف كبار السياسيين ويغطي الأحداث العالمية. Newsnight يقدم نظرة ثاقبة للأخبار.",
-    "outro": "شاهد Newsnight الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "ليلة الأخبار، برنامج إخباري متميز، يسلط الضوء على الأحداث الجارية بأسلوب تحليلي رائع. يستحق المشاهدة!",
-    "opinion_en": "Newsnight is a must-watch for its insightful analysis and robust interviews. A great BBC series for current affairs enthusiasts.",
+    "intro": "يحكي فيلم الكثبان الرملية قصة معادلة الحياة في الكون، حيث يعتبر التوابل المسمى ميلانج المادة الأكثر قيمة في الكون.",
+    "desc_ar": "يحكي فيلم الكثبان الرملية قصة معادلة الحياة في الكون، حيث يعتبر التوابل المسمى ميلانج المادة الأكثر قيمة في الكون. يسهم التوابل في تمديد العمر وتوسيع الوعي، ويتطلب جاذبية الفضاء لتحقيق الهجرة الفضائية. يوجد التوابل على واحد فقط من جميع الكواكب، وهي كوكب الصحراء الواسعة Arrakis، المعروف أيضًا باسم الكثبان الرملية. يعتقد سكان الصحراء الأصليون، الفريمان، أن رجلًا سيأتي، مسيحًا سيقودهم إلى الحرية الحقة.",
+    "desc_en": "The movie Dune tells a story of a balance of life in the universe, where the spice called Melange is the most valuable substance in the universe. The spice extends life and expands consciousness, and is vital for interstellar travel. The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune. The native inhabitants of the planet, the Fremen, believe that a man will come, a messiah who will lead them to true freedom.",
+    "seo_title_ar": "مشاهدة فيلم الكثبان الرملية مترجم - توميتو",
+    "meta_desc": "شاهد فيلم الكثبان الرملية 1984 مترجم - توميتو، فيلم حركة خيال علمي مغامرة، يروي قصة التوابل المهمة في الكون، على كوكب الصحراء الواسعة Arrakis، المعروف أيض",
+    "outro": "يعتبر فيلم الكثبان الرملية من الأفلام الرائعة في مجال الخيال العلمي، حيث يقدم قصة معادلة الحياة في الكون بجمال وعمق.",
+    "opinion_ar": "يعتبر فيلم الكثبان الرملية من الأفلام الرائعة في مجال الخيال العلمي، حيث يقدم قصة معادلة الحياة في الكون بجمال وعمق.",
+    "opinion_en": "Dune is one of the greatest films in the science fiction genre, where it presents a story of a balance of life in the universe with beauty and depth.",
     "faq": [
       {
-        "q": "ما هو ليلة الأخبار؟",
-        "a": "ليلة الأخبار هو برنامج شؤون حالية يومي على قناة BBC، يركز على التحليل والأخبار العالمية.",
-        "q_en": "What is Newsnight?",
-        "a_en": "Newsnight is a BBC Television current affairs program, offering daily analysis and coverage of global news."
+        "q": "ما هو فيلم الكثبان الرملية؟",
+        "a": "فيلم الكثبان الرملية هو فيلم حركة خيال علمي مغامرة يروي قصة التوابل المهمة في الكون.",
+        "q_en": "What is the movie Dune?",
+        "a_en": "Dune is a science fiction film that tells a story of a balance of life in the universe."
       }
     ],
-    "keywords": "ليلة الأخبار, Newsnight, BBC, برنامج إخباري, تحليل, شؤون حالية, سياسة, أخبار عالمية"
+    "keywords": "الكثبان الرملية, فيلم, حركة, خيال علمي, مغامرة, دوني, Arrakis, التوابل, ميلانج, الفريمان, ما الذي يجعل الكثبان الرملية تنتقل من مكان إلى آخر, من نتائج عملية الإرساب تكون الكثبان الرملية, تنتشر الكثبان الرملية في وطني, اي عوامل التعرية التالية يكون الكثبان الرملية, مشاهدة الكثبان الرملية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "50 دقيقة",
+  "duration": "136 دقيقة",
   "language": "الإنجليزية",
-  "country": "المملكة المتحدة",
-  "cast": "",
-  "first_air_date": "1980-01-30",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Kyle MacLachlan Francesca Annis Patrick Stewart Linda Hunt José Ferrer Freddie Jones Brad Dourif Richard Jordan"
 }

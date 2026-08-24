@@ -9,7 +9,7 @@
   "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
   "release_date": "2019-07-26",
   "vote_average": 7.9,
-  "vote_count": 861,
+  "vote_count": 933,
   "genres": [
     {
       "id": 16,
@@ -25,32 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم يخيم عليه الخوف والرعب، ولد صبي يمتلك قوى خارقة وغير عادية، ويقرر أن يذهب إلى معسكر الشياطين لإنقاذ مجتمعه الذين يخافون من خطر أولئك الشياطين، ويبدأ رحلة مغامرة مليئة بال-action والفانتازيا.",
-    "desc_en": "In a world shrouded by fear and terror, a boy is born with extraordinary and unordinary powers, and decides to go to the devil's camp to save his community who are afraid of the danger posed by those devils, and begins a thrilling adventure filled with action and fantasy.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم ناا مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم ناا مترجم اون لاين - توميتو",
-    "keywords": "Ne Zha, فيلم رسوم متحركة مترجم, مشاهدة فيلم فانتازيا, مشاهدة ناا 2019, أحداث ناا بالتفصيل, قصة فيلم ناا, ناا مترجم, توميتو ناا",
-    "opinion": "هو فيلم رائع يجمع بين الفانتازيا والaction، ويحولك إلى عالم مليء بالرعب والخوف، ويجعلك تشعر بالمرحلة والتشويق",
+    "intro": "ينطلق هذا العمل الفني في عالم مليء بالعجائب والغرائب، حيث يُولد صبي يُسمى ناا.",
+    "desc_ar": "ينطلقنا في هذا العمل الفني في عالم مليء بالعجائب والغرائب، حيث يُولد صبي يُسمى ناا، يمتلك قدرات خارقة وغير عادية. يُحتفظ بموهته السرية في عالم يخاف الناس من خطر الشياطين. يُشير هذا العمل إلى تأويلات ومغامرات الشاب ناا في رحلته للعيش بين العالمين، ويتعامل مع المخاطر التي يواجها، في رحلة يخاطره بها مستقبله.",
+    "desc_en": "In this artistic work, we follow the story of a young boy named Ne Zha, who is born with extraordinary and unique abilities. He is kept hidden from the world, which fears the threat of demons. This film explores the boy's journey to live between two worlds, as he navigates the dangers that come his way, and risks his fate.",
+    "seo_title_ar": "مشاهدة فيلم ناا مترجم - Ne Zha - 2019",
+    "meta_desc": "ناا فيلم رسوم متحركة فانتازيا مغامرة 2019 استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يتعامل هذا العمل مع المخاطر التي يواجها الشاب ناا في رحلته للعيش بين العالمين، ويتعامل مع مستقبله في رحلة مليئة بالتحديات.",
+    "opinion_ar": "يعد هذا العمل فناً من الفنون التي تحكي قصة الشباب العجيب وذكائه الفريد، وتحدياته المستمرة في العالم الذي يخاف منه.",
+    "opinion_en": "This film is an art form that tells the story of the extraordinary young boy, Ne Zha, and his unique abilities, as well as the challenges he faces in a world that fears him.",
     "faq": [
       {
-        "q": "ما هو فيلم ناا؟",
-        "a": "هو فيلم رسوم متحركة فانتازي يروي قصة صبي يمتلك قوى خارقة"
+        "q": "ما هو تاريخ إصدار فيلم ناا؟",
+        "a": "تم إصدار فيلم ناا في عام 2019.",
+        "q_en": "When was the movie Ne Zha released?",
+        "a_en": "The movie Ne Zha was released in 2019."
       },
       {
-        "q": "ما هو نوع فيلم ناا؟",
-        "a": "هو فيلم رسوم متحركة فانتازي مغامرة"
-      },
-      {
-        "q": "هل فيلم ناا مترجم؟",
-        "a": "نعم، فيلم ناا مترجم اون لاين على توميتو"
+        "q": "ما هي فئات الفيلم؟",
+        "a": "يتناول فيلم ناا الفئات الرسوم المتحركة والفانتازيا والمغامرة.",
+        "q_en": "What are the genres of the movie?",
+        "a_en": "The movie Ne Zha explores the genres of animation, fantasy, and adventure."
       }
-    ]
+    ],
+    "keywords": "ناا, فيلم رسوم متحركة, فانتازيا, مغامرة, 2019, رسوم متحركة فانتازيا مغامرة, مشاهدة ناا, Ne Zha مترجم, تحميل ناا, ناا اون لاين, Ne Zha, ناا جودة عالية, فيلم ناا, Ne Zha HD, ناا HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "110 دقيقة",
-  "language": "الصينية",
+  "language": "الإنجليزية",
   "country": "الصين",
-  "cast": "Lu Yanting Joseph Han Mo Chen Hao Lu Qi"
+  "cast": "Lu Yanting Joseph Han Mo Chen Hao Lu Qi Zhang Jiaming Yang Wei He Yuxiang"
 }

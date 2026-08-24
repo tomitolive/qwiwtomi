@@ -4,9 +4,7 @@
   "title_ar": "Kaeloo",
   "title_en": "Kaeloo",
   "slug": "42042-kaeloo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل كيالو قصة مجموعة من الحيوانات السعيدة في بلد الأشكال المُحَرّكة، حيث يخلقون ألعابًا متعددة لتفادي الجدل، وتلك الألعاب تبرز شخصيات الحيوانات وذكرياتهم الممتعة معًا. يُظهر المسلسل أن العقل والابتكار يمكن أن يخلقوا عالمًا من الفن واللعب، حيث يتم تجميع الحيوانات من أجل إنشاء ألعاب جديدة وتشجيعهم على الابتكار. يُضيف المسلسل عنصرًا من الفن والجمال، حيث يظهر البطل الرئيسي، كيالو، بالذكاء والابتكار، ويتفاعل مع الحيوانات الأخرى لخلق عالمًا من الألعاب والترفيه.",
   "poster_path": "/bLNNKronAXF7Y0Cge33bO6BSJUi.jpg",
   "backdrop_path": "/rtIMwra4RWbXE1WrAd8ctOjvyEM.jpg",
   "release_date": "2010-06-07",
@@ -31,27 +29,36 @@
     }
   ],
   "ai_content": {
-    "intro": "هل تبحث عن عالم من السحر والمرح لمشاركته مع أطفالك؟",
-    "desc_ar": "في عالم مليء بالمرحلة والفكاهة، يلتقينا كالو، الفتاة ذات الشعر الأحمر، التي تملك القوة المدهشة لتحويل أي شيء إلى أي شيء آخر، مع صديقها المخلص شينو، في مغامات مليئة بالمرحلة والفكاهة، في هذه السلسلة المتميزة من رسوم متحركة",
-    "seo_title_ar": "مشاهدة فيلم كالو مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع كالو!",
-    "outro": "إذا كنت تبحث عن مسلسل رسوم متحركة يجمع بين المرح والخيال، فإن Кило هو الخيار الأمثل",
-    "opinion": "هي سلسلة رسوم متحركة رائعة، مليئة بالمرحلة والفكاهة، وهي مثالية لجميع أطفالنا الأعزاء",
+    "intro": "يُظهر مسلسل كيالو قصة مجموعة من الحيوانات السعيدة في بلد الأشكال المُحَرّكة، حيث يخلقون ألعابًا متعددة لتفادي الجدل.",
+    "desc_ar": "يحكي مسلسل كيالو قصة مجموعة من الحيوانات السعيدة في بلد الأشكال المُحَرّكة، حيث يخلقون ألعابًا متعددة لتفادي الجدل، وتلك الألعاب تبرز شخصيات الحيوانات وذكرياتهم الممتعة معًا. يُظهر المسلسل أن العقل والابتكار يمكن أن يخلقوا عالمًا من الفن واللعب، حيث يتم تجميع الحيوانات من أجل إنشاء ألعاب جديدة وتشجيعهم على الابتكار. يُضيف المسلسل عنصرًا من الفن والجمال، حيث يظهر البطل الرئيسي، كيالو، بالذكاء والابتكار، ويتفاعل مع الحيوانات الأخرى لخلق عالمًا من الألعاب والترفيه.",
+    "desc_en": "In the Super Cute Country, a happy band of animals invents lots of games to avoid boredom. The show highlights the creativity and resourcefulness of the animals as they come together to create new games and encourage innovation. Kaeloo, the main character, showcases his intelligence and ingenuity as he interacts with the other animals to create a world of fun and entertainment.",
+    "seo_title_ar": "مشاهدة مسلسل كيالو مترجم - توميتو",
+    "meta_desc": "كيف تتعرف على مسلسل كيالو الرائع؟ يظهر هذا المسلسل رسوما متحركة متعة للأطفال والكبار على حد سواء، ويحكي قصة مجموعة من الحيوانات السعيدة التي تختلق ألعاب",
+    "outro": "يُعد مسلسل كيالو تجربة رائعة للمشاهدة، حيث يجمع الفن واللعب في تجربة متعة للجميع.",
+    "opinion_ar": "يعد مسلسل كيالو تجربة رائعة للمشاهدة، حيث يجمع الفن واللعب في تجربة متعة للجميع. يُظهر المسلسل كيف يمكن أن يخلق البطل، كيالو، عالمًا من الألعاب والترفيه عن طريق تفاعله مع الحيوانات الأخرى.",
+    "opinion_en": "Kaeloo is a delightful show that combines art and play in a fun experience for all. The main character, Kaeloo, showcases his creativity and resourcefulness as he interacts with the other animals to create a world of fun and entertainment.",
     "faq": [
       {
-        "q": "ما هو نوع كالو؟",
-        "a": "هي سلسلة رسوم متحركة عائلي"
+        "q": "ما هي قصة مسلسل كيالو؟",
+        "a": "يحكي مسلسل كيالو قصة مجموعة من الحيوانات السعيدة في بلد الأشكال المُحَرّكة، حيث يخلقون ألعابًا متعددة لتفادي الجدل.",
+        "q_en": "What is the story of Kaeloo?",
+        "a_en": "Kaeloo tells the story of a happy band of animals in the Super Cute Country, where they invent lots of games to avoid boredom."
+      },
+      {
+        "q": "لماذا يُعد مسلسل كيالو تجربة رائعة للمشاهدة؟",
+        "a": "يجمع مسلسل كيالو الفن واللعب في تجربة متعة للجميع، ويُظهر كيف يمكن أن يخلق البطل، كيالو، عالمًا من الألعاب والترفيه عن طريق تفاعله مع الحيوانات الأخرى.",
+        "q_en": "Why is Kaeloo a great show to watch?",
+        "a_en": "Kaeloo combines art and play in a fun experience for all, showcasing how the main character, Kaeloo, creates a world of fun and entertainment through his interactions with the other animals."
       }
     ],
-    "keywords": "فيلم كالو مترجم, مشاهدة فيلم كالو, أحداث Kaeloo بالتفصيل, توميتو Kaeloo, مشاهدة Kaeloo 2010, قصة مسلسل Kaeloo, Kaeloo مترجم كامل",
-    "desc_en": "In a world full of whimsy and comedy, we meet Kaeloo, the red-haired girl with the extraordinary power to transform anything into anything else, along with her loyal friend Shino, in thrilling adventures filled with whimsy and comedy, in this exceptional animated series"
+    "keywords": "رسوم متحركة, عائلي, أطفال, كوميديا, مسلسل, كيالو, بلد الأشكال المحركة, ألعاب, فنان, فنانة, فنانون, فنانات, فنانين, مشاهدة Kaeloo, Kaeloo مترجم"
   },
   "fixed": true,
-  "first_air_date": "2010-06-07",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "70 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "7 دقيقة",
+  "language": "الفرنسية",
+  "country": "فرنسا",
+  "cast": "Rémi Chapotot Dorothée Pousséo Emmanuel Garijo Féodor Atkine Philippe Spiteri Valentin Papoudof Emilie Rollot",
+  "first_air_date": "2010-06-07"
 }

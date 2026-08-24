@@ -4,14 +4,12 @@
   "title_ar": "عائلة عصرية",
   "title_en": "Modern Family",
   "slug": "1421-modern-family",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتتبع هذا العمل الحائز على جائزة الإيمي، حياة \"جاي بريتشيت\" وأسرته الانتقائية في تعاملهم مع تحديات الحياة المعاصرة في لوس أنجلوس.",
   "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
   "backdrop_path": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
   "release_date": "2009-09-23",
   "vote_average": 7.9,
-  "vote_count": 3341,
+  "vote_count": 3477,
   "genres": [
     {
       "id": 35,
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم مليء بالتغيرات والتحديات، عائلة عصرية تتعامل مع كل ما هو جديد في لوس أنجلوس. من النجاحات والفشل، إلى علاقات الشخصية والتعاون، هذه العائلة النيئة تتعامل مع كل ما هو عصري في هذه المدينة الكبرى. من خلال عيون الشخصيات الرئيسية، نرى كيف يتعاملون مع التحديات والصعوبات التي تواجههم في هذه الحياة المعاصرة.",
-    "desc_en": "In a world full of changes and challenges, the modern family deals with everything new in Los Angeles. From successes and failures, to personal relationships and teamwork, this new family deals with everything modern in this great city. Through the eyes of the main characters, we see how they deal with the challenges and obstacles that face them in this contemporary life.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في عائلة عصرية - توميتو",
-    "seo_title_ar": "مشاهدة عائلة عصرية مترجم اون لاين - توميتو",
-    "keywords": "Modern Family, فيلم كوميديا مترجم, مشاهدة فيلم كوميديا, عائلة عصرية مترجم كامل, مشاهدة عائلة عصرية 2009, قصة مسلسل عائلة عصرية, توميتو عائلة عصرية, أحداث عائلة عصرية بالتفصيل",
-    "opinion": "هذه العائلة النيئة هي واحدة من أفضل العائلات التلفزيونية التي شاهدتها، مع شخصيات رائعة و قصة رائعة، ستعيش معهم كل لحظة من هذا الرحلة.",
+    "intro": "يسعدنا تقديم مسلسل عائلة عصرية، الذي يركز على تجربة العائلة في الحياة الحديثة في لوس أنجلوس.",
+    "desc_ar": "يحكي هذا العمل حياة العائلة المكونة من \"جاي بريتشيت\" و\"لويس\" و\"جايمي\" و\"مايكل\" و\"جوليان\" و\"هيو\" و\"جوي\" و\"جورج\" و\"ستيف\"، في لوس أنجلوس، حيث يتعاملون مع التحديات المعاصرة بطريقة انتقائية وملحة، مع توتركا الكوميديا والجوانب الساخرة التي تنجم عن تجربتهم مع الحياة الحديثة، مما يجعل هذا العمل حياة العائلة معاصرة وملحة.",
+    "desc_en": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "seo_title_ar": "مشاهدة مسلسل عائلة عصرية مترجم - توميتو",
+    "meta_desc": "عائلة عصرية، مسلسل كوميديا، حياة العائلة في لوس أنجلوس، تحديات الحياة المعاصرة، العائلة المكونة من جاي بريتشيت ولويس وجميعة ومايكل وجوليان وهيو وجوي وجورج",
+    "outro": "نأمل أن استمتعت بمشاهدة مسلسل عائلة عصرية، ويحظى هذا العمل بترجمة احترافية وتصنيفات عالية الجودة.",
+    "opinion_ar": "عائلة عصرية هي مسلسل كوميديا يركز على تجربة العائلة في الحياة الحديثة، مع مزيج من الكوميديا والجوانب الساخرة التي تجعل هذا العمل حياة العائلة معاصرة.",
+    "opinion_en": "Modern Family is a comedy series that focuses on the family's experience with modern life, with a mix of comedy and sarcastic elements that make this work a modern family life.",
     "faq": [
       {
-        "q": "ما هو نوع عائلة عصرية؟",
-        "a": "هو نوع كوميديا"
+        "q": "ما هو موضوع مسلسل عائلة عصرية؟",
+        "a": "يتناول مسلسل عائلة عصرية حياة العائلة في لوس أنجلوس، مع تعاملهم مع التحديات المعاصرة.",
+        "q_en": "What is the subject of Modern Family?",
+        "a_en": "Modern Family follows the lives of the family in Los Angeles, with their experiences with modern challenges."
       },
       {
-        "q": "ما هو موقع بث عائلة عصرية؟",
-        "a": "يمكنك مشاهدة عائلة عصرية على توميتو"
-      },
-      {
-        "q": "ما هو نوع الميديا في عائلة عصرية؟",
-        "a": "هو نوع تلفزيوني"
+        "q": "ما هي أنواع مسلسل عائلة عصرية؟",
+        "a": "عائلة عصرية هي مسلسل كوميديا.",
+        "q_en": "What type of series is Modern Family?",
+        "a_en": "Modern Family is a comedy series."
       }
-    ]
+    ],
+    "keywords": "عائلة عصرية, مسلسل كوميديا, حياة العائلة, لوس أنجلوس, تحديات الحياة المعاصرة, جاي بريتشيت, لويس, جايمي, مايكل, جوليان, هيو, جو, جورج, ستيف, مشاهدة عائلة عصرية"
   },
   "fixed": true,
-  "first_air_date": "2009-09-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "119 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Charles Denner Leslie Caron Nelly Borgeaud Valérie Bonnier Sabine Glaser"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Ed O'Neill Sofía Vergara Julie Bowen Ty Burrell Jesse Tyler Ferguson Eric Stonestreet Sarah Hyland Ariel Winter",
+  "first_air_date": "2009-09-23"
 }
