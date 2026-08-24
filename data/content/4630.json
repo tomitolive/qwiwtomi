@@ -4,14 +4,12 @@
   "title_ar": "أحلام تيمي",
   "title_en": "The Fairly OddParents",
   "slug": "4630-the-fairly-oddparents",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "الوالدان السحريان (بالإنجليزية: The Fairly Odd Parents)‏ (يلفظ: ذا فيرلي أود بارنتس) هو اسم مسلسل رسوم متحركة من تآليف بوتش هارتمان, ومن إنتاج نكلوديون. يعرض المسلسل في العالم العربي على قناة ديزني الشرق الأوسط. تم دبلجته إلى العربية وتحديداً باللهجة المصرية العامية بواسطة شركة Pro Production، كما دبلجت بعض الحلقات للغة العربية الفصحى من قبل الستوديو اللبناني فيلملي وعرض على قناة إم بي سي 3. كما قام مركز الزهرة أيضاً بدبلجته إلى اللغة العربية الفصحى وعُرض على سبيس تون باسم أحلام تيمي.",
   "poster_path": "/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
   "backdrop_path": "/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
   "release_date": "2001-03-30",
   "vote_average": 7.6,
-  "vote_count": 1098,
+  "vote_count": 1129,
   "genres": [
     {
       "id": 16,
@@ -28,42 +26,39 @@
     {
       "id": 10762,
       "name": "أطفال"
-    },
-    {
-      "id": 10751,
-      "name": "عائلي"
     }
   ],
   "ai_content": {
-    "intro": "هل سبق لك أن تمنيت أن يكون لديك والدان سحريان يُ满ون رغباتك؟",
-    "desc_ar": "في عالم مليء بالسحرة والشعوذة، تيمي هو الفتى الذي يلتقي بالوالدان السحريان، ويلتقيهم في مغامرة رائعة، حيث سوف يكتشف أسرارًا جديدةً وسيصبح جزءًا من عالم السحرة، في مسلسل رسوم متحركة يمتاز بالكوميديا والخيال العلمي والفانتازيا، ويقدم مغامرة رائعة للأطفال والكبار على حد سواء.",
-    "seo_title_ar": "مشاهدة فيلم أحلام تيمي مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في أحلام تيمي - مسلسل رسوم متحركة كوميديا خيال علمي وفانتازيا",
-    "outro": "Если كنت تبحث عن محتوى ممتع ومليء بالمغامرات للسهرات العائلية، فلا تبحث كثيرًا عن أحلام تيمي!",
-    "opinion": "هو مسلسل رسوم متحركة رائع يمتاز بالكوميديا والخيال العلمي والفانتازيا، ويقدم مغامرة رائعة للأطفال والكبار على حد سواء، ويستحق المشاهدة من قبل الجميع.",
+    "intro": "يسعدنا أن نُعرض مسلسل أحلام تيمي لكم، قصة طفل صغير ووالدان سحريان يساعدان في تحقيق أمنيته.",
+    "desc_ar": "يحكي مسلسل أحلام تيمي قصة طفل صغير يتعرف على والدان سحريان يساعدانوه في تحقيق أمنيته. وتظهر الصراعات بين الوالدان والطفل ونتائج الطلبات السحرية التي يصدرها. يظهر المسلسل أيضاً تأثير الحوادث على حياة الطفل ومحيطه. ومن خلال قصة المسلسل نستطيع أن نتعلم من أخطاء الطفل وتحدياته في الحياة.",
+    "desc_en": "The Fairly OddParents is a zany and fast-paced adventure about a 10-year-old boy and his fairy godparents who inadvertently create chaos as they grant wishes for their pint-sized charge. The show highlights the struggles between the boy and his fairy godparents, as well as the consequences of the magical wishes they make. Through the story, we can learn from the boy's mistakes and challenges in life.",
+    "seo_title_ar": "مشاهدة مسلسل أحلام تيمي مترجم - قصة طفل صغير ووالدان سحريان - توميتو",
+    "meta_desc": "شاهد مسلسل أحلام تيمي مترجم، قصة طفل صغير ووالدان سحريان يساعدان في تحقيق أمنيته، دون إعلانات مزعجة، جودة عالية، ترجمة احترافية. استمتع بمشاهدة هذا العمل ب",
+    "outro": "نأمل أن تستمتعوا بمشاهدة مسلسل أحلام تيمي، ونتمنى لكم وقت ممتع.",
+    "opinion_ar": "من خلال مشاهدة مسلسل أحلام تيمي، نستطيع أن نتعلم من أخطاء الطفل وتحدياته في الحياة، ونتيجة لذلك، يظهر المسلسل قصة حياة الطفل ومحيطه بشكل أكثر واقعية.",
+    "opinion_en": "Through watching The Fairly OddParents, we can learn from the boy's mistakes and challenges in life, which makes the show's story more realistic and engaging.",
     "faq": [
       {
-        "q": "ما هو نوع أحلام تيمي؟",
-        "a": "هو مسلسل رسوم متحركة"
+        "q": "ما هو مسلسل أحلام تيمي؟",
+        "a": "مسلسل رسوم متحركة يتبع قصة طفل صغير ووالدان سحريان يساعدان في تحقيق أمنيته.",
+        "q_en": "What is The Fairly OddParents?",
+        "a_en": "The Fairly OddParents is a cartoon series about a boy and his fairy godparents."
       },
       {
-        "q": "ما هو نوع أحلام تيمي؟",
-        "a": "هو مسلسل رسوم متحركة كوميديا خيال علمي وفانتازيا"
-      },
-      {
-        "q": "ما هو موقع مشاهدة أحلام تيمي؟",
-        "a": "يمكن مشاهدة أحلام تيمي على توميتو"
+        "q": "من هو المخرج الرئيسي لمسلسل أحلام تيمي؟",
+        "a": "بوتش هارتمان هو المخرج الرئيسي لمسلسل أحلام تيمي.",
+        "q_en": "Who is the main director of The Fairly OddParents?",
+        "a_en": "The main director of The Fairly OddParents is Butch Hartman."
       }
     ],
-    "keywords": "The Fairly OddParents, فيلم أحلام تيمي مترجم, مشاهدة فيلم أحلام تيمي, مشاهدة أحلام تيمي 2001, توميتو أحلام تيمي, أحداث أحلام تيمي بالتفصيل, أحلام تيمي مترجم كامل, قصة مسلسل أحلام تيمي",
-    "desc_en": "In a world filled with magic and fantasy, Timmy is the boy who meets the fairy parents, and meets them in a great adventure, where he will discover new secrets and become part of the world of magic, in an animated series that excels in comedy, science fiction, and fantasy, and provides a great adventure for children and adults alike."
+    "keywords": "أحلام تيمي, The Fairly OddParents, مسلسل رسوم متحركة, كوميديا, خيال علمي وفانتازيا, أطفال, مشاهدة أحلام تيمي, The Fairly OddParents مترجم, تحميل أحلام تيمي, أحلام تيمي اون لاين, أحلام تيمي جودة عالية, فيلم أحلام تيمي, The Fairly OddParents HD, أحلام تيمي HD, The Fairly OddParents online"
   },
   "fixed": true,
-  "first_air_date": "2001-03-30",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "86 دقيقة",
-  "language": "fa",
-  "country": "إيران",
-  "cast": "Mitra Hajjar Ali Nicksaulat Hashem Abdi Said Orkani Zahra Jafari"
+  "duration": "12 دقيقة",
+  "language": "الإنجليزية",
+  "country": "كندا",
+  "cast": "Tara Strong Susanne Blakeslee Daran Norris Carlos Alazraqui Jim Ward Gary LeRoi Gray Grey DeLisle Kari Wahlgren",
+  "first_air_date": "2001-03-30"
 }

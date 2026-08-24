@@ -9,7 +9,7 @@
   "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
   "release_date": "1982-06-11",
   "vote_average": 7.5,
-  "vote_count": 11984,
+  "vote_count": 12191,
   "genres": [
     {
       "id": 12,
@@ -25,26 +25,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن تقطعت السبل بكائن فضائي لطيف على الأرض ، يكتشفه صبي صغير اسمه إليوت ويصادق عليه. في هذه الرحلة ، يتعاون إليوت مع الأجنبي لإنقاذ الكائن الفضائي من تدخل الحكومة ، التي تريد إرساله إلى الفضاء الخارجي. في هذه الرحلة ، يتعاون إليوت مع الأجنبي لإنقاذ الكائن الفضائي من تدخل الحكومة ، التي تريد إرساله إلى الفضاء الخارجي.",
-    "desc_en": "After a gentle alien is stranded on Earth, a young boy named Elliott befriends him. In this adventure, Elliott and the alien work together to save the extraterrestrial from government intervention, which wants to send him back to outer space. In this adventure, Elliott and the alien work together to save the extraterrestrial from government intervention, which wants to send him back to outer space.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع إليوت و ET في هذه المغامرة الخيالية!",
-    "seo_title_ar": "مشاهدة فيلم E.T. the Extra-Terrestrial مترجم اون لاين - توميتو",
-    "keywords": "فيلم E.T. the Extra-Terrestrial مترجم, مشاهدة فيلم E.T. the Extra-Terrestrial, قصة فيلم E.T. the Extra-Terrestrial, مشاهدة E.T. the Extra-Terrestrial 1982, توميتو E.T. the Extra-Terrestrial, E.T. the Extra-Terrestrial مترجم, أحداث E.T. the Extra-Terrestrial بالتفصيل",
-    "opinion": "هذا الفيلم هو إنجاز فني رائع يجمع بين المغامرة والخيال العلمي والعائلي. إنه فيلم يلقي بالشعور بالرعاية والتعاطف مع الشخصيات. إنه فيلم يلقي بالشعور بالرعاية والتعاطف مع الشخصيات.",
+    "intro": "يحكي فيلم ت.خارج الأرض قصة صبي صغير اسمه إليوت الذي يكتشف كائن فضائي لطيف ويتحول حياته إلى عالم من المغامرات والمعجزات.",
+    "desc_ar": "بعد أن تقطعت السبل بكائن فضائي لطيف على الأرض ، يكتشفه صبي صغير اسمه إليوت ويصادق عليه. بعد إحضار الكائن الفضائي إلى منزله في إحدى ضواحي كاليفورنيا ، يقدم إليوت ET ، كما يطلق على الأجنبي ، لأخيه وأخته الصغيرة ، جيرتي ، ويقرر الأطفال الحفاظ على سرية وجودها. ومع ذلك ، سرعان ما بدأ إي. يصاب بالمرض ، مما أدى إلى تدخل الحكومة ووضع مؤلم لكل من إليوت والأجنبي.",
+    "desc_en": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "seo_title_ar": "مشاهدة فيلم ت.خارج الأرض مترجم - توميتو",
+    "meta_desc": "فيلم ت.خارج الأرض 1982 - إستمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية",
+    "outro": "يعد فيلم ت.خارج الأرض واحدًا من أهم الأفلام في تاريخ السينما الأمريكية، ويحظى بتقدير كبير من المشاهدين في جميع أنحاء العالم.",
+    "opinion_ar": "فيلم ت.خارج الأرض هو عمل فني رائع يمتلك قصة حبقة وتصوير جميل يلفت الانتباه.",
+    "opinion_en": "E.T. the Extra-Terrestrial is a masterpiece with a beautiful story and stunning visuals that capture the audience's attention.",
     "faq": [
       {
-        "q": "ما هو قصة فيلم E.T. the Extra-Terrestrial؟",
-        "a": "القصة حول صبي صغير اسمه إليوت الذي يكتشف كائن فضائي لطيف على الأرض ويصادق عليه."
+        "q": "من بطولة فيلم ت.خارج الأرض؟",
+        "a": "ت.خارج الأرض من بطولة هنري توماس، ديانا سكارويد، روبرت ماكنوتون، وباربرا هيرشي.",
+        "q_en": "Who stars in E.T. the Extra-Terrestrial?",
+        "a_en": "E.T. the Extra-Terrestrial stars Henry Thomas, Diana Scarwid, Robert MacNaughton, and Barbara Hershey."
       },
       {
-        "q": "ما هو نوع فيلم E.T. the Extra-Terrestrial؟",
-        "a": "هو فيلم مغامرة خيال علمي عائلي"
+        "q": "ما هي الفئة التي ينتمي إليها فيلم ت.خارج الأرض؟",
+        "a": "ت.خارج الأرض من فئة مغامرة، خيال علمي، عائلي.",
+        "q_en": "What genre does E.T. the Extra-Terrestrial belong to?",
+        "a_en": "E.T. the Extra-Terrestrial belongs to the Adventure, Science Fiction, Family genres."
       },
       {
-        "q": "ما هو المكان الذي يحدث فيه فيلم E.T. the Extra-Terrestrial؟",
-        "a": "يحدث في إحدى ضواحي كاليفورنيا"
+        "q": "ما هي سنة إنتاج فيلم ت.خارج الأرض؟",
+        "a": "ت.خارج الأرض من سنة 1982.",
+        "q_en": "When was E.T. the Extra-Terrestrial released?",
+        "a_en": "E.T. the Extra-Terrestrial was released in 1982."
       }
-    ]
+    ],
+    "keywords": "ت.خارج الأرض, فيلم, مغامرة, خيال علمي, عائلي, 1982, هنري توماس, ديانا سكارويد, روبرت ماكنوتون, باربرا هيرشي, مشاهدة ت.خارج الأرض, .. Extra-Terrestrial مترجم, تحميل ت.خارج الأرض, ت.خارج الأرض اون لاين, .. Extra-Terrestrial"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +61,5 @@
   "duration": "115 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Henry Thomas Drew Barrymore Robert MacNaughton Peter Coyote Dee Wallace"
+  "cast": "Henry Thomas Drew Barrymore Robert MacNaughton Peter Coyote Dee Wallace Erika Eleniak K.C. Martel C. Thomas Howell"
 }

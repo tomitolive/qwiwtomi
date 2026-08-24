@@ -1,49 +1,51 @@
 {
   "id": 78303,
-  "title": "Mein Lokal, Dein Lokal",
-  "title_ar": "Mein Lokal, Dein Lokal",
-  "title_en": "Mein Lokal, Dein Lokal",
-  "slug": "78303-mein-lokal-dein-lokal",
-  "overview": "في مسلسل \"مين لوكال، دين لوكال\"، يتنافس خمسة طهاة مطاعم من مدينة مختلفة كل أسبوع ضد بعضهم البعض - أثناء تشغيل المطعم ومع طلبات قائمة الطعام! الفائز يحصل على 5000 يورو وجائزة \"مين لوكال، دين لوكال\"! هذا المسلسل الواقعي الشيق يسلط الضوء على مهارات الطهاة المتنافسين.",
+  "title": "Les Femmes... ou les enfants dabord...",
+  "title_ar": "Les Femmes... ou les enfants dabord...",
+  "title_en": "Women or Children First",
+  "slug": "78303-women-or-children-first",
+  "overview": "يتناول هذا العمل الدرامي قصة رجل اسمه توم، الذي يعيش حياة هادئة لكن قليلاً من الراحة في بلاد بريطانيا. عندما يظهرت صديقة طفولته السابقة مرة أخرى، كانت تتحدث عن ابنتها التي ولدت منها قبل 9 أعوام، مما يُجبر توم على التفكير في مستقبله واهتماماته. وهكذا، يجد توم نفسه أمام تحديات جديدة، ويجب أن يختار بين حياته الحالية واهتماماته القديمة. يغوص هذا العمل في العالم الداخلي لتوم، ويتناول مواضيع العلاقات والمسؤوليات والهوية.",
   "poster_path": "/lnzrDMAIMkdvtXOd4qutYw2m8uH.jpg",
-  "backdrop_path": "/lbWqzjJx0l3KjA87A7oJ09UTN6g.jpg",
-  "release_date": "2013-08-19",
-  "vote_average": 7.0,
-  "vote_count": 10,
+  "backdrop_path": "/6fd9UQc2vQWQiC6L5ZsZScPhHDE.jpg",
+  "release_date": "2002-03-20",
+  "vote_average": 6.0,
+  "vote_count": 5,
   "genres": [
     {
-      "id": 10764,
-      "name": "واقع"
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Mein Lokal, Dein Lokal (2013) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "في مسلسل \"مين لوكال، دين لوكال\"، يتنافس خمسة طهاة مطاعم من مدينة مختلفة كل أسبوع ضد بعضهم البعض - أثناء تشغيل المطعم ومع طلبات قائمة الطعام! الفائز يحصل على 5000 يورو وجائزة \"مين لوكال، دين لوكال\"! هذا المسلسل الواقعي الشيق يسلط الضوء على مهارات الطهاة المتنافسين.",
-    "desc_en": "In the series \"Mein Lokal, Dein Lokal\", five restaurant chefs from a different city compete against each other each week - while the restaurant is running and with an à la carte order! The winner receives 5,000 euros and the \"Mein Lokal, Dein Lokal\" award. A thrilling reality series showcasing the skills of competing chefs.",
-    "seo_title_ar": "مشاهدة مسلسل مين لوكال، دين لوكال مترجم - توميتو",
-    "meta_desc": "مين لوكال، دين لوكال: مسلسل واقعي مثير حيث يتنافس خمسة طهاة مطاعم أسبوعيا للفوز بجائزة 5000 يورو.",
-    "outro": "شاهد Mein Lokal, Dein Lokal الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"مين لوكال، دين لوكال\" يقدم تجربة مشاهدة ممتعة ومحفزة للشهية، حيث يسلط الضوء على مهارات الطهاة المتنافسين في أجواء تنافسية مشوقة.",
-    "opinion_en": "The series \"Mein Lokal, Dein Lokal\" offers an enjoyable and appetite-inducing viewing experience, showcasing the skills of competing chefs in a thrilling competitive atmosphere.",
+    "intro": "يتناول هذا العمل قصة رجل اسمه توم، الذي يعيش حياة هادئة لكن قليلاً من الراحة في بلاد بريطانيا.",
+    "desc_ar": "يتناول هذا العمل الدرامي قصة رجل اسمه توم، الذي يعيش حياة هادئة لكن قليلاً من الراحة في بلاد بريطانيا. عندما يظهرت صديقة طفولته السابقة مرة أخرى، كانت تتحدث عن ابنتها التي ولدت منها قبل 9 أعوام، مما يُجبر توم على التفكير في مستقبله واهتماماته. وهكذا، يجد توم نفسه أمام تحديات جديدة، ويجب أن يختار بين حياته الحالية واهتماماته القديمة. يغوص هذا العمل في العالم الداخلي لتوم، ويتناول مواضيع العلاقات والمسؤوليات والهوية.",
+    "desc_en": "Women or Children First is a 2002 drama film that follows the story of Tom, a Spaniard who lives a quiet but somewhat dull life in the Brittany countryside (west of France). When his ex-girlfriend reappears, announcing that she had a daughter from him nine years ago, Tom's life is turned upside down. As he grapples with his past and his present, Tom must choose between his current life and his old interests. This film delves into Tom's inner world, exploring themes of relationships, responsibilities, and identity.",
+    "seo_title_ar": "مشاهدة فيلم Les Femmes... ... مترجم - توميتو",
+    "meta_desc": "شاهد فيلم Women Children First 2002 مترجم، دراما، قصة رجل يتناول مواضيع العلاقات والمسؤوليات والهوية. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية",
+    "outro": "وهكذا، يجد توم نفسه أمام تحديات جديدة، ويجب أن يختار بين حياته الحالية واهتماماته القديمة.",
+    "opinion_ar": "يُعد هذا العمل الدرامي واحة روعة لمن يبحث عن قصة معقدة ومثيرة. يفتح هذا العمل أبوابه لنا للاستكشاف العالم الداخلي لتوم، ويتناول مواضيع هامة مثل العلاقات والمسؤوليات والهوية.",
+    "opinion_en": "This drama film is a must-watch for those who crave a complex and engaging story. It offers a glimpse into Tom's inner world, exploring important themes such as relationships, responsibilities, and identity.",
     "faq": [
       {
-        "q": "ما هو مفهوم مسلسل مين لوكال، دين لوكال؟",
-        "a": "مسلسل مين لوكال، دين لوكال هو برنامج واقعي يتنافس فيه خمسة طهاة مطاعم من مدينة مختلفة كل أسبوع، حيث يقومون بإعداد وجباتهم وتقديمها للزبائن أثناء تشغيل المطعم، والفائز يحصل على جائزة مالية.",
-        "q_en": "What is the concept of the series \"Mein Lokal, Dein Lokal\"?",
-        "a_en": "The series \"Mein Lokal, Dein Lokal\" is a reality show where five restaurant chefs from a different city compete each week, preparing and serving meals to customers while the restaurant is running. The winner receives a monetary prize."
+        "q": "ما هو موضوع هذا العمل الدرامي؟",
+        "a": "يتناول هذا العمل قصة رجل اسمه توم، الذي يعيش حياة هادئة لكن قليلاً من الراحة في بلاد بريطانيا.",
+        "q_en": "What is the theme of this drama film?",
+        "a_en": "The film follows the story of Tom, a Spaniard who lives a quiet but somewhat dull life in the Brittany countryside (west of France)."
+      },
+      {
+        "q": "ما هي مواضيع هذا العمل؟",
+        "a": "يتناول هذا العمل مواضيع العلاقات والمسؤوليات والهوية.",
+        "q_en": "What are the themes of this film?",
+        "a_en": "The film explores themes of relationships, responsibilities, and identity."
       }
     ],
-    "keywords": "مين لوكال، دين لوكال, Mein Lokal, Dein Lokal, مسلسل واقعي, منافسة الطهاة, مطاعم, جائزة"
+    "keywords": "فيلم دراما, Les Femmes... ..., Women Children First, Les Femmes, مشاهدة Les Femmes... ou les enfants dabord..., Women or Children First مترجم, تحميل Les Femmes... ou les enfants dabord..., Les Femmes... ou les enfants dabord... اون لاين, Women or Children First online, Les Femmes... ou les enfants dabord... جودة عالية, فيلم Les Femmes... ou les enfants dabord..., Women or Children First HD, Les Femmes... ou les enfants dabord... HD, مسلسل Les Femmes... ou les enfants dabord..., Women or Children First مشاهدة مجانية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الألمانية",
-  "country": "ألمانيا",
-  "cast": "Mike Süsser",
-  "first_air_date": "2013-08-19",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "120 دقيقة",
+  "language": "الفرنسية",
+  "country": "إسبانيا",
+  "cast": "Sergi López Marilyne Canto Sylvie Testud Sacha Bourdo Jean-Jacques Vanier Élisabeth Commelin Serge Riaboukine Catherine Riaux"
 }

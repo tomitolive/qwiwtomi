@@ -4,14 +4,12 @@
   "title_ar": "Babylon 5",
   "title_en": "Babylon 5",
   "slug": "3137-babylon-5",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي مسلسل بابل 5 قصة دورة مبكرة في القرن السادس والعشرين، حيث تتحول البشر إلى الفضاء بحثاً عن مستقبل جديد. يتم بناء محطة بابل 5 على مسافة خمسة أميال في الفضاء الحيادي، وتصبح بمثابة ملاذ للسلام بين العوالم المختلفة. تتألف المجلس من ممثلين عن الحضارات الخمس الكبرى - الحلف الأثري - الحلف الفدرالي، الجمهورية القنطورية، النظام النارني، والإمبراطورية البورلونية - يعملون مع التحالف غير المحايد لتأمين السلام بين النجوم.",
   "poster_path": "/td8O6KJQpN9ZRiuyFUILziXFMrk.jpg",
   "backdrop_path": "/ymdCZck7hy7EDxUTR4Uq1MisfyX.jpg",
   "release_date": "1994-01-26",
-  "vote_average": 8,
-  "vote_count": 594,
+  "vote_average": 8.0,
+  "vote_count": 610,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المستقبل، حيث تسيطر الإمبراطورية الغربية على الكوكب، يجد مجموعة من الأبطال أنفسهم في مركز المعركة ضد قوة الإمبراطورية، والتي تسيطر على كل شيء. من هنا يبدأ قصة البعثة 5، التي تهدف إلى تحقيق السلام في الكون، ولكنها ستجد نفسها في وسط معركة حية، حيث سيتحول كل شيء.",
-    "desc_en": "In a future world where the Western Empire dominates the planet, a group of heroes finds themselves at the center of the battle against the Empire's power, which controls everything. From here, the story of Babylon 5 begins, aiming to achieve peace in the universe, but it will find itself in the midst of a living battle, where everything will change.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في البعثة 5، دراما خيال علمي وفانتازيا",
-    "seo_title_ar": "مشاهدة فيلم البعثة 5 مترجم اون لاين - توميتو",
-    "keywords": "فيلم البعثة 5 مترجم, مشاهدة فيلم البعثة 5, مشاهدة Babylon 5 1994, قصة مسلسل Babylon 5, أحداث Babylon 5 بالتفصيل, Babylon 5 مترجم كامل, توميتو Babylon 5",
-    "opinion": "البعثة 5، واحدة من أفضل الدراما الخيالية في التاريخ، حيث تجمع بين الخيال العلمي والفانتازيا والحركة والمغامرة، لتخلق عالم رائع، مليء بالتension والتشويق.",
+    "intro": "يحكي مسلسل بابل 5 قصة عالم متطور يفتح أبوابه أمام المستقبل، حيث يلتقي البشر مع العوالم الأخرى في رحلة تجاوز للصراعات.",
+    "desc_ar": "يحكي مسلسل بابل 5 قصة دورة مبكرة في القرن السادس والعشرين، حيث تتحول البشر إلى الفضاء بحثاً عن مستقبل جديد. يتم بناء محطة بابل 5 على مسافة خمسة أميال في الفضاء الحيادي، وتصبح بمثابة ملاذ للسلام بين العوالم المختلفة. تتألف المجلس من ممثلين عن الحضارات الخمس الكبرى - الحلف الأثري - الحلف الفدرالي، الجمهورية القنطورية، النظام النارني، والإمبراطورية البورلونية - يعملون مع التحالف غير المحايد لتأمين السلام بين النجوم.",
+    "desc_en": "Babylon 5 is a five-mile long space station located in neutral space, serving as a sanctuary for peace among various alien races. Built by the Earth Alliance in the 2250s, its goal is to maintain harmony among the five major space-faring civilizations. The station's council, comprised of representatives from the Earth Alliance, Minbari Federation, Centauri Republic, Narn Regime, and Vorlon Empire, works with the League of Non-Aligned Worlds to ensure interstellar relations remain stable.",
+    "seo_title_ar": "مشاهدة مسلسل بابل 5 مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل بابل 5 مترجم - توميتو - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية وتر",
+    "outro": "يستمر مسلسل بابل 5 في إثارة الفكر وتنمية العالم، يترك بصمته على سينما الخيال العلمي، ويحفز البشر على الاستكشاف والتنمية.",
+    "opinion_ar": "من بين العمالقة في العالم السينمائي، يعتبر مسلسل بابل 5 ملهمًا ومثيرًا، يخلق عالمًا غنيًا ومتعدد الحواف.",
+    "opinion_en": "Babylon 5 is a thought-provoking and engaging series that creates a rich and complex universe, making it a must-watch for fans of science fiction.",
     "faq": [
       {
-        "q": "ما هو البعثة 5؟",
-        "a": "البعثة 5 هو دراما خيال علمي وفانتازيا، تتمحور حول قصة البعثة 5، التي تهدف إلى تحقيق السلام في الكون."
-      },
-      {
-        "q": "ما هو نوع البعثة 5؟",
-        "a": "البعثة 5 هو نوع دراما خيال علمي وفانتازيا، حركة ومغامرة."
-      },
-      {
-        "q": "ما هو أفضل ما في البعثة 5؟",
-        "a": "أفضل ما في البعثة 5 هو قصةها المليئة بالتension والتشويق، بالإضافة إلى الشخصيات القوية والشخصيات"
+        "q": "ما هو مدى أهمية محطة بابل 5 فيMaintaining ?",
+        "a": "تتولى محطة بابل 5 دورًا حيويًا في الحفاظ على السلام بين العوالم المختلفة.",
+        "q_en": "What is the significance of Babylon 5 in maintaining peace among the alien races?",
+        "a_en": "Babylon 5 plays a crucial role in maintaining peace among the alien races."
       }
-    ]
+    ],
+    "keywords": "بابل 5, مسلسل, دراما, خيال علمي وفانتازيا, حركة ومغامرة, مشاهدة بابل 5, Babylon 5 مترجم, تحميل بابل 5, بابل 5 اون لاين, Babylon 5, بابل 5 جودة عالية, Babylon 5 online, فيلم بابل 5, Babylon 5 HD, بابل 5 HD"
   },
   "fixed": true,
-  "first_air_date": "1994-01-26",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Bruce Boxleitner Jerry Doyle Mira Furlan Richard Biggs Andreas Katsulas Peter Jurasik Stephen Furst Bill Mumy",
+  "first_air_date": "1994-01-26"
 }

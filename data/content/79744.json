@@ -4,14 +4,12 @@
   "title_ar": "المبتدئ",
   "title_en": "The Rookie",
   "slug": "79744-the-rookie",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يحاول (جون نولان) السير في بداية جديدة في حياته بعد تعرضه لحادثة كبيرة، حيث يسعى للانضمام إلى شرطة لوس أنجلوس لتحقيق أحلامه، ولكنه يعاني من التجاهل من الجميع ظنًا منهم أنه يعاني من أزمة منتصف العمر.",
   "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
   "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
   "release_date": "2018-10-16",
   "vote_average": 8.5,
-  "vote_count": 3250,
+  "vote_count": 3481,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يتصاعد اللاعب الجديد جون نولان في عالم الشرطة، حيث يتعثر في سبيل تحقيق أحلامه، لكنه يكتشف أن التجاهل من الجميع هو أكبر من كل ما يخيم عليه، ويحاول أن يثبت نفسه في ظل كل هذه التحديات، فيما يتعثر في سبيل تحقيق حلمه.",
-    "desc_en": "The rookie cop John Nolan tries to make a name for himself in the LAPD, but he finds that the ignorance of everyone around him is a bigger challenge than he anticipated, and he struggles to prove himself in the face of all these obstacles, as he tries to achieve his dream.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المبتدئ، جريمة دراما كوميديا",
-    "seo_title_ar": "مشاهدة فيلم المبتدئ مترجم اون لاين - توميتو",
-    "keywords": "The Rookie, فيلم المبتدئ مترجم, مشاهدة فيلم المبتدئ, توميتو المبتدئ, أحداث المبتدئ بالتفصيل, المبتدئ مترجم كامل, قصة مسلسل المبتدئ, مشاهدة المبتدئ 2018",
-    "opinion": "المبتدئ هو فيلم دراما جريمة كوميديا رائع، حيث يتعثر جون نولان في سبيل تحقيق أحلامه، ويحاول أن يثبت نفسه في ظل كل هذه التحديات، ويحصل على النجاح في النهاية.",
+    "intro": "يحاول جون نولان تحقيق أحلامه في الانضمام إلى شرطة لوس أنجلوس بعد تجربة حياتية تغيّر everything في حياته",
+    "desc_ar": "يحاول جون نولان، رجل من القرية، تحقيق أحلامه في الانضمام إلى شرطة لوس أنجلوس بعد تجربة حياتية تغيّر في حياته، مع أن الجميع يعتقدون أنه يعاني من أزمة منتصف العمر بسبب عمره، في حين يجد نفسه محاصراً من التجاهل والتصور السلبي من بعض القادة العليا في الشرطة.",
+    "desc_en": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "seo_title_ar": "مشاهدة مسلسل المبتدئ The Rookie مترجم - توميتو",
+    "meta_desc": "المبتدئ The Rookie مسلسل جريمة دراما كوميديا 2018 استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بج",
+    "outro": "مع تطور الشخصية بشكل جيد، يظهر جون نولان وطموحاته في الانضمام إلى شرطة لوس أنجلوس",
+    "opinion_ar": "حسناً، لم أكن متوقعًا أن هذا المسلسل سيكون كذلك، حيث يظهر شخصية جون نولان وطموحاته في الانضمام إلى شرطة لوس أنجلوس، مع تطور الشخصية بشكل جيد",
+    "opinion_en": "I thoroughly enjoyed this show, as it showcases John Nolan's determination to join the LAPD, with the character development being quite impressive",
     "faq": [
       {
-        "q": "ما هو المبتدئ؟",
-        "a": "فيلم دراما جريمة كوميديا رائع يتعثر جون نولان في سبيل تحقيق أحلامه."
-      },
-      {
-        "q": "ما هو نوع المبتدئ؟",
-        "a": "فيلم تلفزيوني"
-      },
-      {
-        "q": "ما هي أنواع المبتدئ؟",
-        "a": "جريمة، دراما، كوميديا"
+        "q": "ما هو نوع مسلسل المبتدئ؟",
+        "a": "المبتدئ مسلسل جريمة دراما كوميديا",
+        "q_en": "What type of show is The Rookie?",
+        "a_en": "The Rookie is a crime drama comedy TV series"
       }
-    ]
+    ],
+    "keywords": "المبتدئ, The Rookie, مسلسل, جريمة, دراما, كوميديا, 2018, مشاهدة المبتدئ, The Rookie مترجم, تحميل المبتدئ, المبتدئ اون لاين, المبتدئ جودة عالية, فيلم المبتدئ, The Rookie HD, The Rookie online"
   },
   "fixed": true,
-  "first_air_date": "2018-10-16",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "87 دقيقة",
-  "language": "الإيطالية",
-  "country": "إيطاليا",
-  "cast": "Marisa Allasio Mario Carotenuto Nino Manfredi Germán Cobos Memmo Carotenuto"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Nathan Fillion Melissa O'Neil Eric Winter Alyssa Diaz Mekia Cox Richard T. Jones Shawn Ashmore Jenna Dewan",
+  "first_air_date": "2018-10-16"
 }

@@ -9,7 +9,7 @@
   "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
   "release_date": "1984-10-26",
   "vote_average": 7.7,
-  "vote_count": 14585,
+  "vote_count": 14976,
   "genres": [
     {
       "id": 28,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في المستقبل المروع ، حيث يسيطر أجهزة الكمبيوتر الخارقة على العالم ، ينتقل «المنهي» قاتل سايبورغ إلى عام 1984 لkill سارة كونور ، التي من المقرر أن يقود ابنها المتمردين ضد الهيمنة الميكانيكية في القرن الحادي والعشرين. في غضون ذلك ، ترسل حركة المقاومة البشرية محاربًا منفردًا لحماية سارة. هل يمكنه إيقاف آلة القتل غير القابلة للتدمير فعليًا؟",
-    "desc_en": "In a dystopian future, where computers have taken over the world, the cyborg assassin 'The Terminator' is sent back in time to 1984 to kill Sarah Connor, who is destined to lead her son in a rebellion against the mechanical dominance in the 21st century. Meanwhile, the human resistance sends a lone warrior to protect Sarah. Can he stop the unstoppable killing machine?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم المدمر مترجم اون لاين",
-    "seo_title_ar": "مشاهدة فيلم المدمر مترجم اون لاين - توميتو",
-    "keywords": "The Terminator, فيلم المدمر مترجم, مشاهدة فيلم المدمر, توميتو المدمر, المدمر مترجم, أحداث المدمر بالتفصيل, مشاهدة المدمر 1984, قصة فيلم المدمر",
-    "opinion": "فيلم المدمر هو فيلم إثارة خيال علمي رائع يلقي بظلاله على مستقبلنا. يلقي بظلاله على مستقبلنا.",
+    "intro": "يحكي فيلم \"المدمر\" قصة عن مستقبل مدمر حيث يتم تقديم صورة واقعية عن التكنولوجيا والرعب.",
+    "desc_ar": "في المستقبل المروع ، تنقل أجهزة الكمبيوتر الخارقة المستبدة قاتل سايبورغ معروف باسم \"المنهي\" إلى عام 1984 لقتل سارة كونور ، التي من المقرر أن يقود ابنها الذي لم يولد بعد المتمردين ضد الهيمنة الميكانيكية في القرن الحادي والعشرين. في غضون ذلك ، ترسل حركة المقاومة البشرية محاربًا منفردًا لحماية سارة. هل يمكنه إيقاف آلة القتل غير القابلة للتدمير فعليًا؟",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم المدمر مترجم - توميتو",
+    "meta_desc": "شاهد فيلم المدمر 1984 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل الرائع والملحم. يمكنك مشاهدة فيلم المدمر مجانا على موقع",
+    "outro": "يعد \"المدمر\" فيلمًا روائحًا من حيث التكنولوجيا والرعب، حيث يتم تقديم صورة واقعية عن مستقبل مدمر.",
+    "opinion_ar": "يعد \"المدمر\" فيلمًا روائحًا من حيث التكنولوجيا والرعب، حيث يتم تقديم صورة واقعية عن مستقبل مدمر.",
+    "opinion_en": "The Terminator is a thought-provoking film that showcases a dystopian future and raises questions about the consequences of technological advancements.",
     "faq": [
       {
-        "q": "ما هو فيلم المدمر؟",
-        "a": "فيلم المدمر هو فيلم حركة إثارة خيال علمي يلقي بظلاله على مستقبلنا."
-      },
-      {
-        "q": "ما هو هدف «المنهي»؟",
-        "a": "هدف «المنهي» هو قتل سارة كونور والقضاء على المقاومة البشرية."
-      },
-      {
-        "q": "هل يمكن إيقاف «المنهي»؟",
-        "a": "يمكن إيقاف «المنهي» إذا تمكن المحارب من حماية سارة"
+        "q": "ما هو اسم الفيلم؟",
+        "a": "فيلم \"المدمر\"",
+        "q_en": "What is the name of the film?",
+        "a_en": "The Terminator"
       }
-    ]
+    ],
+    "keywords": "فيلم, الحركة, الإثارة, الخيال العلمي, مستقبل مدمر, قاتل سايبورغ, الآلة القاتلة, حركة المقاومة, البشرية, تكنولوجيا, رعب, فيلم 1984, مشاهدة المدمر, The Terminator مترجم, تحميل المدمر"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "108 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Arnold Schwarzenegger Michael Biehn Linda Hamilton Paul Winfield Lance Henriksen"
+  "cast": "Arnold Schwarzenegger Michael Biehn Linda Hamilton Paul Winfield Lance Henriksen Rick Rossovich Bess Motta Earl Boen"
 }

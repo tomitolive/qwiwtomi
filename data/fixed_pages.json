@@ -10787,8 +10787,164 @@
       "file": "6489.json",
       "title": "Klan",
       "fixed_at": "2026-08-24T04:21:14.880797"
+    },
+    {
+      "tmdb_id": "615457",
+      "file": "615457.json",
+      "title": "نكرة",
+      "fixed_at": "2026-08-24T05:09:53.137061"
+    },
+    {
+      "tmdb_id": "218",
+      "file": "218.json",
+      "title": "المدمر",
+      "fixed_at": "2026-08-24T05:10:26.084545"
+    },
+    {
+      "tmdb_id": "348893",
+      "file": "348893.json",
+      "title": "بويكا: بلا منازع",
+      "fixed_at": "2026-08-24T05:10:33.765850"
+    },
+    {
+      "tmdb_id": "202250",
+      "file": "202250.json",
+      "title": "Dirty Linen",
+      "fixed_at": "2026-08-24T05:10:41.375578"
+    },
+    {
+      "tmdb_id": "2034",
+      "file": "2034.json",
+      "title": "يوم التدريب",
+      "fixed_at": "2026-08-24T05:10:48.576302"
+    },
+    {
+      "tmdb_id": "46896",
+      "file": "46896.json",
+      "title": "النسخ الأصلية",
+      "fixed_at": "2026-08-24T05:10:57.980502"
+    },
+    {
+      "tmdb_id": "5829",
+      "file": "5829.json",
+      "title": "Flashpoint",
+      "fixed_at": "2026-08-24T05:11:06.450763"
+    },
+    {
+      "tmdb_id": "78303",
+      "file": "78303.json",
+      "title": "Mein Lokal, Dein Lokal",
+      "fixed_at": "2026-08-24T05:11:14.466890"
+    },
+    {
+      "tmdb_id": "43348",
+      "file": "43348.json",
+      "title": "بابلو اسكوبار: راعي الشر",
+      "fixed_at": "2026-08-24T05:11:21.484615"
+    },
+    {
+      "tmdb_id": "1397201",
+      "file": "1397201.json",
+      "title": "Golden Kamuy -The Abashiri Prison Raid-",
+      "fixed_at": "2026-08-24T05:11:31.170611"
+    },
+    {
+      "tmdb_id": "108545",
+      "file": "108545.json",
+      "title": "معضلة الأجسام الثلاثة",
+      "fixed_at": "2026-08-24T05:11:38.296142"
+    },
+    {
+      "tmdb_id": "106379",
+      "file": "106379.json",
+      "title": "Fallout",
+      "fixed_at": "2026-08-24T05:11:45.747637"
+    },
+    {
+      "tmdb_id": "4630",
+      "file": "4630.json",
+      "title": "أحلام تيمي",
+      "fixed_at": "2026-08-24T05:11:54.334240"
+    },
+    {
+      "tmdb_id": "295434",
+      "file": "295434.json",
+      "title": "الدراج المقنع 2025",
+      "fixed_at": "2026-08-24T05:12:02.574421"
+    },
+    {
+      "tmdb_id": "97072",
+      "file": "97072.json",
+      "title": "Charmsukh",
+      "fixed_at": "2026-08-24T05:12:10.640827"
+    },
+    {
+      "tmdb_id": "3137",
+      "file": "3137.json",
+      "title": "Babylon 5",
+      "fixed_at": "2026-08-24T05:12:20.942325"
+    },
+    {
+      "tmdb_id": "152483",
+      "file": "152483.json",
+      "title": "The Boys Presents: Diabolical",
+      "fixed_at": "2026-08-24T05:12:29.289724"
+    },
+    {
+      "tmdb_id": "30983",
+      "file": "30983.json",
+      "title": "المحقق كونان",
+      "fixed_at": "2026-08-24T05:12:36.161944"
+    },
+    {
+      "tmdb_id": "79744",
+      "file": "79744.json",
+      "title": "المبتدئ",
+      "fixed_at": "2026-08-24T05:12:43.259824"
+    },
+    {
+      "tmdb_id": "601",
+      "file": "601.json",
+      "title": "E.T. the Extra-Terrestrial",
+      "fixed_at": "2026-08-24T05:12:52.165705"
+    },
+    {
+      "tmdb_id": "3114",
+      "file": "3114.json",
+      "title": "Silk Stalkings",
+      "fixed_at": "2026-08-24T05:13:01.085967"
+    },
+    {
+      "tmdb_id": "1582770",
+      "file": "1582770.json",
+      "title": "دهوراندهار: الانتقام",
+      "fixed_at": "2026-08-24T05:13:10.012074"
+    },
+    {
+      "tmdb_id": "120317",
+      "file": "120317.json",
+      "title": "Grace",
+      "fixed_at": "2026-08-24T05:13:18.706688"
+    },
+    {
+      "tmdb_id": "11652",
+      "file": "11652.json",
+      "title": "Invincible",
+      "fixed_at": "2026-08-24T05:13:26.612550"
+    },
+    {
+      "tmdb_id": "78501",
+      "file": "78501.json",
+      "title": "Sweet Punishment: Im the Guards Personal Pet",
+      "fixed_at": "2026-08-24T05:13:35.701870"
+    },
+    {
+      "tmdb_id": "70523",
+      "file": "70523.json",
+      "title": "Dark",
+      "fixed_at": "2026-08-24T05:13:43.563768"
     }
   ],
-  "last_updated": "2026-08-24T04:21:17.242172",
-  "total_fixed": 1798
+  "last_updated": "2026-08-24T05:13:45.644546",
+  "total_fixed": 1824
 }
