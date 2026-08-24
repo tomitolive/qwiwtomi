@@ -4,14 +4,12 @@
   "title_ar": "21 Jump Street",
   "title_en": "21 Jump Street",
   "slug": "1486-21-jump-street",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
   "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
   "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
   "release_date": "1987-04-12",
-  "vote_average": 7.2,
-  "vote_count": 192,
+  "vote_average": 7.3,
+  "vote_count": 203,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجريمة والغموض، تظهر مجموعة من اللاعبين الذين يلعبون دور الشرطة في محاولة لاستعادة السلام في المدينة. يلعب كل من جيمس ماسون وجون تيغز دورين من أهم اللاعبين في المجموعة، الذين يتعاملون مع قضايا غامضة وملفات ماضية. في هذه الرحلة، سوف نرى كيف تتعامل المجموعة مع الأزمات والتحديات التي تواجهها، فيขณะที่ يتعاملون مع الأشخاص الذين يلعبون دور الشرطة في محاولة لاستعادة السلام في المدينة.",
-    "desc_en": "In a world of crime and mystery, a group of players who play the role of the police in an attempt to restore peace to the city. James Mason and John Tegz play two of the most important players in the group, who deal with complex cases and past files. In this journey, we will see how the group deals with the challenges and crises that it faces, while dealing with the people who play the role of the police in an attempt to restore peace to the city.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في جريمة والغموض في 21 Jump Street على توميتو!",
-    "seo_title_ar": "مشاهدة فيلم 21 Jump Street مترجم اون لاين - توميتو",
-    "keywords": "فيلم جريمة مترجم, مشاهدة فيلم غموض, قصة مسلسل 21 Jump Street, مشاهدة 21 Jump Street 1987, 21 Jump Street مترجم كامل, أحداث 21 Jump Street بالتفصيل, توميتو 21 Jump Street",
-    "opinion": "هذا الفيلم هو مثال رائع لما هو możliي أن يفعله التلفزيون عندما يلعب دور الشرطة في محاولة لاستعادة السلام في المدينة. يلعب كل من جيمس ماسون وجون تيغز دورين من أهم اللاعبين في المجموعة، الذين يتعاملون مع قضايا غامضة وملفات ماضية.",
+    "intro": "تدور أحداث مسلسل \"21 شارع جامب\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي و حل الجرائم التي تشمل المراهقين والشباب.",
+    "desc_ar": "يحكي مسلسل \"21 شارع جامب\" قصة مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي و حل الجرائم التي تشمل المراهقين والشباب، حيث يعملون بشكل مستقل لكن مع دعم القيادة، وتعكس هذه الحقيقة أنهم منظمون ومحترفون في عملهم، ويتحكمون في عملياتهم بشكل صارم، وتساهم هذه المجموعة في الحفاظ على الأمن والسلامة في المجتمع.",
+    "desc_en": "21 Jump Street revolves around a group of young cops who would use their youthful appearance to go undercover and solve crimes involving teenagers and young adults, working independently but with leadership support, reflecting their organized and professional approach, controlling their operations with precision, and contributing to maintaining community safety and security.",
+    "seo_title_ar": "مشاهدة مسلسل 21 شارع جامب مترجم - توميتو",
+    "meta_desc": "21 شارع جامب مسلسل جريمة غموض دراما من عام 1987، يتناول قصة مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين",
+    "outro": "يعد مسلسل \"21 شارع جامب\" من أفضل المسلسلات التي تعكس قوة الشرطة الشابة في حل الجرائم، وتعكس هذه الحقيقة أنهم منظمون ومحترفون في عملهم.",
+    "opinion_ar": "يعد مسلسل \"21 شارع جامب\" من أفضل المسلسلات التي تعكس قوة الشرطة الشابة في حل الجرائم، وتعكس هذه الحقيقة أنهم منظمون ومحترفون في عملهم.",
+    "opinion_en": "21 Jump Street is one of the best series that reflects the power of young police in solving crimes, reflecting their organized and professional approach.",
     "faq": [
       {
-        "q": "ما هو نوع هذا الفيلم؟",
-        "a": "هو فيلم جريمة وغموض"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "هو مسلسل جريمة غموض دراما.",
+        "q_en": "What type of series is 21 Jump Street?",
+        "a_en": "It is a crime mystery drama series."
       },
       {
-        "q": "ما هو نوع التلفزيون؟",
-        "a": "هو تلفزيون جريمة وغموض"
-      },
-      {
-        "q": "ما هو أفضل ما في هذا الفيلم؟",
-        "a": "هو الأحداث الإثارة والقضايا الغامضة"
+        "q": "ما هو سنة إنتاج المسلسل؟",
+        "a": "تم إنتاج المسلسل في عام 1987.",
+        "q_en": "What year was 21 Jump Street produced?",
+        "a_en": "It was produced in 1987."
       }
-    ]
+    ],
+    "keywords": "21 شارع جامب, مسلسل جريمة غموض دراما, رجال الشرطة الشباب, حل الجرائم, المراهقين والشباب, 1987, مشاهدة 21 شارع جامب, 21 Jump Street مترجم, تحميل 21 شارع جامب, 21 شارع جامب اون لاين, 21 Jump Street, 21 شارع جامب جودة عالية, فيلم 21 شارع جامب, 21 Jump Street HD, 21 شارع جامب HD"
   },
   "fixed": true,
-  "first_air_date": "1987-04-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Holly Robinson Peete Michael Bendetti Peter DeLuise Steven Williams Michael DeLuise",
+  "first_air_date": "1987-04-12"
 }

@@ -4,9 +4,9 @@
   "title_ar": "Resident Evil",
   "title_en": "Resident Evil",
   "slug": "1423191-resident-evil",
-  "overview": "تدور أحداث فيلم \"مصاص الدماء: Resident Evil\" في عام 2026، حيث يجد براين، وهو مندوب طبي، نفسه في خضم تفشي وباء مفاجئ أثناء قيامه بعملية تسليم، مما يضطره إلى القتال من أجل البقاء. فيلم رعب وإثارة مليء بالتشويق.",
+  "overview": "يحكي فيلم مصاص الدماء قصة البطل Bryan الذي يجد نفسه في مواجهة هائلة مع الأحداث التي تتراكم حولَه في ليلة حياته، حيث يتعرض Bryan لمذكراته الغير مرغوب فيها في ظل الحدث الذي يغير مجرى حياته بشكل كبير، بينما يسعى للاستمرار في حياته العادية يجد نفسه في صراع حقيقي للاستمرار في الحياة.",
   "poster_path": "/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
-  "backdrop_path": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+  "backdrop_path": "/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
   "release_date": "2026-09-16",
   "vote_average": 7.0,
   "vote_count": 10,
@@ -18,35 +18,31 @@
     {
       "id": 878,
       "name": "خيال علمي"
-    },
-    {
-      "id": 53,
-      "name": "إثارة"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة فيلم Resident Evil (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تدور أحداث فيلم \"مصاص الدماء: Resident Evil\" في عام 2026، حيث يجد براين، وهو مندوب طبي، نفسه في خضم تفشي وباء مفاجئ أثناء قيامه بعملية تسليم، مما يضطره إلى القتال من أجل البقاء. فيلم رعب وإثارة مليء بالتشويق.",
-    "desc_en": "In \"Resident Evil\", Bryan, a medical courier, finds himself caught in a sudden outbreak while making a delivery. This 2026 film is a thrilling blend of horror and suspense.",
-    "seo_title_ar": "مشاهدة فيلم مصاص الدماء: Resident Evil مترجم - توميتو",
-    "meta_desc": "شاهد فيلم Resident Evil: مصاص الدماء، فيلم رعب وإثارة عام 2026، حيث يخوض براين معركة من أجل البقاء خلال تفشي وباء مفاجئ.",
-    "outro": "شاهد Resident Evil الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "فيلم \"مصاص الدماء: Resident Evil\" يقدم تجربة مرعبة ومثيرة، مع أداء قوي من براين في مواجهة الوباء. تجربة سينمائية مشوقة.",
-    "opinion_en": "\"Resident Evil\" offers a thrilling horror experience with a strong performance by Bryan. A must-watch for fans of the genre.",
+    "intro": "حسناً صبقاً في هذا العمل الفني، حيث يتعرض Bryan لمذكراته الغير مرغوب فيها في ظل الحدث الذي يغير مجرى حياته بشكل كبير.",
+    "desc_ar": "يحكي فيلم مصاص الدماء قصة البطل Bryan الذي يجد نفسه في مواجهة هائلة مع الأحداث التي تتراكم حولَه في ليلة حياته، حيث يتعرض Bryan لمذكراته الغير مرغوب فيها في ظل الحدث الذي يغير مجرى حياته بشكل كبير، بينما يسعى للاستمرار في حياته العادية يجد نفسه في صراع حقيقي للاستمرار في الحياة.",
+    "desc_en": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos, as he faces his dark past in the face of a catastrophic event that changes the course of his life forever, while trying to continue his normal life he finds himself in a real struggle to survive.",
+    "seo_title_ar": "مشاهدة فيلم مصاص الدماء Resident Evil مترجم - توميتو",
+    "meta_desc": "شاهد فيلم مصاص الدماء Resident Evil 2026 مترجم في جودة عالية بدون إعلانات مزعجة استمتع بمشاهدة هذا العمل الفني بجودة عالية وترجمة احترافية. استمتع بمش",
+    "outro": "في نهاية المطاف، يجد Bryan نفسه في مواجهة الأحداث التي تتراكم حولَه في ليلة حياته، وهو ما يجعل هذا العمل فنيًا وجميلًا.",
+    "opinion_ar": "فيلم مصاص الدماء Resident Evil هو فيلم رعب خيال علمي يظهر قصة البطول Bryan في مواجهة الأحداث المتراكمة في ليلة حياته، يعتبر هذا العمل فنيًا وجميلًا.",
+    "opinion_en": "Resident Evil is a horror sci-fi film that shows the story of the hero Bryan in the face of the events that are accumulating in his life, it is a great and beautiful work.",
     "faq": [
       {
-        "q": "هل فيلم \"مصاص الدماء: Resident Evil\" مناسب للمشاهدة العائلية؟",
-        "a": "لا، يحتوي الفيلم على مشاهد عنف ورعب قد لا تكون مناسبة للأطفال.",
-        "q_en": "Is \"Resident Evil\" suitable for family viewing?",
-        "a_en": "No, the film contains violent and scary scenes that may not be suitable for younger audiences."
+        "q": "ما هو فيلم مصاص الدماء Resident Evil؟",
+        "a": "فيلم رعب خيال علمي يظهر قصة البطول Bryan في مواجهة الأحداث المتراكمة في ليلة حياته.",
+        "q_en": "What is Resident Evil?",
+        "a_en": "A horror sci-fi film that shows the story of the hero Bryan in the face of the events that are accumulating in his life."
       }
     ],
-    "keywords": "مصاص الدماء, Resident Evil, فيلم, رعب, إثارة, خيال علمي, 2026, براين, وباء, تشويق, مسلسل مصاص الدماء, فيلم مصاص الدماء, انمي مصاص الدماء, فلم مصاص الدماء, افلام مصاص الدماء, فيلم مصاص الدماء والمستذئبين, مصاص الدماء بالانجليزي"
+    "keywords": "فيلم مصاص الدماء Resident Evil, رعب, خيال علمي, 2026, فيلم, مسلسل مصاص الدماء, فيلم مصاص الدماء, يوميات مصاص الدماء, انمي مصاص الدماء, فلم مصاص الدماء, افلام مصاص الدماء, مصاص الدماء بالانجليزي, مشاهدة مصاص الدماء, Resident Evil مترجم, تحميل مصاص الدماء"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
   "cast": "Austin Abrams Zach Cherry Kali Reis Paul Walter Hauser Johnno Wilson"

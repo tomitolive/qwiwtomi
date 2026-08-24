@@ -9,7 +9,7 @@
   "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
   "release_date": "2005-06-10",
   "vote_average": 7.7,
-  "vote_count": 22579,
+  "vote_count": 23029,
   "genres": [
     {
       "id": 18,
@@ -25,26 +25,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في بداية باتمان ، نرى كيف أن الملياردير بروس واين يخدّم حياته لتصديق الفساد الذي ابتلي مدينة جوثام. من خلال رحلته إلى الشرق الأوسط ، يكتشف واين أن الفساد ليس فقط محدودًا إلى مدينة جوثام ، بل هو جزء من نظام أكبر. هذا هو بداية رحلة واين لتصديق الفساد والخوف على عالم الجريمة الإجرامي - باتمان.",
-    "desc_en": "In Batman Begins, we see how billionaire Bruce Wayne dedicates his life to uncovering the corruption that has plagued Gotham City. Through his journey to the East, Wayne discovers that corruption is not just limited to Gotham City, but is part of a larger system. This is the beginning of Wayne's journey to uncover corruption and fear in the criminal world - Batman.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في بداية باتمان!",
-    "seo_title_ar": "مشاهدة فيلم بداية باتمان مترجم اون لاين - توميتو",
-    "keywords": "Batman Begins, فيلم بداية باتمان مترجم, مشاهدة فيلم باتمان, قصة فيلم بداية باتمان, أحداث بداية باتمان بالتفصيل, توميتو بداية باتمان, بداية باتمان مترجم, مشاهدة بداية باتمان 2005",
-    "opinion": "باتمان يبدأ رحلة رائعة في هذه السلسلة ، حيث نرى كيف أن بروس واين يخدّم حياته لتصديق الفساد والخوف على عالم الجريمة الإجرامي. النتيجة هي باتمان ، رمز الخوف على عالم الجريمة الإجرامي.",
+    "intro": "في عالم مليء بالفساد والجريمة ، يظهر بطل جديد يريد أن ي改变 الوضع ، ويكون رمزًا للخوف والرعب في عالم الجريمة الإجرامي.",
+    "desc_ar": "مدفوعًا بالمأساة ، كرّس الملياردير بروس واين حياته لكشف ودحر الفساد الذي ابتلي بمنزله ، مدينة جوثام. غير قادر على العمل داخل النظام ، بدلاً من ذلك ، أنشأ هوية جديدة ، رمزًا للخوف على عالم الجريمة الإجرامي - باتمان.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة فيلم بداية باتمان 2005 مترجم - توميتو",
+    "meta_desc": "شاهد فيلم بداية باتمان 2005 مترجم - مسلسل درامي جريمة حركة عن بطل الجريمة باتمان الذي يقاتل الفساد في مدينة جوثام - استمتع بمشاهدة هذا العمل بجودة عالية وت",
+    "outro": "فيلم بداية باتمان هو تجربة روائية رائعة تُظهر كيف يمكن للشخص أن يتغيّر ويصبح بطلًا للجريمة ، ويحارب الظلم والمفسدين في المجتمع.",
+    "opinion_ar": "عمل فيلم مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "Batman Begins is a fantastic narrative experience that shows how a person can transform and become a hero, fighting against injustice and corruption in society.",
     "faq": [
       {
-        "q": "ما هو باتمان؟",
-        "a": "باتمان هو رمز الخوف على عالم الجريمة الإجرامي."
-      },
-      {
-        "q": "ما هو بداية باتمان؟",
-        "a": "بداية باتمان هو فيلم يروي قصة بروس واين في رحلة التصديق والخوف على عالم الجريمة الإجرامي."
-      },
-      {
-        "q": "ما هو الفساد الذي ابتلي مدينة جوثام؟",
-        "a": "الفساد هو جزء من النظام الأوسع الذي ابتلي مدينة جوثام ، وباتمان هو من يتصدى له"
+        "q": "ما هو موضوع الفيلم بداية باتمان؟",
+        "a": "يحكي الفيلم قصة بطل الجريمة باتمان الذي يقاتل الفساد في مدينة جوثام.",
+        "q_en": "What is the subject of the film Batman Begins?",
+        "a_en": "The film tells the story of the crime hero Batman who fights corruption in Gotham City."
       }
-    ]
+    ],
+    "keywords": "باتمان, بداية باتمان, فيلم, دراما, جريمة, حركة, جوثام, بروس واين, مشاهدة بداية باتمان, Batman Begins مترجم, تحميل بداية باتمان, بداية باتمان اون لاين, Batman Begins, بداية باتمان جودة عالية, فيلم بداية باتمان"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -52,5 +49,5 @@
   "duration": "140 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Christian Bale Michael Caine Liam Neeson Katie Holmes Gary Oldman"
+  "cast": "Christian Bale Michael Caine Liam Neeson Katie Holmes Gary Oldman Cillian Murphy Tom Wilkinson Rutger Hauer"
 }

@@ -9,7 +9,7 @@
   "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
   "release_date": "2024-06-05",
   "vote_average": 7.3,
-  "vote_count": 3326,
+  "vote_count": 3439,
   "genres": [
     {
       "id": 28,
@@ -25,12 +25,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن تم توريط قائدهما السابق النقيب الراحل \"كونراد هاورد\" يحاول \"مايك لاوري\" و\"ماركوس بورنيت\" تبرئة اسمه، لكن ينتهي بهما الأمر بالفرار بأنفسهما.",
-    "desc_en": "بعد أن تم توريط قائدهما السابق النقيب الراحل \"كونراد هاورد\" يحاول \"مايك لاوري\" و\"ماركوس بورنيت\" تبرئة اسمه، لكن ينتهي بهما الأمر بالفرار بأنفسهما.",
-    "meta_desc": "مشاهدة باد بويز: رايد اور داي مترجم بجودة عالية على توميتو.",
-    "keywords": "Bad Boys: Ride or Die, باد بويز: رايد اور داي مترجم, قصة فيلم باد بويز: رايد اور داي, أحداث باد بويز: رايد اور داي بالتفصيل, توميتو باد بويز: رايد اور داي, مشاهدة باد بويز: رايد اور داي 2026",
-    "seo_title_ar": "مشاهدة باد بويز: رايد اور داي مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يحكي فيلم \"باد بويز: رايد اور داي\" قصة رائعة عن محاولة اثنين من المحققين تبرئة اسم قائدهما السابق.",
+    "desc_ar": "يحكي فيلم \"باد بويز: رايد اور داي\" قصة رائعة عن محاولة اثنين من المحققين، \"مايك لاوري\" و\"ماركوس بورنيت\"، تبرئة اسم قائدهما السابق الذي تم توريطه في قضية جريمة، لكن في النهاية يجدانه أنفسهم متجاوزين حدود القانون، في رحلة ملحمية من الفرار والتحدي والصبر، حيث يتعاملون مع الأخطار والتحديات في كل خطوة، حتى يتمكنوا من تحقيق العدالة وبراءتهم.",
+    "desc_en": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves, in a thrilling ride of action, comedy, and crime, as they navigate through the dangers and challenges of their mission, all while trying to uncover the truth and clear their Captain's name.",
+    "seo_title_ar": "مشاهدة فيلم باد بويز: رايد اور داي مترجم - حركة كوميديا جريمة - توميتو",
+    "meta_desc": "شاهد فيلم باد بويز: رايد اور داي 2024 مترجم - حركة كوميديا جريمة - بدون إعلانات مزعجة - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية. استمتع",
+    "outro": "في النهاية، يحاول المحققون تبرئة اسم قائدهم السابق من خلال رحلة فرار ملحمية، ويتعاملون مع الأخطار والتحديات في كل خطوة.",
+    "opinion_ar": "فيلم \"باد بويز: رايد اور داي\" هو تجربة فنية رائعة، حيث يلعب الممثلون بططريقة مشوقة وملحمية، ويحاولون تبرئة اسم قائدهم السابق من خلال رحلة فرار ملحمية.",
+    "opinion_en": "The movie \"Bad Boys: Ride or Die\" is a thrilling experience, with the actors performing in a captivating and action-packed way, as they try to clear their Captain's name through a thrilling ride of action and comedy.",
+    "faq": [
+      {
+        "q": "ما هو موضوع فيلم \"باد بويز: رايد اور داي\"؟",
+        "a": "يحكي الفيلم عن محاولة اثنين من المحققين تبرئة اسم قائدهما السابق من توريط في قضية جريمة.",
+        "q_en": "What is the subject of the movie \"Bad Boys: Ride or Die\"?",
+        "a_en": "The movie is about two investigators trying to clear their Captain's name from being framed in a crime case."
+      },
+      {
+        "q": "ما هي نوع الفيلم؟",
+        "a": "الفيلم من نوع حركة كوميديا جريمة.",
+        "q_en": "What type of movie is it?",
+        "a_en": "The movie is an action comedy crime film."
+      }
+    ],
+    "keywords": "باد بويز: رايد اور داي, حركة, كوميديا, جريمة, فيلم, 2024, مترجم, بدون إعلانات مزعجة, مشاهدة باد بويز: رايد اور داي, Bad Boys: Ride Die مترجم, تحميل باد بويز: رايد اور داي, باد بويز: رايد اور داي اون لاين, Bad Boys: Ride Die, باد بويز: رايد اور داي جودة عالية, فيلم باد بويز: رايد اور داي"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -38,5 +55,5 @@
   "duration": "116 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Will Smith Martin Lawrence Vanessa Hudgens Alexander Ludwig Paola Nuñez"
+  "cast": "Will Smith Martin Lawrence Vanessa Hudgens Alexander Ludwig Paola Nuñez Eric Dane Ioan Gruffudd Jacob Scipio"
 }
