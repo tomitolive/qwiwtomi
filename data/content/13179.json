@@ -8,8 +8,8 @@
   "poster_path": "/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg",
   "backdrop_path": "/maeox8nZYIxAAE4SdyLA0VOXe1x.jpg",
   "release_date": "2008-09-11",
-  "vote_average": 6.9,
-  "vote_count": 1566,
+  "vote_average": 7.0,
+  "vote_count": 1611,
   "genres": [
     {
       "id": 16,
@@ -29,12 +29,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "انطلق في رحلة إلى العالم السري واستمع إلى تنة ورنة يتحدث لأول مرة على الإطلاق حيث يتم الكشف أخيرًا عن القصة المذهلة لأشهر جنيات ديزني في فيلم الحركة الجديد كليًا \"تنة ورنة\".",
-    "desc_en": "انطلق في رحلة إلى العالم السري واستمع إلى تنة ورنة يتحدث لأول مرة على الإطلاق حيث يتم الكشف أخيرًا عن القصة المذهلة لأشهر جنيات ديزني في فيلم الحركة الجديد كليًا \"تنة ورنة\".",
-    "meta_desc": "مشاهدة تنة ورنة مترجم بجودة عالية على توميتو.",
-    "keywords": "Tinker Bell, أحداث تنة ورنة بالتفصيل, مشاهدة تنة ورنة 2026, قصة فيلم تنة ورنة, تنة ورنة مترجم, توميتو تنة ورنة",
-    "seo_title_ar": "مشاهدة تنة ورنة مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "تُستكشف الأصوات والأشياء العجيبة في عالم السحر، حيث يتمكّن الجميع من الاستكشاف مع تنة ورنة في رحلة إلى العالم السري.",
+    "desc_ar": "يحكي هذا العمل قصة تنة ورنة، الجنية الشهيرة في عالم ديزني، التي تُعتبر من أكثر الجنيات شهرةً في هذا العالم. يتمكّن الجميع من الاستكشاف مع تنة ورنة في رحلة إلى العالم السري، حيث تكتشف الأصوات والأشياء العجيبة في هذا العالم الذي لم يُكشف عنه من قبل. سيكون هذا الأمل الذي لا يُنسى تجربةً لا تُنسى لجميع الأطفال والكبار على حد سواء.",
+    "desc_en": "Journey into the secret world of Pixie Hollow and hear Tinker Bell speak for the very first time as the astonishing story of Disney's most famous fairy is finally revealed in the all-new motion picture \"Tinker Bell.\"",
+    "seo_title_ar": "مشاهدة فيلم تنة ورنة مترجم - تنة ورنة - توميتو",
+    "meta_desc": "شاهد فيلم تنة ورنة مترجم - تنة ورنة، تختلق مغامرات جديدة في عالم السحر، حيث تكتشف الأشخاص العجائب والأشياء المدهشة. تحفز تنة ورنة الأطفال على الحلم وتعلمه",
+    "outro": "ستكون تجربةً لا تُنسى لجميع الأطفال والكبار على حد سواء، حيث يُحفز تنة ورنة الأطفال على الحلم وتعلمهم الأشياء الجديدة.",
+    "opinion_ar": "يعد فيلم تنة ورنة تجربةً فريدةً وممتعةً للجميع، حيث يُخلق الأمل ويُحفز الأطفال على الحلم.",
+    "opinion_en": "The film is a unique and enjoyable experience for all, as it creates hope and inspires children to dream.",
+    "faq": [
+      {
+        "q": "ما هي قصة فيلم تنة ورنة؟",
+        "a": "يحكي هذا العمل قصة تنة ورنة، الجنية الشهيرة في عالم ديزني، التي تُعتبر من أكثر الجنيات شهرةً في هذا العالم.",
+        "q_en": "What is the story of Tinker Bell?",
+        "a_en": "The film tells the story of Tinker Bell, Disney's most famous fairy, who is known as one of the most famous fairies in this world."
+      }
+    ],
+    "keywords": "تنة ورنة, فيلم, تندر بيل, تندر بل, ديزني, جني, جنيات, عالم السحر, عالم ديزني, مغامرة, عائلي, فانتازيا, رسوم متحركة, مشاهدة تنة ورنة, Tinker Bell مترجم"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -42,5 +53,5 @@
   "duration": "78 دقيقة",
   "language": "الإنجليزية",
   "country": "الهند",
-  "cast": "Mae Whitman Kristin Chenoweth Raven-Symoné Lucy Liu America Ferrera"
+  "cast": "Mae Whitman Kristin Chenoweth Raven-Symoné Lucy Liu America Ferrera Jane Horrocks Jesse McCartney Rob Paulsen"
 }

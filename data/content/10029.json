@@ -4,11 +4,9 @@
   "title_ar": "Great Performances",
   "title_en": "Great Performances",
   "slug": "10029-great-performances",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي عروض رائعة قصة إشراك فناني الموسيقى الكلاسيكية وال وال أغاني الشعبية والمسرحيات الموسيقية والرقص والدراما والمقالات الوثائقية في مسابقة فنية عالمية، يجمع بين أفضل مظاهر الفنون الإبداعية من مختلف أنحاء أمريكا والعالم، ويتم عرضها من خلال برامج متنوعة تقدم المسلسلات هذا العرض الرائع.",
   "poster_path": "/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-  "backdrop_path": "/v3WopDdgHCoNvoBS0V8eVJdurJP.jpg",
+  "backdrop_path": "/agKG106qEyccmflyi3zwHywuOtR.jpg",
   "release_date": "1971-01-28",
   "vote_average": 6.1,
   "vote_count": 25,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مسلسل الكوميديا والوثائقي والدراما «مظاهر الأداء»، نرى كيف يلعب الفنانيون دورهم في الحياة، من خلال قصص واقعية وتفاصيل حقيقية، تظهر لنا كيف يلعب الفن في الحياة اليومية، ويبرز القيم والจรائد، ويجعلنا نرى العالم من جديد.",
-    "desc_en": "In the comedy, documentary, and drama series 'Great Performances', we see how artists play their roles in life, through real-life stories and genuine details, showing us how art plays a role in everyday life, highlights values and pioneers, and makes us see the world anew.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الكوميديا والوثائقي والدراما «مظاهر الأداء»",
-    "seo_title_ar": "مشاهدة مسلسل مظاهر الأداء مترجم اون لاين - توميتو",
-    "keywords": "مشاهدة مسلسل مظاهر الأداء مترجم, فيلم كوميديا مترجم, أحداث Great Performances بالتفصيل, مشاهدة Great Performances 1971, توميتو Great Performances, قصة مسلسل Great Performances, Great Performances مترجم كامل",
-    "opinion": "هو مسلسل رائع يلقي الضوء على دور الفن في الحياة اليومية، ويبرز القيم والจรائد، ويجعلنا نرى العالم من جديد، هو من أفضل المسلسلات التي شاهدناها في السنوات الأخيرة.",
+    "intro": "يُعد عروض رائعة تجربة فنية فريدة وغنية بالمختلف.",
+    "desc_ar": "يحكي عروض رائعة قصة إشراك فناني الموسيقى الكلاسيكية وال وال أغاني الشعبية والمسرحيات الموسيقية والرقص والدراما والمقالات الوثائقية في مسابقة فنية عالمية، يجمع بين أفضل مظاهر الفنون الإبداعية من مختلف أنحاء أمريكا والعالم، ويتم عرضها من خلال برامج متنوعة تقدم المسلسلات هذا العرض الرائع.",
+    "desc_en": "The best in the performing arts from across America and around the world including a diverse programming portfolio of classical music, opera, popular song, musical theater, dance, drama, and performance documentaries are brought together in this exceptional performance series.",
+    "seo_title_ar": "مشاهدة مسلسل عروض رائعة مترجم - توميتو",
+    "meta_desc": "عروض رائعة - شاهد أفضل العروض المسرحية والفنية من جميع أنحاء العالم بترجمة احترافية وبدون إعلانات مزعجة. استمتع ببرنامج مسلسلات متنوعة من الموسيقى الكلاسيك",
+    "outro": "استمتع ببرنامج مسلسلات متنوعة من الموسيقى الكلاسيكية وال أوبرا وال أغاني الشعبية والمسرحيات الموسيقية والرقص والدراما والمقالات الوثائقية.",
+    "opinion_ar": "يُعد عروض رائعة تجربة فنية فريدة وغنية بالمختلف، حيث يتم التقاط أفضل العروض المسرحية والفنية من مختلف أنحاء العالم.",
+    "opinion_en": "Great Performances is a unique and enriching experience that captures the best in performing arts from around the world.",
     "faq": [
       {
-        "q": "ما هو مظاهر الأداء؟",
-        "a": "هو مسلسل كوميديا وثائقي ودراما يلقي الضوء على دور الفن في الحياة اليومية."
-      },
-      {
-        "q": "ما هي قيم مسلسل مظاهر الأداء؟",
-        "a": "يبرز القيم والจรائد في مسلسل مظاهر الأداء، ويجعلنا نرى العالم من جديد."
-      },
-      {
-        "q": "ما هو أفضل ما في مسلسل مظاهر الأداء؟",
-        "a": "هو من أفضل المسلسلات التي شاهدناها في السنوات الأخيرة، يلقي الضوء على دور الفن في الحياة اليومية"
+        "q": "ما هي عروض رائعة؟",
+        "a": "عروض رائعة هي مسلسل فني عالمي يجمع بين أفضل مظاهر الفنون الإبداعية من مختلف أنحاء العالم.",
+        "q_en": "What is Great Performances?",
+        "a_en": "Great Performances is a global arts series that brings together the best in performing arts from around the world."
       }
-    ]
+    ],
+    "keywords": "عروض رائعة, مسلسل, فنون إبداعية, موسيقى كلاسيكية, أوبرا, أغاني شعبية, مسرحيات موسيقية, رقص, دراما, مقالات وثائقية, مشاهدة عروض رائعة, Great Performances مترجم, تحميل عروض رائعة, عروض رائعة اون لاين, Great Performances"
   },
   "fixed": true,
-  "first_air_date": "1971-01-28",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "100 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Christian Slater Cameron Diaz Jon Favreau Leland Orser Jeremy Piven"
+  "cast": "Bray Poor",
+  "first_air_date": "1971-01-28"
 }

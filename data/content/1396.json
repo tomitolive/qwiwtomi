@@ -1,17 +1,15 @@
 {
   "id": 1396,
-  "title": "اختلال ضال",
-  "title_ar": "اختلال ضال",
+  "title": "Breaking Bad",
+  "title_ar": "Breaking Bad",
   "title_en": "Breaking Bad",
   "slug": "1396-breaking-bad",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "مدرس كيمياء في مدرسة ثانوية على وشك الوفاة بسبب السرطان، يشترك مع طالب سابق في صناعة وبيع عقار \"الميث\" لتأمين مستقبل أسرته.",
+  "overview": "والتر وايت مدرس كيمياء موهوب يعيش حياة هادئة ومتواضعة مع عائلته، إلى أن يكتشف إصابته بالسرطان ويقرر تأمين مستقبل أسرته قبل فوات الأوان. يستعين بطالبه السابق جيسي بينكمان لدخول عالم تصنيع وبيع الميثامفيتامين، مستغلًا خبرته في الكيمياء لإنتاج مخدر عالي الجودة. ومع نجاحهما، ينغمس والتر تدريجيًا في عالم الجريمة وتجارة المخدرات، ويبدأ في بناء نفوذ متزايد يضعه في مواجهة تجار مخدرات خطرين وأجهزة إنفاذ القانون، بينما تتغير شخصيته وطموحاته مع ازدياد قوته واتساع إمبراطوريته الإجرامية.",
   "poster_path": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
   "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
   "release_date": "2008-01-20",
   "vote_average": 8.9,
-  "vote_count": 17805,
+  "vote_count": 18462,
   "genres": [
     {
       "id": 18,
@@ -23,19 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "مدرس كيمياء في مدرسة ثانوية على وشك الوفاة بسبب السرطان، يشترك مع طالب سابق في صناعة وبيع عقار \"الميث\" لتأمين مستقبل أسرته.",
-    "desc_en": "مدرس كيمياء في مدرسة ثانوية على وشك الوفاة بسبب السرطان، يشترك مع طالب سابق في صناعة وبيع عقار \"الميث\" لتأمين مستقبل أسرته.",
-    "meta_desc": "مشاهدة اختلال ضال مترجم بجودة عالية على توميتو.",
-    "keywords": "Breaking Bad, توميتو اختلال ضال, قصة فيلم اختلال ضال, اختلال ضال مترجم, أحداث اختلال ضال بالتفصيل, مشاهدة اختلال ضال 2026",
-    "seo_title_ar": "مشاهدة اختلال ضال مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "يتناول مسلسل \"سيئة للغاية\" قصة معلم الكيمياء والتر وايت، الذي يخوض تجربة في عالم الجريمة وتجارة المخدرات، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية.",
+    "desc_ar": "يحكي مسلسل \"سيئة للغاية\" قصة معلم الكيمياء والتر وايت، الذي يعيش حياة هادئة مع عائلته في نيومكسيكو، لكن حياته تتغير عندما يكتشف إصابته بالسرطان، ويقرر تأمين مستقله و مستقبل عائلته، ويستعين بطالبه السابق جيسي بينكمان لدخول عالم تصنيع وبيع الميثامفيتامين، مستغلًا خبرته في الكيمياء لإنتاج مخدر عالي الجودة، وينغمس تدريجيًا في عالم الجريمة وتجارة المخدرات، ويبدأ في بناء نفوذ متزايد يضعه في مواجهة تجار مخدرات خطرين وأجهزة إنفاذ القانون.",
+    "desc_en": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime. With the help of his former student Jesse Pinkman, Walter White enters the world of methamphetamine production and distribution, using his chemistry expertise to create a high-quality product. As he becomes more entrenched in the world of crime and narcotics, Walter White's personality and ambitions begin to change, and he starts to build a growing influence that puts him at odds with powerful drug traffickers and law enforcement agencies.",
+    "seo_title_ar": "مشاهدة مسلسل سيئة للغاية مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل سيئة للغاية على توميتو، قصة معلم الكيمياء والتر وايت الذي يخوض تجربة في عالم الجريمة وتجارة المخدرات، استمتع بمشاهدة هذا العمل بجودة عالية وتر",
+    "outro": "مسلسل \"سيئة للغاية\" هو تجربة مسلية ومثيرة، يحتوي على شخصيات غريبة ومغامرات مثيرة، يستحق المشاهدة!",
+    "opinion_ar": "مسلسل \"سيئة للغاية\" هو تجربة مسلية ومثيرة، يحتوي على شخصيات غريبة ومغامرات مثيرة، يستحق المشاهدة!",
+    "opinion_en": "Breaking Bad is an exciting and thrilling experience, with unique characters and gripping storylines, definitely worth watching!",
+    "faq": [
+      {
+        "q": "ما هو موضوع مسلسل \"سيئة للغاية\"؟",
+        "a": "يتناول مسلسل \"سيئة للغاية\" قصة معلم الكيمياء والتر وايت الذي يخوض تجربة في عالم الجريمة وتجارة المخدرات.",
+        "q_en": "What is the subject of the series \"Breaking Bad\"?",
+        "a_en": "The series \"Breaking Bad\" follows the story of a chemistry teacher, Walter White, who becomes involved in the world of crime and narcotics."
+      }
+    ],
+    "keywords": "سيئة للغاية, مسلسل, دراما, جريمة, تجارة مخدرات, كيمياء, سرطان, تجربة, مشاهدة سيئة للغاية, Breaking Bad مترجم, تحميل سيئة للغاية, سيئة للغاية اون لاين, Breaking Bad, سيئة للغاية جودة عالية, فيلم سيئة للغاية"
   },
   "fixed": true,
-  "first_air_date": "2008-01-20",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "107 دقيقة",
-  "language": "الروسية",
-  "country": "الاتحاد السوفيتي",
-  "cast": "Margarita Terekhova Ignat Daniltsev Larisa Tarkovskaya Alla Demidova Anatoliy Solonitsyn"
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Bryan Cranston Aaron Paul Anna Gunn RJ Mitte Dean Norris Betsy Brandt Bob Odenkirk Jonathan Banks",
+  "first_air_date": "2008-01-20"
 }

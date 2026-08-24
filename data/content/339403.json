@@ -9,7 +9,7 @@
   "backdrop_path": "/yir5430WblZSZuIMd9C6pIZerfA.jpg",
   "release_date": "2017-06-28",
   "vote_average": 7.4,
-  "vote_count": 16818,
+  "vote_count": 17103,
   "genres": [
     {
       "id": 28,
@@ -21,26 +21,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجريمة والسرقة، يجد سائق الفرار الشاب نفسه يشارك في سرقة محكوم عليها بالفشل بعد إجباره على العمل لدى زعيم جريمة. لكنه يكتشف أن هناك أكثر من ما يبدو على السطح، ويقوم بالتجسس والتحقيق في سرقة كبيرة، ويحاول أن ينجو من الموت، ويحافظ على حياته، ويحصل على حريته",
-    "desc_en": "In a world of crime and theft, a young getaway driver finds himself involved in a failed heist after being forced to work for a crime boss. But he discovers that there's more to it than meets the eye, and he must use his skills to investigate a big score, avoid death, and secure his freedom",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فيلم بيبي درايفر",
-    "seo_title_ar": "مشاهدة فيلم بيبي درايفر مترجم اون لاين - توميتو",
-    "keywords": "Baby Driver, فيلم كذا مترجم, مشاهدة فيلم كذا, سائق فرار, سرقة محكوم عليها بالفشل, مشاهدة بيبي درايفر 2017, بيبي درايفر مترجم, أحداث بيبي درايفر بالتفصيل, قصة فيلم بيبي درايفر, توميتو بيبي درايفر",
-    "opinion": "فيلم بيبي درايفر هو فيلم رائع يجمع بين الحركة والجريمة، ويقدم لنا أحداث إثارة تفيض بنا بالدrama والعمل",
+    "intro": "يحكي فيلم بيبي درايفر قصة شاب يعمل كسائق فرار في سلسلة من عمليات السرقة التي تهدد بالفشل.",
+    "desc_ar": "يحكي فيلم بيبي درايفر قصة شاب يجد نفسه مضطراً للعمل لدى زعيم جريمة بعد إجبار، ويتولى مهمة سائق فرار في سلسلة من عمليات السرقة التي تهدد بالفشل، ويتعرض لمجموعة من التحديات والمخاطر في مسيرته الصعبة، ويتجاوز العديد من التحديات ليتغلب على الصعاب التي واجهها.",
+    "desc_en": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail, facing a series of challenges and risks as he navigates his difficult journey, overcoming numerous obstacles along the way.",
+    "seo_title_ar": "مشاهدة فيلم بيبي درايفر مترجم - توميتو",
+    "meta_desc": "فيلم بيبي درايفر مترجم 2017 حركة جريمة استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالية و",
+    "outro": "فيلم بيبي درايفر هو تجربة مشاهدة مثيرة تجمع بين الحركة والجريمة، مع شخصيات مميزة وعمليات سرقة مثيرة.",
+    "opinion_ar": "فيلم بيبي درايفر هو تجربة مشاهدة مثيرة تجمع بين الحركة والجريمة، مع شخصيات مميزة وعمليات سرقة مثيرة.",
+    "opinion_en": "Baby Driver is a thrilling watch that combines action and crime, with distinctive characters and exciting heists.",
     "faq": [
       {
         "q": "ما هو فيلم بيبي درايفر؟",
-        "a": "فيلم رائع يجمع بين الحركة والجريمة"
-      },
-      {
-        "q": "ما هو نوع فيلم بيبي درايفر؟",
-        "a": "فيلم حركة جريمة"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم بيبي درايفر؟",
-        "a": "الأحداث الإثارة والعمل والدراما"
+        "a": "فيلم حركة جريمة أمريكي إخراج أنجلينو تارانتينو",
+        "q_en": "What is Baby Driver?",
+        "a_en": "An American action crime film directed by Edgar Wright"
       }
-    ]
+    ],
+    "keywords": "فيلم, بيبي درايفر, مترجم, 2017, حركة, جريمة, توميتو, فيلم بيبي درايفر, مشاهدة بيبي درايفر, Baby Driver مترجم, تحميل بيبي درايفر, بيبي درايفر اون لاين, Baby Driver, بيبي درايفر جودة عالية, Baby Driver HD"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -48,5 +45,5 @@
   "duration": "113 دقيقة",
   "language": "الإنجليزية",
   "country": "المملكة المتحدة",
-  "cast": "Ansel Elgort Kevin Spacey Lily James Jon Hamm Jamie Foxx"
+  "cast": "Ansel Elgort Kevin Spacey Lily James Jon Hamm Jamie Foxx Jon Bernthal Eiza González Flea"
 }

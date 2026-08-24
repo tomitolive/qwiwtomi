@@ -4,14 +4,12 @@
   "title_ar": "فارس وفادي",
   "title_en": "Phineas and Ferb",
   "slug": "1877-phineas-and-ferb",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "كل يوم، يشرع الأخوان غير الشقيقين الطيبين في عطلة صيفية في تنفيذ مشروع جديد ومبتكر، ما يثير استياء شقيقتهما المتسلطة سندس التي تحاول بكل جهد إفشالهما. وفي ذات الوقت، يخطط حيوانهم بيري خلد الماء مكافحة مخططات الدكتور شر أبو الأشرار.",
   "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
   "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
   "release_date": "2007-08-17",
   "vote_average": 7.9,
-  "vote_count": 1013,
+  "vote_count": 1051,
   "genres": [
     {
       "id": 16,
@@ -31,33 +29,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في كل يوم، يشرع الأخوان غير الشقيقين الطيبين في عطلة صيفية في تنفيذ مشروع جديد ومبتكر، ما يثير استياء شقيقتهما المتسلطة سندس التي تحاول بكل جهد إفشالهما. في هذا العالم المليء بالمرح والفантаジア، يلعب الأخوان دوراً رئيسياً في تحقيق أحلامهم وتصديقهم بأن أي شيء ممكن، إذا كان بإمكانهم أن يفعلوا ذلك.",
-    "desc_en": "Every day, the stepbrothers, Phineas and Ferb, embark on a new and creative project, much to the dismay of their older sister Candace, who tries her best to bust them. In this world full of fun and fantasy, the brothers play a key role in achieving their dreams and proving that anything is possible, as long as they can do it.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع فارس وفادي!",
-    "seo_title_ar": "مشاهدة فيلم فارس وفادي مترجم اون لاين - توميتو",
-    "keywords": "Phineas and Ferb, فيلم كوميديا مترجم, مشاهدة فيلم رسوم متحركة, قصة مسلسل فارس وفادي, فارس وفادي مترجم كامل, مشاهدة فارس وفادي 2007, أحداث فارس وفادي بالتفصيل, توميتو فارس وفادي",
-    "opinion": "هذا الفيلم يحتوي على الكثير من المرح والفантаジア، مما يجعله مناسبًا لجميع الأعمار.",
+    "intro": "يحظى هذا المسلسل بالعديد من الأجزاء التي تظهر فيها اختراعات مبتكرة من قبل الأخوان في كل مرة، مما يجعلهم يعتبرون أبرز الأصدقاء في المنطقة.",
+    "desc_ar": "يحكي هذا المسلسل قصة أخوان غير شقيقين يشرعون في تنفيذ مشاريع مبتكرة كل يوم خلال عطلة صيفيتهم، مما يثير استياء شقيقتهما المتسلطة سندس التي تحاول بكل جهد إفشال أعمالهم. وفي ذات الوقت، يحاول حيوانهم بيري خلد الماء منع مخططات الدكتور شر أبو الأشرار الذي يرغب في إفساح المجال أمام خططه الشريرة. ومع ذلك، يظل الأخوان يقضون وقتًا سعيدًا في تنفيذ مشاريعهم، مما يجعلهم يعتبرون أبرز الأصدقاء في المنطقة. وفي كل مرة، يجد الدكتور شر أبو الأشرار نفسه أمام تعقيدات جديدة في محاولاته لتفويت خطط أخوان فارس وفادي.",
+    "desc_en": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz, who always seems to find new complications in his attempts to thwart the plans of brothers Phineas and Ferb.",
+    "seo_title_ar": "مشاهدة مسلسل فارس وفادي مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل فارس وفادي مترجم 2007 مترجم - تم تصوير هذا المسلسل الرائع حول أخوان غير شقيقين يشرعون في تنفيذ مشاريع مبتكرة كل يوم خلال عطلة صيفيتهم، مما يثير",
+    "outro": "يظل المسلسل يعكس قصة أخوان غير شقيقين يشرعون في تنفيذ مشاريع مبتكرة كل يوم خلال عطلة صيفيتهم، مما يثير استياء شقيقتهما المتسلطة سندس التي تحاول بكل جهد إفشال أعمالهم.",
+    "opinion_ar": "يعد مسلسل فارس وفادي من بين أفضل المسلسلات التي يجب مشاهدتها، حيث يطرح هذه القصة hpاسين لأطفالنا وبالتالي تؤدي إلى تعزيز الإبداع والمهارات الخلاقة.",
+    "opinion_en": "Phineas and Ferb is one of the best animated shows that kids should watch, as this engaging story promotes creativity and creative skills.",
     "faq": [
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم رسوم متحركة"
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم كوميديا"
-      },
-      {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم عائلي"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي هذا المسلسل قصة أخوان غير شقيقين يشرعون في تنفيذ مشاريع مبتكرة كل يوم خلال عطلة صيفيتهم.",
+        "q_en": "What is the topic of the show?",
+        "a_en": "The show is about two stepbrothers who spend their summer vacation embarking on new creative projects every day."
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, كوميديا, عائلي, خيال علمي وفانتازيا, مسلسل, فارس وفادي, Phineas Ferb, 2007, مشاهدة فارس وفادي, Phineas Ferb مترجم, تحميل فارس وفادي, فارس وفادي اون لاين, فارس وفادي جودة عالية, فيلم فارس وفادي, Phineas and Ferb مترجم"
   },
   "fixed": true,
-  "first_air_date": "2007-08-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "74 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Jeffrey Combs Yvette Nipar Jay Acovone Keith Coulouris Ritch Brinkley"
+  "cast": "Vincent Martella David Errigo Jr. Ashley French Caroline Rhea Dee Bradley Baker Alyson Stoner Dan Povenmire Jeff 'Swampy' Marsh",
+  "first_air_date": "2007-08-17"
 }

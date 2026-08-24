@@ -12659,8 +12659,158 @@
       "file": "63849.json",
       "title": "Almanya - Willkommen in Deutschland",
       "fixed_at": "2026-08-24T14:22:09.677607"
+    },
+    {
+      "tmdb_id": "13179",
+      "file": "13179.json",
+      "title": "تنة ورنة",
+      "fixed_at": "2026-08-24T15:09:04.390500"
+    },
+    {
+      "tmdb_id": "114500",
+      "file": "114500.json",
+      "title": "Win or Lose",
+      "fixed_at": "2026-08-24T15:09:12.651249"
+    },
+    {
+      "tmdb_id": "496",
+      "file": "496.json",
+      "title": "Family Ties",
+      "fixed_at": "2026-08-24T15:09:20.477804"
+    },
+    {
+      "tmdb_id": "744",
+      "file": "744.json",
+      "title": "السلاح الأمثل",
+      "fixed_at": "2026-08-24T15:10:11.307319"
+    },
+    {
+      "tmdb_id": "2009",
+      "file": "2009.json",
+      "title": "مغامرات الأصدقاء الأربعة",
+      "fixed_at": "2026-08-24T15:10:19.536419"
+    },
+    {
+      "tmdb_id": "1469342",
+      "file": "1469342.json",
+      "title": "Her Private Hell",
+      "fixed_at": "2026-08-24T15:10:28.999998"
+    },
+    {
+      "tmdb_id": "2321",
+      "file": "2321.json",
+      "title": "The Unit",
+      "fixed_at": "2026-08-24T15:10:36.243703"
+    },
+    {
+      "tmdb_id": "1396",
+      "file": "1396.json",
+      "title": "اختلال ضال",
+      "fixed_at": "2026-08-24T15:10:45.607451"
+    },
+    {
+      "tmdb_id": "339403",
+      "file": "339403.json",
+      "title": "بيبي درايفر",
+      "fixed_at": "2026-08-24T15:10:52.400800"
+    },
+    {
+      "tmdb_id": "848116",
+      "file": "848116.json",
+      "title": "Rocky Aur Rani Kii Prem Kahaani",
+      "fixed_at": "2026-08-24T15:11:01.601613"
+    },
+    {
+      "tmdb_id": "108181",
+      "file": "108181.json",
+      "title": "Imperfect Women",
+      "fixed_at": "2026-08-24T15:11:14.033660"
+    },
+    {
+      "tmdb_id": "1236153",
+      "file": "1236153.json",
+      "title": "ميرسي",
+      "fixed_at": "2026-08-24T15:11:22.393909"
+    },
+    {
+      "tmdb_id": "34967",
+      "file": "34967.json",
+      "title": "Falling Skies",
+      "fixed_at": "2026-08-24T15:11:31.533225"
+    },
+    {
+      "tmdb_id": "117376",
+      "file": "117376.json",
+      "title": "فينتشنزو",
+      "fixed_at": "2026-08-24T15:11:39.639599"
+    },
+    {
+      "tmdb_id": "1171094",
+      "file": "1171094.json",
+      "title": "Ek Din",
+      "fixed_at": "2026-08-24T15:11:49.475568"
+    },
+    {
+      "tmdb_id": "1403",
+      "file": "1403.json",
+      "title": "مارفيل: عملاء شيلد",
+      "fixed_at": "2026-08-24T15:11:59.142194"
+    },
+    {
+      "tmdb_id": "1401778",
+      "file": "1401778.json",
+      "title": "Turbulence",
+      "fixed_at": "2026-08-24T15:12:10.864325"
+    },
+    {
+      "tmdb_id": "10029",
+      "file": "10029.json",
+      "title": "Great Performances",
+      "fixed_at": "2026-08-24T15:12:20.318898"
+    },
+    {
+      "tmdb_id": "63130",
+      "file": "63130.json",
+      "title": "Red Oaks",
+      "fixed_at": "2026-08-24T15:12:31.688931"
+    },
+    {
+      "tmdb_id": "31910",
+      "file": "31910.json",
+      "title": "ناروتو شيبودن",
+      "fixed_at": "2026-08-24T15:12:40.972682"
+    },
+    {
+      "tmdb_id": "2215",
+      "file": "2215.json",
+      "title": "Monarch of the Glen",
+      "fixed_at": "2026-08-24T15:12:56.458548"
+    },
+    {
+      "tmdb_id": "80040",
+      "file": "80040.json",
+      "title": "محاربو السندوكاي",
+      "fixed_at": "2026-08-24T15:13:06.330170"
+    },
+    {
+      "tmdb_id": "60694",
+      "file": "60694.json",
+      "title": "لأسبوع الماضي مع جون أوليفر",
+      "fixed_at": "2026-08-24T15:13:15.766881"
+    },
+    {
+      "tmdb_id": "1877",
+      "file": "1877.json",
+      "title": "فارس وفادي",
+      "fixed_at": "2026-08-24T15:13:23.956544"
+    },
+    {
+      "tmdb_id": "974635",
+      "file": "974635.json",
+      "title": "قاتل مأجور",
+      "fixed_at": "2026-08-24T15:13:31.099862"
     }
   ],
-  "last_updated": "2026-08-24T14:22:11.753495",
-  "total_fixed": 2110
+  "last_updated": "2026-08-24T15:13:33.256652",
+  "total_fixed": 2135
 }

@@ -1,61 +1,53 @@
 {
   "id": 80040,
-  "title": "محاربو السندوكاي",
-  "title_ar": "محاربو السندوكاي",
-  "title_en": "Desafo Champions Sendokai",
-  "slug": "80040-desafo-champions-sendokai",
-  "overview": "أربعة أطفــال من كـوكـب الأرض، لم يحظـوا بالشهرة بين الآخـرين، ولم يكونوا متمتّعين بمواهب رياضية مميّزة، ولكن حياتهم تنقلب تمامًا، عندما يعثرون ذات يوم على أساور تغيّر أحجام أجسامهم، وتمنحهم قدرات خاصة",
+  "title": "Cold Storage",
+  "title_ar": "Cold Storage",
+  "title_en": "Cold Storage",
+  "slug": "80040-cold-storage",
+  "overview": "يحكي فيلم \"التخزين البارد\" قصة لطيفة حول عطلة الشتاء، حيث يجد طائر عسلي يبرد بسبب الطقس البارد ويستقر في منزله البلاستيك للكلاب. يتعثر بلوتو، الذي أصبح باردًا ومتعبًا، في التخلص من الطائر الغريب الذي استولى على منزله. ومع ذلك، لا يستطيع بلوتو التخلص من الطائر، حتى عندما يدرك أن منزله يغادر دون .",
   "poster_path": "/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg",
-  "backdrop_path": "/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
-  "release_date": "2013-04-09",
-  "vote_average": 8.6,
-  "vote_count": 240,
+  "backdrop_path": null,
+  "release_date": "1951-02-09",
+  "vote_average": 6.3,
+  "vote_count": 17,
   "genres": [
     {
       "id": 16,
       "name": "رسوم متحركة"
     },
     {
-      "id": 35,
-      "name": "كوميديا"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
-    {
       "id": 10751,
       "name": "عائلي"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل محاربو السندوكاي (2013) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "محاربو السندوكاي: مسلسل رسوم متحركة ممتع ومليء بالمغامرات، حيث يدور حول أربعة أطفال عاديين يكتشفون قدرات خارقة عندما يعثرون على أساور سحرية. Desafo Champions Sendokai يسلط الضوء على رحلة هؤلاء الأبطال الصغار في عالم السندوكاي، ويواجهون تحديات مثيرة.",
-    "desc_en": "Desafo Champions Sendokai: An animated series about four ordinary kids who uncover extraordinary powers through magical bracelets. Follow their journey as they become Sendokai Champions and battle against all odds.",
-    "seo_title_ar": "مشاهدة مسلسل محاربو السندوكاي Desafo Champions Sendokai مترجم - توميتو",
-    "meta_desc": "محاربو السندوكاي - Desafo Champions Sendokai: مسلسل رسوم متحركة ممتع، يجمع بين الكوميديا والمغامرة، حيث يكتشف أطفال عاديين قدرات خارقة.",
-    "outro": "شاهد محاربو السندوكاي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "محاربو السندوكاي مسلسل ممتع ومليء بالتشويق، يجمع بين الكوميديا والحركة، ويجذب الصغار والكبار على حد سواء. قصة مبدعة ومثيرة للاهتمام.",
-    "opinion_en": "Desafo Champions Sendokai is an engaging animated series with a unique twist. It offers a fun blend of comedy and action, appealing to both kids and adults alike.",
+    "intro": "يحكي فيلم \"التخزين البارد\" قصة لطيفة حول عطلة الشتاء، حيث يجد طائر عسلي يبرد بسبب الطقس البارد.",
+    "desc_ar": "يحكي فيلم \"التخزين البارد\" قصة لطيفة حول عطلة الشتاء، حيث يجد طائر عسلي يبرد بسبب الطقس البارد ويستقر في منزله البلاستيك للكلاب. يتعثر بلوتو، الذي أصبح باردًا ومتعبًا، في التخلص من الطائر الغريب الذي استولى على منزله. ومع ذلك، لا يستطيع بلوتو التخلص من الطائر، حتى عندما يدرك أن منزله يغادر دون .",
+    "desc_en": "An egret, frozen by the winter weather, moves into Pluto's doghouse. Pluto, cold and tired, takes a while to realize his doghouse is moving around without him. Even when he does realize, though, he has a hard time dislodging the interloper.",
+    "seo_title_ar": "مشاهدة فيلم التخزين البارد مترجم - Cold Storage - توميتو",
+    "meta_desc": "يحكي فيلم التخزين البارد قصة لطيفة حول عطلة الشتاء، حيث يجد طائر عسلي يبرد بسبب الطقس البارد ويستقر في منزله البلاستيك للكلاب. استمتع بمشاهدة هذا العمل ب",
+    "outro": "إنه فيلم ممتع ومسلئ لجميع أفراد الأسرة، سواء كانوا صغارًا أو كبارًا.",
+    "opinion_ar": "فيلم \"التخزين البارد\" هو إحدى أفضل العروض التلفزيونية الرسومية للعائلات التي تطلعنا إلى مشاهدةها.",
+    "opinion_en": "Cold Storage is one of the best animated TV shows for families that I highly recommend watching.",
     "faq": [
       {
-        "q": "هل مسلسل محاربو السندوكاي مناسب لجميع الأعمار؟",
-        "a": "نعم، محاربو السندوكاي مسلسل عائلي مناسب لمشاهدة جميع أفراد العائلة، فهو مليء بالمغامرات المشوقة والرسوم المتحركة الجذابة.",
-        "q_en": "Is Desafo Champions Sendokai suitable for all ages?",
-        "a_en": "Absolutely! Desafo Champions Sendokai is a family-friendly series with exciting adventures and captivating animation, suitable for viewers of all ages."
+        "q": "ما هو تاريخ إصدار فيلم التخزين البارد؟",
+        "a": "تم إصدار فيلم \"التخزين البارد\" في عام 1951.",
+        "q_en": "What is the release year of Cold Storage?",
+        "a_en": "Cold Storage was released in 1951."
       }
     ],
-    "keywords": "محاربو السندوكاي, Desafo Champions Sendokai, رسوم متحركة, كوميديا, حركة, مغامرة, عائلي, أساور سحرية, أبطال, تحديات"
+    "keywords": "فيلم التخزين البارد, Cold Storage, رسوم متحركة, عائلي, كوميديا, فيلم 1951, مشاهدة التخزين البارد, Cold Storage مترجم, تحميل التخزين البارد, التخزين البارد اون لاين, التخزين البارد جودة عالية, Cold Storage HD, التخزين البارد HD, مسلسل التخزين البارد, Cold Storage online"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "22 دقيقة",
-  "language": "الإسبانية",
-  "country": "إسبانيا",
-  "cast": "Alex de Porrata Carme Calvell David Jenner Ariadna Jiménez",
-  "first_air_date": "2013-04-09",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "7 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Pinto Colvig"
 }
