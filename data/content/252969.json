@@ -4,12 +4,12 @@
   "title_ar": "Secret Pleasures",
   "title_en": "Secret Pleasures",
   "slug": "252969-secret-pleasures",
-  "overview": "",
+  "overview": "يحكي فيلم المتع السرية قصة سيدة جذابة ومدربة في التحقيقات، تعمل لصالح مليونير غامض لا يعرف أنها ستجازف في مسار حب مرتعش لجمع كل الأدلة اللازمة لاتمام المهمة.",
   "poster_path": "/j0Qu5opplDTot70kMqVqzURFXHY.jpg",
-  "backdrop_path": "/j0Qu5opplDTot70kMqVqzURFXHY.jpg",
+  "backdrop_path": null,
   "release_date": "2002-10-15",
-  "vote_average": 3.2,
-  "vote_count": 10,
+  "vote_average": 3.1,
+  "vote_count": 11,
   "genres": [
     {
       "id": 18,
@@ -21,12 +21,29 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "تدور أحداث هذا الفيلم الدرامي حول قصة معقدة تلامس جوانب الحياة المظلمة، حيث تتقاطع مصائر الشخصيات في رحلة مليئة بالغموض والتشويق. يكشف الفيلم عن أسرار مخفية وعلاقات متشابكة تضع الشخصيات أمام تحديات صعبة.",
-    "desc_en": "The events of this dramatic film revolve around a complex story that touches on the dark sides of life, where the fates of characters intersect in a journey filled with mystery and suspense. The film reveals hidden secrets and intertwined relationships that place the characters before difficult challenges.",
-    "meta_desc": "مشاهدة Secret Pleasures مترجم بجودة عالية على توميتو.",
-    "keywords": "Secret Pleasures مترجم, مشاهدة Secret Pleasures 2026, توميتو Secret Pleasures, أحداث Secret Pleasures بالتفصيل, قصة فيلم Secret Pleasures",
-    "seo_title_ar": "مشاهدة Secret Pleasures مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "intro": "في عالم مليء بالسرية والغموض، يغوص فيلم المتع السرية في عالم المحققين الذين يبحثون عن الحقيقة.",
+    "desc_ar": "يحكي فيلم المتع السرية قصة سيدة جذابة ومدربة في التحقيقات، تعمل لصالح مليونير غامض لا يعرف أنها ستجازف في مسار حب مرتعش لجمع كل الأدلة اللازمة لاتمام المهمة.",
+    "desc_en": "An attractive woman detective, expert in cases of conjugal infidelity is hired by a mysterious millionaire, unaware that she will get involved in a feverish love triangle to gather all the evidence she needs to finish the case.",
+    "seo_title_ar": "مشاهدة فيلم المتع السرية مترجم - Secret Pleasures - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم Secret Pleasures مترجم - فيلم دراما وجريمة غامض، يتبع قصة محققين في حالات الزنا المحرم، مع تمارك ساخنة ومليئة بالدراما والجريمة. ا",
+    "outro": "نهاية فيلم المتع السرية تلفت الانتباه، حيث تترك المشاهد بمزيد من الأسئلة والتفكير حول ما إذا كانوا قد فهموا القصة بشكل كافٍ.",
+    "opinion_ar": "يعد فيلم المتع السرية تجربة رائعة للعديد من المشاهدين، حيث يتعرض المشاهد لعدة تفاصيل مثيرة في قصة محفزة.",
+    "opinion_en": "Secret Pleasures is a thrilling experience for many viewers, as it presents them with several intriguing details in an engaging storyline.",
+    "faq": [
+      {
+        "q": "ما هو موضوع فيلم المتع السرية؟",
+        "a": "يحكي الفيلم قصة محققين في حالات الزنا المحرم.",
+        "q_en": "What is the subject of the film Secret Pleasures?",
+        "a_en": "The film follows the story of detectives investigating cases of conjugal infidelity."
+      },
+      {
+        "q": "ما هو نوع الفيلم؟",
+        "a": "يعد الفيلم دراما وجريمة غامض.",
+        "q_en": "What type of film is Secret Pleasures?",
+        "a_en": "The film is a mystery drama and thriller."
+      }
+    ],
+    "keywords": "فيلم دراما, فيلم جريمة, فيلم غامض, محققين, حالات الزنا المحرم, مسار حب مرتعش, مليونير غامض, محققين في حالات الزنا المحرم, مشاهدة المتع السرية, Secret Pleasures مترجم, تحميل المتع السرية, المتع السرية اون لاين, Secret Pleasures, المتع السرية جودة عالية, فيلم المتع السرية"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -34,5 +51,5 @@
   "duration": "90 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Kim Yates Rick Majeske Nikki Fritz Everett Rodd Ahmo Hight"
+  "cast": "Kim Yates Rick Majeske Nikki Fritz Everett Rodd Ahmo Hight Taimie Hannum Pam Loe Michelle von Flotow"
 }

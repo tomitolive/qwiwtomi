@@ -4,14 +4,12 @@
   "title_ar": "قائمة الموتى",
   "title_en": "The Terminal List",
   "slug": "120911-the-terminal-list",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتحول رائد البحرية \"جيمس ريس\" إلى الانتقام بينما يحقق في القوى الغامضة وراء مقتل فصيلته بأكملها. بعيدًا عن هيكل القيادة العسكرية، يطبق\"ريس\" الدروس التي تعلمها من ما يقرب من عقدين من الحرب لتعقب الأشخاص المسؤولين.",
   "poster_path": "/jbyaKYNexl1poKZnEmB6Qobn60s.jpg",
   "backdrop_path": "/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
   "release_date": "2022-06-30",
-  "vote_average": 8,
-  "vote_count": 1104,
+  "vote_average": 7.9,
+  "vote_count": 1182,
   "genres": [
     {
       "id": 10759,
@@ -23,19 +21,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل قائمة الموتى (2022) مترجم بجودة عالية على توميتو.",
     "desc_ar": "يتحول رائد البحرية \"جيمس ريس\" إلى الانتقام بينما يحقق في القوى الغامضة وراء مقتل فصيلته بأكملها. بعيدًا عن هيكل القيادة العسكرية، يطبق\"ريس\" الدروس التي تعلمها من ما يقرب من عقدين من الحرب لتعقب الأشخاص المسؤولين.",
-    "desc_en": "يتحول رائد البحرية \"جيمس ريس\" إلى الانتقام بينما يحقق في القوى الغامضة وراء مقتل فصيلته بأكملها. بعيدًا عن هيكل القيادة العسكرية، يطبق\"ريس\" الدروس التي تعلمها من ما يقرب من عقدين من الحرب لتعقب الأشخاص المسؤولين.",
-    "meta_desc": "مشاهدة قائمة الموتى مترجم بجودة عالية على توميتو.",
-    "keywords": "The Terminal List, مشاهدة قائمة الموتى 2026, أحداث قائمة الموتى بالتفصيل, قائمة الموتى مترجم, قصة فيلم قائمة الموتى, توميتو قائمة الموتى",
-    "seo_title_ar": "مشاهدة قائمة الموتى مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+    "seo_title_ar": "مشاهدة مسلسل The Terminal List مترجم - توميتو",
+    "meta_desc": "مشاهدة قائمة الموتى مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد قائمة الموتى الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل قائمة الموتى?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch The Terminal List?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل قائمة الموتى?",
+        "a": "يندرج العمل تحت تصنيف حركة ومغامرة, دراما.",
+        "q_en": "What is the genre of The Terminal List?",
+        "a_en": "It falls under the genre of حركة ومغامرة, دراما."
+      },
+      {
+        "q": "ما هي قصة مسلسل قائمة الموتى?",
+        "a": "يتحول رائد البحرية \"جيمس ريس\" إلى الانتقام بينما يحقق في القوى الغامضة وراء مقتل فصيلته بأكملها. بعيدًا عن هيكل القيادة العسكرية، يطبق\"ريس\" الدروس التي تعلمها من ما يقرب من عقدين من الحرب لتعقب الأشخا...",
+        "q_en": "What is the story of The Terminal List?",
+        "a_en": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lesso..."
+      }
+    ],
+    "keywords": "قائمة الموتى مترجم, The Terminal List مترجم, مشاهدة قائمة الموتى,"
   },
   "fixed": true,
-  "first_air_date": "2022-06-30",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Chris Pratt",
+  "first_air_date": "2022-06-30"
 }

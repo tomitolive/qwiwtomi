@@ -4,14 +4,12 @@
   "title_ar": "Marco Polo",
   "title_en": "Marco Polo",
   "slug": "6479-marco-polo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة ماركو بولو، الذي حاول أن يربط بين الحضارات الصينية والاوروبية من خلال التجارة. كانت رحلته المثيرة مليئة بالتحديات والمغامرات. في العصور الوسطى، كان ماركو بولو من أبرز المستكشفين الذين سافروا إلى الصين، وتجاوزوا البحار، واكتشفوا جديدة، وربطوا بين الحضارات في جميع أنحاء العالم.",
   "poster_path": "/8ev49IKXhJpiDVLFijjKL1y3Ct1.jpg",
   "backdrop_path": "/j7ddLhxOUl2PPAPvXeK3g5IAMIA.jpg",
   "release_date": "1982-12-05",
-  "vote_average": 6.7,
-  "vote_count": 29,
+  "vote_average": 6.8,
+  "vote_count": 30,
   "genres": [
     {
       "id": 18,
@@ -23,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في هذه الدراما التاريخية، نرى كيف أصبحت حكاية ماركو بولو، البحار الإيطالي، من أكثر الأشياء التي تحدث في القرن الخامس عشر. من السفارات إلى المغامرة، من الحرب إلى السلام، نرى كيف أصبحت حكاية ماركو بولو رمزاً للاستكشاف والبحرية، في أوقات الحرب والسلام.",
-    "desc_en": "In this historical drama, we see how Marco Polo's story, the Italian explorer, became one of the most significant events of the 15th century. From voyages to adventure, from war to peace, we see how Marco Polo's story became a symbol of exploration and the navy, in times of war and peace.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في دراما ماركو بولو - توميتو",
-    "seo_title_ar": "مشاهدة فيلم ماركو بولو مترجم اون لاين - توميتو",
-    "keywords": "فيلم دراما مترجم, مشاهدة فيلم حركة ومغامرة, Marco Polo مترجم كامل, توميتو Marco Polo, أحداث Marco Polo بالتفصيل, مشاهدة Marco Polo 1982, قصة مسلسل Marco Polo",
-    "opinion": "هذه الدراما التاريخية هي واحدة من أفضل ما شاهدناه في السنوات الأخيرة، حيث نرى كيف أصبحت حكاية ماركو بولو رمزاً للاستكشاف والبحرية، في أوقات الحرب والسلام.",
+    "intro": "يحكي هذا المسلسل قصة ماركو بولو، الذي حاول أن يربط بين الحضارات الصينية والاوروبية من خلال التجارة.",
+    "desc_ar": "يحكي هذا المسلسل قصة ماركو بولو، الذي حاول أن يربط بين الحضارات الصينية والاوروبية من خلال التجارة. كانت رحلته المثيرة مليئة بالتحديات والمغامرات. في العصور الوسطى، كان ماركو بولو من أبرز المستكشفين الذين سافروا إلى الصين، وتجاوزوا البحار، واكتشفوا جديدة، وربطوا بين الحضارات في جميع أنحاء العالم.",
+    "desc_en": "The life of the 13th-century Venetian explorer who sought to connect the civilizations of China and Europe through trade. Marco Polo's journey was filled with challenges and adventures as he traveled to China, crossed the seas, and discovered new lands, bridging the gap between cultures across the world.",
+    "seo_title_ar": "مشاهدة مسلسل ماركو بولو مترجم - توميتو",
+    "meta_desc": "ماركو بولو مسلسل دراما حركة ومغامرة 1982. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. تواصل مع العالم في العصور الوسطى من خلال",
+    "outro": "ماركو بولو هو مسلسل دراما حركة ومغامرة مثير يروي قصة ماركو بولو بشكل详ي ومثير.",
+    "opinion_ar": "ماركو بولو هو واحد من أبرز المسلسلات التاريخية التي تسلط الضوء على المغامرات والتحديات التي واجهها المستكشفون في العصور الوسطى. المسلسل يروي قصة ماركو بولو بشكل ومثير.",
+    "opinion_en": "Marco Polo is one of the most engaging historical dramas that showcases the adventures and challenges faced by explorers in the Middle Ages. The series tells the story of Marco Polo in a detailed and thrilling manner.",
     "faq": [
       {
-        "q": "ما هو فيلم ماركو بولو؟",
-        "a": "هو دراما تاريخية تروي قصة ماركو بولو، البحار الإيطالي، في القرن الخامس عشر."
+        "q": "ما هو اسم المسلسل؟",
+        "a": "ماركو بولو",
+        "q_en": "What is the title of the series?",
+        "a_en": "Marco Polo"
       },
       {
-        "q": "ما هو نوع فيلم ماركو بولو؟",
-        "a": "هو دراما حركة ومغامرة"
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم ماركو بولو؟",
-        "a": "هو قصة الاستكشاف والبحرية، في أوقات الحرب والسلام"
+        "q": "متى صدر المسلسل؟",
+        "a": "1982",
+        "q_en": "When was the series released?",
+        "a_en": "1982"
       }
-    ]
+    ],
+    "keywords": "ماركو بولو, مسلسل دراما, حركة ومغامرة, عصر النهضة, تجارة, تاريخ, مغامرة, تحديات, عالم, كرتون ماركو بولو, مشاهدة ماركو بولو, Marco Polo مترجم, تحميل ماركو بولو, ماركو بولو اون لاين, Marco Polo"
   },
   "fixed": true,
-  "first_air_date": "1982-12-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "101 دقيقة",
+  "duration": "71 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Will Smith Alice Braga Charlie Tahan Dash Mihok Salli Richardson-Whitfield"
+  "country": "إيطاليا",
+  "cast": "Ken Marshall Denholm Elliott Tony Vogel",
+  "first_air_date": "1982-12-05"
 }

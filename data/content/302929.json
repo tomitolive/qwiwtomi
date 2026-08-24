@@ -4,14 +4,12 @@
   "title_ar": "SparkShorts",
   "title_en": "SparkShorts",
   "slug": "302929-sparkshorts",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "استمتع بمشاهدة مسلسل سبارك شورت مترجم بجودة عالية.",
   "poster_path": "/6oVfLHD5YGof4uCC7jxq784jZTl.jpg",
-  "backdrop_path": "/6oVfLHD5YGof4uCC7jxq784jZTl.jpg",
+  "backdrop_path": null,
   "release_date": "2018-11-12",
-  "vote_average": 7.3,
-  "vote_count": 6,
+  "vote_average": 7.2,
+  "vote_count": 9,
   "genres": [
     {
       "id": 16,
@@ -19,33 +17,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الرسوم المتحركة، يأتي دور جديد في حياة شخص ما، مما يغير كل شيء. شاهد كيف يتعامل الشخص مع هذه التحديات في سلسلة رسوم متحركة المثيره SparkShorts.",
-    "desc_en": "In a world of animation, a new chapter arrives in someone's life, changing everything. See how the person deals with these challenges in the thrilling animation series SparkShorts.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في سلسلة رسوم متحركة المثيره SparkShorts",
-    "keywords": "فيلم رسوم متحركة مترجم, مشاهدة فيلم رسوم متحركة, قصة مسلسل SparkShorts, مشاهدة SparkShorts 2018, أحداث SparkShorts بالتفصيل, SparkShorts مترجم كامل, توميتو SparkShorts",
-    "seo_title_ar": "مشاهدة فيلم SparkShorts مترجم اون لاين - توميتو",
-    "opinion": "سلسلة رسوم متحركة المثيره SparkShorts هي مزيج من الإثارة والفكاهة والتفاؤل، مما يجعها من أفضل ما عرضه التلفزيون",
+    "intro": "استمتع بمشاهدة مسلسل SparkShorts (2018) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "استمتع بمشاهدة مسلسل سبارك شورت مترجم بجودة عالية.",
+    "desc_en": "A series of short films created by Pixar animators to experiment with and showcase diverse stories.",
+    "seo_title_ar": "مشاهدة مسلسل SparkShorts مترجم - توميتو",
+    "meta_desc": "مشاهدة سبارك شورت مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد SparkShorts الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو SparkShorts؟",
-        "a": "سلسلة رسوم متحركة المثيره SparkShorts هي سلسلة رسوم متحركة تtell قصة شخص ما في عالم من الإثارة والفكاهة"
+        "q": "كيف يمكنني مشاهدة مسلسل سبارك شورت?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch SparkShorts?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو نوع SparkShorts؟",
-        "a": "SparkShorts هو نوع من رسوم متحركة"
+        "q": "ما هو تصنيف مسلسل سبارك شورت?",
+        "a": "يندرج العمل تحت تصنيف رسوم متحركة.",
+        "q_en": "What is the genre of SparkShorts?",
+        "a_en": "It falls under the genre of رسوم متحركة."
       },
       {
-        "q": "ما هو أفضل ما في SparkShorts؟",
-        "a": "أفضل ما في SparkShorts هو مزيج من الإثارة والفكاهة والتفاؤل"
+        "q": "ما هي قصة مسلسل سبارك شورت?",
+        "a": "",
+        "q_en": "What is the story of SparkShorts?",
+        "a_en": "A series of short films created by Pixar animators to experiment with and showcase diverse stories."
       }
-    ]
+    ],
+    "keywords": "سبارك شورت مترجم, SparkShorts مترجم, مشاهدة سبارك شورت,"
   },
   "fixed": true,
-  "first_air_date": "2018-11-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "غير متوفر",
-  "language": "الهندية",
+  "duration": "45 دقيقة",
+  "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Rishi Kapoor Urmila Matondkar Anupam Kher Tiku Talsania Bindu"
+  "cast": "",
+  "first_air_date": "2018-11-12"
 }

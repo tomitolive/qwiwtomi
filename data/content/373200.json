@@ -9,7 +9,7 @@
   "backdrop_path": "/ferdDyXvWARYARWcZNMBE372L6u.jpg",
   "release_date": "2015-12-31",
   "vote_average": 6.8,
-  "vote_count": 157,
+  "vote_count": 163,
   "genres": [
     {
       "id": 35,
@@ -29,32 +29,35 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في بانكوك، يلتقي المحقق الحي الصيني رجلًا مهذبًا رفضه من كلية الشرطة، الذي يبحث عن حل قضية القتل المisterious. مع قريب بعيد مفعم بالنشاط، يتعاونان لاكتشاف أسرار المدينة المليونية، في رحلة مليئة بالكوميديا والغموض والحركة.",
-    "desc_en": "In Bangkok, Detective Chinatown meets a man who was rejected by the police academy, who is searching for a solution to a mysterious murder case. With a distant relative who is full of activity, they collaborate to uncover the secrets of the million-city, in a journey full of comedy, mystery, and action.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في محقق الحي الصيني!",
-    "seo_title_ar": "مشاهدة فيلم محقق الحي الصيني مترجم اون لاين - توميتو",
-    "keywords": "Detective Chinatown, فيلم كوميديا مترجم, مشاهدة فيلم غموض, فيلم حركة مترجم, محقق الحي الصيني مترجم, قصة فيلم محقق الحي الصيني, توميتو محقق الحي الصيني, مشاهدة محقق الحي الصيني 2015, أحداث محقق الحي الصيني بالتفصيل",
-    "opinion": "فيلم محقق الحي الصيني هو فيلم كوميديا غامق يلقي بكميديا وغموض وحركة، في رحلة مليئة بالتجربة والتشويق!",
+    "intro": "يحكي فيلم محقق الحي الصيني قصة رجل من الطبقة الوسطى، رفض من كلية الشرطة، يسافر إلى بانكوك مع قريب بعيد مفعم بالنشاط، حيث يتعين عليهما حل قضية القتل الغامضة التي أحدثت فرقة في المدينة.",
+    "desc_ar": "يحكي فيلم محقق الحي الصيني قصة رجل من الطبقة الوسطى، رفض من كلية الشرطة، يسافر إلى بانكوك مع قريب بعيد مفعم بالنشاط، حيث يتعين عليهما حل قضية القتل الغامضة التي أحدثت فرقة في المدينة، ويتضح خلال رحلتهما أن الجريمة مرتبطة بشخصيات مهمة في المدينة، مما يثير فضولهما وتعقدهما في حل اللغز، فيما يتعين عليهما السير في ممرات سرية ومتسللة للعثور على أدلة وترحيل المتهمين.",
+    "desc_en": "After being rejected from the police college, a mannerly man travels to Bangkok where he and an energetic distant relative must solve a murder case that has shaken the city. As they delve deeper into the mystery, they discover that the crime is linked to influential individuals in the city, leading them to navigate through secret alleys and gather evidence to apprehend the culprits. Their journey takes them through a labyrinth of twists and turns, testing their wit and determination to unravel the truth.",
+    "seo_title_ar": "مشاهدة فيلم محقق الحي الصيني مترجم - فيلم كوميدي غامض مغامر - توميتو",
+    "meta_desc": "استمتع بمشاهدة فيلم محقق الحي الصيني مترجم، قصة مرحة وغامضة وملفتة عن قتل شخص، يتضح أن الجريمة مرتبطة بشخصيات مهمة في المدينة، يتعين على رجل من الطبقة الوس",
+    "outro": "يتضح خلال رحلتهما أن الجريمة مرتبطة بشخصيات مهمة في المدينة، مما يثير فضولهما وتعقدهما في حل اللغز، فيما يتعين عليهما السير في ممرات سرية ومتسللة للعثور على أدلة وترحيل المتهمين.",
+    "opinion_ar": "يعد فيلم محقق الحي الصيني تجربة مشاهدة غامضة ومرحة، مع شخصيات ملفتة ومغامرات مثيرة.",
+    "opinion_en": "Detective Chinatown is a thrilling and entertaining watch, with captivating characters and exciting plot twists.",
     "faq": [
       {
-        "q": "ما هو فيلم محقق الحي الصيني؟",
-        "a": "فيلم كوميديا غامق يلقي بكميديا وغموض وحركة، في رحلة مليئة بالتجربة والتشويق!"
+        "q": "من هو بطل فيلم محقق الحي الصيني؟",
+        "a": "بطل الفيلم هو رجل من الطبقة الوسطى، رفض من كلية الشرطة، يسافر إلى بانكوك مع قريب بعيد مفعم بالنشاط.",
+        "q_en": "Who is the main character of Detective Chinatown?",
+        "a_en": "The main character is a mannerly man, rejected from the police college, who travels to Bangkok with an energetic distant relative."
       },
       {
-        "q": "ما هو نوع فيلم محقق الحي الصيني؟",
-        "a": "فيلم كوميديا غامق يلقي بكميديا وغموض وحركة، في رحلة مليئة بالتجربة والتشويق!"
-      },
-      {
-        "q": "ما هو المخرج من فيلم محقق الحي الصيني؟",
-        "a": "لم يذكر المخرج في الفيلم"
+        "q": "ما هو نوع الفيلم؟",
+        "a": "هو فيلم كوميدي غامض مغامر من إنتاج عام 2015.",
+        "q_en": "What type of movie is Detective Chinatown?",
+        "a_en": "It is a 2015 comedy-mystery-adventure film."
       }
-    ]
+    ],
+    "keywords": "فيلم كوميدي غامض مغامر, محقق الحي الصيني, بانكوك, قتل, جريمة, قتل شخص, فيلم مرهق, فيلم مغامر, فيلم غامض, فيلم كوميدي, مشاهدة محقق الحي الصيني, Detective Chinatown مترجم, تحميل محقق الحي الصيني, محقق الحي الصيني اون لاين, Detective Chinatown"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "135 دقيقة",
-  "language": "الصينية",
+  "language": "الإنجليزية",
   "country": "الصين",
-  "cast": "Wang Baoqiang Liu Haoran Tong Liya Chen He Xiao Shenyang"
+  "cast": "Wang Baoqiang Liu Haoran Tong Liya Chen He Xiao Shenyang Xiao Yang Pan Yueming Marc Ma"
 }
