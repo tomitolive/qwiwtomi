@@ -14603,8 +14603,32 @@
       "file": "45782.json",
       "title": "Sword Art Online",
       "fixed_at": "2026-08-24T21:57:44.057466"
+    },
+    {
+      "tmdb_id": "858024",
+      "file": "858024.json",
+      "title": "Hamnet",
+      "fixed_at": "2026-08-24T22:15:17.535384"
+    },
+    {
+      "tmdb_id": "2379",
+      "file": "2379.json",
+      "title": "Z-Cars",
+      "fixed_at": "2026-08-24T22:15:27.722347"
+    },
+    {
+      "tmdb_id": "37724",
+      "file": "37724.json",
+      "title": "سكاي فول",
+      "fixed_at": "2026-08-24T22:15:37.789217"
+    },
+    {
+      "tmdb_id": "49010",
+      "file": "49010.json",
+      "title": "The Fall",
+      "fixed_at": "2026-08-24T22:15:54.855495"
     }
   ],
-  "last_updated": "2026-08-24T21:57:46.181086",
-  "total_fixed": 2434
+  "last_updated": "2026-08-24T22:15:57.263454",
+  "total_fixed": 2438
 }

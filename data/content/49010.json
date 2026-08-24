@@ -4,14 +4,12 @@
   "title_ar": "The Fall",
   "title_en": "The Fall",
   "slug": "49010-the-fall",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة Detective Superintendent Stella Gibson, التي يتم تكليفها بمراجعة قضية اغتيال بelfast بعد مرور 28 يوما على عدم حلها. وفي ظل القيادة الجديدة لستيلا جيبسون, يجب على المحققين المحليين اكتشاف وتوقيف الذي يرهب المدينة, وينقلب على الحياة في بelfast. يتعين على المحققين العمل مع ستيلا جيبسون لاكتشاف هويّة ووقفه قبل أن يرتكب جرائم. سوف يتعين على المحققين العمل بجدّ ووحدة لاكتشاف ووقفه",
   "poster_path": "/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg",
   "backdrop_path": "/vunaJ5k1cG8T4ROUGDZ05IhNXkP.jpg",
   "release_date": "2013-05-12",
   "vote_average": 7.7,
-  "vote_count": 965,
+  "vote_count": 995,
   "genres": [
     {
       "id": 18,
@@ -23,35 +21,36 @@
     }
   ],
   "ai_content": {
-    "intro": "هل يمكن أن تُغير قاتلة متسلسلة مسار حياة مدينة بأكملها؟",
-    "desc_ar": "في عالم القتل والعنف، يصاب رجل أعمال بالشكوك بعد أن يكتشف جثة امرأة ميتة في منزله. يبدأ في البحث عن الحقيقة، ويقابل شخصيات متشابكة في القضية، مما يثير سقوطه في نفق مظلم من الأحداث الإثارة.",
-    "seo_title_ar": "مشاهدة مسلسل الدراما والجريمة «النقمة» مترجم اون لاين - توميتو",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل الدراما والجريمة «النقمة» على توميتو",
-    "outro": "إذا كنت تحب الألغاز والإثارة، فسينبئك هذا الفيلمドラ bởi التوتر وعدم اليقين",
-    "opinion": "هو فيلم دراما جريمة رائع، يلقي الضوء على العالم المظلم للجريمة والعنف، ويحكي قصة رجل أعمال يصاب بالشكوك بعد أن يكتشف جثة امرأة ميتة في منزله.",
+    "intro": "يتعين على المشاهدين الاهتمام بمشاهدة مسلسل السقوط, الذي يركز على قضايا مثيرة في بelfast.",
+    "desc_ar": "يحكي هذا المسلسل قصة Detective Superintendent Stella Gibson, التي يتم تكليفها بمراجعة قضية اغتيال بelfast بعد مرور 28 يوما على عدم حلها. وفي ظل القيادة الجديدة لستيلا جيبسون, يجب على المحققين المحليين اكتشاف وتوقيف الذي يرهب المدينة, وينقلب على الحياة في بelfast. يتعين على المحققين العمل مع ستيلا جيبسون لاكتشاف هويّة ووقفه قبل أن يرتكب جرائم. سوف يتعين على المحققين العمل بجدّ ووحدة لاكتشاف ووقفه",
+    "desc_en": "When the Police Service of Northern Ireland are unable to close a case after 28 days, Detective Superintendent Stella Gibson of the Metropolitan Police Service is called in to review the case. Under her new leadership, the local detectives must track down and stop a serial killer who is terrorising the city of Belfast. The detectives must work closely with Stella Gibson to uncover the identity of the serial killer and bring him to justice before he commits further crimes. It will be a challenging task for the detectives to uncover the serial killer and stop him.",
+    "seo_title_ar": "مشاهدة مسلسل السقوط مترجم - The Fall - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل السقوط, الذي يروي قصة في بelfast, وينقلب على الحياة في المدينة. لا تفوت فرصة مشاهدة هذا العمل, الذي يجمع بين دراما و جريمة في است",
+    "outro": "حسناً, أن هذا المسلسل يركز على القضايا الجديدة والمثيرة في بelfast. يتعين على المشاهدين مواصلة مشاهدة المسلسل لمعرفة النهاية.",
+    "opinion_ar": "حسناً, حقيقةً, أن هذا المسلسل يركز على القضايا الجديدة والمثيرة في بelfast. يتعين على المشاهدين مواصلة مشاهدة المسلسل لمعرفة النهاية.",
+    "opinion_en": "Good, indeed, that this series focuses on new and exciting issues in Belfast. Viewers should continue watching the series to find out the ending.",
     "faq": [
       {
-        "q": "ما هو نوع مسلسل النقمة؟",
-        "a": "هو مسلسل دراما جريمة"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "مسلسل درامي",
+        "q_en": "What is the type of the series?",
+        "a_en": "The series is a drama series"
       },
       {
-        "q": "ما هو موضوع مسلسل النقمة؟",
-        "a": "يحكي قصة رجل أعمال يصاب بالشكوك بعد أن يكتشف جثة امرأة ميتة في منزله"
-      },
-      {
-        "q": "ما هو نوع النقمة؟",
-        "a": "هو نوع من أنواع الدراما والجريمة"
+        "q": "ما هي القضية التي يتم التعامل معها في المسلسل؟",
+        "a": "قضية في بelfast",
+        "q_en": "What is the case that the series deals with?",
+        "a_en": "The case of a serial killer in Belfast"
       }
     ],
-    "keywords": "فيلم دراما مترجم, مشاهدة مسلسل جريمة, قصة مسلسل The Fall, مشاهدة The Fall 2013, The Fall مترجم كامل, توميتو The Fall, أحداث The Fall بالتفصيل",
-    "desc_en": "In a world of murder and violence, a businessman is struck with suspicion after discovering a dead woman's body in his home. He begins to search for the truth, meeting interconnected characters in the case, which leads him to fall into a dark and thrilling abyss of events."
+    "keywords": "المسلسل, السقوط, The Fall, دراما, جريمة, بelfast, حلم السقوط, تفسير حلم السقوط, السقوط في المنام, السقوط الحر, أثناء السقوط تتحول الطاقة الحركية إلى طاقة وضع, عند السقوط الخلفي أول ما يلامس الأرض المقعدة., الاستقبال بالساعدين من الجانب يتم باستخدام الساعدين لاستقبال الكرة بشكل مريح ومنعها من السقوط, عند السقوط الخلفي أول ما يلامس الأ رض هو المقعدة, حلم السقوط من مكان مرتفع, عند السقوط الخلفي أول ما يلامس الأرض المقعدة, الاتزان يساعد على الوقوف أو التحرك دون السقوط, لإحداث عملية التوزان وتفادي السقوط عند ترك الرامي للرمح لليد يتم تبديل القدم. صواب خطأ, عند السقوط الخلفي أول ما يلامس الأرض المقعدة. صواب خطأ"
   },
   "fixed": true,
-  "first_air_date": "2013-05-12",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "86 دقيقة",
+  "duration": "57 دقيقة",
   "language": "الإنجليزية",
-  "country": "كندا",
-  "cast": "Rutger Hauer Molly Dunsworth Gregory Smith Robb Wells Brian Downey"
+  "country": "Ireland",
+  "cast": "Gillian Anderson Jamie Dornan Niamh McGrady John Lynch Colin Morgan Stuart Graham Valene Kane Bronagh Waugh",
+  "first_air_date": "2013-05-12"
 }

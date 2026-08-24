@@ -4,9 +4,7 @@
   "title_ar": "Z-Cars",
   "title_en": "Z-Cars",
   "slug": "2379-z-cars",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل قصة Newtown، بلدة خيالية مستوحاة من Kirkby، مرسيسايد، حيث يعمل شرطيون مسلحون في سياراتهم. يتعامل العمل مع حياة شرطة Newtown، من خلال قصة شرطيين يتمتعان بمهارات خاصة في حل الجرائم. يظهر العمل العديد من التحديات التي تواجه شرطة Newtown في حياتها اليومية، بما في ذلك العنف والجريمة في المجتمع.",
   "poster_path": "/xUcvEC9WLgRgvnmbsSnaB8Gf3xS.jpg",
   "backdrop_path": "/2wSZQeZdqypdKXKOsP68aH4CgIl.jpg",
   "release_date": "1962-01-02",
@@ -19,33 +17,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الدراما، يأتي ز-كارس مع قصة رائعة عن حياة رجل الأعمال الملياردير جيمس تيودور، الذي يجد نفسه في معركة ضد خصومه في عالم الأعمال، بينما يتعامل مع مشكلات الشخصية والعائلية، في مسلسل دراما رائع يلقي بظله على الشاشة.",
-    "desc_en": "In the world of drama, Z-Cars brings a great story about the life of billionaire businessman James Tudor, who finds himself in a battle against his enemies in the business world, while dealing with personal and family problems, in a great drama series that casts a shadow on the screen.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل دراما ز-كارس",
-    "seo_title_ar": "مشاهدة مسلسل دراما ز-كارس مترجم اون لاين - توميتو",
-    "keywords": "مسلسل دراما ز-كارس, مشاهدة مسلسل دراما, دراما ز-كارس, توميتو Z-Cars, مشاهدة Z-Cars 1962, Z-Cars مترجم كامل, أحداث Z-Cars بالتفصيل, قصة مسلسل Z-Cars",
-    "opinion": "هو مسلسل دراما رائع يلقي بظله على الشاشة، مع قصة رائعة عن حياة رجل الأعمال الملياردير جيمس تيودور، والذي يجد نفسه في معركة ضد خصومه في عالم الأعمال، بينما يتعامل مع مشكلات الشخصية والعائلية.",
+    "intro": "يحكي مسلسل سيارات ز قصة Newtown، بلدة خيالية مستوحاة من Kirkby، مرسيسايد، حيث يعمل شرطيون مسلحون في سياراتهم.",
+    "desc_ar": "يحكي هذا العمل قصة Newtown، بلدة خيالية مستوحاة من Kirkby، مرسيسايد، حيث يعمل شرطيون مسلحون في سياراتهم. يتعامل العمل مع حياة شرطة Newtown، من خلال قصة شرطيين يتمتعان بمهارات خاصة في حل الجرائم. يظهر العمل العديد من التحديات التي تواجه شرطة Newtown في حياتها اليومية، بما في ذلك العنف والجريمة في المجتمع.",
+    "desc_en": "English summary - MUST include the English Title in the text - DO NOT copy from TMDB, rewrite in your own words",
+    "seo_title_ar": "مشاهدة مسلسل سيارات ز مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل ز كارس، قصة شرطة Newtown، باللغة العربية على توميتو. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهد",
+    "outro": "يعتبر مسلسل سيارات ز من بين أكثر المسلسلات شهرة في بريطانيا، حيث يعكس حياة شرطة Newtown بطريقة واقعية.",
+    "opinion_ar": "يعتبر مسلسل سيارات ز من بين أكثر المسلسلات شهرة في بريطانيا، حيث يعكس حياة شرطة Newtown بطريقة واقعية.",
+    "opinion_en": "Z-Cars is a highly acclaimed British television drama series that showcases the life of the police in Newtown in a realistic way.",
     "faq": [
       {
-        "q": "ما هو مسلسل دراما ز-كارس؟",
-        "a": "هو مسلسل دراما رائع يلقي بظله على الشاشة، مع قصة رائعة عن حياة رجل الأعمال الملياردير جيمس تيودور."
+        "q": "ما هي قصة مسلسل سيارات ز؟",
+        "a": "يحكي مسلسل سيارات ز قصة Newtown، بلدة خيالية مستوحاة من Kirkby، مرسيسايد، حيث يعمل شرطيون مسلحون في سياراتهم.",
+        "q_en": "What is the story of Z-Cars?",
+        "a_en": "Z-Cars is a British television drama series that tells the story of Newtown, a fictional town based on Kirkby, Merseyside, where mobile uniformed police work."
       },
       {
-        "q": "ما هو نوع مسلسل دراما ز-كارس؟",
-        "a": "هو مسلسل دراما، ويحوي عناوين دراما."
-      },
-      {
-        "q": "ما هو أفضل ما في مسلسل دراما ز-كارس؟",
-        "a": "هو قصة رائعة عن حياة رجل الأعمال الملياردير جيمس تيودور، والذي يجد نفسه في معركة ضد خصومه في عالم الأعمال."
+        "q": "متى تم إنتاج مسلسل سيارات ز؟",
+        "a": "تم إنتاج مسلسل سيارات ز في عام 1962.",
+        "q_en": "When was Z-Cars produced?",
+        "a_en": "Z-Cars was first produced in 1962."
       }
-    ]
+    ],
+    "keywords": "سيارات ز, مسلسل, دراما, بريطانيا, Newtown, Kirkby, مرسيسايد, مشاهدة سيارات, -Cars مترجم, تحميل سيارات, سيارات اون لاين, -Cars, سيارات جودة عالية, فيلم سيارات, -Cars HD"
   },
   "fixed": true,
-  "first_air_date": "1962-01-02",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "100 دقيقة",
-  "language": "الفرنسية",
-  "country": "بلجيكا",
-  "cast": "Claude Jade Gérard Barray Jean-Claude Dauphin Jeanne Pérez Claude Vernier"
+  "duration": "50 دقيقة",
+  "language": "الإنجليزية",
+  "country": "المملكة المتحدة",
+  "cast": "Frank Windsor James Ellis Douglas Fielding",
+  "first_air_date": "1962-01-02"
 }
