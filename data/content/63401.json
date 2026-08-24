@@ -4,26 +4,20 @@
   "title_ar": "الدببة الثلاثة",
   "title_en": "We Bare Bears",
   "slug": "63401-we-bare-bears",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو بكاليفورنيا ويخوضون تجارب ومغامرات جديدة.",
   "poster_path": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
-  "backdrop_path": "/sgR3BjAOcpyxV9Rq7l1BGm3fXQ8.jpg",
+  "backdrop_path": "/cl5FVcBEgddaC7dUL8HDMH6m2tp.jpg",
   "release_date": "2015-08-24",
   "vote_average": 7.7,
-  "vote_count": 1843,
+  "vote_count": 1861,
   "genres": [
     {
-      "id": 10751,
-      "name": "عائلي"
+      "id": 16,
+      "name": "رسوم متحركة"
     },
     {
       "id": 35,
       "name": "كوميديا"
-    },
-    {
-      "id": 16,
-      "name": "رسوم متحركة"
     },
     {
       "id": 10762,
@@ -31,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة سان فرانسيسكو، ثلاثة دببة يعيشون مع البشر، يخوضون تجارب ومغامرات جديدة، ويقومون بالعديد من الأعمال، مثل تناول الماء والطعام، والذهاب إلى المدرسة، وغيرها، في هذه السلسلة الممتعة والكوميدية، التي تجمع بين المغامرة والترفيه والتعلم.",
-    "desc_en": "In San Francisco, three bears live with humans, experience new adventures, and take on various tasks, such as drinking water and eating, going to school, and more, in this entertaining and comedic series that combines excitement, entertainment, and learning.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع الدببة الثلاثة في سان فرانسيسكو!",
-    "seo_title_ar": "مشاهدة فيلم الدببة الثلاثة مترجم اون لاين - توميتو",
-    "keywords": "We Bare Bears, فيلم الدببة الثلاثة مترجم, مشاهدة فيلم الدببة الثلاثة, توميتو الدببة الثلاثة, مشاهدة الدببة الثلاثة 2015, الدببة الثلاثة مترجم كامل, أحداث الدببة الثلاثة بالتفصيل, قصة مسلسل الدببة الثلاثة",
-    "opinion": "هذه السلسلة الممتعة والكوميدية، التي تجمع بين المغامرة والترفيه والتعلم، هي أفضل ما يمكن أن يحدث في عالم التلفزيون، حيث ثلاثة دببة يعيشون مع البشر، ويخوضون تجارب ومغامرات جديدة، ويقومون بالعديد من الأعمال، مثل تناول الماء والطعام، والذهاب إلى المدرسة، وغيرها.",
+    "intro": "يحكي مسلسل \"الدببة الثلاثة\" قصة ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو بكاليفورنيا، حيث يخوضون تجارب ومغامرات جديدة في عالمهم المليء بالتقنية والحداثة.",
+    "desc_ar": "يحكي مسلسل \"الدببة الثلاثة\" قصة ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو بكاليفورنيا، حيث يخوضون تجارب ومغامرات جديدة في عالمهم المليء بالتقنية والحداثة. يأمل الأخوين الدببة في اكتساب بعض الخبرة حول العالم الحضاري، مع مساعدة من أفضل أصدقائهم، تشلو (شخصية بشرية في المسلسل)، والفنان المعروف نوم نوم، وشركائهما في المغامرات، تشارلي، المعروف أيضًا باسم شيرباهت..",
+    "desc_en": "Three brother bears awkwardly attempt to find their place in civilized society, whether they're looking for food, trying to make human friends, or scheming to become famous on the internet. Grizzly, Panda and Ice Bear stack atop one another when they leave their cave and explore the hipster environs of the San Francisco Bay Area, and it's clear the siblings have a lot to learn about a technologically driven world. By their side on many adventures are best friend Chloe (the only human character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka Bigfoot.",
+    "seo_title_ar": "مشاهدة مسلسل الدببة الثلاثة مترجم - توميتو",
+    "meta_desc": "يحكي مسلسل الدببة الثلاثة قصة ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو بكاليفورنيا، ويخوضون تجارب ومغامرات جديدة في عالمهم المليء بالتقنية والحد",
+    "outro": "يعد مسلسل \"الدببة الثلاثة\" تجربة فنية رائعة، حيث يتعامل الأخوين الدببة مع العالم الحضاري في مدينة سان فرانسيسكو، ويخوضون مغامرات جديدة ومثيرة.",
+    "opinion_ar": "يعد مسلسل \"الدببة الثلاثة\" تجربة فنية رائعة، حيث يتعامل الأخوين الدببة مع العالم الحضاري في مدينة سان فرانسيسكو، ويخوضون مغامرات جديدة ومثيرة.",
+    "opinion_en": "We Bare Bears is a fantastic show that explores the adventures of three brother bears as they navigate the challenges of modern life in San Francisco.",
     "faq": [
       {
-        "q": "ما هو قصة الدببة الثلاثة؟",
-        "a": "هذه قصة ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو، ويخوضون تجارب ومغامرات جديدة."
-      },
-      {
-        "q": "ما هو نوع الدببة الثلاثة؟",
-        "a": "هذه سلسلة رسوم متحركة عائلي كوميديا"
-      },
-      {
-        "q": "ما هو المكان الذي يحدث فيه قصة الدببة الثلاثة؟",
-        "a": "المدينة التي يحدث فيها قصة الدببة الثلاثة هي سان فرانسيسكو، بكاليفورنيا"
+        "q": "ما هي قصة مسلسل الدببة الثلاثة؟",
+        "a": "يحكي مسلسل الدببة الثلاثة قصة ثلاثة دببة يعيشون مع البشر في مدينة سان فرانسيسكو بكاليفورنيا، ويخوضون تجارب ومغامرات جديدة في عالمهم المليء بالتقنية والحداثة.",
+        "q_en": "What is the story of We Bare Bears?",
+        "a_en": "We Bare Bears is a show that follows the adventures of three brother bears as they navigate the challenges of modern life in San Francisco."
       }
-    ]
+    ],
+    "keywords": "الدببة الثلاثة, مسلسل, رسوم متحركة, كوميديا, أطفال, سان فرانسيسكو, الدببة, المغامرات, العالم الحضاري, شهاب الدببة الثلاثة, كرتون الدببة الثلاثة, قطبي الدببة الثلاثة, اسماء الدببة الثلاثة, قصة الدببة الثلاثة, مشاهدة الدببة الثلاثة"
   },
   "fixed": true,
-  "first_air_date": "2015-08-24",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "252 دقيقة",
-  "language": "الفرنسية",
-  "country": "فرنسا",
-  "cast": "Bulle Ogier Jean-Pierre Kalfon Josée Destoop Celia André S. Labarthe"
+  "duration": "11 دقيقة",
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": "Eric Edelstein Demetri Martin Bobby Moynihan",
+  "first_air_date": "2015-08-24"
 }

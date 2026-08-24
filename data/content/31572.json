@@ -4,14 +4,12 @@
   "title_ar": "لوبين الثالث",
   "title_en": "Lupin the 3rd",
   "slug": "31572-lupin-the-3rd",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدور قصة هذا الأنمي حول لوبين الثالث اللص الذكي الذي يسرق أي شيء بماعدة جيجن دايسكي وإيشيكاوا الثالث وفوجيكو ويتعقب هذا اللص الشرطي زينيقاتا إلا أنه يفشل في إلقاء القبض عليه",
   "poster_path": "/khfsxY7EyQsdEHzlnkn42CIjZI.jpg",
   "backdrop_path": "/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
   "release_date": "1971-10-24",
-  "vote_average": 8,
-  "vote_count": 126,
+  "vote_average": 8.0,
+  "vote_count": 132,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "يحكى قصة لوبين الثالث، اللص الذكي الذي يسرق أي شيء بماعدة جيجن دايسكي وإيشيكاوا الثالث وفوجيكو، ويتعقب هذا اللص الشرطي زينيقاتا إلا أنه يفشل في إلقاء القبض عليه. مع ذلك، يجد لوبين الثالث نفسه في مواجهة مع الشرطة والقوى الأمنية، التي تريد القبض عليه، فيما يلقي الضوء على حياته السرية والمنعقدات مع زينيقاتا.",
-    "desc_en": "The story follows Lupin the 3rd, the clever thief who steals anything with the help of Jigen, Ishikawa III, Fujiko, and Zenigata, but fails to capture him. Despite this, Lupin the 3rd finds himself facing off against the police and security forces, who want to catch him, while shedding light on his secret life and relationships with Zenigata.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة مع لوبين الثالث!",
-    "seo_title_ar": "مشاهدة فيلم لوبين الثالث مترجم اون لاين - توميتو",
-    "keywords": "Lupin the 3rd, فيلم لوبين الثالث مترجم, مشاهدة فيلم لوبين الثالث, أحداث لوبين الثالث بالتفصيل, مشاهدة لوبين الثالث 1971, توميتو لوبين الثالث, لوبين الثالث مترجم كامل, قصة مسلسل لوبين الثالث",
-    "opinion": "هو فيلم رائع يلقي الضوء على حياة لوبين الثالث، اللص الذكي الذي يسرق أي شيء، ويحكى قصة حب بينه وبين زينيقاتا. الفيلم مليء بالحركة والفانتازيا، ويحمل رسوم متحركة رائعة.",
+    "intro": "يتناول هذا العمل مسيرة لوبين الثالث في عالم المافيا والجريمة، حيث يتصارع بين هوية اللص والفرد الحقيقي.",
+    "desc_ar": "يحكي هذا العمل مسلسل رسوم متحركة خيالي يصور قصة لوبين الثالث، النجل الأكبر لأرثرين لوبين، الذي يعتبر واحدًا من أشهر اللصوص في العالم. يتعاون لوبين الثالث مع جيجن دايسكي وإيشيكاوا الثالث وفوجيكو في سلسلة من المغامرات والأعمال الجريئة، بينما يتعين على الشرطي زينيقاتا مواجهة التحديات المستمرة في محاولة إيقافهم. يُعرف لوبين الثالث بأنه سارق ذكي ومهاري، ينجح في السرقة من أي شيء بمساعدة شركائه. في هذا العمل، يُظهر لوبين الثالث مهاراته في عالم المافيا والجريمة، حيث يتصارع بين هوية اللص والفرد الحقيقي.",
+    "desc_en": "Follow the exciting adventures of Arsene Lupin III, the grandson of the world's greatest thief, Arsene Lupin. Together with Daisuke Jigen, Goemon Ishikawa and his love interest Fujiko Mine, he carries out the greatest robberies of all time, all the while evading the control of Inspector Koichi Zenigata.",
+    "seo_title_ar": "مشاهدة مسلسل رسوم متحركة خيالي لوبين الثالث مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل رسوم متحركة خيالي Lupin 3rd مترجم، يصور قصة لوبين الثالث، النجل الأكبر لأرثرين لوبين، الذي يعتبر واحدا من أشهر اللصوص في العالم. يستمتع بمشاه",
+    "outro": "ينتهي هذا العمل بتجربة مشاهدة فريدة، حيث يجمع بين الخيال والحركة والجريمة في تجربة مشاهدة ممتعة.",
+    "opinion_ar": "يُعد هذا العمل من أروع المسلسلات الرسومية، حيث يجمع بين الخيال والحركة والجريمة في تجربة مشاهدة فريدة.",
+    "opinion_en": "This anime series is a must-watch for fans of action, adventure, and mystery, offering a unique blend of fantasy and reality.",
     "faq": [
       {
-        "q": "ما هو لوبين الثالث؟",
-        "a": "هو فيلم رسوم متحركة يروي قصة لوبين الثالث، اللص الذكي."
-      },
-      {
-        "q": "ما هو نوع لوبين الثالث؟",
-        "a": "هو فيلم رسوم متحركة حركة ومغامرة، خيال علمي وفانتازيا."
-      },
-      {
-        "q": "ما هو لوبين الثالث مترجم؟",
-        "a": "هو فيلم رسوم متحركة مترجم إلى العربية، يمكنك مشاهدته اون لاين على توميتو"
+        "q": "ما هو موضوع مسلسل لوبين الثالث؟",
+        "a": "يحكي مسلسل لوبين الثالث قصة لوبين الثالث، النجل الأكبر لأرثرين لوبين، الذي يعتبر واحدًا من أشهر اللصوص في العالم.",
+        "q_en": "What is the plot of Lupin the 3rd?",
+        "a_en": "The anime series follows the adventures of Arsene Lupin III, the grandson of the world's greatest thief, Arsene Lupin."
       }
-    ]
+    ],
+    "keywords": "لوبين الثالث, مسلسل رسوم متحركة, خيال علمي وفانتازيا, حركة ومغامرة, رسوم متحركة, Lupin 3rd, مشاهدة لوبين الثالث, Lupin 3rd مترجم, تحميل لوبين الثالث, لوبين الثالث اون لاين, لوبين الثالث جودة عالية, Lupin the 3rd مترجم, Lupin the 3rd online, فيلم لوبين الثالث, Lupin the 3rd HD"
   },
   "fixed": true,
-  "first_air_date": "1971-10-24",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "25 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Kanichi Kurita Akio Otsuka Miyuki Sawashiro Daisuke Namikawa Koichi Yamadera",
+  "first_air_date": "1971-10-24"
 }

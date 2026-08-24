@@ -4,14 +4,12 @@
   "title_ar": "فارس من الممالك السبع",
   "title_en": "A Knight of the Seven Kingdoms",
   "slug": "224372-a-knight-of-the-seven-kingdoms",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "تدور الأحداث في زمن لا يزال فيه سلالة تارجارين تسيطر على العرش الحديدي، وذكرى آخر تنين لم تغب بعد عن الذاكرة الحية. تنتظر الأقدار العظيمة، والأعداء الأقوياء، والمغامرات الخطيرة هؤلاء الأصدقاء الذين لا مثيل لهم والذين لا يمكن توقعهم.",
+  "overview": "يبدأ الفارس المتجول سير دنكان الطويل، المعروف باسم دنك، رحلته في أرجاء ويستروس بحثًا عن المجد والفرص، وبرفقته صديقه الصغير إيغ، الذي يطمح إلى أن يصبح فارسًا رغم صغر سنه. يواجه الاثنان خلال رحلاتهما تحديات ومواقف تكشف لهما عالم النبلاء والفروسية بكل ما فيه من صراعات ومؤامرات. وبينما يحاول دنك الالتزام بمبادئ الشرف وحماية من يحتاج إليه، يخفي إيغ سرًا مهمًا يجعل رحلتهما أكثر خطورة، لتتطور علاقتهما وسط عالم مليء بالطموح والصراع على السلطة.",
   "poster_path": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
   "backdrop_path": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
   "release_date": "2026-01-18",
   "vote_average": 8.4,
-  "vote_count": 885,
+  "vote_count": 1122,
   "genres": [
     {
       "id": 18,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من السحال والشعوذة، يلتقي فارس من الممالك السبع، ريكارد نورتون، الملكة كيتارينا، والمرأة الفاتنة، سيرسي لانستر، في رحلة ممتازة من المغامرة والخطر، حيث يتعاملون مع الأعداء الأقوياء، ويحاولون تدمير السلالة التارجارين، التي تسيطر على العرش الحديدي، في زمن لا يزال فيه الذاكرة الحية تذكر آخر تنين.",
-    "desc_en": "In a world of magic and mystery, A Knight of the Seven Kingdoms, Rickard Norton, Queen Katarina, and the seductive woman, Cersei Lannister, embark on an extraordinary adventure of excitement and danger, as they face powerful enemies and attempt to destroy the Targaryen dynasty, which rules the Iron Throne, in a time when the living memory still remembers the last dragon.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في فارس من الممالك السبع!",
-    "seo_title_ar": "مشاهدة فيلم فارس من الممالك السبع مترجم اون لاين - توميتو",
-    "keywords": "A Knight of the Seven Kingdoms, فيلم فارس من الممالك السبع مترجم, مشاهدة فيلم فارس من الممالك السبع, أحداث فارس من الممالك السبع بالتفصيل, مشاهدة فارس من الممالك السبع 2026, فارس من الممالك السبع مترجم كامل, توميتو فارس من الممالك السبع, قصة مسلسل فارس من الممالك السبع",
-    "opinion": "هذه القصة هي أشهر قصة دراما خيال علمي وفانتازيا، حيث يلتقي فارس من الممالك السبع، ريكارد نورتون، الملكة كيتارينا، والمرأة الفاتنة، سيرسي لانستر، في رحلة ممتازة من المغامرة والخطر، حيث يتعاملون مع الأعداء الأقوياء، ويحاولون تدمير السلالة التارجارين، التي تسيطر على العرش الحديدي.",
+    "intro": "في عالم مليء بالحرب والصراع، يبحث الفارس المتجول دنك عن المجد والفرص في ويستروس، ويتعاون مع صديقه الصغير إيغ في رحلتهما.",
+    "desc_ar": "يحكي مسلسل فارس من الممالك السبع قصة فارس متجول، دنك، الذي يبحث عن المجد والفرص في أرجاء ويستروس. ويتعاون مع صديقه الصغير إيغ، الذي يرغب في أن يصبح فارسًا رغم صغر سنه. ولكن بينما يحاول دنك الالتزام بمبادئ الشرف، يخفي إيغ سرًا مهمًا يزيد من خطورة رحلتهما. وتتطور علاقتهما وسط عالم مليء بالطموح والصراع على السلطة.",
+    "desc_en": "A Knight of the Seven Kingdoms is a thrilling tale of two unlikely heroes, Ser Duncan the Tall and his diminutive squire, Egg. As they wander through the land of Westeros, they face numerous challenges and encounter powerful foes. While Duncan strives to uphold the principles of chivalry, Egg harbors a secret that makes their journey even more perilous.",
+    "seo_title_ar": "مشاهدة مسلسل فارس من الممالك السبع مترجم - توميتو",
+    "meta_desc": "شاهد مسلسل فارس من الممالك السبع مترجم، قصة الفارس المتجول دنك، والصديق الصغير إيغ، الذي يبحثان عن المجد والفرص في ويستروس. شاهد الآن، بدون إعلانات مزعجة،",
+    "outro": "وتطور علاقتهما وسط عالم مليء بالطموح والصراع على السلطة، حيث يخفي إيغ سرًا مهمًا يزيد من خطورة رحلتهما.",
+    "opinion_ar": "يسعدني مسلسل فارس من الممالك السبع، حيث يروي قصة فلسفة الفروسية والشرف في عالم مليء بالحرب والصراع. يظهر دنك وتفاصيل شخصيته كفارس متجول، بينما يخفي إيغ سرًا مهمًا يزيد من مثارات الفيلم.",
+    "opinion_en": "A Knight of the Seven Kingdoms is a captivating tale of friendship and adventure, where two unlikely heroes navigate the complexities of the Seven Kingdoms. The film's themes of chivalry and honor are woven throughout the narrative, making it a compelling watch.",
     "faq": [
       {
-        "q": "ما هو فارس من الممالك السبع؟",
-        "a": "هو فيلم دراما خيال علمي وفانتازيا يروي قصة فارس من الممالك السبع، ريكارد نورتون، الملكة كيتارينا، والمرأة الفاتنة، سيرسي لانستر، في رحلة ممتازة من المغامرة والخطر."
+        "q": "ما هو اسم المسلسل؟",
+        "a": "فارس من الممالك السبع",
+        "q_en": "What is the title of the series?",
+        "a_en": "A Knight of the Seven Kingdoms"
       },
       {
-        "q": "ما هو نوع فيلم فارس من الممالك السبع؟",
-        "a": "هو فيلم تلفزيوني من نوع دراما خيال علمي وفانتازيا وحركة ومغامرة."
-      },
-      {
-        "q": "ما هو أفضل شيء في فيلم فارس من الممالك السبع؟",
-        "a": "هو قصة ممتازة من المغامرة والخطر، حيث يلتقي فارس من الممالك السبع، ريكارد نورتون، الملكة كيتارينا، والمرأة الفاتنة، سيرسي لانستر، في رحلة ممتازة من المغامرة والخطر."
+        "q": "ما هي قصة المسلسل؟",
+        "a": "يحكي المسلسل قصة فارس متجول دنك، والصديق الصغير إيغ، الذي يبحثان عن المجد والفرص في ويستروس.",
+        "q_en": "What is the story of the series?",
+        "a_en": "The series follows the story of Ser Duncan the Tall and his squire, Egg, as they navigate the complexities of the Seven Kingdoms."
       }
-    ]
+    ],
+    "keywords": "فارس من الممالك السبع, مسلسل, دراما, خيال علمي وفانتازيا, حركة ومغامرة, ويستروس, دنك, إيغ, شرف, فروسية, فارس من الممالك السبع مسلسل, فارس من الممالك السبع فاصل اعلاني, فارس من الممالك السبع مترجم, فارس من الممالك السبع الحلقة الأولى, رواية فارس من الممالك السبع, فارس من الممالك السبع الحلقه الخامسه, فارس من الممالك السبع الحلقة 5, موعد نزول حلقة فارس من الممالك السبع"
   },
   "fixed": true,
-  "first_air_date": "2026-01-18",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "68 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Norman Foster Evalyn Knapp Oscar Apfel Sidney Blackmer Ben Alexander"
+  "cast": "Peter Claffey Dexter Sol Ansell",
+  "first_air_date": "2026-01-18"
 }

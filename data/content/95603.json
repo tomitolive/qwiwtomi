@@ -4,14 +4,12 @@
   "title_ar": "المؤسس عثمان",
   "title_en": "Kurulu Osman",
   "slug": "95603-kurulu-osman",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "ملحمة تاريخية من أضخم إنتاجات الدراما التركية، تعرض سيرة المؤسس عثمان بن أرطغرل، ومعاركه ضد مغول الشرق وبيزنطيي الغرب وضعف الدولة وخيانات الأقربين، وجهاده ومحاربوه لزرع الشجرة التي ظللت فروعها الدنيا.",
   "poster_path": "/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
   "backdrop_path": "/puLaqdcTRwFxwv9S3PO6jA3ep7J.jpg",
   "release_date": "2019-11-20",
   "vote_average": 7.9,
-  "vote_count": 300,
+  "vote_count": 309,
   "genres": [
     {
       "id": 10768,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم من الحرب والسياسة والشجاعة، يروي المؤسس عثمان قصة المؤسس عثمان بن أرطغرل، مؤسس الدولة العثمانية، الذي قاد قواته ضد المغول الشرقيين والبيزنطيين الغربيين، وواجه التحديات والخلافات مع أقربائه، في رحلة مليئة بالمحاربة والشجاعة.",
-    "desc_en": "In a world of war, politics, and bravery, Kurulu Osman tells the story of Osman I, the founder of the Ottoman Empire, who led his troops against the Mongols and Byzantines, and faced challenges and conflicts with his relatives, in a journey filled with battles and bravery.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في المؤسس عثمان، حرب وسياسة، حركة ومغامرة، دراما",
-    "seo_title_ar": "مشاهدة فيلم المؤسس عثمان مترجم اون لاين - توميتو",
-    "keywords": "Kurulu Osman, فيلم المؤسس عثمان مترجم, مشاهدة فيلم المؤسس عثمان, مشاهدة المؤسس عثمان 2019, المؤسس عثمان مترجم كامل, توميتو المؤسس عثمان, قصة مسلسل المؤسس عثمان, أحداث المؤسس عثمان بالتفصيل",
-    "opinion": "هو فيلم تاريخي رائع، مليء بالشجاعة والبرavery، يروي قصة المؤسس عثمان بن أرطغرل، مؤسس الدولة العثمانية، في رحلة مليئة بالمحاربة والشجاعة.",
+    "intro": "في هذا المسلسل, نتعرف على قصة المؤسس عثمان بن أرطغرل, حيث يتحول من قبيلة صغيرة إلى دولة عظمى.",
+    "desc_ar": "يحكي هذا المسلسل قصة المؤسس عثمان بن أرطغرل، حيث ينطلق في رحلة تحويل قبيلة صغيرة إلى دولة عظمى، ويتواجه مع التحديات والتحالفات بين البيزنطيين والمغول، مع نيله لمزيد من القوة والسلطة. يظهر هذا المسلسل شخصيتا المؤسس عثمان وجماعته، وتعكس هذه القصة التغيرات الاجتماعية والسياسية في ذلك الوقت. سوف يتعرض المؤسس عثمان لمواقف صعبة في حياته، حيث سيحاول دائمًا الحفاظ على موقفه ويعزز مصداقيته، حتى يتأسس على قواعد سليمة، ويكون خير خليفة لابنه.",
+    "desc_en": "The series follows the story of Osman Bey, the son of Erturul and destined founder of the Ottoman Empire. He embarks on a journey to transform a small Turkic tribe into a sovereign state, battling the Byzantine Empire, Mongol forces, and treachery from within. As Osman Bey rises to power, he faces numerous challenges and forms alliances that will shape the course of history. This epic historical action drama is built on faith, honor, and the birth of one of history's greatest empires.",
+    "seo_title_ar": "مشاهدة مسلسل المؤسس عثمان مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل المؤسس عثمان مترجم, حرب وسياسة, دراما, حركة ومغامرة, مسلسل 2019, مترجم, بدون إعلانات, بجودة عالية. استمتع بمشاهدة هذا العمل بجودة عالية و",
+    "outro": "المؤسس عثمان هو مسلسل تاريخي يبرز التحديات التي واجهها المؤسس عثمان في بناء دولة عظمى.",
+    "opinion_ar": "قصة المؤسس عثمان هي حلم حقيقي، حيث يظهر شخصيات محددة مثل المؤسس عثمان وجماعته، وتعكس التغيرات الاجتماعية والسياسية في ذلك الوقت.",
+    "opinion_en": "The series is an epic historical action drama that showcases the transformation of a small tribe into a powerful empire, highlighting the challenges and triumphs of its founder.",
     "faq": [
       {
-        "q": "ما هو فيلم المؤسس عثمان؟",
-        "a": "هو فيلم دراما تاريخي يروي قصة المؤسس عثمان بن أرطغرل، مؤسس الدولة العثمانية."
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يحكي المسلسل قصة المؤسس عثمان بن أرطغرل.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series follows the story of Osman Bey, the son of Erturul and destined founder of the Ottoman Empire."
       },
       {
-        "q": "ما هي قصة المؤسس عثمان؟",
-        "a": "قصة المؤسس عثمان هي قصة الحرب والسياسة والشجاعة، التي يرويها المؤسس عثمان بن أرطغرل، مؤسس الدولة العثمانية."
-      },
-      {
-        "q": "ما هو نوع فيلم المؤسس عثمان؟",
-        "a": "هو فيلم دراما تاريخي، حرب وسياسة، حركة ومغامرة"
+        "q": "من هو المؤسس عثمان؟",
+        "a": "المؤسس عثمان هو بن أرطغرل، ويرسم المسلسل حياته من الصغر إلى الكبر.",
+        "q_en": "Who is Osman Bey?",
+        "a_en": "Osman Bey is the son of Erturul and the destined founder of the Ottoman Empire, and the series follows his journey from childhood to adulthood."
       }
-    ]
+    ],
+    "keywords": "المؤسس عثمان, مسلسل, حرب وسياسة, دراما, حركة ومغامرة, الترك, الدولة العثمانية, تاريخ, مسلسل 2019, ترجمة, بدون إعلانات, بجودة عالية, مشاهدة المؤسس عثمان, Kurulu Osman مترجم, تحميل المؤسس عثمان"
   },
   "fixed": true,
-  "first_air_date": "2019-11-20",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "80 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Ione Skye Maureen O'Sullivan Joe Morton Flea Cameron Dye"
+  "duration": "120 دقيقة",
+  "language": "التركية",
+  "country": "تركيا",
+  "cast": "Burak Özçivit Özge Törer Emre Bey Ecem Sena Bayır Ömer Faruk Aran Belgin Şimşek Leya Kırşan Yiğit Uçan",
+  "first_air_date": "2019-11-20"
 }

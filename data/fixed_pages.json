@@ -13565,8 +13565,164 @@
       "file": "322055.json",
       "title": "The Prosecutors Proposal",
       "fixed_at": "2026-08-24T18:30:07.606087"
+    },
+    {
+      "tmdb_id": "269149",
+      "file": "269149.json",
+      "title": "زوتروبوليس",
+      "fixed_at": "2026-08-24T19:01:56.718094"
+    },
+    {
+      "tmdb_id": "224372",
+      "file": "224372.json",
+      "title": "فارس من الممالك السبع",
+      "fixed_at": "2026-08-24T19:02:04.831285"
+    },
+    {
+      "tmdb_id": "1450",
+      "file": "1450.json",
+      "title": "The Closer",
+      "fixed_at": "2026-08-24T19:02:26.610498"
+    },
+    {
+      "tmdb_id": "39651",
+      "file": "39651.json",
+      "title": "Mario Puzos The Godfather: The Complete Novel for Television",
+      "fixed_at": "2026-08-24T19:02:36.714689"
+    },
+    {
+      "tmdb_id": "153657",
+      "file": "153657.json",
+      "title": "Bosch: Legacy",
+      "fixed_at": "2026-08-24T19:02:45.680258"
+    },
+    {
+      "tmdb_id": "39185",
+      "file": "39185.json",
+      "title": "Vera",
+      "fixed_at": "2026-08-24T19:02:55.168842"
+    },
+    {
+      "tmdb_id": "63401",
+      "file": "63401.json",
+      "title": "الدببة الثلاثة",
+      "fixed_at": "2026-08-24T19:03:06.078282"
+    },
+    {
+      "tmdb_id": "755679",
+      "file": "755679.json",
+      "title": "Fast Forever",
+      "fixed_at": "2026-08-24T19:03:13.823342"
+    },
+    {
+      "tmdb_id": "287238",
+      "file": "287238.json",
+      "title": "الــثــائــرة",
+      "fixed_at": "2026-08-24T19:03:23.364239"
+    },
+    {
+      "tmdb_id": "324115",
+      "file": "324115.json",
+      "title": "The Evil Lawyer",
+      "fixed_at": "2026-08-24T19:03:33.038457"
+    },
+    {
+      "tmdb_id": "278",
+      "file": "278.json",
+      "title": "الخلاص من شاوشانك",
+      "fixed_at": "2026-08-24T19:03:42.235599"
+    },
+    {
+      "tmdb_id": "1110034",
+      "file": "1110034.json",
+      "title": "Kraken",
+      "fixed_at": "2026-08-24T19:03:49.752093"
+    },
+    {
+      "tmdb_id": "31572",
+      "file": "31572.json",
+      "title": "لوبين الثالث",
+      "fixed_at": "2026-08-24T19:04:02.251278"
+    },
+    {
+      "tmdb_id": "764",
+      "file": "764.json",
+      "title": "Midsomer Murders",
+      "fixed_at": "2026-08-24T19:04:12.807295"
+    },
+    {
+      "tmdb_id": "1015606",
+      "file": "1015606.json",
+      "title": "Obi-Wan Kenobi: A Jedis Return",
+      "fixed_at": "2026-08-24T19:04:21.982000"
+    },
+    {
+      "tmdb_id": "9036",
+      "file": "9036.json",
+      "title": "Eight Below",
+      "fixed_at": "2026-08-24T19:04:32.133225"
+    },
+    {
+      "tmdb_id": "303109",
+      "file": "303109.json",
+      "title": "النار والماء: خلف كواليس أفلام (أفاتار)",
+      "fixed_at": "2026-08-24T19:04:40.988557"
+    },
+    {
+      "tmdb_id": "285166",
+      "file": "285166.json",
+      "title": "متعدد المهارات بلا فريق",
+      "fixed_at": "2026-08-24T19:04:47.715376"
+    },
+    {
+      "tmdb_id": "2501",
+      "file": "2501.json",
+      "title": "هوية بورن",
+      "fixed_at": "2026-08-24T19:04:55.584055"
+    },
+    {
+      "tmdb_id": "1339713",
+      "file": "1339713.json",
+      "title": "هوس",
+      "fixed_at": "2026-08-24T19:05:03.205210"
+    },
+    {
+      "tmdb_id": "238",
+      "file": "238.json",
+      "title": "العراب",
+      "fixed_at": "2026-08-24T19:05:11.752473"
+    },
+    {
+      "tmdb_id": "424",
+      "file": "424.json",
+      "title": "قائمة شندلر",
+      "fixed_at": "2026-08-24T19:05:21.302776"
+    },
+    {
+      "tmdb_id": "204024",
+      "file": "204024.json",
+      "title": "Rock, Paper, Scissors",
+      "fixed_at": "2026-08-24T19:05:29.069860"
+    },
+    {
+      "tmdb_id": "34766",
+      "file": "34766.json",
+      "title": "Mad King Granzrt",
+      "fixed_at": "2026-08-24T19:05:36.930268"
+    },
+    {
+      "tmdb_id": "458156",
+      "file": "458156.json",
+      "title": "جون ويك: الفصل ٣ - الاستعداد للحرب",
+      "fixed_at": "2026-08-24T19:05:45.278449"
+    },
+    {
+      "tmdb_id": "95603",
+      "file": "95603.json",
+      "title": "المؤسس عثمان",
+      "fixed_at": "2026-08-24T19:05:53.436906"
     }
   ],
-  "last_updated": "2026-08-24T18:30:09.838688",
-  "total_fixed": 2261
+  "last_updated": "2026-08-24T19:05:55.515562",
+  "total_fixed": 2287
 }
