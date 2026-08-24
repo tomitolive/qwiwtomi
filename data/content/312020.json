@@ -1,13 +1,13 @@
 {
   "id": 312020,
-  "title": "The World Is Dancing",
-  "title_ar": "The World Is Dancing",
-  "title_en": "The World Is Dancing",
-  "slug": "312020-the-world-is-dancing",
-  "overview": "العالم يرقص: مسلسل رسوم متحركة ودراما يسلط الضوء على قصة شاب يدعى أونياشا في عام 1374، وسط الصراع الطويل بين المحاكم الشمالية والجنوبية. يولد أونياشا لعائلة من فناني مسرح ساروغاكو، ويعيش أيامه في كآبة هادئة، مسكونًا بسؤال بسيط لكنه ملح: لماذا يرقص الناس؟ ثم يشهد يومًا ما رقصة يشعر أنها \"جيدة\"، وكل شيء يبدأ بالتغير. هذه هي قصة الشاب الجميل الذي سيغير فن نوه ويُذكر باسم زيمي. The World Is Dancing، مسلسل يستكشف عالم الرقص والفن.",
+  "title": "Caillou: Caillous Family Favorites",
+  "title_ar": "Caillou: Caillous Family Favorites",
+  "title_en": "Caillou: Caillous Family Favorites",
+  "slug": "312020-caillou-caillous-family-favorites",
+  "overview": "يحكي هذا العمل قصة كايو، طفل فرنسي كندي ثري ثقافياً، يجد نفسه في مواجهة العديد من التحديات الصغيرة في حياته، حيث يساعد والديه واخته روزي في مواجهة هذه التحديات، ويحظى بمساندتهم في كل مناسبة.",
   "poster_path": "/mcxKZoHg7pY2OvlG4IgQv9LBz4H.jpg",
-  "backdrop_path": "/AsQ6QzR58WOfty0CFuICHmEDf5C.jpg",
-  "release_date": "2026-07-02",
+  "backdrop_path": null,
+  "release_date": "2006-01-01",
   "vote_average": 7.0,
   "vote_count": 10,
   "genres": [
@@ -21,33 +21,35 @@
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل The World Is Dancing (2026) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "العالم يرقص: مسلسل رسوم متحركة ودراما يسلط الضوء على قصة شاب يدعى أونياشا في عام 1374، وسط الصراع الطويل بين المحاكم الشمالية والجنوبية. يولد أونياشا لعائلة من فناني مسرح ساروغاكو، ويعيش أيامه في كآبة هادئة، مسكونًا بسؤال بسيط لكنه ملح: لماذا يرقص الناس؟ ثم يشهد يومًا ما رقصة يشعر أنها \"جيدة\"، وكل شيء يبدأ بالتغير. هذه هي قصة الشاب الجميل الذي سيغير فن نوه ويُذكر باسم زيمي. The World Is Dancing، مسلسل يستكشف عالم الرقص والفن.",
-    "desc_en": "The World Is Dancing, a captivating animated drama series, takes us back to 1374, amidst the turmoil of the Northern and Southern Courts' conflict. It follows the journey of Oniyasha, a young boy born into a family of sarugaku theater performers. Plagued by a simple yet persistent question, \"Why do people dance?\", his life takes a turn when he witnesses a dance that he deems \"good.\" This series tells the story of the beautiful young boy who would shape the art of Noh and be remembered as Zeami.",
-    "seo_title_ar": "مشاهدة مسلسل العالم يرقص The World Is Dancing مترجم - توميتو",
-    "meta_desc": "The World Is Dancing: شاهد كيف يغير الرقص حياة شاب يدعى أونياشا في عام 1374. مسلسل رسوم متحركة ودراما يسلط الضوء على فن نوه.",
-    "outro": "شاهد The World Is Dancing الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "العالم يرقص، مسلسل رسوم متحركة مدهش يغوص في أعماق عالم الرقص والفن. إنه رحلة مؤثرة ومثيرة للإعجاب، حيث يكتشف أونياشا قيمة الرقص وأثره على الحياة.",
-    "opinion_en": "The World Is Dancing is a captivating animated series that beautifully explores the power of dance. Oniyasha's journey is an inspiring and thought-provoking tale, showcasing the impact of art and self-discovery.",
+    "intro": "حياة كايو واخته روزي مع والديهم هي قصة جميلة وملهمة تُحكي في فيلم كايو: عائلة كايو المفضلة.",
+    "desc_ar": "يحكي هذا العمل قصة كايو، طفل فرنسي كندي ثري ثقافياً، يجد نفسه في مواجهة العديد من التحديات الصغيرة في حياته، حيث يساعد والديه واخته روزي في مواجهة هذه التحديات، ويحظى بمساندتهم في كل مناسبة.",
+    "desc_en": "With his imagination and playful spirit, French Canadian tyke Caillou greets every activity as an adventure, and whether he's dressing up for a party or tumbling at the skating rink, Mom, Dad and sister Rosie are there to support him.",
+    "seo_title_ar": "مشاهدة كايو: عائلة كايو المفضلة مترجم - توميتو",
+    "meta_desc": "شاهد كايو: عائلة كايو المفضلة: حياة كايو واخته روزي مع والديهم، ومواجهتهم لتحديات الحياة اليومية، مع حب وتفاني فيما يفعلونه. استمتع بمشاهدة هذا العمل",
+    "outro": "فيلم كايو: عائلة كايو المفضلة هو فيلم رسوم متحركة يهزك قلبي، حيث يتعرفنا على حياة كايو واخته روزي في العالم.",
+    "opinion_ar": "كايو: عائلة كايو المفضلة هو فيلم رسوم متحركة يهزك قلبي، حيث يتعرفنا على حياة كايو واخته روزي في العالم.",
+    "opinion_en": "Caillou: Caillous Family Favorites is an animated film that touches my heart, introducing us to the lives of Caillou and his sister Rosie in the world.",
     "faq": [
       {
-        "q": "ما هو العالم يرقص؟",
-        "a": "العالم يرقص هو مسلسل رسوم متحركة ودراما يسلط الضوء على قصة شاب يدعى أونياشا في عام 1374، وكيف يغير الرقص حياته.",
-        "q_en": "What is The World Is Dancing?",
-        "a_en": "The World Is Dancing is an animated drama series set in 1374, following the story of Oniyasha and how dance transforms his life."
+        "q": "ما هي قصة كايو في هذا العمل؟",
+        "a": "يحكي هذا العمل قصة كايو، طفل فرنسي كندي يجد نفسه في مواجهة العديد من التحديات الصغيرة في حياته.",
+        "q_en": "What is the story of Caillou in this film?",
+        "a_en": "This film tells the story of Caillou, a French Canadian child who faces many small challenges in his life."
+      },
+      {
+        "q": "متى صدر هذا العمل؟",
+        "a": "صدر هذا العمل عام 2006.",
+        "q_en": "When was this film released?",
+        "a_en": "This film was released in 2006."
       }
     ],
-    "keywords": "العالم يرقص, The World Is Dancing, مسلسل, رسوم متحركة, دراما, فن, نوه, زيمي, أونياشا"
+    "keywords": "كايو, عائلة كايو المفضلة, رسوم متحركة, دراما, كايو: عائلة كايو المفضلة, فيلم, حياة كايو, روزي, والديه, مشاهدة كايو: عائلة كايو المفضلة, Caillou: Caillous Family Favorites مترجم, تحميل كايو: عائلة كايو المفضلة, كايو: عائلة كايو المفضلة اون لاين, Caillou: Caillous Family Favorites, كايو: عائلة كايو المفضلة جودة عالية"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
   "duration": "45 دقيقة",
-  "language": "اليابانية",
-  "country": "اليابان",
-  "cast": "Yumiri Hanamori Shimba Tsuchiya Maaya Uchida Romi Park Katsuyuki Konishi Haruki Ishiya Takahiro Sakurai Nobuo Tobita",
-  "first_air_date": "2026-07-02",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "language": "الإنجليزية",
+  "country": "الولايات المتحدة الأمريكية",
+  "cast": ""
 }

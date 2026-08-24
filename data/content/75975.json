@@ -4,14 +4,12 @@
   "title_ar": "Tada Never Falls in Love",
   "title_en": "Tada Never Falls in Love",
   "slug": "75975-tada-never-falls-in-love",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا المسلسل قصة تادا الذي لا يعرف الحب أبدًا، وهو يلتقط صور الزهور المتناثرة في إطلالة جميلة، عندما يلتقي براشا، طالبة جديدة من لوكسمبورغ، كانت قد فقدت طريقها في اليابان، بعد أن انفصلت عن صديقها في السفر، يساعد تادا راشا ويقدمها إلى عيادة شاي جده، وهنا تبدأ قصة الحب بينهم.",
   "poster_path": "/3BazV6nF9Cr3vVepAhWCFMp12b4.jpg",
   "backdrop_path": "/9PosEjEkcSt5jO0rRDgQ0iUcMIo.jpg",
   "release_date": "2018-04-05",
-  "vote_average": 7.5,
-  "vote_count": 92,
+  "vote_average": 7.4,
+  "vote_count": 95,
   "genres": [
     {
       "id": 16,
@@ -27,33 +25,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم تادا، لا يوجد عشق ولا حب، ولكن عندما يلتقي تادا بمسألة رائعة، يبدأ رحلة لاكتشاف ما هو الحب، والما هو النضال، والما هو الحياة. تادا يتعامل مع مشكلاتها في عالم متحرك، حيث يلتقي بالعديد من الشخصيات، ويحاول أن يفهم ما هو الحب، ولكن ما الذي ينتظر تادا في النهاية؟",
-    "desc_en": "In the world of Tada, there is no love and no love, but when Tada meets a wonderful issue, it begins a journey to discover what love is, what struggle is, and what life is. Tada deals with its problems in a moving world, where it meets many personalities, and tries to understand what love is, but what awaits Tada in the end?",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في تادا Never Falls in Love - توميتو",
-    "seo_title_ar": "مشاهدة فيلم تادا Never Falls in Love مترجم اون لاين - توميتو",
-    "keywords": "فيلم تادا مترجم, مشاهدة فيلم تادا, أحداث Tada Never Falls in Love بالتفصيل, Tada Never Falls in Love مترجم كامل, توميتو Tada Never Falls in Love, مشاهدة Tada Never Falls in Love 2018, قصة مسلسل Tada Never Falls in Love",
-    "opinion": "في هذا العالم المتحرك، نرى تادا يتعامل مع مشكلاتها، ويحاول أن يفهم ما هو الحب، ولكن ما الذي ينتظر تادا في النهاية؟ هو فيلم كوميديا رائعة، يحتوي على الكثير من اللافتات والفكاهة، ويحاول أن يفهم ما هو الحب، ولكن ما الذي ينتظر تادا في النهاية؟",
+    "intro": "في إطلالة جميلة من الزهور، يلتقي تادا وراشا، وبدء قصة الحب بينهم.",
+    "desc_ar": "يحكي هذا المسلسل قصة تادا الذي لا يعرف الحب أبدًا، وهو يلتقط صور الزهور المتناثرة في إطلالة جميلة، عندما يلتقي براشا، طالبة جديدة من لوكسمبورغ، كانت قد فقدت طريقها في اليابان، بعد أن انفصلت عن صديقها في السفر، يساعد تادا راشا ويقدمها إلى عيادة شاي جده، وهنا تبدأ قصة الحب بينهم.",
+    "desc_en": "Tada Never Falls in Love is a heartwarming story about Mitsuyoshi Tada, a boy who has never experienced love, as he captures the beauty of the blooming cherry blossoms with his camera, when he meets Teresa Wagner, a transfer student from Luxembourg, who got lost in Japan after separating from her travel companion, Mitsuyoshi helps her and brings her to his grandfather's coffee shop, where their love story begins.",
+    "seo_title_ar": "مشاهدة تادا لا يقع في الحب أبدا مسلسل 2018 مترجم - توميتو",
+    "meta_desc": "تادا لا يقع في الحب أبدا - مسلسل رسوم متحركة كوميديا دراما عن قصة الحب بين تادا وراشا في إطلالة جميلة من الزهور، استمتع بمشاهدة هذا العمل بجودة عالية وترج",
+    "outro": "هذا المسلسل رسوم متحركة كوميديا دراما رائع، يروي قصة الحب بين تادا وراشا، مع إطلالة جميلة من الزهور.",
+    "opinion_ar": "هذا المسلسل رسوم متحركة كوميديا دراما رائع، يروي قصة الحب بين تادا وراشا، مع إطلالة جميلة من الزهور، ويحكي عن تجربة الحب لأول مرة في حياة تادا.",
+    "opinion_en": "Tada Never Falls in Love is a beautiful animated comedy-drama series, it tells the story of the love between Tada and Rasha, with a lovely backdrop of cherry blossoms, and explores the experience of falling in love for the first time in Tada's life.",
     "faq": [
       {
-        "q": "ما هو نوع تادا Never Falls in Love؟",
-        "a": "هو نوع رسوم متحركة كوميديا دراما"
+        "q": "ما هو نوع المسلسل؟",
+        "a": "رسوم متحركة كوميديا دراما",
+        "q_en": "What is the genre of the series?",
+        "a_en": "Animated comedy-drama"
       },
       {
-        "q": "ما هو موضوع تادا Never Falls in Love؟",
-        "a": "يحكي قصة تادا عن محاولة اكتشاف ما هو الحب والما هو النضال والما هو الحياة"
-      },
-      {
-        "q": "ما هو أفضل ما في تادا Never Falls in Love؟",
-        "a": "هو الكثير من اللافتات والفكاهة والرسوم المتحركة الرائعة"
+        "q": "متى صدر المسلسل؟",
+        "a": "2018",
+        "q_en": "When was the series released?",
+        "a_en": "2018"
       }
-    ]
+    ],
+    "keywords": "رسوم متحركة, كوميديا, دراما, تادا لا يقع في الحب أبدا, مسلسل, الحب, مشاهدة تادا لا يقع في الحب أبدا, Tada Never Falls Love مترجم, تحميل تادا لا يقع في الحب أبدا, تادا لا يقع في الحب أبدا اون لاين, Tada Never Falls Love, تادا لا يقع في الحب أبدا جودة عالية, Tada Never Falls in Love مترجم, Tada Never Falls in Love online, فيلم تادا لا يقع في الحب أبدا"
   },
   "fixed": true,
-  "first_air_date": "2018-04-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "7 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Stan Freberg"
+  "duration": "24 دقيقة",
+  "language": "اليابانية",
+  "country": "اليابان",
+  "cast": "Yuichi Nakamura Manaka Iwami Mamoru Miyano Shino Shimoji Yuuichirou Umehara Hiro Shimono Inori Minase Takahiro Sakurai",
+  "first_air_date": "2018-04-05"
 }

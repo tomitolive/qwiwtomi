@@ -1,17 +1,15 @@
 {
   "id": 1406,
-  "title": "Deadwood",
-  "title_ar": "Deadwood",
+  "title": "ديدوود",
+  "title_ar": "ديدوود",
   "title_en": "Deadwood",
   "slug": "1406-deadwood",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تقع الاحداث في المستعمرة الغير شرعية ديدود حيث غياب القانون هو سيد الموقف . مع انتشار الاخبار حول سهولة تنقيب الذهب في البلدة يتوافد قطاع الطرق ورجال الأعمال بالاضافة إلى الجنود السابقين والمحتالين رغبة في بدء حياة رغيدة مع الذهب المنشود",
   "poster_path": "/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
-  "backdrop_path": "/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
+  "backdrop_path": "/31oYoyp69L8Bo6Vuz2ogB5JoipV.jpg",
   "release_date": "2004-03-21",
   "vote_average": 8.1,
-  "vote_count": 942,
+  "vote_count": 981,
   "genres": [
     {
       "id": 37,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة ديدود الغير شرعية، حيث غياب القانون هو سيد الموقف، يتوافد كل من القطاع الطرقي ورجال الأعمال والجنود السابقين والمحتالين رغبة في بدء حياة رغيدة مع الذهب المنشود. مع انتشار الاخبار حول سهولة تنقيب الذهب في البلدة، يتحول المكان إلى معركة بين من يريدون الحصول على الذهب والذين يريدون المحافظة على القانون.",
-    "desc_en": "In the lawless town of Deadwood, where the absence of law is the dominant force, various groups converge, including outlaws, businessmen, and former soldiers, all seeking to start a new life with the gold they've sought. As news of the town's gold rush spreads, the place becomes a battleground between those who want to get rich and those who want to maintain the law.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مدينة ديدود",
-    "seo_title_ar": "مشاهدة فيلم ديدود مترجم اون لاين - توميتو",
-    "keywords": "فيلم ديدود مترجم, مشاهدة فيلم ديدود, Deadwood مترجم كامل, مشاهدة Deadwood 2004, قصة مسلسل Deadwood, أحداث Deadwood بالتفصيل, توميتو Deadwood",
-    "opinion": "هو فيلم دراما جريمة غربي رائع، يحتوي على أحداث إثارة وملذقة، ويحكي قصة مدينة ديدود التي تتميز بكونها مدينة قانونية غير شرعية، حيث يتوافد كل من القطاع الطرقي ورجال الأعمال والجنود السابقين والمحتالين رغبة في بدء حياة رغيدة مع الذهب المنشود.",
+    "intro": "يحكي مسلسل ديدوود قصة إنهاء العصر البري في ديدوود، جنوب داكوتا، حيث يغلب على الموقف غياب القانون.",
+    "desc_ar": "يحكي مسلسل ديدوود قصة مستعمرة غير شرعية توجد في ديدوود، جنوب داكوتا، حيث يغلب على الموقف غياب القانون. مع انتشار الأخبار عن سهولة استخراج الذهب في المنطقة، يتوافد عليها قطاع الطرق، ورجال الأعمال، والجنود السابقين، والمحتالين، جميعهم يبتعدون عن القانون، في محاولة بدء حياة رغيدة مع الذهب المنشود. يعتمد المسلسل على أحداث تاريخية حقيقية، ويتناول معظم الشخصيات الرئيسية، مثل سيت بولوك وآل سويرينجن، على شخصيات حقيقية.",
+    "desc_en": "The story of Deadwood, South Dakota, unfolds in the early days of this lawless wild-west community, where the absence of law is the dominant force. As news spreads about the ease of gold mining in the area, outlaws, businessmen, former soldiers, and con artists all converge, seeking to start a comfortable life with the coveted gold. Based on actual historic events, the series focuses on the lives of real people, including Seth Bullock and Al Swearengen.",
+    "seo_title_ar": "مشاهدة مسلسل ديدوود مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة مسلسل ديدوود: قصة إنهاء العصر البري في ديدوود، جنوب داكوتا، مع الذهب، والقانون، والجريمة، والدراما، في هذا المسلسل التاريخي المثير، من عام 2",
+    "outro": "يعد مسلسل ديدوود تجربة مشاهدة رائعة، حيث يروي قصة مستعمرة غير شرعية، وتطورها إلى مدينة منظمة، مع تواجد الشخصيات الحقيقية، مثل سيت بولوك وآل سويرينجن.",
+    "opinion_ar": "يعد مسلسل ديدوود تجربة مشاهدة رائعة، حيث يروي قصة مستعمرة غير شرعية، وتطورها إلى مدينة منظمة، مع تواجد الشخصيات الحقيقية، مثل سيت بولوك وآل سويرينجن.",
+    "opinion_en": "Deadwood is a must-watch series, offering a gripping narrative about a lawless wild-west community's transformation into an organized town, with the real-life characters of Seth Bullock and Al Swearengen at its center.",
     "faq": [
       {
-        "q": "ما هو فيلم ديدود؟",
-        "a": "هو فيلم دراما جريمة غربي رائع يحتوي على أحداث إثارة وملذقة."
-      },
-      {
-        "q": "ما هو نوع فيلم ديدود؟",
-        "a": "هو فيلم تلفزيوني من نوع دراما جريمة غربي."
-      },
-      {
-        "q": "ما هو أفضل ما في فيلم ديدود؟",
-        "a": "هو قصة المدينة القانونية غير الشرعية التي تتميز بكونها مدينة قانونية غير شرعية، حيث يتوافد كل من القطاع الطرقي ورجال الأعمال والجنود السابقين والمحتالين رغبة في بدء حياة رغيدة مع الذهب المنشود."
+        "q": "ما هو مسلسل ديدوود؟",
+        "a": "يتناول مسلسل ديدوود قصة مستعمرة غير شرعية في ديدوود، جنوب داكوتا، وتطورها إلى مدينة منظمة.",
+        "q_en": "What is Deadwood?",
+        "a_en": "Deadwood is a historical drama series that follows the story of a lawless wild-west community in Deadwood, South Dakota, and its transformation into an organized town."
       }
-    ]
+    ],
+    "keywords": "ديدوود, مسلسل, غربي, جريمة, دراما, جنوب داكوتا, الذهب, القانون, الجريمة, الدراما, مشاهدة ديدوود, Deadwood مترجم, تحميل ديدوود, ديدوود اون لاين, Deadwood"
   },
   "fixed": true,
-  "first_air_date": "2004-03-21",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "114 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Billy Crystal Daniel Stern Bruno Kirby Patricia Wettig Helen Slater"
+  "cast": "Timothy Olyphant Ian McShane Molly Parker Jim Beaver W. Earl Brown Dayton Callie Kim Dickens Brad Dourif",
+  "first_air_date": "2004-03-21"
 }

@@ -4,9 +4,7 @@
   "title_ar": "Milo",
   "title_en": "Milo",
   "slug": "228272-milo",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "يحكي هذا العمل المسلسل قصة ميلو، ابنة خياط، التي تتمتع بفائدة صوتية ية، ولكنها مجبرة على إخفاء هذه الفائدة من العالم الخارجي. على الرغم من كل ما تريد ميلو من حياة مليئة بالغناء والmusic، لكنها تعمل على إخفاء هذه الفائدة، حتى إذا كانت فائدة صوتية ية. في هذا العمل المسلسل، نرى كيف يتعامل ميلو مع هذه الفائدة، وتحدياتها، وتحقيق أهدافيها. هذا العمل المسلسل من نوع أوبرا صابونية ودراما، ويعتبر أحد الأعمال الهامة التي يجب مشاهدتها.",
   "poster_path": "/x5B0Y2yvMmLFNcj08V724oMu9am.jpg",
   "backdrop_path": "/xavHGCzcYrAsrevxLnwDKUnJhzd.jpg",
   "release_date": "2024-01-05",
@@ -23,33 +21,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الرقص والغناء، تظهر شخصية ميلو، الراقصة الرائعة التي تتميز بجمالها الفني والشخصية، ولكنها تتعرض لخلافات داخلية و خارجية، مما يفجأها في مسيرة حياتها، ويقودها إلى الابتعاد عن عالم الرقص والغناء، ولكنها تكتشف أن هناك أكثر من مجرد رقص والغناء في العالم، وأن هناك أيضاً حب والصداقة والخلافات، ويقودها إلى الابتعاد عن عالم الرقص والغناء، ويقودها إلى الابتعاد عن عالم الرقص والغناء.",
-    "desc_en": "In a world of dance and music, the character of Milo, a renowned dancer, is known for her artistic and personal beauty. However, she is exposed to internal and external conflicts, which lead her to distance herself from the world of dance and music. But she discovers that there is more to the world than just dance and music, and that there is also love, friendship, and conflict, leading her to distance herself from the world of dance and music.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في مسلسل ميلو",
-    "seo_title_ar": "مشاهدة مسلسل ميلو مترجم اون لاين - توميتو",
-    "keywords": "فيلم ميلو مترجم, مشاهدة مسلسل ميلو, أحداث Milo بالتفصيل, مشاهدة Milo 2024, Milo مترجم كامل, قصة مسلسل Milo, توميتو Milo",
-    "opinion": "من المؤكد أن مسلسل ميلو هو أحد أهم المسلسلات الدرامية في السنوات الأخيرة، حيث يجمع بين الرقص والغناء والشخصيات، ويقودنا إلى عالم من الإثارة والتشويق، ويقودنا إلى عالم من الإثارة والتشويق",
+    "intro": "حسناً، في هذا العمل المسلسل، نرى كيف يتعامل ميلو مع هذه الفائدة، وتحدياتها، وتحقيق أهدافيها.",
+    "desc_ar": "يحكي هذا العمل المسلسل قصة ميلو، ابنة خياط، التي تتمتع بفائدة صوتية ية، ولكنها مجبرة على إخفاء هذه الفائدة من العالم الخارجي. على الرغم من كل ما تريد ميلو من حياة مليئة بالغناء والmusic، لكنها تعمل على إخفاء هذه الفائدة، حتى إذا كانت فائدة صوتية ية. في هذا العمل المسلسل، نرى كيف يتعامل ميلو مع هذه الفائدة، وتحدياتها، وتحقيق أهدافيها. هذا العمل المسلسل من نوع أوبرا صابونية ودراما، ويعتبر أحد الأعمال الهامة التي يجب مشاهدتها.",
+    "desc_en": "The telenovella 'Milo' is a modern musical fairy tale. The series tells the story of Milo, a very talented baker's daughter with a golden voice, who is forced to hide her talent from the outside world. No matter how hard she dreams of a life full of singing and music, she works hard to keep her talent a secret. In this series, we see how Milo deals with her talent, challenges, and achieving her goals. This series is a type of opera soap and drama, and it is one of the important works that must be watched.",
+    "seo_title_ar": "مشاهدة مسلسل ميلو مترجم - توميتو",
+    "meta_desc": "استمتع بمشاهدة هذا العمل المسلسل الرائع، ميلو، بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. العمل هو من نوع أوبرا صابونية ودراما، ويعتبر أحد الأعمال اله",
+    "outro": "في نهاية العمل المسلسل، نرى كيف تحقق ميلو أهدافيها، وتتمتع بفائدة صوتية زلتية، وتحدياتها، وتحقيق أهدافيها.",
+    "opinion_ar": "عمل مسلسل رائع يحتوي على قصة مثيرة وجميلة، ويحكي عن ابنة خياط تعمل على إخفاء فائدة صوتية زلتية.",
+    "opinion_en": "A wonderful telenovella that contains an exciting and beautiful story, and it tells the story of a baker's daughter who works hard to keep her golden voice a secret.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل ميلو؟",
-        "a": "يحكي مسلسل ميلو قصة الراقصة ميلو، التي تتعرض لخلافات داخلية و خارجية، مما يفجأها في مسيرة حياتها"
-      },
-      {
-        "q": "ما هو نوع مسلسل ميلو؟",
-        "a": "مسلسل ميلو هو مسلسل دراما، يجمع بين الرقص والغناء والشخصيات"
-      },
-      {
-        "q": "ما هو المخرج من مسلسل ميلو؟",
-        "a": "المخرج من مسلسل ميلو هو [لا يوجد معلومات عن المخرج]"
+        "q": "ما هي قصة مسلسل ميلو؟",
+        "a": "يعرض مسلسل ميلو قصة ابنة خياط تعمل على إخفاء فائدة صوتية زلتية.",
+        "q_en": "What is the story of Milo's telenovella?",
+        "a_en": "The telenovella 'Milo' tells the story of a baker's daughter who works hard to keep her golden voice a secret."
       }
-    ]
+    ],
+    "keywords": "ميلو, مسلسل, أوبرا صابونية, دراما, ابنة خياط, فائدة صوتية زلتية, قصة مثيرة, جميلة, مشاهدة ميلو, Milo مترجم, تحميل ميلو, ميلو اون لاين, Milo, ميلو جودة عالية, فيلم ميلو"
   },
   "fixed": true,
-  "first_air_date": "2024-01-05",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Belgium",
+  "cast": "Camille Dhont Mathias Mesmans Emanoel Nascimento Borges Laetitia Janssens Karlijn Sileghem Antje De Rop Luka De Baets Evelyne Chen",
+  "first_air_date": "2024-01-05"
 }

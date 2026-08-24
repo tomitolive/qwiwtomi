@@ -4,14 +4,12 @@
   "title_ar": "الحفرة",
   "title_en": "The Pit",
   "slug": "74823-the-pit",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "",
+  "overview": "تدور أحداث المسلسل في أخطر حي في إسطنبول، الذي تسيطر عليه عائلة \"كوشوفالي\". تُعتبر المتاجرة بالمخدرات ممنوعة في هذا الحي. ياماش (أراس بولوت إينيملي)، الابن الأصغر لعائلة \"كوشوفالي\"، قرر ترك الحي وعائلته وراءه ليبدأ حياة جديدة بعيدًا عنهم. يتعرف ياماش على فتاة جميلة ويقع في حبها، ويخطط للزواج منها. لكن حياته تنقلب عندما تأتي والدته وتطلب منه العودة إلى الحي المعروف باسم \"الحفرة\" لأنه في حاجة إليه، خاصة بعد وفاة أخيه الأكبر كهرمان، الذي كان يدير شؤون الحي. يعود ياماش إلى الحفرة، ليجد نفسه في وسط مغامرات ومؤامرات للسيطرة على الحي",
   "poster_path": "/fBXDSBDw5Zug6E2xTB265LzYVKz.jpg",
   "backdrop_path": "/xtCzLQOocIajjQ5Mhwp834BQhVX.jpg",
   "release_date": "2017-10-23",
   "vote_average": 7.6,
-  "vote_count": 86,
+  "vote_count": 87,
   "genres": [
     {
       "id": 80,
@@ -27,33 +25,30 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المافيا، يتعامل رجل الأعمال الشهير، جاك، مع نزاعاته مع الأشخاص الذين يريدون أن يسيطروا على شركته. في هذه الأثناء، يتعامل رجل المافيا، فيليب، مع نزاعاته مع الأشخاص الذين يريدون أن يسيطروا على مافيا، ويحاول أن ينجو من الموت، ويحاول أن ينجو من الموت، ويحاول أن ينجو من الموت.",
-    "desc_en": "In the world of mafia, the wealthy businessman, Jack, deals with his conflicts with the people who want to take control of his company. Meanwhile, the mafia man, Philip, deals with his conflicts with the people who want to take control of the mafia, and tries to survive from death, and tries to survive from death, and tries to survive from death.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في الحفرة!",
-    "keywords": "The Pit, فيلم الحفرة مترجم, مشاهدة فيلم الحفرة, الحفرة مترجم كامل, مشاهدة الحفرة 2017, قصة مسلسل الحفرة, أحداث الحفرة بالتفصيل, توميتو الحفرة",
-    "seo_title_ar": "مشاهدة فيلم الحفرة مترجم اون لاين - توميتو",
-    "opinion": "هو فيلم رائع يلقي بظله على المشاهدين، ويحاول أن ينجو من الموت، ويحاول أن ينجو من الموت، ويحاول أن ينجو من الموت.",
+    "intro": "تدور أحداث مسلسل الحفرة في حي إسطنبول، حيث تسيطر عائلة كوشوفالي على المجتمع المحلي.",
+    "desc_ar": "يحكي مسلسل الحفرة قصة الحياة في أحد أحياء إسطنبول، حيث تسيطر عائلة كوشوفالي على المجتمع المحلي. يجد الابن الأصغر للعائلة نفسه في مواجهة تحديات كبيرة عندما يُطلب منه العودة إلى الحي المعروف باسم الحفرة، بعد وفاة أخيه الأكبر. في هذا الأحياء، يتخلل قصة الحفرة مغامرات وحروب السيطرة على الحي، بينما يتعرف ياماش على حب جديد ومغامرات غير متوقعة.",
+    "desc_en": "When a mafia family named Koovars are in danger of losing control of their neighborhood, The Pit, their youngest son must come back home, a place he could never truly escape. As he navigates the treacherous world of crime and family loyalty, he discovers new love and unexpected adventures. With the fate of the neighborhood hanging in the balance, he must confront the harsh realities of his family's world and decide where his true loyalties lie.",
+    "seo_title_ar": "مشاهدة مسلسل الحفرة مترجم - توميتو",
+    "meta_desc": "مسلسل الحفرة, قصة حياة في حي إسطنبول, عائلة كوشوفالي, الحفرة, جريمة, حركة ومغامرة, دراما, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات",
+    "outro": "يتخلل قصة الحفرة مغامرات وحروب السيطرة على الحي، بينما يتعرف ياماش على حب جديد ومغامرات غير متوقعة.",
+    "opinion_ar": "يعد مسلسل الحفرة من أفضل الأعمال التي شاهدتها في السنوات الأخيرة، حيث تجمع بين مغامرات مثيرة ومواقف درامية حية.",
+    "opinion_en": "I highly recommend watching The Pit, a gripping and intense drama that explores the complexities of family loyalty and the human condition.",
     "faq": [
       {
-        "q": "ما هو الحفرة؟",
-        "a": "هو فيلم جريمة حركة دراما يلقي بظله على المشاهدين."
-      },
-      {
-        "q": "ما هو نوع الحفرة؟",
-        "a": "هو فيلم تلفزيوني يلقي بظله على المشاهدين."
-      },
-      {
-        "q": "ما هو أفضل جزء من الحفرة؟",
-        "a": "هو الجزء الذي يلقي بظله على المشاهدين"
+        "q": "ما هو مصير مسلسل الحفرة؟",
+        "a": "يتعرض مسلسل الحفرة لمغامرات كثيرة ومواقف درامية حية، مما يجعله من بين الأعمال الأكثر إثارة في السنوات الأخيرة.",
+        "q_en": "What is the fate of The Pit?",
+        "a_en": "The Pit explores the complexities of family loyalty and the human condition, leading to intense and dramatic storylines that keep viewers on the edge of their seats."
       }
-    ]
+    ],
+    "keywords": "الحفرة, مسلسل, جريمة, حركة ومغامرة, دراما, عائلة كوشوفالي, إسطنبول, مغامرات, مواقف درامية, مشاهدة الحفرة, The Pit مترجم, تحميل الحفرة, الحفرة اون لاين, The Pit, الحفرة جودة عالية"
   },
   "fixed": true,
-  "first_air_date": "2017-10-23",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "duration": "140 دقيقة",
+  "language": "التركية",
+  "country": "تركيا",
+  "cast": "Aras Bulut İynemli Erkan Kolçak Köstendil Necip Memili Kadir Çermik Perihan Savaş Mustafa Kirantepe Rıza Kocaoğlu Burak Dakak",
+  "first_air_date": "2017-10-23"
 }

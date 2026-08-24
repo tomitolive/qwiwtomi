@@ -4,14 +4,12 @@
   "title_ar": "خارج الحرم الجامعي",
   "title_en": "Off Campus",
   "slug": "273240-off-campus",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "تدرّس \"هانا\" قائد فريق الهوكي \"غاريت\" للفوز بمعجب. يتحول الاتفاق إلى رابط حقيقي، بينما يواجهان ماضيهم ويوفّقان بين الحياة والحب.",
   "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-  "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+  "backdrop_path": "/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
   "release_date": "2026-05-13",
-  "vote_average": 9.1,
-  "vote_count": 272,
+  "vote_average": 8.9,
+  "vote_count": 805,
   "genres": [
     {
       "id": 18,
@@ -19,33 +17,42 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم الجامعة، توجد عالَمَ جديدة ينتظرها هانا قائد فريق الهوكي غاريت، الذي يتحول إلى رابط حقيقي بينما يواجهان ماضيهم ويوفّقان بين الحياة والحب. سوف نرى كيف يتصارعون مع الأزمات والتحديات، وكم ينجحون في تحقيق أهدافهم.",
-    "desc_en": "In the world of university, a new world awaits Hannah, the leader of the hockey team Garrett, who turns into a real link while facing their past and balancing life and love. We will see how they struggle with crises and challenges, and how they succeed in achieving their goals.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في خارج الحرم الجامعي مترجم اون لاين!",
-    "seo_title_ar": "مشاهدة فيلم خارج الحرم الجامعي مترجم اون لاين - توميتو",
-    "keywords": "Off Campus, فيلم دراما مترجم, مشاهدة فيلم دراما اون لاين, خارج الحرم الجامعي مترجم كامل, توميتو خارج الحرم الجامعي, مشاهدة خارج الحرم الجامعي 2026, قصة مسلسل خارج الحرم الجامعي, أحداث خارج الحرم الجامعي بالتفصيل",
-    "opinion": "هذا الفيلم هو مثال رائع لدراما الجامعة، حيث نرى كيف يتصارعون مع الأزمات والتحديات، وكم ينجحون في تحقيق أهدافهم. سوف نرى كيف يتصارعون مع الأزمات والتحديات، وكم ينجحون في تحقيق أهدافهم.",
+    "intro": "استمتع بمشاهدة مسلسل خارج الحرم الجامعي (2026) مترجم بجودة عالية على توميتو.",
+    "desc_ar": "تدرّس \"هانا\" قائد فريق الهوكي \"غاريت\" للفوز بمعجب. يتحول الاتفاق إلى رابط حقيقي، بينما يواجهان ماضيهم ويوفّقان بين الحياة والحب.",
+    "desc_en": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+    "seo_title_ar": "مشاهدة مسلسل Off Campus مترجم - توميتو",
+    "meta_desc": "مشاهدة خارج الحرم الجامعي مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد خارج الحرم الجامعي الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
     "faq": [
       {
-        "q": "ما هو نوع الفيلم؟",
-        "a": "هو فيلم دراما"
+        "q": "كيف يمكنني مشاهدة مسلسل خارج الحرم الجامعي?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Off Campus?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
       },
       {
-        "q": "ما هو موضوع الفيلم؟",
-        "a": "يحكي قصة فريق الهوكي في الجامعة"
+        "q": "ما هو تصنيف مسلسل خارج الحرم الجامعي?",
+        "a": "يندرج العمل تحت تصنيف دراما.",
+        "q_en": "What is the genre of Off Campus?",
+        "a_en": "It falls under the genre of دراما."
       },
       {
-        "q": "ما هو نوع الميديا؟",
-        "a": "هو تلفزيون"
+        "q": "ما هي قصة مسلسل خارج الحرم الجامعي?",
+        "a": "تدرّس \"هانا\" قائد فريق الهوكي \"غاريت\" للفوز بمعجب. يتحول الاتفاق إلى رابط حقيقي، بينما يواجهان ماضيهم ويوفّقان بين الحياة والحب.",
+        "q_en": "What is the story of Off Campus?",
+        "a_en": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and l..."
       }
-    ]
+    ],
+    "keywords": "خارج الحرم الجامعي مترجم, Off Campus مترجم, مشاهدة خارج الحرم الجامعي,"
   },
   "fixed": true,
-  "first_air_date": "2026-05-13",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Ella Bright Belmont Cameli Mika Abdalla Stephen Kalyn Jalen Thomas Brooks Antonio Cipriano",
+  "first_air_date": "2026-05-13"
 }

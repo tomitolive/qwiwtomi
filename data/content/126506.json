@@ -1,57 +1,65 @@
 {
   "id": 126506,
-  "title": "Smiling Friends",
-  "title_ar": "Smiling Friends",
-  "title_en": "Smiling Friends",
-  "slug": "126506-smiling-friends",
-  "overview": "شركة \"أصدقاء مبتسمون\" هي شركة صغيرة هدفها الأساسي نشر السعادة ورسم البسمة على وجوه الناس. يروي المسلسل الحياة اليومية ومغامرات ممثليها، تشارلي الكسول والساخر، وبيم المرح والمتفائل، وهما يحاولان التخفيف عن المتصلين بخط المساعدة الخاص بالشركة. يتلقيان طلبات تبدو بسيطة، لكن المهام تتضح أنها أكثر تعقيدًا مما تبدو عليه، مما يجعل مهمة نشر السعادة في العالم صعبة.",
+  "title": "Prince of Bel Air",
+  "title_ar": "Prince of Bel Air",
+  "title_en": "Prince of Bel Air",
+  "slug": "126506-prince-of-bel-air",
+  "overview": "يحكي فيلم أمير بيل إير قصة رجل حر من لوس أنجلوس يعيش حياة غير تقليدية، يهوى التنقل بين النساء، لكن حياته تتعرض لتحدي جديد مع دخول حبيبة جديدة في حياته، مما يضطر الرجل إلى اعتبار مستقبل حياته.",
   "poster_path": "/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
-  "backdrop_path": "/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
-  "release_date": "2020-04-01",
-  "vote_average": 8.5,
-  "vote_count": 444,
+  "backdrop_path": "/ttXTtO2AeBkBVj9Ab4wCBURawA6.jpg",
+  "release_date": "1986-01-20",
+  "vote_average": 5.0,
+  "vote_count": 16,
   "genres": [
-    {
-      "id": 16,
-      "name": "رسوم متحركة"
-    },
     {
       "id": 35,
       "name": "كوميديا"
     },
     {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
+      "id": 10749,
+      "name": "رومنسية"
+    },
+    {
+      "id": 10770,
+      "name": "فيلم تلفازي"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل Smiling Friends (2020) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "مسلسل \"أصدقاء مبتسمون\" هو عمل رسوم متحركة كوميدي خيالي، يروي قصة شركة صغيرة تهدف لنشر السعادة. تدور أحداث المسلسل حول ممثلي الشركة، تشارلي وبيم، اللذان يحاولان مساعدة المتصلين بخط المساعدة، لكن المهام البسيطة تتحول إلى مغامرات معقدة، مما يجعل مهمة نشر السعادة تحديًا كبيرًا. \"Smiling Friends\"، مسلسل رسوم متحركة ممتع ومضحك.",
-    "desc_en": "Smiling Friends is an animated comedy series that follows the adventures of a small company dedicated to spreading happiness. The show centers around the company's representatives, Charlie and Pim, as they attempt to assist callers on their hotline. While the requests seem simple, the tasks become increasingly complex, making their mission to bring joy a challenging one. \"Smiling Friends\" is an entertaining and humorous animated series.",
-    "seo_title_ar": "مشاهدة مسلسل أصدقاء مبتسمون Smiling Friends مترجم - توميتو",
-    "meta_desc": "Smiling Friends: مسلسل رسوم متحركة كوميدي عن شركة صغيرة تهدف لنشر السعادة، مع ممثليها تشارلي وبيم في مغامرات مضحكة ومعقدة.",
-    "outro": "شاهد Smiling Friends الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل \"أصدقاء مبتسمون\" هو عمل ممتع ومضحك، حيث يسلط الضوء على مغامرات ممثلي الشركة في محاولتهم لنشر السعادة. إنه مسلسل رسوم متحركة ممتع ومليء بالمواقف الكوميدية.",
-    "opinion_en": "Smiling Friends is an entertaining and hilarious animated series. It showcases the adventures of the company's representatives as they strive to bring happiness, offering a fun and comedic watch.",
+    "intro": "يحكي فيلم أمير بيل إير قصة رجل حر من لوس أنجلوس يعيش حياة غير تقليدية، يهوى التنقل بين النساء.",
+    "desc_ar": "يحكي فيلم أمير بيل إير قصة رجل حر من لوس أنجلوس يعيش حياة غير تقليدية، يهوى التنقل بين النساء، لكن حياته تتعرض لتحدي جديد مع دخول حبيبة جديدة في حياته، مما يضطر الرجل إلى اعتبار مستقبل حياته.",
+    "desc_en": "A free-spirited, womanizing L.A. pool cleaner finds his lifestyle challenged by a new love interest.",
+    "seo_title_ar": "مشاهدة فيلم أمير بيل إير مترجم - Prince Bel Air - توميتو",
+    "meta_desc": "شاهد فيلم أمير بيل إير مترجم - فيلم كوميدي رومانسي من إنتاج عام 1986 - استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع",
+    "outro": "لكن حياته تتعرض لتحدي جديد مع دخول حبيبة جديدة في حياته، مما يضطر الرجل إلى اعتبار مستقبل حياته.",
+    "opinion_ar": "فيلم أمير بيل إير هو تجربة هزلية وأدبية تسلط الضوء على التحديات التي يتعرض لها الأفراد فيما يتعلق بالحب والمسؤولية.",
+    "opinion_en": "Prince of Bel Air is a hilarious and thought-provoking film that sheds light on the challenges people face in love and responsibility.",
     "faq": [
       {
-        "q": "ما هو موضوع مسلسل \"أصدقاء مبتسمون\"؟",
-        "a": "يركز المسلسل على شركة صغيرة تهدف لنشر السعادة، ويروي مغامرات ممثليها في محاولة لتحقيق هذا الهدف.",
-        "q_en": "What is the theme of Smiling Friends?",
-        "a_en": "The series revolves around a small company dedicated to spreading happiness and follows the adventures of its representatives in pursuit of this goal."
+        "q": "ما هو اسم الفيلم؟",
+        "a": "أمير بيل إير",
+        "q_en": "What is the title of the film?",
+        "a_en": "Prince of Bel Air"
+      },
+      {
+        "q": "من هو بطل الفيلم؟",
+        "a": "رجل حر من لوس أنجلوس",
+        "q_en": "Who is the main character?",
+        "a_en": "A free-spirited man from Los Angeles"
+      },
+      {
+        "q": "ما هي تاريخ إصدار الفيلم؟",
+        "a": "1986",
+        "q_en": "When was the film released?",
+        "a_en": "1986"
       }
     ],
-    "keywords": "أصدقاء مبتسمون, Smiling Friends, رسوم متحركة, كوميديا, خيال علمي, فانتازيا, مغامرات, سعادة, شركة, تشارلي, بيم"
+    "keywords": "فيلم كوميدي, فيلم رومانسي, فيلم تلفزي, أمير بيل إير, Prince Bel Air, لوس أنجلوس, حب, مسؤولية, حياة غير تقليدية, مشاهدة أمير بيل إير, Prince Bel Air مترجم, تحميل أمير بيل إير, أمير بيل إير اون لاين, أمير بيل إير جودة عالية, Prince of Bel Air مترجم"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
+  "duration": "95 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Michael Cusack Zach Hadel Marc Moceri",
-  "first_air_date": "2020-04-01",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "cast": "Mark Harmon Kirstie Alley Robert Vaughn Don Swayze Patrick Labyorteaux Bart Braverman Deborah Harmon Katherine Moffat"
 }

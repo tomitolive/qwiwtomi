@@ -1,57 +1,49 @@
 {
   "id": 62285,
-  "title": "مارفيل: المدافعون",
-  "title_ar": "مارفيل: المدافعون",
-  "title_en": "Marvels The Defenders",
-  "slug": "62285-marvels-the-defenders",
-  "overview": "يتّحد \"ديرديفيل\" و\"جيسيكا جونز\" و\"لوك كيج\" و\"القبضة الحديدية\" لمحاربة عصبة من الأعداء المشتركين بينما تهدّد مؤامرة شريرة مدينة نيويورك.",
+  "title": "Trait",
+  "title_ar": "Trait",
+  "title_en": "Trait",
+  "slug": "62285-trait",
+  "overview": "يحكي فيلم سمة قصة صبي يبلغ من العمر عشر سنوات، يُتخذ كابنًا من قبل رجل يُطارد من قبل عصابة. بعد أن ينجو من هجوم مسلول، يتحول مصير الرجل الجديد إلى أب إلى مصير قتلية، وذلك بفضل ظروف غريبة. يتحول الرجل إلى صورة ابنه الحقيقي، مما يغير مسار حياته تمامًا.",
   "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
-  "backdrop_path": "/ycAWXhAhyaE7g3JBAaierK4LgNg.jpg",
-  "release_date": "2017-08-18",
-  "vote_average": 7.0,
-  "vote_count": 1675,
+  "backdrop_path": null,
+  "release_date": "2009-12-12",
+  "vote_average": 5.2,
+  "vote_count": 2,
   "genres": [
-    {
-      "id": 10765,
-      "name": "خيال علمي وفانتازيا"
-    },
-    {
-      "id": 10759,
-      "name": "حركة ومغامرة"
-    },
     {
       "id": 80,
       "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
     }
   ],
   "ai_content": {
-    "intro": "استمتع بمشاهدة مسلسل مارفيل: المدافعون (2017) مترجم بجودة عالية على توميتو.",
-    "desc_ar": "تتحد شخصيات مارفيل: المدافعون، ديرديفيل، جيسيكا جونز، لوك كيج، والقبضة الحديدية، في مسلسل \"مارفيل: المدافعون\" لمواجهة أعداء مشتركين ومؤامرة شريرة تهدد مدينة نيويورك. حيث يجمع هذا المسلسل بين الأبطال الخارقين في مغامرة مشوقة مليئة بالحركة والتشويق.",
-    "desc_en": "Marvels The Defenders unites Daredevil, Jessica Jones, Luke Cage, and Iron Fist as they battle common enemies and a sinister conspiracy threatening New York City. This action-packed series brings Marvel's heroes together for an exciting adventure.",
-    "seo_title_ar": "مشاهدة مسلسل مارفيل: المدافعون مترجم - توميتو",
-    "meta_desc": "شاهد مسلسل مارفيل: المدافعون، حيث يجمع الأبطال ديرديفيل، جيسيكا جونز، لوك كيج، والقبضة الحديدية لقهر الأعداء المشتركين ومؤامرة شريرة تهدد نيويورك.",
-    "outro": "شاهد مارفيل: المدافعون الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
-    "opinion_ar": "مسلسل مارفيل: المدافعون يقدم تجربة مشاهدة ممتعة ومحفزة، حيث يجمع بين شخصيات مارفيل المحبوبة في قصة مشوقة ومليئة بالحركة. إنه مزيج رائع من الخيال العلمي والجريمة.",
-    "opinion_en": "Marvels The Defenders offers an exciting and engaging watch, bringing together beloved Marvel characters in a thrilling and action-packed story. It's a fantastic blend of science fiction and crime.",
+    "intro": "يحكي فيلم سمة قصة رجل ينجو من هجوم ويتحول إلى صورة ابنه الحقيقي، مما يغير مسار حياته تمامًا.",
+    "desc_ar": "يحكي فيلم سمة قصة صبي يبلغ من العمر عشر سنوات، يُتخذ كابنًا من قبل رجل يُطارد من قبل عصابة. بعد أن ينجو من هجوم مسلول، يتحول مصير الرجل الجديد إلى أب إلى مصير قتلية، وذلك بفضل ظروف غريبة. يتحول الرجل إلى صورة ابنه الحقيقي، مما يغير مسار حياته تمامًا.",
+    "desc_en": "A ten-year-old orphan gets adopted by a man pursued by the Mob. After surviving a hit man's attack, by a strange twist of circumstances the new foster father now has the would-be-killer's appearance, that of his son's biological dad.",
+    "seo_title_ar": "مشاهدة فيلم سمة مترجم - توميتو",
+    "meta_desc": "شاهد فيلم سمة مترجم 2009 بجودة عالية وترجمة احترافية، يروي قصة رجل ينجو من هجوم ويتحول إلى صورة ابنه الحقيقي، استمتع بمشاهدة هذا العمل بجودة عالية وترجمة ا",
+    "outro": "استمتع بمشاهدة فيلم سمة مترجم 2009 بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "opinion_ar": "فيلم سمة يُعد تجربة مشاهدة غريبة ومفاجئة، حيث يتحول الرجل إلى صورة ابنه الحقيقي، مما يغير مسار حياته تمامًا.",
+    "opinion_en": "The film Trait is an unusual and surprising viewing experience, where the man turns into the appearance of his son's biological dad, completely changing his life's course.",
     "faq": [
       {
-        "q": "هل مسلسل مارفيل: المدافعون مناسب لجميع الأعمار؟",
-        "a": "قد لا يكون مناسبًا للأطفال الصغار بسبب بعض مشاهد العنف والمحتوى الذي قد يكون مزعجًا.",
-        "q_en": "Is Marvels The Defenders suitable for all ages?",
-        "a_en": "It may not be suitable for very young children due to some violent scenes and content that could be disturbing."
+        "q": "ما هو موضوع فيلم سمة؟",
+        "a": "يحكي الفيلم قصة رجل ينجو من هجوم ويتحول إلى صورة ابنه الحقيقي.",
+        "q_en": "What is the subject of the film Trait?",
+        "a_en": "The film tells the story of a man who survives an attack and turns into the appearance of his son's biological dad."
       }
     ],
-    "keywords": "مارفيل: المدافعون, Marvels The Defenders, ديرديفيل, جيسيكا جونز, لوك كيج, القبضة الحديدية, خيال علمي, فانتازيا, حركة, مغامرة, جريمة"
+    "keywords": "فيلم سمة, فيلم Trait, جريمة, دراما, فيلم 2009, تقرير سمة, ملم سمة, رقم سمة, استعلام سمة, استعلام سمة برقم الهوية, سمة نفاذ, منصة سمة, سمة اعمال, سمة دخول, شركة سمة, اداة تستخدم لقياس سمة معينة بشكل كمي, أي من الخيارات التالية هو سمة رئيسية لنظام الذكاء الاصطناعي؟, أي من الخيارات التالية هو سمة مميزة للذكاء الاصطناعي التوليدي؟, رقم سمة مجاني, سمة تسجيل دخول"
   },
   "fixed": true,
-  "section": "مسلسلات أجنبية",
+  "section": "أفلام أجنبية",
   "quality": "1080p BluRay",
-  "duration": "45 دقيقة",
-  "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "Charlie Cox Krysten Ritter Mike Colter Finn Jones Élodie Yung",
-  "first_air_date": "2017-08-18",
-  "type": "tv",
-  "media_type": "tv",
-  "folder": "tv"
+  "duration": "113 دقيقة",
+  "language": "الروسية",
+  "country": "روسيا",
+  "cast": "Roman Ageev Oleg Chernov Fyodor Lavrov Tatyana Kolganova Irina Patrakova Laura Pitskhelauri Nikita Skvirskiy Artur Vakha"
 }
