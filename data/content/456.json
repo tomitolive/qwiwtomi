@@ -4,19 +4,13 @@
   "title_ar": "آل سيمبسون",
   "title_en": "The Simpsons",
   "slug": "456-the-simpsons",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "مغامرات ساخرة لعائلة متوسطة الدخل في مدينة سبرينقفيلدز الأمريكية  (للكبار فقط).",
   "poster_path": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
   "backdrop_path": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
   "release_date": "1989-12-17",
-  "vote_average": 8,
-  "vote_count": 10782,
+  "vote_average": 8.0,
+  "vote_count": 10952,
   "genres": [
-    {
-      "id": 10751,
-      "name": "عائلي"
-    },
     {
       "id": 16,
       "name": "رسوم متحركة"
@@ -27,33 +21,36 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في مدينة سبرينقفيلدز الأمريكية، تتبلور مغامرات ساخرة لعائلة آل سيمبسون، التي تتميز بكونها عائلة متوسطة الدخل، مع أبنائها المضطربين الذين يلعبون دوراً رئيسياً في هذه المغامرات. من هنا، نرى كيف يتعاملون مع مشكلاتهم اليومية، من خلال النظر إلى الأزواج والشباب والمرأة، الذين يلعبون دوراً رئيسياً في هذه المغامرات. في النهاية، نرى كيف يتعاملون مع مشكلاتهم اليومية، من خلال النظر إلى الأزواج والشباب والمرأة، الذين يلعبون دوراً رئيسياً في هذه المغامرات.",
-    "desc_en": "In the American city of Springfield, the adventures of the Simpson family, a middle-class family, unfold. With their eccentric children playing a major role in these adventures, we see how they deal with their daily problems, through the lens of husbands, youth, and women, who play a major role in these adventures. In the end, we see how they deal with their daily problems, through the lens of husbands, youth, and women, who play a major role in these adventures.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في آل سيمبسون!",
-    "seo_title_ar": "مشاهدة فيلم آل سيمبسون مترجم اون لاين - توميتو",
-    "keywords": "The Simpsons, فيلم كوميدي مترجم, مشاهدة فيلم كوميدي, آل سيمبسون مترجم كامل, قصة مسلسل آل سيمبسون, توميتو آل سيمبسون, أحداث آل سيمبسون بالتفصيل, مشاهدة آل سيمبسون 1989",
-    "opinion": "هو فيلم كوميدي رائع، يحتوي على أحداث ساخرة رائعة، ويحمل رسالة مهمة عن أهمية العائلة والصداقة.",
+    "intro": "يحكي مسلسل \"آل سيمبسون\" قصة عائلة أمريكية متوسطة الدخل في مدينة سبرينقفيلدز، حيث يقوم الأب هومر بتسليط الضوء على مغامرات العائلة في مختلف الأنشطة اليومية.",
+    "desc_ar": "يحكي مسلسل \"آل سيمبسون\" قصة عائلة أمريكية متوسطة الدخل في مدينة سبرينقفيلدز، حيث يقوم الأب هومر بتسليط الضوء على مغامرات العائلة في مختلف الأنشطة اليومية، مع تواجد طاقم ضخم من الشخصيات في الخلفية. يتعامل المسلسل بشكل ساخر مع مختلف الجوانب السياسية والصحفية والثقافية الأمريكية، مما يجعل منه رمزًا للثقافة الشعبية. يظهر في المسلسل عدد كبير من النجوم الشهيرة في أدوار ضيفة، مما يزيد من جاذبيته. يتناول المسلسل موضوعات مختلفة من الحياة الأمريكية، مع تقديم نظرة وثيقة للعوامل التي تؤثر على المجتمع.",
+    "desc_en": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "seo_title_ar": "مشاهدة مسلسل آل سيمبسون مترجم - توميتو",
+    "meta_desc": "مشاهدة مسلسل آل سيمبسون مترجم - توميتو, استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة. استمتع بمشاهدة هذا العمل بجودة عالي",
+    "outro": "يتناول مسلسل \"آل سيمبسون\" موضوعات مختلفة من الحياة الأمريكية، مع تقديم نظرة وثيقة للعوامل التي تؤثر على المجتمع، مما يجعل منه عملًا فنيًا ممتازًا.",
+    "opinion_ar": "يعد مسلسل \"آل سيمبسون\" من أكثر المسلسلات الشهيرة في العالم، حيث يقدم تجربة فنية ممتازة مع طاقم ممثلين متميزين.",
+    "opinion_en": "The Simpsons is one of the most iconic and beloved TV shows in the world, offering a fantastic viewing experience with a talented cast.",
     "faq": [
       {
-        "q": "ما هو نوع فيلم آل سيمبسون؟",
-        "a": "هو فيلم رسوم متحركة كوميدي"
+        "q": "ما هو موضوع المسلسل؟",
+        "a": "يتناول مسلسل \"آل سيمبسون\" موضوعات مختلفة من الحياة الأمريكية، مع تقديم نظرة وثيقة للعوامل التي تؤثر على المجتمع.",
+        "q_en": "What is the subject of the series?",
+        "a_en": "The series focuses on various aspects of American life, offering a detailed look at the factors that affect society."
       },
       {
-        "q": "ما هو موضوع فيلم آل سيمبسون؟",
-        "a": "يحكي عن مغامرات عائلة متوسطة الدخل في مدينة سبرينقفيلدز الأمريكية"
-      },
-      {
-        "q": "ما هو نوع فيلم آل سيمبسون؟",
-        "a": "هو فيلم عائلي رائع"
+        "q": "لماذا يعتبر المسلسل من رموز الثقافة الشعبية؟",
+        "a": "يتناول المسلسل بشكل ساخر مع مختلف الجوانب السياسية والصحفية والثقافية الأمريكية، مما يجعل منه رمزًا للثقافة الشعبية.",
+        "q_en": "Why is the series considered a pop culture icon?",
+        "a_en": "The series tackles satire on politics, media, and American life, making it a pop culture icon."
       }
-    ]
+    ],
+    "keywords": "آل سيمبسون, مسلسل, رسوم متحركة, كوميديا, سبرينقفيلدز, الولايات المتحدة, الثقافة الشعبية, السخرية, السياسة, الصحافة, الحياة الأمريكية, مشاهدة آل سيمبسون, The Simpsons مترجم, تحميل آل سيمبسون, آل سيمبسون اون لاين"
   },
   "fixed": true,
-  "first_air_date": "1989-12-17",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Dan Castellaneta Julie Kavner Nancy Cartwright Yeardley Smith Hank Azaria Harry Shearer",
+  "first_air_date": "1989-12-17"
 }

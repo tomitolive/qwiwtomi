@@ -4,14 +4,12 @@
   "title_ar": "الأمير الشاب",
   "title_en": "Young Royals",
   "slug": "125910-young-royals",
-  "folder": "tv",
-  "media_type": "tv",
   "overview": "يتأقلم الأمير \"فيلهلم\" على العيش في المدرسة الداخلية الجديدة المرموقة \"هيليرسكا\"، ولكن يبدو أنّ اتّباعه لهواه أكثر صعوبة من المتوقّع.",
   "poster_path": "/6sr6hOeipKbiZEIsOKh9nTxeJhR.jpg",
-  "backdrop_path": "/1A2Wh7Vs1YCmDNeRhBP2eP9ZAJj.jpg",
+  "backdrop_path": "/5nubzpKcNjV7zDwHkAV0J7yAJlH.jpg",
   "release_date": "2021-07-01",
   "vote_average": 8.5,
-  "vote_count": 1200,
+  "vote_count": 1223,
   "genres": [
     {
       "id": 18,
@@ -19,19 +17,42 @@
     }
   ],
   "ai_content": {
+    "intro": "استمتع بمشاهدة مسلسل الأمير الشاب (2021) مترجم بجودة عالية على توميتو.",
     "desc_ar": "يتأقلم الأمير \"فيلهلم\" على العيش في المدرسة الداخلية الجديدة المرموقة \"هيليرسكا\"، ولكن يبدو أنّ اتّباعه لهواه أكثر صعوبة من المتوقّع.",
-    "desc_en": "يتأقلم الأمير \"فيلهلم\" على العيش في المدرسة الداخلية الجديدة المرموقة \"هيليرسكا\"، ولكن يبدو أنّ اتّباعه لهواه أكثر صعوبة من المتوقّع.",
-    "meta_desc": "مشاهدة الأمير الشاب مترجم بجودة عالية على توميتو.",
-    "keywords": "Young Royals, قصة فيلم الأمير الشاب, مشاهدة الأمير الشاب 2026, الأمير الشاب مترجم, أحداث الأمير الشاب بالتفصيل, توميتو الأمير الشاب",
-    "seo_title_ar": "مشاهدة الأمير الشاب مترجم اون لاين - توميتو",
-    "opinion": "عمل سينمائي مذهل يستحق المتابعة."
+    "desc_en": "Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated.",
+    "seo_title_ar": "مشاهدة مسلسل Young Royals مترجم - توميتو",
+    "meta_desc": "مشاهدة الأمير الشاب مترجم بجودة عالية على توميتو واكتشف أحداث الإثارة. استمتع بمشاهدة هذا العمل بجودة عالية وترجمة احترافية بدون إعلانات مزعجة.",
+    "outro": "شاهد الأمير الشاب الآن واستمتع بتجربة مشاهدة فريدة على توميتو.",
+    "opinion_ar": "عمل مسلسل مذهل يستحق المتابعة والاستكشاف.",
+    "opinion_en": "A stunning مسلسل worth watching and exploring.",
+    "faq": [
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل الأمير الشاب?",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Young Royals?",
+        "a_en": "You can watch it fully translated in high quality directly on the Tomito website."
+      },
+      {
+        "q": "ما هو تصنيف مسلسل الأمير الشاب?",
+        "a": "يندرج العمل تحت تصنيف دراما.",
+        "q_en": "What is the genre of Young Royals?",
+        "a_en": "It falls under the genre of دراما."
+      },
+      {
+        "q": "ما هي قصة مسلسل الأمير الشاب?",
+        "a": "يتأقلم الأمير \"فيلهلم\" على العيش في المدرسة الداخلية الجديدة المرموقة \"هيليرسكا\"، ولكن يبدو أنّ اتّباعه لهواه أكثر صعوبة من المتوقّع.",
+        "q_en": "What is the story of Young Royals?",
+        "a_en": "Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated."
+      }
+    ],
+    "keywords": "الأمير الشاب مترجم, Young Royals مترجم, مشاهدة الأمير الشاب,"
   },
   "fixed": true,
-  "first_air_date": "2021-07-01",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
-  "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "country": "Sweden",
+  "cast": "Edvin Ryding Omar Rudberg Malte Gårdinger Frida Argento Nikita Uggla",
+  "first_air_date": "2021-07-01"
 }

@@ -6,10 +6,10 @@
   "slug": "7451-xxx",
   "overview": "بعد أن فشلت عملية أخرى للقضاء على تلك المجموعة المسماة أناركي 99 والتي تضم مجموعة من الجنود الروس السابقين، يقوم عميل الأمن الوطني أوجستس جيبونز (صامويل ل. جاكسون) بالبحث عن عميلٍ غير تقليدي لينفذ أهدافه. يجد جيبونز ضالته في زاندركيج (فان ديزل) وهو رياضي سابق معروف بسلوكه المتهور واستهتاره بالقانون، ويكلفه جيبونز بمهمة شديدة الخطورة تتعلق بتلك المنظمة التي تهدف لتدمير العالم. تتصاعد الأحداث وتتعقد الأمور وسط أجواءٍ من الإثارة والخطورة المميتة.",
   "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-  "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+  "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
   "release_date": "2002-08-09",
-  "vote_average": 6,
-  "vote_count": 4900,
+  "vote_average": 6.0,
+  "vote_count": 5000,
   "genres": [
     {
       "id": 28,
@@ -33,26 +33,23 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "بعد أن فشلت عملية أخرى للقضاء على تلك المجموعة المسماة أناركي 99 والتي تضم مجموعة من الجنود الروس السابقين، يقوم عميل الأمن الوطني أوجستس جيبونز (صامويل ل. جاكسون) بالبحث عن عميلٍ غير تقليدي لينفذ أهدافه. يجد جيبونز ضالته في زاندركيج (فان ديزل) وهو رياضي سابق معروف بسلوكه المتهور واستهتاره بالقانون، ويكلفه جيبونز بمهمة شديدة الخطورة تتعلق بتلك المنظمة التي تهدف لتدمير العالم. تتصاعد الأحداث وتتعقد الأمور وسط أجواءٍ من الإثارة والخطورة المميتة.",
-    "desc_en": "After a previous operation to take down the notorious group known as Anarchy 99, which includes a group of former Russian soldiers, national security agent Augustus Gibbons (Samuel L. Jackson) searches for an unconventional agent to carry out his mission. Gibbons finds his lead in Zander (Vin Diesel), a former athlete known for his reckless and lawless behavior, and tasks him with a high-stakes mission related to that organization that aims to destroy the world. The events unfold and complicate matters in an atmosphere of excitement and mortal danger.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في ثلاثية ايكس",
-    "seo_title_ar": "مشاهدة فيلم ثلاثية ايكس مترجم اون لاين - توميتو",
-    "keywords": "xXx, فيلم ثلاثية ايكس مترجم, مشاهدة فيلم ثلاثية ايكس, توميتو ثلاثية ايكس, ثلاثية ايكس مترجم, مشاهدة ثلاثية ايكس 2002, أحداث ثلاثية ايكس بالتفصيل, قصة فيلم ثلاثية ايكس",
-    "opinion": "هذه ثلاثية ايكس هي واحدة من أكثر الأفلام الإثارة التي شاهدناها، مع أجواءٍ من الإثارة والبطالة والرعب. الفيلم يحتوي على العديد من الأحداث الدرامية والقوية التي ستجعلك تقلق من سلامتك.",
+    "intro": "يحكي فيلم ثلاثية ايكس قصة رياضي سابق يُختار لتنفيذ مهمة خطيرة من قبل عميل الأمن الوطني، تتمثل مهمته في جمع المعلومات عن منظمة يرأسها الأنانية.",
+    "desc_ar": "يحكي فيلم ثلاثية ايكس قصة رياضي سابق يدعى زاندركيج، يُختار لتنفيذ مهمة خطيرة من قبل عميل الأمن الوطني أوجستس جيبونز. تتمثل مهمته في جمع المعلومات عن منظمة يرأسها الأنانية يورجي، التي تهدف إلى تدمير العالم. يتسبب هذا الرجل المتهور في تعقد الأمور وزيادة الخطورة في عمله. ينجز زاندركيج مهمته ببراعة، مع تطور الأحداث وتعقد القصة.",
+    "desc_en": "xXx is an action-packed film that tells the story of Xander Cage, a former athlete who is recruited by National Security Agent Augustus Gibbons to carry out a high-risk mission. His objective is to gather information about an organization led by the nihilistic Yorgi, which aims to destroy the world. This reckless man causes complications and increases the danger in his work. Xander Cage successfully completes his mission, with the events unfolding and the story becoming more complex.",
+    "seo_title_ar": "مشاهدة فيلم ثلاثية ايكس مترجم - ثلاثية ايكس - توميتو",
+    "meta_desc": "استمتع بمشاهدة ثلاثية ايكس فيلم إثارة ومغامرة عن رجل يعمل لصالح الأمن الوطني، يتجول في العالم بحثا عن منظمة خطيرة تهدد بدمار العالم، ثلاثية ايكس مترجم، ثل",
+    "outro": "ينجح زاندركيج في تنفيذ مهمته ببراعة، مع تطور الأحداث وتعقد القصة في فيلم ثلاثية ايكس المثيرة والمغامرة.",
+    "opinion_ar": "يحظى فيلم ثلاثية ايكس بجماهيره الكبيرة بسبب بطولته الممتدة والمغامرات المثيرة التي تتواجد في الفيلم، مما يجعل المشاهدة مثيرة ومتعة.",
+    "opinion_en": "xXx has gained a large audience due to its extended runtime and thrilling adventures that exist within the film, making the viewing experience exciting and enjoyable.",
     "faq": [
       {
-        "q": "ما هو موضوع ثلاثية ايكس؟",
-        "a": "الفيلم يrevolve حول группة من الجنود الروس السابقين الذين يهدفون لتدمير العالم."
-      },
-      {
-        "q": "ما هو نوع ثلاثية ايكس؟",
-        "a": "الفيلم هو فيلم حركة، مغامرة، إثارة، جريمة، دراما."
-      },
-      {
-        "q": "ما هو أفضل جزء في ثلاثية ايكس؟",
-        "a": "الأحداث الدرامية والقوية في النهاية هي أفضل جزء في الفيلم"
+        "q": "من بطولة فيلم ثلاثية ايكس؟",
+        "a": "يحمل الفيلم على بطولة الممثلين صامويل ل. جاكسون وفان ديزل.",
+        "q_en": "Who are the main actors in the xXx movie?",
+        "a_en": "The film features actors Samuel L. Jackson and Vin Diesel."
       }
-    ]
+    ],
+    "keywords": "ثلاثية ايكس, فيلم إثارة, مغامرة, أوجستس جيبونز, زاندركيج, يورجي, تدمير العالم, أمن الوطني, رياضي سابق, فيلم 2002, مشاهدة ثلاثية ايكس, xXx مترجم, تحميل ثلاثية ايكس, ثلاثية ايكس اون لاين, xXx"
   },
   "fixed": true,
   "section": "أفلام أجنبية",
@@ -60,5 +57,5 @@
   "duration": "124 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "Vin Diesel Asia Argento Marton Csokas Samuel L. Jackson Michael Roof"
+  "cast": "Vin Diesel Asia Argento Marton Csokas Samuel L. Jackson Michael Roof Richy Müller Werner Daehn Petr Jákl"
 }

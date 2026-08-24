@@ -4,14 +4,12 @@
   "title_ar": "Better Call Saul",
   "title_en": "Better Call Saul",
   "slug": "60059-better-call-saul",
-  "folder": "tv",
-  "media_type": "tv",
-  "overview": "يحكي المسلسل المرشح لجائزة إيمي المشتق من Breaking Bad عن المحامي \"جيمي ماكغيل\" عندما يتحول إلى المحامي عديم الأخلاق \"سول غودمان\".",
+  "overview": "جيمي ماكغيل محامٍ طموح يحاول شق طريقه في عالم المحاماة وإثبات نفسه بعيدًا عن ظل شقيقه الأكبر تشاك، لكنه يجد نفسه ممزقًا بين رغبته في أن يصبح محاميًا محترمًا وميله إلى الحيل والخداع. ومع تعقد حياته المهنية والشخصية، يبدأ جيمي في الاقتراب تدريجيًا من عالم الجريمة، ويتعرف على شخصيات خطيرة من بينها مايك إيرمنتراوت، بينما تتغير حياته وسمعته حتى يتحول شيئًا فشيئًا إلى المحامي المعروف باسم سول غودمان.",
   "poster_path": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-  "backdrop_path": "/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+  "backdrop_path": "/rfxryDIv8huejujg4JueDJx8zCz.jpg",
   "release_date": "2015-02-08",
   "vote_average": 8.7,
-  "vote_count": 6492,
+  "vote_count": 6791,
   "genres": [
     {
       "id": 80,
@@ -23,33 +21,48 @@
     }
   ],
   "ai_content": {
-    "desc_ar": "في عالم المحاماة، يتعاون المحامي جيمي ماكغيل مع سول غودمان، المحامي عديم الأخلاق، لإنشاء مكتب قانوني جديد. لكن، مع الوقت، يكتشف جيمي أن سول يكن معادلاً لجميع القواعد، ويحاول أن يخدعهم جميعاً. ما هو مستقبل جيمي؟ هل سيفوز سول؟ اكتشف أحداث الإثارة في Better Call Saul.",
-    "desc_en": "In the world of law, Jimmy McGill teams up with the unscrupulous lawyer Saul Goodman to create a new law firm. However, as time goes on, Jimmy discovers that Saul is a master manipulator, trying to deceive everyone. What is Jimmy's future? Will Saul win? Discover the thrilling events in Better Call Saul.",
-    "meta_desc": "واش غيفلت؟ اكتشف أحداث الإثارة في Better Call Saul - جريمة, دراما",
-    "seo_title_ar": "مشاهدة فيلم Better Call Saul مترجم اون لاين - توميتو",
-    "keywords": "فيلم Better Call Saul مترجم, مشاهدة فيلم Better Call Saul, مشاهدة Better Call Saul 2015, توميتو Better Call Saul, أحداث Better Call Saul بالتفصيل, قصة مسلسل Better Call Saul, Better Call Saul مترجم كامل",
-    "opinion": "هو فيلم رائع، مليء بالتension والدراما. سوف تكتشف أنفسكم متعثرين في عالم المحاماة، حيث كل شخص يلعب دوراً في لعبة القوة والسيطرة.",
+    "intro": "يحكي مسلسل من الأفضل أن تتصل بسول قصة محامٍ طموح يبحث عن مستقبله في عالم المحاماة.",
+    "desc_ar": "يحكي مسلسل من الأفضل أن تتصل بسول قصة جيمي ماكغيل، محامٍ طموح يبحث عن مستقبله في عالم المحاماة، ويحاول أن يثبت نفسه بعيدًا عن ظل شقيقه الأكبر تشاك. ومع تعقد حياته المهنية والشخصية، يجد جيمي نفسه ممزقًا بين رغبته في أن يصبح محاميًا محترمًا وميله إلى الحيل والخداع، مما يجعله يتقدم تدريجيًا نحو عالم الجريمة، ويلتقي بشخصيات خطيرة، وتتغير حياته وسمعته حتى يتحول إلى المحامي المعروف باسم سول غودمان. ويساعد جيمي في تحقيق هذه التحولات هو Mike Ehrmantraut، وهو شخص يمتلك القدرة على الحلول، والذي يعمل مع جيمي في العديد من الأحيان، ولكن أيضًا يعمل ضده في بعض الأحيان.",
+    "desc_en": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is fixer Mike Ehrmantraut. The series tracks Jimmys transformation into Saul Goodman, the man who puts criminal in criminal lawyer.",
+    "seo_title_ar": "مشاهدة مسلسل من الأفضل أن تتصل بسول مترجم - توميتو",
+    "meta_desc": "من الأفضل أن تتصل بسول, مسلسل Better Call Saul, جريمة, دراما, يستمر مسلسل من الأفضل أن تتصل بسول, حيث يصعد جيمي ماكغيل إلى عالم الجريمة, ويحول إلى سول غودم",
+    "outro": "يساعد جيمي في تحقيق هذه التحولات Mike Ehrmantraut، الشخص الذي يمتلك القدرة على الحلول، والذي يعمل مع جيمي في العديد من الأحيان، ولكن أيضًا يعمل ضده في بعض الأحيان.",
+    "opinion_ar": "من الأفضل أن تتصل بسول هو واحد من أفضل المسلسلات التي أشاهدتها، حيث يأخذك إلى عالم محامي يبحث عن مستقبله، ويحاول أن يثبت نفسه، ويقابل شخصيات جديدة، ويحول تدريجيًا إلى المحامي المعروف باسم سول غودمان.",
+    "opinion_en": "Better Call Saul is one of the best shows I've seen, where it takes you to a world of a lawyer searching for his destiny, trying to prove himself, meeting new characters, and gradually transforming into the well-known lawyer, Saul Goodman.",
     "faq": [
       {
-        "q": "ما هو Better Call Saul؟",
-        "a": "هو مسلسل تلفزيوني رائع، مأخوذ من Breaking Bad، يحكي قصة المحامين جيمي ماكغيل وسول غودمان."
+        "q": "متى يبدأ مسلسل من الأفضل أن تتصل بسول؟",
+        "a": "يبدأ مسلسل من الأفضل أن تتصل بسول في عام 2015.",
+        "q_en": "When does Better Call Saul start?",
+        "a_en": "Better Call Saul starts in 2015."
       },
       {
-        "q": "ما هو نوع Better Call Saul؟",
-        "a": "هو مسلسل تلفزيوني، نوع جريمة ودراما."
+        "q": "من هو Mike Ehrmantraut في مسلسل من الأفضل أن تتصل بسول؟",
+        "a": "Mike Ehrmantraut هو شخص يمتلك القدرة على الحلول، ويقوم بتحقيق الحلول في المسلسل.",
+        "q_en": "Who is Mike Ehrmantraut in Better Call Saul?",
+        "a_en": "Mike Ehrmantraut is a person with the ability to solve problems, and he solves problems in the series."
       },
       {
-        "q": "ما هو مستقبل Better Call Saul؟",
-        "a": "هو يحتوي على أحداث إثارة، سوف تكتشف أنفسكم متعثرين في عالم المحاماة."
+        "q": "لماذا يتحول جيمي إلى سول في مسلسل من الأفضل أن تتصل بسول؟",
+        "a": "يحول جيمي إلى سول نتيجة لتحوله تدريجيًا إلى عالم الجريمة، وختار أن يصبح محاميًا يتعامل مع الجريمة.",
+        "q_en": "Why does Jimmy transform into Saul in Better Call Saul?",
+        "a_en": "Jimmy transforms into Saul due to his gradual transition into the world of crime, and he chooses to become a lawyer who deals with crime."
+      },
+      {
+        "q": "ما هي أهمية Mike Ehrmantraut في مسلسل من الأفضل أن تتصل بسول؟",
+        "a": "يتمتع Mike Ehrmantraut بمقدور الحلول، والذي يلعب دورًا هامًا في المسلسل، حيث يساعد جيمي في تحقيق التحولات التي يمر بها.",
+        "q_en": "What is the importance of Mike Ehrmantraut in Better Call Saul?",
+        "a_en": "Mike Ehrmantraut has the ability to solve problems, which plays a significant role in the series, as he helps Jimmy in achieving the transformations he goes through."
       }
-    ]
+    ],
+    "keywords": "من الأفضل أن تتصل بسول, Better Call Saul, جريمة, دراما, Mike Ehrmantraut, سول غودمان, جيمي ماكغيل, مسلسل, 2015, مشاهدة من الأفضل أن تتصل بسول, Better Call Saul مترجم, تحميل من الأفضل أن تتصل بسول, من الأفضل أن تتصل بسول اون لاين, من الأفضل أن تتصل بسول جودة عالية, Better Call Saul online"
   },
   "fixed": true,
-  "first_air_date": "2015-02-08",
-  "section": "أفلام أجنبية",
+  "section": "مسلسلات أجنبية",
   "quality": "1080p BluRay",
-  "duration": "99 دقيقة",
+  "duration": "45 دقيقة",
   "language": "الإنجليزية",
   "country": "الولايات المتحدة الأمريكية",
-  "cast": "-"
+  "cast": "Bob Odenkirk Jonathan Banks Rhea Seehorn Tony Dalton Giancarlo Esposito",
+  "first_air_date": "2015-02-08"
 }
