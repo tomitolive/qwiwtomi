@@ -202,7 +202,7 @@ def build():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="yandex-verification" content="fbd3e913244fb343" />
+  <meta name="yandex-verification" content="86784f89564033bf" />
   <title>TOMITO — مشاهدة وتحميل أفلام ومسلسلات وأنمي 2026</title>
   <link rel="stylesheet" href="./style.css">
   <link rel="icon" href="./favicon.ico">

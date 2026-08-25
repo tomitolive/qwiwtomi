@@ -234,7 +234,7 @@ def patch_file(filepath):
         content = content.replace('src="data/search_index.js"', 'src="../data/search_index.js"')
     
     if '<meta name="yandex-verification"' not in content:
-        content = content.replace('<head>', '<head>\n  <meta name="yandex-verification" content="fbd3e913244fb343" />')
+        content = content.replace('<head>', '<head>\n  <meta name="yandex-verification" content="86784f89564033bf" />')
 
     if 'LOCAL_PAGES =' not in content:
         content = content.replace('search_index.js"></script>', f'search_index.js"></script>\n<script>const LOCAL_PAGES = {LOCAL_PAGES_JSON};</script>')

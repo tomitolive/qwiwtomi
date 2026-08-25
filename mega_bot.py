@@ -139,7 +139,7 @@ MASTER_TEMPLATE = """<!DOCTYPE html>
 
     gtag('config', 'G-PRCQVS90BX');
   </script>
-  <meta name="yandex-verification" content="fbd3e913244fb343" />
+  <meta name="yandex-verification" content="86784f89564033bf" />
   <title>{{TITLE_PAGE}}</title>
   <meta name="description" content="{{META_DESC}}">
   <meta name="keywords" content="{{KEYWORDS}}">

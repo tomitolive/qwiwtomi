@@ -101,7 +101,7 @@ export default async function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta name="theme-color" content="#000" />
-        <meta name="yandex-verification" content="fbd3e913244fb343" />
+        <meta name="yandex-verification" content="86784f89564033bf" />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
           strategy="afterInteractive"
