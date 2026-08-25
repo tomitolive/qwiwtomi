@@ -146,7 +146,7 @@ export default async function MoviePage({ params }: Props) {
     "@type": "Movie",
     "name": displayTitle,
     "alternateName": titleEn && titleEn !== titleAr ? titleEn : undefined,
-    "image": `https://tomito.xyz${poster}`,
+    "image": `https://tomit.click${poster}`,
     "description": overview,
     "datePublished": data.release_date,
     "aggregateRating": {
@@ -262,7 +262,7 @@ export default async function MoviePage({ params }: Props) {
               </div>
 
               {/* Share Button */}
-              <ShareButton url={`https://tomito.xyz/movie/${id}`} title={displayTitle} />
+              <ShareButton url={`https://tomit.click/movie/${id}`} title={displayTitle} />
 
               {/* Short Link */}
               <ShortLink slug={id!} />

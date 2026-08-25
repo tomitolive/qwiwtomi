@@ -31,7 +31,7 @@ def get_missing_from_sitemaps():
                     full_url = loc.text
                     # Extract relative path (e.g., movie/123-title or movie/123-title.html)
                     # The sitemaps currently don't have .html extension in URLs
-                    rel_path = full_url.replace("https://tomito.xyz/", "").strip("/")
+                    rel_path = full_url.replace("https://tomit.click/", "").strip("/")
                     
                     if not rel_path:
                         continue

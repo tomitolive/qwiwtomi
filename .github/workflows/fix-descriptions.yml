@@ -52,7 +52,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "bot-fix@tomito.xyz"
+          git config --local user.email "bot-fix@tomit.click"
           git config --local user.name "Tomito Fix Bot"
 
           # Add updated JSON files, tracking file, and indexer progress

@@ -64,4 +64,4 @@ Allow: /
 Disallow: /api/
 Disallow: /_next/
 
-Sitemap: https://tomito.xyz/sitemap.xml
+Sitemap: https://tomit.click/sitemap.xml

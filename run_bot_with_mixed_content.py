@@ -13,7 +13,7 @@ import os
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
-SITE_URL = 'https://tomito.xyz'
+SITE_URL = 'https://tomit.click'
 
 print("Running bot with mixed content...")
 print("=" * 50)

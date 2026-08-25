@@ -5,7 +5,7 @@ import os
 import json
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://tomito.xyz"
+SITE_URL = "https://tomit.click"
 
 def load_index():
     path = os.path.join(BASE_PATH, 'data', 'content_index.json')

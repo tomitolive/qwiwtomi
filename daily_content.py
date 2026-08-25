@@ -264,7 +264,7 @@ def main():
             # Trigger Indexing immediately
             try:
                 import google_indexer
-                idx_url = f"https://tomito.xyz/{page_path}"
+                idx_url = f"https://tomit.click/{page_path}"
                 status = google_indexer.index_new_page(idx_url)
                 if status == "SUCCESS":
                     print(f"       📡 Indexing: DONE")

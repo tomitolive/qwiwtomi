@@ -13,7 +13,7 @@ const ShortLink: React.FC<ShortLinkProps> = ({ slug }) => {
   const pathname = usePathname();
 
   useEffect(() => {
-    setShortLink('https://tomito.xyz' + pathname);
+    setShortLink('https://tomit.click' + pathname);
   }, [pathname]);
 
   const copyLink = async () => {

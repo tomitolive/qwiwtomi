@@ -90,7 +90,7 @@ def extract_cards_from_html(html_file):
             continue
         
         # Extract ID and type from URL
-        # URL format: https://tomito.xyz/movie/12345-title or https://tomito.xyz/tv/12345-title
+        # URL format: https://tomit.click/movie/12345-title or https://tomit.click/tv/12345-title
         url_match = re.search(r'/(movie|tv)/(\d+)', href)
         if not url_match:
             continue

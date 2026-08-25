@@ -115,16 +115,16 @@ export async function generateMetadata(): Promise<Metadata> {
     description: "توميتو - موقعك الأول لمشاهدة وتحميل الأفلام والمسلسلات المترجمة بجودة 4K HD بدون إعلانات. مكتبة ضخمة من الأفلام والمسلسلات العربية والأجنبية.",
     keywords: "أفلام أون لاين, مسلسلات مترجمة, مشاهدة أفلام, تحميل مسلسلات, أفلام عربي, أفلام هوليود, مسلسلات تركية, أفلام بدون إعلانات, توميتو, tomito xyz, أفلام أمريكية, أفلام هندية, أفلام آسيوية, أفلام تركية, أفلام عربية, أفلام أوروبية, أفلام فيتنامية, أفلام كورية, أنمي, مسلسلات كورية, مسلسلات عربية, مسلسلات أمريكية, مسلسلات هندية, أفلام رعب, أفلام أكشن, أفلام دراما, أفلام كوميديا, أفلام رومانسية, أفلام خيال علمي, أفلام مغامرة, أفلام جريمة, أفلام إثارة, أفلام فانتازيا, 480p, 720p, 1080p, 4K, BluRay, WEB-DL, HD, FHD, UHD, HDR, Dolby Vision, HDTV, DVDRip, BRRip, x264, x265, HEVC",
     alternates: {
-      canonical: "https://tomito.xyz",
+      canonical: "https://tomit.click",
     },
     openGraph: {
       title: "توميتو - مشاهدة أفلام ومسلسلات 4K مترجمة",
       description: "توميتو - موقعك الأول لمشاهدة وتحميل الأفلام والمسلسلات المترجمة بجودة 4K HD بدون إعلانات. مكتبة ضخمة من الأفلام والمسلسلات العربية والأجنبية.",
-      url: "https://tomito.xyz",
+      url: "https://tomit.click",
       siteName: "توميتو",
       images: [
         {
-          url: "https://tomito.xyz/background.jpeg",
+          url: "https://tomit.click/background.jpeg",
           width: 1200,
           height: 630,
         },
@@ -136,7 +136,7 @@ export async function generateMetadata(): Promise<Metadata> {
       card: "summary_large_image",
       title: "توميتو - مشاهدة أفلام ومسلسلات 4K مترجمة",
       description: "توميتو - موقعك الأول لمشاهدة وتحميل الأفلام والمسلسلات المترجمة بجودة 4K HD بدون إعلانات. مكتبة ضخمة من الأفلام والمسلسلات العربية والأجنبية.",
-      images: ["https://tomito.xyz/background.jpeg"],
+      images: ["https://tomit.click/background.jpeg"],
     },
   };
 }
@@ -319,13 +319,13 @@ export default async function Home() {
             "@type": "WebSite",
             "name": "توميتو",
             "alternateName": "توميتو | أكبر مكتبة أفلام ومسلسلات وأنمي مجاناً بدون إعلانات - Tomito",
-            "url": "https://tomito.xyz",
+            "url": "https://tomit.click",
             "description": "توميتو هو موقعك الأول لمشاهدة وتحميل أحدث الأفلام والمسلسلات من جميع أنحاء العالم مترجمة بجودة عالية مجانا HD و 4K بدون إعلانات مزعجة. مكتبة ضخمة تشمل أكثر من مليون إنتاج الأفلام والمسلسلات الأمريكية والهندية والآسيوية والتركية والعربية والأوروبية والفيتنامية والكورية والأنمي. جودات متعددة للمشاهدة والتحميل: 480p, 720p, 1080p, 4K, BluRay, WEB-DL.",
             "potentialAction": {
               "@type": "SearchAction",
               "target": {
                 "@type": "EntryPoint",
-                "urlTemplate": "https://tomito.xyz/search?q={search_term_string}"
+                "urlTemplate": "https://tomit.click/search?q={search_term_string}"
               },
               "query-input": "required name=search_term_string"
             }

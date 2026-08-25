@@ -24,7 +24,7 @@ else:
     LOCAL_PAGES_JSON = "[]"
 
 def get_item_url(folder, slug, root='./'):
-    """Improved URL generator: absolute local path if exists, otherwise external tomito.xyz."""
+    """Improved URL generator: absolute local path if exists, otherwise external tomit.click."""
     if not slug:
         return "https://tv.tomito.xyz/"
     key = f"{folder}/{slug}"
@@ -54,7 +54,7 @@ def is_in_sitemap(folder, slug):
     sitemap_dir = os.path.join(os.path.dirname(__file__), 'public')
     sitemap_files = glob.glob(os.path.join(sitemap_dir, 'sitemap*.xml'))
     
-    url_to_check = f"https://tomito.xyz/{folder}/{slug}"
+    url_to_check = f"https://tomit.click/{folder}/{slug}"
     
     for sitemap_file in sitemap_files:
         try:
@@ -86,9 +86,9 @@ BING_API_KEY = (os.environ.get("BING_API_KEY") or "892ba13d6246447f873b7a52c85b5
 BASE_URL = "https://api.themoviedb.org/3"
 # Use localized image domain
 # TMDB original: https://image.tmdb.org/t/p/w500
-# Mirror target: https://tomito.xyz/t/p/w500
+# Mirror target: https://tomit.click/t/p/w500
 IMAGE_BASE_URL = "/t/p/w500"
-SITE_URL = "https://tomito.xyz"
+SITE_URL = "https://tomit.click"
 BUTTON_DOMAIN = "https://tv.tomito.xyz"
 
 # --- Global Content Index Cache ---
@@ -454,7 +454,7 @@ def submit_to_bing_indexnow(url):
     
     try:
         payload = {
-            "host": "tomito.xyz",
+            "host": "tomit.click",
             "key": BING_API_KEY,
             "urlList": [url]
         }
@@ -1537,7 +1537,7 @@ def build_listing_pages():
 def generate_sitemap(base_url, root_dir, all_pages):
     """Splits sitemaps into movies, tv, and genres."""
     today = datetime.now().strftime('%Y-%m-%d')
-    base_url = "https://tomito.xyz"
+    base_url = "https://tomit.click"
     
     # Pre-populate sitemap_genre.xml with actual genre listing pages
     try:

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import type { ContentData } from "./content";
 
-const SITE_URL = "https://tomito.xyz";
+const SITE_URL = "https://tomit.click";
 
 /**
  * Ensures meta description is between 150-160 characters

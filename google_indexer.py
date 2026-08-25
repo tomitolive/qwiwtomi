@@ -15,7 +15,7 @@ SERVICE_ACCOUNT_FILE = 'mythical-module-493722-n6-e2da3325c496.json'
 SCOPES = ['https://www.googleapis.com/auth/indexing']
 ENDPOINT = 'https://indexing.googleapis.com/v3/urlNotifications:publish'
 
-SITE_URL = 'https://tomito.xyz'
+SITE_URL = 'https://tomit.click'
 SITEMAPS = ['sitemap_movie.xml', 'sitemap_tv.xml']
 PROGRESS_FILE = 'indexer_progress.json'
 LINKS_PER_SITEMAP = 100 
@@ -108,9 +108,9 @@ def notify_google_index(url):
 def notify_bing_indexnow(urls):
     url = "https://api.indexnow.org/indexnow"
     payload = {
-        "host": "tomito.xyz",
+        "host": "tomit.click",
         "key": "a9e4af6dd5424e28ad0fa5e4c301a3e4",
-        "keyLocation": "https://tomito.xyz/a9e4af6dd5424e28ad0fa5e4c301a3e4.txt",
+        "keyLocation": "https://tomit.click/a9e4af6dd5424e28ad0fa5e4c301a3e4.txt",
         "urlList": urls
     }
     headers = {

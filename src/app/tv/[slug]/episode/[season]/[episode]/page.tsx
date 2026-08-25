@@ -102,7 +102,7 @@ export default async function EpisodePage({ params }: Props) {
       "name": seriesTitle
     },
     "description": ai?.desc_ar || episodeData.overview,
-    "image": still ? `https://tomito.xyz${still}` : undefined
+    "image": still ? `https://tomit.click${still}` : undefined
   };
 
   return (

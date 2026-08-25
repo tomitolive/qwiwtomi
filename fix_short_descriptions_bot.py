@@ -282,7 +282,7 @@ def process_batch(pages_to_fix, fixed_pages):
 
                 # Submit to Bing IndexNow
                 try:
-                    full_url = f"https://tomito.xyz/{page_path}"
+                    full_url = f"https://tomit.click/{page_path}"
                     mega_bot.submit_to_bing_indexnow(full_url)
                 except Exception as e:
                     log.warning(f"   ⚠️ Failed to submit to Bing IndexNow: {e}")

@@ -154,7 +154,7 @@ export default async function TVPage({ params }: Props) {
     "@type": "TVSeries",
     "name": displayTitle,
     "alternateName": titleEn && titleEn !== titleAr ? titleEn : undefined,
-    "image": `https://tomito.xyz${poster}`,
+    "image": `https://tomit.click${poster}`,
     "description": overview,
     "datePublished": data.first_air_date,
     "aggregateRating": {
@@ -271,7 +271,7 @@ export default async function TVPage({ params }: Props) {
               </div>
 
               {/* Share Button */}
-              <ShareButton url={`https://tomito.xyz/tv/${id}`} title={displayTitle} />
+              <ShareButton url={`https://tomit.click/tv/${id}`} title={displayTitle} />
 
               {/* Short Link */}
               <ShortLink slug={id!} />
