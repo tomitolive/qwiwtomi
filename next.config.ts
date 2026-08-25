@@ -10,43 +10,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  async redirects() {
-    return [
-      {
-        source: "/:path*",
-        has: [
-          {
-            type: "host",
-            value: "www.tomit.click",
-          },
-        ],
-        destination: "https://tomit.click/:path*",
-        permanent: true,
-      },
-      {
-        source: "/:path*",
-        has: [
-          {
-            type: "host",
-            value: "tomito.xyz",
-          },
-        ],
-        destination: "https://tomit.click/:path*",
-        permanent: true,
-      },
-      {
-        source: "/:path*",
-        has: [
-          {
-            type: "host",
-            value: "www.tomito.xyz",
-          },
-        ],
-        destination: "https://tomit.click/:path*",
-        permanent: true,
-      },
-    ];
-  },
 };
 
 export default nextConfig;
