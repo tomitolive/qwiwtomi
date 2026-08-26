@@ -25,7 +25,7 @@ const genresList = [
 
 const studiosList = [
   { slug: "netflix", label: "Netflix", icon: "🔴" },
-  { slug: "disney-plus", label: "Disney+", icon: "✨" },
+  { slug: "disney", label: "Disney+", icon: "✨" },
   { slug: "hbo", label: "HBO", icon: "🎬" },
   { slug: "amazon", label: "Amazon", icon: "📦" },
   { slug: "apple-tv", label: "Apple TV+", icon: "🍎" },
@@ -50,7 +50,7 @@ const erasList = [
   { slug: "2000s-cinema", label: "سينما الألفية", icon: "💾" },
   { slug: "new-releases", label: "إصدارات جديدة", icon: "🆕" },
   { slug: "mini-series", label: "مسلسلات قصيرة", icon: "⏱️" },
-  { slug: "reality-tv", label: "برامج واقعية", icon: "🎤" },
+  { slug: "reality-talk", label: "برامج واقعية", icon: "🎤" },
 ];
 
 export default function GenreModal() {
