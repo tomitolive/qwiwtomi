@@ -103,16 +103,11 @@ export default async function RootLayout({
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="86784f89564033bf" />
         
-        {/* Preload critical fonts */}
+        {/* Preload critical fonts with optional display to prevent render-blocking */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link 
-          rel="preload" 
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" 
-          as="style" 
-        />
-        <link 
-          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" 
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=optional" 
           rel="stylesheet" 
         />
         
@@ -121,7 +116,7 @@ export default async function RootLayout({
         
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
@@ -132,7 +127,22 @@ export default async function RootLayout({
           `}
         </Script>
       </head>
-      <body style={{ background: "rgba(0,0,0,0.7) url('/background.jpeg') center/cover no-repeat fixed" }}>
+      <body style={{ background: "rgba(0,0,0,0.7)" }}>
+        <div
+          style={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            zIndex: -1,
+            backgroundImage: "url('/background.jpeg')",
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat',
+            opacity: 0.3
+          }}
+        />
         <Navbar />
         <main className="min-h-screen">
           {children}

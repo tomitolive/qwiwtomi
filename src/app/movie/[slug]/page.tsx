@@ -483,7 +483,7 @@ export default async function MoviePage({ params }: Props) {
             {/* Ad 2 - بعد تفاصيل الفيلم */}
             <NewAd ad="ad2" />
 
-            {/* Trailer Section */}
+            {/* Trailer Section - Lazy loaded to reduce unused JS */}
             {trailer && (
               <div className="bg-transparent border border-zinc-800 p-4">
                 <h2 className="text-xl font-bold mb-4 text-white flex items-center gap-2">
@@ -494,10 +494,11 @@ export default async function MoviePage({ params }: Props) {
                 </h2>
                 <div className="aspect-video">
                   <iframe
-                    src={`https://www.youtube.com/embed/${trailer.key}`}
+                    src={`https://www.youtube.com/embed/${trailer.key}?rel=0&loading=lazy`}
                     title={trailer.name}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
+                    loading="lazy"
                     className="w-full h-full rounded"
                   />
                 </div>
