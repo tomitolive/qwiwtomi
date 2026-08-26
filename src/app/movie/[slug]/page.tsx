@@ -1,4 +1,6 @@
 import { Metadata } from "next";
+import Image from "next/image";
+import dynamic from "next/dynamic";
 import { getDetails } from "@/lib/tmdb";
 import { getLocalContent, getLocalSimilar, ContentGenre, ContentFaqItem } from "@/lib/content";
 import { getContentByType } from "@/lib/content";
@@ -11,7 +13,11 @@ import Navbar from "@/components/Navbar";
 import NewAd from "@/components/NewAd";
 import ShareButton from "@/components/ShareButton";
 import ShortLink from "@/components/ShortLink";
-import RandomMixCarouselClient from "@/components/RandomMixCarouselClient";
+
+// Dynamic imports for better code splitting
+const RandomMixCarouselClient = dynamic(() => import("@/components/RandomMixCarouselClient"), {
+  loading: () => <div className="h-20 animate-pulse bg-zinc-800 rounded" />
+});
 
 interface TMDBVideo {
   id: string;
@@ -89,7 +95,8 @@ export default async function MoviePage({ params }: Props) {
   }
 
   // Local similar movies from our own database (no TMDB external calls)
-  const localSimilar = getLocalSimilar(id!, genreIds, "movie", 40);
+  // Reduced from 40 to 20 to improve performance
+  const localSimilar = getLocalSimilar(id!, genreIds, "movie", 20);
 
   // Random mix: 5 movies + 5 tv for the mix carousel
   const allMovies = getContentByType('movie').filter(m => String(m.tmdb_id) !== id);
@@ -180,11 +187,13 @@ export default async function MoviePage({ params }: Props) {
             {/* Left: Poster */}
             {poster && (
               <div className="w-full md:w-[260px] flex-shrink-0 relative order-1">
-                <img
+                <Image
                   src={poster}
                   alt={displayTitle || "صورة ملصق"}
+                  width={260}
+                  height={390}
                   className="w-full h-auto object-contain rounded-lg border-2 border-white/20 shadow-2xl"
-                  loading="eager"
+                  priority={true}
                 />
               </div>
             )}
@@ -549,10 +558,11 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
+                      <Image
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
-                        loading="lazy"
+                        width={120}
+                        height={180}
                         className="w-full aspect-[2/3] object-cover"
                       />
                       <div className="p-2">
@@ -585,14 +595,15 @@ export default async function MoviePage({ params }: Props) {
               الأحدث
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(0, 10).map((item, i) => (
+              {localSimilar.slice(0, 6).map((item, i) => (
                 <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
+                      <Image
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
-                        loading="lazy"
+                        width={120}
+                        height={180}
                         className="w-full aspect-[2/3] object-cover"
                       />
                       <div className="p-2">
@@ -616,14 +627,15 @@ export default async function MoviePage({ params }: Props) {
               الأكثر مشاهدة
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(10, 20).map((item, i) => (
+              {localSimilar.slice(6, 12).map((item, i) => (
                 <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
+                      <Image
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
-                        loading="lazy"
+                        width={120}
+                        height={180}
                         className="w-full aspect-[2/3] object-cover"
                       />
                       <div className="p-2">
@@ -646,14 +658,15 @@ export default async function MoviePage({ params }: Props) {
               الأعلى تقييماً
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(20, 30).map((item, i) => (
+              {localSimilar.slice(12, 18).map((item, i) => (
                 <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
+                      <Image
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
-                        loading="lazy"
+                        width={120}
+                        height={180}
                         className="w-full aspect-[2/3] object-cover"
                       />
                       <div className="p-2">
@@ -678,14 +691,15 @@ export default async function MoviePage({ params }: Props) {
               عشوائي
             </h2>
             <div className="flex gap-3 overflow-x-auto pb-4 scrollbar-hide">
-              {localSimilar.slice(30, 40).map((item, i) => (
+              {localSimilar.slice(18, 20).map((item, i) => (
                 <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <img
+                      <Image
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
-                        loading="lazy"
+                        width={120}
+                        height={180}
                         className="w-full aspect-[2/3] object-cover"
                       />
                       <div className="p-2">

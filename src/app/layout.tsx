@@ -102,6 +102,23 @@ export default async function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta name="theme-color" content="#000" />
         <meta name="yandex-verification" content="86784f89564033bf" />
+        
+        {/* Preload critical fonts */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link 
+          rel="preload" 
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" 
+          as="style" 
+        />
+        <link 
+          href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&display=swap" 
+          rel="stylesheet" 
+        />
+        
+        {/* Preconnect to image CDN */}
+        <link rel="preconnect" href="https://image.tmdb.org" />
+        
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-PRCQVS90BX"
           strategy="afterInteractive"
@@ -126,7 +143,7 @@ export default async function RootLayout({
         </footer>
         <Script
           src="https://pl30597544.effectivecpmnetwork.com/c3/e8/93/c3e893c4344bbee9205294b8e255c444.js"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
       </body>
     </html>

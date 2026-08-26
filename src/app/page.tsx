@@ -4,10 +4,16 @@ import { getHomeContent } from "@/lib/home-content";
 import NewAd from "@/components/NewAd";
 import { Metadata } from "next";
 import Script from "next/script";
+import dynamic from "next/dynamic";
 import fs from "fs";
 import path from "path";
-import HeroCarousel from "@/components/HeroCarousel";
 import PosterImg from "@/components/PosterImg";
+
+// Dynamic import for HeroCarousel to reduce initial JS bundle
+const HeroCarousel = dynamic(() => import("@/components/HeroCarousel"), {
+  loading: () => <div className="h-[60vh] md:h-[85vh] animate-pulse bg-zinc-800" />,
+  ssr: true
+});
 
 
 const pageTranslations: Record<string, any> = {
