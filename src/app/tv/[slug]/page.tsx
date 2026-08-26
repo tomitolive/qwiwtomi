@@ -191,7 +191,7 @@ export default async function TVPage({ params }: Props) {
               <div className="w-full md:w-[260px] flex-shrink-0 relative order-1">
                 <img
                   src={poster}
-                  alt={displayTitle}
+                  alt={displayTitle || "صورة ملصق"}
                   className="w-full h-auto object-contain rounded-lg border-2 border-white/20 shadow-2xl"
                   loading="eager"
                 />
@@ -570,7 +570,7 @@ export default async function TVPage({ params }: Props) {
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                       <img
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
+                        alt={item.title_ar || item.title || "صورة ملصق"}
                         loading="lazy"
                         className="w-full aspect-[2/3] object-cover"
                       />
@@ -610,7 +610,7 @@ export default async function TVPage({ params }: Props) {
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                       <img
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
+                        alt={item.title_ar || item.title || "صورة ملصق"}
                         loading="lazy"
                         className="w-full aspect-[2/3] object-cover"
                       />
@@ -641,7 +641,7 @@ export default async function TVPage({ params }: Props) {
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                       <img
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
+                        alt={item.title_ar || item.title || "صورة ملصق"}
                         loading="lazy"
                         className="w-full aspect-[2/3] object-cover"
                       />
@@ -671,7 +671,7 @@ export default async function TVPage({ params }: Props) {
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                       <img
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
+                        alt={item.title_ar || item.title || "صورة ملصق"}
                         loading="lazy"
                         className="w-full aspect-[2/3] object-cover"
                       />
@@ -703,7 +703,7 @@ export default async function TVPage({ params }: Props) {
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
                       <img
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                        alt={item.title_ar || item.title}
+                        alt={item.title_ar || item.title || "صورة ملصق"}
                         loading="lazy"
                         className="w-full aspect-[2/3] object-cover"
                       />

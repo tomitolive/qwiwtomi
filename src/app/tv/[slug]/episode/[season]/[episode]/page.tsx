@@ -124,7 +124,7 @@ export default async function EpisodePage({ params }: Props) {
           <div className="absolute inset-0">
             <img
               src={backdrop}
-              alt={seriesTitle}
+              alt={seriesTitle || "صورة ملصق"}
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent" />
@@ -160,7 +160,7 @@ export default async function EpisodePage({ params }: Props) {
           <div className="mb-6">
             <img
               src={still}
-              alt={episodeTitle}
+              alt={episodeTitle || "صورة ملصق"}
               className="w-full rounded-lg border border-zinc-800"
             />
           </div>

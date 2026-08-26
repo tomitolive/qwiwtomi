@@ -148,7 +148,7 @@ function CardItem({ item, getLink, getAlt, getPoster }: any) {
     <div className="tc-small-box">
       <a href={getLink(item)} title={getAlt(item)}>
         <div className="tc-poster">
-          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item)} />}
+          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item) || "صورة ملصق"} />}
         </div>
         <ul className="tc-li-list">
           {item.genres?.[0] && <li>{item.genres[0]}</li>}
@@ -171,7 +171,7 @@ function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
     <div className="tc-aside-post">
       <a href={getLink(item)}>
         <div className="tc-aside-poster">
-          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item)} />}
+          {posterUrl && <PosterImg src={posterUrl} alt={getAlt(item) || "صورة ملصق"} />}
         </div>
         <div className="tc-aside-info">
           <h3>{item.title || item.title_ar}</h3>
@@ -230,14 +230,10 @@ export default async function Home() {
   const locale = cookieStore.get("NEXT_LOCALE")?.value || "ar";
   const t = pageTranslations[locale] || pageTranslations.ar;
 
-  const localContent = getHomeContent();
+  // Load only the newest 400 items — enough to fill all sections without serializing the full 2701-item dataset
+  const localContent = getHomeContent().slice(0, 400);
   const carouselData = getCarouselData();
   const enrichedCarouselData = await enrichCarouselWithLiveRatings(carouselData);
-
-  console.log("First 5 carousel items in page.tsx:");
-  localContent.slice(0, 5).forEach((item, i) => {
-    console.log(`${i + 1}. ${item.title} - timestamp: ${item.timestamp}`);
-  });
 
   const sortedAll = localContent; // Already sorted by timestamp in getHomeContent()
 
@@ -245,10 +241,6 @@ export default async function Home() {
   const series = sortedAll.filter((item: any) => item.folder === 'tv');
 
   const carouselItems = sortedAll.slice(0, 20);
-
-  // Hero carousel with specific IDs
-  const heroIds = [1719380, 969681, 1368337, 1081003, 1212763, 30984, 1263532, 300480];
-  const heroItems = sortedAll.filter((item: any) => heroIds.includes(item.tmdb_id));
 
   const getDynamicNewsText = (items: any[], loc: string) => {
     return items.slice(0, 10).map((item: any) => {
@@ -267,31 +259,32 @@ export default async function Home() {
   const SIDEBAR_LIMIT = 7;
   const GRID_LIMIT = 18;
 
-  // Custom user categories
-  const allMovies = movies;
-  const allSeries = series;
+  // Slice early — only pass what will actually be rendered to avoid bloating RSC payload
+  const allMovies = movies.slice(0, WIDE_LIMIT);
+  const allSeries = series.slice(0, SIDEBAR_LIMIT);
+
   // TMDB Genre IDs Mapping:
   // Action (حركة): 28 | Adventure (مغامرة): 12 | Animation (رسوم متحركة): 16 | Comedy (كوميديا): 35
   // Crime (جريمة): 80 | Drama (دراما): 18 | Family (عائلي): 10751 | Fantasy (فانتازيا): 14
   // History (تاريخ): 36 | Horror (رعب): 27 | Mystery (غموض): 9648 | Romance (رومنسية): 10749
   // Science Fiction (خيال علمي): 878 | Thriller (إثارة): 53 | War (حرب): 10752
 
-  const actionMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('حركة') || m.genre_ids?.includes(28));
-  const horrorMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('رعب') || m.genre_ids?.includes(27));
+  const actionMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('حركة') || m.genre_ids?.includes(28)).slice(0, WIDE_LIMIT);
+  const horrorMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('رعب') || m.genre_ids?.includes(27)).slice(0, SIDEBAR_LIMIT);
 
   const fullSections = [
-    { title: "خيال علمي ومغامرة", items: movies.filter((m: any) => m.genres?.includes('خيال علمي') || m.genre_ids?.includes(878) || m.genre_ids?.includes(12)), link: "/movie" },
-    { title: "دراما", items: movies.filter((m: any) => m.genres?.includes('دراما') || m.genre_ids?.includes(18)), link: "/movie" },
-    { title: "كوميديا", items: movies.filter((m: any) => m.genres?.includes('كوميديا') || m.genre_ids?.includes(35)), link: "/movie" },
-    { title: "عائلي", items: movies.filter((m: any) => m.genres?.includes('عائلي') || m.genre_ids?.includes(10751)), link: "/movie" },
-    { title: "جريمة", items: movies.filter((m: any) => m.genres?.includes('جريمة') || m.genre_ids?.includes(80)), link: "/movie" },
-    { title: "مغامرة", items: movies.filter((m: any) => m.genres?.includes('مغامرة') || m.genre_ids?.includes(12)), link: "/movie" },
-    { title: "فانتازيا", items: movies.filter((m: any) => m.genres?.includes('فانتازيا') || m.genre_ids?.includes(14)), link: "/movie" },
-    { title: "رسوم متحركة", items: movies.filter((m: any) => m.genres?.includes('رسوم متحركة') || m.genre_ids?.includes(16)), link: "/movie" },
-    { title: "إثارة", items: [...movies, ...series].filter((m: any) => m.genres?.includes('إثارة') || m.genre_ids?.includes(53)), link: "/" },
-    { title: "غموض", items: movies.filter((m: any) => m.genres?.includes('غموض') || m.genre_ids?.includes(9648)), link: "/movie" },
-    { title: "رومنسية", items: movies.filter((m: any) => m.genres?.includes('رومنسية') || m.genre_ids?.includes(10749)), link: "/movie" },
-    { title: "تاريخ وحرب", items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)), link: "/movie" },
+    { title: "خيال علمي ومغامرة", items: movies.filter((m: any) => m.genres?.includes('خيال علمي') || m.genre_ids?.includes(878) || m.genre_ids?.includes(12)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "دراما", items: movies.filter((m: any) => m.genres?.includes('دراما') || m.genre_ids?.includes(18)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "كوميديا", items: movies.filter((m: any) => m.genres?.includes('كوميديا') || m.genre_ids?.includes(35)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "عائلي", items: movies.filter((m: any) => m.genres?.includes('عائلي') || m.genre_ids?.includes(10751)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "جريمة", items: movies.filter((m: any) => m.genres?.includes('جريمة') || m.genre_ids?.includes(80)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "مغامرة", items: movies.filter((m: any) => m.genres?.includes('مغامرة') || m.genre_ids?.includes(12)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "فانتازيا", items: movies.filter((m: any) => m.genres?.includes('فانتازيا') || m.genre_ids?.includes(14)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "رسوم متحركة", items: movies.filter((m: any) => m.genres?.includes('رسوم متحركة') || m.genre_ids?.includes(16)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "إثارة", items: [...movies, ...series].filter((m: any) => m.genres?.includes('إثارة') || m.genre_ids?.includes(53)).slice(0, GRID_LIMIT), link: "/" },
+    { title: "غموض", items: movies.filter((m: any) => m.genres?.includes('غموض') || m.genre_ids?.includes(9648)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "رومنسية", items: movies.filter((m: any) => m.genres?.includes('رومنسية') || m.genre_ids?.includes(10749)).slice(0, GRID_LIMIT), link: "/movie" },
+    { title: "تاريخ وحرب", items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)).slice(0, GRID_LIMIT), link: "/movie" },
   ].filter(s => s.items.length > 0);
 
   // Helpers

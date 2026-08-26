@@ -137,7 +137,7 @@ export default function HeroCarousel({ items, locale, onSlideChange }: HeroCarou
         ) : backdropUrl ? (
           <img
             src={backdropUrl}
-            alt={title}
+            alt={title || "صورة ملصق"}
             className="hero-backdrop-image"
           />
         ) : null}

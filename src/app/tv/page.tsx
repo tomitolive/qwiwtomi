@@ -52,7 +52,7 @@ export default async function TVPage() {
               >
                 <img 
                   src={item.poster || ''} 
-                  alt={title} 
+                  alt={title || "صورة ملصق"} 
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
                   loading="lazy"
                 />

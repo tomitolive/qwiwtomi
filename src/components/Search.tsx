@@ -172,7 +172,7 @@ export default function Search() {
               >
                 <Image
                   src={item.poster ? `https://image.tmdb.org/t/p/w500${item.poster}` : "/favicon.ico"}
-                  alt={item.title_ar || item.title}
+                  alt={item.title_ar || item.title || "صورة ملصق"}
                   width={40}
                   height={56}
                   className="w-10 h-14 object-cover rounded shadow"

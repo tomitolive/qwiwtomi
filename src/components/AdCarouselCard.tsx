@@ -37,7 +37,7 @@ export default function AdCarouselCard({ item, index, pageSmartLink, prefix }: A
         <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
           <img
             src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-            alt={item.title_ar || item.title}
+            alt={item.title_ar || item.title || "صورة ملصق"}
             loading="lazy"
             className="w-full aspect-[2/3] object-cover"
           />

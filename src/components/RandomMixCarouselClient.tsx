@@ -102,7 +102,7 @@ export default function RandomMixCarouselClient({ items }: Props) {
               <div className="relative">
                 <img
                   src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
-                  alt={item.title_ar || item.title}
+                  alt={item.title_ar || item.title || "صورة ملصق"}
                   loading="lazy"
                   className="w-full aspect-[2/3] object-cover"
                 />

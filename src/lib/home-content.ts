@@ -89,10 +89,5 @@ export const getHomeContent = (): ContentIndexEntry[] => {
     }
   }
 
-  const sorted = [...byId.values()].sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
-  console.log("Top 5 items from getHomeContent:");
-  sorted.slice(0, 5).forEach((item, i) => {
-    console.log(`${i+1}. ${item.title} - timestamp: ${item.timestamp}`);
-  });
-  return sorted;
+  return [...byId.values()].sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
 };

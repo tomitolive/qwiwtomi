@@ -151,7 +151,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                     <div className="tc-poster">
                       <img
                         src={getPoster(item)}
-                        alt={getTitle(item)}
+                        alt={getTitle(item) || "صورة ملصق"}
                         loading="lazy"
                         className="w-full h-auto"
                       />
@@ -188,7 +188,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                     <div className="tc-poster">
                       <img
                         src={getPoster(item)}
-                        alt={getTitle(item)}
+                        alt={getTitle(item) || "صورة ملصق"}
                         loading="lazy"
                         className="w-full h-auto"
                       />

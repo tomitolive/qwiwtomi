@@ -10,7 +10,7 @@ export default function PosterImg({ src, alt, className }: PosterImgProps) {
   return (
     <img
       src={src}
-      alt={alt}
+      alt={alt || "صورة ملصق"}
       loading="lazy"
       className={className}
       onError={(e) => {
