@@ -6,8 +6,8 @@ import json
 from datetime import datetime
 
 def generate_sitemaps():
-    base_url = "https://tomit.click"
-    img_base_url = "https://tomit.click" # Images are now served via Next.js directly
+    base_url = "https://www.tomit.click"
+    img_base_url = "https://www.tomit.click" # Images are now served via Next.js directly
     root_dir = os.path.dirname(os.path.abspath(__file__))
     index_file = os.path.join(root_dir, 'data', 'content_index.json')
     today = datetime.now().strftime('%Y-%m-%d')

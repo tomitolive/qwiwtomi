@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/_next/'],
     },
-    sitemap: 'https://tomit.click/sitemap.xml',
+    sitemap: 'https://www.tomit.click/sitemap.xml',
   };
 }
