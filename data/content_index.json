@@ -62552,5 +62552,113 @@
     ],
     "timestamp": 1787002825,
     "fixed": true
+  },
+  {
+    "title": "Mayday / Mayday",
+    "title_ar": "Mayday",
+    "title_en": "Mayday",
+    "slug": "1137844-mayday",
+    "folder": "movie",
+    "poster": "/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "rating": 7.9,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1137844,
+    "genre_ids": [
+      28,
+      35,
+      10752
+    ],
+    "genres": [
+      "حركة",
+      "كوميديا",
+      "حرب"
+    ],
+    "timestamp": 1788732105,
+    "fixed": true
+  },
+  {
+    "title": "بادي / Buddy",
+    "title_ar": "بادي",
+    "title_en": "Buddy",
+    "slug": "1514026-buddy",
+    "folder": "movie",
+    "poster": "/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "rating": 8.3,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1514026,
+    "genre_ids": [
+      27,
+      35
+    ],
+    "genres": [
+      "رعب",
+      "كوميديا"
+    ],
+    "timestamp": 1788732119,
+    "fixed": true
+  },
+  {
+    "title": "مشروع هيل ماري / Project Hail Mary",
+    "title_ar": "مشروع هيل ماري",
+    "title_en": "Project Hail Mary",
+    "slug": "687163-project-hail-mary",
+    "folder": "movie",
+    "poster": "/t/p/w500/wNnoJaRb5Oc9SodTWJLEC26wL8q.jpg",
+    "rating": 8.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 687163,
+    "genre_ids": [
+      878,
+      12
+    ],
+    "genres": [
+      "خيال علمي",
+      "مغامرة"
+    ],
+    "timestamp": 1788732133,
+    "fixed": true
+  },
+  {
+    "title": "تشاد باورز / Chad Powers",
+    "title_ar": "تشاد باورز",
+    "title_en": "Chad Powers",
+    "slug": "247168-chad-powers",
+    "folder": "tv",
+    "poster": "/t/p/w500/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
+    "rating": 8.0,
+    "year": "2025",
+    "type": "tv",
+    "tmdb_id": 247168,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1788732149,
+    "fixed": true
+  },
+  {
+    "title": "The Early Spring / The Early Spring",
+    "title_ar": "The Early Spring",
+    "title_en": "The Early Spring",
+    "slug": "299952-the-early-spring",
+    "folder": "tv",
+    "poster": "/t/p/w500/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+    "rating": 7.6,
+    "year": "2026",
+    "type": "tv",
+    "tmdb_id": 299952,
+    "genre_ids": [
+      18
+    ],
+    "genres": [
+      "دراما"
+    ],
+    "timestamp": 1788732163,
+    "fixed": true
   }
 ]

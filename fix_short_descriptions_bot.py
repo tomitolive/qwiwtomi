@@ -1,309 +1,159 @@
 #!/usr/bin/env python3
 """
-fix_short_descriptions_bot.py
-------------------------------
-بوت إصلاح الأوصاف والحقول الناقصة.
-- يفحص جميع ملفات JSON في data/content/
-- يحدد الصفحات ذات meta_desc خارج النطاق 150-160 حرف
-- يحدد الصفحات التي تنقصها حقول مطلوبة
-- يعالج دفعة محددة كل تشغيل (BATCH_SIZE)
-- يعيد توليد الصفحة باستخدام AI مع الحقول الموحدة
-- يتتبع الصفحات المعالجة لتجنب التكرار
-- يستخدم البيانات المحلية كـ fallback عند فشل TMDB API
+trending_bot.py
+---------------
+بوت جلب المحتوى التريند من TMDB وإنشاء صفحات جديدة.
+- يجلب التريند اليومي (movies + tv) من TMDB
+- يتحقق من وجود كل صفحة في data/content/
+- ينشئ صفحات جديدة فقط لل הפריטات اللي ماشي موجودة
+- يحدّث content_index.json
+- يعيد بناء الصفحة الرئيسية + listing + search index + sitemap
 """
 
 import os
+import sys
 import json
 import logging
 import time
+import subprocess
 from datetime import datetime
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
-PROCESSED_FILE = os.path.join(BASE_PATH, 'data', 'fixed_pages.json')
-PAGES_TO_FIX_FILE = os.path.join(BASE_PATH, 'data', 'pages_to_fix.json')
-PRIORITY_PAGES_FILE = os.path.join(BASE_PATH, 'data', 'priority_pages.json')
+INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 BATCH_SIZE = 35
 
-# Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 log = logging.getLogger(__name__)
 
-# Import project modules
-import mega_bot
-import requests
+from mega_bot import get_tmdb_data, fetch_details, create_page, submit_to_bing_indexnow, build_listing_pages
+import generate_search_index
 
-# Bulletproof block: Prevent any image download from TMDB or elsewhere
-original_get = requests.get
-def no_image_get(url, *args, **kwargs):
-    if 'image.tmdb.org' in url or any(url.endswith(ext) for ext in ['.jpg', '.png', '.jpeg', '.webp']):
-        class MockImageResponse:
-            status_code = 404
-            content = b''
-            text = 'Image downloads disabled by bot'
-        return MockImageResponse()
-    return original_get(url, *args, **kwargs)
-
-requests.get = no_image_get
-
-# Prevent image downloads by mocking download functions
-mega_bot.download_tmdb_image = lambda path: path.lstrip('/') if path else None
-mega_bot.download_tmdb_backdrop = lambda path: path.lstrip('/') if path else None
-
-REQUIRED_FIELDS = ['desc_ar', 'desc_en', 'meta_desc', 'seo_title_ar', 'opinion_ar', 'opinion_en', 'faq', 'keywords', 'intro', 'outro']
+try:
+    import build_homepage
+except ImportError:
+    build_homepage = None
 
 
-def load_fixed_pages():
-    """تحميل قائمة الصفحات التي تم إصلاحها."""
-    if not os.path.exists(PROCESSED_FILE):
-        return []
-    try:
-        with open(PROCESSED_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return data.get('fixed_pages', [])
-    except Exception as e:
-        log.warning(f"Could not load fixed pages: {e}")
-        return []
-
-
-def save_fixed_pages(fixed_pages):
-    """حفظ قائمة الصفحات التي تم إصلاحها."""
-    try:
-        os.makedirs(os.path.dirname(PROCESSED_FILE), exist_ok=True)
-        with open(PROCESSED_FILE, 'w', encoding='utf-8') as f:
-            json.dump({
-                'fixed_pages': fixed_pages,
-                'last_updated': datetime.now().isoformat(),
-                'total_fixed': len(fixed_pages)
-            }, f, ensure_ascii=False, indent=2)
-    except Exception as e:
-        log.error(f"Could not save fixed pages: {e}")
-
-
-def load_priority_pages():
-    """تحميل قائمة الصفحات ذات الأولوية."""
-    if not os.path.exists(PRIORITY_PAGES_FILE):
-        return []
-    try:
-        with open(PRIORITY_PAGES_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return data.get('priority_pages', [])
-    except Exception as e:
-        log.warning(f"Could not load priority pages: {e}")
-        return []
-
-
-def build_details_from_local(tmdb_id, media_type):
-    """بناء dict details من البيانات المحلية عند فشل TMDB API."""
-    json_path = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
-    if not os.path.exists(json_path):
-        return None
-    
-    try:
-        with open(json_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except Exception:
-        return None
-    
-    # Build a minimal TMDB-like response from local data
-    title_ar = data.get('title_ar', '')
-    title_en = data.get('title_en', '')
-    overview = data.get('overview', '')
-    
-    ar_data = {
-        'id': int(tmdb_id),
-        'title': title_ar if media_type == 'movie' else None,
-        'name': title_ar if media_type != 'movie' else None,
-        'overview': overview,
-        'poster_path': data.get('poster_path', ''),
-        'backdrop_path': data.get('backdrop_path', ''),
-        'release_date': data.get('release_date', ''),
-        'first_air_date': data.get('first_air_date', data.get('release_date', '')),
-        'vote_average': data.get('vote_average', 7.0),
-        'vote_count': data.get('vote_count', 10),
-        'genres': data.get('genres', []),
-    }
-    
-    en_data = dict(ar_data)
-    en_data['title'] = title_en if media_type == 'movie' else None
-    en_data['name'] = title_en if media_type != 'movie' else None
-    en_overview = data.get('ai_content', {}).get('desc_en', '')
-    if en_overview:
-        en_data['overview'] = en_overview
-    
-    # Build credits from local data if available
-    credits = {'cast': [], 'crew': []}
-    if data.get('cast'):
-        credits['cast'] = data['cast'] if isinstance(data['cast'], list) else []
-    if data.get('director'):
-        credits['crew'] = [{'name': data['director'], 'job': 'Director'}]
-    
-    log.info(f"   📂 Using local data fallback for ID {tmdb_id}")
-    return {'ar': ar_data, 'en': en_data, 'credits': credits, 'similar': {'results': []}}
-
-
-def find_pages_to_fix():
-    """البحث عن الصفحات ذات الأوصاف القصيرة/الطويلة أو الحقول الناقصة."""
-    # Use pre-generated pages_to_fix.json if available
-    if os.path.exists(PAGES_TO_FIX_FILE):
+def load_content_index():
+    """تحميل الفهرس + استخراج IDs الموجودة."""
+    if os.path.exists(INDEX_FILE):
         try:
-            with open(PAGES_TO_FIX_FILE, 'r', encoding='utf-8') as f:
-                pages = json.load(f)
-            log.info(f"📂 Loaded {len(pages)} pages from pages_to_fix.json")
-            return pages
-        except Exception as e:
-            log.warning(f"Could not load pages_to_fix.json: {e}")
-
-    # Fallback: scan all files
-    pages_to_fix = []
-
-    if not os.path.exists(CONTENT_DIR):
-        log.error(f"Content directory not found: {CONTENT_DIR}")
-        return pages_to_fix
-
-    json_files = [f for f in os.listdir(CONTENT_DIR) if f.endswith('.json')]
-    log.info(f"📂 Found {len(json_files)} JSON files in content directory")
-
-    for json_file in json_files:
-        file_path = os.path.join(CONTENT_DIR, json_file)
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(INDEX_FILE, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-
-            ai_content = data.get('ai_content', {})
-            meta_desc = ai_content.get('meta_desc', '')
-            missing_fields = [fld for fld in REQUIRED_FIELDS if fld not in ai_content]
-
-            needs_fix = bool(missing_fields)
-            if meta_desc and (len(meta_desc) < 150 or len(meta_desc) > 160):
-                needs_fix = True
-
-            if needs_fix:
-                tmdb_id = data.get('tmdb_id') or data.get('id')
-                media_type = data.get('type') or data.get('media_type', 'movie')
-                title = data.get('title_ar') or data.get('title', '')
-
-                if not tmdb_id or tmdb_id == 'None':
-                    log.debug(f"Skipping {json_file} - invalid tmdb_id: {tmdb_id}")
-                    continue
-
-                pages_to_fix.append({
-                    'tmdb_id': tmdb_id,
-                    'media_type': media_type,
-                    'title': title,
-                    'file': json_file,
-                    'current_length': len(meta_desc) if meta_desc else 0,
-                    'current_desc': meta_desc,
-                    'missing_fields': missing_fields
-                })
-
-        except Exception as e:
-            log.warning(f"Error reading {json_file}: {e}")
-
-    log.info(f"🔍 Found {len(pages_to_fix)} pages needing fixes (short/long meta_desc or missing fields)")
-    return pages_to_fix
+            seen = set()
+            for item in data:
+                tid = str(item.get('tmdb_id', ''))
+                m_type = item.get('folder', 'movie')
+                if tid:
+                    seen.add(f"{m_type}-{tid}")
+            return data, seen
+        except Exception:
+            pass
+    return [], set()
 
 
-def process_batch(pages_to_fix, fixed_pages):
-    """معالجة دفعة من الصفحات."""
-    fixed_ids = {str(p['tmdb_id']) for p in fixed_pages}
-    available_pages = [p for p in pages_to_fix if str(p['tmdb_id']) not in fixed_ids]
+def check_page_exists(tmdb_id):
+    """التحقق من وجود الصفحة في data/content/."""
+    json_path = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
+    return os.path.exists(json_path)
 
-    if not available_pages:
-        log.info("✅ All pages have been fixed!")
-        return 0, fixed_pages
 
-    # ترتيب الصفحات: الأولوية أولاً
-    priority_pages = load_priority_pages()
-    priority_ids = {str(p['tmdb_id']) for p in priority_pages}
-    priority_available = [p for p in available_pages if str(p['tmdb_id']) in priority_ids]
-    regular_available = [p for p in available_pages if str(p['tmdb_id']) not in priority_ids]
+def fetch_trending(media_type, min_popularity=40, min_rating=7.0, min_votes=2):
+    """جلب التريند اليومي من TMDB مع فلترة."""
+    log.info(f"🔥 Fetching trending {media_type}...")
+    data = get_tmdb_data(f'trending/{media_type}/day', {'language': 'ar-SA'})
+    if not data or 'results' not in data:
+        log.warning(f"   No trending data returned for {media_type}")
+        return []
 
-    if priority_available:
-        log.info(f"⭐ Found {len(priority_available)} priority pages to process first")
+    results = []
+    for item in data['results']:
+        tid = item.get('id')
+        pop = item.get('popularity', 0)
+        rating = item.get('vote_average', 0)
+        votes = item.get('vote_count', 0)
+        title = item.get('title') or item.get('name') or 'Unknown'
 
-    available_pages = priority_available + regular_available
-    batch = available_pages[:BATCH_SIZE]
-    log.info(f"📋 Processing {len(batch)} pages (batch size: {BATCH_SIZE})")
+        if not tid:
+            continue
+        if pop < min_popularity:
+            continue
+        if rating < min_rating or votes < min_votes:
+            continue
 
-    success = 0
-    for i, page in enumerate(batch):
-        tmdb_id = str(page['tmdb_id'])
-        media_type = page['media_type']
-        title = page['title']
-        json_file = page['file']
-        missing = page.get('missing_fields', [])
+        results.append({
+            'tmdb_id': str(tid),
+            'media_type': media_type,
+            'title': title,
+            'popularity': pop,
+            'rating': rating,
+            'votes': votes
+        })
 
-        reason = []
-        if page['current_length'] and (page['current_length'] < 150 or page['current_length'] > 160):
-            reason.append(f"meta_desc length={page['current_length']}")
-        if missing:
-            reason.append(f"missing fields={missing}")
+    log.info(f"   Found {len(results)} trending {media_type} items (filtered)")
+    return results
 
-        log.info(f"[{i+1}/{len(batch)}] Fixing: {title} (ID: {tmdb_id}) | {', '.join(reason)}")
+
+def main():
+    log.info("🚀 Starting Trending Bot...")
+    log.info("=" * 60)
+
+    all_index, seen_ids = load_content_index()
+    log.info(f"📊 Existing pages: {len(all_index)}")
+
+    trending_movies = fetch_trending('movie')
+    trending_tv = fetch_trending('tv')
+    all_trending = trending_movies + trending_tv
+
+    new_items = []
+    for item in all_trending:
+        unique_key = f"{item['media_type']}-{item['tmdb_id']}"
+        if unique_key in seen_ids:
+            log.debug(f"   Skipping {item['title']} (already exists)")
+            continue
+        if check_page_exists(item['tmdb_id']):
+            log.debug(f"   Skipping {item['title']} (file exists)")
+            seen_ids.add(unique_key)
+            continue
+        new_items.append(item)
+
+    if not new_items:
+        log.info("✅ All trending items already have pages!")
+        log.info("=" * 60)
+        return
+
+    log.info(f"🆕 New trending items to create: {len(new_items)}")
+    batch = new_items[:BATCH_SIZE]
+    log.info(f"📋 Processing batch of {len(batch)} pages")
+
+    created = 0
+    for i, item in enumerate(batch):
+        tmdb_id = item['tmdb_id']
+        media_type = item['media_type']
+        title = item['title']
+
+        log.info(f"[{i+1}/{len(batch)}] 📥 {media_type.upper()} ID: {tmdb_id} - {title}")
 
         try:
-            # Try TMDB first, fall back to local data
-            details = mega_bot.fetch_details(tmdb_id, media_type, bypass_adult_check=True)
-            local_details = build_details_from_local(tmdb_id, media_type)
-
-            # Preserve local genres if TMDB returns empty genres to pass strict validation
-            if details and local_details:
-                for lang in ['ar', 'en']:
-                    if details.get(lang) and local_details.get(lang):
-                        if not details[lang].get('genres') and local_details[lang].get('genres'):
-                            details[lang]['genres'] = local_details[lang]['genres']
-                            log.info(f"   🔄 Supplemented missing 'genres' from local data for {tmdb_id}")
-            elif not details:
-                details = local_details
+            details = fetch_details(tmdb_id, media_type, bypass_adult_check=True)
             if not details:
-                log.warning(f"   ⚠️ No TMDB data and no local data for {tmdb_id} — skipping")
-                # Mark as fixed so we don't retry forever
-                fixed_pages.append({
-                    'tmdb_id': tmdb_id,
-                    'file': json_file,
-                    'title': title,
-                    'fixed_at': datetime.now().isoformat(),
-                    'status': 'skipped_no_data'
-                })
+                log.warning(f"   ❌ TMDB fetch failed — skipping")
                 continue
 
-            page_path, entry = mega_bot.create_page(details, media_type, is_trend=True, force=True, skip_images=True)
+            page_path, entry = create_page(details, media_type, is_trend=True, force=True, skip_images=True)
 
             if entry:
-                success += 1
-                fixed_pages.append({
-                    'tmdb_id': tmdb_id,
-                    'file': json_file,
-                    'title': title,
-                    'fixed_at': datetime.now().isoformat()
-                })
-                log.info(f"   ✅ Fixed: {page_path}")
+                all_index.append(entry)
+                created += 1
+                seen_ids.add(f"{media_type}-{tmdb_id}")
+                log.info(f"   ✅ Created: {page_path}")
 
-                # Submit to Bing IndexNow
                 try:
                     full_url = f"https://tomit.click/{page_path}"
-                    mega_bot.submit_to_bing_indexnow(full_url)
+                    submit_to_bing_indexnow(full_url)
                 except Exception as e:
-                    log.warning(f"   ⚠️ Failed to submit to Bing IndexNow: {e}")
-
-                # التحقق من النتيجة
-                try:
-                    json_path = os.path.join(CONTENT_DIR, json_file)
-                    with open(json_path, 'r', encoding='utf-8') as f:
-                        new_data = json.load(f)
-                    new_ai = new_data.get('ai_content', {})
-                    new_meta_desc = new_ai.get('meta_desc', '')
-                    new_length = len(new_meta_desc) if new_meta_desc else 0
-                    log.info(f"   📏 New meta_desc length: {new_length} chars")
-
-                    still_missing = [fld for fld in REQUIRED_FIELDS if fld not in new_ai]
-                    if still_missing:
-                        log.warning(f"   ⚠️ Still missing fields: {still_missing}")
-                    else:
-                        log.info(f"   ✅ All required fields present")
-                except Exception as e:
-                    log.warning(f"   ⚠️ Could not verify fixed page: {e}")
+                    log.warning(f"   ⚠️ IndexNow failed: {e}")
             else:
                 log.warning(f"   ❌ AI generation failed for {title}")
 
@@ -312,34 +162,49 @@ def process_batch(pages_to_fix, fixed_pages):
 
         time.sleep(2)
 
-    return success, fixed_pages
-
-
-def main():
-    log.info("🚀 Starting Fix Descriptions & Missing Fields Bot...")
     log.info("=" * 60)
+    log.info(f"📈 Statistics:")
+    log.info(f"   ✅ Created: {created}/{len(batch)}")
+    log.info(f"   📊 Total pages: {len(all_index)}")
 
-    fixed_pages = load_fixed_pages()
-    log.info(f"📊 Already fixed: {len(fixed_pages)} pages")
+    if created > 0:
+        os.makedirs(os.path.dirname(INDEX_FILE), exist_ok=True)
+        with open(INDEX_FILE, 'w', encoding='utf-8') as f:
+            json.dump(all_index, f, ensure_ascii=False, indent=2)
+        log.info(f"💾 content_index.json updated ({len(all_index)} entries)")
 
-    pages_to_fix = find_pages_to_fix()
+        try:
+            if build_homepage:
+                build_homepage.build()
+                if hasattr(build_homepage, 'build_all_pages'):
+                    build_homepage.build_all_pages()
+            build_listing_pages()
+            log.info("🏗️  Homepage and listing pages rebuilt.")
+        except Exception as e:
+            log.warning(f"Rebuild warning: {e}")
 
-    if pages_to_fix:
-        fixed_count, fixed_pages = process_batch(pages_to_fix, fixed_pages)
-        save_fixed_pages(fixed_pages)
+        try:
+            generate_search_index.generate()
+            log.info("🔍 Search index updated.")
+        except Exception as e:
+            log.warning(f"Search index warning: {e}")
 
-        fixed_ids = {str(p['tmdb_id']) for p in fixed_pages}
-        remaining = len([p for p in pages_to_fix if str(p['tmdb_id']) not in fixed_ids])
-        log.info("=" * 60)
-        log.info(f"📈 Fix Statistics:")
-        log.info(f"   ✅ Fixed in this run: {fixed_count}")
-        log.info(f"   📊 Total fixed: {len(fixed_pages)}")
-        log.info(f"   ⏳ Remaining to fix: {remaining}")
-    else:
-        log.info("✅ All pages are complete and compliant!")
+        try:
+            from generate_full_sitemap import generate_sitemaps
+            generate_sitemaps()
+            log.info("🗺️  Sitemaps regenerated.")
+        except Exception as e:
+            log.warning(f"Sitemap warning: {e}")
+
+        git_sync = os.path.join(BASE_PATH, 'git_sync.sh')
+        if os.path.exists(git_sync):
+            try:
+                subprocess.run(['bash', git_sync], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            except Exception:
+                pass
 
     log.info("\n" + "=" * 60)
-    log.info("✅ Bot run complete!")
+    log.info("✅ Trending Bot run complete!")
     log.info("=" * 60)
 
 
