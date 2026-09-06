@@ -27,6 +27,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
 log = logging.getLogger(__name__)
 
 from mega_bot import get_tmdb_data, fetch_details, create_page, submit_to_bing_indexnow, build_listing_pages
+from google_indexer import index_new_page
+from googletrans import Translator
 import generate_search_index
 
 try:
@@ -59,6 +61,14 @@ def check_page_exists(tmdb_id):
     return os.path.exists(json_path)
 
 
+def translate_to_arabic(text):
+    """ترجمة نص من الإنجليزية للعربية."""
+    try:
+        translator = Translator()
+        result = translator.translate(text, src='en', dest='ar')
+        return result.text
+    except:
+        return text
 def fetch_trending(media_type, min_popularity=40, min_rating=7.0, min_votes=2):
     """جلب التريند اليومي من TMDB مع فلترة."""
     log.info(f"🔥 Fetching trending {media_type}...")
@@ -91,6 +101,8 @@ def fetch_trending(media_type, min_popularity=40, min_rating=7.0, min_votes=2):
             'votes': votes
         })
 
+    for item in results:
+        item['title_ar'] = translate_to_arabic(item['title'])
     log.info(f"   Found {len(results)} trending {media_type} items (filtered)")
     return results
 
@@ -131,7 +143,7 @@ def main():
     for i, item in enumerate(batch):
         tmdb_id = item['tmdb_id']
         media_type = item['media_type']
-        title = item['title']
+        title = item.get('title_ar') or item['title']
 
         log.info(f"[{i+1}/{len(batch)}] 📥 {media_type.upper()} ID: {tmdb_id} - {title}")
 
@@ -152,8 +164,10 @@ def main():
                 try:
                     full_url = f"https://tomit.click/{page_path}"
                     submit_to_bing_indexnow(full_url)
+                    google_status = index_new_page(full_url)
+                    log.info(f"   📡 Google: {google_status}")
                 except Exception as e:
-                    log.warning(f"   ⚠️ IndexNow failed: {e}")
+                    log.warning(f"   ⚠️ Indexing failed: {e}")
             else:
                 log.warning(f"   ❌ AI generation failed for {title}")
 

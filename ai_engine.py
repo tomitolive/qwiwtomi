@@ -505,8 +505,20 @@ BOT_MISSIONS = [
     }
 ]
 
-# Multi-Provider AI Models Configuration (OpenAI + NVIDIA NIM Keys Rotation)
+# Multi-Provider AI Models Configuration (Gemini + OpenAI + NVIDIA NIM Rotation)
+# API keys loaded from environment variables
+NVIDIA_NIM_KEY_1 = os.getenv("NVIDIA_NIM_KEY_1")
+NVIDIA_NIM_KEY_2 = os.getenv("NVIDIA_NIM_KEY_2")
+NVIDIA_NIM_KEY_3 = os.getenv("NVIDIA_NIM_KEY_3")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
 AI_MODELS = [
+    {
+        "name": "Gemini 3.6 Flash",
+        "url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+        "model_id": "gemini-3.6-flash",
+        "api_key": GEMINI_API_KEY
+    },
     {
         "name": "OpenAI (GPT-3.5)",
         "url": "https://api.openai.com/v1/chat/completions",
@@ -517,19 +529,19 @@ AI_MODELS = [
         "name": "NVIDIA NIM Key 1 (Llama 3.1)",
         "url": "https://integrate.api.nvidia.com/v1/chat/completions",
         "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": "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"
+        "api_key": NVIDIA_NIM_KEY_1
     },
     {
         "name": "NVIDIA NIM Key 2 (Llama 3.1)",
         "url": "https://integrate.api.nvidia.com/v1/chat/completions",
         "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": "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"
+        "api_key": NVIDIA_NIM_KEY_2
     },
     {
         "name": "NVIDIA NIM Key 3 (Llama 3.1)",
         "url": "https://integrate.api.nvidia.com/v1/chat/completions",
         "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": "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"
+        "api_key": NVIDIA_NIM_KEY_3
     }
 ]
 
