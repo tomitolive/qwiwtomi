@@ -119,7 +119,7 @@ export default async function MoviePage({ params }: Props) {
     local?.title ||
     "";
   const displayTitle = formatBilingualTitle(titleAr, titleEn);
-  const overview = data.overview || ai?.desc_ar || "";
+  const overview = ai?.desc_ar || data.overview || "";
   const extraDesc = ai?.desc_ar && data.overview && ai.desc_ar.length > 30 && !ai.desc_ar.startsWith("مشاهدة وتحميل") ? ai.desc_ar : null;
   const year = (data.release_date || "2026").substring(0, 4);
   const rating = data.vote_average?.toFixed(1);

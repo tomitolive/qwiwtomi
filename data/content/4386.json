@@ -35,10 +35,22 @@
     "opinion_en": "Baywatch is a thrilling ride from start to finish. The iconic lifeguards and their adventures will keep you engaged. A must-watch for action and drama lovers!",
     "faq": [
       {
-        "q": "هل بايواتش مسلسل قديم؟",
-        "a": "نعم، بايواتش مسلسل قديم بدأ عرضه في عام 1989 واستمر لسنوات عديدة.",
-        "q_en": "Is Baywatch an old series?",
-        "a_en": "Yes, Baywatch is an iconic series that started in 1989 and ran for many years."
+        "q": "ما هو مسلسل Baywatch؟",
+        "a": "مسلسل Baywatch (1989) عمل فني رائع يستحق المشاهدة.",
+        "q_en": "What is Baywatch?",
+        "a_en": "Baywatch (1989) is a wonderful piece of work worth watching."
+      },
+      {
+        "q": "كيف يمكنني مشاهدة مسلسل Baywatch؟",
+        "a": "يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+        "q_en": "How can I watch Baywatch?",
+        "a_en": "You can watch it with full translation and in high quality directly on the Tomito website."
+      },
+      {
+        "q": "هل مشاهدة Baywatch مجانية؟",
+        "a": "نعم، يمكنك مشاهدة مسلسل Baywatch مجاناً على توميتو بدون إعلانات.",
+        "q_en": "Is watching Baywatch free?",
+        "a_en": "Yes, you can watch Baywatch for free on Tomito without ads."
       }
     ],
     "keywords": "بايواتش, Baywatch, مسلسل, حركة, مغامرة, دراما, جريمة, حراس الشواطئ, شواطئ, إثارة"

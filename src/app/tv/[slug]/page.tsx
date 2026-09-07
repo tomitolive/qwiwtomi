@@ -99,7 +99,7 @@ export default async function TVPage({ params }: Props) {
     local?.title ||
     "";
   const displayTitle = formatBilingualTitle(titleAr, titleEn);
-  const overview = data.overview || ai?.desc_ar || "";
+  const overview = ai?.desc_ar || data.overview || "";
   const extraDesc = ai?.desc_ar && data.overview && ai.desc_ar.length > 30 && !ai.desc_ar.startsWith("مشاهدة وتحميل") ? ai.desc_ar : null;
   const year = (
     data.release_date ||

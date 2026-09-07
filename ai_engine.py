@@ -716,6 +716,80 @@ def fetch_trending(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
     return []
 
 
+def fetch_popular(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
+    """Fetch popular content from TMDB (What's Popular), excluding existing content and adult content."""
+    available_ids = available_ids or set()
+    log.info(f"🌟 Fetching popular {media_type} (What's Popular)...")
+    
+    lgbt_keywords = "210024,9799,10769,158718,10850,3656,11466,10777,10886,161176,145330"
+    adult_genres = "299697,299696"
+    
+    endpoint = f"{media_type}/popular"
+    popular_items = []
+    
+    for page in range(1, 6):
+        params = {
+            'api_key': tmdb_api_key,
+            'page': page,
+            'region': 'US',
+            'without_keywords': lgbt_keywords,
+            'without_genres': adult_genres,
+            'include_adult': 'false'
+        }
+        
+        try:
+            response = requests.get(f"{TMDB_BASE_URL}/{endpoint}", params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                if 'results' in data and len(data['results']) > 0:
+                    for item in data['results']:
+                        tid = item.get('id')
+                        if tid in available_ids:
+                            continue
+                        
+                        title = item.get('title') or item.get('name')
+                        overview = item.get('overview', '')
+                        
+                        if is_adult_content(title, overview):
+                            log.warning(f"🚫 Skipping adult content: {title} (ID: {tid})")
+                            continue
+                        
+                        poster = item.get('poster_path')
+                        year = (item.get('release_date') or item.get('first_air_date') or "")[:4]
+                        rating = round(item.get('vote_average', 0), 1)
+                        
+                        folder = 'movie' if media_type == 'movie' else 'tv'
+                        
+                        def clean_slug_popular(text):
+                            res = re.sub(r'[^\w\s-]', '', text).strip().lower()
+                            res = re.sub(r'[-\s_]+', '-', res)
+                            return res
+                        
+                        slug = f"{tid}-{clean_slug_popular(title)}"
+                        
+                        popular_items.append({
+                            'tmdb_id': tid,
+                            'title': title,
+                            'poster': poster,
+                            'year': year,
+                            'rating': rating,
+                            'folder': folder,
+                            'slug': slug
+                        })
+                        
+                        if len(popular_items) >= 3:
+                            log.info(f"✅ Found {len(popular_items)} popular {media_type} items")
+                            return popular_items
+        except Exception as e:
+            log.error(f"Error fetching popular {media_type} page {page}: {e}")
+    
+    if popular_items:
+        return popular_items
+    
+    log.warning(f"⚠️ No new popular {media_type} found")
+    return []
+
+
 def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids=None):
     """Fetch one random movie/tv with rating >= 7.5 from US region, excluding existing content, LGBTQ+, and adult content."""
     available_ids = available_ids or set()
@@ -1407,34 +1481,46 @@ def get_rising_seo_tags(subject_name, media_type='movie', year='2026', genres_ar
     return intents
 
 
-def generate_faq(title_ar, title_en, year, media_type, ai_data=None):
+def generate_faq(title_ar, title_en, year, media_type, ai_data=None, overview='', genres_ar=None):
     """Generate FAQ section for content."""
     media_label_ar = "فيلم" if media_type == 'movie' else "مسلسل"
+    genres_str = ", ".join(genres_ar) if isinstance(genres_ar, list) else ""
     
     # If AI data contains faq, use it
     if ai_data and 'faq' in ai_data:
         return ai_data['faq']
     
+    # Generate specific FAQ based on available data
+    overview_snippet = ""
+    if overview:
+        overview_snippet = overview[:150].rstrip() + "..." if len(overview) > 150 else overview
+    else:
+        overview_snippet = f"يقدم {media_label_ar} {title_ar} تجربة مشاهدة مميزة."
+    
     faq = [
         {
             "q": f"ما هو {media_label_ar} {title_ar}؟",
-            "a": f"{media_label_ar} {title_ar} ({year}) عمل فني رائع يستحق المشاهدة.",
+            "a": f"{media_label_ar} {title_ar} ({year}) {overview_snippet}",
             "q_en": f"What is {title_en}?",
-            "a_en": f"{title_en} ({year}) is a wonderful piece of work worth watching."
+            "a_en": f"{title_en} ({year}) is a {media_type} that {overview_snippet[:100]}"
         },
         {
             "q": f"كيف يمكنني مشاهدة {media_label_ar} {title_ar}؟",
-            "a": f"يمكنك مشاهدته مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو.",
+            "a": f"يمكنك مشاهدة {media_label_ar} {title_ar} مترجماً بالكامل وبجودة عالية مباشرة على موقع توميتو. جميع الحلقات متاحة بدون إعلانات.",
             "q_en": f"How can I watch {title_en}?",
-            "a_en": f"You can watch it with full translation and in high quality directly on the Tomito website."
+            "a_en": f"You can watch {title_en} fully translated in high quality directly on the Tomito website. All episodes are available without ads."
         },
         {
             "q": f"هل مشاهدة {title_ar} مجانية؟",
-            "a": f"نعم، يمكنك مشاهدة {media_label_ar} {title_ar} مجاناً على توميتو بدون إعلانات.",
+            "a": f"نعم، يمكنك مشاهدة {media_label_ar} {title_ar} مجاناً على توميتو بدون إعلانات مزعجة. الجودة المتاحة HD و 1080p.",
             "q_en": f"Is watching {title_en} free?",
-            "a_en": f"Yes, you can watch {title_en} for free on Tomito without ads."
+            "a_en": f"Yes, you can watch {title_en} for free on Tomito without annoying ads. Available in HD and 1080p quality."
         }
     ]
+    
+    if genres_str:
+        faq[0]["a"] += f" يندرج تحت تصنيف {genres_str}."
+        faq[0]["a_en"] += f" It falls under the {genres_str} genre."
     
     return faq
 
