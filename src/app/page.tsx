@@ -5,8 +5,9 @@ import NewAd from "@/components/NewAd";
 import { Metadata } from "next";
 import Script from "next/script";
 import dynamic from "next/dynamic";
+import fs from "fs";
+import path from "path";
 import PosterImg from "@/components/PosterImg";
-import { getDataClient } from "@/lib/supabase";
 
 // Dynamic import for HeroCarousel to reduce initial JS bundle
 const HeroCarousel = dynamic(() => import("@/components/HeroCarousel"), {
@@ -192,15 +193,18 @@ function SidebarItem({ item, getLink, getAlt, getPoster }: any) {
   );
 }
 
-async function getCarouselData() {
-  const sb = getDataClient();
-  const { data, error } = await sb
-    .from("carousel")
-    .select("*")
-    .order("id", { ascending: true });
-
-  if (error || !data || data.length === 0) return [];
-  return data;
+function getCarouselData() {
+  try {
+    const carouselFilePath = path.join(process.cwd(), "data", "carousel_data.json");
+    if (fs.existsSync(carouselFilePath)) {
+      const rawData = fs.readFileSync(carouselFilePath, "utf-8");
+      return JSON.parse(rawData);
+    }
+    return [];
+  } catch (error) {
+    console.error("Error loading carousel data:", error);
+    return [];
+  }
 }
 
 async function enrichCarouselWithLiveRatings(carouselItems: any[]) {
@@ -232,11 +236,12 @@ export default async function Home() {
   const locale = cookieStore.get("NEXT_LOCALE")?.value || "ar";
   const t = pageTranslations[locale] || pageTranslations.ar;
 
-  const localContent = (await getHomeContent()).slice(0, 400);
-  const carouselData = await getCarouselData();
+  // Load only the newest 400 items — enough to fill all sections without serializing the full 2701-item dataset
+  const localContent = getHomeContent().slice(0, 400);
+  const carouselData = getCarouselData();
   const enrichedCarouselData = await enrichCarouselWithLiveRatings(carouselData);
 
-  const sortedAll = localContent;
+  const sortedAll = localContent; // Already sorted by timestamp in getHomeContent()
 
   const movies = sortedAll.filter((item: any) => item.folder === 'movie');
   const series = sortedAll.filter((item: any) => item.folder === 'tv');
@@ -260,8 +265,15 @@ export default async function Home() {
   const SIDEBAR_LIMIT = 7;
   const GRID_LIMIT = 18;
 
+  // Slice early — only pass what will actually be rendered to avoid bloating RSC payload
   const allMovies = movies.slice(0, WIDE_LIMIT);
   const allSeries = series.slice(0, SIDEBAR_LIMIT);
+
+  // TMDB Genre IDs Mapping:
+  // Action (حركة): 28 | Adventure (مغامرة): 12 | Animation (رسوم متحركة): 16 | Comedy (كوميديا): 35
+  // Crime (جريمة): 80 | Drama (دراما): 18 | Family (عائلي): 10751 | Fantasy (فانتازيا): 14
+  // History (تاريخ): 36 | Horror (رعب): 27 | Mystery (غموض): 9648 | Romance (رومنسية): 10749
+  // Science Fiction (خيال علمي): 878 | Thriller (إثارة): 53 | War (حرب): 10752
 
   const actionMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('حركة') || m.genre_ids?.includes(28)).slice(0, WIDE_LIMIT);
   const horrorMovies = [...movies, ...series].filter((m: any) => m.genres?.includes('رعب') || m.genre_ids?.includes(27)).slice(0, SIDEBAR_LIMIT);
@@ -281,6 +293,7 @@ export default async function Home() {
     { title: "تاريخ وحرب", items: movies.filter((m: any) => m.genres?.includes('تاريخ') || m.genres?.includes('حرب') || m.genre_ids?.includes(36) || m.genre_ids?.includes(10752)).slice(0, GRID_LIMIT), link: "/movie" },
   ].filter(s => s.items.length > 0);
 
+  // Helpers
   const getPoster = (item: any) => {
     if (item.poster && item.poster !== '') return item.poster.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500');
     if (item.poster_path) return `/t/p/w500${item.poster_path}`;
@@ -320,12 +333,12 @@ export default async function Home() {
       />
 
 
-      {/* HERO CAROUSEL */}
+      {/* ═══════ HERO CAROUSEL (New Full-Screen with YouTube Trailer) ═══════ */}
       {enrichedCarouselData.length > 0 && (
         <HeroCarousel items={enrichedCarouselData} locale={locale} />
       )}
 
-      {/* NEWS BAR */}
+      {/* ═══════ NEWS BAR ═══════ */}
       <div className="tc-news-bar">
         <div className="tc-news-bar-inner">
           <div className="tc-news-content">
@@ -346,7 +359,7 @@ export default async function Home() {
       </div>
 
 
-      {/* SECTION 1: جميع الأفلام + جميع المسلسلات */}
+      {/* ═══════ SECTION 1: جميع الأفلام + جميع المسلسلات (Sidebar) ═══════ */}
       <section className="tc-two-section">
         <div className="tc-container">
           <div className="tc-wide">
@@ -379,7 +392,7 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* SECTION 2: أكشن وإثارة + رعب وإثارة */}
+      {/* ═══════ SECTION 2: أكشن وإثارة + رعب وإثارة (Reversed) ═══════ */}
       <section className="tc-two-section tc-reversed">
         <div className="tc-container">
           <aside className="tc-sidebar">
@@ -412,7 +425,7 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* FULL-WIDTH SECTIONS */}
+      {/* ═══════ FULL-WIDTH SECTIONS (Dynamic mapped from original categories) ═══════ */}
       {fullSections.map((section, idx) => (
         <section key={idx} className="tc-full-section">
           <div className="tc-container">

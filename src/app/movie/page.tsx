@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function MoviePage() {
-  const items = await getContentByType("movie");
+  const items = getContentByType("movie");
 
   return (
     <div className="bg-background text-foreground min-h-screen pt-32 pb-24 relative overflow-hidden">

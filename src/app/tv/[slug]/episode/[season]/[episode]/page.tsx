@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import Script from "next/script";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Navbar from "@/components/Navbar";
-import { getDataClient } from "@/lib/supabase";
 
 interface Props {
   params: Promise<{
@@ -20,58 +19,33 @@ function parseId(slug: string) {
 }
 
 async function getEpisodeData(seriesId: string, season: string, episode: string) {
-  const sb = getDataClient();
-  const seasonNum = parseInt(season);
-  const episodeNum = parseInt(episode);
-
-  const { data: series, error: seriesError } = await sb
-    .from("content")
-    .select("tmdb_id, title, title_ar, title_en, ai_content, seasons")
-    .eq("tmdb_id", Number(seriesId))
-    .single();
-
-  if (seriesError || !series) return null;
-
-  const seasons = series.seasons || [];
-  const seasonData = seasons.find((s: any) => s.season_number === seasonNum);
-  if (!seasonData) return null;
-
-  const episodes = seasonData.episodes || [];
-  const episodeData = episodes.find((e: any) => e.episode_number === episodeNum);
-
-  return {
-    series_title: series.title_ar || series.title,
-    episode_title: episodeData?.name || `الحلقة ${episode}`,
-    air_date: episodeData?.air_date || "",
-    overview: episodeData?.overview || "",
-    still_path: episodeData?.still_path || "",
-    ai_content: series.ai_content || {},
-  };
+  const fs = require('fs').promises;
+  const path = require('path');
+  
+  const episodeDir = path.join(process.cwd(), 'data', 'episodes');
+  const filename = `${seriesId}_s${season}_e${episode}.json`;
+  const filepath = path.join(episodeDir, filename);
+  
+  try {
+    const data = await fs.readFile(filepath, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
+    return null;
+  }
 }
 
 async function getSeriesData(seriesId: string) {
-  const sb = getDataClient();
-  const { data, error } = await sb
-    .from("content")
-    .select("*")
-    .eq("tmdb_id", Number(seriesId))
-    .single();
-
-  if (error || !data) return null;
-
-  return {
-    id: data.tmdb_id,
-    title: data.title || "",
-    title_ar: data.title_ar || "",
-    title_en: data.title_en || "",
-    poster_path: data.poster_path || "",
-    backdrop_path: data.backdrop_path || "",
-    overview: data.overview || "",
-    genres: data.genres || [],
-    seasons: data.seasons || [],
-    number_of_seasons: data.number_of_seasons,
-    ai_content: data.ai_content || {},
-  };
+  const fs = require('fs').promises;
+  const path = require('path');
+  
+  const seriesPath = path.join(process.cwd(), 'data', 'content', `${seriesId}.json`);
+  
+  try {
+    const data = await fs.readFile(seriesPath, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
+    return null;
+  }
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -84,6 +58,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const ai = episodeData.ai_content;
   const titleAr = ai?.seo_title_ar || `الحلقة ${episode} الموسم ${season}`;
+  const titleEn = ai?.seo_title_en || `Episode ${episode} Season ${season}`;
   const desc = ai?.meta_desc || episodeData.overview || "";
 
   return {
@@ -111,7 +86,7 @@ export default async function EpisodePage({ params }: Props) {
   const seriesTitle = episodeData.series_title;
   const episodeTitle = episodeData.episode_title;
   const displayTitle = `${seriesTitle} - S${season}E${episode} - ${episodeTitle}`;
-
+  
   const poster = seriesData?.poster_path ? `/t/p/w500${seriesData.poster_path}` : "";
   const backdrop = seriesData?.backdrop_path ? `/t/p/original${seriesData.backdrop_path}` : "";
   const still = episodeData.still_path ? `/t/p/w780${episodeData.still_path}` : poster;
@@ -155,7 +130,7 @@ export default async function EpisodePage({ params }: Props) {
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent" />
           </div>
         )}
-
+        
         <div className="relative z-10 container mx-auto h-full flex items-end pb-8 px-4 md:px-6">
           <div className="w-full">
             <h1 className="text-2xl md:text-4xl font-extrabold tracking-wider text-white mb-2">
@@ -200,7 +175,7 @@ export default async function EpisodePage({ params }: Props) {
             </svg>
             محتوى الحلقة
           </h2>
-
+          
           <div className="space-y-6">
             {/* Intro */}
             {ai?.intro && (
@@ -208,7 +183,7 @@ export default async function EpisodePage({ params }: Props) {
                 {ai.intro}
               </p>
             )}
-
+            
             {/* Arabic Description */}
             {ai?.desc_ar && (
               <div>
@@ -218,7 +193,7 @@ export default async function EpisodePage({ params }: Props) {
                 </p>
               </div>
             )}
-
+            
             {/* English Description */}
             {ai?.desc_en && (
               <div className="mt-4 pt-4 border-t border-zinc-700">
@@ -228,7 +203,7 @@ export default async function EpisodePage({ params }: Props) {
                 </p>
               </div>
             )}
-
+            
             {/* Opinion Arabic */}
             {ai?.opinion_ar && (
               <div className="mt-4 pt-4 border-t border-zinc-700">
@@ -238,7 +213,7 @@ export default async function EpisodePage({ params }: Props) {
                 </p>
               </div>
             )}
-
+            
             {/* Opinion English */}
             {ai?.opinion_en && (
               <div className="mt-4 pt-4 border-t border-zinc-700">
@@ -248,7 +223,7 @@ export default async function EpisodePage({ params }: Props) {
                 </p>
               </div>
             )}
-
+            
             {/* Outro */}
             {ai?.outro && (
               <div className="mt-4 pt-4 border-t border-zinc-700">
@@ -257,7 +232,7 @@ export default async function EpisodePage({ params }: Props) {
                 </p>
               </div>
             )}
-
+            
             {/* Keywords */}
             {ai?.keywords && (
               <div className="mt-4 pt-4 border-t border-zinc-700">
@@ -291,7 +266,7 @@ export default async function EpisodePage({ params }: Props) {
                   {/* Arabic FAQ */}
                   <h3 className="text-white font-semibold mb-2">{item.q}</h3>
                   <p className="text-gray-300 text-sm leading-relaxed mb-3">{item.a}</p>
-
+                  
                   {/* English FAQ */}
                   {item.q_en && item.a_en && (
                     <div className="bg-zinc-800/30 rounded p-3 mt-2 border border-zinc-700/50" dir="ltr">

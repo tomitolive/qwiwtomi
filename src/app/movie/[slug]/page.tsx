@@ -96,11 +96,11 @@ export default async function MoviePage({ params }: Props) {
 
   // Local similar movies from our own database (no TMDB external calls)
   // Reduced from 40 to 20 to improve performance
-  const localSimilar = await getLocalSimilar(id!, genreIds, "movie", 20);
+  const localSimilar = getLocalSimilar(id!, genreIds, "movie", 20);
 
   // Random mix: 5 movies + 5 tv for the mix carousel
-  const allMovies = (await getContentByType('movie')).filter(m => String(m.tmdb_id) !== id);
-  const allTv = await getContentByType('tv');
+  const allMovies = getContentByType('movie').filter(m => String(m.tmdb_id) !== id);
+  const allTv = getContentByType('tv');
   const shuffle = <T,>(arr: T[]) => {
     const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a;
   };

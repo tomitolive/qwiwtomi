@@ -1,0 +1,1264 @@
+{
+  "pages_to_clean": [
+    {
+      "tmdb_id": 292516,
+      "media_type": "tv",
+      "title": "تذكر الحب",
+      "file": "292516.json",
+      "issues": [
+        "outro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 80752,
+      "media_type": "tv",
+      "title": "See",
+      "file": "80752.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 72350,
+      "media_type": "tv",
+      "title": "قصص بطوطية الجديدة",
+      "file": "72350.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 209112,
+      "media_type": "movie",
+      "title": "باتمان ضد سوبرمان: فجر العدالة",
+      "file": "209112.json",
+      "issues": [
+        "outro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 901362,
+      "media_type": "movie",
+      "title": "ترولز 3 يتحدون معا",
+      "file": "901362.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 117067,
+      "media_type": "tv",
+      "title": "KinnPorsche: The Series",
+      "file": "117067.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 27753,
+      "media_type": "tv",
+      "title": "Toshiie and Matsu",
+      "file": "27753.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 192904,
+      "media_type": "movie",
+      "title": "Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey",
+      "file": "192904.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 972545,
+      "media_type": "movie",
+      "title": "Good Night Oppy",
+      "file": "972545.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 502356,
+      "media_type": "movie",
+      "title": "فيلم الأخوان ماريو الخارقان",
+      "file": "502356.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 47035,
+      "media_type": "tv",
+      "title": "Uncle Grandpa",
+      "file": "47035.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 47,
+      "media_type": "tv",
+      "title": "El Chavo del Ocho",
+      "file": "47.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "outro: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 1246049,
+      "media_type": "movie",
+      "title": "Dracula",
+      "file": "1246049.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 4018,
+      "media_type": "tv",
+      "title": "Quantum Leap",
+      "file": "4018.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 18305,
+      "media_type": "movie",
+      "title": "2",
+      "file": "18305.json",
+      "issues": [
+        "meta_desc: Cyrillic",
+        "meta_desc: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 43982,
+      "media_type": "tv",
+      "title": "خط الواجب",
+      "file": "43982.json",
+      "issues": [
+        "desc_ar: Greek"
+      ]
+    },
+    {
+      "tmdb_id": 1456349,
+      "media_type": "movie",
+      "title": "Un simple accident",
+      "file": "1456349.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 1322752,
+      "media_type": "movie",
+      "title": "COLORFUL STAGE! The Movie: A Miku Who Cant Sing",
+      "file": "1322752.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 19530,
+      "media_type": "tv",
+      "title": "Pili",
+      "file": "19530.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 202555,
+      "media_type": "tv",
+      "title": "ديرديفل: يولد من جديد",
+      "file": "202555.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 41727,
+      "media_type": "tv",
+      "title": "بانشي",
+      "file": "41727.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 211387,
+      "media_type": "movie",
+      "title": "Marvel One-Shot: Agent Carter",
+      "file": "211387.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 514754,
+      "media_type": "movie",
+      "title": "Bao",
+      "file": "514754.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 202998,
+      "media_type": "tv",
+      "title": "Star Wars: Young Jedi Adventures",
+      "file": "202998.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1396965,
+      "media_type": "movie",
+      "title": "المحقق كونان: فلاش باك ذو العين الواحدة",
+      "file": "1396965.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 1429348,
+      "media_type": "movie",
+      "title": "Ltranger",
+      "file": "1429348.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 34891,
+      "media_type": "tv",
+      "title": "Jake and the Never Land Pirates",
+      "file": "34891.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 206559,
+      "media_type": "tv",
+      "title": "Binnelanders",
+      "file": "206559.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 605,
+      "media_type": "tv",
+      "title": "Sabrina, the Teenage Witch",
+      "file": "605.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "intro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 223397,
+      "media_type": "tv",
+      "title": "Cidade de Deus: A Luta No Para",
+      "file": "223397.json",
+      "issues": [
+        "seo_title_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 2343,
+      "media_type": "tv",
+      "title": "Lewis",
+      "file": "2343.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 67395,
+      "media_type": "movie",
+      "title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
+      "file": "67395.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 47318,
+      "media_type": "tv",
+      "title": "Graceland",
+      "file": "47318.json",
+      "issues": [
+        "outro: Greek"
+      ]
+    },
+    {
+      "tmdb_id": 106449,
+      "media_type": "tv",
+      "title": "A Record of a Mortals Journey to Immortality",
+      "file": "106449.json",
+      "issues": [
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 3134,
+      "media_type": "movie",
+      "title": "Baise-moi",
+      "file": "3134.json",
+      "issues": [
+        "desc_ar: Hindi",
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 9281,
+      "media_type": "movie",
+      "title": "Witness",
+      "file": "9281.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 11782,
+      "media_type": "movie",
+      "title": "Hard Boiled",
+      "file": "11782.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 37135,
+      "media_type": "movie",
+      "title": "طرزان",
+      "file": "37135.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 58981,
+      "media_type": "tv",
+      "title": "The Thundermans",
+      "file": "58981.json",
+      "issues": [
+        "outro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1088434,
+      "media_type": "movie",
+      "title": "Hellfire",
+      "file": "1088434.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 2617,
+      "media_type": "tv",
+      "title": "Step by Step",
+      "file": "2617.json",
+      "issues": [
+        "meta_desc: CJK",
+        "seo_title_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 106227,
+      "media_type": "tv",
+      "title": "Cross Fire",
+      "file": "106227.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1280738,
+      "media_type": "movie",
+      "title": "The Furious",
+      "file": "1280738.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 734,
+      "media_type": "tv",
+      "title": "Magnum, P.I.",
+      "file": "734.json",
+      "issues": [
+        "desc_ar: Greek"
+      ]
+    },
+    {
+      "tmdb_id": 400155,
+      "media_type": "movie",
+      "title": "فندق ترانسلفانيا 3 إجازة صيفية",
+      "file": "400155.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 4743,
+      "media_type": "tv",
+      "title": "El internado",
+      "file": "4743.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 42830,
+      "media_type": "tv",
+      "title": "Moribito: Guardian of the Spirit",
+      "file": "42830.json",
+      "issues": [
+        "meta_desc: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 6844,
+      "media_type": "movie",
+      "title": "The Ten Commandments",
+      "file": "6844.json",
+      "issues": [
+        "meta_desc: CJK",
+        "seo_title_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 29667,
+      "media_type": "tv",
+      "title": "Groland",
+      "file": "29667.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 13576,
+      "media_type": "movie",
+      "title": "This Is It",
+      "file": "13576.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 5618,
+      "media_type": "movie",
+      "title": "Cousin, Cousine",
+      "file": "5618.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 99312,
+      "media_type": "tv",
+      "title": "El da menos pensado",
+      "file": "99312.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 1368166,
+      "media_type": "movie",
+      "title": "الخادمة",
+      "file": "1368166.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 37363,
+      "media_type": "tv",
+      "title": "Braquo",
+      "file": "37363.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 245026,
+      "media_type": "tv",
+      "title": "Wizards Beyond Waverly Place",
+      "file": "245026.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 911916,
+      "media_type": "movie",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "file": "911916.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 71694,
+      "media_type": "tv",
+      "title": "Snowfall",
+      "file": "71694.json",
+      "issues": [
+        "desc_ar: CJK",
+        "seo_title_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 59,
+      "media_type": "movie",
+      "title": "A History of Violence",
+      "file": "59.json",
+      "issues": [
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1242898,
+      "media_type": "movie",
+      "title": "المفترس: الأراضي القاحلة",
+      "file": "1242898.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 120,
+      "media_type": "movie",
+      "title": "سيد الخواتم: رفقة الخاتم",
+      "file": "120.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 61565,
+      "media_type": "tv",
+      "title": "The Brokenwood Mysteries",
+      "file": "61565.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 1607,
+      "media_type": "movie",
+      "title": "A Bronx Tale",
+      "file": "1607.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 8988,
+      "media_type": "tv",
+      "title": "Huset p Christianshavn",
+      "file": "8988.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 2345,
+      "media_type": "tv",
+      "title": "دامو ستحيل",
+      "file": "2345.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 46004,
+      "media_type": "tv",
+      "title": "Date A Live",
+      "file": "46004.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 11174,
+      "media_type": "tv",
+      "title": "The Professionals",
+      "file": "11174.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 431,
+      "media_type": "movie",
+      "title": "مكعب",
+      "file": "431.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 278275,
+      "media_type": "tv",
+      "title": "Veil of Shadows",
+      "file": "278275.json",
+      "issues": [
+        "meta_desc: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 3828,
+      "media_type": "tv",
+      "title": "Hill Street Blues",
+      "file": "3828.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 55358,
+      "media_type": "tv",
+      "title": "Mini Adventures of Winnie the Pooh",
+      "file": "55358.json",
+      "issues": [
+        "intro: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 62871,
+      "media_type": "movie",
+      "title": "Quartier Lointain",
+      "file": "62871.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 1532,
+      "media_type": "tv",
+      "title": "Starsky Hutch",
+      "file": "1532.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 389,
+      "media_type": "movie",
+      "title": "١٢ رجلا غاضبا",
+      "file": "389.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 601666,
+      "media_type": "movie",
+      "title": "I Care a Lot",
+      "file": "601666.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 4357,
+      "media_type": "tv",
+      "title": "Mission: Impossible",
+      "file": "4357.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 760517,
+      "media_type": "movie",
+      "title": "Love and Leashes",
+      "file": "760517.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 120409,
+      "media_type": "tv",
+      "title": "Kishiryu Sentai Ryusoulger",
+      "file": "120409.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 14359,
+      "media_type": "movie",
+      "title": "Doubt",
+      "file": "14359.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 2261,
+      "media_type": "tv",
+      "title": "The Tonight Show Starring Johnny Carson",
+      "file": "2261.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 31692,
+      "media_type": "tv",
+      "title": "KURAU Phantom Memory",
+      "file": "31692.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1526650,
+      "media_type": "movie",
+      "title": "Mudborn",
+      "file": "1526650.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 202284,
+      "media_type": "tv",
+      "title": "Ninja Kamui",
+      "file": "202284.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 42009,
+      "media_type": "tv",
+      "title": "Black Mirror",
+      "file": "42009.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 976573,
+      "media_type": "movie",
+      "title": "مدينة العناصر",
+      "file": "976573.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 41956,
+      "media_type": "tv",
+      "title": "Death in Paradise",
+      "file": "41956.json",
+      "issues": [
+        "seo_title_ar: Cyrillic",
+        "intro: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 60574,
+      "media_type": "tv",
+      "title": "بيكي بلايندرز",
+      "file": "60574.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 7225,
+      "media_type": "tv",
+      "title": "Merlin",
+      "file": "7225.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 673,
+      "media_type": "movie",
+      "title": "هاري بوتر وسجين أزكابان",
+      "file": "673.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 931285,
+      "media_type": "movie",
+      "title": "مورتال كومبات ٢",
+      "file": "931285.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 42042,
+      "media_type": "tv",
+      "title": "Kaeloo",
+      "file": "42042.json",
+      "issues": [
+        "outro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1020969,
+      "media_type": "movie",
+      "title": "Teddybjrnens Jul",
+      "file": "1020969.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1516,
+      "media_type": "tv",
+      "title": "The A-Team",
+      "file": "1516.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 4630,
+      "media_type": "tv",
+      "title": "أحلام تيمي",
+      "file": "4630.json",
+      "issues": [
+        "intro: CJK",
+        "outro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 67116,
+      "media_type": "tv",
+      "title": "Lethal Weapon",
+      "file": "67116.json",
+      "issues": [
+        "desc_ar: CJK",
+        "meta_desc: Hindi",
+        "seo_title_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 66190,
+      "media_type": "tv",
+      "title": "Marvels Cloak Dagger",
+      "file": "66190.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 54650,
+      "media_type": "tv",
+      "title": "Power",
+      "file": "54650.json",
+      "issues": [
+        "intro: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 4289,
+      "media_type": "tv",
+      "title": "The Secret World of Alex Mack",
+      "file": "4289.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 14161,
+      "media_type": "movie",
+      "title": "2012",
+      "file": "14161.json",
+      "issues": [
+        "desc_en: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 3382,
+      "media_type": "tv",
+      "title": "Charlies Angels",
+      "file": "3382.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 1338,
+      "media_type": "tv",
+      "title": "Alarm fr Cobra 11 - Die Autobahnpolizei",
+      "file": "1338.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 680493,
+      "media_type": "movie",
+      "title": "Return to Silent Hill",
+      "file": "680493.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 12445,
+      "media_type": "movie",
+      "title": "هاري بوتر ومقدسات الموت الجزء الثاني",
+      "file": "12445.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 9016,
+      "media_type": "movie",
+      "title": "كوكب الكنز المفقود",
+      "file": "9016.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 253193,
+      "media_type": "tv",
+      "title": "A Dream Within a Dream",
+      "file": "253193.json",
+      "issues": [
+        "seo_title_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 999136,
+      "media_type": "movie",
+      "title": "Do Not Enter",
+      "file": "999136.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1480790,
+      "media_type": "movie",
+      "title": "The Sin Trade",
+      "file": "1480790.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 66025,
+      "media_type": "tv",
+      "title": "مملكة الحيوان",
+      "file": "66025.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 4771,
+      "media_type": "movie",
+      "title": "Gone Baby Gone",
+      "file": "4771.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 7166,
+      "media_type": "tv",
+      "title": "The Mighty Boosh",
+      "file": "7166.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 801335,
+      "media_type": "movie",
+      "title": "فتاة في القبو",
+      "file": "801335.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 4584,
+      "media_type": "movie",
+      "title": "Sense and Sensibility",
+      "file": "4584.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 8065,
+      "media_type": "movie",
+      "title": "21",
+      "file": "8065.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 2947,
+      "media_type": "tv",
+      "title": "Veep",
+      "file": "2947.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 61387,
+      "media_type": "tv",
+      "title": "NCIS: New Orleans",
+      "file": "61387.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 3744,
+      "media_type": "tv",
+      "title": "بظ يطير وقيادة الكوكب",
+      "file": "3744.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 812,
+      "media_type": "movie",
+      "title": "علاء الدين",
+      "file": "812.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 848116,
+      "media_type": "movie",
+      "title": "Rocky Aur Rani Kii Prem Kahaani",
+      "file": "848116.json",
+      "issues": [
+        "desc_ar: Cyrillic",
+        "meta_desc: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1877,
+      "media_type": "tv",
+      "title": "فارس وفادي",
+      "file": "1877.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 15226,
+      "media_type": "tv",
+      "title": "C.I.D.",
+      "file": "15226.json",
+      "issues": [
+        "desc_ar: Greek"
+      ]
+    },
+    {
+      "tmdb_id": 79622,
+      "media_type": "tv",
+      "title": "Hunters",
+      "file": "79622.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 242931,
+      "media_type": "tv",
+      "title": "Pulang Araw",
+      "file": "242931.json",
+      "issues": [
+        "desc_ar: Hindi",
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 32895,
+      "media_type": "tv",
+      "title": "Rizzoli Isles",
+      "file": "32895.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1620,
+      "media_type": "tv",
+      "title": "CSI: Miami",
+      "file": "1620.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 314,
+      "media_type": "tv",
+      "title": "Star Trek: Enterprise",
+      "file": "314.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 31724,
+      "media_type": "tv",
+      "title": "كود غياس",
+      "file": "31724.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 31766,
+      "media_type": "tv",
+      "title": "Wallander",
+      "file": "31766.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 77236,
+      "media_type": "tv",
+      "title": "A Discovery of Witches",
+      "file": "77236.json",
+      "issues": [
+        "meta_desc: Cyrillic",
+        "seo_title_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 502,
+      "media_type": "tv",
+      "title": "Sesame Street",
+      "file": "502.json",
+      "issues": [
+        "desc_ar: CJK",
+        "meta_desc: CJK",
+        "intro: Greek"
+      ]
+    },
+    {
+      "tmdb_id": 74280,
+      "media_type": "tv",
+      "title": "Hey Duggee",
+      "file": "74280.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 12613,
+      "media_type": "movie",
+      "title": "II MOVIE",
+      "file": "12613.json",
+      "issues": [
+        "desc_ar: Hindi"
+      ]
+    },
+    {
+      "tmdb_id": 63639,
+      "media_type": "tv",
+      "title": "الامتداد",
+      "file": "63639.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 2501,
+      "media_type": "movie",
+      "title": "هوية بورن",
+      "file": "2501.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 34766,
+      "media_type": "tv",
+      "title": "Mad King Granzrt",
+      "file": "34766.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 671,
+      "media_type": "movie",
+      "title": "هاري بوتر وحجر الفيلسوف",
+      "file": "671.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 383498,
+      "media_type": "movie",
+      "title": "ديدبول 2",
+      "file": "383498.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    },
+    {
+      "tmdb_id": 1078605,
+      "media_type": "movie",
+      "title": "أسلحة",
+      "file": "1078605.json",
+      "issues": [
+        "desc_ar: CJK"
+      ]
+    },
+    {
+      "tmdb_id": 858024,
+      "media_type": "movie",
+      "title": "Hamnet",
+      "file": "858024.json",
+      "issues": [
+        "desc_ar: Cyrillic"
+      ]
+    }
+  ],
+  "total": 137,
+  "created_at": "2026-08-09T00:12:00Z"
+}

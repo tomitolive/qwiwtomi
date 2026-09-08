@@ -426,38 +426,6 @@ def main():
             json.dump(all_index, f, ensure_ascii=False, indent=2)
         log.info(f"💾 content_index.json updated ({len(all_index)} entries)")
 
-        # ── Sync full index to Supabase ─────────────────────────────────────
-        try:
-            from supabase_helper import get_sb, content_to_sb_record
-            sb = get_sb()
-            # Batch upsert all entries from the index (for new entries only)
-            new_records = []
-            for entry in all_index:
-                tmdb_id = entry.get('tmdb_id')
-                if tmdb_id:
-                    # Build a minimal record from index entry
-                    record = {
-                        "tmdb_id": int(tmdb_id),
-                        "slug": entry.get("slug", ""),
-                        "title": entry.get("title", ""),
-                        "title_ar": entry.get("title_ar", ""),
-                        "title_en": entry.get("title_en", ""),
-                        "type": entry.get("type", entry.get("folder", "movie")),
-                        "folder": entry.get("folder", "movie"),
-                        "poster": entry.get("poster", ""),
-                        "vote_average": entry.get("rating"),
-                        "genres": entry.get("genres", []),
-                        "genre_ids": entry.get("genre_ids", []),
-                        "timestamp": entry.get("timestamp"),
-                        "fixed": entry.get("fixed", False),
-                    }
-                    new_records.append(record)
-            if new_records:
-                sb.table("content").upsert(new_records).execute()
-                log.info(f"☁️  Supabase index synced ({len(new_records)} entries)")
-        except Exception as e:
-            log.warning(f"⚠️ Supabase sync failed (JSON is saved): {e}")
-
         try:
             if build_homepage:
                 build_homepage.build()

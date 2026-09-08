@@ -1,6 +1,7 @@
 import { Metadata } from "next";
+import fs from "fs";
+import path from "path";
 import { notFound } from "next/navigation";
-import { getDataClient } from "@/lib/supabase";
 
 interface Props {
   params: { slug: string };
@@ -89,27 +90,20 @@ const GENRE_AR: Record<string, string> = {
     "warner-bros": "وارنر براذرز",
 };
 
-async function getGenreData(slug: string): Promise<GenreData | null> {
-  const sb = getDataClient();
-  const { data, error } = await sb
-    .from("genres")
-    .select("name, name_ar, description, items")
-    .eq("slug", slug)
-    .single();
-
-  if (error || !data) return null;
-
-  return {
-    name: data.name || "",
-    name_ar: data.name_ar || "",
-    description: data.description || "",
-    items: data.items || [],
-  };
+function getGenreData(slug: string): GenreData | null {
+  try {
+    const filePath = path.join(process.cwd(), "data", "genre", `${slug}.json`);
+    if (!fs.existsSync(filePath)) return null;
+    const data = fs.readFileSync(filePath, "utf-8");
+    return JSON.parse(data);
+  } catch {
+    return null;
+  }
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const genreData = await getGenreData(slug);
+  const genreData = getGenreData(slug);
   const genreName = genreData?.name_ar || GENRE_AR[slug] || slug;
   return {
     title: `أفلام ومسلسلات ${genreName} — توميتو`,
@@ -119,7 +113,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function GenrePage({ params }: Props) {
   const { slug } = await params;
-  const genreData = await getGenreData(slug);
+  const genreData = getGenreData(slug);
   if (!genreData) notFound();
 
   const genreName = genreData.name_ar || GENRE_AR[slug] || slug;
@@ -127,11 +121,11 @@ export default async function GenrePage({ params }: Props) {
   return (
     <div className="bg-background text-foreground min-h-screen pt-32 pb-24 relative overflow-hidden">
       {/* Background Image */}
-      <div
+      <div 
         className="absolute inset-0 z-0"
-        style={{
-          backgroundImage: 'url(\'/background.jpeg\')',
-          backgroundSize: 'cover',
+        style={{ 
+          backgroundImage: 'url(\'/background.jpeg\')', 
+          backgroundSize: 'cover', 
           backgroundPosition: 'center',
           filter: 'brightness(0.3) saturate(0.7) hue-rotate(220deg) contrast(1.2)',
           opacity: '1.2'

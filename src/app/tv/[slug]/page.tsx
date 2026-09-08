@@ -76,11 +76,11 @@ export default async function TVPage({ params }: Props) {
   const genreIds: number[] = data.genres?.map((g: any) => g.id) || [];
 
   // Local similar TV shows from our own database
-  const localSimilar = await getLocalSimilar(id!, genreIds, "tv", 40);
+  const localSimilar = getLocalSimilar(id!, genreIds, "tv", 40);
 
   // Random mix: 5 movies + 5 tv for the mix carousel
-  const allMovies = await getContentByType('movie');
-  const allTv = (await getContentByType('tv')).filter(t => String(t.tmdb_id) !== id);
+  const allMovies = getContentByType('movie');
+  const allTv = getContentByType('tv').filter(t => String(t.tmdb_id) !== id);
   const shuffle = <T,>(arr: T[]) => {
     const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a;
   };
