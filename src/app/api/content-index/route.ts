@@ -1,30 +1,35 @@
 import { NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
 import { ContentIndexEntry } from "@/lib/content";
+import { getDataClient } from "@/lib/supabase";
 
 export async function GET() {
-  try {
-    const indexPath = path.join(process.cwd(), "data", "content_index.json");
+  const sb = getDataClient();
+  const { data, error } = await sb
+    .from("content")
+    .select("tmdb_id, slug, title, title_ar, title_en, folder, poster, vote_average, release_date, genres, genre_ids, timestamp, fixed")
+    .order("timestamp", { ascending: false })
+    .limit(3000);
 
-    if (!fs.existsSync(indexPath)) {
-      return NextResponse.json([], { status: 200 });
-    }
-
-    const data = fs.readFileSync(indexPath, "utf-8");
-    const content = JSON.parse(data) as ContentIndexEntry[];
-
-    // Sort by timestamp (descending) before returning
-    const sortedContent = content.sort((a: ContentIndexEntry, b: ContentIndexEntry) => (b.timestamp || 0) - (a.timestamp || 0));
-
-    console.log("API /api/content-index - Top 5 items:");
-    sortedContent.slice(0, 5).forEach((item: ContentIndexEntry, i: number) => {
-      console.log(`${i+1}. ${item.title} - timestamp: ${item.timestamp}`);
-    });
-
-    return NextResponse.json(sortedContent, { status: 200 });
-  } catch (error) {
-    console.error("Error reading content index:", error);
+  if (error || !data || data.length === 0) {
     return NextResponse.json([], { status: 200 });
   }
+
+  const entries: ContentIndexEntry[] = data.map((row: any) => ({
+    title: row.title || "",
+    title_ar: row.title_ar || "",
+    title_en: row.title_en || "",
+    slug: row.slug || `${row.tmdb_id}`,
+    folder: row.folder || "movie",
+    poster: row.poster || "",
+    rating: row.vote_average ?? undefined,
+    year: (row.release_date || "").substring(0, 4) || undefined,
+    type: row.type || row.folder || "movie",
+    tmdb_id: Number(row.tmdb_id),
+    genre_ids: row.genre_ids || [],
+    genres: row.genres?.map((g: any) => typeof g === "string" ? g : g.name).filter(Boolean),
+    timestamp: row.timestamp ?? undefined,
+    fixed: row.fixed ?? false,
+  }));
+
+  return NextResponse.json(entries, { status: 200 });
 }

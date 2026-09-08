@@ -1249,6 +1249,15 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
         json.dump(content_data, f, ensure_ascii=False, indent=2)
     log.info(f"✅ JSON store updated: {json_path}")
 
+    # ── Supabase: Also write to cloud database ─────────────────────────────
+    try:
+        from supabase_helper import content_to_sb_record, sb_upsert_content
+        sb_record = content_to_sb_record(content_data)
+        if sb_upsert_content(sb_record):
+            log.info(f"☁️  Supabase updated: {tmdb_id}")
+    except Exception as e:
+        log.warning(f"⚠️ Supabase write failed (JSON is saved): {e}")
+
     # ── Bing IndexNow Submission ─────────────────────────────────────────────
     try:
         submit_to_bing_indexnow(page_url)

@@ -1,15 +1,34 @@
 #!/usr/bin/env python3
-"""Generate sitemap index and individual category sitemaps from data/content_index.json"""
+"""Generate sitemap index and individual category sitemaps from Supabase (with JSON fallback)"""
 
 import os
 import json
 from datetime import datetime
 
-def generate_sitemaps():
-    base_url = "https://tomit.click"
-    img_base_url = "https://tomit.click" # Images are now served via Next.js directly
+def get_content_index():
+    """Get content index from Supabase (with JSON fallback)."""
+    # Try Supabase first
+    try:
+        from supabase_helper import get_sb
+        sb = get_sb()
+        result = sb.table("content").select("tmdb_id, slug, poster, folder").limit(3000).execute()
+        if result.data:
+            return result.data
+    except Exception as e:
+        print(f"⚠️ Supabase fetch failed: {e}")
+
+    # Fallback to JSON
     root_dir = os.path.dirname(os.path.abspath(__file__))
     index_file = os.path.join(root_dir, 'data', 'content_index.json')
+    if os.path.exists(index_file):
+        with open(index_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return []
+
+def generate_sitemaps():
+    base_url = "https://tomit.click"
+    img_base_url = "https://tomit.click"
+    root_dir = os.path.dirname(os.path.abspath(__file__))
     today = datetime.now().strftime('%Y-%m-%d')
     
     sitemap_index_urls = []
@@ -18,7 +37,6 @@ def generate_sitemaps():
     # 1. Main Root Sitemap (Homepage & Root Pages)
     root_urls = []
     root_urls.append({'loc': f"{base_url}/", 'priority': 1.0, 'freq': 'daily'})
-    # Essential Next.js pages
     root_pages = ['movie', 'tv']
     for p in root_pages:
         root_urls.append({'loc': f"{base_url}/{p}", 'priority': 0.9, 'freq': 'daily'})
@@ -26,11 +44,8 @@ def generate_sitemaps():
     if root_urls:
         sitemap_index_urls.extend(write_split_sitemaps(root_dir, "root", root_urls, base_url, today, MAX_LINKS))
 
-    # Load content index
-    content_index = []
-    if os.path.exists(index_file):
-        with open(index_file, 'r', encoding='utf-8') as f:
-            content_index = json.load(f)
+    # Load content index from Supabase or JSON
+    content_index = get_content_index()
 
     # Separate into movies and tv shows
     movies = [item for item in content_index if item.get('folder') == 'movie']

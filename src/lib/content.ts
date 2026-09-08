@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import { getDataClient } from "./supabase";
 
 /** TMDB genre entry as stored by the Python bot */
 export interface ContentGenre {
@@ -33,7 +32,7 @@ export interface ContentAiData {
 }
 
 /**
- * Shape of `data/content/{tmdb_id}.json` produced by mega_bot.create_page().
+ * Shape of content data from Supabase.
  */
 export interface ContentData {
   id: string | number;
@@ -66,7 +65,7 @@ export interface ContentData {
   imdb_id?: string;
 }
 
-/** Entry in `data/content_index.json` (homepage / sitemap) */
+/** Entry in content index (homepage / sitemap) */
 export interface ContentIndexEntry {
   title: string;
   title_ar?: string;
@@ -85,97 +84,143 @@ export interface ContentIndexEntry {
   fixed?: boolean;
 }
 
-const CONTENT_DIR = path.join(process.cwd(), "data", "content");
-const INDEX_FILE = path.join(process.cwd(), "data", "content_index.json");
+/**
+ * Convert a Supabase content row to ContentData.
+ */
+function rowToContentData(row: any): ContentData {
+  return {
+    id: row.tmdb_id,
+    title: row.title || "",
+    title_ar: row.title_ar || "",
+    title_en: row.title_en || "",
+    slug: row.slug || "",
+    overview: row.overview || "",
+    poster_path: row.poster_path || "",
+    backdrop_path: row.backdrop_path || "",
+    release_date: row.release_date || "",
+    first_air_date: row.first_air_date || "",
+    vote_average: row.vote_average ?? undefined,
+    vote_count: row.vote_count ?? undefined,
+    genres: row.genres || [],
+    ai_content: row.ai_content || {},
+    fixed: row.fixed ?? false,
+    name: row.name || "",
+    poster: row.poster || "",
+    number_of_seasons: row.number_of_seasons ?? undefined,
+    seasons: row.seasons || [],
+    status: row.status || "",
+    number_of_episodes: row.number_of_episodes ?? undefined,
+    section: row.section || "",
+    quality: row.quality || "",
+    duration: row.duration || "",
+    language: row.language || "",
+    country: row.country || "",
+    cast: row.cast_members || row.cast || "",
+    imdb_id: row.imdb_id || "",
+  };
+}
 
 /**
- * Returns up to `limit` similar items from our local database,
- * matched by folder (movie/tv), excluding the current item.
+ * Convert a Supabase content row to ContentIndexEntry.
+ */
+function rowToIndexEntry(row: any): ContentIndexEntry {
+  let genreNames: string[] = [];
+  let genreIds: number[] = [];
+
+  if (row.genres && Array.isArray(row.genres)) {
+    if (typeof row.genres[0] === "string") {
+      genreNames = row.genres;
+    } else {
+      genreNames = row.genres.map((g: any) => g.name).filter(Boolean);
+      genreIds = row.genres.map((g: any) => g.id).filter((id: any) => id != null);
+    }
+  }
+
+  const year = row.year || (row.release_date || "").substring(0, 4) || undefined;
+
+  return {
+    title: row.title || (row.title_ar && row.title_en ? `${row.title_ar} / ${row.title_en}` : row.title_ar || ""),
+    title_ar: row.title_ar || "",
+    title_en: row.title_en || "",
+    slug: row.slug || `${row.tmdb_id}`,
+    folder: row.folder || "movie",
+    poster: row.poster || "",
+    rating: row.vote_average ?? undefined,
+    year,
+    type: row.type || row.folder || "movie",
+    tmdb_id: Number(row.tmdb_id),
+    genre_ids: genreIds.length > 0 ? genreIds : (row.genre_ids || []),
+    genres: genreNames.length > 0 ? genreNames : undefined,
+    timestamp: row.timestamp ?? undefined,
+    fixed: row.fixed ?? false,
+  };
+}
+
+/**
+ * Returns up to `limit` similar items from Supabase.
  * Uses random items from the same type to ensure carousels are always populated.
  */
-export function getLocalSimilar(
+export async function getLocalSimilar(
   currentId: number | string,
   genreIds: number[],
   folder: "movie" | "tv",
   limit = 12
-): ContentIndexEntry[] {
-  try {
-    if (!fs.existsSync(INDEX_FILE)) return [];
-    const raw = fs.readFileSync(INDEX_FILE, "utf-8");
-    const all: ContentIndexEntry[] = JSON.parse(raw);
+): Promise<ContentIndexEntry[]> {
+  const sb = getDataClient();
+  const { data, error } = await sb
+    .from("content")
+    .select("tmdb_id, slug, title, title_ar, title_en, folder, poster, vote_average, release_date, genres, genre_ids, timestamp, fixed")
+    .eq("folder", folder)
+    .neq("tmdb_id", Number(currentId))
+    .limit(500);
 
-    // Filter by folder and exclude current item (no genre filtering to ensure enough items)
-    const filtered = all.filter(
-      (item) =>
-        item.folder === folder &&
-        String(item.tmdb_id) !== String(currentId)
-    );
+  if (error || !data || data.length === 0) return [];
 
-    // Remove duplicates by tmdb_id
-    const uniqueMap = new Map<number, ContentIndexEntry>();
-    for (const item of filtered) {
-      if (!uniqueMap.has(item.tmdb_id)) {
-        uniqueMap.set(item.tmdb_id, item);
-      }
+  const entries = data.map(rowToIndexEntry);
+
+  const uniqueMap = new Map<number, ContentIndexEntry>();
+  for (const item of entries) {
+    if (!uniqueMap.has(item.tmdb_id)) {
+      uniqueMap.set(item.tmdb_id, item);
     }
-    const unique = Array.from(uniqueMap.values());
-
-    // Shuffle for freshness
-    for (let i = unique.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [unique[i], unique[j]] = [unique[j], unique[i]];
-    }
-
-    return unique.slice(0, limit);
-  } catch {
-    return [];
   }
+  const unique = Array.from(uniqueMap.values());
+
+  for (let i = unique.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [unique[i], unique[j]] = [unique[j], unique[i]];
+  }
+
+  return unique.slice(0, limit);
 }
 
 /**
- * Fetches content from local JSON store.
- * This is where the Python bot writes its results.
+ * Fetches content from Supabase.
  */
 export async function getLocalContent(id: string): Promise<ContentData | null> {
-  const filePath = path.join(CONTENT_DIR, `${id}.json`);
+  const sb = getDataClient();
+  const { data, error } = await sb
+    .from("content")
+    .select("*")
+    .eq("tmdb_id", Number(id))
+    .single();
 
-  if (!fs.existsSync(filePath)) {
-    return null;
-  }
-
-  try {
-    const data = fs.readFileSync(filePath, "utf-8");
-    return JSON.parse(data) as ContentData;
-  } catch (error) {
-    console.error(`Error reading local content for ${id}:`, error);
-    return null;
-  }
+  if (error || !data) return null;
+  return rowToContentData(data);
 }
 
 /**
- * Save content to local store.
- * Can be used by API routes if we want to bridge Python and Next.js.
+ * Get all items filtered by type (movie/tv) from Supabase.
  */
-export async function saveLocalContent(id: string, data: ContentData) {
-  if (!fs.existsSync(CONTENT_DIR)) {
-    fs.mkdirSync(CONTENT_DIR, { recursive: true });
-  }
+export async function getContentByType(type: "movie" | "tv"): Promise<ContentIndexEntry[]> {
+  const sb = getDataClient();
+  const { data, error } = await sb
+    .from("content")
+    .select("tmdb_id, slug, title, title_ar, title_en, folder, poster, vote_average, release_date, genres, genre_ids, timestamp, fixed")
+    .eq("folder", type)
+    .order("timestamp", { ascending: false })
+    .limit(3000);
 
-  const filePath = path.join(CONTENT_DIR, `${id}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-}
-
-/**
- * Get all items from content_index.json filtered by type (movie/tv)
- */
-export function getContentByType(type: "movie" | "tv"): ContentIndexEntry[] {
-  try {
-    if (!fs.existsSync(INDEX_FILE)) return [];
-    const raw = fs.readFileSync(INDEX_FILE, "utf-8");
-    const all: ContentIndexEntry[] = JSON.parse(raw);
-
-    return all.filter((item) => item.folder === type);
-  } catch {
-    return [];
-  }
+  if (error || !data || data.length === 0) return [];
+  return data.map(rowToIndexEntry);
 }
