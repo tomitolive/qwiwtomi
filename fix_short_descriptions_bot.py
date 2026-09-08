@@ -38,7 +38,27 @@ except ImportError:
 
 
 def load_content_index():
-    """تحميل الفهرس + استخراج IDs الموجودة."""
+    """تحميل الفهرس + استخراج IDs الموجودة من Supabase."""
+    try:
+        from supabase import create_client
+        supabase_url = os.getenv("NEXT_PUBLIC_SUPABASE_URL") or os.getenv("SUPABASE_URL")
+        supabase_key = os.getenv("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
+        
+        if supabase_url and supabase_key:
+            sb = create_client(supabase_url, supabase_key)
+            result = sb.table("content").select("tmdb_id", "folder").execute()
+            seen = set()
+            for item in result.data:
+                tid = str(item.get('tmdb_id', ''))
+                m_type = item.get('folder', 'movie')
+                if tid:
+                    seen.add(f"{m_type}-{tid}")
+            log.info(f"📊 Loaded {len(seen)} IDs from Supabase")
+            return [], seen
+    except Exception as e:
+        log.warning(f"⚠️ Supabase error, falling back to JSON: {e}")
+    
+    # Fallback to JSON
     if os.path.exists(INDEX_FILE):
         try:
             with open(INDEX_FILE, 'r', encoding='utf-8') as f:
@@ -56,7 +76,20 @@ def load_content_index():
 
 
 def check_page_exists(tmdb_id):
-    """التحقق من وجود الصفحة في data/content/."""
+    """التحقق من وجود الصفحة في Supabase."""
+    try:
+        from supabase import create_client
+        supabase_url = os.getenv("NEXT_PUBLIC_SUPABASE_URL") or os.getenv("SUPABASE_URL")
+        supabase_key = os.getenv("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
+        
+        if supabase_url and supabase_key:
+            sb = create_client(supabase_url, supabase_key)
+            result = sb.table("content").select("tmdb_id").eq("tmdb_id", tmdb_id).execute()
+            return len(result.data) > 0
+    except Exception as e:
+        log.warning(f"⚠️ Supabase check failed, falling back to JSON: {e}")
+    
+    # Fallback to JSON
     json_path = os.path.join(CONTENT_DIR, f"{tmdb_id}.json")
     return os.path.exists(json_path)
 

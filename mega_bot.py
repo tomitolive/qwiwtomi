@@ -100,6 +100,24 @@ def get_available_ids():
         return _AVAILABLE_IDS
     
     _AVAILABLE_IDS = set()
+    try:
+        from supabase import create_client
+        supabase_url = os.getenv("NEXT_PUBLIC_SUPABASE_URL") or os.getenv("SUPABASE_URL")
+        supabase_key = os.getenv("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
+        
+        if supabase_url and supabase_key:
+            sb = create_client(supabase_url, supabase_key)
+            result = sb.table("content").select("tmdb_id").execute()
+            for item in result.data:
+                tid = item.get("tmdb_id")
+                if tid:
+                    _AVAILABLE_IDS.add(int(tid))
+            log.info(f"📊 Loaded {len(_AVAILABLE_IDS)} IDs from Supabase")
+            return _AVAILABLE_IDS
+    except Exception as e:
+        log.warning(f"⚠️ Supabase error, falling back to JSON: {e}")
+    
+    # Fallback to JSON
     path = os.path.join(BASE_PATH, 'data', 'content_index.json')
     if os.path.exists(path):
         try:
@@ -112,6 +130,65 @@ def get_available_ids():
         except Exception:
             pass
     return _AVAILABLE_IDS
+
+
+def save_to_supabase(content_data):
+    """Save content data to Supabase."""
+    try:
+        from supabase import create_client
+        supabase_url = os.getenv("NEXT_PUBLIC_SUPABASE_URL") or os.getenv("SUPABASE_URL")
+        supabase_key = os.getenv("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
+        
+        if not supabase_url or not supabase_key:
+            log.warning("⚠️ Supabase not configured, skipping save")
+            return False
+        
+        sb = create_client(supabase_url, supabase_key)
+        
+        # Normalize data for Supabase
+        record = {
+            "tmdb_id": content_data.get("id"),
+            "slug": content_data.get("slug"),
+            "title": content_data.get("title"),
+            "title_ar": content_data.get("title_ar"),
+            "title_en": content_data.get("title_en"),
+            "type": content_data.get("type", "movie"),
+            "folder": content_data.get("folder", "movie"),
+            "poster": content_data.get("poster"),
+            "poster_path": content_data.get("poster_path"),
+            "backdrop_path": content_data.get("backdrop_path"),
+            "release_date": content_data.get("release_date"),
+            "first_air_date": content_data.get("first_air_date"),
+            "vote_average": content_data.get("vote_average"),
+            "vote_count": content_data.get("vote_count"),
+            "genres": content_data.get("genres", []),
+            "genre_ids": content_data.get("genre_ids", []),
+            "ai_content": content_data.get("ai_content", {}),
+            "overview": content_data.get("overview"),
+            "overview_en": content_data.get("overview_en"),
+            "section": content_data.get("section"),
+            "quality": content_data.get("quality"),
+            "duration": content_data.get("duration"),
+            "language": content_data.get("language"),
+            "country": content_data.get("country"),
+            "cast_members": content_data.get("cast"),
+            "imdb_id": content_data.get("imdb_id"),
+            "status": content_data.get("status"),
+            "number_of_seasons": content_data.get("number_of_seasons"),
+            "seasons": content_data.get("seasons", []),
+            "number_of_episodes": content_data.get("number_of_episodes"),
+            "timestamp": content_data.get("timestamp", int(time.time())),
+            "fixed": content_data.get("fixed", False),
+            "name": content_data.get("name"),
+            "media_type": content_data.get("media_type"),
+        }
+        
+        sb.table("content").upsert(record).execute()
+        log.info(f"✅ Saved to Supabase: {content_data.get('title_ar')}")
+        return True
+    except Exception as e:
+        log.error(f"❌ Failed to save to Supabase: {e}")
+        return False
 
 # SEO keyword banks
 SEO_AR = [
@@ -1248,6 +1325,9 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(content_data, f, ensure_ascii=False, indent=2)
     log.info(f"✅ JSON store updated: {json_path}")
+    
+    # Save to Supabase
+    save_to_supabase(content_data)
 
     # ── Bing IndexNow Submission ─────────────────────────────────────────────
     try:

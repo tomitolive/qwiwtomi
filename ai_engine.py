@@ -869,19 +869,49 @@ def fetch_random_high_rated(media_type, tmdb_api_key=TMDB_API_KEY, available_ids
 
 
 def get_available_ids():
-    """Get set of available tmdb_ids from local content."""
+    """Get set of available tmdb_ids from Supabase."""
     available_ids = set()
-    index_path = os.path.join(os.path.dirname(__file__), 'data', 'content_index.json')
-    if os.path.exists(index_path):
-        try:
-            with open(index_path, 'r', encoding='utf-8') as f:
-                index_data = json.load(f)
-                for item in index_data:
-                    tid = item.get('tmdb_id')
-                    if tid:
-                        available_ids.add(int(tid))
-        except Exception:
-            pass
+    try:
+        from supabase import create_client
+        supabase_url = os.getenv("NEXT_PUBLIC_SUPABASE_URL") or os.getenv("SUPABASE_URL")
+        supabase_key = os.getenv("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
+        
+        if supabase_url and supabase_key:
+            sb = create_client(supabase_url, supabase_key)
+            result = sb.table("content").select("tmdb_id").execute()
+            for item in result.data:
+                tid = item.get("tmdb_id")
+                if tid:
+                    available_ids.add(int(tid))
+            log.info(f"📊 Loaded {len(available_ids)} IDs from Supabase")
+        else:
+            # Fallback to JSON if Supabase not configured
+            log.warning("⚠️ Supabase not configured, falling back to JSON")
+            index_path = os.path.join(os.path.dirname(__file__), 'data', 'content_index.json')
+            if os.path.exists(index_path):
+                try:
+                    with open(index_path, 'r', encoding='utf-8') as f:
+                        index_data = json.load(f)
+                        for item in index_data:
+                            tid = item.get('tmdb_id')
+                            if tid:
+                                available_ids.add(int(tid))
+                except Exception:
+                    pass
+    except Exception as e:
+        log.error(f"❌ Error loading IDs from Supabase: {e}")
+        # Fallback to JSON
+        index_path = os.path.join(os.path.dirname(__file__), 'data', 'content_index.json')
+        if os.path.exists(index_path):
+            try:
+                with open(index_path, 'r', encoding='utf-8') as f:
+                    index_data = json.load(f)
+                    for item in index_data:
+                        tid = item.get('tmdb_id')
+                        if tid:
+                            available_ids.add(int(tid))
+            except Exception:
+                pass
     return available_ids
 
 
