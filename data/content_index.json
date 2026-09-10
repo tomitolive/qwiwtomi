@@ -62655,56 +62655,6 @@
     "timestamp": 1788746578
   },
   {
-    "title": "One Night Only / One Night Only",
-    "title_ar": "One Night Only",
-    "title_en": "One Night Only",
-    "slug": "1433367-one-night-only",
-    "folder": "movie",
-    "poster": "/t/p/w500/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg",
-    "rating": 7.1,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1433367,
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "genres": [
-      "كوميديا",
-      "رومنسية"
-    ],
-    "timestamp": 1788918255,
-    "fixed": true
-  },
-  {
-    "title": "Clash of the Thundermans / Clash of the Thundermans",
-    "title_ar": "Clash of the Thundermans",
-    "title_en": "Clash of the Thundermans",
-    "slug": "1506560-clash-of-the-thundermans",
-    "folder": "movie",
-    "poster": "/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-    "rating": 7.1,
-    "year": "2026",
-    "type": "movie",
-    "tmdb_id": 1506560,
-    "genre_ids": [
-      10770,
-      10751,
-      878,
-      28,
-      35
-    ],
-    "genres": [
-      "فيلم تلفازي",
-      "عائلي",
-      "خيال علمي",
-      "حركة",
-      "كوميديا"
-    ],
-    "timestamp": 1788918292,
-    "fixed": true
-  },
-  {
     "title": "Fauda / Fauda",
     "title_ar": "Fauda",
     "title_en": "Fauda",
