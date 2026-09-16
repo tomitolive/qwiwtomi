@@ -1,0 +1,56 @@
+name: 'OmniRoute Gateway'
+description: >-
+  تثبيت وتشغيل OmniRoute على 127.0.0.1:20128 (loopback) داخل نفس Job ديال
+  GitHub Actions — بدون أي سيرفر خارجي.
+
+inputs:
+  openrouter-api-key:
+    description: 'OpenRouter API key مرسل لـ OmniRoute (اختياري — بدونه يخدم الـ free tier)'
+    required: false
+    default: ''
+  storage-encryption-key:
+    description: 'مفتاح تشفير التخزين للـ OmniRoute (اختياري)'
+    required: false
+    default: ''
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+
+    - name: Install OmniRoute (bundled in repo)
+      shell: bash
+      run: |
+        cd omniroute-gateway
+        npm ci --no-audit --no-fund
+
+    - name: Start OmniRoute gateway (loopback background)
+      shell: bash
+      run: |
+        cd omniroute-gateway
+        export OPENROUTER_API_KEY="${{ inputs.openrouter-api-key }}"
+        export STORAGE_ENCRYPTION_KEY="${STORAGE_ENCRYPTION_KEY:-${{ inputs.storage-encryption-key }}}"
+        export OMNIROUTE_SERVER_HOST=127.0.0.1
+        export PORT=20128
+        export REQUIRE_API_KEY=false
+        export NODE_ENV=production
+        nohup ./node_modules/.bin/omniroute > /tmp/omniroute.log 2>&1 &
+        echo "OmniRoute PID: $!"
+        sleep 3
+
+    - name: Wait for OmniRoute to become ready
+      shell: bash
+      run: |
+        for i in $(seq 1 60); do
+          if code=$(curl -s -m 3 -o /dev/null -w '%{http_code}' http://127.0.0.1:20128/v1/models 2>/dev/null); then
+            if [ -n "$code" ] && [ "$code" != "000" ]; then
+              echo "✅ OmniRoute ready (HTTP $code) after ${i} attempts"
+              break
+            fi
+          fi
+          sleep 2
+        done
+        tail -n 25 /tmp/omniroute.log || true

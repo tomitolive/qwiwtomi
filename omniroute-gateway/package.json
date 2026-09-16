@@ -1,0 +1,15 @@
+{
+  "name": "omniroute-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OmniRoute AI gateway bundled in-repo — runs on the SAME machine as the bot (local PC or GitHub Actions runner). No external server needed.",
+  "scripts": {
+    "start": "omniroute"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "omniroute": "3.8.50"
+  }
+}

@@ -38,12 +38,16 @@ jobs:
             pip install requests pytrends openai googletrans==4.0.0rc1
           fi
 
+      - name: Start OmniRoute gateway (bundled in repo → 127.0.0.1:20128)
+        uses: ./omniroute-gateway
+        with:
+          openrouter-api-key: ${{ secrets.OPENROUTER_API_KEY }}
+          storage-encryption-key: ${{ secrets.STORAGE_ENCRYPTION_KEY }}
+
       - name: Run Fix Short Descriptions Bot
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          NVIDIA_API_KEY_1: ${{ secrets.NVIDIA_API_KEY }}
-          NVIDIA_API_KEY_2: ${{ secrets.NVIDIA_API_KEY }}
-          NVIDIA_API_KEY_3: ${{ secrets.NVIDIA_API_KEY }}
+          OMNIROUTE_URL: http://127.0.0.1:20128/v1/chat/completions
+          OMNIROUTE_MODEL: ${{ secrets.OMNIROUTE_MODEL }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 fix_short_descriptions_bot.py
 

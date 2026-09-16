@@ -1,22 +1,36 @@
-name: Trending Bot
+# OmniRoute Bot — Mixed-Content Pipeline
+# ==============================================
+# يشغّل run_bot_with_mixed_content.py على GitHub Actions مجاناً، مع OmniRoute
+# منصّب من نفس repo (omniroute-gateway) كخلفية على 127.0.0.1:20128.
+# لا يحتاج سيرفراً خارجياً إطلاقاً. 🖥️ PC طافي 🚀
+name: OmniRoute Mixed-Content Bot
 
 on:
-  # schedule:
-  #   - cron: '0 */3 * * *'  # Every 3 hours
-  # workflow_dispatch:
+  schedule:
+    # اضبط الجدول كما تشاء (يُستخدم توقيت UTC)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # تشغيل يدوي من تبويب Actions
+    inputs:
+      dry_run:
+        description: 'معاينة فقط (توليد + عرض، بدون كتابة أي ملف / بدون push)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: omniroute-bot
+  cancel-in-progress: false
+
 jobs:
-  trending-bot:
+  bot:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -24,7 +38,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests googletrans==4.0.0-rc1 google-auth google-auth-httplib2 google-api-python-client pytrends lxml
@@ -40,15 +54,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Run Trending Bot
+      - name: Run Mixed-Content Bot (all AI via OmniRoute)
         env:
           OMNIROUTE_URL: http://127.0.0.1:20128/v1/chat/completions
           OMNIROUTE_MODEL: ${{ secrets.OMNIROUTE_MODEL }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           BING_API_KEY: ${{ secrets.BING_API_KEY }}
           GCP_INDEXING_KEY: ${{ secrets.GCP_INDEXING_KEY }}
+          BOT_DRY_RUN: ${{ (inputs.dry_run == 'true') && '1' || '0' }}
         run: |
-          python fix_short_descriptions_bot.py
+          python run_bot_with_mixed_content.py
 
       - name: Commit and push changes
         run: |
@@ -56,5 +71,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Auto-update: Trending content $(date '+%Y-%m-%d %H:%M')"
+            git commit -m "🤖 Auto-update: OmniRoute mixed-content $(date '+%Y-%m-%d %H:%M')"
             git push
+          fi

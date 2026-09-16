@@ -21,7 +21,11 @@ BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(BASE_PATH, 'data', 'content')
 INDEX_FILE = os.path.join(BASE_PATH, 'data', 'content_index.json')
 SITE_URL = 'https://tomit.click'
-BATCH_SIZE = 10
+# حجم الدفعة قابل للتجاوز عبر البيئة (مثال: BATCH_SIZE=2 لتجربة صغيرة)
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', '10') or '10')
+
+# وضع المعاينة (dry-run): يعرض ما سيتم توليده WITHOUT كتابة أي ملف — يحمي صفحات التحميل الحقيقية.
+DRY_RUN = os.environ.get('BOT_DRY_RUN', '').strip().lower() in ('1', 'true', 'yes')
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 log = logging.getLogger(__name__)
@@ -291,6 +295,90 @@ def check_page_exists(tmdb_id):
     return os.path.exists(json_path)
 
 
+def preview_item(item):
+    """معاينة (dry-run) — بلا أي كتابة على القرص:
+    يجلب التفاصيل من TMDB، يولّد المحتوى عبر OmniRoute، ويعرضه فقط.
+    لا يكتب في data/content، لا يحدّث الفهرس، لا يعيد البناء، لا يدفع.
+    """
+    from mega_bot import clean_strict, clean_slug
+    from ai_engine import get_rising_seo_tags
+
+    tmdb_id = str(item.get('tmdb_id', ''))
+    media_type = item.get('folder', 'movie')
+    log.info(f"   🔍 Fetching TMDB details...")
+
+    details = fetch_details(tmdb_id, media_type, bypass_adult_check=True)
+    if not details:
+        log.warning("   ❌ TMDB fetch failed — skipped in preview")
+        return None
+
+    ar, en, credits = details.get('ar'), details.get('en'), details.get('credits') or {}
+    data = ar or en or {}
+
+    title_ar = clean_strict((ar or {}).get('title') or (ar or {}).get('name') or '') if ar else ''
+    title_en = clean_strict((en or {}).get('title') or (en or {}).get('name') or '') if en else ''
+    if not title_ar:
+        title_ar = title_en
+    if not title_en:
+        title_en = title_ar
+
+    year = (data.get('release_date') or data.get('first_air_date') or '2026')[:4]
+    genres_ar = [g.get('name', '') for g in (data.get('genres') or [])]
+    overview_ar = (ar or {}).get('overview', '')
+    overview_en = (en or {}).get('overview', '')
+    cast_names = [c.get('name', '') for c in (credits.get('cast') or [])][:5]
+    main_actor = cast_names[0] if cast_names else None
+    platform = None
+    if media_type == 'tv' and data.get('networks'):
+        platform = data['networks'][0].get('name')
+    elif media_type == 'movie' and data.get('production_companies'):
+        platform = data['production_companies'][0].get('name')
+    is_arabic_content = (data.get('original_language') == 'ar')
+
+    # نفس سلسلة التوليد المستعملة في create_page — كلها عبر OmniRoute
+    tri = generate_bilingual_description(
+        title_ar, title_en, overview_ar, overview_en, year, genres_ar, media_type,
+        actor=main_actor, platform=platform, is_arabic_content=is_arabic_content,
+    )
+    if not tri:
+        tri = {}
+
+    meta_data = tri if tri.get('meta_desc') else generate_meta_tags(title_ar, title_en, year, genres_ar, media_type)
+    opinion_ar = tri.get('opinion_ar') or generate_tomito_opinion(title_ar, title_en, year, media_type, ai_data=tri)
+    opinion_en = tri.get('opinion_en') or generate_tomito_opinion(title_ar, title_en, year, media_type, ai_data=tri)
+    faq = generate_faq(title_ar, title_en, year, media_type, ai_data=tri)
+    intro = tri.get('intro') or ''
+    outro = tri.get('outro') or ''
+    keywords = tri.get('keywords') or get_rising_seo_tags(
+        title_ar, media_type, year, genres_ar, main_actor, platform,
+        is_arabic_content=is_arabic_content,
+    )
+
+    return {
+        'tmdb_id': tmdb_id,
+        'media_type': media_type,
+        'slug': f"{tmdb_id}-{clean_slug(title_en) if clean_slug(title_en) else media_type}",
+        'title_ar': title_ar,
+        'title_en': title_en,
+        'year': year,
+        'genres_ar': genres_ar,
+        'poster_path': data.get('poster_path'),
+        'watch_url': '#player' if media_type == 'movie' else f"{SITE_URL}/tv/{tmdb_id}/watch?season=1&episode=1",
+        'ai_content': {
+            'desc_ar': tri.get('desc_ar', ''),
+            'desc_en': tri.get('desc_en', ''),
+            'meta_desc': meta_data.get('meta_desc', ''),
+            'seo_title_ar': tri.get('seo_title_ar') or meta_data.get('seo_title_ar', ''),
+            'opinion_ar': opinion_ar or '',
+            'opinion_en': opinion_en or '',
+            'intro': intro,
+            'outro': outro,
+            'faq': faq or [],
+            'keywords': keywords or '',
+        },
+    }
+
+
 def main():
     log.info("🚀 Starting Trending Bot (Complete Pages)...")
     log.info("=" * 60)
@@ -373,6 +461,23 @@ def main():
     batch = new_items[:BATCH_SIZE]
     log.info(f"📋 Processing batch of {len(batch)} pages")
 
+    # ── وضع المعاينة (dry-run): معاينة فقط — لا يُكتب ولا يُبنى ولا يُدفع ▸▸▸
+    if DRY_RUN:
+        log.info("🧪 وضع المعاينة (BOT_DRY_RUN=1): لن يُكتب أي ملف محتوى، لن يتغير الفهرس، لن تتم أي إعادة بناء ولا push.")
+        for i, item in enumerate(batch):
+            tmdb_id = str(item.get('tmdb_id', ''))
+            media_type = item.get('folder', 'movie')
+            title = item.get('title') or 'Unknown'
+            log.info(f"[{i+1}/{len(batch)}] 📥 {media_type.upper()} ID: {tmdb_id} - {title}")
+            preview = preview_item(item)
+            if preview:
+                print(json.dumps(preview, ensure_ascii=False, indent=2))
+        log.info("=" * 60)
+        log.info("✅ انتهت المعاينة — لم يُكتب أي شيء، صفحات التحميل لم تُمَسّ.")
+        log.info("=" * 60)
+        return
+    # ── نهاية وضع المعاينة ▸▸▸
+
     created = 0
     for i, item in enumerate(batch):
         tmdb_id = str(item.get('tmdb_id', ''))
@@ -450,11 +555,14 @@ def main():
             log.warning(f"Sitemap warning: {e}")
 
         git_sync = os.path.join(BASE_PATH, 'git_sync.sh')
-        if os.path.exists(git_sync):
+        skip_push = os.environ.get('BOT_SKIP_PUSH', '').strip().lower() in ('1', 'true', 'yes')
+        if os.path.exists(git_sync) and not skip_push:
             try:
                 subprocess.run(['bash', git_sync], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             except Exception:
                 pass
+        elif skip_push:
+            log.info("🚫 BOT_SKIP_PUSH=1 — تم تخطي git_sync.sh (لا commit ولا push).")
 
     log.info("\n" + "=" * 60)
     log.info("✅ Trending Bot run complete!")

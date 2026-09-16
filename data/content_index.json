@@ -62653,5 +62653,27 @@
     ],
     "section": "أفلام أجنبية",
     "timestamp": 1788746578
+  },
+  {
+    "title": "النمس / The Mongoose",
+    "title_ar": "النمس",
+    "title_en": "The Mongoose",
+    "slug": "1294189-the-mongoose",
+    "folder": "movie",
+    "poster": "/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "rating": 7.0,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1294189,
+    "genre_ids": [
+      28,
+      53
+    ],
+    "genres": [
+      "حركة",
+      "إثارة"
+    ],
+    "timestamp": 1789595753,
+    "fixed": true
   }
 ]

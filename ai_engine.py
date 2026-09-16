@@ -505,43 +505,26 @@ BOT_MISSIONS = [
     }
 ]
 
-# Multi-Provider AI Models Configuration (Gemini + OpenAI + NVIDIA NIM Rotation)
-# API keys loaded from environment variables
-NVIDIA_NIM_KEY_1 = os.getenv("NVIDIA_NIM_KEY_1")
-NVIDIA_NIM_KEY_2 = os.getenv("NVIDIA_NIM_KEY_2")
-NVIDIA_NIM_KEY_3 = os.getenv("NVIDIA_NIM_KEY_3")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# ─────────────────────────────────────────────────────────────────────────────
+# AI Gateway: OmniRoute (single entry point)
+# ─────────────────────────────────────────────────────────────────────────────
+# كل طلبات الذكاء الاصطناعي كتمشي عبر OmniRoute — متضوّر ضمن repo وكيخدم على
+# نفس الجهاز (محلياً أو على GitHub Actions runner). موديل "auto" = zero-config
+# smart routing: كيستعمل المتوفر من المزودين المتصلين، وكيرجع لـ free tier
+# حتى بدون مفاتيح. التخصيص عبر متغيرات البيئة:
+#   OMNIROUTE_URL   (افتراضياً http://127.0.0.1:20128/v1/chat/completions)
+#   OMNIROUTE_MODEL (افتراضياً "auto")
+#   OMNIROUTE_API_KEY (اختياري — يلزم فقط إذا REQUIRE_API_KEY=true في السيرفر)
+OMNIROUTE_URL = os.getenv("OMNIROUTE_URL", "http://127.0.0.1:20128/v1/chat/completions")
+OMNIROUTE_MODEL = (os.getenv("OMNIROUTE_MODEL") or "auto").strip()
+OMNIROUTE_API_KEY = (os.getenv("OMNIROUTE_API_KEY") or "").strip()
 
 AI_MODELS = [
     {
-        "name": "Gemini 3.6 Flash",
-        "url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-        "model_id": "gemini-3.6-flash",
-        "api_key": GEMINI_API_KEY
-    },
-    {
-        "name": "OpenAI (GPT-3.5)",
-        "url": "https://api.openai.com/v1/chat/completions",
-        "model_id": "gpt-3.5-turbo",
-        "api_key": OPENAI_API_KEY
-    },
-    {
-        "name": "NVIDIA NIM Key 1 (Llama 3.1)",
-        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
-        "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": NVIDIA_NIM_KEY_1
-    },
-    {
-        "name": "NVIDIA NIM Key 2 (Llama 3.1)",
-        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
-        "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": NVIDIA_NIM_KEY_2
-    },
-    {
-        "name": "NVIDIA NIM Key 3 (Llama 3.1)",
-        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
-        "model_id": "meta/llama-3.1-8b-instruct",
-        "api_key": NVIDIA_NIM_KEY_3
+        "name": "OmniRoute",
+        "url": OMNIROUTE_URL,
+        "model_id": OMNIROUTE_MODEL,
+        "api_key": OMNIROUTE_API_KEY
     }
 ]
 
@@ -570,7 +553,7 @@ def _call_openai_llm(system_msg, user_msg, max_retries=6):
                 "temperature": 0.7
             }
 
-            response = requests.post(model_config["url"], headers=headers, json=payload, timeout=25)
+            response = requests.post(model_config["url"], headers=headers, json=payload, timeout=120)
             
             if response.status_code == 200:
                 data = response.json()
