@@ -62675,5 +62675,111 @@
     ],
     "timestamp": 1789595753,
     "fixed": true
+  },
+  {
+    "title": "حين اقتربنا / Drawn Together",
+    "title_ar": "حين اقتربنا",
+    "title_en": "Drawn Together",
+    "slug": "1440098-drawn-together",
+    "folder": "movie",
+    "poster": "/t/p/w500/taIy3i54Jd6oQEA3UIZrmfzndM8.jpg",
+    "rating": 6.6,
+    "year": "2026",
+    "type": "movie",
+    "tmdb_id": 1440098,
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "genres": [
+      "رومنسية",
+      "إثارة"
+    ],
+    "timestamp": 1789596510,
+    "fixed": true
+  },
+  {
+    "title": "Cavegirl / Cavegirl",
+    "title_ar": "Cavegirl",
+    "title_en": "Cavegirl",
+    "slug": "30723-cavegirl",
+    "folder": "movie",
+    "poster": "/t/p/w500/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
+    "rating": 4.0,
+    "year": "1985",
+    "type": "movie",
+    "tmdb_id": 30723,
+    "genre_ids": [
+      35
+    ],
+    "genres": [
+      "كوميديا"
+    ],
+    "timestamp": 1789596635,
+    "fixed": true
+  },
+  {
+    "title": "Radio Star / Radio Star",
+    "title_ar": "Radio Star",
+    "title_en": "Radio Star",
+    "slug": "65270-radio-star",
+    "folder": "tv",
+    "poster": "/t/p/w500/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+    "rating": 5.5,
+    "year": "2007",
+    "type": "tv",
+    "tmdb_id": 65270,
+    "genre_ids": [
+      10767
+    ],
+    "genres": [
+      "حوار"
+    ],
+    "timestamp": 1789596725,
+    "fixed": true
+  },
+  {
+    "title": "My Dearest / My Dearest",
+    "title_ar": "My Dearest",
+    "title_en": "My Dearest",
+    "slug": "206693-my-dearest",
+    "folder": "tv",
+    "poster": "/t/p/w500/rrPCrCRyjdQ8igXIVNcIuL5KcIA.jpg",
+    "rating": 8.3,
+    "year": "2023",
+    "type": "tv",
+    "tmdb_id": 206693,
+    "genre_ids": [
+      18,
+      10768,
+      9648
+    ],
+    "genres": [
+      "دراما",
+      "حرب وسياسة",
+      "غموض"
+    ],
+    "timestamp": 1789596808,
+    "fixed": true
+  },
+  {
+    "title": "House Rules / House Rules",
+    "title_ar": "House Rules",
+    "title_en": "House Rules",
+    "slug": "49847-house-rules",
+    "folder": "tv",
+    "poster": "/t/p/w500/JTzASS9kdvmeIPZgK27dl6DdQw.jpg",
+    "rating": 7.2,
+    "year": "2013",
+    "type": "tv",
+    "tmdb_id": 49847,
+    "genre_ids": [
+      10764
+    ],
+    "genres": [
+      "واقع"
+    ],
+    "timestamp": 1789596904,
+    "fixed": true
   }
 ]

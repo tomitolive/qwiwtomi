@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomit.click/movie/431937-mr-mme-adelman</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/eElm9ZjbKy7JOeiz3GxrTK6mJss.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tomit.click/movie/432279-melancoly-baby</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/uArNywm0DsF9pts3v8QXS9iZ5Yy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/movie/436969-the-suicide-squad</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomit.click/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/movie/756999-the-black-phone</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/movie/75780-jack-reacher</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

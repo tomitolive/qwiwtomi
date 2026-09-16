@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomit.click/movie/187017-22-jump-street</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/850chzYHYbT3IISl6Q7dbBuFP2B.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/movie/18764-twin-dragons</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1477,6 +1486,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomit.click/movie/30723-cavegirl</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/kONbgktPKsm3EMj3MiES0IP8BRr.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/movie/30801-son-of-paleface</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2680,24 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomit.click/t/p/w500/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/movie/431937-mr-mme-adelman</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/eElm9ZjbKy7JOeiz3GxrTK6mJss.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/movie/432279-melancoly-baby</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/uArNywm0DsF9pts3v8QXS9iZ5Yy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

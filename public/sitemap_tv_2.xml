@@ -208,6 +208,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomit.click/tv/206693-my-dearest</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/rrPCrCRyjdQ8igXIVNcIuL5KcIA.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/tv/207333-one-hundred-years-of-solitude</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomit.click/t/p/w500/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/tv/286345-though-i-am-an-inept-villainess</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

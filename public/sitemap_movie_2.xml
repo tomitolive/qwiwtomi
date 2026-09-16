@@ -1099,6 +1099,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tomit.click/movie/1440098-drawn-together</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/taIy3i54Jd6oQEA3UIZrmfzndM8.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/movie/1440304-mauvaise-pioche</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomit.click/t/p/w500/i66G50wATMmPrvpP95f0XP6ZdVS.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/movie/187017-22-jump-street</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/850chzYHYbT3IISl6Q7dbBuFP2B.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

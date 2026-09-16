@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://tomit.click/tv/286345-though-i-am-an-inept-villainess</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tomit.click/t/p/w500/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tomit.click/tv/286360-notes-from-the-last-row</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -2689,15 +2698,6 @@
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://tomit.click/t/p/w500/jfFNydakwvbeACEwSd2Gh8UWtba.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tomit.click/tv/45790-jojos-bizarre-adventure</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://tomit.click/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
