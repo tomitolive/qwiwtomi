@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   
   // Optimize images
   images: {
+    unoptimized: true, // Disable optimization for local images in /t/p/
     remotePatterns: [
       {
         protocol: "https",
