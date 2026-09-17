@@ -973,7 +973,7 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
             except Exception as e:
                 log.warning(f"Could not read existing JSON for {tmdb_id}: {e}")
     
-    poster_path = data.get('poster_path') or (en.get('poster_path') if en else None) or (ar.get('poster_path') if ar else None)
+    poster_path = (en.get('poster_path') if en else None) or data.get('poster_path') or (ar.get('poster_path') if ar else None)
     # Use existing poster path if skip_images=True and it exists
     if skip_images and existing_poster_path:
         poster_path = existing_poster_path
@@ -1005,7 +1005,7 @@ def create_page(item_data, media_type, is_trend=False, force=False, skip_images=
             # Fallback to direct TMDB if mirror fails
             poster_url = f"https://image.tmdb.org/t/p/w500{poster_path}"
 
-    backdrop_path = data.get('backdrop_path')
+    backdrop_path = (en.get('backdrop_path') if en else None) or data.get('backdrop_path') or (ar.get('backdrop_path') if ar else None)
     # Use existing backdrop path if skip_images=True and it exists
     if skip_images and existing_backdrop_path:
         backdrop_path = existing_backdrop_path
