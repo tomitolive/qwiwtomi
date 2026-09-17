@@ -424,6 +424,20 @@ def clean_slug(text):
     res = re.sub(r'[-\s_]+', '-', res)
     return res
 
+def get_tmdb_headers():
+    """Returns realistic headers to bypass Cloudflare/402 errors."""
+    return {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9,ar;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Referer': 'https://www.themoviedb.org/',
+        'Connection': 'keep-alive',
+        'Sec-Fetch-Dest': 'image',
+        'Sec-Fetch-Mode': 'no-cors',
+        'Sec-Fetch-Site': 'same-site',
+    }
+
 def is_valid_local_image(path, min_bytes=100):
     if not os.path.exists(path) or os.path.getsize(path) < min_bytes:
         return False
@@ -453,7 +467,7 @@ def _write_image_bytes(local_path, content):
     return True
 
 def download_tmdb_image(tmdb_poster_path):
-    """Downloads poster from TMDB to local t/p/w500 folder."""
+    """Downloads poster from TMDB to local t/p/w500 folder with retry logic."""
     if not tmdb_poster_path: return None
     filename = tmdb_poster_path.lstrip('/')
     local_dir = os.path.join(BASE_PATH, 'public', 't', 'p', 'w500')
@@ -464,18 +478,38 @@ def download_tmdb_image(tmdb_poster_path):
 
     # Actual download URL
     source_url = f"https://image.tmdb.org/t/p/w500/{filename}"
-    try:
-        os.makedirs(local_dir, exist_ok=True)
-        resp = requests.get(source_url, timeout=10)
-        if resp.status_code == 200 and _write_image_bytes(local_path, resp.content):
-            log.info(f"Mirrored asset (poster): {filename}")
-            return filename
-    except Exception as e:
-        log.error(f"Failed to mirror poster asset {filename}: {e}")
+    headers = get_tmdb_headers()
+    
+    for attempt in range(3):
+        try:
+            os.makedirs(local_dir, exist_ok=True)
+            resp = requests.get(source_url, headers=headers, timeout=20)
+            
+            if resp.status_code == 200:
+                if _write_image_bytes(local_path, resp.content):
+                    log.info(f"✅ Mirrored asset (poster): {filename}")
+                    return filename
+                else:
+                    log.warning(f"⚠️ Invalid image content for {filename}")
+            elif resp.status_code in (402, 403, 429):
+                log.warning(f"⚠️ TMDB returned {resp.status_code} for {filename}, retry {attempt + 1}/3")
+                time.sleep(2 ** attempt)
+                continue
+            else:
+                log.error(f"❌ TMDB returned {resp.status_code} for {filename}")
+                break
+        except requests.exceptions.Timeout:
+            log.warning(f"⚠️ Timeout downloading {filename}, retry {attempt + 1}/3")
+            time.sleep(2 ** attempt)
+        except Exception as e:
+            log.error(f"❌ Failed to mirror poster asset {filename}: {e}")
+            break
+    
+    log.error(f"❌ Failed to download poster after retries: {filename}")
     return None
 
 def download_tmdb_backdrop(tmdb_backdrop_path):
-    """Downloads backdrop from TMDB to local t/p/original folder."""
+    """Downloads backdrop from TMDB to local t/p/original folder with retry logic."""
     if not tmdb_backdrop_path: return None
     filename = tmdb_backdrop_path.lstrip('/')
     local_dir = os.path.join(BASE_PATH, 'public', 't', 'p', 'original')
@@ -485,14 +519,34 @@ def download_tmdb_backdrop(tmdb_backdrop_path):
         return filename
 
     source_url = f"https://image.tmdb.org/t/p/original/{filename}"
-    try:
-        os.makedirs(local_dir, exist_ok=True)
-        resp = requests.get(source_url, timeout=15)
-        if resp.status_code == 200 and _write_image_bytes(local_path, resp.content):
-            log.info(f"Mirrored asset (backdrop): {filename}")
-            return filename
-    except Exception as e:
-        log.error(f"Failed to mirror backdrop asset {filename}: {e}")
+    headers = get_tmdb_headers()
+    
+    for attempt in range(3):
+        try:
+            os.makedirs(local_dir, exist_ok=True)
+            resp = requests.get(source_url, headers=headers, timeout=30)
+            
+            if resp.status_code == 200:
+                if _write_image_bytes(local_path, resp.content):
+                    log.info(f"✅ Mirrored asset (backdrop): {filename}")
+                    return filename
+                else:
+                    log.warning(f"⚠️ Invalid image content for {filename}")
+            elif resp.status_code in (402, 403, 429):
+                log.warning(f"⚠️ TMDB returned {resp.status_code} for {filename}, retry {attempt + 1}/3")
+                time.sleep(2 ** attempt)
+                continue
+            else:
+                log.error(f"❌ TMDB returned {resp.status_code} for {filename}")
+                break
+        except requests.exceptions.Timeout:
+            log.warning(f"⚠️ Timeout downloading {filename}, retry {attempt + 1}/3")
+            time.sleep(2 ** attempt)
+        except Exception as e:
+            log.error(f"❌ Failed to mirror backdrop asset {filename}: {e}")
+            break
+    
+    log.error(f"❌ Failed to download backdrop after retries: {filename}")
     return None
 
 def get_tmdb_data(endpoint, params, retries=3):
