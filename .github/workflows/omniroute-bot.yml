@@ -8,7 +8,7 @@ name: OmniRoute Mixed-Content Bot
 on:
   schedule:
     # اضبط الجدول كما تشاء (يُستخدم توقيت UTC)
-    - cron: '0 */3 * * *'
+    - cron: '0 */5 * * *'
   workflow_dispatch: # تشغيل يدوي من تبويب Actions
     inputs:
       dry_run:
