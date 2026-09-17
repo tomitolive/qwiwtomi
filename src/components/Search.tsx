@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import Image from "next/image";
 
 interface ContentIndexEntry {
   title: string;
@@ -160,6 +159,13 @@ export default function Search() {
               : JSON.stringify({ type: 'watch', folder: item.folder, id: item.tmdb_id });
             const encodedNav = btoa(navData);
             
+            // Use regular img for all images to avoid Next.js optimization issues
+            const posterSrc = item.poster 
+              ? (item.isLocal && item.poster?.startsWith('/t/p/') 
+                  ? item.poster 
+                  : `https://image.tmdb.org/t/p/w500${item.poster}`)
+              : "/favicon.ico";
+            
             return (
               <button
                 key={item.tmdb_id}
@@ -170,12 +176,13 @@ export default function Search() {
                 data-nav={encodedNav}
                 style={{ touchAction: 'manipulation' }}
               >
-                <Image
-                  src={item.poster ? `https://image.tmdb.org/t/p/w500${item.poster}` : "/favicon.ico"}
+                <img
+                  src={posterSrc}
                   alt={item.title_ar || item.title || "صورة ملصق"}
                   width={40}
                   height={56}
                   className="w-10 h-14 object-cover rounded shadow"
+                  loading="lazy"
                 />
                 <div className="text-right">
                   <div className="text-sm font-bold text-white truncate max-w-[200px]">{item.title_ar || item.title}</div>

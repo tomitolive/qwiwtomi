@@ -1,5 +1,4 @@
 import { Metadata } from "next";
-import Image from "next/image";
 import dynamic from "next/dynamic";
 import { getDetails } from "@/lib/tmdb";
 import { getLocalContent, getLocalSimilar, ContentGenre, ContentFaqItem } from "@/lib/content";
@@ -13,6 +12,20 @@ import Navbar from "@/components/Navbar";
 import NewAd from "@/components/NewAd";
 import ShareButton from "@/components/ShareButton";
 import ShortLink from "@/components/ShortLink";
+
+// Helper component for local images to avoid Next.js optimization issues
+function LocalImage({ src, alt, className, width, height, priority }: { src: string; alt: string; className?: string; width?: number; height?: number; priority?: boolean }) {
+  return (
+    <img
+      src={src}
+      alt={alt}
+      className={className}
+      width={width}
+      height={height}
+      loading={priority ? "eager" : "lazy"}
+    />
+  );
+}
 
 // Dynamic imports for better code splitting
 const RandomMixCarouselClient = dynamic(() => import("@/components/RandomMixCarouselClient"), {
@@ -187,7 +200,7 @@ export default async function MoviePage({ params }: Props) {
             {/* Left: Poster */}
             {poster && (
               <div className="w-full md:w-[260px] flex-shrink-0 relative order-1">
-                <Image
+                <LocalImage
                   src={poster}
                   alt={displayTitle || "صورة ملصق"}
                   width={260}
@@ -559,7 +572,7 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`suggested-${item.tmdb_id}-${i}`} className="group">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <Image
+                      <LocalImage
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
                         width={120}
@@ -600,7 +613,7 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`latest-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <Image
+                      <LocalImage
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
                         width={120}
@@ -632,7 +645,7 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`viewed-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <Image
+                      <LocalImage
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
                         width={120}
@@ -663,7 +676,7 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`rated-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <Image
+                      <LocalImage
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
                         width={120}
@@ -696,7 +709,7 @@ export default async function MoviePage({ params }: Props) {
                 <div key={`random-${item.tmdb_id}-${i}`} className="flex-shrink-0 w-[120px]">
                   <a href={`/movie/${item.slug}`}>
                     <div className="bg-zinc-800 border border-zinc-700 overflow-hidden">
-                      <Image
+                      <LocalImage
                         src={item.poster?.replace('https://image.tmdb.org/t/p/w500', '/t/p/w500') || `/t/p/w500${item.poster}`}
                         alt={item.title_ar || item.title || "صورة ملصق"}
                         width={120}
